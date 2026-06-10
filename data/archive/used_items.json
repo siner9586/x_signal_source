@@ -1,1 +1,14 @@
-[]
+[
+  {"item_id":"cand_986bfbb82219f1e6","canonical_url":"https://openai.com/news","dedupe_key":"d2a78f692b4f431b","title":"OpenAI 官方新闻与研究入口","issue_date":"2026-06-10","cluster_id":"source_index_d4cd1b00","used_as":"selected"},
+  {"item_id":"cand_abf1c60857b21334","canonical_url":"https://www.anthropic.com/news","dedupe_key":"c98535cc8d7f62ee","title":"Anthropic 新闻与研究入口","issue_date":"2026-06-10","cluster_id":"source_index_d7a8f612","used_as":"selected"},
+  {"item_id":"cand_c1f771ea0a3b0ef3","canonical_url":"https://deepmind.google/discover/blog","dedupe_key":"a2354731a94ba056","title":"Google DeepMind 研究与博客入口","issue_date":"2026-06-10","cluster_id":"source_index_14580615","used_as":"selected"},
+  {"item_id":"cand_2f30e0dc548877df","canonical_url":"https://huggingface.co/papers","dedupe_key":"46fa755f7a649864","title":"Hugging Face Papers 社区论文入口","issue_date":"2026-06-10","cluster_id":"source_index_e2543b70","used_as":"selected"},
+  {"item_id":"cand_9538666ee12bdc77","canonical_url":"https://www.cursor.com","dedupe_key":"667f0493c218af23","title":"Cursor AI Coding 入口","issue_date":"2026-06-10","cluster_id":"source_index_4816a7c2","used_as":"selected"},
+  {"item_id":"cand_091ebda21a1dd4b6","canonical_url":"https://blog.langchain.com","dedupe_key":"c0871db350be50d9","title":"LangChain Agent / RAG 博客入口","issue_date":"2026-06-10","cluster_id":"source_index_1e77d194","used_as":"selected"},
+  {"item_id":"cand_c661799f3702f899","canonical_url":"https://a16z.com/ai","dedupe_key":"55fb1fb0ba729835","title":"a16z AI 投资与趋势入口","issue_date":"2026-06-10","cluster_id":"source_index_7db6d149","used_as":"selected"},
+  {"item_id":"cand_982673a46d4b73b8","canonical_url":"https://www.ycombinator.com/blog","dedupe_key":"d1c360451e1c99ea","title":"YC 创业与 AI 产品入口","issue_date":"2026-06-10","cluster_id":"source_index_c644d9a7","used_as":"selected"},
+  {"item_id":"cand_eb9b8ddfa83a2784","canonical_url":"https://www.latent.space","dedupe_key":"f75217414182bd18","title":"Latent Space AI Engineering 长内容入口","issue_date":"2026-06-10","cluster_id":"source_index_1e81b476","used_as":"selected"},
+  {"item_id":"cand_952b30154b22efe8","canonical_url":"https://paperswithcode.com","dedupe_key":"2828242a2a5173a7","title":"Papers with Code 论文与 benchmark 入口","issue_date":"2026-06-10","cluster_id":"source_index_0dc2c5bc","used_as":"selected"},
+  {"item_id":"cand_ce05c3cc0a3f9f29","canonical_url":"https://techcrunch.com/category/artificial-intelligence","dedupe_key":"7cfd305239f1eac0","title":"TechCrunch AI 媒体入口","issue_date":"2026-06-10","cluster_id":"source_index_fbe6ac40","used_as":"selected"},
+  {"item_id":"cand_47b50940f98a607a","canonical_url":"https://www.deeplearning.ai/the-batch","dedupe_key":"e3aa31fab09cc2ec","title":"The Batch AI 简报入口","issue_date":"2026-06-10","cluster_id":"source_index_0e018751","used_as":"selected"}
+]
