@@ -1,0 +1,58 @@
+---
+import fs from 'node:fs';
+import path from 'node:path';
+import yaml from 'js-yaml';
+import BaseLayout from '../layouts/BaseLayout.astro';
+const dir = 'data/sources';
+const files = fs.existsSync(dir) ? fs.readdirSync(dir).filter((f) => f.endsWith('.yaml')) : [];
+const entries = files.flatMap((file) => {
+  const body = yaml.load(fs.readFileSync(path.join(dir, file), 'utf8')) || [];
+  const arr = Array.isArray(body) ? body : Object.entries(body).flatMap(([key, value]) => Array.isArray(value) ? value.map((x) => ({ name: x, category: key })) : []);
+  return arr.filter(Boolean).map((item) => ({ ...item, source_file: file }));
+});
+const categories = [...new Set(entries.map((e) => e.category || 'uncategorized'))].sort();
+---
+<BaseLayout title="Sources | X Signal Source">
+  <section class="hero shell">
+    <span class="eyebrow">Source Library</span>
+    <h1>信息来源链接库</h1>
+    <p>按 AI 公司、产品、Infra、VC、媒体、播客、研究、社区与 X 公开入口维护。所有来源只作为公开索引和增量发现入口。</p>
+    <div class="stats">
+      <div class="stat"><b>{entries.length}</b><span>Sources</span></div>
+      <div class="stat"><b>{categories.length}</b><span>Categories</span></div>
+      <div class="stat"><b>{files.length}</b><span>Source files</span></div>
+      <div class="stat"><b>0</b><span>Paid API</span></div>
+      <div class="stat"><b>06:12</b><span>BJT daily</span></div>
+    </div>
+    <input class="search" id="sourceSearch" placeholder="搜索来源、标签、官网、X、GitHub、YouTube、Podcast..." />
+  </section>
+  <section class="section shell">
+    {categories.map((cat) => <div class="section">
+      <div class="section-head"><h2>{cat}</h2><p>{entries.filter((e) => (e.category || 'uncategorized') === cat).length} sources</p></div>
+      <div class="source-grid">
+        {entries.filter((e) => (e.category || 'uncategorized') === cat).map((e) => <article class="source-card" data-source={`${e.name || e.display_name || e.handle || ''} ${(e.tags||[]).join(' ')} ${e.homepage_url||''} ${e.x_url||''}`}>
+          <strong>{e.name || e.display_name || e.handle}</strong>
+          <div class="small">priority {e.priority || '-'} · {e.source_file}</div>
+          <p>{e.notes || e.summary || '公开来源入口。'}</p>
+          <div class="tags">{(e.tags || []).slice(0,6).map((tag) => <span class="tag">#{tag}</span>)}</div>
+          <div class="actions">
+            {e.homepage_url && <a class="btn primary" href={e.homepage_url} target="_blank" rel="noreferrer">官网/主页</a>}
+            {e.blog_url && <a class="btn" href={e.blog_url} target="_blank" rel="noreferrer">Blog</a>}
+            {e.github_url && <a class="btn" href={e.github_url} target="_blank" rel="noreferrer">GitHub</a>}
+            {e.youtube_url && <a class="btn" href={e.youtube_url} target="_blank" rel="noreferrer">YouTube</a>}
+            {e.podcast_url && <a class="btn" href={e.podcast_url} target="_blank" rel="noreferrer">Podcast</a>}
+            {e.x_url && <a class="btn" href={e.x_url} target="_blank" rel="noreferrer">X</a>}
+          </div>
+        </article>)}
+      </div>
+    </div>)}
+  </section>
+  <script is:inline>
+    const input = document.getElementById('sourceSearch');
+    const cards = [...document.querySelectorAll('[data-source]')];
+    input?.addEventListener('input', () => {
+      const q = input.value.trim().toLowerCase();
+      cards.forEach((card) => card.style.display = card.dataset.source.toLowerCase().includes(q) ? '' : 'none');
+    });
+  </script>
+</BaseLayout>
