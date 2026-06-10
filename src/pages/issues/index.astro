@@ -1,0 +1,24 @@
+---
+import fs from 'node:fs';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+const issues = fs.existsSync('public/index-data/issues.json') ? JSON.parse(fs.readFileSync('public/index-data/issues.json','utf8')) : [];
+---
+<BaseLayout title="Issues Archive | X Signal Source">
+  <section class="hero shell">
+    <span class="eyebrow">Archive</span>
+    <h1>日期归档</h1>
+    <p>每一期均保存为独立 JSON 与 Markdown，旧期不会因为 latest 更新而被覆盖或串改。</p>
+  </section>
+  <section class="section shell">
+    <div class="panel list">
+      {issues.length === 0 && <p>等待首次 daily 流水线生成。</p>}
+      {issues.map((issue) => <div class="list-row">
+        <div>
+          <strong>{issue.date}</strong>
+          <div class="small">候选 {issue.candidates_count} · 入选 {issue.selected_count} · Must Read {issue.must_read_count} · 更新 {issue.generated_at}</div>
+        </div>
+        <a class="btn primary" href={`/issues/${issue.date}/`}>查看本期</a>
+      </div>)}
+    </div>
+  </section>
+</BaseLayout>
