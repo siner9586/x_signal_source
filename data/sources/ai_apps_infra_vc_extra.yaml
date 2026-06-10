@@ -1,0 +1,133 @@
+- name: Notion AI
+  category: ai_product_company
+  priority: 4
+  homepage_url: https://www.notion.com/product/ai
+  x_url: https://x.com/NotionHQ
+  tags: [ai_product, workspace]
+  notes: 工作空间 AI 与知识管理产品入口。
+- name: Canva AI
+  category: ai_product_company
+  priority: 4
+  homepage_url: https://www.canva.com/ai/
+  x_url: https://x.com/canva
+  tags: [design_ai, generative_media]
+- name: Runway
+  category: ai_product_company
+  priority: 5
+  homepage_url: https://runwayml.com/
+  research_url: https://research.runwayml.com/
+  x_url: https://x.com/runwayml
+  tags: [video_ai, multimodal, research]
+- name: ElevenLabs
+  category: ai_product_company
+  priority: 5
+  homepage_url: https://elevenlabs.io/
+  blog_url: https://elevenlabs.io/blog
+  x_url: https://x.com/elevenlabsio
+  tags: [voice_ai, audio]
+- name: Midjourney
+  category: ai_product_company
+  priority: 4
+  homepage_url: https://www.midjourney.com/
+  x_url: https://x.com/midjourney
+  tags: [image_ai, creative_tools]
+- name: Microsoft AutoGen
+  category: ai_open_source_project
+  priority: 5
+  homepage_url: https://github.com/microsoft/autogen
+  github_url: https://github.com/microsoft/autogen
+  blog_url: https://blogs.microsoft.com/ai/
+  research_url: https://www.microsoft.com/en-us/research/
+  tags: [agents, microsoft, open_source]
+- name: CrewAI
+  category: ai_open_source_project
+  priority: 4
+  homepage_url: https://www.crewai.com/
+  github_url: https://github.com/crewAIInc/crewAI
+  x_url: https://x.com/crewAIInc
+  tags: [agents, multi_agent]
+- name: Browser Use
+  category: ai_open_source_project
+  priority: 4
+  homepage_url: https://github.com/browser-use/browser-use
+  github_url: https://github.com/browser-use/browser-use
+  tags: [computer_use, browser_agent]
+- name: Windsurf
+  category: ai_product_company
+  priority: 4
+  homepage_url: https://windsurf.com/
+  x_url: https://x.com/windsurf_ai
+  tags: [ai_coding, developer_tools]
+- name: Baseten Blog
+  category: ai_infra_source
+  priority: 4
+  homepage_url: https://www.baseten.co/blog/
+  tags: [inference, ai_infra]
+- name: Databricks Blog
+  category: ai_infra_source
+  priority: 4
+  homepage_url: https://www.databricks.com/blog
+  tags: [data_ai, mlops]
+- name: Snowflake Blog
+  category: ai_infra_source
+  priority: 4
+  homepage_url: https://www.snowflake.com/en/blog/
+  tags: [data_cloud, enterprise_ai]
+- name: MongoDB Blog
+  category: ai_infra_source
+  priority: 3
+  homepage_url: https://www.mongodb.com/blog
+  tags: [database, developer]
+- name: Docker Blog
+  category: ai_infra_source
+  priority: 3
+  homepage_url: https://www.docker.com/blog/
+  tags: [developer_tools, infra]
+- name: Kubernetes Blog
+  category: ai_infra_source
+  priority: 3
+  homepage_url: https://kubernetes.io/blog/
+  tags: [cloud_native, infra]
+- name: South Park Commons
+  category: vc_source
+  priority: 4
+  homepage_url: https://www.southparkcommons.com/
+  x_url: https://x.com/southpkcommons
+  tags: [startup, community, podcast]
+- name: Redpoint Ventures
+  category: vc_source
+  priority: 4
+  homepage_url: https://www.redpoint.com/
+  blog_url: https://www.redpoint.com/blog/
+  x_url: https://x.com/redpointvc
+  tags: [vc, ai, startup]
+- name: Bessemer Venture Partners
+  category: vc_source
+  priority: 4
+  homepage_url: https://www.bvp.com/atlas
+  x_url: https://x.com/BessemerVP
+  tags: [vc, atlas, cloud]
+- name: Greylock
+  category: vc_source
+  priority: 4
+  homepage_url: https://greylock.com/greymatter/
+  x_url: https://x.com/greylockvc
+  tags: [vc, greymatter, startup]
+- name: Lightspeed
+  category: vc_source
+  priority: 4
+  homepage_url: https://lsvp.com/stories/
+  x_url: https://x.com/lightspeedvp
+  tags: [vc, startups]
+- name: Index Ventures
+  category: vc_source
+  priority: 4
+  homepage_url: https://www.indexventures.com/perspectives/
+  x_url: https://x.com/indexventures
+  tags: [vc, perspectives]
+- name: Benchmark
+  category: vc_source
+  priority: 4
+  homepage_url: https://www.benchmark.com/
+  x_url: https://x.com/benchmark
+  tags: [vc, startups]
