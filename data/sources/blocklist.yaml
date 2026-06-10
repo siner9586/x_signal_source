@@ -1,0 +1,28 @@
+low_quality_words:
+  - giveaway
+  - airdrop
+  - meme
+  - gm
+  - follow me
+  - retweet to win
+  - crypto alpha
+  - 100x
+  - 抽奖
+  - 互关
+  - 空投
+  - 暴富
+  - 割韭菜
+  - 无脑转发
+  - 速成
+  - 玄学
+low_quality_domains:
+  - example-spam.invalid
+patterns:
+  - pure engagement bait
+  - no source rumor
+  - copied marketing thread
+  - paywall body only without public metadata
+policy:
+  - 不抓取需要登录、验证码、人机验证、付费墙或反爬绕过的内容。
+  - 对无法合规访问的 X Article 或网页，只保存公开入口、标题、来源与失败原因。
+  - 热度只作为 10% 权重，不作为唯一排序依据。
