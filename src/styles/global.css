@@ -73,8 +73,9 @@ a{color:inherit;text-decoration:none}
 @media(max-width:860px){
   .nav-inner{height:auto;padding:.9rem 0;align-items:flex-start}
   .nav-links{flex-wrap:wrap;justify-content:flex-end;row-gap:.45rem}
-  .wechat-popover{position:absolute;top:calc(100% + 2em);left:50%;right:auto;width:min(238px,78vw);transform:translateX(-50%) translateY(-4px)}
+  .wechat-popover{position:fixed;top:92px;left:50vw;right:auto;width:min(238px,calc(100vw - 48px));transform:translateX(-50%) translateY(-4px)}
   .wechat-nav.open .wechat-popover{transform:translateX(-50%) translateY(0)}
+  .wechat-card::before{display:none}
   .stats{grid-template-columns:repeat(2,1fr)}
   .grid,.source-grid{grid-template-columns:1fr}
   .hero{padding-top:42px}
