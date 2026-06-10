@@ -1,0 +1,41 @@
+---
+import '../styles/global.css';
+const { title = 'X Signal Source', description = '每日整理公开网络上的 AI、科技、产品、创业、投资和研究高信号内容。' } = Astro.props;
+---
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content="website" />
+  </head>
+  <body>
+    <header class="nav">
+      <div class="shell nav-inner">
+        <a class="brand" href="/">
+          <span class="brand-mark"></span>
+          <span>X Signal Source</span>
+        </a>
+        <nav class="nav-links" aria-label="Primary">
+          <a href="/issues/latest/">Latest</a>
+          <a href="/issues/">Issues</a>
+          <a href="/sources/">Sources</a>
+          <a href="/topics/">Topics</a>
+          <a href="/about/">About</a>
+        </nav>
+      </div>
+    </header>
+    <main>
+      <slot />
+    </main>
+    <footer class="footer">
+      <div class="shell">
+        <p><strong>X Signal Source</strong> · 使用公开来源、轻量索引与静态归档。每天北京时间 06:12 自动更新。</p>
+      </div>
+    </footer>
+  </body>
+</html>
