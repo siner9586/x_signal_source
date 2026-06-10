@@ -1,0 +1,247 @@
+- name: OpenAI
+  category: ai_company_official
+  priority: 5
+  homepage_url: https://openai.com/
+  blog_url: https://openai.com/news/
+  research_url: https://openai.com/research/
+  docs_url: https://platform.openai.com/docs
+  github_url: https://github.com/openai
+  x_url: https://x.com/OpenAI
+  tags: [ai_models, official, research, developer]
+  notes: 官方发布、研究、模型与开发者文档优先来源。
+- name: Anthropic
+  category: ai_company_official
+  priority: 5
+  homepage_url: https://www.anthropic.com/
+  blog_url: https://www.anthropic.com/news
+  research_url: https://www.anthropic.com/research
+  docs_url: https://docs.anthropic.com/
+  x_url: https://x.com/AnthropicAI
+  tags: [ai_models, safety, official]
+- name: Google DeepMind
+  category: ai_company_official
+  priority: 5
+  homepage_url: https://deepmind.google/
+  blog_url: https://deepmind.google/discover/blog/
+  research_url: https://deepmind.google/research/
+  youtube_url: https://www.youtube.com/@googledeepmind
+  x_url: https://x.com/GoogleDeepMind
+  tags: [research, multimodal, science, official]
+- name: Google AI
+  category: ai_company_official
+  priority: 5
+  homepage_url: https://blog.google/technology/ai/
+  research_url: https://research.google/
+  x_url: https://x.com/GoogleAI
+  tags: [google, ai, official]
+- name: Meta AI
+  category: ai_company_official
+  priority: 5
+  homepage_url: https://ai.meta.com/
+  blog_url: https://ai.meta.com/blog/
+  research_url: https://ai.meta.com/research/
+  github_url: https://github.com/facebookresearch
+  x_url: https://x.com/AIatMeta
+  tags: [open_source_model, research, llama]
+- name: xAI
+  category: ai_company_official
+  priority: 5
+  homepage_url: https://x.ai/
+  x_url: https://x.com/xai
+  tags: [ai_models, reasoning]
+- name: Mistral AI
+  category: ai_company_official
+  priority: 5
+  homepage_url: https://mistral.ai/
+  blog_url: https://mistral.ai/news
+  docs_url: https://docs.mistral.ai/
+  github_url: https://github.com/mistralai
+  x_url: https://x.com/MistralAI
+  tags: [open_model, european_ai]
+- name: Cohere
+  category: ai_company_official
+  priority: 4
+  homepage_url: https://cohere.com/
+  blog_url: https://cohere.com/blog
+  docs_url: https://docs.cohere.com/
+  x_url: https://x.com/cohere
+  tags: [enterprise_ai, rag]
+- name: Stability AI
+  category: ai_company_official
+  priority: 4
+  homepage_url: https://stability.ai/
+  blog_url: https://stability.ai/news
+  github_url: https://github.com/Stability-AI
+  x_url: https://x.com/StabilityAI
+  tags: [generative_media, image]
+- name: NVIDIA AI
+  category: ai_infra_official
+  priority: 5
+  homepage_url: https://blogs.nvidia.com/blog/category/deep-learning/
+  blog_url: https://developer.nvidia.com/blog/
+  github_url: https://github.com/NVIDIA
+  x_url: https://x.com/NVIDIAAI
+  tags: [gpu, inference, ai_infra]
+- name: Perplexity
+  category: ai_product_company
+  priority: 4
+  homepage_url: https://www.perplexity.ai/
+  x_url: https://x.com/perplexity_ai
+  tags: [ai_search, product]
+- name: Cursor
+  category: ai_product_company
+  priority: 5
+  homepage_url: https://www.cursor.com/
+  x_url: https://x.com/cursor_ai
+  tags: [ai_coding, developer_tools]
+- name: Replit
+  category: ai_product_company
+  priority: 4
+  homepage_url: https://replit.com/
+  blog_url: https://blog.replit.com/
+  x_url: https://x.com/replit
+  tags: [ai_coding, cloud_dev]
+- name: Lovable
+  category: ai_product_company
+  priority: 4
+  homepage_url: https://lovable.dev/
+  x_url: https://x.com/lovable_dev
+  tags: [ai_app_builder, vibe_coding]
+- name: Vercel AI
+  category: ai_infra_official
+  priority: 5
+  homepage_url: https://vercel.com/ai
+  blog_url: https://vercel.com/blog
+  github_url: https://github.com/vercel/ai
+  x_url: https://x.com/vercel
+  tags: [sdk, ai_infra, frontend]
+- name: GitHub Copilot
+  category: ai_product_company
+  priority: 5
+  homepage_url: https://github.com/features/copilot
+  blog_url: https://github.blog/
+  x_url: https://x.com/github
+  tags: [ai_coding, developer_tools]
+- name: Hugging Face
+  category: ai_platform_official
+  priority: 5
+  homepage_url: https://huggingface.co/
+  blog_url: https://huggingface.co/blog
+  research_url: https://huggingface.co/papers
+  github_url: https://github.com/huggingface
+  x_url: https://x.com/huggingface
+  tags: [open_source, papers, models]
+- name: LangChain
+  category: ai_open_source_project
+  priority: 5
+  homepage_url: https://www.langchain.com/
+  blog_url: https://blog.langchain.com/
+  github_url: https://github.com/langchain-ai/langchain
+  x_url: https://x.com/LangChainAI
+  tags: [agents, rag, framework]
+- name: LlamaIndex
+  category: ai_open_source_project
+  priority: 5
+  homepage_url: https://www.llamaindex.ai/
+  blog_url: https://www.llamaindex.ai/blog
+  github_url: https://github.com/run-llama/llama_index
+  x_url: https://x.com/llama_index
+  tags: [rag, agents, framework]
+- name: Cloudflare Blog
+  category: ai_infra_source
+  priority: 4
+  homepage_url: https://blog.cloudflare.com/
+  docs_url: https://developers.cloudflare.com/
+  tags: [edge_ai, infra, cloud]
+- name: Supabase Blog
+  category: ai_infra_source
+  priority: 4
+  homepage_url: https://supabase.com/blog
+  tags: [database, backend, startups]
+- name: Neon Blog
+  category: ai_infra_source
+  priority: 4
+  homepage_url: https://neon.com/blog
+  tags: [postgres, serverless, database]
+- name: Modal Blog
+  category: ai_infra_source
+  priority: 4
+  homepage_url: https://modal.com/blog
+  tags: [compute, inference, ai_infra]
+- name: Together AI Blog
+  category: ai_infra_source
+  priority: 4
+  homepage_url: https://www.together.ai/blog
+  tags: [inference, open_models]
+- name: Fireworks AI Blog
+  category: ai_infra_source
+  priority: 4
+  homepage_url: https://fireworks.ai/blog
+  tags: [inference, serving]
+- name: AWS Machine Learning Blog
+  category: ai_infra_source
+  priority: 4
+  homepage_url: https://aws.amazon.com/blogs/machine-learning/
+  tags: [cloud, mlops]
+- name: Google Cloud AI Blog
+  category: ai_infra_source
+  priority: 4
+  homepage_url: https://cloud.google.com/blog/products/ai-machine-learning
+  tags: [cloud, ai_infra]
+- name: Azure AI Blog
+  category: ai_infra_source
+  priority: 4
+  homepage_url: https://azure.microsoft.com/en-us/blog/topics/ai-machine-learning/
+  tags: [cloud, enterprise_ai]
+- name: a16z AI
+  category: vc_source
+  priority: 5
+  homepage_url: https://a16z.com/ai/
+  podcast_url: https://a16z.com/podcasts/
+  x_url: https://x.com/a16z
+  tags: [investment, startup, thesis]
+- name: Sequoia Capital Articles
+  category: vc_source
+  priority: 5
+  homepage_url: https://www.sequoiacap.com/articles/
+  x_url: https://x.com/sequoia
+  tags: [investment, startup, ai]
+- name: Y Combinator
+  category: startup_source
+  priority: 5
+  homepage_url: https://www.ycombinator.com/
+  blog_url: https://www.ycombinator.com/blog
+  youtube_url: https://www.youtube.com/@ycombinator
+  x_url: https://x.com/ycombinator
+  tags: [startup, product, founder]
+- name: First Round Review
+  category: startup_source
+  priority: 5
+  homepage_url: https://review.firstround.com/
+  x_url: https://x.com/firstround
+  tags: [playbook, product, startup]
+- name: AI Brief reference
+  category: reference_site
+  priority: 4
+  homepage_url: https://ai-brief.liziran.com/zh/
+  tags: [reference, information_architecture]
+- name: AI Digest reference
+  category: reference_site
+  priority: 4
+  homepage_url: https://ai-digest.liziran.com/zh/
+  tags: [reference, ai_news]
+- name: Hacker News
+  category: community_source
+  priority: 4
+  homepage_url: https://news.ycombinator.com/
+  tags: [community, ranking]
+- name: Product Hunt
+  category: community_source
+  priority: 3
+  homepage_url: https://www.producthunt.com/
+  tags: [product_launch, startups]
+- name: TLDR AI
+  category: newsletter_source
+  priority: 4
+  homepage_url: https://tldr.tech/ai
+  tags: [newsletter, ai]
