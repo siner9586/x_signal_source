@@ -1,0 +1,82 @@
+- name: Lenny's Podcast
+  category: podcast_source
+  priority: 5
+  homepage_url: https://www.lennysnewsletter.com/
+  youtube_url: https://www.youtube.com/@LennysPodcast
+  tags: [product, growth, podcast, ai]
+  notes: 产品、增长、创业与 AI 产品访谈。
+- name: Peter Yang
+  category: creator_source
+  priority: 4
+  homepage_url: https://creatoreconomy.so/
+  tags: [product, creator, ai]
+  notes: 创作者经济、AI 产品与平台变化。
+- name: AI and I by Every
+  category: podcast_source
+  priority: 4
+  homepage_url: https://every.to/
+  tags: [ai, interview, every]
+  notes: Every 的 AI 访谈与长内容入口；具体 podcast feed 需按公开页面人工补充。
+- name: Unsupervised Learning by Redpoint
+  category: podcast_source
+  priority: 4
+  homepage_url: https://www.redpoint.com/
+  tags: [vc, ai, podcast]
+  notes: Redpoint 公开播客入口，关注 AI、创业与投资判断。
+- name: Training Data by Sequoia
+  category: podcast_source
+  priority: 5
+  homepage_url: https://www.sequoiacap.com/
+  tags: [vc, ai, podcast]
+  notes: Sequoia AI 访谈与创始人判断入口。
+- name: Minus One by South Park Commons
+  category: podcast_source
+  priority: 4
+  homepage_url: https://www.southparkcommons.com/
+  x_url: https://x.com/southpkcommons
+  tags: [startup, podcast, ai]
+- name: Google DeepMind The Podcast
+  category: podcast_source
+  priority: 5
+  homepage_url: https://deepmind.google/
+  youtube_url: https://www.youtube.com/@googledeepmind
+  tags: [research, podcast, ai]
+- name: No Priors
+  category: podcast_source
+  priority: 5
+  homepage_url: https://www.nopriors.com/
+  tags: [ai, podcast, founders, research]
+  notes: AI 创业、研究和投资访谈。
+- name: a16z Podcast
+  category: podcast_source
+  priority: 5
+  homepage_url: https://a16z.com/podcasts/
+  x_url: https://x.com/a16z
+  tags: [vc, ai, podcast]
+- name: Latent Space
+  category: podcast_source
+  priority: 5
+  homepage_url: https://www.latent.space/
+  tags: [ai_engineering, podcast, newsletter]
+- name: The AI Daily Brief
+  category: podcast_source
+  priority: 4
+  homepage_url: https://www.aidailybrief.com/
+  tags: [ai_news, podcast]
+- name: Lightcone Podcast by YC
+  category: podcast_source
+  priority: 4
+  homepage_url: https://www.youtube.com/@ycombinator
+  tags: [yc, startup, podcast]
+- name: Lex Fridman Podcast
+  category: podcast_source
+  priority: 4
+  homepage_url: https://lexfridman.com/podcast/
+  youtube_url: https://www.youtube.com/@lexfridman
+  tags: [longform, ai, science]
+- name: Dwarkesh Podcast
+  category: podcast_source
+  priority: 5
+  homepage_url: https://www.dwarkeshpatel.com/
+  youtube_url: https://www.youtube.com/@DwarkeshPatel
+  tags: [ai, longform, research]
