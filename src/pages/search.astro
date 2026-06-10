@@ -1,0 +1,33 @@
+---
+import fs from 'node:fs';
+import BaseLayout from '../layouts/BaseLayout.astro';
+const items = fs.existsSync('public/index-data/search.json') ? JSON.parse(fs.readFileSync('public/index-data/search.json','utf8')) : [];
+---
+<BaseLayout title="Search | X Signal Source">
+  <section class="hero shell">
+    <span class="eyebrow">Search</span>
+    <h1>搜索信号库</h1>
+    <p>基于静态 JSON，支持标题、作者、来源、标签与摘要搜索。无需数据库，适合长期静态部署。</p>
+    <input class="search" id="q" placeholder="搜索 AI Agent、Cursor、OpenAI、research、startup..." />
+  </section>
+  <section class="section shell">
+    <div class="list" id="results">
+      {items.map((item) => <div class="list-row" data-search={`${item.title} ${item.summary} ${(item.tags||[]).join(' ')} ${item.author} ${item.source}`}> 
+        <div>
+          <strong>{item.title}</strong>
+          <div class="small">{item.source} · {item.date} · score {item.score}</div>
+          <p>{item.summary}</p>
+        </div>
+        <a class="btn primary" href={item.url} target="_blank" rel="noreferrer">打开</a>
+      </div>)}
+    </div>
+  </section>
+  <script is:inline>
+    const q = document.getElementById('q');
+    const rows = [...document.querySelectorAll('[data-search]')];
+    q?.addEventListener('input', () => {
+      const s = q.value.trim().toLowerCase();
+      rows.forEach((row) => row.style.display = row.dataset.search.toLowerCase().includes(s) ? '' : 'none');
+    });
+  </script>
+</BaseLayout>
