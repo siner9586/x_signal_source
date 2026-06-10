@@ -1,0 +1,220 @@
+- handle: OpenAI
+  display_name: OpenAI
+  category: ai_company_official
+  organization: OpenAI
+  role: official
+  homepage_url: https://openai.com/
+  x_url: https://x.com/OpenAI
+  priority: 5
+  language: en
+  notes: 官方模型、产品、研究与安全公告入口。
+  tags: [official, ai_models]
+- handle: AnthropicAI
+  display_name: Anthropic
+  category: ai_company_official
+  organization: Anthropic
+  role: official
+  homepage_url: https://www.anthropic.com/
+  x_url: https://x.com/AnthropicAI
+  priority: 5
+  language: en
+  notes: Claude、AI safety、研究与产品公告。
+  tags: [official, safety, claude]
+- handle: GoogleDeepMind
+  display_name: Google DeepMind
+  category: ai_company_official
+  organization: Google DeepMind
+  role: official
+  homepage_url: https://deepmind.google/
+  x_url: https://x.com/GoogleDeepMind
+  priority: 5
+  language: en
+  notes: 前沿研究、模型、科学 AI 与播客入口。
+  tags: [research, official]
+- handle: AIatMeta
+  display_name: Meta AI
+  category: ai_company_official
+  organization: Meta AI
+  role: official
+  homepage_url: https://ai.meta.com/
+  x_url: https://x.com/AIatMeta
+  priority: 5
+  language: en
+  notes: Llama、开放模型、研究项目官方入口。
+  tags: [open_source_model, official]
+- handle: xai
+  display_name: xAI
+  category: ai_company_official
+  organization: xAI
+  role: official
+  homepage_url: https://x.ai/
+  x_url: https://x.com/xai
+  priority: 5
+  language: en
+  notes: Grok 与 xAI 官方入口。
+  tags: [reasoning, official]
+- handle: MistralAI
+  display_name: Mistral AI
+  category: ai_company_official
+  organization: Mistral AI
+  role: official
+  homepage_url: https://mistral.ai/
+  x_url: https://x.com/MistralAI
+  priority: 5
+  language: en
+  notes: 开放模型、欧洲 AI、开发者文档。
+  tags: [open_model, official]
+- handle: cohere
+  display_name: Cohere
+  category: ai_company_official
+  organization: Cohere
+  role: official
+  homepage_url: https://cohere.com/
+  x_url: https://x.com/cohere
+  priority: 4
+  language: en
+  notes: 企业 AI、RAG、文档与产品发布。
+  tags: [enterprise_ai, rag]
+- handle: NVIDIAAI
+  display_name: NVIDIA AI
+  category: tech_platform_official
+  organization: NVIDIA
+  role: official
+  homepage_url: https://blogs.nvidia.com/blog/category/deep-learning/
+  x_url: https://x.com/NVIDIAAI
+  priority: 5
+  language: en
+  notes: GPU、推理、模型服务、AI infra 入口。
+  tags: [gpu, inference, infra]
+- handle: perplexity_ai
+  display_name: Perplexity
+  category: ai_product_leader
+  organization: Perplexity
+  role: official
+  homepage_url: https://www.perplexity.ai/
+  x_url: https://x.com/perplexity_ai
+  priority: 4
+  language: en
+  notes: AI 搜索与浏览器方向。
+  tags: [ai_search, product]
+- handle: cursor_ai
+  display_name: Cursor
+  category: ai_product_leader
+  organization: Cursor
+  role: official
+  homepage_url: https://www.cursor.com/
+  x_url: https://x.com/cursor_ai
+  priority: 5
+  language: en
+  notes: AI coding、repo-level agent 与开发者工作流。
+  tags: [ai_coding, developer_tools]
+- handle: replit
+  display_name: Replit
+  category: ai_product_leader
+  organization: Replit
+  role: official
+  homepage_url: https://replit.com/
+  x_url: https://x.com/replit
+  priority: 4
+  language: en
+  notes: 云端开发、AI agent 编程体验。
+  tags: [ai_coding, cloud_dev]
+- handle: lovable_dev
+  display_name: Lovable
+  category: ai_builder
+  organization: Lovable
+  role: official
+  homepage_url: https://lovable.dev/
+  x_url: https://x.com/lovable_dev
+  priority: 4
+  language: en
+  notes: Vibe coding 与 AI 应用生成。
+  tags: [vibe_coding, product]
+- handle: vercel
+  display_name: Vercel
+  category: tech_platform_official
+  organization: Vercel
+  role: official
+  homepage_url: https://vercel.com/ai
+  x_url: https://x.com/vercel
+  priority: 5
+  language: en
+  notes: AI SDK、前端部署与应用层 infra。
+  tags: [ai_sdk, frontend, infra]
+- handle: huggingface
+  display_name: Hugging Face
+  category: ai_open_source_maintainer
+  organization: Hugging Face
+  role: official
+  homepage_url: https://huggingface.co/
+  x_url: https://x.com/huggingface
+  priority: 5
+  language: en
+  notes: 模型、papers、开源社区与数据集。
+  tags: [open_source, papers]
+- handle: LangChainAI
+  display_name: LangChain
+  category: ai_open_source_maintainer
+  organization: LangChain
+  role: official
+  homepage_url: https://www.langchain.com/
+  x_url: https://x.com/LangChainAI
+  priority: 5
+  language: en
+  notes: Agent、RAG、tool use 框架。
+  tags: [agents, rag]
+- handle: llama_index
+  display_name: LlamaIndex
+  category: ai_open_source_maintainer
+  organization: LlamaIndex
+  role: official
+  homepage_url: https://www.llamaindex.ai/
+  x_url: https://x.com/llama_index
+  priority: 5
+  language: en
+  notes: 数据代理、RAG、企业知识库框架。
+  tags: [rag, agents]
+- handle: a16z
+  display_name: a16z
+  category: ai_investor
+  organization: Andreessen Horowitz
+  role: VC
+  homepage_url: https://a16z.com/ai/
+  x_url: https://x.com/a16z
+  priority: 5
+  language: en
+  notes: AI 投资 thesis、市场趋势、podcast。
+  tags: [investment, startups]
+- handle: sequoia
+  display_name: Sequoia Capital
+  category: ai_investor
+  organization: Sequoia Capital
+  role: VC
+  homepage_url: https://www.sequoiacap.com/articles/
+  x_url: https://x.com/sequoia
+  priority: 5
+  language: en
+  notes: Training Data、AI 市场判断与创业公司观察。
+  tags: [investment, startups]
+- handle: ycombinator
+  display_name: Y Combinator
+  category: ai_investor
+  organization: Y Combinator
+  role: accelerator
+  homepage_url: https://www.ycombinator.com/blog
+  x_url: https://x.com/ycombinator
+  priority: 5
+  language: en
+  notes: 创业趋势、Lightcone podcast、YC 公司。
+  tags: [startup, product]
+- handle: TODO_manual_confirm
+  display_name: Chinese AI commentators
+  category: chinese_ai_commentator
+  organization: TODO
+  role: TODO
+  homepage_url: https://x.com/
+  x_url: https://x.com/
+  priority: 2
+  language: zh
+  notes: 需要人工确认具体个人账号，禁止臆造。
+  tags: [todo, manual_confirm]
