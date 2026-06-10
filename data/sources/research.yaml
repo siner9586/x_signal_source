@@ -1,0 +1,90 @@
+- name: arXiv CS AI
+  category: research_source
+  priority: 5
+  homepage_url: https://arxiv.org/list/cs.AI/recent
+  tags: [paper, ai, arxiv]
+- name: arXiv CS CL
+  category: research_source
+  priority: 5
+  homepage_url: https://arxiv.org/list/cs.CL/recent
+  tags: [paper, nlp, arxiv]
+- name: arXiv CS LG
+  category: research_source
+  priority: 5
+  homepage_url: https://arxiv.org/list/cs.LG/recent
+  tags: [paper, machine_learning, arxiv]
+- name: arXiv CS CV
+  category: research_source
+  priority: 5
+  homepage_url: https://arxiv.org/list/cs.CV/recent
+  tags: [paper, vision, arxiv]
+- name: Papers with Code
+  category: research_source
+  priority: 5
+  homepage_url: https://paperswithcode.com/
+  tags: [paper, code, benchmark]
+- name: Hugging Face Papers
+  category: research_source
+  priority: 5
+  homepage_url: https://huggingface.co/papers
+  tags: [paper, models, community]
+- name: OpenReview
+  category: research_source
+  priority: 5
+  homepage_url: https://openreview.net/
+  tags: [paper, peer_review]
+- name: Google Research
+  category: research_source
+  priority: 5
+  homepage_url: https://research.google/
+  tags: [research, google]
+- name: Microsoft Research
+  category: research_source
+  priority: 5
+  homepage_url: https://www.microsoft.com/en-us/research/
+  tags: [research, microsoft]
+- name: Meta Research
+  category: research_source
+  priority: 5
+  homepage_url: https://research.facebook.com/
+  tags: [research, meta]
+- name: Stanford HAI
+  category: research_source
+  priority: 4
+  homepage_url: https://hai.stanford.edu/news
+  tags: [ai_policy, research]
+- name: Berkeley BAIR
+  category: research_source
+  priority: 5
+  homepage_url: https://bair.berkeley.edu/blog/
+  tags: [research, robotics, ai]
+- name: MIT CSAIL
+  category: research_source
+  priority: 4
+  homepage_url: https://www.csail.mit.edu/news
+  tags: [research, cs]
+- name: CMU AI
+  category: research_source
+  priority: 4
+  homepage_url: https://www.cs.cmu.edu/news
+  tags: [research, ai]
+- name: GitHub Trending
+  category: open_source_source
+  priority: 4
+  homepage_url: https://github.com/trending
+  tags: [github, trending, open_source]
+- name: Lobsters
+  category: community_source
+  priority: 3
+  homepage_url: https://lobste.rs/
+  tags: [engineering, community]
+- name: Reddit Machine Learning
+  category: community_source
+  priority: 3
+  homepage_url: https://www.reddit.com/r/MachineLearning/
+  tags: [community, machine_learning]
+- name: Reddit LocalLLaMA
+  category: community_source
+  priority: 3
+  homepage_url: https://www.reddit.com/r/LocalLLaMA/
+  tags: [community, open_models]
