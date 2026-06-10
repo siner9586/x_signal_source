@@ -1,0 +1,42 @@
+---
+import fs from 'node:fs';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ItemCard from '../../components/ItemCard.astro';
+const readJson = (p, fallback) => fs.existsSync(p) ? JSON.parse(fs.readFileSync(p, 'utf8')) : fallback;
+const latest = readJson('public/index-data/latest.json', { metadata:{issue_date:'pending',selected_count:0,candidates_count:0,sources_scanned:0,duplicates_blocked:0}, summary:{one_liner:'等待首次 daily 流水线生成。',trends:[],watch_next:[]}, must_read:[], worth_reading:[], signal_watch:[], hot_rank:[], clusters:[] });
+---
+<BaseLayout title={`Latest Issue | ${latest.metadata.issue_date}`}>
+  <section class="hero shell">
+    <span class="eyebrow">Latest Issue · {latest.metadata.issue_date}</span>
+    <h1>最新一期高信号内容</h1>
+    <p>{latest.summary.one_liner}</p>
+    <div class="stats">
+      <div class="stat"><b>{latest.metadata.sources_scanned}</b><span>抓取源数量</span></div>
+      <div class="stat"><b>{latest.metadata.candidates_count}</b><span>候选数量</span></div>
+      <div class="stat"><b>{latest.metadata.selected_count}</b><span>入选数量</span></div>
+      <div class="stat"><b>{latest.metadata.duplicates_blocked}</b><span>去重数量</span></div>
+      <div class="stat"><b>{latest.metadata.generated_at?.slice(0,10)}</b><span>更新时间</span></div>
+    </div>
+    <div class="tabs"><span class="tab active">综合排序</span><span class="tab">热度排序见下方</span><span class="tab">来源类型筛选：静态搜索支持</span></div>
+  </section>
+  <section class="section shell">
+    <div class="section-head"><h2>Must Read</h2><p>每条都保留原始链接和具体入选理由。</p></div>
+    <div class="grid">{latest.must_read.map((item) => <ItemCard item={item} />)}</div>
+  </section>
+  <section class="section shell">
+    <div class="section-head"><h2>Worth Reading</h2><p>适合延伸阅读与后续复盘。</p></div>
+    <div class="grid">{latest.worth_reading.map((item) => <ItemCard item={item} />)}</div>
+  </section>
+  <section class="section shell">
+    <div class="section-head"><h2>Signal Watch</h2><p>观察信号：不夸大，但保留追踪价值。</p></div>
+    <div class="grid">{latest.signal_watch.map((item) => <ItemCard item={item} compact />)}</div>
+  </section>
+  <section class="section shell">
+    <div class="section-head"><h2>热度排序 Top 20</h2><p>热度只占总分 10%，不作为唯一入选依据。</p></div>
+    <div class="list">{latest.hot_rank.map((item) => <div class="list-row"><div><strong>{item.title}</strong><div class="small">{item.source_domain} · heat {item.heat_score} · total {item.total_score}</div></div><a class="btn" href={item.canonical_url} target="_blank">打开</a></div>)}</div>
+  </section>
+  <section class="section shell">
+    <div class="section-head"><h2>Topic Clusters</h2><p>同一事件多来源合并，避免同一期重复展示。</p></div>
+    <div class="list">{latest.clusters.map((c) => <div class="list-row"><div><strong>{c.title}</strong><div class="small">{c.cluster_id} · score {c.score}</div></div><a class="btn" href={c.primary_source} target="_blank">Primary source</a></div>)}</div>
+  </section>
+</BaseLayout>
