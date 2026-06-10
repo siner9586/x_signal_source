@@ -1,0 +1,32 @@
+---
+import fs from 'node:fs';
+import path from 'node:path';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ItemCard from '../../components/ItemCard.astro';
+export function getStaticPaths() {
+  const dir = 'data/issues';
+  if (!fs.existsSync(dir)) return [];
+  return fs.readdirSync(dir).filter((f) => f.endsWith('.json')).map((file) => {
+    const issue = JSON.parse(fs.readFileSync(path.join(dir, file), 'utf8'));
+    return { params: { date: issue.metadata.issue_date }, props: { issue } };
+  });
+}
+const { issue } = Astro.props;
+---
+<BaseLayout title={`Issue ${issue.metadata.issue_date} | X Signal Source`}>
+  <section class="hero shell">
+    <span class="eyebrow">Frozen Issue · {issue.metadata.issue_date}</span>
+    <h1>{issue.metadata.issue_date}</h1>
+    <p>{issue.summary.one_liner}</p>
+    <div class="stats">
+      <div class="stat"><b>{issue.metadata.sources_scanned}</b><span>Sources</span></div>
+      <div class="stat"><b>{issue.metadata.candidates_count}</b><span>Candidates</span></div>
+      <div class="stat"><b>{issue.metadata.selected_count}</b><span>Selected</span></div>
+      <div class="stat"><b>{issue.metadata.duplicates_blocked}</b><span>Duplicates</span></div>
+      <div class="stat"><b>{issue.metadata.timezone}</b><span>Timezone</span></div>
+    </div>
+  </section>
+  <section class="section shell"><div class="section-head"><h2>Must Read</h2></div><div class="grid">{issue.must_read.map((item) => <ItemCard item={item} />)}</div></section>
+  <section class="section shell"><div class="section-head"><h2>Worth Reading</h2></div><div class="grid">{issue.worth_reading.map((item) => <ItemCard item={item} />)}</div></section>
+  <section class="section shell"><div class="section-head"><h2>Signal Watch</h2></div><div class="grid">{issue.signal_watch.map((item) => <ItemCard item={item} compact />)}</div></section>
+</BaseLayout>
