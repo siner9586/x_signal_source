@@ -3,7 +3,13 @@ import fs from 'node:fs';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import ItemCard from '../components/ItemCard.astro';
 const readJson = (p, fallback) => fs.existsSync(p) ? JSON.parse(fs.readFileSync(p, 'utf8')) : fallback;
-const latest = readJson('public/index-data/latest.json', { metadata:{issue_date:'pending',sources_scanned:0,candidates_count:0,selected_count:0,duplicates_blocked:0,generated_at:''}, summary:{one_liner:'等待首次 daily 流水线生成。'}, must_read:[], worth_reading:[], signal_watch:[], hot_rank:[] });
+const empty = { metadata:{issue_date:'pending',sources_scanned:0,candidates_count:0,selected_count:0,duplicates_blocked:0,generated_at:''}, summary:{one_liner:'等待首次 daily 流水线生成。'}, must_read:[], worth_reading:[], signal_watch:[], hot_rank:[] };
+const publicLatest = readJson('public/index-data/latest.json', empty);
+const selectedPublic = [...(publicLatest.must_read||[]), ...(publicLatest.worth_reading||[]), ...(publicLatest.signal_watch||[])];
+const issuesIndex = readJson('public/index-data/issues.json', []);
+const fallbackDate = publicLatest.metadata?.issue_date || issuesIndex[0]?.date;
+const frozenIssue = fallbackDate ? readJson(`data/issues/${fallbackDate}.json`, publicLatest) : publicLatest;
+const latest = selectedPublic.length ? publicLatest : frozenIssue;
 const selected = [...(latest.must_read||[]), ...(latest.worth_reading||[]), ...(latest.signal_watch||[])];
 ---
 <BaseLayout title="X Signal Source | 今日高价值信号源">
