@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "issue_date": "2026-06-10",
+    "generated_at": "2026-06-10T09:30:00.000Z",
+    "timezone": "Asia/Shanghai",
+    "sources_scanned": 104,
+    "candidates_count": 104,
+    "selected_count": 12,
+    "duplicates_blocked": 0,
+    "fetch_failures": 0,
+    "initial_source_index": true
+  },
+  "summary": {
+    "one_liner": "本期为初始来源索引：先建立 AI、产品、研究、创业与投资的合规公开入口，后续每日从公开来源和人工 seed 中增量筛选新信号。",
+    "trends": ["AI Agent", "AI Coding", "AI Infra", "Research", "Startup / Investment"],
+    "watch_next": ["公开 RSS 与博客新增内容", "GitHub releases 与 trending", "人工维护 X Article / Thread seed list", "播客长访谈中的一手判断"]
+  },
+  "must_read": [],
+  "worth_reading": [],
+  "signal_watch": [],
+  "hot_rank": [],
+  "clusters": [],
+  "sources": []
+}
