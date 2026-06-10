@@ -1,0 +1,6 @@
+[
+  {"title":"OpenAI 官方新闻与研究入口","url":"https://openai.com/news","summary":"OpenAI 官方新闻页是模型、产品、研究与安全公告的一手入口。","tags":["ai_models","official","research"],"author":"OpenAI","source":"openai.com","date":"2026-06-10","score":95},
+  {"title":"Anthropic 新闻与研究入口","url":"https://www.anthropic.com/news","summary":"Anthropic 新闻与研究页可用于追踪 Claude、AI safety、模型能力与企业产品更新。","tags":["safety","claude","official"],"author":"Anthropic","source":"anthropic.com","date":"2026-06-10","score":94},
+  {"title":"Google DeepMind 研究与博客入口","url":"https://deepmind.google/discover/blog","summary":"DeepMind 博客是多模态、推理、机器人和科学发现类信号的高可信来源。","tags":["research","multimodal","science"],"author":"Google DeepMind","source":"deepmind.google","date":"2026-06-10","score":93},
+  {"title":"Hugging Face Papers 社区论文入口","url":"https://huggingface.co/papers","summary":"Hugging Face Papers 连接论文、模型卡和社区讨论。","tags":["papers","open_source","models"],"author":"Hugging Face","source":"huggingface.co","date":"2026-06-10","score":91}
+]
