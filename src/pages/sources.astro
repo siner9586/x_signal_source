@@ -4,11 +4,14 @@ import path from 'node:path';
 import yaml from 'js-yaml';
 import BaseLayout from '../layouts/BaseLayout.astro';
 const dir = 'data/sources';
-const files = fs.existsSync(dir) ? fs.readdirSync(dir).filter((f) => f.endsWith('.yaml')) : [];
+const excluded = new Set(['query_templates.yaml', 'blocklist.yaml']);
+const files = fs.existsSync(dir) ? fs.readdirSync(dir).filter((f) => f.endsWith('.yaml') && !excluded.has(f)) : [];
 const entries = files.flatMap((file) => {
   const body = yaml.load(fs.readFileSync(path.join(dir, file), 'utf8')) || [];
-  const arr = Array.isArray(body) ? body : Object.entries(body).flatMap(([key, value]) => Array.isArray(value) ? value.map((x) => ({ name: x, category: key })) : []);
-  return arr.filter(Boolean).map((item) => ({ ...item, source_file: file }));
+  const arr = Array.isArray(body) ? body : [];
+  return arr
+    .filter((item) => item && typeof item === 'object' && (item.homepage_url || item.x_url || item.blog_url || item.github_url || item.url))
+    .map((item) => ({ ...item, source_file: file }));
 });
 const categories = [...new Set(entries.map((e) => e.category || 'uncategorized'))].sort();
 ---
