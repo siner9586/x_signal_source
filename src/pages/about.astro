@@ -1,0 +1,20 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+<BaseLayout title="About | X Signal Source">
+  <section class="hero shell">
+    <span class="eyebrow">About</span>
+    <h1>一个合规、轻量、可复盘的高信号来源站</h1>
+    <p>X Signal Source 每天北京时间 06:12 自动整理公开来源中的 AI、科技、产品、创业、投资与研究信号。它不是全文转载站，也不是绕过平台限制的抓取器，而是“来源索引 + 候选筛选 + 证据链回链 + 静态归档”。</p>
+  </section>
+  <section class="section shell">
+    <div class="grid">
+      <article class="panel"><h2>更新规则</h2><p>GitHub Actions 使用 UTC cron <code>12 22 * * *</code>，对应北京时间每天 06:12。daily 命令串联 collect → score → build issue → QA → build。</p></article>
+      <article class="panel"><h2>合规说明</h2><p>不使用付费 API，不使用 X paid API，不绕过登录、验证码、付费墙、反爬或 rate limit。无法公开访问的内容只保存公开入口与失败原因。</p></article>
+      <article class="panel"><h2>评分规则</h2><p>综合分 = 来源可信度 20% + 信息密度 20% + 原创性 15% + 趋势价值 15% + 可验证性 10% + 热度 10% + 站点匹配度 10%。热度不是唯一排序依据。</p></article>
+      <article class="panel"><h2>去重规则</h2><p>每期读取 used_items，按 canonical_url、normalized URL、dedupe_key、title hash、cluster_id 排重。旧内容可作为背景来源，但不得重复进入最新一期 selected。</p></article>
+      <article class="panel"><h2>如何添加来源</h2><p>新增 X 账号写入 <code>data/sources/x_accounts.yaml</code>；新增博客、RSS、YouTube、Podcast、GitHub、研究机构写入对应 sources 文件；不确定的个人账号标注 TODO，不臆造。</p></article>
+      <article class="panel"><h2>内容边界</h2><p>每条入选内容必须有一句话核心结论、为什么值得看、可能影响、继续追踪方向和原始来源链接。禁止空泛套话和 mock 新闻。</p></article>
+    </div>
+  </section>
+</BaseLayout>
