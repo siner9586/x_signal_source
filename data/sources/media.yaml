@@ -1,0 +1,101 @@
+- name: The Information
+  category: media_source
+  priority: 4
+  homepage_url: https://www.theinformation.com/
+  tags: [tech_media, business]
+  notes: 深度科技商业报道，遇到付费墙只索引链接与元数据。
+- name: Bloomberg Technology
+  category: media_source
+  priority: 4
+  homepage_url: https://www.bloomberg.com/technology
+  tags: [business, tech]
+- name: Wall Street Journal Tech
+  category: media_source
+  priority: 4
+  homepage_url: https://www.wsj.com/tech
+  tags: [business, tech]
+- name: Financial Times Technology
+  category: media_source
+  priority: 4
+  homepage_url: https://www.ft.com/technology
+  tags: [business, tech]
+- name: New York Times Technology
+  category: media_source
+  priority: 4
+  homepage_url: https://www.nytimes.com/section/technology
+  tags: [tech_media]
+- name: The Verge AI
+  category: media_source
+  priority: 4
+  homepage_url: https://www.theverge.com/ai-artificial-intelligence
+  tags: [ai, tech_media]
+- name: Wired AI
+  category: media_source
+  priority: 4
+  homepage_url: https://www.wired.com/tag/artificial-intelligence/
+  tags: [ai, tech_media]
+- name: TechCrunch AI
+  category: media_source
+  priority: 4
+  homepage_url: https://techcrunch.com/category/artificial-intelligence/
+  tags: [startup, ai]
+- name: VentureBeat AI
+  category: media_source
+  priority: 3
+  homepage_url: https://venturebeat.com/ai/
+  tags: [ai, enterprise]
+- name: MIT Technology Review AI
+  category: media_source
+  priority: 5
+  homepage_url: https://www.technologyreview.com/topic/artificial-intelligence/
+  tags: [ai, research, society]
+- name: IEEE Spectrum AI
+  category: media_source
+  priority: 5
+  homepage_url: https://spectrum.ieee.org/artificial-intelligence
+  tags: [engineering, ai]
+- name: Ars Technica AI
+  category: media_source
+  priority: 4
+  homepage_url: https://arstechnica.com/tag/artificial-intelligence/
+  tags: [tech_media, ai]
+- name: Semafor Technology
+  category: media_source
+  priority: 3
+  homepage_url: https://www.semafor.com/vertical/technology
+  tags: [technology, media]
+- name: Stratechery
+  category: analyst_source
+  priority: 5
+  homepage_url: https://stratechery.com/
+  tags: [strategy, tech, business]
+- name: Platformer
+  category: analyst_source
+  priority: 4
+  homepage_url: https://www.platformer.news/
+  tags: [platforms, ai, tech]
+- name: Benedict Evans
+  category: analyst_source
+  priority: 5
+  homepage_url: https://www.ben-evans.com/
+  tags: [strategy, mobile, ai]
+- name: Import AI
+  category: newsletter_source
+  priority: 5
+  homepage_url: https://importai.substack.com/
+  tags: [ai, newsletter, research]
+- name: The Batch
+  category: newsletter_source
+  priority: 5
+  homepage_url: https://www.deeplearning.ai/the-batch/
+  tags: [ai, education, newsletter]
+- name: Every
+  category: media_source
+  priority: 4
+  homepage_url: https://every.to/
+  tags: [ai, product, essays]
+- name: Lenny's Newsletter
+  category: newsletter_source
+  priority: 5
+  homepage_url: https://www.lennysnewsletter.com/
+  tags: [product, growth, startup]
