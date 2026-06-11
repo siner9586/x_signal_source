@@ -2,9 +2,24 @@ name: Daily X Signal Source
 
 on:
   schedule:
-    # 06:12 Beijing/Taipei time = 22:12 UTC on the previous day.
-    - cron: '12 22 * * *'
+    # Multi-slot redundant schedule: 18 attempts, every 10 minutes.
+    # Beijing/Taipei time: 06:07, 06:17, ..., 08:57.
+    # GitHub cron is UTC:
+    # 22:07..22:57 UTC previous day = 06:07..06:57 BJT next day
+    # 23:07..23:57 UTC previous day = 07:07..07:57 BJT next day
+    # 00:07..00:57 UTC same day     = 08:07..08:57 BJT same day
+    - cron: '7,17,27,37,47,57 22-23 * * *'
+    - cron: '7,17,27,37,47,57 0 * * *'
   workflow_dispatch:
+    inputs:
+      force:
+        description: 'Force regenerate today even if data/issues/YYYY-MM-DD.json already exists'
+        required: false
+        default: 'false'
+        type: choice
+        options:
+          - 'false'
+          - 'true'
 
 permissions:
   contents: write
@@ -23,31 +38,70 @@ jobs:
         with:
           persist-credentials: true
 
+      - name: Idempotency guard
+        id: guard
+        env:
+          TZ: Asia/Shanghai
+          FORCE: ${{ github.event_name == 'workflow_dispatch' && inputs.force == 'true' }}
+        run: |
+          TODAY="$(date +%F)"
+          ISSUE_FILE="data/issues/${TODAY}.json"
+          echo "today=${TODAY}" >> "$GITHUB_OUTPUT"
+          echo "issue_file=${ISSUE_FILE}" >> "$GITHUB_OUTPUT"
+
+          if [ "$FORCE" = "true" ]; then
+            echo "exists=false" >> "$GITHUB_OUTPUT"
+            echo "force=true" >> "$GITHUB_OUTPUT"
+            echo "Force mode enabled. Regenerating ${ISSUE_FILE}."
+            exit 0
+          fi
+
+          if [ -f "$ISSUE_FILE" ]; then
+            echo "exists=true" >> "$GITHUB_OUTPUT"
+            echo "Idempotent skip: ${ISSUE_FILE} already exists."
+          else
+            echo "exists=false" >> "$GITHUB_OUTPUT"
+            echo "No issue found for ${TODAY}; generation will run."
+          fi
+
+      - name: Skip because today's issue already exists
+        if: steps.guard.outputs.exists == 'true'
+        run: |
+          echo "Today's issue already exists: ${{ steps.guard.outputs.issue_file }}"
+          echo "This redundant schedule slot exits successfully without duplicate publishing."
+
       - name: Setup Node
+        if: steps.guard.outputs.exists != 'true'
         uses: actions/setup-node@v4
         with:
           node-version: '20'
 
       - name: Install dependencies
+        if: steps.guard.outputs.exists != 'true'
         run: npm ci || npm install
 
       - name: Generate daily issue
+        if: steps.guard.outputs.exists != 'true'
         env:
           TZ: Asia/Shanghai
         run: npm run daily
 
       - name: Run QA
+        if: steps.guard.outputs.exists != 'true'
         env:
           TZ: Asia/Shanghai
         run: npm run qa
 
       - name: Build site
+        if: steps.guard.outputs.exists != 'true'
         run: npm run build
 
       - name: Commit and push if changed
+        if: steps.guard.outputs.exists != 'true'
         env:
           TZ: Asia/Shanghai
         run: |
+          git pull --rebase || true
           if git diff --quiet; then
             echo "No changes to commit."
           else
