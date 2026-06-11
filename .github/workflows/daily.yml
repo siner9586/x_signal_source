@@ -79,11 +79,16 @@ jobs:
         if: steps.guard.outputs.exists != 'true'
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '24'
 
       - name: Install dependencies
         if: steps.guard.outputs.exists != 'true'
-        run: npm ci || npm install
+        run: |
+          if [ -f package-lock.json ]; then
+            npm ci
+          else
+            npm install
+          fi
 
       - name: Generate daily issue
         if: steps.guard.outputs.exists != 'true'
