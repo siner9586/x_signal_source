@@ -466,5 +466,365 @@
     "cluster_id": "vercel_com_aa7cc9b5",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_57b698f398fa14f9",
+    "canonical_url": "https://openai.com/index/openai-to-acquire-ona",
+    "dedupe_key": "ad5afa21974cfef6",
+    "title": "OpenAI to acquire Ona",
+    "issue_date": "2026-06-12",
+    "cluster_id": "openai_com_c341cf92",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a1c5f4436ba1c513",
+    "canonical_url": "https://openai.com/index/next-phase-of-enterprise-ai",
+    "dedupe_key": "202b9e733051e009",
+    "title": "The next phase of enterprise AI",
+    "issue_date": "2026-06-12",
+    "cluster_id": "openai_com_18c2721f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_cfdabeb1e59f3f2e",
+    "canonical_url": "https://openai.com/index/gradient-labs",
+    "dedupe_key": "794a8ea747b3a8c7",
+    "title": "Gradient Labs gives every bank customer an AI account manager",
+    "issue_date": "2026-06-12",
+    "cluster_id": "openai_com_f8e0b168",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a034c5ba303c9c3b",
+    "canonical_url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+    "dedupe_key": "70822ffd720dd0cd",
+    "title": "How we monitor internal coding agents for misalignment",
+    "issue_date": "2026-06-12",
+    "cluster_id": "openai_com_71adaf0f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9a571f27820edc33",
+    "canonical_url": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
+    "dedupe_key": "f58c1ac7c341375d",
+    "title": "Designing AI agents to resist prompt injection",
+    "issue_date": "2026-06-12",
+    "cluster_id": "openai_com_a1326e60",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c071562506f62c59",
+    "canonical_url": "https://openai.com/index/balyasny-asset-management",
+    "dedupe_key": "96b471bc4e4334f6",
+    "title": "How Balyasny Asset Management built an AI research engine",
+    "issue_date": "2026-06-12",
+    "cluster_id": "openai_com_7591e382",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0e1eaaf184024485",
+    "canonical_url": "https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research",
+    "dedupe_key": "b3b80124c93f96d0",
+    "title": "Co-Scientist: A multi-agent AI partner to accelerate research",
+    "issue_date": "2026-06-12",
+    "cluster_id": "deepmind_google_35e91303",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_58b319b91aa8aa30",
+    "canonical_url": "https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds",
+    "dedupe_key": "8d2a35d960977435",
+    "title": "SIMA 2: An Agent that Plays, Reasons, and Learns With You in Virtual 3D Worlds",
+    "issue_date": "2026-06-12",
+    "cluster_id": "deepmind_google_a17d91f0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_276d8a6b1045e336",
+    "canonical_url": "https://deepmind.google/blog/gemini-robotics-15-brings-ai-agents-into-the-physical-world",
+    "dedupe_key": "3ea0bb1dede0d096",
+    "title": "Gemini Robotics 1.5 brings AI agents into the physical world",
+    "issue_date": "2026-06-12",
+    "cluster_id": "deepmind_google_f9d65922",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_904f821d2a173969",
+    "canonical_url": "https://deepmind.google/blog/introducing-codemender-an-ai-agent-for-code-security",
+    "dedupe_key": "b0a9adb9dc670065",
+    "title": "Introducing CodeMender: an AI agent for code security",
+    "issue_date": "2026-06-12",
+    "cluster_id": "deepmind_google_642d50d8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d5268d16eaa3c757",
+    "canonical_url": "https://developer.nvidia.com/blog/deploy-self-evolving-agents-for-faster-more-secure-research-with-a-hermes-agent-and-nvidia-nemoclaw",
+    "dedupe_key": "95503f8133cdb87e",
+    "title": "Deploy Self-Evolving Agents for Faster, More Secure Research with a Hermes Agent and NVIDIA NemoClaw",
+    "issue_date": "2026-06-12",
+    "cluster_id": "developer_nvidia_com_7de72aa1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_110151dfead241ff",
+    "canonical_url": "https://openai.com/index/why-codex-security-doesnt-include-sast",
+    "dedupe_key": "553b63c5af81b878",
+    "title": "Why Codex Security Doesn’t Include a SAST Report",
+    "issue_date": "2026-06-12",
+    "cluster_id": "openai_com_4104f3cd",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8c43042ba38916d5",
+    "canonical_url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research",
+    "dedupe_key": "aa4d00b11f6942b4",
+    "title": "Investing in multi-agent AI safety research",
+    "issue_date": "2026-06-12",
+    "cluster_id": "deepmind_google_5f1b2368",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_48b3b6b6f1f65ea8",
+    "canonical_url": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models",
+    "dedupe_key": "59da028dc5d19ffa",
+    "title": "Gemma 4: Byte for byte, the most capable open models",
+    "issue_date": "2026-06-12",
+    "cluster_id": "deepmind_google_27a4e42d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_bc62bdd1c954a927",
+    "canonical_url": "https://deepmind.google/blog/introducing-the-gemini-25-computer-use-model",
+    "dedupe_key": "d96f0922eaf5f588",
+    "title": "Introducing the Gemini 2.5 Computer Use model",
+    "issue_date": "2026-06-12",
+    "cluster_id": "deepmind_google_610371d6",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e7eb9f32484e4283",
+    "canonical_url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-powers-faster-more-efficient-reasoning-for-long-running-agents",
+    "dedupe_key": "0ff2569e0985d30d",
+    "title": "NVIDIA Nemotron 3 Ultra Powers Faster, More Efficient Reasoning for Long-Running Agents",
+    "issue_date": "2026-06-12",
+    "cluster_id": "developer_nvidia_com_643bf1dd",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_225133562d983b21",
+    "canonical_url": "https://vercel.com/blog/how-conductor-moved-parallel-coding-agents-from-the-laptop-to-the-cloud-with-vercel-sandbox",
+    "dedupe_key": "6f09aed3d7c5605f",
+    "title": "How Conductor moved parallel coding agents from the laptop to the cloud with Vercel Sandbox",
+    "issue_date": "2026-06-12",
+    "cluster_id": "vercel_com_ffc62d7c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_85157b31116cd3e9",
+    "canonical_url": "https://github.blog/security/making-secret-scanning-more-trustworthy-reducing-false-positives-at-scale",
+    "dedupe_key": "f7728b8a9f31a997",
+    "title": "Making secret scanning more trustworthy: Reducing false positives at scale",
+    "issue_date": "2026-06-12",
+    "cluster_id": "github_blog_63d2d047",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_451635770530e5bf",
+    "canonical_url": "https://huggingface.co/blog/dabstep",
+    "dedupe_key": "41b3957b07f127eb",
+    "title": "DABStep: Data Agent Benchmark for Multi-step Reasoning",
+    "issue_date": "2026-06-12",
+    "cluster_id": "huggingface_co_1b423777",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_24846f32b8512291",
+    "canonical_url": "https://a16z.com/podcast/building-search-for-ai-agents-with-exa-ceo-will-bryk",
+    "dedupe_key": "b9d5adddc047b376",
+    "title": "Building Search for AI Agents with Exa CEO Will Bryk",
+    "issue_date": "2026-06-12",
+    "cluster_id": "a16z_com_e7b7aa9d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c513537e9f104c9d",
+    "canonical_url": "https://a16z.com/podcast/ai-agents-and-the-fight-for-customer-data",
+    "dedupe_key": "1de5ceffafe03d3a",
+    "title": "AI Agents and the Fight for Customer Data",
+    "issue_date": "2026-06-12",
+    "cluster_id": "a16z_com_793296f4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_60fcbaa8bb12e4b4",
+    "canonical_url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai",
+    "dedupe_key": "bd275a8d1f9c864f",
+    "title": "Rethinking organizational design in the age of agentic AI",
+    "issue_date": "2026-06-12",
+    "cluster_id": "technologyreview_com_a513fc02",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_da1fb14a0b2564f1",
+    "canonical_url": "https://openai.com/index/nextdoor",
+    "dedupe_key": "cdcd8523a1c38cdc",
+    "title": "How engineers at Nextdoor use Codex to build without limits",
+    "issue_date": "2026-06-12",
+    "cluster_id": "openai_com_9c820248",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_77b72f917350c996",
+    "canonical_url": "https://openai.com/index/economic-research-exchange",
+    "dedupe_key": "8d6b38cf9be258bd",
+    "title": "Introducing the OpenAI Economic Research Exchange",
+    "issue_date": "2026-06-12",
+    "cluster_id": "openai_com_bbbafafc",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9e5876a427a62a85",
+    "canonical_url": "https://openai.com/index/codex-for-knowledge-work",
+    "dedupe_key": "b0372e509f145edf",
+    "title": "Codex is becoming a productivity tool for everyone",
+    "issue_date": "2026-06-12",
+    "cluster_id": "openai_com_3bbe43b0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_bfc85a2a6dc2f4e8",
+    "canonical_url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+    "dedupe_key": "b637788a0aecba9a",
+    "title": "OpenAI frontier models and Codex are now available on AWS",
+    "issue_date": "2026-06-12",
+    "cluster_id": "openai_com_4cef53de",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_26033013aa8154ae",
+    "canonical_url": "https://openai.com/index/openai-launches-the-deployment-company",
+    "dedupe_key": "cf064610f2e31e5c",
+    "title": "OpenAI launches DeployCo to help businesses build around intelligence",
+    "issue_date": "2026-06-12",
+    "cluster_id": "openai_com_3f40f3fa",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_fbc2623af6d85d63",
+    "canonical_url": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
+    "dedupe_key": "b398d6a70a63281c",
+    "title": "OpenAI helps Hyatt advance AI among colleagues",
+    "issue_date": "2026-06-12",
+    "cluster_id": "openai_com_cfff1f3d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_72a73357c2b248b1",
+    "canonical_url": "https://openai.com/academy/applications-of-ai",
+    "dedupe_key": "d4490affb36b6b72",
+    "title": "Applications of AI at OpenAI",
+    "issue_date": "2026-06-12",
+    "cluster_id": "openai_com_cc2f17cc",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7819f547a15d80e8",
+    "canonical_url": "https://openai.com/index/stadler",
+    "dedupe_key": "63a7bf06c6914a2b",
+    "title": "STADLER reshapes knowledge work at a 230-year-old company",
+    "issue_date": "2026-06-12",
+    "cluster_id": "openai_com_c0077df8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e011462e65e0f8af",
+    "canonical_url": "https://openai.com/index/wayfair",
+    "dedupe_key": "6f5bd19bca341cc7",
+    "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+    "issue_date": "2026-06-12",
+    "cluster_id": "openai_com_e0e55566",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b042f6b692a4ef20",
+    "canonical_url": "https://openai.com/index/continuing-microsoft-partnership",
+    "dedupe_key": "3f1f6439cb9d76f7",
+    "title": "Joint Statement from OpenAI and Microsoft",
+    "issue_date": "2026-06-12",
+    "cluster_id": "openai_com_651975f4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_038cfd7ac256e49a",
+    "canonical_url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate",
+    "dedupe_key": "acc4920a0a140e9c",
+    "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+    "issue_date": "2026-06-12",
+    "cluster_id": "deepmind_google_b1cd8e4b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_619a26a7792ad96d",
+    "canonical_url": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond",
+    "dedupe_key": "77f97e373c693149",
+    "title": "Measuring the impact of learning with AI in Sierra Leone and beyond",
+    "issue_date": "2026-06-12",
+    "cluster_id": "deepmind_google_f2f73ad1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a0b74ca03a6c383c",
+    "canonical_url": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view",
+    "dedupe_key": "8469fd69ddf2548e",
+    "title": "Simulate real-world places with Project Genie and Street View",
+    "issue_date": "2026-06-12",
+    "cluster_id": "deepmind_google_d0c90e0f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d94915157e3789e5",
+    "canonical_url": "https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery",
+    "dedupe_key": "a02edcfd066e5d30",
+    "title": "Gemini for Science: AI experiments and tools for a new era of discovery",
+    "issue_date": "2026-06-12",
+    "cluster_id": "deepmind_google_9de3ae64",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
