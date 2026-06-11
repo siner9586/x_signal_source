@@ -1,6 +1,536 @@
 [
-  {"title":"OpenAI 官方新闻与研究入口","url":"https://openai.com/news","summary":"OpenAI 官方新闻页是模型、产品、研究与安全公告的一手入口。","tags":["ai_models","official","research"],"author":"OpenAI","source":"openai.com","date":"2026-06-10","score":95},
-  {"title":"Anthropic 新闻与研究入口","url":"https://www.anthropic.com/news","summary":"Anthropic 新闻与研究页可用于追踪 Claude、AI safety、模型能力与企业产品更新。","tags":["safety","claude","official"],"author":"Anthropic","source":"anthropic.com","date":"2026-06-10","score":94},
-  {"title":"Google DeepMind 研究与博客入口","url":"https://deepmind.google/discover/blog","summary":"DeepMind 博客是多模态、推理、机器人和科学发现类信号的高可信来源。","tags":["research","multimodal","science"],"author":"Google DeepMind","source":"deepmind.google","date":"2026-06-10","score":93},
-  {"title":"Hugging Face Papers 社区论文入口","url":"https://huggingface.co/papers","summary":"Hugging Face Papers 连接论文、模型卡和社区讨论。","tags":["papers","open_source","models"],"author":"Hugging Face","source":"huggingface.co","date":"2026-06-10","score":91}
+  {
+    "title": "Introducing GPT-5.4 mini and nano",
+    "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+    "summary": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-06-11",
+    "score": 76
+  },
+  {
+    "title": "Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting",
+    "url": "https://openai.com/index/pacific-northwest-national-laboratory",
+    "summary": "OpenAI and Pacific Northwest National Laboratory introduce DraftNEPABench, a new benchmark evaluating how AI coding agents can accelerate federal permitting—showing potential to reduce NEPA drafting time by up to 15% and modernize infrastructure reviews.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-06-11",
+    "score": 76
+  },
+  {
+    "title": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
+    "url": "https://deepmind.google/blog/alphaevolve-impact",
+    "summary": "Explore how AlphaEvolve's Gemini-powered algorithms are driving impact across business, infrastructure, and science.",
+    "tags": [
+      "research",
+      "multimodal",
+      "science",
+      "official"
+    ],
+    "author": "Google DeepMind",
+    "source": "deepmind.google",
+    "date": "2026-06-11",
+    "score": 75
+  },
+  {
+    "title": "OpenAI and Amazon announce strategic partnership",
+    "url": "https://openai.com/index/amazon-partnership",
+    "summary": "OpenAI and Amazon announce a strategic partnership bringing OpenAI’s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterprise AI agents.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-06-11",
+    "score": 74
+  },
+  {
+    "title": "Accelerating Federated Learning Research with AI Agents and NVIDIA FLARE Auto-FL",
+    "url": "https://developer.nvidia.com/blog/accelerating-federated-learning-research-with-ai-agents-and-nvidia-flare-auto-fl",
+    "summary": "NVIDIA Technical Blog · Accelerating Federated Learning Research with AI Agents and NVIDIA FLARE Auto-FL",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-06-11",
+    "score": 74
+  },
+  {
+    "title": "How Endava is redesigning software delivery around AI agents",
+    "url": "https://openai.com/index/endava-frontiers",
+    "summary": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-06-11",
+    "score": 72
+  },
+  {
+    "title": "Warp’s big bet on building open source with GPT-5.5",
+    "url": "https://openai.com/index/warp",
+    "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-06-11",
+    "score": 72
+  },
+  {
+    "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+    "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+    "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-06-11",
+    "score": 72
+  },
+  {
+    "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+    "url": "https://openai.com/index/dell-codex-enterprise-partnership",
+    "summary": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-06-11",
+    "score": 72
+  },
+  {
+    "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+    "url": "https://openai.com/index/databricks",
+    "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-06-11",
+    "score": 72
+  },
+  {
+    "title": "What Parameter Golf taught us about AI-assisted research",
+    "url": "https://openai.com/index/what-parameter-golf-taught-us",
+    "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-06-11",
+    "score": 72
+  },
+  {
+    "title": "Running Codex safely at OpenAI",
+    "url": "https://openai.com/index/running-codex-safely",
+    "summary": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-06-11",
+    "score": 72
+  },
+  {
+    "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
+    "url": "https://openai.com/index/openai-pwc-finance-collaboration",
+    "summary": "OpenAI and PwC are partnering to help enterprises use AI agents to automate finance workflows, improve forecasting, strengthen controls, and modernize the CFO function.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-06-11",
+    "score": 72
+  },
+  {
+    "title": "Choco automates food distribution with AI agents",
+    "url": "https://openai.com/index/choco",
+    "summary": "How Choco used OpenAI APIs to streamline food distribution, boost productivity, and unlock growth—an in-depth customer story on real-world AI impact.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-06-11",
+    "score": 72
+  },
+  {
+    "title": "Speeding up agentic workflows with WebSockets in the Responses API",
+    "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
+    "summary": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-06-11",
+    "score": 72
+  },
+  {
+    "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
+    "url": "https://openai.com/index/cloudflare-openai-agent-cloud",
+    "summary": "Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-06-11",
+    "score": 72
+  },
+  {
+    "title": "Introducing new capabilities to GPT-Rosalind",
+    "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+    "summary": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-06-11",
+    "score": 69
+  },
+  {
+    "title": "A blueprint for democratic governance of frontier AI",
+    "url": "https://openai.com/index/frontier-safety-blueprint",
+    "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-06-11",
+    "score": 69
+  },
+  {
+    "title": "OpenAI’s Frontier Governance Framework",
+    "url": "https://openai.com/index/openai-frontier-governance-framework",
+    "summary": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-06-11",
+    "score": 69
+  },
+  {
+    "title": "What is Codex?",
+    "url": "https://openai.com/academy/what-is-codex",
+    "summary": "Learn how Codex helps you go beyond chat by automating tasks, connecting tools, and producing real outputs like docs and dashboards.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-06-11",
+    "score": 69
+  },
+  {
+    "title": "Introducing ChatGPT Images 2.0",
+    "url": "https://openai.com/index/introducing-chatgpt-images-2-0",
+    "summary": "ChatGPT Images 2.0 introduces a state-of-the-art image generation model with improved text rendering, multilingual support, and advanced visual reasoning.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-06-11",
+    "score": 69
+  },
+  {
+    "title": "Introducing GPT-Rosalind for life sciences research",
+    "url": "https://openai.com/index/introducing-gpt-rosalind",
+    "summary": "OpenAI introduces GPT-Rosalind, a frontier reasoning model built to accelerate drug discovery, genomics analysis, protein reasoning, and scientific research workflows.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-06-11",
+    "score": 69
+  },
+  {
+    "title": "Inside our approach to the Model Spec",
+    "url": "https://openai.com/index/our-approach-to-the-model-spec",
+    "summary": "Learn how OpenAI’s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-06-11",
+    "score": 69
+  },
+  {
+    "title": "How Descript engineers multilingual video dubbing at scale",
+    "url": "https://openai.com/index/descript",
+    "summary": "Using OpenAI reasoning models, Descript unlocked automatic localization of large content libraries without losing timing or meaning.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-06-11",
+    "score": 69
+  },
+  {
+    "title": "Reasoning models struggle to control their chains of thought, and that’s good",
+    "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
+    "summary": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-06-11",
+    "score": 69
+  },
+  {
+    "title": "Introducing the Adoption news channel",
+    "url": "https://openai.com/index/introducing-the-adoption-news-channel",
+    "summary": "Practical insights and frameworks to turn AI progress into business advantage",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-06-11",
+    "score": 69
+  },
+  {
+    "title": "Product May 28, 2026 Introducing Claude Opus 4.8 An upgrade to our Opus class of models, with stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running work.",
+    "url": "https://www.anthropic.com/news/claude-opus-4-8",
+    "summary": "Newsroom \\ Anthropic · Product May 28, 2026 Introducing Claude Opus 4.8 An upgrade to our Opus class of models, with stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running work.",
+    "tags": [
+      "ai_models",
+      "safety",
+      "official"
+    ],
+    "author": "Anthropic",
+    "source": "anthropic.com",
+    "date": "2026-06-11",
+    "score": 69
+  },
+  {
+    "title": "Gemini 3.5: frontier intelligence with action",
+    "url": "https://deepmind.google/blog/gemini-3-5-frontier-intelligence-with-action",
+    "summary": "Gemini 3.5 is built to help you execute complex, agentic workflows.",
+    "tags": [
+      "research",
+      "multimodal",
+      "science",
+      "official"
+    ],
+    "author": "Google DeepMind",
+    "source": "deepmind.google",
+    "date": "2026-06-11",
+    "score": 69
+  },
+  {
+    "title": "Measuring progress toward AGI: A cognitive framework",
+    "url": "https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework",
+    "summary": "We’re introducing a framework to measure progress toward AGI, and launching a Kaggle hackathon to build the relevant evaluations.",
+    "tags": [
+      "research",
+      "multimodal",
+      "science",
+      "official"
+    ],
+    "author": "Google DeepMind",
+    "source": "deepmind.google",
+    "date": "2026-06-11",
+    "score": 69
+  },
+  {
+    "title": "Accelerating Mathematical and Scientific Discovery with Gemini Deep Think",
+    "url": "https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think",
+    "summary": "Research papers point to the growing impact of Deep Think across fields",
+    "tags": [
+      "research",
+      "multimodal",
+      "science",
+      "official"
+    ],
+    "author": "Google DeepMind",
+    "source": "deepmind.google",
+    "date": "2026-06-11",
+    "score": 69
+  },
+  {
+    "title": "FACTS Benchmark Suite: Systematically evaluating the factuality of large language models",
+    "url": "https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models",
+    "summary": "Systematically evaluating the factuality of large language models with the FACTS Benchmark Suite.",
+    "tags": [
+      "research",
+      "multimodal",
+      "science",
+      "official"
+    ],
+    "author": "Google DeepMind",
+    "source": "deepmind.google",
+    "date": "2026-06-11",
+    "score": 69
+  },
+  {
+    "title": "Gemini 2.5 Flash-Lite is now ready for scaled production use",
+    "url": "https://deepmind.google/blog/gemini-25-flash-lite-is-now-ready-for-scaled-production-use",
+    "summary": "Gemini 2.5 Flash-Lite, previously in preview, is now stable and generally available. This cost-efficient model provides high quality in a small size, and includes 2.5 family features like a 1 million-token context window and multimodality.",
+    "tags": [
+      "research",
+      "multimodal",
+      "science",
+      "official"
+    ],
+    "author": "Google DeepMind",
+    "source": "deepmind.google",
+    "date": "2026-06-11",
+    "score": 69
+  },
+  {
+    "title": "NVIDIA Vera CPU Sets a New Standard for Agentic Workloads in AI Factories",
+    "url": "https://developer.nvidia.com/blog/nvidia-vera-cpu-sets-a-new-standard-for-agentic-workloads-in-ai-factories",
+    "summary": "NVIDIA Technical Blog · NVIDIA Vera CPU Sets a New Standard for Agentic Workloads in AI Factories",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-06-11",
+    "score": 69
+  },
+  {
+    "title": "Evaluate Clinical ASR Models Faster with Agent Skills and NVIDIA Nemotron Speech",
+    "url": "https://developer.nvidia.com/blog/evaluate-clinical-asr-models-faster-with-agent-skills-and-nvidia-nemotron-speech",
+    "summary": "NVIDIA Technical Blog · Evaluate Clinical ASR Models Faster with Agent Skills and NVIDIA Nemotron Speech",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-06-11",
+    "score": 69
+  },
+  {
+    "title": "Budgets for API keys on AI Gateway",
+    "url": "https://vercel.com/changelog/budgets-for-api-keys-on-ai-gateway",
+    "summary": "AI costs are getting harder to forecast. As teams lean more on coding agents and other token-heavy workflows, a key can burn cost faster than anyone notices: Autonomous workflows that can loop or fan out without supervision Demos and prototypes that could catch unexpected traffic if shared or shipped Developers exploring or experimenting without a sense of per-model cost Set a spend cap on any key, and AI Gateway rejects further requests on that key once the limit is exceeded",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-06-11",
+    "score": 69
+  },
+  {
+    "title": "Opus 4.8 on AI Gateway",
+    "url": "https://vercel.com/changelog/opus-4-8-on-ai-gateway",
+    "summary": "Claude Opus 4.8 is now available on Vercel AI Gateway . Claude Opus 4.8 is built for long-horizon agentic execution and handles complex, multi-step coding tasks like refactors that previously required human correction mid-task. The model also produces clearer, less hedgy prose for knowledge work like drafting documents, analyzing data, and building presentations. To use Opus 4.8, set model to anthropic/claude-opus-4.8 in the AI SDK . AI Gateway provides a unified API for call",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-06-11",
+    "score": 69
+  }
 ]
