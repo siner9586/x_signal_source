@@ -14,7 +14,7 @@ const selected = [...(latest.must_read||[]), ...(latest.worth_reading||[]), ...(
 ---
 <BaseLayout title="X Signal Source | 今日高价值信号源">
   <section class="hero shell">
-    <span class="eyebrow">Daily · 06:12 BJT · Public sources only</span>
+    <span class="eyebrow">Daily · Public sources only</span>
     <h1>Today’s X Signal Source</h1>
     <p>{latest.summary?.one_liner}</p>
     {latest.metadata?.initial_source_index && <div class="notice">本期为初始来源索引，不伪装成真实抓取新闻；后续每日从公开 RSS、博客、GitHub、播客和人工维护 seed 中增量更新。</div>}
