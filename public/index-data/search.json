@@ -1,158 +1,8 @@
 [
   {
-    "title": "OpenAI to acquire Ona",
-    "url": "https://openai.com/index/openai-to-acquire-ona",
-    "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-06-12",
-    "score": 72
-  },
-  {
-    "title": "The next phase of enterprise AI",
-    "url": "https://openai.com/index/next-phase-of-enterprise-ai",
-    "summary": "OpenAI outlines the next phase of enterprise AI, as adoption accelerates across industries with Frontier, ChatGPT Enterprise, Codex, and company-wide AI agents.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-06-12",
-    "score": 72
-  },
-  {
-    "title": "Gradient Labs gives every bank customer an AI account manager",
-    "url": "https://openai.com/index/gradient-labs",
-    "summary": "Gradient Labs uses GPT-4.1 and GPT-5.4 mini and nano to power AI agents that automate banking support workflows with low latency and high reliability.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-06-12",
-    "score": 72
-  },
-  {
-    "title": "How we monitor internal coding agents for misalignment",
-    "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-    "summary": "How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents—analyzing real-world deployments to detect risks and strengthen AI safety safeguards.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-06-12",
-    "score": 72
-  },
-  {
-    "title": "Designing AI agents to resist prompt injection",
-    "url": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
-    "summary": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-06-12",
-    "score": 72
-  },
-  {
-    "title": "How Balyasny Asset Management built an AI research engine",
-    "url": "https://openai.com/index/balyasny-asset-management",
-    "summary": "By combining rigorous model evaluation, full-platform use of OpenAI, and agent workflows, Balyasny is reinventing investment research.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-06-12",
-    "score": 72
-  },
-  {
-    "title": "Co-Scientist: A multi-agent AI partner to accelerate research",
-    "url": "https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research",
-    "summary": "Introducing Co-Scientist, a collaborative AI partner built with Gemini to help researchers accelerate scientific breakthroughs.",
-    "tags": [
-      "research",
-      "multimodal",
-      "science",
-      "official"
-    ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-06-12",
-    "score": 72
-  },
-  {
-    "title": "SIMA 2: An Agent that Plays, Reasons, and Learns With You in Virtual 3D Worlds",
-    "url": "https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds",
-    "summary": "Introducing SIMA 2, a Gemini-powered AI agent that can think, understand, and take actions in interactive environments.",
-    "tags": [
-      "research",
-      "multimodal",
-      "science",
-      "official"
-    ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-06-12",
-    "score": 72
-  },
-  {
-    "title": "Gemini Robotics 1.5 brings AI agents into the physical world",
-    "url": "https://deepmind.google/blog/gemini-robotics-15-brings-ai-agents-into-the-physical-world",
-    "summary": "We’re powering an era of physical agents — enabling robots to perceive, plan, think, use tools and act to better solve complex, multi-step tasks.",
-    "tags": [
-      "research",
-      "multimodal",
-      "science",
-      "official"
-    ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-06-12",
-    "score": 72
-  },
-  {
-    "title": "Introducing CodeMender: an AI agent for code security",
-    "url": "https://deepmind.google/blog/introducing-codemender-an-ai-agent-for-code-security",
-    "summary": "Using advanced AI to fix critical software vulnerabilities",
-    "tags": [
-      "research",
-      "multimodal",
-      "science",
-      "official"
-    ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-06-12",
-    "score": 72
-  },
-  {
-    "title": "Deploy Self-Evolving Agents for Faster, More Secure Research with a Hermes Agent and NVIDIA NemoClaw",
-    "url": "https://developer.nvidia.com/blog/deploy-self-evolving-agents-for-faster-more-secure-research-with-a-hermes-agent-and-nvidia-nemoclaw",
-    "summary": "AI agents are a powerful tool for synthesizing data to accelerate research, summarize information, and help teams make decisions faster. But combining internal...",
+    "title": "NVIDIA Achieves Leading Agentic Coding Performance on First Agentic AI Benchmark",
+    "url": "https://developer.nvidia.com/blog/nvidia-achieves-leading-agentic-coding-performance-on-first-agentic-ai-benchmark",
+    "summary": "NVIDIA Technical Blog · NVIDIA Achieves Leading Agentic Coding Performance on First Agentic AI Benchmark",
     "tags": [
       "gpu",
       "inference",
@@ -160,73 +10,13 @@
     ],
     "author": "NVIDIA AI",
     "source": "developer.nvidia.com",
-    "date": "2026-06-12",
-    "score": 72
+    "date": "2026-06-13",
+    "score": 74
   },
   {
-    "title": "Why Codex Security Doesn’t Include a SAST Report",
-    "url": "https://openai.com/index/why-codex-security-doesnt-include-sast",
-    "summary": "A deep dive into why Codex Security doesn’t rely on traditional SAST, instead using AI-driven constraint reasoning and validation to find real vulnerabilities with fewer false positives.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-06-12",
-    "score": 71
-  },
-  {
-    "title": "Investing in multi-agent AI safety research",
-    "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research",
-    "summary": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
-    "tags": [
-      "research",
-      "multimodal",
-      "science",
-      "official"
-    ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-06-12",
-    "score": 71
-  },
-  {
-    "title": "Gemma 4: Byte for byte, the most capable open models",
-    "url": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models",
-    "summary": "Gemma 4: Our most intelligent open models to date, purpose-built for advanced reasoning and agentic workflows.",
-    "tags": [
-      "research",
-      "multimodal",
-      "science",
-      "official"
-    ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-06-12",
-    "score": 71
-  },
-  {
-    "title": "Introducing the Gemini 2.5 Computer Use model",
-    "url": "https://deepmind.google/blog/introducing-the-gemini-25-computer-use-model",
-    "summary": "Available in preview via the API, our Computer Use model is a specialized model built on Gemini 2.5 Pro’s capabilities to power agents that can interact with user interfaces.",
-    "tags": [
-      "research",
-      "multimodal",
-      "science",
-      "official"
-    ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-06-12",
-    "score": 71
-  },
-  {
-    "title": "NVIDIA Nemotron 3 Ultra Powers Faster, More Efficient Reasoning for Long-Running Agents",
-    "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-powers-faster-more-efficient-reasoning-for-long-running-agents",
-    "summary": "NVIDIA Technical Blog · NVIDIA Nemotron 3 Ultra Powers Faster, More Efficient Reasoning for Long-Running Agents",
+    "title": "Deploy Long-Context Reasoning and Agentic Workflows with MiniMax M3 on NVIDIA Accelerated Infrastructure",
+    "url": "https://developer.nvidia.com/blog/deploy-long-context-reasoning-and-agentic-workflows-with-minimax-m3-on-nvidia-accelerated-infrastructure",
+    "summary": "NVIDIA Technical Blog · Deploy Long-Context Reasoning and Agentic Workflows with MiniMax M3 on NVIDIA Accelerated Infrastructure",
     "tags": [
       "gpu",
       "inference",
@@ -234,13 +24,13 @@
     ],
     "author": "NVIDIA AI",
     "source": "developer.nvidia.com",
-    "date": "2026-06-12",
+    "date": "2026-06-13",
     "score": 71
   },
   {
-    "title": "How Conductor moved parallel coding agents from the laptop to the cloud with Vercel Sandbox",
-    "url": "https://vercel.com/blog/how-conductor-moved-parallel-coding-agents-from-the-laptop-to-the-cloud-with-vercel-sandbox",
-    "summary": "Conductor on Vercel Multiple parallel coding agents running at scale in the cloud Model-agnostic, works with Claude Code, Codex, and other coding agents Used by engineering teams at Notion, Linear, Ramp, and Life360 Interacting with a single coding agent feels natural, and Conductor makes directing a fleet of agents just as intuitive. It's a GUI for spinning up multiple coding agents in parallel, each working on an isolated branch of your codebase at once. You review their wo",
+    "title": "Qwen 3.7 Plus now available on AI Gateway",
+    "url": "https://vercel.com/changelog/qwen-3-7-plus-now-available-on-ai-gateway",
+    "summary": "Qwen 3.7 Plus from Alibaba is now available on Vercel AI Gateway . Both Qwen 3.7 Plus and 3.7 Max are free for paid AI Gateway users till 6/4/26 12:00pm PT. The model unifies vision and language into a single agent foundation, with capabilities spanning GUI and CLI operation, coding and productivity workflows with full-modality input, and visual agent tasks including perception and reasoning. It is designed to generalize across diverse agent harnesses. To use Qwen 3.7 Plus, s",
     "tags": [
       "sdk",
       "ai_infra",
@@ -248,26 +38,54 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-06-12",
-    "score": 69
+    "date": "2026-06-13",
+    "score": 71
   },
   {
-    "title": "Making secret scanning more trustworthy: Reducing false positives at scale",
-    "url": "https://github.blog/security/making-secret-scanning-more-trustworthy-reducing-false-positives-at-scale",
-    "summary": "Alerts are more trustworthy and actionable when noise is reduced. See how we improved the verification step with context-aware LLM reasoning. The post Making secret scanning more trustworthy: Reducing false positives at scale appeared first on The GitHub Blog .",
+    "title": "Qwen 3.7 Max now available on Vercel AI Gateway",
+    "url": "https://vercel.com/changelog/qwen-3-7-max-now-available-on-vercel-ai-gateway",
+    "summary": "Qwen 3.7 Max from Alibaba is now available on Vercel AI Gateway . The model is designed as an agent foundation, with capabilities spanning coding, office workflow automation, and long-horizon autonomous execution. Qwen 3.7 Max shows improvements in frontend prototyping and complex multi-file engineering. The model supports office and productivity tasks through multi-agent orchestration and sustains coherent reasoning across long-horizon tool-calling sessions. To use Qwen 3.7 ",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-06-13",
+    "score": 71
+  },
+  {
+    "title": "Grok Build 0.1 now available on Vercel AI Gateway",
+    "url": "https://vercel.com/changelog/grok-build-0-1-now-available-on-vercel-ai-gateway",
+    "summary": "Grok Build 0.1 is now available on Vercel AI Gateway . This is a beta coding model trained for agentic coding, currently in early access, and powers the Grok Build CLI app. Reasoning effort is not configurable, and there is no non-reasoning mode. To use Grok Build 0.1, set model to xai/grok-build-0.1 in the AI SDK . AI Gateway provides a unified API for calling models, tracking usage and cost, and configuring retries, failover, and performance optimizations for higher-than-pr",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-06-13",
+    "score": 71
+  },
+  {
+    "title": "Vulnerability research",
+    "url": "https://github.blog/security/vulnerability-research",
+    "summary": "Home - The GitHub Blog · Vulnerability research",
     "tags": [
       "ai_coding",
       "developer_tools"
     ],
     "author": "GitHub Copilot",
     "source": "github.blog",
-    "date": "2026-06-12",
-    "score": 69
+    "date": "2026-06-13",
+    "score": 71
   },
   {
-    "title": "DABStep: Data Agent Benchmark for Multi-step Reasoning",
-    "url": "https://huggingface.co/blog/dabstep",
-    "summary": "DABStep: Data Agent Benchmark for Multi-step Reasoning 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech ServiceNow-AI • 3 days ago • 42",
+    "url": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
+    "summary": "Hugging Face – Blog · Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech ServiceNow-AI • 3 days ago • 42",
     "tags": [
       "open_source",
       "papers",
@@ -275,55 +93,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-06-12",
-    "score": 69
+    "date": "2026-06-13",
+    "score": 71
   },
   {
-    "title": "Building Search for AI Agents with Exa CEO Will Bryk",
-    "url": "https://a16z.com/podcast/building-search-for-ai-agents-with-exa-ceo-will-bryk",
-    "summary": "AI a16z | Andreessen Horowitz · Building Search for AI Agents with Exa CEO Will Bryk",
-    "tags": [
-      "investment",
-      "startup",
-      "thesis"
-    ],
-    "author": "a16z AI",
-    "source": "a16z.com",
-    "date": "2026-06-12",
-    "score": 69
-  },
-  {
-    "title": "AI Agents and the Fight for Customer Data",
-    "url": "https://a16z.com/podcast/ai-agents-and-the-fight-for-customer-data",
-    "summary": "AI a16z | Andreessen Horowitz · AI Agents and the Fight for Customer Data",
-    "tags": [
-      "investment",
-      "startup",
-      "thesis"
-    ],
-    "author": "a16z AI",
-    "source": "a16z.com",
-    "date": "2026-06-12",
-    "score": 69
-  },
-  {
-    "title": "Rethinking organizational design in the age of agentic AI",
-    "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai",
-    "summary": "Amid rapidly growing adoption of enterprise-level AI agents, there’s a disconnect emerging between ambition and execution.&#160; Although 85% of organizations say they want to be agentic within the next three years, 76% say their current operations and infrastructure can’t support that change. They cite a lack of readiness across people, processes, and workflows.&#160; The sticky&#8230;",
-    "tags": [
-      "ai",
-      "research",
-      "society"
-    ],
-    "author": "MIT Technology Review AI",
-    "source": "technologyreview.com",
-    "date": "2026-06-12",
-    "score": 69
-  },
-  {
-    "title": "How engineers at Nextdoor use Codex to build without limits",
-    "url": "https://openai.com/index/nextdoor",
-    "summary": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
+    "title": "New OpenAI Academy courses for the next era of work",
+    "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+    "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
     "tags": [
       "ai_models",
       "official",
@@ -332,13 +108,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-06-12",
-    "score": 68
+    "date": "2026-06-13",
+    "score": 70
   },
   {
-    "title": "Introducing the OpenAI Economic Research Exchange",
-    "url": "https://openai.com/index/economic-research-exchange",
-    "summary": "OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects.",
+    "title": "Building the infrastructure for the Intelligence Age in Michigan",
+    "url": "https://openai.com/index/stargate-michigan-data-center",
+    "summary": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
     "tags": [
       "ai_models",
       "official",
@@ -347,13 +123,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-06-12",
-    "score": 68
+    "date": "2026-06-13",
+    "score": 70
   },
   {
-    "title": "Codex is becoming a productivity tool for everyone",
-    "url": "https://openai.com/index/codex-for-knowledge-work",
-    "summary": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation.",
+    "title": "How Endava builds an agentic organization with Codex",
+    "url": "https://openai.com/index/endava",
+    "summary": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
     "tags": [
       "ai_models",
       "official",
@@ -362,13 +138,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-06-12",
-    "score": 68
+    "date": "2026-06-13",
+    "score": 70
   },
   {
-    "title": "OpenAI frontier models and Codex are now available on AWS",
-    "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
-    "summary": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with OpenAI on AWS and move faster from evaluation to production.",
+    "title": "Building self-improving tax agents with Codex",
+    "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+    "summary": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
     "tags": [
       "ai_models",
       "official",
@@ -377,13 +153,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-06-12",
-    "score": 68
+    "date": "2026-06-13",
+    "score": 70
   },
   {
-    "title": "OpenAI launches DeployCo to help businesses build around intelligence",
-    "url": "https://openai.com/index/openai-launches-the-deployment-company",
-    "summary": "OpenAI launches DeployCo, a new enterprise deployment company built to help organizations bring frontier AI into production and turn it into measurable business impact.",
+    "title": "Sea's View on the Future of Agentic Software Development with Codex",
+    "url": "https://openai.com/index/sea-david-chen",
+    "summary": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
     "tags": [
       "ai_models",
       "official",
@@ -392,13 +168,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-06-12",
-    "score": 68
+    "date": "2026-06-13",
+    "score": 70
   },
   {
-    "title": "OpenAI helps Hyatt advance AI among colleagues",
-    "url": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
-    "summary": "Hyatt deploys ChatGPT Enterprise across its global workforce, using GPT-5.4 and Codex to improve productivity, operations, and guest experiences.",
+    "title": "Work with Codex from anywhere",
+    "url": "https://openai.com/index/work-with-codex-from-anywhere",
+    "summary": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.",
     "tags": [
       "ai_models",
       "official",
@@ -407,13 +183,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-06-12",
-    "score": 68
+    "date": "2026-06-13",
+    "score": 70
   },
   {
-    "title": "Applications of AI at OpenAI",
-    "url": "https://openai.com/academy/applications-of-ai",
-    "summary": "Explore how OpenAI products like ChatGPT, Codex, and APIs bring AI into real-world use for work, development, and everyday tasks.",
+    "title": "How NVIDIA engineers and researchers build with Codex",
+    "url": "https://openai.com/index/nvidia",
+    "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
     "tags": [
       "ai_models",
       "official",
@@ -422,13 +198,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-06-12",
-    "score": 68
+    "date": "2026-06-13",
+    "score": 70
   },
   {
-    "title": "STADLER reshapes knowledge work at a 230-year-old company",
-    "url": "https://openai.com/index/stadler",
-    "summary": "Learn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across 650 employees.",
+    "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
+    "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+    "summary": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure.",
     "tags": [
       "ai_models",
       "official",
@@ -437,13 +213,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-06-12",
-    "score": 68
+    "date": "2026-06-13",
+    "score": 70
   },
   {
-    "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
-    "url": "https://openai.com/index/wayfair",
-    "summary": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
+    "title": "Parloa builds service agents customers want to talk to",
+    "url": "https://openai.com/index/parloa",
+    "summary": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions.",
     "tags": [
       "ai_models",
       "official",
@@ -452,28 +228,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-06-12",
-    "score": 68
+    "date": "2026-06-13",
+    "score": 70
   },
   {
-    "title": "Joint Statement from OpenAI and Microsoft",
-    "url": "https://openai.com/index/continuing-microsoft-partnership",
-    "summary": "Microsoft and OpenAI continue to work closely across research, engineering, and product development, building on years of deep collaboration and shared success.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-06-12",
-    "score": 68
-  },
-  {
-    "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
-    "url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate",
-    "summary": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet.",
+    "title": "Strengthening Singapore’s AI Future: A New National Partnership",
+    "url": "https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership",
+    "summary": "Google DeepMind and Singapore partner to apply frontier AI to address complex challenges across health, education, and sustainability and more.",
     "tags": [
       "research",
       "multimodal",
@@ -482,13 +243,13 @@
     ],
     "author": "Google DeepMind",
     "source": "deepmind.google",
-    "date": "2026-06-12",
+    "date": "2026-06-13",
     "score": 68
   },
   {
-    "title": "Measuring the impact of learning with AI in Sierra Leone and beyond",
-    "url": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond",
-    "summary": "Results from a randomized controlled trial show the potential of Gemini’s Guided Learning feature to boost engagement and accelerate learning.",
+    "title": "Accelerating discovery of liver disease mechanisms",
+    "url": "https://deepmind.google/blog/accelerating-discovery-of-liver-disease-mechanisms",
+    "summary": "Filippo Menolascina uses Co-Scientist to identify new liver disease treatments and explain why existing drugs only help certain patients.",
     "tags": [
       "research",
       "multimodal",
@@ -497,13 +258,13 @@
     ],
     "author": "Google DeepMind",
     "source": "deepmind.google",
-    "date": "2026-06-12",
+    "date": "2026-06-13",
     "score": 68
   },
   {
-    "title": "Simulate real-world places with Project Genie and Street View",
-    "url": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view",
-    "summary": "We’re expanding access to Google AI Ultra subscribers globally and introducing a new capability powered by Street View.",
+    "title": "How WeatherNext helped the National Hurricane Center better predict Hurricane Melissa’s historic landfall in Jamaica",
+    "url": "https://deepmind.google/blog/how-weathernext-helped-the-national-hurricane-center-better-predict-hurricane-melissas-historic-landfall-in-jamaica",
+    "summary": "Learn how our WeatherNext AI model help forecasters give communities unprecedented time to prepare ahead of the historic Hurricane Melissa.",
     "tags": [
       "research",
       "multimodal",
@@ -512,13 +273,13 @@
     ],
     "author": "Google DeepMind",
     "source": "deepmind.google",
-    "date": "2026-06-12",
+    "date": "2026-06-13",
     "score": 68
   },
   {
-    "title": "Gemini for Science: AI experiments and tools for a new era of discovery",
-    "url": "https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery",
-    "summary": "A collection of science tools and experiments to expand the scale and precision of scientific exploration.",
+    "title": "Enabling a new model for healthcare with AI co-clinician",
+    "url": "https://deepmind.google/blog/ai-co-clinician",
+    "summary": "Researching the path to AI-augmented care and development of an AI co-clinician.",
     "tags": [
       "research",
       "multimodal",
@@ -527,7 +288,247 @@
     ],
     "author": "Google DeepMind",
     "source": "deepmind.google",
-    "date": "2026-06-12",
+    "date": "2026-06-13",
+    "score": 68
+  },
+  {
+    "title": "Announcing our partnership with the Republic of Korea",
+    "url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea",
+    "summary": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models",
+    "tags": [
+      "research",
+      "multimodal",
+      "science",
+      "official"
+    ],
+    "author": "Google DeepMind",
+    "source": "deepmind.google",
+    "date": "2026-06-13",
+    "score": 68
+  },
+  {
+    "title": "Decoupled DiLoCo: A new frontier for resilient, distributed AI training",
+    "url": "https://deepmind.google/blog/decoupled-diloco",
+    "summary": "Decoupled DiLoCo: A new frontier for resilient, distributed AI training 是 Google DeepMind 当日抓取到的公开新增条目。",
+    "tags": [
+      "research",
+      "multimodal",
+      "science",
+      "official"
+    ],
+    "author": "Google DeepMind",
+    "source": "deepmind.google",
+    "date": "2026-06-13",
+    "score": 68
+  },
+  {
+    "title": "Partnering with industry leaders to accelerate AI transformation",
+    "url": "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation",
+    "summary": "Google DeepMind partners with global consultancies to bring the power of frontier AI to organizations around the world.",
+    "tags": [
+      "research",
+      "multimodal",
+      "science",
+      "official"
+    ],
+    "author": "Google DeepMind",
+    "source": "deepmind.google",
+    "date": "2026-06-13",
+    "score": 68
+  },
+  {
+    "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+    "url": "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech",
+    "summary": "Our newest audio model introduces granular audio tags that give you precise control to direct AI speech for expressive audio generation.",
+    "tags": [
+      "research",
+      "multimodal",
+      "science",
+      "official"
+    ],
+    "author": "Google DeepMind",
+    "source": "deepmind.google",
+    "date": "2026-06-13",
+    "score": 68
+  },
+  {
+    "title": "Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning",
+    "url": "https://deepmind.google/blog/gemini-robotics-er-1-6",
+    "summary": "Gemini Robotics ER 1.6: Enhancing spatial reasoning and multi-view understanding for autonomous robotics.",
+    "tags": [
+      "research",
+      "multimodal",
+      "science",
+      "official"
+    ],
+    "author": "Google DeepMind",
+    "source": "deepmind.google",
+    "date": "2026-06-13",
+    "score": 68
+  },
+  {
+    "title": "Reimagining the mouse pointer for the AI era",
+    "url": "https://deepmind.google/blog/ai-pointer",
+    "summary": "Google DeepMind is transforming the mouse pointer into a context-aware AI partner. Move beyond the friction of traditional prompting with intuitive AI collaboration in Chrome and beyond.",
+    "tags": [
+      "research",
+      "multimodal",
+      "science",
+      "official"
+    ],
+    "author": "Google DeepMind",
+    "source": "deepmind.google",
+    "date": "2026-06-13",
+    "score": 68
+  },
+  {
+    "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+    "url": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable",
+    "summary": "Our latest voice model has improved precision and lower latency to make voice interactions more fluid, natural and precise.",
+    "tags": [
+      "research",
+      "multimodal",
+      "science",
+      "official"
+    ],
+    "author": "Google DeepMind",
+    "source": "deepmind.google",
+    "date": "2026-06-13",
+    "score": 68
+  },
+  {
+    "title": "Protecting people from harmful manipulation",
+    "url": "https://deepmind.google/blog/protecting-people-from-harmful-manipulation",
+    "summary": "Google DeepMind researches AI's harmful manipulation risks across areas like finance and health, leading to new safety measures.",
+    "tags": [
+      "research",
+      "multimodal",
+      "science",
+      "official"
+    ],
+    "author": "Google DeepMind",
+    "source": "deepmind.google",
+    "date": "2026-06-13",
+    "score": 68
+  },
+  {
+    "title": "Lyria 3 Pro: Create longer tracks in more",
+    "url": "https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more",
+    "summary": "Introducing Lyria 3 Pro, which unlocks longer tracks with structural awareness. We’re also bringing Lyria to more Google products and surfaces.",
+    "tags": [
+      "research",
+      "multimodal",
+      "science",
+      "official"
+    ],
+    "author": "Google DeepMind",
+    "source": "deepmind.google",
+    "date": "2026-06-13",
+    "score": 68
+  },
+  {
+    "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
+    "url": "https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed",
+    "summary": "Our latest image generation model offers advanced world knowledge, production ready specs, subject consistency and more, all at Flash speed.",
+    "tags": [
+      "research",
+      "multimodal",
+      "science",
+      "official"
+    ],
+    "author": "Google DeepMind",
+    "source": "deepmind.google",
+    "date": "2026-06-13",
+    "score": 68
+  },
+  {
+    "title": "Accelerating discovery in India through AI-powered science and education",
+    "url": "https://deepmind.google/blog/accelerating-discovery-in-india-through-ai-powered-science-and-education",
+    "summary": "Google DeepMind brings National Partnerships for AI initiative to India, scaling AI for science and education",
+    "tags": [
+      "research",
+      "multimodal",
+      "science",
+      "official"
+    ],
+    "author": "Google DeepMind",
+    "source": "deepmind.google",
+    "date": "2026-06-13",
+    "score": 68
+  },
+  {
+    "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
+    "url": "https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering",
+    "summary": "Our most specialized reasoning mode is now updated to solve modern science, research and engineering challenges.",
+    "tags": [
+      "research",
+      "multimodal",
+      "science",
+      "official"
+    ],
+    "author": "Google DeepMind",
+    "source": "deepmind.google",
+    "date": "2026-06-13",
+    "score": 68
+  },
+  {
+    "title": "Project Genie: Experimenting with infinite, interactive worlds",
+    "url": "https://deepmind.google/blog/project-genie-experimenting-with-infinite-interactive-worlds",
+    "summary": "Google AI Ultra subscribers in the U.S. can try out Project Genie, an experimental research prototype that lets you create and explore worlds.",
+    "tags": [
+      "research",
+      "multimodal",
+      "science",
+      "official"
+    ],
+    "author": "Google DeepMind",
+    "source": "deepmind.google",
+    "date": "2026-06-13",
+    "score": 68
+  },
+  {
+    "title": "D4RT: Teaching AI to see the world in four dimensions",
+    "url": "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions",
+    "summary": "D4RT: Unified, efficient 4D reconstruction and tracking up to 300x faster than prior methods.",
+    "tags": [
+      "research",
+      "multimodal",
+      "science",
+      "official"
+    ],
+    "author": "Google DeepMind",
+    "source": "deepmind.google",
+    "date": "2026-06-13",
+    "score": 68
+  },
+  {
+    "title": "Gemma Scope 2: helping the AI safety community deepen understanding of complex language model behavior",
+    "url": "https://deepmind.google/blog/gemma-scope-2-helping-the-ai-safety-community-deepen-understanding-of-complex-language-model-behavior",
+    "summary": "Open interpretability tools for language models are now available across the entire Gemma 3 family with the release of Gemma Scope 2.",
+    "tags": [
+      "research",
+      "multimodal",
+      "science",
+      "official"
+    ],
+    "author": "Google DeepMind",
+    "source": "deepmind.google",
+    "date": "2026-06-13",
+    "score": 68
+  },
+  {
+    "title": "Deepening our partnership with the UK AI Security Institute",
+    "url": "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute",
+    "summary": "Google DeepMind and UK AI Security Institute (AISI) strengthen collaboration on critical AI safety and security research",
+    "tags": [
+      "research",
+      "multimodal",
+      "science",
+      "official"
+    ],
+    "author": "Google DeepMind",
+    "source": "deepmind.google",
+    "date": "2026-06-13",
     "score": 68
   }
 ]

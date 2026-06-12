@@ -826,5 +826,365 @@
     "cluster_id": "deepmind_google_9de3ae64",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8d3aa836b5136ce5",
+    "canonical_url": "https://developer.nvidia.com/blog/nvidia-achieves-leading-agentic-coding-performance-on-first-agentic-ai-benchmark",
+    "dedupe_key": "471f77d0bfd88e7f",
+    "title": "NVIDIA Achieves Leading Agentic Coding Performance on First Agentic AI Benchmark",
+    "issue_date": "2026-06-13",
+    "cluster_id": "developer_nvidia_com_62ba407f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d43f43bb4983625a",
+    "canonical_url": "https://developer.nvidia.com/blog/deploy-long-context-reasoning-and-agentic-workflows-with-minimax-m3-on-nvidia-accelerated-infrastructure",
+    "dedupe_key": "5863cf4d9ee8398c",
+    "title": "Deploy Long-Context Reasoning and Agentic Workflows with MiniMax M3 on NVIDIA Accelerated Infrastructure",
+    "issue_date": "2026-06-13",
+    "cluster_id": "developer_nvidia_com_b417c5f9",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0f393d906e80cabf",
+    "canonical_url": "https://vercel.com/changelog/qwen-3-7-plus-now-available-on-ai-gateway",
+    "dedupe_key": "a2baba3ddcda46f7",
+    "title": "Qwen 3.7 Plus now available on AI Gateway",
+    "issue_date": "2026-06-13",
+    "cluster_id": "vercel_com_7d04f6d5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3b1b1ba15f372634",
+    "canonical_url": "https://vercel.com/changelog/qwen-3-7-max-now-available-on-vercel-ai-gateway",
+    "dedupe_key": "d9d537c02a46f517",
+    "title": "Qwen 3.7 Max now available on Vercel AI Gateway",
+    "issue_date": "2026-06-13",
+    "cluster_id": "vercel_com_dc6c58de",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c0e67a655aefe078",
+    "canonical_url": "https://vercel.com/changelog/grok-build-0-1-now-available-on-vercel-ai-gateway",
+    "dedupe_key": "17a7694585f94bbf",
+    "title": "Grok Build 0.1 now available on Vercel AI Gateway",
+    "issue_date": "2026-06-13",
+    "cluster_id": "vercel_com_9327b8ae",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2187d81dda74e812",
+    "canonical_url": "https://github.blog/security/vulnerability-research",
+    "dedupe_key": "8dc61d9b7798d8e5",
+    "title": "Vulnerability research",
+    "issue_date": "2026-06-13",
+    "cluster_id": "github_blog_6d2ec493",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0838fec073ffbb53",
+    "canonical_url": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
+    "dedupe_key": "ca2d535c093d99f8",
+    "title": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech ServiceNow-AI • 3 days ago • 42",
+    "issue_date": "2026-06-13",
+    "cluster_id": "huggingface_co_3e3ef5d6",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1994a7e004223a32",
+    "canonical_url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+    "dedupe_key": "a948f9bb23e378b3",
+    "title": "New OpenAI Academy courses for the next era of work",
+    "issue_date": "2026-06-13",
+    "cluster_id": "openai_com_3b0af1ee",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9a176899f647aaf5",
+    "canonical_url": "https://openai.com/index/stargate-michigan-data-center",
+    "dedupe_key": "2830b1d60f66c295",
+    "title": "Building the infrastructure for the Intelligence Age in Michigan",
+    "issue_date": "2026-06-13",
+    "cluster_id": "openai_com_72ea03eb",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a6f623924d58007e",
+    "canonical_url": "https://openai.com/index/endava",
+    "dedupe_key": "5da4d696f07ffe22",
+    "title": "How Endava builds an agentic organization with Codex",
+    "issue_date": "2026-06-13",
+    "cluster_id": "openai_com_1a7f4627",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ad73535ba08cfbad",
+    "canonical_url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+    "dedupe_key": "97b43a433e791d18",
+    "title": "Building self-improving tax agents with Codex",
+    "issue_date": "2026-06-13",
+    "cluster_id": "openai_com_54569c0d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ec8d9a69169cd1be",
+    "canonical_url": "https://openai.com/index/sea-david-chen",
+    "dedupe_key": "f56e9304554bd819",
+    "title": "Sea's View on the Future of Agentic Software Development with Codex",
+    "issue_date": "2026-06-13",
+    "cluster_id": "openai_com_ba4e846b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e336e319dcbc3cfe",
+    "canonical_url": "https://openai.com/index/work-with-codex-from-anywhere",
+    "dedupe_key": "632c563a4cf0fd99",
+    "title": "Work with Codex from anywhere",
+    "issue_date": "2026-06-13",
+    "cluster_id": "openai_com_6544ed75",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0bbc31e7f0a306eb",
+    "canonical_url": "https://openai.com/index/nvidia",
+    "dedupe_key": "4af4d152d4afd542",
+    "title": "How NVIDIA engineers and researchers build with Codex",
+    "issue_date": "2026-06-13",
+    "cluster_id": "openai_com_2498d13a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d2b91420dba59dc3",
+    "canonical_url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+    "dedupe_key": "3c79decaea4b8f4c",
+    "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
+    "issue_date": "2026-06-13",
+    "cluster_id": "openai_com_d12ba3e2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_142b34403da16154",
+    "canonical_url": "https://openai.com/index/parloa",
+    "dedupe_key": "7dd7cc1ed7cc281c",
+    "title": "Parloa builds service agents customers want to talk to",
+    "issue_date": "2026-06-13",
+    "cluster_id": "openai_com_9109a151",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_64a372d045043cbf",
+    "canonical_url": "https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership",
+    "dedupe_key": "d443bbc258355df8",
+    "title": "Strengthening Singapore’s AI Future: A New National Partnership",
+    "issue_date": "2026-06-13",
+    "cluster_id": "deepmind_google_5d57b466",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3da693dcdc89eb2f",
+    "canonical_url": "https://deepmind.google/blog/accelerating-discovery-of-liver-disease-mechanisms",
+    "dedupe_key": "15278779ecc0ae9d",
+    "title": "Accelerating discovery of liver disease mechanisms",
+    "issue_date": "2026-06-13",
+    "cluster_id": "deepmind_google_c77a4c61",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5237c68aebe03182",
+    "canonical_url": "https://deepmind.google/blog/how-weathernext-helped-the-national-hurricane-center-better-predict-hurricane-melissas-historic-landfall-in-jamaica",
+    "dedupe_key": "a327f4826d707353",
+    "title": "How WeatherNext helped the National Hurricane Center better predict Hurricane Melissa’s historic landfall in Jamaica",
+    "issue_date": "2026-06-13",
+    "cluster_id": "deepmind_google_be623850",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3a572be41214c8cb",
+    "canonical_url": "https://deepmind.google/blog/ai-co-clinician",
+    "dedupe_key": "df4bce497847c705",
+    "title": "Enabling a new model for healthcare with AI co-clinician",
+    "issue_date": "2026-06-13",
+    "cluster_id": "deepmind_google_20f2abaa",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d885b19928fbc845",
+    "canonical_url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea",
+    "dedupe_key": "fb2344a93a8afc23",
+    "title": "Announcing our partnership with the Republic of Korea",
+    "issue_date": "2026-06-13",
+    "cluster_id": "deepmind_google_26bb1302",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_fbe5915e5f734824",
+    "canonical_url": "https://deepmind.google/blog/decoupled-diloco",
+    "dedupe_key": "05e154829f5cc133",
+    "title": "Decoupled DiLoCo: A new frontier for resilient, distributed AI training",
+    "issue_date": "2026-06-13",
+    "cluster_id": "deepmind_google_7fc2756a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9162f81cda8ff3c9",
+    "canonical_url": "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation",
+    "dedupe_key": "390a8f8f57e8d31a",
+    "title": "Partnering with industry leaders to accelerate AI transformation",
+    "issue_date": "2026-06-13",
+    "cluster_id": "deepmind_google_c376e15c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_920d2841e59647cc",
+    "canonical_url": "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech",
+    "dedupe_key": "1182ea0c25a55b96",
+    "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+    "issue_date": "2026-06-13",
+    "cluster_id": "deepmind_google_b4e0f676",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_93d0e35967fdb1f0",
+    "canonical_url": "https://deepmind.google/blog/gemini-robotics-er-1-6",
+    "dedupe_key": "5bd10cd6ec9d0632",
+    "title": "Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning",
+    "issue_date": "2026-06-13",
+    "cluster_id": "deepmind_google_e631ef91",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0d617c9ed2e5d1f9",
+    "canonical_url": "https://deepmind.google/blog/ai-pointer",
+    "dedupe_key": "637c8266e8e44bc2",
+    "title": "Reimagining the mouse pointer for the AI era",
+    "issue_date": "2026-06-13",
+    "cluster_id": "deepmind_google_7974789d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2dacb84403fc07a5",
+    "canonical_url": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable",
+    "dedupe_key": "a5cc6b709ff18556",
+    "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+    "issue_date": "2026-06-13",
+    "cluster_id": "deepmind_google_fbf3bfe9",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_57b7b26d2c1e8c56",
+    "canonical_url": "https://deepmind.google/blog/protecting-people-from-harmful-manipulation",
+    "dedupe_key": "6c58ae477b2e4959",
+    "title": "Protecting people from harmful manipulation",
+    "issue_date": "2026-06-13",
+    "cluster_id": "deepmind_google_449deac8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e784077d79657b2f",
+    "canonical_url": "https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more",
+    "dedupe_key": "7d2f108f07a91a60",
+    "title": "Lyria 3 Pro: Create longer tracks in more",
+    "issue_date": "2026-06-13",
+    "cluster_id": "deepmind_google_26bc19bd",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_048d5773dea39124",
+    "canonical_url": "https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed",
+    "dedupe_key": "f88d18506cbcbc23",
+    "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
+    "issue_date": "2026-06-13",
+    "cluster_id": "deepmind_google_4f0b85d4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b096a8fd2e9792b6",
+    "canonical_url": "https://deepmind.google/blog/accelerating-discovery-in-india-through-ai-powered-science-and-education",
+    "dedupe_key": "5ce7a2accd594100",
+    "title": "Accelerating discovery in India through AI-powered science and education",
+    "issue_date": "2026-06-13",
+    "cluster_id": "deepmind_google_a036ac67",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1f315693bd0d22ee",
+    "canonical_url": "https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering",
+    "dedupe_key": "bbad76756ab181c9",
+    "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
+    "issue_date": "2026-06-13",
+    "cluster_id": "deepmind_google_6ec845c0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d156c1a9b29edd9e",
+    "canonical_url": "https://deepmind.google/blog/project-genie-experimenting-with-infinite-interactive-worlds",
+    "dedupe_key": "4e9813c82da25032",
+    "title": "Project Genie: Experimenting with infinite, interactive worlds",
+    "issue_date": "2026-06-13",
+    "cluster_id": "deepmind_google_955cf4f5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2b08a00c7d5e4cc7",
+    "canonical_url": "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions",
+    "dedupe_key": "ddd8067ac4ff5236",
+    "title": "D4RT: Teaching AI to see the world in four dimensions",
+    "issue_date": "2026-06-13",
+    "cluster_id": "deepmind_google_1511473c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_41a3da25608405a5",
+    "canonical_url": "https://deepmind.google/blog/gemma-scope-2-helping-the-ai-safety-community-deepen-understanding-of-complex-language-model-behavior",
+    "dedupe_key": "334b7a7170e1f599",
+    "title": "Gemma Scope 2: helping the AI safety community deepen understanding of complex language model behavior",
+    "issue_date": "2026-06-13",
+    "cluster_id": "deepmind_google_9e5f2937",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_94379b8d11547365",
+    "canonical_url": "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute",
+    "dedupe_key": "7d7b9414387b2683",
+    "title": "Deepening our partnership with the UK AI Security Institute",
+    "issue_date": "2026-06-13",
+    "cluster_id": "deepmind_google_435f16a6",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
