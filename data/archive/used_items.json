@@ -1186,5 +1186,365 @@
     "cluster_id": "deepmind_google_435f16a6",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5184da7bb9ba0e9f",
+    "canonical_url": "https://openai.com/index/introducing-b2b-signals",
+    "dedupe_key": "6578ff331746e154",
+    "title": "How frontier firms are pulling ahead",
+    "issue_date": "2026-06-14",
+    "cluster_id": "openai_com_e3bdc244",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_33e46ec3036a0b99",
+    "canonical_url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
+    "dedupe_key": "46d771b338772e12",
+    "title": "Building the compute infrastructure for the Intelligence Age",
+    "issue_date": "2026-06-14",
+    "cluster_id": "openai_com_04798000",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7fd465b29209f61e",
+    "canonical_url": "https://openai.com/index/openai-on-aws",
+    "dedupe_key": "3ff88c46cae0415c",
+    "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+    "issue_date": "2026-06-14",
+    "cluster_id": "openai_com_ea3b338f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c14e946aae574715",
+    "canonical_url": "https://openai.com/index/open-source-codex-orchestration-symphony",
+    "dedupe_key": "fbdfc68ec2648661",
+    "title": "An open-source spec for orchestration: Symphony",
+    "issue_date": "2026-06-14",
+    "cluster_id": "openai_com_632a0734",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3b3aa4c3d9b312ec",
+    "canonical_url": "https://openai.com/index/introducing-gpt-5-5",
+    "dedupe_key": "de0cb39b472e518a",
+    "title": "Introducing GPT-5.5",
+    "issue_date": "2026-06-14",
+    "cluster_id": "openai_com_9de7cc35",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_81b67224d4a4adc3",
+    "canonical_url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
+    "dedupe_key": "75a6c9721ff385ec",
+    "title": "Introducing workspace agents in ChatGPT",
+    "issue_date": "2026-06-14",
+    "cluster_id": "openai_com_d1fc5b66",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5f8f5bdaf091bb94",
+    "canonical_url": "https://openai.com/academy/workspace-agents",
+    "dedupe_key": "3097f63926455666",
+    "title": "Workspace agents",
+    "issue_date": "2026-06-14",
+    "cluster_id": "openai_com_ef3c0298",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9b86d9e247a4dbde",
+    "canonical_url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
+    "dedupe_key": "baa632706688268f",
+    "title": "The next evolution of the Agents SDK",
+    "issue_date": "2026-06-14",
+    "cluster_id": "openai_com_26fe4dc8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_73e17e851420a781",
+    "canonical_url": "https://openai.com/index/cyberagent",
+    "dedupe_key": "f875f490326fe128",
+    "title": "CyberAgent moves faster with ChatGPT Enterprise and Codex",
+    "issue_date": "2026-06-14",
+    "cluster_id": "openai_com_3f057dac",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3dff0623ad3ec801",
+    "canonical_url": "https://openai.com/index/safety-bug-bounty",
+    "dedupe_key": "7adade3314ed5577",
+    "title": "Introducing the OpenAI Safety Bug Bounty program",
+    "issue_date": "2026-06-14",
+    "cluster_id": "openai_com_202786bb",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1807d46c408f1765",
+    "canonical_url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
+    "dedupe_key": "c0cb4931e78874e2",
+    "title": "Powering product discovery in ChatGPT",
+    "issue_date": "2026-06-14",
+    "cluster_id": "openai_com_cb0053ad",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8e8a6040bb97a0d5",
+    "canonical_url": "https://openai.com/index/equip-responses-api-computer-environment",
+    "dedupe_key": "5037002d908d6dee",
+    "title": "From model to agent: Equipping the Responses API with a computer environment",
+    "issue_date": "2026-06-14",
+    "cluster_id": "openai_com_709c20f4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d06e92d9c22366a3",
+    "canonical_url": "https://openai.com/index/codex-security-now-in-research-preview",
+    "dedupe_key": "d6447556ae60509b",
+    "title": "Codex Security: now in research preview",
+    "issue_date": "2026-06-14",
+    "cluster_id": "openai_com_9a449f90",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_94feb182b5203426",
+    "canonical_url": "https://openai.com/index/introducing-gpt-5-4",
+    "dedupe_key": "779d185079ea6f08",
+    "title": "Introducing GPT-5.4",
+    "issue_date": "2026-06-14",
+    "cluster_id": "openai_com_3c0b0691",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9ed2f306fcd36d80",
+    "canonical_url": "https://openai.com/index/scaling-ai-for-everyone",
+    "dedupe_key": "443090ba93ad051f",
+    "title": "Scaling AI for everyone",
+    "issue_date": "2026-06-14",
+    "cluster_id": "openai_com_c7faf429",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_74a96542d49c4952",
+    "canonical_url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
+    "dedupe_key": "cd36a17d3a7721ff",
+    "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
+    "issue_date": "2026-06-14",
+    "cluster_id": "openai_com_531f82ce",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9469628dabc3ef07",
+    "canonical_url": "https://deepmind.google/blog/strengthening-our-partnership-with-the-uk-government-to-support-prosperity-and-security-in-the-ai-era",
+    "dedupe_key": "cc3a86c2ca5e65d1",
+    "title": "Strengthening our partnership with the UK government to support prosperity and security in the AI era",
+    "issue_date": "2026-06-14",
+    "cluster_id": "deepmind_google_8c34b2b2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_77940e79745605ce",
+    "canonical_url": "https://deepmind.google/blog/google-deepmind-supports-us-department-of-energy-on-genesis",
+    "dedupe_key": "833668f6a2d59096",
+    "title": "Google DeepMind supports U.S. Department of Energy on Genesis: a national mission to accelerate innovation and scientific discovery",
+    "issue_date": "2026-06-14",
+    "cluster_id": "deepmind_google_6a2cd0f3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_de9221deba9a349d",
+    "canonical_url": "https://deepmind.google/blog/how-were-bringing-ai-image-verification-to-the-gemini-app",
+    "dedupe_key": "bcb5b902188daf0f",
+    "title": "How we’re bringing AI image verification to the Gemini app",
+    "issue_date": "2026-06-14",
+    "cluster_id": "deepmind_google_d8a9a017",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_78ed61c995c23e08",
+    "canonical_url": "https://deepmind.google/blog/were-expanding-our-presence-in-singapore-to-advance-ai-in-the-asia-pacific-region",
+    "dedupe_key": "6b6a4676ceda2a09",
+    "title": "We’re expanding our presence in Singapore to advance AI in the Asia-Pacific region",
+    "issue_date": "2026-06-14",
+    "cluster_id": "deepmind_google_0fbdbb09",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_eea27ce98552d10d",
+    "canonical_url": "https://deepmind.google/blog/weathernext-2-our-most-advanced-weather-forecasting-model",
+    "dedupe_key": "c917b5f091110271",
+    "title": "WeatherNext 2: Our most advanced weather forecasting model",
+    "issue_date": "2026-06-14",
+    "cluster_id": "deepmind_google_aa5310a0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_94f545f190f22656",
+    "canonical_url": "https://deepmind.google/blog/how-ai-is-giving-northern-ireland-teachers-time-back",
+    "dedupe_key": "adbf2bb5b9e0d493",
+    "title": "How AI is giving Northern Ireland teachers time back",
+    "issue_date": "2026-06-14",
+    "cluster_id": "deepmind_google_74394f4a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_29426c98544e92c1",
+    "canonical_url": "https://deepmind.google/blog/mapping-modeling-and-understanding-nature-with-ai",
+    "dedupe_key": "401db74d466079d2",
+    "title": "Mapping, modeling, and understanding nature with AI",
+    "issue_date": "2026-06-14",
+    "cluster_id": "deepmind_google_a3f87aa4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ec2ab4e90ae17b07",
+    "canonical_url": "https://deepmind.google/blog/accelerating-discovery-with-the-ai-for-math-initiative",
+    "dedupe_key": "d46e88f7150a5f61",
+    "title": "Accelerating discovery with the AI for Math Initiative",
+    "issue_date": "2026-06-14",
+    "cluster_id": "deepmind_google_440f37e5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e31bfaba5e1cb9dc",
+    "canonical_url": "https://deepmind.google/blog/medgemma-our-most-capable-open-models-for-health-ai-development",
+    "dedupe_key": "db292f921662882a",
+    "title": "MedGemma: Our most capable open models for health AI development",
+    "issue_date": "2026-06-14",
+    "cluster_id": "deepmind_google_19ffdce4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8ea5356502a479c1",
+    "canonical_url": "https://deepmind.google/blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail",
+    "dedupe_key": "bca220725d5da080",
+    "title": "AlphaEarth Foundations helps map our planet in unprecedented detail",
+    "issue_date": "2026-06-14",
+    "cluster_id": "deepmind_google_a7a35042",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ae5e5864ed617ccc",
+    "canonical_url": "https://deepmind.google/blog/exploring-the-context-of-online-images-with-backstory",
+    "dedupe_key": "1d877bd275c86ca5",
+    "title": "Exploring the context of online images with Backstory",
+    "issue_date": "2026-06-14",
+    "cluster_id": "deepmind_google_71af1763",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_31cd25c9f46a41f3",
+    "canonical_url": "https://deepmind.google/blog/genie-3-a-new-frontier-for-world-models",
+    "dedupe_key": "a95e9e168b9a3004",
+    "title": "Genie 3: A new frontier for world models",
+    "issue_date": "2026-06-14",
+    "cluster_id": "deepmind_google_ec05c572",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3a00b82450a32d7d",
+    "canonical_url": "https://deepmind.google/blog/how-ai-is-helping-advance-the-science-of-bioacoustics-to-save-endangered-species",
+    "dedupe_key": "e99dd4fcfad6de1d",
+    "title": "How AI is helping advance the science of bioacoustics to save endangered species",
+    "issue_date": "2026-06-14",
+    "cluster_id": "deepmind_google_302466a7",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3611e20ea695a4d0",
+    "canonical_url": "https://deepmind.google/blog/using-ai-to-perceive-the-universe-in-greater-depth",
+    "dedupe_key": "951a28cbc80d2aa8",
+    "title": "Using AI to perceive the universe in greater depth",
+    "issue_date": "2026-06-14",
+    "cluster_id": "deepmind_google_025a2402",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_837eb02ead475442",
+    "canonical_url": "https://deepmind.google/blog/discovering-new-solutions-to-century-old-problems-in-fluid-dynamics",
+    "dedupe_key": "07f05f622d7f6459",
+    "title": "Discovering new solutions to century-old problems in fluid dynamics",
+    "issue_date": "2026-06-14",
+    "cluster_id": "deepmind_google_5e5ea3d3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d455e1e228378df9",
+    "canonical_url": "https://deepmind.google/blog/bringing-ai-to-the-next-generation-of-fusion-energy",
+    "dedupe_key": "468cd21b3a43ffc2",
+    "title": "Bringing AI to the next generation of fusion energy",
+    "issue_date": "2026-06-14",
+    "cluster_id": "deepmind_google_ac41f0ac",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2034ea02d59f0b81",
+    "canonical_url": "https://deepmind.google/blog/try-deep-think-in-the-gemini-app",
+    "dedupe_key": "21cad9e48d03d807",
+    "title": "Try Deep Think in the Gemini app",
+    "issue_date": "2026-06-14",
+    "cluster_id": "deepmind_google_4f585035",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_16e8ba0e3548e66e",
+    "canonical_url": "https://deepmind.google/blog/rethinking-how-we-measure-ai-intelligence",
+    "dedupe_key": "bfd5a1fb21a440e7",
+    "title": "Rethinking how we measure AI intelligence",
+    "issue_date": "2026-06-14",
+    "cluster_id": "deepmind_google_797b2443",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5878d070c1a8857c",
+    "canonical_url": "https://deepmind.google/blog/introducing-gemma-3-270m-the-compact-model-for-hyper-efficient-ai",
+    "dedupe_key": "b99d2ccb5109893f",
+    "title": "Introducing Gemma 3 270M: The compact model for hyper-efficient AI",
+    "issue_date": "2026-06-14",
+    "cluster_id": "deepmind_google_39f8c03d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a83c383b6ff5460c",
+    "canonical_url": "https://deepmind.google/blog/vaultgemma-the-worlds-most-capable-differentially-private-llm",
+    "dedupe_key": "1511f236b385eaac",
+    "title": "VaultGemma: The world's most capable differentially private LLM",
+    "issue_date": "2026-06-14",
+    "cluster_id": "deepmind_google_908599c1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
