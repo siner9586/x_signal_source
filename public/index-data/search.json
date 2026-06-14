@@ -1,248 +1,163 @@
 [
   {
-    "title": "How frontier firms are pulling ahead",
-    "url": "https://openai.com/index/introducing-b2b-signals",
-    "summary": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
+    "title": "Teaching AI to see the world more like we do",
+    "url": "https://deepmind.google/blog/teaching-ai-to-see-the-world-more-like-we-do",
+    "summary": "Our new paper analyzes the important ways AI systems organize the visual world differently from humans.",
     "tags": [
-      "ai_models",
-      "official",
       "research",
-      "developer"
+      "multimodal",
+      "science",
+      "official"
     ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-06-14",
+    "author": "Google DeepMind",
+    "source": "deepmind.google",
+    "date": "2026-06-15",
     "score": 70
   },
   {
-    "title": "Building the compute infrastructure for the Intelligence Age",
-    "url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
-    "summary": "OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing AI demand.",
+    "title": "Strengthening our Frontier Safety Framework",
+    "url": "https://deepmind.google/blog/strengthening-our-frontier-safety-framework",
+    "summary": "We’re strengthening the Frontier Safety Framework (FSF) to help identify and mitigate severe risks from advanced AI models.",
     "tags": [
-      "ai_models",
-      "official",
       "research",
-      "developer"
+      "multimodal",
+      "science",
+      "official"
     ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-06-14",
+    "author": "Google DeepMind",
+    "source": "deepmind.google",
+    "date": "2026-06-15",
     "score": 70
   },
   {
-    "title": "OpenAI models, Codex, and Managed Agents come to AWS",
-    "url": "https://openai.com/index/openai-on-aws",
-    "summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
+    "title": "Build Personal AI Agents on Windows PCs with New Tools from Microsoft and NVIDIA",
+    "url": "https://developer.nvidia.com/blog/build-personal-ai-agents-on-windows-pcs-with-new-tools-from-microsoft-and-nvidia",
+    "summary": "AI agents are changing how you interact with your PC. Creators, developers, and AI enthusiasts are already using these agents extensively to assist with...",
     "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
+      "gpu",
+      "inference",
+      "ai_infra"
     ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-06-14",
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-06-15",
     "score": 70
   },
   {
-    "title": "An open-source spec for orchestration: Symphony",
-    "url": "https://openai.com/index/open-source-codex-orchestration-symphony",
-    "summary": "Learn how Symphony, an open-source spec for Codex orchestration, turns issue trackers into always-on agent systems—boosting engineering output and reducing context switching.",
+    "title": "From one-off prompts to workflows: How to use custom agents in GitHub Copilot CLI",
+    "url": "https://github.blog/ai-and-ml/github-copilot/from-one-off-prompts-to-workflows-how-to-use-custom-agents-in-github-copilot-cli",
+    "summary": "Custom agents let GitHub Copilot CLI understand your stack and team workflows, turning one-off terminal prompts into repeatable, reviewable processes. The post From one-off prompts to workflows: How to use custom agents in GitHub Copilot CLI appeared first on The GitHub Blog .",
     "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
+      "ai_coding",
+      "developer_tools"
     ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-06-14",
+    "author": "GitHub Copilot",
+    "source": "github.blog",
+    "date": "2026-06-15",
     "score": 70
   },
   {
-    "title": "Introducing GPT-5.5",
-    "url": "https://openai.com/index/introducing-gpt-5-5",
-    "summary": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
+    "title": "AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality",
+    "url": "https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face",
+    "summary": "AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
+      "open_source",
+      "papers",
+      "models"
     ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-06-14",
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-06-15",
     "score": 70
   },
   {
-    "title": "Introducing workspace agents in ChatGPT",
-    "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
-    "summary": "Workspace agents in ChatGPT are Codex-powered agents that automate complex workflows, run in the cloud, and help teams scale work across tools securely.",
+    "title": "Give your agent its own computer",
+    "url": "https://www.langchain.com/blog/give-your-ai-agent-its-own-computer",
+    "summary": "Running code execution in an AI agent is harder than it looks. Your agent needs a real computer (filesystem, shell, package manager, persistent state) but handing it access to your infrastructure is dangerous.Think about it this way: you use one laptop. You are n of one. But agents are going to run millions of tasks, and each one needs its own computer to work from. That's the infrastructure shift happening right now. Satya Nadella put it plainly: \"Every agent needs a compute",
     "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
+      "agents",
+      "rag",
+      "framework"
     ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-06-14",
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-06-15",
     "score": 70
   },
   {
-    "title": "Workspace agents",
-    "url": "https://openai.com/academy/workspace-agents",
-    "summary": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations.",
+    "title": "LangSmith Sandboxes are Generally Available",
+    "url": "https://www.langchain.com/blog/langsmith-sandboxes-generally-available",
+    "summary": "Run AI agents safely with LangSmith Sandboxes (GA): kernel-isolated microVMs with snapshots, parallel forks, service URLs, and auth proxies. Built for coding agents, CI agents, and data pipelines",
     "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
+      "agents",
+      "rag",
+      "framework"
     ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-06-14",
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-06-15",
     "score": 70
   },
   {
-    "title": "The next evolution of the Agents SDK",
-    "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
-    "summary": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools.",
+    "title": "Aligning LLM-as-a-Judge with Human Preferences",
+    "url": "https://www.langchain.com/blog/aligning-llm-as-a-judge-with-human-preferences",
+    "summary": "Deep dive into self-improving evaluators in LangSmith, motivated by the rise of LLM-as-a-Judge evaluators plus research on few-shot learning and aligning human preferences.",
     "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
+      "agents",
+      "rag",
+      "framework"
     ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-06-14",
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-06-15",
     "score": 70
   },
   {
-    "title": "CyberAgent moves faster with ChatGPT Enterprise and Codex",
-    "url": "https://openai.com/index/cyberagent",
-    "summary": "CyberAgent uses ChatGPT Enterprise and Codex to securely scale AI adoption, improve quality, and accelerate decisions across advertising, media, and gaming.",
+    "title": "Chat with your data using OpenAI, Pinecone, Airbyte and Langchain",
+    "url": "https://www.langchain.com/blog/chat-with-your-data-using-openai-pinecone-airbyte-langchain",
+    "summary": "Build an AI chatbot that answers questions using your data from GitHub, Slack, and docs. Learn to integrate OpenAI, Pinecone, Airbyte, and LangChain.",
     "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
+      "agents",
+      "rag",
+      "framework"
     ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-06-14",
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-06-15",
     "score": 70
   },
   {
-    "title": "Introducing the OpenAI Safety Bug Bounty program",
-    "url": "https://openai.com/index/safety-bug-bounty",
-    "summary": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration.",
+    "title": "Finance Power financial research",
+    "url": "https://www.llamaindex.ai/industry/finance",
+    "summary": "Blog · Finance Power financial research",
     "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
+      "rag",
+      "agents",
+      "framework"
     ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-06-14",
+    "author": "LlamaIndex",
+    "source": "llamaindex.ai",
+    "date": "2026-06-15",
     "score": 70
   },
   {
-    "title": "Powering product discovery in ChatGPT",
-    "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
-    "summary": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration.",
+    "title": "Healthcare & Pharma Accelerate clinical research",
+    "url": "https://www.llamaindex.ai/industry/healthcare-pharma",
+    "summary": "Blog · Healthcare & Pharma Accelerate clinical research",
     "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
+      "rag",
+      "agents",
+      "framework"
     ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-06-14",
+    "author": "LlamaIndex",
+    "source": "llamaindex.ai",
+    "date": "2026-06-15",
     "score": 70
   },
   {
-    "title": "From model to agent: Equipping the Responses API with a computer environment",
-    "url": "https://openai.com/index/equip-responses-api-computer-environment",
-    "summary": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-06-14",
-    "score": 70
-  },
-  {
-    "title": "Codex Security: now in research preview",
-    "url": "https://openai.com/index/codex-security-now-in-research-preview",
-    "summary": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-06-14",
-    "score": 70
-  },
-  {
-    "title": "Introducing GPT-5.4",
-    "url": "https://openai.com/index/introducing-gpt-5-4",
-    "summary": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-06-14",
-    "score": 70
-  },
-  {
-    "title": "Scaling AI for everyone",
-    "url": "https://openai.com/index/scaling-ai-for-everyone",
-    "summary": "Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-06-14",
-    "score": 70
-  },
-  {
-    "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
-    "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
-    "summary": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-06-14",
-    "score": 70
-  },
-  {
-    "title": "Strengthening our partnership with the UK government to support prosperity and security in the AI era",
-    "url": "https://deepmind.google/blog/strengthening-our-partnership-with-the-uk-government-to-support-prosperity-and-security-in-the-ai-era",
-    "summary": "Deepening our partnership with the UK government to support prosperity and security in the AI era",
+    "title": "AlphaGenome: AI for better understanding the genome",
+    "url": "https://deepmind.google/blog/alphagenome-ai-for-better-understanding-the-genome",
+    "summary": "Introducing a new, unifying DNA sequence model that advances regulatory variant-effect prediction and promises to shed new light on genome function — now available via API.",
     "tags": [
       "research",
       "multimodal",
@@ -251,13 +166,13 @@
     ],
     "author": "Google DeepMind",
     "source": "deepmind.google",
-    "date": "2026-06-14",
+    "date": "2026-06-15",
     "score": 68
   },
   {
-    "title": "Google DeepMind supports U.S. Department of Energy on Genesis: a national mission to accelerate innovation and scientific discovery",
-    "url": "https://deepmind.google/blog/google-deepmind-supports-us-department-of-energy-on-genesis",
-    "summary": "Google DeepMind and the DOE partner on Genesis, a new effort to accelerate science with AI.",
+    "title": "Gemini Robotics On-Device brings AI to local robotic devices",
+    "url": "https://deepmind.google/blog/gemini-robotics-on-device-brings-ai-to-local-robotic-devices",
+    "summary": "We’re introducing an efficient, on-device robotics model with general-purpose dexterity and fast task adaptation.",
     "tags": [
       "research",
       "multimodal",
@@ -266,13 +181,13 @@
     ],
     "author": "Google DeepMind",
     "source": "deepmind.google",
-    "date": "2026-06-14",
+    "date": "2026-06-15",
     "score": 68
   },
   {
-    "title": "How we’re bringing AI image verification to the Gemini app",
-    "url": "https://deepmind.google/blog/how-were-bringing-ai-image-verification-to-the-gemini-app",
-    "summary": "How we’re bringing AI image verification to the Gemini app 是 Google DeepMind 当日抓取到的公开新增条目。",
+    "title": "Gemini 2.5: Updates to our family of thinking models",
+    "url": "https://deepmind.google/blog/gemini-25-updates-to-our-family-of-thinking-models",
+    "summary": "Explore the latest Gemini 2.5 model updates with enhanced performance and accuracy: Gemini 2.5 Pro now stable, Flash generally available, and the new Flash-Lite in preview.",
     "tags": [
       "research",
       "multimodal",
@@ -281,13 +196,13 @@
     ],
     "author": "Google DeepMind",
     "source": "deepmind.google",
-    "date": "2026-06-14",
+    "date": "2026-06-15",
     "score": 68
   },
   {
-    "title": "We’re expanding our presence in Singapore to advance AI in the Asia-Pacific region",
-    "url": "https://deepmind.google/blog/were-expanding-our-presence-in-singapore-to-advance-ai-in-the-asia-pacific-region",
-    "summary": "Google DeepMind opens a new Singapore research lab, accelerating AI progress in the Asia-Pacific region.",
+    "title": "We’re expanding our Gemini 2.5 family of models",
+    "url": "https://deepmind.google/blog/were-expanding-our-gemini-25-family-of-models",
+    "summary": "Gemini 2.5 Flash and Pro are now generally available, and we’re introducing 2.5 Flash-Lite, our most cost-efficient and fastest 2.5 model yet.",
     "tags": [
       "research",
       "multimodal",
@@ -296,247 +211,231 @@
     ],
     "author": "Google DeepMind",
     "source": "deepmind.google",
-    "date": "2026-06-14",
+    "date": "2026-06-15",
     "score": 68
   },
   {
-    "title": "WeatherNext 2: Our most advanced weather forecasting model",
-    "url": "https://deepmind.google/blog/weathernext-2-our-most-advanced-weather-forecasting-model",
-    "summary": "The new AI model delivers more efficient, more accurate and higher-resolution global weather predictions.",
+    "title": "SAM 3.1: Faster and More Accessible Real-Time Video Detection and Tracking With Multiplexing and Global Reasoning",
+    "url": "https://ai.meta.com/blog/segment-anything-model-3",
+    "summary": "AI at Meta Blog · SAM 3.1: Faster and More Accessible Real-Time Video Detection and Tracking With Multiplexing and Global Reasoning",
     "tags": [
+      "open_source_model",
       "research",
-      "multimodal",
-      "science",
-      "official"
+      "llama"
     ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-06-14",
+    "author": "Meta AI",
+    "source": "ai.meta.com",
+    "date": "2026-06-15",
     "score": 68
   },
   {
-    "title": "How AI is giving Northern Ireland teachers time back",
-    "url": "https://deepmind.google/blog/how-ai-is-giving-northern-ireland-teachers-time-back",
-    "summary": "A six-month long pilot program with the Northern Ireland Education Authority’s C2k initiative found that integrating Gemini and other generative AI tools saved participating teachers an average of 10 hours per week.",
+    "title": "Deploy Agentic-Ready AI at the Edge with Memory Efficiency in NVIDIA JetPack 7.2",
+    "url": "https://developer.nvidia.com/blog/deploy-agentic-ready-ai-at-the-edge-with-memory-efficiency-in-nvidia-jetpack-7-2",
+    "summary": "As AI agents move from the digital world to the physical environment, they can readily use NVIDIA Jetson to accelerate real-world deployment with optimized...",
     "tags": [
-      "research",
-      "multimodal",
-      "science",
-      "official"
+      "gpu",
+      "inference",
+      "ai_infra"
     ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-06-14",
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-06-15",
     "score": 68
   },
   {
-    "title": "Mapping, modeling, and understanding nature with AI",
-    "url": "https://deepmind.google/blog/mapping-modeling-and-understanding-nature-with-ai",
-    "summary": "AI models can help map species, protect forests and listen to birds around the world",
+    "title": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+    "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark",
+    "summary": "The rise of autonomous, long-running AI agents has introduced a new class of compute demand, namely tasks that maintain large context windows, spawn concurrent...",
     "tags": [
-      "research",
-      "multimodal",
-      "science",
-      "official"
+      "gpu",
+      "inference",
+      "ai_infra"
     ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-06-14",
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-06-15",
     "score": 68
   },
   {
-    "title": "Accelerating discovery with the AI for Math Initiative",
-    "url": "https://deepmind.google/blog/accelerating-discovery-with-the-ai-for-math-initiative",
-    "summary": "The initiative brings together some of the world's most prestigious research institutions to pioneer the use of AI in mathematical research.",
+    "title": "Kimi K2.7 Code now available on AI Gateway",
+    "url": "https://vercel.com/changelog/kimi-k2-7-code-now-available-on-ai-gateway",
+    "summary": "Kimi K2.7 Code from Moonshot AI is now available on AI Gateway . K2.7 Code is a coding model built for long-horizon programming tasks, generalizing across scenarios including frontend development, DevOps, and performance optimization. The model has a native multimodal architecture that supports text and vision input, and always runs in thinking mode. To use K2.7 Code, set model to moonshotai/kimi-k2.7-code in the AI SDK : Pass an image alongside a prompt to use the model's mu",
     "tags": [
-      "research",
-      "multimodal",
-      "science",
-      "official"
+      "sdk",
+      "ai_infra",
+      "frontend"
     ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-06-14",
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-06-15",
     "score": 68
   },
   {
-    "title": "MedGemma: Our most capable open models for health AI development",
-    "url": "https://deepmind.google/blog/medgemma-our-most-capable-open-models-for-health-ai-development",
-    "summary": "We’re announcing new multimodal models in the MedGemma collection, our most capable open models for health AI development.",
+    "title": "How Okara runs CMO agents for 120,000 companies on Vercel",
+    "url": "https://vercel.com/blog/how-okara-runs-cmo-agents-for-120000-companies-on-vercel",
+    "summary": "Okara on Vercel 4 billion tokens processed daily across a multi-provider AI stack on Vercel AI CMOs actively managing growth for 120,000+ businesses Eight sub-agents handling SEO, GEO, social, content, Reddit, and Hacker News New AI models available to users the same day they ship Okara is an AI CMO that directs a team of specialized sub-agents to drive marketing, so founders don't have to. Give Okara your website URL, and the AI CMO builds a marketing strategy, develops a br",
     "tags": [
-      "research",
-      "multimodal",
-      "science",
-      "official"
+      "sdk",
+      "ai_infra",
+      "frontend"
     ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-06-14",
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-06-15",
     "score": 68
   },
   {
-    "title": "AlphaEarth Foundations helps map our planet in unprecedented detail",
-    "url": "https://deepmind.google/blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail",
-    "summary": "New AI model integrates petabytes of Earth observation data to generate a unified data representation that revolutionizes global mapping and monitoring",
+    "title": "Claude Fable 5 now available on AI Gateway",
+    "url": "https://vercel.com/changelog/claude-fable-5-now-available-on-ai-gateway",
+    "summary": "Claude Fable 5 from Anthropic is now available on AI Gateway . A Mythos-class model, Fable 5 is a notable step up over prior Claude models on long-running, ambiguous, multi-step tasks, executing end-to-end on work that previously required frequent human check-ins. The model sustains productive output across multi-day runs and dependably dispatches parallel sub-agents, and lower effort settings often match what prior Claude models produced at their highest effort. Code review,",
     "tags": [
-      "research",
-      "multimodal",
-      "science",
-      "official"
+      "sdk",
+      "ai_infra",
+      "frontend"
     ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-06-14",
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-06-15",
     "score": 68
   },
   {
-    "title": "Exploring the context of online images with Backstory",
-    "url": "https://deepmind.google/blog/exploring-the-context-of-online-images-with-backstory",
-    "summary": "New experimental AI tool helps people explore the context and origin of images seen online.",
+    "title": "Nemotron 3 Ultra now available on AI Gateway",
+    "url": "https://vercel.com/changelog/nemotron-3-ultra-now-available-on-ai-gateway",
+    "summary": "Nemotron 3 Ultra from Nvidia is now available on Vercel AI Gateway . Nemotron 3 Ultra is an open Mixture-of-Experts reasoning model built for orchestrating long-running agent workflows, with a 1M token context window. The model targets multi-turn agent workflows: planning, tool use, sub-agent delegation, and error recovery. Throughput reaches up to 350 tokens per second, with up to 30% lower cost on agentic tasks. To use Nemotron 3 Ultra, set model to nvidia/nemotron-3-ultra-",
     "tags": [
-      "research",
-      "multimodal",
-      "science",
-      "official"
+      "sdk",
+      "ai_infra",
+      "frontend"
     ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-06-14",
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-06-15",
     "score": 68
   },
   {
-    "title": "Genie 3: A new frontier for world models",
-    "url": "https://deepmind.google/blog/genie-3-a-new-frontier-for-world-models",
-    "summary": "Genie 3 can generate dynamic worlds that you can navigate in real time at 24 frames per second, retaining consistency for a few minutes at a resolution of 720p.",
+    "title": "Chat SDK adds AgentPhone support",
+    "url": "https://vercel.com/changelog/chat-sdk-adds-agentphone-support",
+    "summary": "Chat SDK now supports AgentPhone with the new vendor-official adapter . Give your bot its own phone number so it can handle voice calls and text messages using the same handlers you already write. When a call ends, the transcript is delivered as a message, allowing your bot to respond via SMS or iMessage. Calls and messages to the same number arrive via a single webhook, so you handle both from a single endpoint rather than a separate pipeline for each channel. They also land",
     "tags": [
-      "research",
-      "multimodal",
-      "science",
-      "official"
+      "sdk",
+      "ai_infra",
+      "frontend"
     ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-06-14",
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-06-15",
     "score": 68
   },
   {
-    "title": "How AI is helping advance the science of bioacoustics to save endangered species",
-    "url": "https://deepmind.google/blog/how-ai-is-helping-advance-the-science-of-bioacoustics-to-save-endangered-species",
-    "summary": "Our new Perch model helps conservationists analyze audio faster to protect endangered species, from Hawaiian honeycreepers to coral reefs.",
+    "title": "MiniMax M3 on AI Gateway",
+    "url": "https://vercel.com/changelog/minimax-m3-on-ai-gateway",
+    "summary": "MiniMax M3 is now available on Vercel AI Gateway . M3 is MiniMax's first model with a 1M-token context window and native multimodality, built around MiniMax Sparse Attention (MSA). M3 improves on software engineering, terminal-based tool use, and agentic web browsing, and is tuned for multi-turn collaboration. To use MiniMax M3, set model to minimax/minimax-m3 in the AI SDK . Pass an image alongside a prompt to use M3's multimodal input: AI Gateway provides a unified API for ",
     "tags": [
-      "research",
-      "multimodal",
-      "science",
-      "official"
+      "sdk",
+      "ai_infra",
+      "frontend"
     ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-06-14",
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-06-15",
     "score": 68
   },
   {
-    "title": "Using AI to perceive the universe in greater depth",
-    "url": "https://deepmind.google/blog/using-ai-to-perceive-the-universe-in-greater-depth",
-    "summary": "Using AI to perceive the universe in greater depth",
+    "title": "Firecrawl joins the Vercel Marketplace",
+    "url": "https://vercel.com/changelog/firecrawl-joins-the-vercel-marketplace",
+    "summary": "Firecrawl is now available on the Vercel Marketplace , allowing Vercel teams to power AI agents and applications with structured web data without managing crawling infrastructure. This integration helps developers scrape websites into LLM-ready formats, search and retrieve full page content, and interact with dynamic pages for retrieval and agent workflows. Key capabilities include: Scrape pages into markdown, HTML, structured data, or screenshots Search the web and retrieve ",
     "tags": [
-      "research",
-      "multimodal",
-      "science",
-      "official"
+      "sdk",
+      "ai_infra",
+      "frontend"
     ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-06-14",
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-06-15",
     "score": 68
   },
   {
-    "title": "Discovering new solutions to century-old problems in fluid dynamics",
-    "url": "https://deepmind.google/blog/discovering-new-solutions-to-century-old-problems-in-fluid-dynamics",
-    "summary": "Our new method could help mathematicians leverage AI techniques to tackle long-standing challenges in mathematics, physics and engineering.",
+    "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+    "url": "https://huggingface.co/blog/agent-glossary",
+    "summary": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
-      "research",
-      "multimodal",
-      "science",
-      "official"
+      "open_source",
+      "papers",
+      "models"
     ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-06-14",
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-06-15",
     "score": 68
   },
   {
-    "title": "Bringing AI to the next generation of fusion energy",
-    "url": "https://deepmind.google/blog/bringing-ai-to-the-next-generation-of-fusion-energy",
-    "summary": "We’re partnering with Commonwealth Fusion Systems (CFS) to bring clean, safe, limitless fusion energy closer to reality.",
+    "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
+    "url": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
+    "summary": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
-      "research",
-      "multimodal",
-      "science",
-      "official"
+      "open_source",
+      "papers",
+      "models"
     ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-06-14",
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-06-15",
     "score": 68
   },
   {
-    "title": "Try Deep Think in the Gemini app",
-    "url": "https://deepmind.google/blog/try-deep-think-in-the-gemini-app",
-    "summary": "We're rolling out Deep Think in the Gemini app for Google AI Ultra subscribers, and we're giving select mathematicians access to the full version of the Gemini 2.5 Deep Think model entered into the IMO competition.",
+    "title": "CUGA on Hugging Face: Democratizing Configurable AI Agents",
+    "url": "https://huggingface.co/blog/ibm-research/cuga-on-hugging-face",
+    "summary": "CUGA on Hugging Face: Democratizing Configurable AI Agents 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
-      "research",
-      "multimodal",
-      "science",
-      "official"
+      "open_source",
+      "papers",
+      "models"
     ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-06-14",
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-06-15",
     "score": 68
   },
   {
-    "title": "Rethinking how we measure AI intelligence",
-    "url": "https://deepmind.google/blog/rethinking-how-we-measure-ai-intelligence",
-    "summary": "Game Arena is a new, open-source platform for rigorous evaluation of AI models. It allows for head-to-head comparison of frontier systems in environments with clear winning conditions.",
+    "title": "Back to The Future: Evaluating AI Agents on Predicting Future Events",
+    "url": "https://huggingface.co/blog/futurebench",
+    "summary": "Back to The Future: Evaluating AI Agents on Predicting Future Events 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
-      "research",
-      "multimodal",
-      "science",
-      "official"
+      "open_source",
+      "papers",
+      "models"
     ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-06-14",
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-06-15",
     "score": 68
   },
   {
-    "title": "Introducing Gemma 3 270M: The compact model for hyper-efficient AI",
-    "url": "https://deepmind.google/blog/introducing-gemma-3-270m-the-compact-model-for-hyper-efficient-ai",
-    "summary": "Today, we're adding a new, highly specialized tool to the Gemma 3 toolkit: Gemma 3 270M, a compact, 270-million parameter model.",
+    "title": "Open-source DeepResearch – Freeing our search agents",
+    "url": "https://huggingface.co/blog/open-deep-research",
+    "summary": "Open-source DeepResearch – Freeing our search agents 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
-      "research",
-      "multimodal",
-      "science",
-      "official"
+      "open_source",
+      "papers",
+      "models"
     ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-06-14",
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-06-15",
     "score": 68
   },
   {
-    "title": "VaultGemma: The world's most capable differentially private LLM",
-    "url": "https://deepmind.google/blog/vaultgemma-the-worlds-most-capable-differentially-private-llm",
-    "summary": "We introduce VaultGemma, the most capable model trained from scratch with differential privacy.",
+    "title": "AI Agents Are Here. What Now?",
+    "url": "https://huggingface.co/blog/ethics-soc-7",
+    "summary": "AI Agents Are Here. What Now? 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
-      "research",
-      "multimodal",
-      "science",
-      "official"
+      "open_source",
+      "papers",
+      "models"
     ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-06-14",
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-06-15",
     "score": 68
   }
 ]

@@ -1546,5 +1546,315 @@
     "cluster_id": "deepmind_google_908599c1",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_70c949b23b5ed807",
+    "canonical_url": "https://deepmind.google/blog/teaching-ai-to-see-the-world-more-like-we-do",
+    "dedupe_key": "da4c767e937f3c31",
+    "title": "Teaching AI to see the world more like we do",
+    "issue_date": "2026-06-15",
+    "cluster_id": "deepmind_google_ef542bd8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c53dae4f8cd0c238",
+    "canonical_url": "https://deepmind.google/blog/strengthening-our-frontier-safety-framework",
+    "dedupe_key": "0b78fb4272e6ecd2",
+    "title": "Strengthening our Frontier Safety Framework",
+    "issue_date": "2026-06-15",
+    "cluster_id": "deepmind_google_97cc7047",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a3a072b5bcc25a0a",
+    "canonical_url": "https://developer.nvidia.com/blog/build-personal-ai-agents-on-windows-pcs-with-new-tools-from-microsoft-and-nvidia",
+    "dedupe_key": "08dc26689cd8cdba",
+    "title": "Build Personal AI Agents on Windows PCs with New Tools from Microsoft and NVIDIA",
+    "issue_date": "2026-06-15",
+    "cluster_id": "developer_nvidia_com_3fce3eff",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5ef075d9b5e349e8",
+    "canonical_url": "https://github.blog/ai-and-ml/github-copilot/from-one-off-prompts-to-workflows-how-to-use-custom-agents-in-github-copilot-cli",
+    "dedupe_key": "c2bb8a260095c90e",
+    "title": "From one-off prompts to workflows: How to use custom agents in GitHub Copilot CLI",
+    "issue_date": "2026-06-15",
+    "cluster_id": "github_blog_b596993a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0ef7e27fd8f30411",
+    "canonical_url": "https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face",
+    "dedupe_key": "09b2179229e52c56",
+    "title": "AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality",
+    "issue_date": "2026-06-15",
+    "cluster_id": "huggingface_co_36fc06a5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3692d60a92a5d2a4",
+    "canonical_url": "https://www.langchain.com/blog/give-your-ai-agent-its-own-computer",
+    "dedupe_key": "075120391bfeb6cc",
+    "title": "Give your agent its own computer",
+    "issue_date": "2026-06-15",
+    "cluster_id": "langchain_com_683a4d63",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_dbfa75b4257cff1f",
+    "canonical_url": "https://www.langchain.com/blog/langsmith-sandboxes-generally-available",
+    "dedupe_key": "c8f13a7693a196b2",
+    "title": "LangSmith Sandboxes are Generally Available",
+    "issue_date": "2026-06-15",
+    "cluster_id": "langchain_com_46c1215f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1898c058ca0ffa0a",
+    "canonical_url": "https://www.langchain.com/blog/aligning-llm-as-a-judge-with-human-preferences",
+    "dedupe_key": "0e67443474230f83",
+    "title": "Aligning LLM-as-a-Judge with Human Preferences",
+    "issue_date": "2026-06-15",
+    "cluster_id": "langchain_com_49026adc",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3d11ca198960e9e3",
+    "canonical_url": "https://www.langchain.com/blog/chat-with-your-data-using-openai-pinecone-airbyte-langchain",
+    "dedupe_key": "10914425da834968",
+    "title": "Chat with your data using OpenAI, Pinecone, Airbyte and Langchain",
+    "issue_date": "2026-06-15",
+    "cluster_id": "langchain_com_d5a3889b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_72f431106ffea169",
+    "canonical_url": "https://www.llamaindex.ai/industry/finance",
+    "dedupe_key": "5d0c2597bcccb01a",
+    "title": "Finance Power financial research",
+    "issue_date": "2026-06-15",
+    "cluster_id": "llamaindex_ai_eb12017a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_bdbf8f0de5529886",
+    "canonical_url": "https://www.llamaindex.ai/industry/healthcare-pharma",
+    "dedupe_key": "6336b80b0756ffd1",
+    "title": "Healthcare & Pharma Accelerate clinical research",
+    "issue_date": "2026-06-15",
+    "cluster_id": "llamaindex_ai_db7498d8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d38917164a3b2b46",
+    "canonical_url": "https://deepmind.google/blog/alphagenome-ai-for-better-understanding-the-genome",
+    "dedupe_key": "b4e992011a0d7a61",
+    "title": "AlphaGenome: AI for better understanding the genome",
+    "issue_date": "2026-06-15",
+    "cluster_id": "deepmind_google_89eb40af",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3b06e648b3d6f42a",
+    "canonical_url": "https://deepmind.google/blog/gemini-robotics-on-device-brings-ai-to-local-robotic-devices",
+    "dedupe_key": "50fc3821a5c7ce51",
+    "title": "Gemini Robotics On-Device brings AI to local robotic devices",
+    "issue_date": "2026-06-15",
+    "cluster_id": "deepmind_google_4cafdabc",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_cbbced8df9788263",
+    "canonical_url": "https://deepmind.google/blog/gemini-25-updates-to-our-family-of-thinking-models",
+    "dedupe_key": "ff31bb88ec1808d1",
+    "title": "Gemini 2.5: Updates to our family of thinking models",
+    "issue_date": "2026-06-15",
+    "cluster_id": "deepmind_google_4441c17b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_dac7a648b626a996",
+    "canonical_url": "https://deepmind.google/blog/were-expanding-our-gemini-25-family-of-models",
+    "dedupe_key": "527df101531a1b83",
+    "title": "We’re expanding our Gemini 2.5 family of models",
+    "issue_date": "2026-06-15",
+    "cluster_id": "deepmind_google_7a80c40d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b66b0830c5e05f03",
+    "canonical_url": "https://ai.meta.com/blog/segment-anything-model-3",
+    "dedupe_key": "cac2e86d83771afc",
+    "title": "SAM 3.1: Faster and More Accessible Real-Time Video Detection and Tracking With Multiplexing and Global Reasoning",
+    "issue_date": "2026-06-15",
+    "cluster_id": "ai_meta_com_1a6941ad",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f24c9352d3d81106",
+    "canonical_url": "https://developer.nvidia.com/blog/deploy-agentic-ready-ai-at-the-edge-with-memory-efficiency-in-nvidia-jetpack-7-2",
+    "dedupe_key": "3cf359cb5dae5c79",
+    "title": "Deploy Agentic-Ready AI at the Edge with Memory Efficiency in NVIDIA JetPack 7.2",
+    "issue_date": "2026-06-15",
+    "cluster_id": "developer_nvidia_com_f40b1a1e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f7e1b2b72148219a",
+    "canonical_url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark",
+    "dedupe_key": "ca18c4ebb20971a8",
+    "title": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+    "issue_date": "2026-06-15",
+    "cluster_id": "developer_nvidia_com_06f2f135",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_02e21bc490970dbf",
+    "canonical_url": "https://vercel.com/changelog/kimi-k2-7-code-now-available-on-ai-gateway",
+    "dedupe_key": "0709fac06e275aef",
+    "title": "Kimi K2.7 Code now available on AI Gateway",
+    "issue_date": "2026-06-15",
+    "cluster_id": "vercel_com_85a64055",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8c188eedd97268a2",
+    "canonical_url": "https://vercel.com/blog/how-okara-runs-cmo-agents-for-120000-companies-on-vercel",
+    "dedupe_key": "16e70881f2fea84d",
+    "title": "How Okara runs CMO agents for 120,000 companies on Vercel",
+    "issue_date": "2026-06-15",
+    "cluster_id": "vercel_com_cc0a694b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_062afde8c9289502",
+    "canonical_url": "https://vercel.com/changelog/claude-fable-5-now-available-on-ai-gateway",
+    "dedupe_key": "45fc7288fbcfd916",
+    "title": "Claude Fable 5 now available on AI Gateway",
+    "issue_date": "2026-06-15",
+    "cluster_id": "vercel_com_5ee76407",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b27dd9114aba706e",
+    "canonical_url": "https://vercel.com/changelog/nemotron-3-ultra-now-available-on-ai-gateway",
+    "dedupe_key": "9c287d2acb80d77e",
+    "title": "Nemotron 3 Ultra now available on AI Gateway",
+    "issue_date": "2026-06-15",
+    "cluster_id": "vercel_com_ddccef06",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_40322cff80e53824",
+    "canonical_url": "https://vercel.com/changelog/chat-sdk-adds-agentphone-support",
+    "dedupe_key": "68c1f6bf179ab128",
+    "title": "Chat SDK adds AgentPhone support",
+    "issue_date": "2026-06-15",
+    "cluster_id": "vercel_com_f7bb39ce",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8dcc3ae167c29491",
+    "canonical_url": "https://vercel.com/changelog/minimax-m3-on-ai-gateway",
+    "dedupe_key": "6041262fd30c4eb9",
+    "title": "MiniMax M3 on AI Gateway",
+    "issue_date": "2026-06-15",
+    "cluster_id": "vercel_com_37ded47a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_75154a20f5ca8f07",
+    "canonical_url": "https://vercel.com/changelog/firecrawl-joins-the-vercel-marketplace",
+    "dedupe_key": "e1d20887f90a8d2e",
+    "title": "Firecrawl joins the Vercel Marketplace",
+    "issue_date": "2026-06-15",
+    "cluster_id": "vercel_com_882f00b1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b3f24fffa881ca8b",
+    "canonical_url": "https://huggingface.co/blog/agent-glossary",
+    "dedupe_key": "1ce97a4332331534",
+    "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+    "issue_date": "2026-06-15",
+    "cluster_id": "huggingface_co_de88fadd",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_cba5111d07e4a733",
+    "canonical_url": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
+    "dedupe_key": "b7e8588c8143daea",
+    "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
+    "issue_date": "2026-06-15",
+    "cluster_id": "huggingface_co_fb959bb8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_31ed1b78405ab05d",
+    "canonical_url": "https://huggingface.co/blog/ibm-research/cuga-on-hugging-face",
+    "dedupe_key": "f13b9c9d25a1fd19",
+    "title": "CUGA on Hugging Face: Democratizing Configurable AI Agents",
+    "issue_date": "2026-06-15",
+    "cluster_id": "huggingface_co_1e2ff6e2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_adb710d2d4b76d19",
+    "canonical_url": "https://huggingface.co/blog/futurebench",
+    "dedupe_key": "51b9e4ec7c986444",
+    "title": "Back to The Future: Evaluating AI Agents on Predicting Future Events",
+    "issue_date": "2026-06-15",
+    "cluster_id": "huggingface_co_c691c022",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f8641f40f71dd317",
+    "canonical_url": "https://huggingface.co/blog/open-deep-research",
+    "dedupe_key": "e73e05247eaa4b16",
+    "title": "Open-source DeepResearch – Freeing our search agents",
+    "issue_date": "2026-06-15",
+    "cluster_id": "huggingface_co_7c32dfd2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7765f36ca2f37918",
+    "canonical_url": "https://huggingface.co/blog/ethics-soc-7",
+    "dedupe_key": "5dc52c510d4d8130",
+    "title": "AI Agents Are Here. What Now?",
+    "issue_date": "2026-06-15",
+    "cluster_id": "huggingface_co_68f6f0b9",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
