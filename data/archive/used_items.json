@@ -1856,5 +1856,235 @@
     "cluster_id": "huggingface_co_68f6f0b9",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_25177e5f050a2062",
+    "canonical_url": "https://github.blog/ai-and-ml/llms/accelerating-researchers-and-developers-building-multilingual-ai-with-a-new-open-dataset",
+    "dedupe_key": "aed24819ee1b713f",
+    "title": "Accelerating researchers and developers building multilingual AI with a new open dataset",
+    "issue_date": "2026-06-16",
+    "cluster_id": "github_blog_dcf26b4e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c39ba806d8b5c7d8",
+    "canonical_url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-overview-of-common-slash-commands",
+    "dedupe_key": "f16896766092f10f",
+    "title": "GitHub Copilot CLI for Beginners: Overview of common slash commands",
+    "issue_date": "2026-06-16",
+    "cluster_id": "github_blog_59b8a224",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_08c4a103c30032b1",
+    "canonical_url": "https://vercel.com/changelog/auth0-joins-the-vercel-marketplace",
+    "dedupe_key": "fa31a5efd62d8418",
+    "title": "Auth0 joins the Vercel Marketplace",
+    "issue_date": "2026-06-16",
+    "cluster_id": "vercel_com_7fc10270",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_735301f9f929f913",
+    "canonical_url": "https://www.lennysnewsletter.com/p/how-braintrust-uses-ai-agents-evals",
+    "dedupe_key": "953503c4aaee56a6",
+    "title": "How Braintrust uses AI agents, evals, and CI to ship better software | Ankur Goyal",
+    "issue_date": "2026-06-16",
+    "cluster_id": "lennysnewsletter_com_aaf11127",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_cd6f0eb14c168f01",
+    "canonical_url": "https://huggingface.co/blog/beating-gaia",
+    "dedupe_key": "56559a65d5ba66d1",
+    "title": "Our Transformers Code Agent beats the GAIA benchmark 🏅",
+    "issue_date": "2026-06-16",
+    "cluster_id": "huggingface_co_20b408c6",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d407f51d167226a7",
+    "canonical_url": "https://www.langchain.com/blog/how-we-made-coding-agent-spend-predictable",
+    "dedupe_key": "51a7126458e036b4",
+    "title": "How LangChain Made Coding Agent Spend Predictable",
+    "issue_date": "2026-06-16",
+    "cluster_id": "langchain_com_88e8bfd8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9ebcb02473e52796",
+    "canonical_url": "https://www.langchain.com/blog/production-monitoring",
+    "dedupe_key": "0f85ed14b3f4c3f7",
+    "title": "Agent Observability: How to Monitor and Evaluate LLM Agents in Production",
+    "issue_date": "2026-06-16",
+    "cluster_id": "langchain_com_a2e56fea",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_610491a2931752cb",
+    "canonical_url": "https://www.langchain.com/blog/interrupt-2025-recap",
+    "dedupe_key": "7039ab00137cf12b",
+    "title": "Recap of Interrupt 2025: The AI Agent Conference by LangChain",
+    "issue_date": "2026-06-16",
+    "cluster_id": "langchain_com_10f53704",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6806da6bcd245350",
+    "canonical_url": "https://www.langchain.com/blog/how-to-turn-claude-code-into-a-domain-specific-coding-agent",
+    "dedupe_key": "00ebe6cfc6d2d28f",
+    "title": "How to turn Claude Code into a domain specific coding agent",
+    "issue_date": "2026-06-16",
+    "cluster_id": "langchain_com_a7a11da2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5f2787539ef2d556",
+    "canonical_url": "https://www.langchain.com/blog/agent-observability-powers-agent-evaluation",
+    "dedupe_key": "edc26c829163cf90",
+    "title": "How to Debug & Evaluate AI Agents with Observability — LangChain Guide",
+    "issue_date": "2026-06-16",
+    "cluster_id": "langchain_com_11bed78d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_be9415faa829e2f1",
+    "canonical_url": "https://www.langchain.com/blog/benchling-max-agency-podcast",
+    "dedupe_key": "9fe44c8032164819",
+    "title": "How Benchling builds agents when the smartest AI isn't smart enough",
+    "issue_date": "2026-06-16",
+    "cluster_id": "langchain_com_7fdebbc1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7c62a901436e3c18",
+    "canonical_url": "https://www.langchain.com/blog/introducing-langchain-labs",
+    "dedupe_key": "8188cbe59e807541",
+    "title": "Introducing LangChain Labs",
+    "issue_date": "2026-06-16",
+    "cluster_id": "langchain_com_349a919f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6995d55c8ff3360d",
+    "canonical_url": "https://www.langchain.com/blog/token-streams-to-agent-streams",
+    "dedupe_key": "0f78860f5c087444",
+    "title": "From Token Streams to Agent Streams",
+    "issue_date": "2026-06-16",
+    "cluster_id": "langchain_com_4976096d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9249a2a547e16951",
+    "canonical_url": "https://www.langchain.com/blog/how-auth-proxy-secures-network-access-for-langsmith-agent-sandboxes",
+    "dedupe_key": "1abbe6235cb8f131",
+    "title": "How Auth Proxy secures LangSmith agent sandboxes",
+    "issue_date": "2026-06-16",
+    "cluster_id": "langchain_com_10833af6",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1ae73e8147c80bcc",
+    "canonical_url": "https://www.langchain.com/blog/customers-madrigal",
+    "dedupe_key": "6fdd55f967404322",
+    "title": "How Madrigal Built a Flexible and Scalable Multi-Agent Research and Intelligence Platform for Pharma with LangChain and LangSmith",
+    "issue_date": "2026-06-16",
+    "cluster_id": "langchain_com_c7892eee",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8edac08108d00192",
+    "canonical_url": "https://www.langchain.com/blog/runtime-behind-production-deep-agents",
+    "dedupe_key": "a0fd445a5c6843e5",
+    "title": "The Runtime Behind Production Deep Agents",
+    "issue_date": "2026-06-16",
+    "cluster_id": "langchain_com_1326716d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_667407e74fa60fbf",
+    "canonical_url": "https://www.langchain.com/blog/langgraph-platform-ga",
+    "dedupe_key": "47b5af7494650106",
+    "title": "LangGraph Platform is now Generally Available: Deploy & manage long-running, stateful Agents",
+    "issue_date": "2026-06-16",
+    "cluster_id": "langchain_com_c6128ab5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5290232f1e35f63e",
+    "canonical_url": "https://elevenlabs.io/blog",
+    "dedupe_key": "f31a8bf84b4c59ef",
+    "title": "Skip to content",
+    "issue_date": "2026-06-16",
+    "cluster_id": "elevenlabs_io_96272c89",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_26433c412f096a5b",
+    "canonical_url": "https://elevenlabs.io/blog/uk-mou-and-expansion",
+    "dedupe_key": "82798ba3fa1ba15d",
+    "title": "ElevenLabs partners with the UK Government to bring voice AI to public services, as it expands London HQ",
+    "issue_date": "2026-06-16",
+    "cluster_id": "elevenlabs_io_ad9cf7a2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_706d9ba7e50b4445",
+    "canonical_url": "https://elevenlabs.io/blog/voice-ai-for-greece",
+    "dedupe_key": "7525691e72385bc1",
+    "title": "Voice AI for Greece",
+    "issue_date": "2026-06-16",
+    "cluster_id": "elevenlabs_io_063b3ef5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_978579726a83c557",
+    "canonical_url": "https://elevenlabs.io/blog/warsaw-summit-homecoming",
+    "dedupe_key": "50d79650ab395f01",
+    "title": "Homecoming: bringing the ElevenLabs Summit to Warsaw",
+    "issue_date": "2026-06-16",
+    "cluster_id": "elevenlabs_io_913ed9d4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9f6fd02439993771",
+    "canonical_url": "https://elevenlabs.io/blog/introducing-dubbing-v2",
+    "dedupe_key": "2d60ac02013d5de6",
+    "title": "Introducing Dubbing v2",
+    "issue_date": "2026-06-16",
+    "cluster_id": "elevenlabs_io_53cc6165",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8849883d72045c32",
+    "canonical_url": "https://elevenlabs.io/blog/introducing-music-v2",
+    "dedupe_key": "1559e20f1ab371be",
+    "title": "Introducing Music v2",
+    "issue_date": "2026-06-16",
+    "cluster_id": "elevenlabs_io_9cc8930f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]

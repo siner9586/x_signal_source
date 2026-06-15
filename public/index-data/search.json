@@ -1,65 +1,62 @@
 [
   {
-    "title": "Teaching AI to see the world more like we do",
-    "url": "https://deepmind.google/blog/teaching-ai-to-see-the-world-more-like-we-do",
-    "summary": "Our new paper analyzes the important ways AI systems organize the visual world differently from humans.",
-    "tags": [
-      "research",
-      "multimodal",
-      "science",
-      "official"
-    ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-06-15",
-    "score": 70
-  },
-  {
-    "title": "Strengthening our Frontier Safety Framework",
-    "url": "https://deepmind.google/blog/strengthening-our-frontier-safety-framework",
-    "summary": "We’re strengthening the Frontier Safety Framework (FSF) to help identify and mitigate severe risks from advanced AI models.",
-    "tags": [
-      "research",
-      "multimodal",
-      "science",
-      "official"
-    ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-06-15",
-    "score": 70
-  },
-  {
-    "title": "Build Personal AI Agents on Windows PCs with New Tools from Microsoft and NVIDIA",
-    "url": "https://developer.nvidia.com/blog/build-personal-ai-agents-on-windows-pcs-with-new-tools-from-microsoft-and-nvidia",
-    "summary": "AI agents are changing how you interact with your PC. Creators, developers, and AI enthusiasts are already using these agents extensively to assist with...",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-06-15",
-    "score": 70
-  },
-  {
-    "title": "From one-off prompts to workflows: How to use custom agents in GitHub Copilot CLI",
-    "url": "https://github.blog/ai-and-ml/github-copilot/from-one-off-prompts-to-workflows-how-to-use-custom-agents-in-github-copilot-cli",
-    "summary": "Custom agents let GitHub Copilot CLI understand your stack and team workflows, turning one-off terminal prompts into repeatable, reviewable processes. The post From one-off prompts to workflows: How to use custom agents in GitHub Copilot CLI appeared first on The GitHub Blog .",
+    "title": "Accelerating researchers and developers building multilingual AI with a new open dataset",
+    "url": "https://github.blog/ai-and-ml/llms/accelerating-researchers-and-developers-building-multilingual-ai-with-a-new-open-dataset",
+    "summary": "A new repository-level dataset, published on GitHub under CC0-1.0, helps researchers and developers discover multilingual developer content across READMEs, issues, and pull requests. The post Accelerating researchers and developers building multilingual AI with a new open dataset appeared first on The GitHub Blog .",
     "tags": [
       "ai_coding",
       "developer_tools"
     ],
     "author": "GitHub Copilot",
     "source": "github.blog",
-    "date": "2026-06-15",
+    "date": "2026-06-16",
+    "score": 73
+  },
+  {
+    "title": "GitHub Copilot CLI for Beginners: Overview of common slash commands",
+    "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-overview-of-common-slash-commands",
+    "summary": "GitHub Copilot CLI for Beginners: Learn how to use slash commands to control your terminal AI agent. The post GitHub Copilot CLI for Beginners: Overview of common slash commands appeared first on The GitHub Blog .",
+    "tags": [
+      "ai_coding",
+      "developer_tools"
+    ],
+    "author": "GitHub Copilot",
+    "source": "github.blog",
+    "date": "2026-06-16",
+    "score": 72
+  },
+  {
+    "title": "Auth0 joins the Vercel Marketplace",
+    "url": "https://vercel.com/changelog/auth0-joins-the-vercel-marketplace",
+    "summary": "You can now add Auth0 , a production-ready authentication to your Vercel app in just a few clicks. Built for modern frameworks like Next.js, Auth0 is an identity and access management platform for securing your apps and agentic workflows. This integration enables: Automatic provisioning of an Auth0 application that connects to your Vercel project Out-of-the-box support for your Next.js applications using the Auth0 Next.js SDK Complete user management with hosted dashboards, s",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-06-16",
     "score": 70
   },
   {
-    "title": "AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality",
-    "url": "https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face",
-    "summary": "AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "How Braintrust uses AI agents, evals, and CI to ship better software | Ankur Goyal",
+    "url": "https://www.lennysnewsletter.com/p/how-braintrust-uses-ai-agents-evals",
+    "summary": "Watch now | &#127897;&#65039; &#8220;Evals are the modern version of a PRD&#8221;: Ankur Goyal (Braintrust) on encoding taste into systems that scale",
+    "tags": [
+      "product",
+      "growth",
+      "startup"
+    ],
+    "author": "Lenny's Newsletter",
+    "source": "lennysnewsletter.com",
+    "date": "2026-06-16",
+    "score": 69
+  },
+  {
+    "title": "Our Transformers Code Agent beats the GAIA benchmark 🏅",
+    "url": "https://huggingface.co/blog/beating-gaia",
+    "summary": "Our Transformers Code Agent beats the GAIA benchmark 🏅 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -67,13 +64,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-06-15",
-    "score": 70
+    "date": "2026-06-16",
+    "score": 68
   },
   {
-    "title": "Give your agent its own computer",
-    "url": "https://www.langchain.com/blog/give-your-ai-agent-its-own-computer",
-    "summary": "Running code execution in an AI agent is harder than it looks. Your agent needs a real computer (filesystem, shell, package manager, persistent state) but handing it access to your infrastructure is dangerous.Think about it this way: you use one laptop. You are n of one. But agents are going to run millions of tasks, and each one needs its own computer to work from. That's the infrastructure shift happening right now. Satya Nadella put it plainly: \"Every agent needs a compute",
+    "title": "How LangChain Made Coding Agent Spend Predictable",
+    "url": "https://www.langchain.com/blog/how-we-made-coding-agent-spend-predictable",
+    "summary": "Learn how LangChain uses LangSmith LLM Gateway to track coding agent spend in real time, set budgets by team and user, and prevent runaway AI costs.",
     "tags": [
       "agents",
       "rag",
@@ -81,13 +78,13 @@
     ],
     "author": "LangChain",
     "source": "langchain.com",
-    "date": "2026-06-15",
-    "score": 70
+    "date": "2026-06-16",
+    "score": 68
   },
   {
-    "title": "LangSmith Sandboxes are Generally Available",
-    "url": "https://www.langchain.com/blog/langsmith-sandboxes-generally-available",
-    "summary": "Run AI agents safely with LangSmith Sandboxes (GA): kernel-isolated microVMs with snapshots, parallel forks, service URLs, and auth proxies. Built for coding agents, CI agents, and data pipelines",
+    "title": "Agent Observability: How to Monitor and Evaluate LLM Agents in Production",
+    "url": "https://www.langchain.com/blog/production-monitoring",
+    "summary": "Production monitoring for LLM agents requires new observability tools. Learn how to trace, evaluate, and improve AI agents at scale.",
     "tags": [
       "agents",
       "rag",
@@ -95,13 +92,13 @@
     ],
     "author": "LangChain",
     "source": "langchain.com",
-    "date": "2026-06-15",
-    "score": 70
+    "date": "2026-06-16",
+    "score": 68
   },
   {
-    "title": "Aligning LLM-as-a-Judge with Human Preferences",
-    "url": "https://www.langchain.com/blog/aligning-llm-as-a-judge-with-human-preferences",
-    "summary": "Deep dive into self-improving evaluators in LangSmith, motivated by the rise of LLM-as-a-Judge evaluators plus research on few-shot learning and aligning human preferences.",
+    "title": "Recap of Interrupt 2025: The AI Agent Conference by LangChain",
+    "url": "https://www.langchain.com/blog/interrupt-2025-recap",
+    "summary": "Hear more about the product launches, keynote themes, and exciting news from our first-ever conference.",
     "tags": [
       "agents",
       "rag",
@@ -109,13 +106,13 @@
     ],
     "author": "LangChain",
     "source": "langchain.com",
-    "date": "2026-06-15",
-    "score": 70
+    "date": "2026-06-16",
+    "score": 68
   },
   {
-    "title": "Chat with your data using OpenAI, Pinecone, Airbyte and Langchain",
-    "url": "https://www.langchain.com/blog/chat-with-your-data-using-openai-pinecone-airbyte-langchain",
-    "summary": "Build an AI chatbot that answers questions using your data from GitHub, Slack, and docs. Learn to integrate OpenAI, Pinecone, Airbyte, and LangChain.",
+    "title": "How to turn Claude Code into a domain specific coding agent",
+    "url": "https://www.langchain.com/blog/how-to-turn-claude-code-into-a-domain-specific-coding-agent",
+    "summary": "Customize Claude Code for domain-specific libraries. Discover which context engineering techniques work best, with evaluation results and takeaways.",
     "tags": [
       "agents",
       "rag",
@@ -123,319 +120,197 @@
     ],
     "author": "LangChain",
     "source": "langchain.com",
-    "date": "2026-06-15",
-    "score": 70
+    "date": "2026-06-16",
+    "score": 68
   },
   {
-    "title": "Finance Power financial research",
-    "url": "https://www.llamaindex.ai/industry/finance",
-    "summary": "Blog · Finance Power financial research",
+    "title": "How to Debug & Evaluate AI Agents with Observability — LangChain Guide",
+    "url": "https://www.langchain.com/blog/agent-observability-powers-agent-evaluation",
+    "summary": "Learn how agent observability enables effective evaluation of AI agents. Understand tracing, debugging reasoning, and performance insights to iterate and improve agent behavior.",
     "tags": [
-      "rag",
       "agents",
+      "rag",
       "framework"
     ],
-    "author": "LlamaIndex",
-    "source": "llamaindex.ai",
-    "date": "2026-06-15",
-    "score": 70
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-06-16",
+    "score": 68
   },
   {
-    "title": "Healthcare & Pharma Accelerate clinical research",
-    "url": "https://www.llamaindex.ai/industry/healthcare-pharma",
-    "summary": "Blog · Healthcare & Pharma Accelerate clinical research",
+    "title": "How Benchling builds agents when the smartest AI isn't smart enough",
+    "url": "https://www.langchain.com/blog/benchling-max-agency-podcast",
+    "summary": "Discover how Benchling, the R&D data platform, leverages AI agents to accelerate scientific discovery. In this episode of Max Agency, Head of AI Nicholas Larus-Stone and host Harrison Chase discuss the complexities of building agents for life sciences, including the use of multi-model architectures, production trace reviews, and strategies for verifiable scientific tasks.",
     "tags": [
-      "rag",
       "agents",
+      "rag",
       "framework"
     ],
-    "author": "LlamaIndex",
-    "source": "llamaindex.ai",
-    "date": "2026-06-15",
-    "score": 70
-  },
-  {
-    "title": "AlphaGenome: AI for better understanding the genome",
-    "url": "https://deepmind.google/blog/alphagenome-ai-for-better-understanding-the-genome",
-    "summary": "Introducing a new, unifying DNA sequence model that advances regulatory variant-effect prediction and promises to shed new light on genome function — now available via API.",
-    "tags": [
-      "research",
-      "multimodal",
-      "science",
-      "official"
-    ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-06-15",
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-06-16",
     "score": 68
   },
   {
-    "title": "Gemini Robotics On-Device brings AI to local robotic devices",
-    "url": "https://deepmind.google/blog/gemini-robotics-on-device-brings-ai-to-local-robotic-devices",
-    "summary": "We’re introducing an efficient, on-device robotics model with general-purpose dexterity and fast task adaptation.",
+    "title": "Introducing LangChain Labs",
+    "url": "https://www.langchain.com/blog/introducing-langchain-labs",
+    "summary": "LangChain Labs is a new applied research effort focused on continual learning for agents, with partners advancing open research on self-improving AI systems.",
     "tags": [
-      "research",
-      "multimodal",
-      "science",
-      "official"
+      "agents",
+      "rag",
+      "framework"
     ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-06-15",
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-06-16",
     "score": 68
   },
   {
-    "title": "Gemini 2.5: Updates to our family of thinking models",
-    "url": "https://deepmind.google/blog/gemini-25-updates-to-our-family-of-thinking-models",
-    "summary": "Explore the latest Gemini 2.5 model updates with enhanced performance and accuracy: Gemini 2.5 Pro now stable, Flash generally available, and the new Flash-Lite in preview.",
+    "title": "From Token Streams to Agent Streams",
+    "url": "https://www.langchain.com/blog/token-streams-to-agent-streams",
+    "summary": "Move beyond token streaming. Learn how the latest streaming primitives in Deep Agents, LangChain, and LangGraph enable typed events, scoped subscriptions, subagent visibility, multimodal outputs, and resilient frontend experiences for building production-ready agent applications.",
     "tags": [
-      "research",
-      "multimodal",
-      "science",
-      "official"
+      "agents",
+      "rag",
+      "framework"
     ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-06-15",
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-06-16",
     "score": 68
   },
   {
-    "title": "We’re expanding our Gemini 2.5 family of models",
-    "url": "https://deepmind.google/blog/were-expanding-our-gemini-25-family-of-models",
-    "summary": "Gemini 2.5 Flash and Pro are now generally available, and we’re introducing 2.5 Flash-Lite, our most cost-efficient and fastest 2.5 model yet.",
+    "title": "How Auth Proxy secures LangSmith agent sandboxes",
+    "url": "https://www.langchain.com/blog/how-auth-proxy-secures-network-access-for-langsmith-agent-sandboxes",
+    "summary": "Agents need credentials and network access to do useful work, but those capabilities create new security risks. This post explains how Auth Proxy keeps secrets out of LangSmith Sandboxes runtimes, constrains agent egress, and gives teams infrastructure-level control over how agents reach external services.",
     "tags": [
-      "research",
-      "multimodal",
-      "science",
-      "official"
+      "agents",
+      "rag",
+      "framework"
     ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-06-15",
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-06-16",
     "score": 68
   },
   {
-    "title": "SAM 3.1: Faster and More Accessible Real-Time Video Detection and Tracking With Multiplexing and Global Reasoning",
-    "url": "https://ai.meta.com/blog/segment-anything-model-3",
-    "summary": "AI at Meta Blog · SAM 3.1: Faster and More Accessible Real-Time Video Detection and Tracking With Multiplexing and Global Reasoning",
+    "title": "How Madrigal Built a Flexible and Scalable Multi-Agent Research and Intelligence Platform for Pharma with LangChain and LangSmith",
+    "url": "https://www.langchain.com/blog/customers-madrigal",
+    "summary": "See how Madrigal Pharmaceuticals built a modular, multi-agent research platform on LangChain and LangGraph. They deployed on LangSmith and went from prototype to enterprise deployment in weeks.",
     "tags": [
-      "open_source_model",
-      "research",
-      "llama"
+      "agents",
+      "rag",
+      "framework"
     ],
-    "author": "Meta AI",
-    "source": "ai.meta.com",
-    "date": "2026-06-15",
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-06-16",
     "score": 68
   },
   {
-    "title": "Deploy Agentic-Ready AI at the Edge with Memory Efficiency in NVIDIA JetPack 7.2",
-    "url": "https://developer.nvidia.com/blog/deploy-agentic-ready-ai-at-the-edge-with-memory-efficiency-in-nvidia-jetpack-7-2",
-    "summary": "As AI agents move from the digital world to the physical environment, they can readily use NVIDIA Jetson to accelerate real-world deployment with optimized...",
+    "title": "The Runtime Behind Production Deep Agents",
+    "url": "https://www.langchain.com/blog/runtime-behind-production-deep-agents",
+    "summary": "Deploying long horizon agents in production requires purpose-built infrastructure. This guide covers durable execution, memory, HITL, observability, and how deepagents deploy ships it all to production.",
     "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
+      "agents",
+      "rag",
+      "framework"
     ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-06-15",
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-06-16",
     "score": 68
   },
   {
-    "title": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
-    "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark",
-    "summary": "The rise of autonomous, long-running AI agents has introduced a new class of compute demand, namely tasks that maintain large context windows, spawn concurrent...",
+    "title": "LangGraph Platform is now Generally Available: Deploy & manage long-running, stateful Agents",
+    "url": "https://www.langchain.com/blog/langgraph-platform-ga",
+    "summary": "LangGraph Platform, our infrastructure for deploying and managing agents at scale, is now generally available. Learn how to deploy",
     "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
+      "agents",
+      "rag",
+      "framework"
     ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-06-15",
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-06-16",
     "score": 68
   },
   {
-    "title": "Kimi K2.7 Code now available on AI Gateway",
-    "url": "https://vercel.com/changelog/kimi-k2-7-code-now-available-on-ai-gateway",
-    "summary": "Kimi K2.7 Code from Moonshot AI is now available on AI Gateway . K2.7 Code is a coding model built for long-horizon programming tasks, generalizing across scenarios including frontend development, DevOps, and performance optimization. The model has a native multimodal architecture that supports text and vision input, and always runs in thinking mode. To use K2.7 Code, set model to moonshotai/kimi-k2.7-code in the AI SDK : Pass an image alongside a prompt to use the model's mu",
+    "title": "Skip to content",
+    "url": "https://elevenlabs.io/blog",
+    "summary": "ElevenLabs Blog - Company, Research & Product Updates · Skip to content",
     "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
+      "voice_ai",
+      "audio"
     ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-06-15",
-    "score": 68
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-06-16",
+    "score": 67
   },
   {
-    "title": "How Okara runs CMO agents for 120,000 companies on Vercel",
-    "url": "https://vercel.com/blog/how-okara-runs-cmo-agents-for-120000-companies-on-vercel",
-    "summary": "Okara on Vercel 4 billion tokens processed daily across a multi-provider AI stack on Vercel AI CMOs actively managing growth for 120,000+ businesses Eight sub-agents handling SEO, GEO, social, content, Reddit, and Hacker News New AI models available to users the same day they ship Okara is an AI CMO that directs a team of specialized sub-agents to drive marketing, so founders don't have to. Give Okara your website URL, and the AI CMO builds a marketing strategy, develops a br",
+    "title": "ElevenLabs partners with the UK Government to bring voice AI to public services, as it expands London HQ",
+    "url": "https://elevenlabs.io/blog/uk-mou-and-expansion",
+    "summary": "ElevenLabs Blog - Company, Research & Product Updates · ElevenLabs partners with the UK Government to bring voice AI to public services, as it expands London HQ",
     "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
+      "voice_ai",
+      "audio"
     ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-06-15",
-    "score": 68
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-06-16",
+    "score": 67
   },
   {
-    "title": "Claude Fable 5 now available on AI Gateway",
-    "url": "https://vercel.com/changelog/claude-fable-5-now-available-on-ai-gateway",
-    "summary": "Claude Fable 5 from Anthropic is now available on AI Gateway . A Mythos-class model, Fable 5 is a notable step up over prior Claude models on long-running, ambiguous, multi-step tasks, executing end-to-end on work that previously required frequent human check-ins. The model sustains productive output across multi-day runs and dependably dispatches parallel sub-agents, and lower effort settings often match what prior Claude models produced at their highest effort. Code review,",
+    "title": "Voice AI for Greece",
+    "url": "https://elevenlabs.io/blog/voice-ai-for-greece",
+    "summary": "ElevenLabs Blog - Company, Research & Product Updates · Voice AI for Greece",
     "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
+      "voice_ai",
+      "audio"
     ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-06-15",
-    "score": 68
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-06-16",
+    "score": 67
   },
   {
-    "title": "Nemotron 3 Ultra now available on AI Gateway",
-    "url": "https://vercel.com/changelog/nemotron-3-ultra-now-available-on-ai-gateway",
-    "summary": "Nemotron 3 Ultra from Nvidia is now available on Vercel AI Gateway . Nemotron 3 Ultra is an open Mixture-of-Experts reasoning model built for orchestrating long-running agent workflows, with a 1M token context window. The model targets multi-turn agent workflows: planning, tool use, sub-agent delegation, and error recovery. Throughput reaches up to 350 tokens per second, with up to 30% lower cost on agentic tasks. To use Nemotron 3 Ultra, set model to nvidia/nemotron-3-ultra-",
+    "title": "Homecoming: bringing the ElevenLabs Summit to Warsaw",
+    "url": "https://elevenlabs.io/blog/warsaw-summit-homecoming",
+    "summary": "ElevenLabs Blog - Company, Research & Product Updates · Homecoming: bringing the ElevenLabs Summit to Warsaw",
     "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
+      "voice_ai",
+      "audio"
     ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-06-15",
-    "score": 68
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-06-16",
+    "score": 67
   },
   {
-    "title": "Chat SDK adds AgentPhone support",
-    "url": "https://vercel.com/changelog/chat-sdk-adds-agentphone-support",
-    "summary": "Chat SDK now supports AgentPhone with the new vendor-official adapter . Give your bot its own phone number so it can handle voice calls and text messages using the same handlers you already write. When a call ends, the transcript is delivered as a message, allowing your bot to respond via SMS or iMessage. Calls and messages to the same number arrive via a single webhook, so you handle both from a single endpoint rather than a separate pipeline for each channel. They also land",
+    "title": "Introducing Dubbing v2",
+    "url": "https://elevenlabs.io/blog/introducing-dubbing-v2",
+    "summary": "ElevenLabs Blog - Company, Research & Product Updates · Introducing Dubbing v2",
     "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
+      "voice_ai",
+      "audio"
     ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-06-15",
-    "score": 68
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-06-16",
+    "score": 67
   },
   {
-    "title": "MiniMax M3 on AI Gateway",
-    "url": "https://vercel.com/changelog/minimax-m3-on-ai-gateway",
-    "summary": "MiniMax M3 is now available on Vercel AI Gateway . M3 is MiniMax's first model with a 1M-token context window and native multimodality, built around MiniMax Sparse Attention (MSA). M3 improves on software engineering, terminal-based tool use, and agentic web browsing, and is tuned for multi-turn collaboration. To use MiniMax M3, set model to minimax/minimax-m3 in the AI SDK . Pass an image alongside a prompt to use M3's multimodal input: AI Gateway provides a unified API for ",
+    "title": "Introducing Music v2",
+    "url": "https://elevenlabs.io/blog/introducing-music-v2",
+    "summary": "ElevenLabs Blog - Company, Research & Product Updates · Introducing Music v2",
     "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
+      "voice_ai",
+      "audio"
     ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-06-15",
-    "score": 68
-  },
-  {
-    "title": "Firecrawl joins the Vercel Marketplace",
-    "url": "https://vercel.com/changelog/firecrawl-joins-the-vercel-marketplace",
-    "summary": "Firecrawl is now available on the Vercel Marketplace , allowing Vercel teams to power AI agents and applications with structured web data without managing crawling infrastructure. This integration helps developers scrape websites into LLM-ready formats, search and retrieve full page content, and interact with dynamic pages for retrieval and agent workflows. Key capabilities include: Scrape pages into markdown, HTML, structured data, or screenshots Search the web and retrieve ",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-06-15",
-    "score": 68
-  },
-  {
-    "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
-    "url": "https://huggingface.co/blog/agent-glossary",
-    "summary": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-06-15",
-    "score": 68
-  },
-  {
-    "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
-    "url": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
-    "summary": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-06-15",
-    "score": 68
-  },
-  {
-    "title": "CUGA on Hugging Face: Democratizing Configurable AI Agents",
-    "url": "https://huggingface.co/blog/ibm-research/cuga-on-hugging-face",
-    "summary": "CUGA on Hugging Face: Democratizing Configurable AI Agents 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-06-15",
-    "score": 68
-  },
-  {
-    "title": "Back to The Future: Evaluating AI Agents on Predicting Future Events",
-    "url": "https://huggingface.co/blog/futurebench",
-    "summary": "Back to The Future: Evaluating AI Agents on Predicting Future Events 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-06-15",
-    "score": 68
-  },
-  {
-    "title": "Open-source DeepResearch – Freeing our search agents",
-    "url": "https://huggingface.co/blog/open-deep-research",
-    "summary": "Open-source DeepResearch – Freeing our search agents 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-06-15",
-    "score": 68
-  },
-  {
-    "title": "AI Agents Are Here. What Now?",
-    "url": "https://huggingface.co/blog/ethics-soc-7",
-    "summary": "AI Agents Are Here. What Now? 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-06-15",
-    "score": 68
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-06-16",
+    "score": 67
   }
 ]
