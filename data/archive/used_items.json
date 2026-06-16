@@ -2086,5 +2086,215 @@
     "cluster_id": "elevenlabs_io_9cc8930f",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f749b48655122d4e",
+    "canonical_url": "https://developer.nvidia.com/blog/building-ai-agents-for-ar-glasses-and-xr-devices-with-nvidia-xr-ai",
+    "dedupe_key": "0d5fa99ce3614470",
+    "title": "Building AI Agents for AR Glasses and XR Devices with NVIDIA XR AI",
+    "issue_date": "2026-06-17",
+    "cluster_id": "developer_nvidia_com_0e5aae2a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_81782d8f7aebcecf",
+    "canonical_url": "https://developer.nvidia.com/blog/build-on-device-ai-companions-with-the-nvidia-ace-game-agent-sdk-and-unreal-engine-5-plugins",
+    "dedupe_key": "ff32dee948729278",
+    "title": "Build On-Device AI Companions with the NVIDIA ACE Game Agent SDK and Unreal Engine 5 Plugins",
+    "issue_date": "2026-06-17",
+    "cluster_id": "developer_nvidia_com_ede3c149",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f4f443ee39680ec0",
+    "canonical_url": "https://www.langchain.com/blog/introducing-open-swe-an-open-source-asynchronous-coding-agent",
+    "dedupe_key": "514fbecc84ac882d",
+    "title": "Introducing Open SWE: An Open-Source Asynchronous Coding Agent",
+    "issue_date": "2026-06-17",
+    "cluster_id": "langchain_com_0387688b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_216ffadaa7b04947",
+    "canonical_url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning",
+    "dedupe_key": "a2ea757a7d645263",
+    "title": "Unlocking UK house-building with AI-accelerated planning",
+    "issue_date": "2026-06-17",
+    "cluster_id": "deepmind_google_dba9637f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_714c7612da2aaaae",
+    "canonical_url": "https://elevenlabs.io/blog/elevenlabs-expands-presence-in-australia-new-zealand",
+    "dedupe_key": "c79d12f29ce7e027",
+    "title": "ElevenLabs expands presence in Australia and New Zealand",
+    "issue_date": "2026-06-17",
+    "cluster_id": "elevenlabs_io_f3e88a5b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a598b3c239817f6e",
+    "canonical_url": "https://elevenlabs.io/blog/500m-arr-and-new-investors",
+    "dedupe_key": "ff3edb2db154f59e",
+    "title": "ElevenLabs crosses $500M ARR as it welcomes new investors including BlackRock, NVIDIA, Jamie Foxx and Eva Longoria",
+    "issue_date": "2026-06-17",
+    "cluster_id": "elevenlabs_io_2c038525",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0c03321437747444",
+    "canonical_url": "https://elevenlabs.io/blog/introducing-elevenmusic",
+    "dedupe_key": "6bd98b0045298c86",
+    "title": "Introducing ElevenMusic",
+    "issue_date": "2026-06-17",
+    "cluster_id": "elevenlabs_io_4db0093d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_79f9896fdd303ac5",
+    "canonical_url": "https://openai.com/index/deployment-simulation",
+    "dedupe_key": "bb7ee4fda191b886",
+    "title": "Predicting model behavior before release by simulating deployment",
+    "issue_date": "2026-06-17",
+    "cluster_id": "openai_com_6d5bad29",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_377f1139282f2b2b",
+    "canonical_url": "https://openai.com/index/introducing-openai-partner-network",
+    "dedupe_key": "51e355fdca6afff0",
+    "title": "Introducing the OpenAI Partner Network",
+    "issue_date": "2026-06-17",
+    "cluster_id": "openai_com_cece0a42",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8ab5c222607c6267",
+    "canonical_url": "https://openai.com/index/preply",
+    "dedupe_key": "df65f7e6b9207533",
+    "title": "How Preply combines AI and human tutors to personalize learning",
+    "issue_date": "2026-06-17",
+    "cluster_id": "openai_com_a94e5e4b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0a32091bb483d837",
+    "canonical_url": "https://openai.com/index/bbva",
+    "dedupe_key": "cca2ea49a3797498",
+    "title": "BBVA puts AI at the core of banking with OpenAI",
+    "issue_date": "2026-06-17",
+    "cluster_id": "openai_com_e97569aa",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_22e04408985305d2",
+    "canonical_url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+    "dedupe_key": "671d65dc35756612",
+    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+    "issue_date": "2026-06-17",
+    "cluster_id": "openai_com_18c58dc6",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1e0368020dcca899",
+    "canonical_url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+    "dedupe_key": "ea9367f9d772a072",
+    "title": "How an astrophysicist uses Codex to help simulate black holes",
+    "issue_date": "2026-06-17",
+    "cluster_id": "openai_com_5d7fa98c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_770f5582ee53c89a",
+    "canonical_url": "https://openai.com/index/openai-on-oracle-cloud",
+    "dedupe_key": "464c35df00a8f912",
+    "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+    "issue_date": "2026-06-17",
+    "cluster_id": "openai_com_d1aec9bc",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e8e04c5b11f6e101",
+    "canonical_url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
+    "dedupe_key": "ce6f9ce1ab94f642",
+    "title": "PRC-linked influence operations are targeting AI debates in the US",
+    "issue_date": "2026-06-17",
+    "cluster_id": "openai_com_24fa816a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a1e85e6065b6a24d",
+    "canonical_url": "https://openai.com/index/lseg",
+    "dedupe_key": "d720a9b0479a4aee",
+    "title": "From data to decisions: how LSEG is scaling trusted AI",
+    "issue_date": "2026-06-17",
+    "cluster_id": "openai_com_580205f4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e91af7552fdf2506",
+    "canonical_url": "https://openai.com/index/notion",
+    "dedupe_key": "62c747326cfaff84",
+    "title": "What Codex unlocks for Notion",
+    "issue_date": "2026-06-17",
+    "cluster_id": "openai_com_df7f9fa5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9d9afd0ee9cae4b0",
+    "canonical_url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+    "dedupe_key": "74cfdd6f22667483",
+    "title": "Industrial policy for the Intelligence Age",
+    "issue_date": "2026-06-17",
+    "cluster_id": "openai_com_35658510",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_da9d49b6141bc005",
+    "canonical_url": "https://openai.com/index/openai-submits-confidential-s-1",
+    "dedupe_key": "c79f880e3e4ed8ef",
+    "title": "Confidential submission of draft S-1 to the SEC",
+    "issue_date": "2026-06-17",
+    "cluster_id": "openai_com_0e5bb727",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1530a997925e675c",
+    "canonical_url": "https://openai.com/index/built-to-benefit-everyone-our-plan",
+    "dedupe_key": "1c8ff93dc9807040",
+    "title": "Built to benefit everyone: our plan",
+    "issue_date": "2026-06-17",
+    "cluster_id": "openai_com_9ac79a4e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_42a198f0e85e9e3b",
+    "canonical_url": "https://openai.com/index/chatgpt-memory-dreaming",
+    "dedupe_key": "aac97372b803862b",
+    "title": "Dreaming: Better memory for a more helpful ChatGPT",
+    "issue_date": "2026-06-17",
+    "cluster_id": "openai_com_1a8a135c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
