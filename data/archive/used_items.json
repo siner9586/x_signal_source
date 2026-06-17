@@ -2296,5 +2296,225 @@
     "cluster_id": "openai_com_1a8a135c",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4dfea9d19c30488f",
+    "canonical_url": "https://vercel.com/blog/introducing-eve",
+    "dedupe_key": "18ebe23fa4df94d4",
+    "title": "Introducing eve",
+    "issue_date": "2026-06-18",
+    "cluster_id": "vercel_com_98d8250f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_33284d1700b0686e",
+    "canonical_url": "https://vercel.com/changelog/introducing-eve-an-open-source-agent-framework",
+    "dedupe_key": "3ed9958dc8d8d85c",
+    "title": "Introducing eve, an open-source agent framework",
+    "issue_date": "2026-06-18",
+    "cluster_id": "vercel_com_5bcbb979",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5d0da8c5ff174c76",
+    "canonical_url": "https://openai.com/index/introducing-life-sci-bench",
+    "dedupe_key": "3f536267f60258a4",
+    "title": "Introducing LifeSciBench",
+    "issue_date": "2026-06-18",
+    "cluster_id": "openai_com_163b495b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6126d3394a4276d2",
+    "canonical_url": "https://vercel.com/changelog/vercel-connect-secure-access-to-external-services-for-your-agents",
+    "dedupe_key": "05824eddb5fc36ed",
+    "title": "Vercel Connect: Secure access to external services for your agents",
+    "issue_date": "2026-06-18",
+    "cluster_id": "vercel_com_64a95bd9",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9ca1f7aeaadf5547",
+    "canonical_url": "https://vercel.com/changelog/cli-deployment-limits-removed",
+    "dedupe_key": "e41370bb0e81e439",
+    "title": "CLI deployment limits removed",
+    "issue_date": "2026-06-18",
+    "cluster_id": "vercel_com_5bb0c7fc",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0e65f0b5929076d3",
+    "canonical_url": "https://vercel.com/blog/vercel-for-enterprise-apps-and-agents",
+    "dedupe_key": "3da5baf2bb4f1468",
+    "title": "Vercel for Enterprise Apps and Agents",
+    "issue_date": "2026-06-18",
+    "cluster_id": "vercel_com_7bf423ed",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_018af08544b9bb98",
+    "canonical_url": "https://openai.com/index/ai-chemist-improves-reaction",
+    "dedupe_key": "46b3a34ac6061a69",
+    "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+    "issue_date": "2026-06-18",
+    "cluster_id": "openai_com_4be58b7c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d57889662b9b5436",
+    "canonical_url": "https://openai.com/index/biodefense-in-the-intelligence-age",
+    "dedupe_key": "a41692a0edecef71",
+    "title": "Biodefense in the Intelligence Age",
+    "issue_date": "2026-06-18",
+    "cluster_id": "openai_com_73d78d24",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1b2c7e45a67fcf52",
+    "canonical_url": "https://openai.com/index/wasmer",
+    "dedupe_key": "433acbedb40d5daf",
+    "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
+    "issue_date": "2026-06-18",
+    "cluster_id": "openai_com_71f65659",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_21b2cb1f2c0e1a30",
+    "canonical_url": "https://openai.com/index/public-policy-agenda",
+    "dedupe_key": "f16e2ea8519e5374",
+    "title": "OpenAI public policy agenda",
+    "issue_date": "2026-06-18",
+    "cluster_id": "openai_com_28ca46c7",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_05cd49d1835cdbf3",
+    "canonical_url": "https://openai.com/index/travelers",
+    "dedupe_key": "fddf869c3e7a731a",
+    "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+    "issue_date": "2026-06-18",
+    "cluster_id": "openai_com_45f2c9c7",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a3911e910c31db6d",
+    "canonical_url": "https://openai.com/index/codex-for-every-role-tool-workflow",
+    "dedupe_key": "f5261728dc884b97",
+    "title": "Codex for every role, tool, and workflow",
+    "issue_date": "2026-06-18",
+    "cluster_id": "openai_com_bf54d2b8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_64afcff0d01382dd",
+    "canonical_url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
+    "dedupe_key": "ed9f043dfa9ff8b9",
+    "title": "Advancing youth safety and opportunity through global leadership",
+    "issue_date": "2026-06-18",
+    "cluster_id": "openai_com_d7c64af3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_81e0cdda44d07f54",
+    "canonical_url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
+    "dedupe_key": "425523dbd8421afc",
+    "title": "Our views on AI policy and political advocacy",
+    "issue_date": "2026-06-18",
+    "cluster_id": "openai_com_b7bcb5d2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_21be104affe0808e",
+    "canonical_url": "https://openai.com/index/boston-childrens-hospital",
+    "dedupe_key": "ae0bbe966dc22162",
+    "title": "Boston Children’s uses AI to unlock new diagnoses",
+    "issue_date": "2026-06-18",
+    "cluster_id": "openai_com_4ba161ae",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ab2386c88ab52ee0",
+    "canonical_url": "https://openai.com/index/braintrust",
+    "dedupe_key": "80f620a4bca69ff9",
+    "title": "How Braintrust turns customer requests into code with Codex",
+    "issue_date": "2026-06-18",
+    "cluster_id": "openai_com_fe28fb3a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_cf905e2537b7bec0",
+    "canonical_url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+    "dedupe_key": "ec99820c1060e65f",
+    "title": "Strengthening societal resilience with Rosalind Biodefense",
+    "issue_date": "2026-06-18",
+    "cluster_id": "openai_com_4f14a3f5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b88126210b6f9488",
+    "canonical_url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
+    "dedupe_key": "d34c13ffe5c04e3b",
+    "title": "A shared playbook for trustworthy third party evaluations",
+    "issue_date": "2026-06-18",
+    "cluster_id": "openai_com_d2038817",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6fcac82c174331a8",
+    "canonical_url": "https://openai.com/index/mufg",
+    "dedupe_key": "80c6f78ea188888c",
+    "title": "MUFG aims to become AI-native with OpenAI",
+    "issue_date": "2026-06-18",
+    "cluster_id": "openai_com_60d0e0fa",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2924baf7134fb7b8",
+    "canonical_url": "https://openai.com/index/cisco",
+    "dedupe_key": "6e347b2de49a3cf0",
+    "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
+    "issue_date": "2026-06-18",
+    "cluster_id": "openai_com_8c9b06d2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5f76a2313678c959",
+    "canonical_url": "https://openai.com/index/election-safeguards-2026",
+    "dedupe_key": "f52742b0f6ab1abc",
+    "title": "Election information and safeguards in 2026",
+    "issue_date": "2026-06-18",
+    "cluster_id": "openai_com_e2aba1a8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2461c7019f67dac5",
+    "canonical_url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+    "dedupe_key": "ad3c762a3f93f5e7",
+    "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+    "issue_date": "2026-06-18",
+    "cluster_id": "openai_com_22b803bd",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
