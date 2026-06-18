@@ -1,8 +1,38 @@
 [
   {
-    "title": "Introducing eve",
-    "url": "https://vercel.com/blog/introducing-eve",
-    "summary": "Today, we are proud to introduce eve , an open-source agent framework for building, running, and scaling agents. eve is designed around the idea that building an agent should mean defining what it does without assembling all of the pieces that it needs to run in production. Instead, eve comes with production already built in: Durable execution Sandboxed compute Human-in-the-loop approvals Subagents Evals And more eve is the framework that we build and run our own agents on. A",
+    "title": "Securing the future of AI agents",
+    "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents",
+    "summary": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring.",
+    "tags": [
+      "research",
+      "multimodal",
+      "science",
+      "official"
+    ],
+    "author": "Google DeepMind",
+    "source": "deepmind.google",
+    "date": "2026-06-19",
+    "score": 72
+  },
+  {
+    "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+    "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+    "summary": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-06-19",
+    "score": 71
+  },
+  {
+    "title": "17 June Company News The Agent Stack The Agent Stack gives you all the building blocks you need to create and ship production-grade agents. Tom Occhino Chief Product Officer",
+    "url": "https://vercel.com/blog/agent-stack",
+    "summary": "Blog - Vercel · 17 June Company News The Agent Stack The Agent Stack gives you all the building blocks you need to create and ship production-grade agents. Tom Occhino Chief Product Officer",
     "tags": [
       "sdk",
       "ai_infra",
@@ -10,27 +40,13 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-06-18",
+    "date": "2026-06-19",
     "score": 70
   },
   {
-    "title": "Introducing eve, an open-source agent framework",
-    "url": "https://vercel.com/changelog/introducing-eve-an-open-source-agent-framework",
-    "summary": "eve is now available in public preview. eve is an open-source framework for building, running, and scaling agents. An agent is just a directory of files, and production comes built in: Durable execution Sandboxed compute Human-in-the-loop approvals Subagents Evals The smallest agent that runs is just two files, a model and a set of instructions. Add a tool, skill, channel, or schedule by adding a file. eve picks them up at build time and wires them in for you, so there's no b",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-06-18",
-    "score": 70
-  },
-  {
-    "title": "Introducing LifeSciBench",
-    "url": "https://openai.com/index/introducing-life-sci-bench",
-    "summary": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
+    "title": "Improving health intelligence in ChatGPT",
+    "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+    "summary": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
     "tags": [
       "ai_models",
       "official",
@@ -39,70 +55,40 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-06-18",
+    "date": "2026-06-19",
     "score": 69
   },
   {
-    "title": "Vercel Connect: Secure access to external services for your agents",
-    "url": "https://vercel.com/changelog/vercel-connect-secure-access-to-external-services-for-your-agents",
-    "summary": "Vercel Connect lets your apps and agents access external services like Slack, GitHub, Salesforce, and your own custom APIs without storing a long-lived provider secret in your environment. You register a connector once, and your code requests scoped, short-lived tokens at runtime, only when it needs them. You can create a connector from your dashboard or the Vercel CLI: Your agent can then request a token from it at runtime, only when it needs it. The SDK fetches and refreshe",
+    "title": "MosaicLeaks: Can your research agent keep a secret?",
+    "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+    "summary": "MosaicLeaks: Can your research agent keep a secret? 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
+      "open_source",
+      "papers",
+      "models"
     ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-06-18",
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-06-19",
     "score": 69
   },
   {
-    "title": "CLI deployment limits removed",
-    "url": "https://vercel.com/changelog/cli-deployment-limits-removed",
-    "summary": "We've removed CLI-specific deployment limits, making it easier to deploy from local machine and external CI/CD pipelines with instant feedback. Teams and AI agents can now deploy at the pace their workflows demand. Learn more about limits in the Documentation . Read more",
+    "title": "Poland invests in ElevenLabs",
+    "url": "https://elevenlabs.io/blog/poland-invests-in-elevenlabs",
+    "summary": "ElevenLabs Blog - Company, Research & Product Updates · Poland invests in ElevenLabs",
     "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
+      "voice_ai",
+      "audio"
     ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-06-18",
-    "score": 68
-  },
-  {
-    "title": "Vercel for Enterprise Apps and Agents",
-    "url": "https://vercel.com/blog/vercel-for-enterprise-apps-and-agents",
-    "summary": "Today we are introducing Vercel for Enterprise Apps and Agents , a platform that gives your entire company the ability to ship with AI safely, behind your access and security boundaries. Over the past year, employees across Vercel shipped hundreds of agents and internal apps. Getting to production was the easy part, because we built them with eve on top of the Agent Stack and deployed them on Vercel. The difficult questions came after those agents were being used by our emplo",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-06-18",
-    "score": 68
-  },
-  {
-    "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
-    "url": "https://openai.com/index/ai-chemist-improves-reaction",
-    "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-06-18",
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-06-19",
     "score": 67
   },
   {
-    "title": "Biodefense in the Intelligence Age",
-    "url": "https://openai.com/index/biodefense-in-the-intelligence-age",
-    "summary": "An action plan for AI-powered biological resilience",
+    "title": "New usage analytics and updated spend controls for enterprises",
+    "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+    "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
     "tags": [
       "ai_models",
       "official",
@@ -111,13 +97,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-06-18",
+    "date": "2026-06-19",
     "score": 67
   },
   {
-    "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
-    "url": "https://openai.com/index/wasmer",
-    "summary": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.",
+    "title": "How Virgin Atlantic ships faster with Codex",
+    "url": "https://openai.com/index/virgin-atlantic",
+    "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
     "tags": [
       "ai_models",
       "official",
@@ -126,13 +112,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-06-18",
+    "date": "2026-06-19",
     "score": 67
   },
   {
-    "title": "OpenAI public policy agenda",
-    "url": "https://openai.com/index/public-policy-agenda",
-    "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
+    "title": "AdventHealth advances whole-person care with OpenAI",
+    "url": "https://openai.com/index/adventhealth",
+    "summary": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
     "tags": [
       "ai_models",
       "official",
@@ -141,13 +127,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-06-18",
+    "date": "2026-06-19",
     "score": 67
   },
   {
-    "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
-    "url": "https://openai.com/index/travelers",
-    "summary": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
+    "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+    "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+    "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
     "tags": [
       "ai_models",
       "official",
@@ -156,13 +142,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-06-18",
+    "date": "2026-06-19",
     "score": 67
   },
   {
-    "title": "Codex for every role, tool, and workflow",
-    "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
-    "summary": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.",
+    "title": "How Ramp engineers accelerate code review with Codex",
+    "url": "https://openai.com/index/ramp",
+    "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
     "tags": [
       "ai_models",
       "official",
@@ -171,13 +157,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-06-18",
+    "date": "2026-06-19",
     "score": 67
   },
   {
-    "title": "Advancing youth safety and opportunity through global leadership",
-    "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
-    "summary": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people.",
+    "title": "The next phase of OpenAI’s Education for Countries",
+    "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+    "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
     "tags": [
       "ai_models",
       "official",
@@ -186,13 +172,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-06-18",
+    "date": "2026-06-19",
     "score": 67
   },
   {
-    "title": "Our views on AI policy and political advocacy",
-    "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
-    "summary": "Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group speaks on the company’s behalf.",
+    "title": "Introducing OpenAI for Singapore",
+    "url": "https://openai.com/index/introducing-openai-for-singapore",
+    "summary": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
     "tags": [
       "ai_models",
       "official",
@@ -201,13 +187,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-06-18",
+    "date": "2026-06-19",
     "score": 67
   },
   {
-    "title": "Boston Children’s uses AI to unlock new diagnoses",
-    "url": "https://openai.com/index/boston-childrens-hospital",
-    "summary": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
+    "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
+    "url": "https://openai.com/index/advancing-content-provenance",
+    "summary": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.",
     "tags": [
       "ai_models",
       "official",
@@ -216,13 +202,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-06-18",
+    "date": "2026-06-19",
     "score": 67
   },
   {
-    "title": "How Braintrust turns customer requests into code with Codex",
-    "url": "https://openai.com/index/braintrust",
-    "summary": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
+    "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+    "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
+    "summary": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.",
     "tags": [
       "ai_models",
       "official",
@@ -231,13 +217,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-06-18",
+    "date": "2026-06-19",
     "score": 67
   },
   {
-    "title": "Strengthening societal resilience with Rosalind Biodefense",
-    "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
-    "summary": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
+    "title": "How business operations teams use Codex",
+    "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+    "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
     "tags": [
       "ai_models",
       "official",
@@ -246,13 +232,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-06-18",
+    "date": "2026-06-19",
     "score": 67
   },
   {
-    "title": "A shared playbook for trustworthy third party evaluations",
-    "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
-    "summary": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
+    "title": "How data science teams use Codex",
+    "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+    "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
     "tags": [
       "ai_models",
       "official",
@@ -261,13 +247,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-06-18",
+    "date": "2026-06-19",
     "score": 67
   },
   {
-    "title": "MUFG aims to become AI-native with OpenAI",
-    "url": "https://openai.com/index/mufg",
-    "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+    "title": "A new personal finance experience in ChatGPT",
+    "url": "https://openai.com/index/personal-finance-chatgpt",
+    "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
     "tags": [
       "ai_models",
       "official",
@@ -276,13 +262,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-06-18",
+    "date": "2026-06-19",
     "score": 67
   },
   {
-    "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
-    "url": "https://openai.com/index/cisco",
-    "summary": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
+    "title": "How sales teams use Codex",
+    "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+    "summary": "See how sales teams can use ChatGPT Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
     "tags": [
       "ai_models",
       "official",
@@ -291,13 +277,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-06-18",
+    "date": "2026-06-19",
     "score": 67
   },
   {
-    "title": "Election information and safeguards in 2026",
-    "url": "https://openai.com/index/election-safeguards-2026",
-    "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
+    "title": "Helping ChatGPT better recognize context in sensitive conversations",
+    "url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
+    "summary": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely.",
     "tags": [
       "ai_models",
       "official",
@@ -306,13 +292,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-06-18",
+    "date": "2026-06-19",
     "score": 67
   },
   {
-    "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
-    "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
-    "summary": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.",
+    "title": "Building a safe, effective sandbox to enable Codex on Windows",
+    "url": "https://openai.com/index/building-codex-windows-sandbox",
+    "summary": "Learn how OpenAI built a safe, effective sandbox to enable Codex on Windows with controlled file access and network limits.",
     "tags": [
       "ai_models",
       "official",
@@ -321,7 +307,37 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-06-18",
+    "date": "2026-06-19",
+    "score": 67
+  },
+  {
+    "title": "Our response to the TanStack npm supply chain attack",
+    "url": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
+    "summary": "OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenAI apps by June 12, 2026. Learn what happened, what was affected, and how OpenAI is strengthening defenses against evolving software supply chain threats.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-06-19",
+    "score": 67
+  },
+  {
+    "title": "How finance teams use Codex",
+    "url": "https://openai.com/academy/how-finance-teams-use-codex",
+    "summary": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-06-19",
     "score": 67
   }
 ]

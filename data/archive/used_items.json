@@ -2516,5 +2516,235 @@
     "cluster_id": "openai_com_22b803bd",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ae04c90f30f3d03c",
+    "canonical_url": "https://deepmind.google/blog/securing-the-future-of-ai-agents",
+    "dedupe_key": "9d2cfad36b2fcff0",
+    "title": "Securing the future of AI agents",
+    "issue_date": "2026-06-19",
+    "cluster_id": "deepmind_google_1d814fc1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_02f78d2a5b00f874",
+    "canonical_url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+    "dedupe_key": "ab3f851a126dd33d",
+    "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+    "issue_date": "2026-06-19",
+    "cluster_id": "openai_com_c7f2bd57",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c531a727403b8c43",
+    "canonical_url": "https://vercel.com/blog/agent-stack",
+    "dedupe_key": "2833da9118be594c",
+    "title": "17 June Company News The Agent Stack The Agent Stack gives you all the building blocks you need to create and ship production-grade agents. Tom Occhino Chief Product Officer",
+    "issue_date": "2026-06-19",
+    "cluster_id": "vercel_com_6e81c9a7",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_348890e3800b2fb1",
+    "canonical_url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+    "dedupe_key": "590b4d4c3d4827de",
+    "title": "Improving health intelligence in ChatGPT",
+    "issue_date": "2026-06-19",
+    "cluster_id": "openai_com_6ce84f89",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_12429194ff72b5ff",
+    "canonical_url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+    "dedupe_key": "68ef5eca8b57b4f1",
+    "title": "MosaicLeaks: Can your research agent keep a secret?",
+    "issue_date": "2026-06-19",
+    "cluster_id": "huggingface_co_03b913d8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e128ef46ff69bc7c",
+    "canonical_url": "https://elevenlabs.io/blog/poland-invests-in-elevenlabs",
+    "dedupe_key": "db54f0ba90284698",
+    "title": "Poland invests in ElevenLabs",
+    "issue_date": "2026-06-19",
+    "cluster_id": "elevenlabs_io_39eb9df4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9920dec5b975912a",
+    "canonical_url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+    "dedupe_key": "3fd4f6de6c48a2f6",
+    "title": "New usage analytics and updated spend controls for enterprises",
+    "issue_date": "2026-06-19",
+    "cluster_id": "openai_com_787b2950",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_48402fbd6dde0b64",
+    "canonical_url": "https://openai.com/index/virgin-atlantic",
+    "dedupe_key": "7b8ff6de041a013a",
+    "title": "How Virgin Atlantic ships faster with Codex",
+    "issue_date": "2026-06-19",
+    "cluster_id": "openai_com_1b5c15ed",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_cce3b6feae37ea43",
+    "canonical_url": "https://openai.com/index/adventhealth",
+    "dedupe_key": "bad4f2484000276e",
+    "title": "AdventHealth advances whole-person care with OpenAI",
+    "issue_date": "2026-06-19",
+    "cluster_id": "openai_com_4627c409",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_dde6b8ff1fd44736",
+    "canonical_url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+    "dedupe_key": "9522fdf4a24b27c7",
+    "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+    "issue_date": "2026-06-19",
+    "cluster_id": "openai_com_df336d4b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_eeda3f79873a8f43",
+    "canonical_url": "https://openai.com/index/ramp",
+    "dedupe_key": "deddb7073bf10008",
+    "title": "How Ramp engineers accelerate code review with Codex",
+    "issue_date": "2026-06-19",
+    "cluster_id": "openai_com_8b179c19",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5d72fb3fcb1a6ecb",
+    "canonical_url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+    "dedupe_key": "2643e64c8ff318d4",
+    "title": "The next phase of OpenAI’s Education for Countries",
+    "issue_date": "2026-06-19",
+    "cluster_id": "openai_com_5413455a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f0734143999f0e72",
+    "canonical_url": "https://openai.com/index/introducing-openai-for-singapore",
+    "dedupe_key": "8cf51b870a467687",
+    "title": "Introducing OpenAI for Singapore",
+    "issue_date": "2026-06-19",
+    "cluster_id": "openai_com_aceadec2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7d2edbae9634d4e2",
+    "canonical_url": "https://openai.com/index/advancing-content-provenance",
+    "dedupe_key": "d137e1eab323d781",
+    "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
+    "issue_date": "2026-06-19",
+    "cluster_id": "openai_com_5f80231b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_80f3e8ed50f70e5d",
+    "canonical_url": "https://openai.com/index/malta-chatgpt-plus-partnership",
+    "dedupe_key": "88cd3fbff98646fc",
+    "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+    "issue_date": "2026-06-19",
+    "cluster_id": "openai_com_27d3ab2f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a2b6063e2a3ed93b",
+    "canonical_url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+    "dedupe_key": "7b6d1efcfdb60cd6",
+    "title": "How business operations teams use Codex",
+    "issue_date": "2026-06-19",
+    "cluster_id": "openai_com_354cf25a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4982e2f374fd52d1",
+    "canonical_url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+    "dedupe_key": "8a248a86dee5ca01",
+    "title": "How data science teams use Codex",
+    "issue_date": "2026-06-19",
+    "cluster_id": "openai_com_3640e7c6",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c4160aaa3b82c8a7",
+    "canonical_url": "https://openai.com/index/personal-finance-chatgpt",
+    "dedupe_key": "5ed8f641415d3855",
+    "title": "A new personal finance experience in ChatGPT",
+    "issue_date": "2026-06-19",
+    "cluster_id": "openai_com_92446031",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1b8dfd6c352543d1",
+    "canonical_url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+    "dedupe_key": "2a9acdc6a6256df3",
+    "title": "How sales teams use Codex",
+    "issue_date": "2026-06-19",
+    "cluster_id": "openai_com_b3b35f97",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ac536d41909d5bbe",
+    "canonical_url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
+    "dedupe_key": "931e0feba10261b9",
+    "title": "Helping ChatGPT better recognize context in sensitive conversations",
+    "issue_date": "2026-06-19",
+    "cluster_id": "openai_com_3135cab0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b9e1fd2a743b9277",
+    "canonical_url": "https://openai.com/index/building-codex-windows-sandbox",
+    "dedupe_key": "a5479b1f55885dd0",
+    "title": "Building a safe, effective sandbox to enable Codex on Windows",
+    "issue_date": "2026-06-19",
+    "cluster_id": "openai_com_23a65d34",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f30406642e7bdc87",
+    "canonical_url": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
+    "dedupe_key": "e8b561f3828144fd",
+    "title": "Our response to the TanStack npm supply chain attack",
+    "issue_date": "2026-06-19",
+    "cluster_id": "openai_com_115a4edc",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5c0aba9561de141c",
+    "canonical_url": "https://openai.com/academy/how-finance-teams-use-codex",
+    "dedupe_key": "ebe5d3700d6f433f",
+    "title": "How finance teams use Codex",
+    "issue_date": "2026-06-19",
+    "cluster_id": "openai_com_d61a7a3b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
