@@ -1,52 +1,21 @@
 [
   {
-    "title": "Securing the future of AI agents",
-    "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents",
-    "summary": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring.",
+    "title": "How we built an internal data analytics agent",
+    "url": "https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent",
+    "summary": "Qubot, our internal Copilot-powered analytics agent, allows any GitHub employee to ask questions about our data in plain language. Here's what we learned as we built it. The post How we built an internal data analytics agent appeared first on The GitHub Blog .",
     "tags": [
-      "research",
-      "multimodal",
-      "science",
-      "official"
+      "ai_coding",
+      "developer_tools"
     ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-06-19",
-    "score": 72
-  },
-  {
-    "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
-    "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
-    "summary": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-06-19",
-    "score": 71
-  },
-  {
-    "title": "17 June Company News The Agent Stack The Agent Stack gives you all the building blocks you need to create and ship production-grade agents. Tom Occhino Chief Product Officer",
-    "url": "https://vercel.com/blog/agent-stack",
-    "summary": "Blog - Vercel · 17 June Company News The Agent Stack The Agent Stack gives you all the building blocks you need to create and ship production-grade agents. Tom Occhino Chief Product Officer",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-06-19",
+    "author": "GitHub Copilot",
+    "source": "github.blog",
+    "date": "2026-06-20",
     "score": 70
   },
   {
-    "title": "Improving health intelligence in ChatGPT",
-    "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
-    "summary": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
+    "title": "AutoScout24 scales engineering with AI-powered workflows",
+    "url": "https://openai.com/index/autoscout24",
+    "summary": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
     "tags": [
       "ai_models",
       "official",
@@ -55,40 +24,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-06-19",
-    "score": 69
-  },
-  {
-    "title": "MosaicLeaks: Can your research agent keep a secret?",
-    "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
-    "summary": "MosaicLeaks: Can your research agent keep a secret? 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-06-19",
-    "score": 69
-  },
-  {
-    "title": "Poland invests in ElevenLabs",
-    "url": "https://elevenlabs.io/blog/poland-invests-in-elevenlabs",
-    "summary": "ElevenLabs Blog - Company, Research & Product Updates · Poland invests in ElevenLabs",
-    "tags": [
-      "voice_ai",
-      "audio"
-    ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-06-19",
+    "date": "2026-06-20",
     "score": 67
   },
   {
-    "title": "New usage analytics and updated spend controls for enterprises",
-    "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
-    "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
+    "title": "How ChatGPT adoption broadened in early 2026",
+    "url": "https://openai.com/signals/research/2026q1-update",
+    "summary": "ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption.",
     "tags": [
       "ai_models",
       "official",
@@ -97,13 +39,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-06-19",
+    "date": "2026-06-20",
     "score": 67
   },
   {
-    "title": "How Virgin Atlantic ships faster with Codex",
-    "url": "https://openai.com/index/virgin-atlantic",
-    "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+    "title": "How enterprises are scaling AI",
+    "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+    "summary": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
     "tags": [
       "ai_models",
       "official",
@@ -112,13 +54,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-06-19",
+    "date": "2026-06-20",
     "score": 67
   },
   {
-    "title": "AdventHealth advances whole-person care with OpenAI",
-    "url": "https://openai.com/index/adventhealth",
-    "summary": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
+    "title": "OpenAI Campus Network: Student club interest form",
+    "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+    "summary": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
     "tags": [
       "ai_models",
       "official",
@@ -127,13 +69,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-06-19",
+    "date": "2026-06-20",
     "score": 67
   },
   {
-    "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-    "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-    "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+    "title": "Advancing voice intelligence with new models in the API",
+    "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
+    "summary": "Explore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent voice experiences.",
     "tags": [
       "ai_models",
       "official",
@@ -142,13 +84,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-06-19",
+    "date": "2026-06-20",
     "score": 67
   },
   {
-    "title": "How Ramp engineers accelerate code review with Codex",
-    "url": "https://openai.com/index/ramp",
-    "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
+    "title": "Introducing Trusted Contact in ChatGPT",
+    "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
+    "summary": "Introducing Trusted Contact in ChatGPT, an optional safety feature that notifies someone you trust if serious self-harm concerns are detected.",
     "tags": [
       "ai_models",
       "official",
@@ -157,13 +99,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-06-19",
+    "date": "2026-06-20",
     "score": 67
   },
   {
-    "title": "The next phase of OpenAI’s Education for Countries",
-    "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
-    "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
+    "title": "Testing ads in ChatGPT",
+    "url": "https://openai.com/index/testing-ads-in-chatgpt",
+    "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
     "tags": [
       "ai_models",
       "official",
@@ -172,13 +114,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-06-19",
+    "date": "2026-06-20",
     "score": 67
   },
   {
-    "title": "Introducing OpenAI for Singapore",
-    "url": "https://openai.com/index/introducing-openai-for-singapore",
-    "summary": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
+    "title": "Simplex rethinks software development with Codex",
+    "url": "https://openai.com/index/simplex",
+    "summary": "Simplex boosts software development with ChatGPT Enterprise and Codex, reducing design, build, and testing time while scaling AI-driven workflows.",
     "tags": [
       "ai_models",
       "official",
@@ -187,13 +129,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-06-19",
+    "date": "2026-06-20",
     "score": 67
   },
   {
-    "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
-    "url": "https://openai.com/index/advancing-content-provenance",
-    "summary": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.",
+    "title": "How ChatGPT learns about the world while protecting privacy",
+    "url": "https://openai.com/index/how-chatgpt-protects-privacy",
+    "summary": "Learn how ChatGPT safeguards your privacy, reduces personal data in training, and gives you control over whether your conversations improve AI models.",
     "tags": [
       "ai_models",
       "official",
@@ -202,13 +144,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-06-19",
+    "date": "2026-06-20",
     "score": 67
   },
   {
-    "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
-    "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
-    "summary": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.",
+    "title": "Uber uses OpenAI to help people earn smarter and book faster",
+    "url": "https://openai.com/index/uber",
+    "summary": "Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace.",
     "tags": [
       "ai_models",
       "official",
@@ -217,13 +159,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-06-19",
+    "date": "2026-06-20",
     "score": 67
   },
   {
-    "title": "How business operations teams use Codex",
-    "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
-    "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
+    "title": "Introducing ChatGPT Futures: Class of 2026",
+    "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+    "summary": "Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT.",
     "tags": [
       "ai_models",
       "official",
@@ -232,13 +174,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-06-19",
+    "date": "2026-06-20",
     "score": 67
   },
   {
-    "title": "How data science teams use Codex",
-    "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-    "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+    "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
+    "url": "https://openai.com/index/singular-bank",
+    "summary": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60–90 minutes daily on meeting prep, portfolio analysis, and follow-up.",
     "tags": [
       "ai_models",
       "official",
@@ -247,13 +189,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-06-19",
+    "date": "2026-06-20",
     "score": 67
   },
   {
-    "title": "A new personal finance experience in ChatGPT",
-    "url": "https://openai.com/index/personal-finance-chatgpt",
-    "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
+    "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
+    "url": "https://openai.com/index/mrc-supercomputer-networking",
+    "summary": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters.",
     "tags": [
       "ai_models",
       "official",
@@ -262,13 +204,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-06-19",
+    "date": "2026-06-20",
     "score": 67
   },
   {
-    "title": "How sales teams use Codex",
-    "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-    "summary": "See how sales teams can use ChatGPT Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+    "title": "GPT-5.5 Instant System Card",
+    "url": "https://openai.com/index/gpt-5-5-instant-system-card",
+    "summary": "GPT-5.5 Instant System Card 是 OpenAI 当日抓取到的公开新增条目。",
     "tags": [
       "ai_models",
       "official",
@@ -277,13 +219,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-06-19",
+    "date": "2026-06-20",
     "score": 67
   },
   {
-    "title": "Helping ChatGPT better recognize context in sensitive conversations",
-    "url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
-    "summary": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely.",
+    "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
+    "url": "https://openai.com/index/gpt-5-5-instant",
+    "summary": "GPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.",
     "tags": [
       "ai_models",
       "official",
@@ -292,13 +234,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-06-19",
+    "date": "2026-06-20",
     "score": 67
   },
   {
-    "title": "Building a safe, effective sandbox to enable Codex on Windows",
-    "url": "https://openai.com/index/building-codex-windows-sandbox",
-    "summary": "Learn how OpenAI built a safe, effective sandbox to enable Codex on Windows with controlled file access and network limits.",
+    "title": "Advancing youth safety and wellbeing in EMEA",
+    "url": "https://openai.com/index/advancing-youth-safety-in-emea",
+    "summary": "Explore OpenAI’s European Youth Safety Blueprint and EMEA Youth & Wellbeing Grants, advancing safe, responsible AI for teens, families, and educators.",
     "tags": [
       "ai_models",
       "official",
@@ -307,13 +249,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-06-19",
+    "date": "2026-06-20",
     "score": 67
   },
   {
-    "title": "Our response to the TanStack npm supply chain attack",
-    "url": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
-    "summary": "OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenAI apps by June 12, 2026. Learn what happened, what was affected, and how OpenAI is strengthening defenses against evolving software supply chain threats.",
+    "title": "New ways to buy ChatGPT ads",
+    "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
+    "summary": "OpenAI expands ChatGPT ads with a beta self-serve Ads Manager, CPC bidding, and enhanced measurement tools—built to protect privacy and keep conversations separate from ads.",
     "tags": [
       "ai_models",
       "official",
@@ -322,13 +264,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-06-19",
+    "date": "2026-06-20",
     "score": 67
   },
   {
-    "title": "How finance teams use Codex",
-    "url": "https://openai.com/academy/how-finance-teams-use-codex",
-    "summary": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.",
+    "title": "How OpenAI delivers low-latency voice AI at scale",
+    "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
+    "summary": "How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.",
     "tags": [
       "ai_models",
       "official",
@@ -337,7 +279,37 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-06-19",
+    "date": "2026-06-20",
+    "score": 67
+  },
+  {
+    "title": "Introducing Advanced Account Security",
+    "url": "https://openai.com/index/advanced-account-security",
+    "summary": "Introducing Advanced Account Security: phishing-resistant login, stronger recovery, and enhanced protections to safeguard sensitive data and prevent account takeover.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-06-20",
+    "score": 67
+  },
+  {
+    "title": "Where the goblins came from",
+    "url": "https://openai.com/index/where-the-goblins-came-from",
+    "summary": "How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-06-20",
     "score": 67
   }
 ]

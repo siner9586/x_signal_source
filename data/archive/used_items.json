@@ -2746,5 +2746,215 @@
     "cluster_id": "openai_com_d61a7a3b",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_fa89a6764d4181bc",
+    "canonical_url": "https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent",
+    "dedupe_key": "91fccc35fd87f08e",
+    "title": "How we built an internal data analytics agent",
+    "issue_date": "2026-06-20",
+    "cluster_id": "github_blog_1052f4ad",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_30b4fadfae44daef",
+    "canonical_url": "https://openai.com/index/autoscout24",
+    "dedupe_key": "d7a881ce47a28b0a",
+    "title": "AutoScout24 scales engineering with AI-powered workflows",
+    "issue_date": "2026-06-20",
+    "cluster_id": "openai_com_af082bb8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3ec4cf31d986c437",
+    "canonical_url": "https://openai.com/signals/research/2026q1-update",
+    "dedupe_key": "0c35e04f3ee9fe99",
+    "title": "How ChatGPT adoption broadened in early 2026",
+    "issue_date": "2026-06-20",
+    "cluster_id": "openai_com_f2bdd382",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3c59a18d65da1387",
+    "canonical_url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+    "dedupe_key": "c06ccfad6f5bfa3e",
+    "title": "How enterprises are scaling AI",
+    "issue_date": "2026-06-20",
+    "cluster_id": "openai_com_659b7ac9",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4c4e33c9a7ac7115",
+    "canonical_url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+    "dedupe_key": "6c7326833cec735c",
+    "title": "OpenAI Campus Network: Student club interest form",
+    "issue_date": "2026-06-20",
+    "cluster_id": "openai_com_48f333d2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1593ac4f01f94805",
+    "canonical_url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
+    "dedupe_key": "63ca433a551754e7",
+    "title": "Advancing voice intelligence with new models in the API",
+    "issue_date": "2026-06-20",
+    "cluster_id": "openai_com_ed8eb6d8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a012e58ca6184bc4",
+    "canonical_url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
+    "dedupe_key": "7add5a8467106cd7",
+    "title": "Introducing Trusted Contact in ChatGPT",
+    "issue_date": "2026-06-20",
+    "cluster_id": "openai_com_b38deb74",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7e0e801436f37360",
+    "canonical_url": "https://openai.com/index/testing-ads-in-chatgpt",
+    "dedupe_key": "79997f427f7562ff",
+    "title": "Testing ads in ChatGPT",
+    "issue_date": "2026-06-20",
+    "cluster_id": "openai_com_d75b687a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e4a8ea8a0adbc3d4",
+    "canonical_url": "https://openai.com/index/simplex",
+    "dedupe_key": "08ba8c3b850b4b5e",
+    "title": "Simplex rethinks software development with Codex",
+    "issue_date": "2026-06-20",
+    "cluster_id": "openai_com_09743c8b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_807d4ae3130f7f59",
+    "canonical_url": "https://openai.com/index/how-chatgpt-protects-privacy",
+    "dedupe_key": "05c3e723fbe523b2",
+    "title": "How ChatGPT learns about the world while protecting privacy",
+    "issue_date": "2026-06-20",
+    "cluster_id": "openai_com_1d4a139b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5453b2e82a28dc51",
+    "canonical_url": "https://openai.com/index/uber",
+    "dedupe_key": "caeb4d805a52c25f",
+    "title": "Uber uses OpenAI to help people earn smarter and book faster",
+    "issue_date": "2026-06-20",
+    "cluster_id": "openai_com_f4375d69",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_249e31b9afba9dc1",
+    "canonical_url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+    "dedupe_key": "9dd52d59ab869c3e",
+    "title": "Introducing ChatGPT Futures: Class of 2026",
+    "issue_date": "2026-06-20",
+    "cluster_id": "openai_com_44cd56b9",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d3106c38d37d9928",
+    "canonical_url": "https://openai.com/index/singular-bank",
+    "dedupe_key": "db2ca2529783c07e",
+    "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
+    "issue_date": "2026-06-20",
+    "cluster_id": "openai_com_e89497b3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0a6386a893b5dd51",
+    "canonical_url": "https://openai.com/index/mrc-supercomputer-networking",
+    "dedupe_key": "9bc85a5edc99da3d",
+    "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
+    "issue_date": "2026-06-20",
+    "cluster_id": "openai_com_399004b0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ef0d448a3e297d5d",
+    "canonical_url": "https://openai.com/index/gpt-5-5-instant-system-card",
+    "dedupe_key": "3138f6c15f62a3cf",
+    "title": "GPT-5.5 Instant System Card",
+    "issue_date": "2026-06-20",
+    "cluster_id": "openai_com_839b3f1c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_92c26929cbee02b7",
+    "canonical_url": "https://openai.com/index/gpt-5-5-instant",
+    "dedupe_key": "0cedbcc50162e288",
+    "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
+    "issue_date": "2026-06-20",
+    "cluster_id": "openai_com_02538ae2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1501e3791e2c5fee",
+    "canonical_url": "https://openai.com/index/advancing-youth-safety-in-emea",
+    "dedupe_key": "0ca6710d54de5181",
+    "title": "Advancing youth safety and wellbeing in EMEA",
+    "issue_date": "2026-06-20",
+    "cluster_id": "openai_com_00c19cd3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_055810154c836a06",
+    "canonical_url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
+    "dedupe_key": "406c1afecc56bc94",
+    "title": "New ways to buy ChatGPT ads",
+    "issue_date": "2026-06-20",
+    "cluster_id": "openai_com_ae14bc30",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3891aae7ea761542",
+    "canonical_url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
+    "dedupe_key": "f314e5f066a57b60",
+    "title": "How OpenAI delivers low-latency voice AI at scale",
+    "issue_date": "2026-06-20",
+    "cluster_id": "openai_com_f8510380",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_40029a97fbcda732",
+    "canonical_url": "https://openai.com/index/advanced-account-security",
+    "dedupe_key": "e621368e4213c802",
+    "title": "Introducing Advanced Account Security",
+    "issue_date": "2026-06-20",
+    "cluster_id": "openai_com_165f66fb",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_27678a2893ab73ef",
+    "canonical_url": "https://openai.com/index/where-the-goblins-came-from",
+    "dedupe_key": "4096aff8a30f808e",
+    "title": "Where the goblins came from",
+    "issue_date": "2026-06-20",
+    "cluster_id": "openai_com_47b6c614",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
