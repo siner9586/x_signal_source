@@ -1,21 +1,8 @@
 [
   {
-    "title": "How we built an internal data analytics agent",
-    "url": "https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent",
-    "summary": "Qubot, our internal Copilot-powered analytics agent, allows any GitHub employee to ask questions about our data in plain language. Here's what we learned as we built it. The post How we built an internal data analytics agent appeared first on The GitHub Blog .",
-    "tags": [
-      "ai_coding",
-      "developer_tools"
-    ],
-    "author": "GitHub Copilot",
-    "source": "github.blog",
-    "date": "2026-06-20",
-    "score": 70
-  },
-  {
-    "title": "AutoScout24 scales engineering with AI-powered workflows",
-    "url": "https://openai.com/index/autoscout24",
-    "summary": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
+    "title": "Cybersecurity in the Intelligence Age",
+    "url": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
+    "summary": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems.",
     "tags": [
       "ai_models",
       "official",
@@ -24,13 +11,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-06-20",
+    "date": "2026-06-21",
     "score": 67
   },
   {
-    "title": "How ChatGPT adoption broadened in early 2026",
-    "url": "https://openai.com/signals/research/2026q1-update",
-    "summary": "ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption.",
+    "title": "Our commitment to community safety",
+    "url": "https://openai.com/index/our-commitment-to-community-safety",
+    "summary": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
     "tags": [
       "ai_models",
       "official",
@@ -39,13 +26,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-06-20",
+    "date": "2026-06-21",
     "score": 67
   },
   {
-    "title": "How enterprises are scaling AI",
-    "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
-    "summary": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
+    "title": "OpenAI available at FedRAMP Moderate",
+    "url": "https://openai.com/index/openai-available-at-fedramp-moderate",
+    "summary": "OpenAI is available at FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, enabling secure AI adoption for U.S. federal agencies.",
     "tags": [
       "ai_models",
       "official",
@@ -54,13 +41,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-06-20",
+    "date": "2026-06-21",
     "score": 67
   },
   {
-    "title": "OpenAI Campus Network: Student club interest form",
-    "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
-    "summary": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
+    "title": "The next phase of the Microsoft OpenAI partnership",
+    "url": "https://openai.com/index/next-phase-of-microsoft-partnership",
+    "summary": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale.",
     "tags": [
       "ai_models",
       "official",
@@ -69,13 +56,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-06-20",
+    "date": "2026-06-21",
     "score": 67
   },
   {
-    "title": "Advancing voice intelligence with new models in the API",
-    "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
-    "summary": "Explore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent voice experiences.",
+    "title": "Our principles",
+    "url": "https://openai.com/index/our-principles",
+    "summary": "Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work.",
     "tags": [
       "ai_models",
       "official",
@@ -84,13 +71,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-06-20",
+    "date": "2026-06-21",
     "score": 67
   },
   {
-    "title": "Introducing Trusted Contact in ChatGPT",
-    "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
-    "summary": "Introducing Trusted Contact in ChatGPT, an optional safety feature that notifies someone you trust if serious self-harm concerns are detected.",
+    "title": "GPT-5.5 System Card",
+    "url": "https://openai.com/index/gpt-5-5-system-card",
+    "summary": "GPT-5.5 System Card 是 OpenAI 当日抓取到的公开新增条目。",
     "tags": [
       "ai_models",
       "official",
@@ -99,13 +86,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-06-20",
+    "date": "2026-06-21",
     "score": 67
   },
   {
-    "title": "Testing ads in ChatGPT",
-    "url": "https://openai.com/index/testing-ads-in-chatgpt",
-    "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+    "title": "Plugins and skills",
+    "url": "https://openai.com/academy/codex-plugins-and-skills",
+    "summary": "Learn how to use Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results.",
     "tags": [
       "ai_models",
       "official",
@@ -114,13 +101,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-06-20",
+    "date": "2026-06-21",
     "score": 67
   },
   {
-    "title": "Simplex rethinks software development with Codex",
-    "url": "https://openai.com/index/simplex",
-    "summary": "Simplex boosts software development with ChatGPT Enterprise and Codex, reducing design, build, and testing time while scaling AI-driven workflows.",
+    "title": "Working with Codex",
+    "url": "https://openai.com/academy/working-with-codex",
+    "summary": "Learn how to set up your Codex workspace, create threads and projects, manage files, and start completing tasks with step-by-step guidance.",
     "tags": [
       "ai_models",
       "official",
@@ -129,13 +116,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-06-20",
+    "date": "2026-06-21",
     "score": 67
   },
   {
-    "title": "How ChatGPT learns about the world while protecting privacy",
-    "url": "https://openai.com/index/how-chatgpt-protects-privacy",
-    "summary": "Learn how ChatGPT safeguards your privacy, reduces personal data in training, and gives you control over whether your conversations improve AI models.",
+    "title": "Automations",
+    "url": "https://openai.com/academy/codex-automations",
+    "summary": "Learn how to automate tasks in Codex using schedules and triggers to create reports, summaries, and recurring workflows without manual effort.",
     "tags": [
       "ai_models",
       "official",
@@ -144,13 +131,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-06-20",
+    "date": "2026-06-21",
     "score": 67
   },
   {
-    "title": "Uber uses OpenAI to help people earn smarter and book faster",
-    "url": "https://openai.com/index/uber",
-    "summary": "Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace.",
+    "title": "How to get started with Codex",
+    "url": "https://openai.com/academy/codex-how-to-start",
+    "summary": "Learn how to get started with Codex by setting up projects, creating threads, and completing your first tasks with step-by-step guidance.",
     "tags": [
       "ai_models",
       "official",
@@ -159,13 +146,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-06-20",
+    "date": "2026-06-21",
     "score": 67
   },
   {
-    "title": "Introducing ChatGPT Futures: Class of 2026",
-    "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
-    "summary": "Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT.",
+    "title": "Codex settings",
+    "url": "https://openai.com/academy/codex-settings",
+    "summary": "Learn how to configure Codex settings, including personalization, detail level, and permissions, to run tasks smoothly and customize your workflow.",
     "tags": [
       "ai_models",
       "official",
@@ -174,13 +161,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-06-20",
+    "date": "2026-06-21",
     "score": 67
   },
   {
-    "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
-    "url": "https://openai.com/index/singular-bank",
-    "summary": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60–90 minutes daily on meeting prep, portfolio analysis, and follow-up.",
+    "title": "How to use Codex for everyday work",
+    "url": "https://openai.com/academy/how-to-use-codex-for-everyday-work",
+    "summary": "Explore 10 practical Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows.",
     "tags": [
       "ai_models",
       "official",
@@ -189,13 +176,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-06-20",
+    "date": "2026-06-21",
     "score": 67
   },
   {
-    "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
-    "url": "https://openai.com/index/mrc-supercomputer-networking",
-    "summary": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters.",
+    "title": "GPT-5.5 Bio Bug Bounty",
+    "url": "https://openai.com/index/gpt-5-5-bio-bug-bounty",
+    "summary": "Explore the GPT-5.5 Bio Bug Bounty: a red-teaming challenge to find universal jailbreaks for bio safety risks, with rewards up to $25,000.",
     "tags": [
       "ai_models",
       "official",
@@ -204,13 +191,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-06-20",
+    "date": "2026-06-21",
     "score": 67
   },
   {
-    "title": "GPT-5.5 Instant System Card",
-    "url": "https://openai.com/index/gpt-5-5-instant-system-card",
-    "summary": "GPT-5.5 Instant System Card 是 OpenAI 当日抓取到的公开新增条目。",
+    "title": "Making ChatGPT better for clinicians",
+    "url": "https://openai.com/index/making-chatgpt-better-for-clinicians",
+    "summary": "OpenAI makes ChatGPT for Clinicians free for verified U.S. physicians, nurse practitioners, and pharmacists, supporting clinical care, documentation, and research.",
     "tags": [
       "ai_models",
       "official",
@@ -219,13 +206,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-06-20",
+    "date": "2026-06-21",
     "score": 67
   },
   {
-    "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
-    "url": "https://openai.com/index/gpt-5-5-instant",
-    "summary": "GPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.",
+    "title": "Introducing OpenAI Privacy Filter",
+    "url": "https://openai.com/index/introducing-openai-privacy-filter",
+    "summary": "OpenAI Privacy Filter is an open-weight model for detecting and redacting personally identifiable information (PII) in text with state-of-the-art accuracy",
     "tags": [
       "ai_models",
       "official",
@@ -234,13 +221,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-06-20",
+    "date": "2026-06-21",
     "score": 67
   },
   {
-    "title": "Advancing youth safety and wellbeing in EMEA",
-    "url": "https://openai.com/index/advancing-youth-safety-in-emea",
-    "summary": "Explore OpenAI’s European Youth Safety Blueprint and EMEA Youth & Wellbeing Grants, advancing safe, responsible AI for teens, families, and educators.",
+    "title": "Scaling Codex to enterprises worldwide",
+    "url": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
+    "summary": "OpenAI launches Codex Labs, partners with with Accenture, PwC, Infosys, and others to help enterprises deploy and scale Codex across the software development lifecycle, and hits 4M Codex WAU.",
     "tags": [
       "ai_models",
       "official",
@@ -249,13 +236,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-06-20",
+    "date": "2026-06-21",
     "score": 67
   },
   {
-    "title": "New ways to buy ChatGPT ads",
-    "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
-    "summary": "OpenAI expands ChatGPT ads with a beta self-serve Ads Manager, CPC bidding, and enhanced measurement tools—built to protect privacy and keep conversations separate from ads.",
+    "title": "Codex for (almost) everything",
+    "url": "https://openai.com/index/codex-for-almost-everything",
+    "summary": "The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows.",
     "tags": [
       "ai_models",
       "official",
@@ -264,13 +251,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-06-20",
+    "date": "2026-06-21",
     "score": 67
   },
   {
-    "title": "How OpenAI delivers low-latency voice AI at scale",
-    "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
-    "summary": "How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.",
+    "title": "Accelerating the cyber defense ecosystem that protects us all",
+    "url": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
+    "summary": "Leading security firms and enterprises join OpenAI’s Trusted Access for Cyber, using GPT-5.4-Cyber and $10M in API grants to strengthen global cyber defense.",
     "tags": [
       "ai_models",
       "official",
@@ -279,13 +266,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-06-20",
+    "date": "2026-06-21",
     "score": 67
   },
   {
-    "title": "Introducing Advanced Account Security",
-    "url": "https://openai.com/index/advanced-account-security",
-    "summary": "Introducing Advanced Account Security: phishing-resistant login, stronger recovery, and enhanced protections to safeguard sensitive data and prevent account takeover.",
+    "title": "Trusted access for the next era of cyber defense",
+    "url": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
+    "summary": "OpenAI expands its Trusted Access for Cyber program, introducing GPT-5.4-Cyber to vetted defenders and strengthening safeguards as AI cybersecurity capabilities advance.",
     "tags": [
       "ai_models",
       "official",
@@ -294,13 +281,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-06-20",
+    "date": "2026-06-21",
     "score": 67
   },
   {
-    "title": "Where the goblins came from",
-    "url": "https://openai.com/index/where-the-goblins-came-from",
-    "summary": "How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior.",
+    "title": "ChatGPT for operations teams",
+    "url": "https://openai.com/academy/operations",
+    "summary": "Learn how operations teams use ChatGPT to streamline workflows, improve coordination, standardize processes, and drive faster execution.",
     "tags": [
       "ai_models",
       "official",
@@ -309,7 +296,7 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-06-20",
+    "date": "2026-06-21",
     "score": 67
   }
 ]

@@ -2956,5 +2956,205 @@
     "cluster_id": "openai_com_47b6c614",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9de1be7919df7bfc",
+    "canonical_url": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
+    "dedupe_key": "3ae769dae69d5a92",
+    "title": "Cybersecurity in the Intelligence Age",
+    "issue_date": "2026-06-21",
+    "cluster_id": "openai_com_e8113422",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_67214b5908783530",
+    "canonical_url": "https://openai.com/index/our-commitment-to-community-safety",
+    "dedupe_key": "2627c61bf867d107",
+    "title": "Our commitment to community safety",
+    "issue_date": "2026-06-21",
+    "cluster_id": "openai_com_b6e514c1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_955012546f79e493",
+    "canonical_url": "https://openai.com/index/openai-available-at-fedramp-moderate",
+    "dedupe_key": "5abf57c229d1319c",
+    "title": "OpenAI available at FedRAMP Moderate",
+    "issue_date": "2026-06-21",
+    "cluster_id": "openai_com_c6a86b81",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ed21e095c7b9656b",
+    "canonical_url": "https://openai.com/index/next-phase-of-microsoft-partnership",
+    "dedupe_key": "bb93e0e6d5587cf5",
+    "title": "The next phase of the Microsoft OpenAI partnership",
+    "issue_date": "2026-06-21",
+    "cluster_id": "openai_com_da797b5f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9cbe271e380ceac3",
+    "canonical_url": "https://openai.com/index/our-principles",
+    "dedupe_key": "26c4712c4f7868b5",
+    "title": "Our principles",
+    "issue_date": "2026-06-21",
+    "cluster_id": "openai_com_ea6feebb",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ae538efe4854ce8f",
+    "canonical_url": "https://openai.com/index/gpt-5-5-system-card",
+    "dedupe_key": "a6c800da0f61a3e9",
+    "title": "GPT-5.5 System Card",
+    "issue_date": "2026-06-21",
+    "cluster_id": "openai_com_9ee4b559",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_634c66db28f5e0a5",
+    "canonical_url": "https://openai.com/academy/codex-plugins-and-skills",
+    "dedupe_key": "1d14a90ee43f3440",
+    "title": "Plugins and skills",
+    "issue_date": "2026-06-21",
+    "cluster_id": "openai_com_08581a65",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_171425920e672bc6",
+    "canonical_url": "https://openai.com/academy/working-with-codex",
+    "dedupe_key": "05237ee4b7ec124a",
+    "title": "Working with Codex",
+    "issue_date": "2026-06-21",
+    "cluster_id": "openai_com_b32bfbf1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2c93c3426b9a1e7c",
+    "canonical_url": "https://openai.com/academy/codex-automations",
+    "dedupe_key": "1db101939ccfba32",
+    "title": "Automations",
+    "issue_date": "2026-06-21",
+    "cluster_id": "openai_com_238ae7bb",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c409b7e220993828",
+    "canonical_url": "https://openai.com/academy/codex-how-to-start",
+    "dedupe_key": "266e75313281689f",
+    "title": "How to get started with Codex",
+    "issue_date": "2026-06-21",
+    "cluster_id": "openai_com_6c7259e0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0be057a8990383ec",
+    "canonical_url": "https://openai.com/academy/codex-settings",
+    "dedupe_key": "438822fbcb93bcad",
+    "title": "Codex settings",
+    "issue_date": "2026-06-21",
+    "cluster_id": "openai_com_229ad2f0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_33679bb5b2abd23e",
+    "canonical_url": "https://openai.com/academy/how-to-use-codex-for-everyday-work",
+    "dedupe_key": "a56a06ea7f93d643",
+    "title": "How to use Codex for everyday work",
+    "issue_date": "2026-06-21",
+    "cluster_id": "openai_com_a86ba947",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ac54ac15d26c86f6",
+    "canonical_url": "https://openai.com/index/gpt-5-5-bio-bug-bounty",
+    "dedupe_key": "c73e4bcc9b4a1d8f",
+    "title": "GPT-5.5 Bio Bug Bounty",
+    "issue_date": "2026-06-21",
+    "cluster_id": "openai_com_1c9b7f5c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a9a1afe364627c8f",
+    "canonical_url": "https://openai.com/index/making-chatgpt-better-for-clinicians",
+    "dedupe_key": "f260fa62519a6de4",
+    "title": "Making ChatGPT better for clinicians",
+    "issue_date": "2026-06-21",
+    "cluster_id": "openai_com_e2b6245f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7d5c02cdc4212977",
+    "canonical_url": "https://openai.com/index/introducing-openai-privacy-filter",
+    "dedupe_key": "fd4b2805e542902d",
+    "title": "Introducing OpenAI Privacy Filter",
+    "issue_date": "2026-06-21",
+    "cluster_id": "openai_com_d10daee1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f4b86b6b4609f2a2",
+    "canonical_url": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
+    "dedupe_key": "598c96788f4e882a",
+    "title": "Scaling Codex to enterprises worldwide",
+    "issue_date": "2026-06-21",
+    "cluster_id": "openai_com_cbb7259c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0c4acb7268bd37c5",
+    "canonical_url": "https://openai.com/index/codex-for-almost-everything",
+    "dedupe_key": "b7e571c443657637",
+    "title": "Codex for (almost) everything",
+    "issue_date": "2026-06-21",
+    "cluster_id": "openai_com_2eb89e9e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0e292740059106a3",
+    "canonical_url": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
+    "dedupe_key": "80834d4a4c4100ee",
+    "title": "Accelerating the cyber defense ecosystem that protects us all",
+    "issue_date": "2026-06-21",
+    "cluster_id": "openai_com_6b9f234a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7fe1209ca0013306",
+    "canonical_url": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
+    "dedupe_key": "e03650bc05c3c233",
+    "title": "Trusted access for the next era of cyber defense",
+    "issue_date": "2026-06-21",
+    "cluster_id": "openai_com_b2eef3c5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_fe53ab8fef36a264",
+    "canonical_url": "https://openai.com/academy/operations",
+    "dedupe_key": "a424110fdaf07b63",
+    "title": "ChatGPT for operations teams",
+    "issue_date": "2026-06-21",
+    "cluster_id": "openai_com_ad3afa91",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
