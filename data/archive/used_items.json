@@ -3156,5 +3156,205 @@
     "cluster_id": "openai_com_ad3afa91",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f29e36d540a17950",
+    "canonical_url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+    "dedupe_key": "2ac4fb5f8fe99755",
+    "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+    "issue_date": "2026-06-22",
+    "cluster_id": "openai_com_cf5b5283",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_667b584d06868a82",
+    "canonical_url": "https://openai.com/academy/skills",
+    "dedupe_key": "ad438d35098f053a",
+    "title": "Using skills",
+    "issue_date": "2026-06-22",
+    "cluster_id": "openai_com_5f7d2a36",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0b3979072ee0e2ea",
+    "canonical_url": "https://openai.com/academy/prompting",
+    "dedupe_key": "b66c4076fa9f25d9",
+    "title": "Prompting fundamentals",
+    "issue_date": "2026-06-22",
+    "cluster_id": "openai_com_8f511c5c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1456818f6aaa701e",
+    "canonical_url": "https://openai.com/index/axios-developer-tool-compromise",
+    "dedupe_key": "d1f856dfa837a385",
+    "title": "Our response to the Axios developer tool compromise",
+    "issue_date": "2026-06-22",
+    "cluster_id": "openai_com_d85cbf25",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3550820267e6f728",
+    "canonical_url": "https://openai.com/academy/healthcare",
+    "dedupe_key": "f559b79efc146ae6",
+    "title": "Healthcare",
+    "issue_date": "2026-06-22",
+    "cluster_id": "openai_com_3d804971",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_431c4edf3c4962c5",
+    "canonical_url": "https://openai.com/academy/sales",
+    "dedupe_key": "89224972e8887169",
+    "title": "ChatGPT for sales teams",
+    "issue_date": "2026-06-22",
+    "cluster_id": "openai_com_bfaddc5f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_00798edb84bf84c1",
+    "canonical_url": "https://openai.com/academy/customer-success",
+    "dedupe_key": "f4b876f9e4c4347c",
+    "title": "ChatGPT for customer success teams",
+    "issue_date": "2026-06-22",
+    "cluster_id": "openai_com_8942e220",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_aac4d2425b2c46ba",
+    "canonical_url": "https://openai.com/academy/image-generation",
+    "dedupe_key": "ac827282b5869637",
+    "title": "Creating images with ChatGPT",
+    "issue_date": "2026-06-22",
+    "cluster_id": "openai_com_000d632b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1284a6f9da03bc2d",
+    "canonical_url": "https://openai.com/academy/what-is-ai",
+    "dedupe_key": "5a6983b19f08bef4",
+    "title": "AI fundamentals",
+    "issue_date": "2026-06-22",
+    "cluster_id": "openai_com_5a10995f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4f0a695e6c15024c",
+    "canonical_url": "https://openai.com/academy/projects",
+    "dedupe_key": "308f637bbd95d3ee",
+    "title": "Using projects in ChatGPT",
+    "issue_date": "2026-06-22",
+    "cluster_id": "openai_com_5eb71c09",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d4ff0f5688692bd2",
+    "canonical_url": "https://openai.com/academy/research",
+    "dedupe_key": "077bf73d4ee7e7dd",
+    "title": "ChatGPT for research",
+    "issue_date": "2026-06-22",
+    "cluster_id": "openai_com_14beb5c1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_df346e2b48e87ca1",
+    "canonical_url": "https://openai.com/academy/brainstorming",
+    "dedupe_key": "0ba3ae1be1196ae0",
+    "title": "Brainstorming with ChatGPT",
+    "issue_date": "2026-06-22",
+    "cluster_id": "openai_com_aadeeb69",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0b3958140a6bc081",
+    "canonical_url": "https://openai.com/academy/writing",
+    "dedupe_key": "72a11b6fbfdb3ce2",
+    "title": "Writing with ChatGPT",
+    "issue_date": "2026-06-22",
+    "cluster_id": "openai_com_c3ab21eb",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5874cfe7db4dca86",
+    "canonical_url": "https://openai.com/academy/responsible-and-safe-use",
+    "dedupe_key": "60b386a0ad6d5d44",
+    "title": "Responsible and safe use of AI",
+    "issue_date": "2026-06-22",
+    "cluster_id": "openai_com_5cbd6d6f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_33ec87e17a1e431f",
+    "canonical_url": "https://openai.com/academy/search-and-deep-research",
+    "dedupe_key": "ae18a6f772bdfe03",
+    "title": "Research with ChatGPT",
+    "issue_date": "2026-06-22",
+    "cluster_id": "openai_com_d434b917",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8fd1ebacf704106a",
+    "canonical_url": "https://openai.com/academy/managers",
+    "dedupe_key": "56e100c509edc292",
+    "title": "ChatGPT for managers",
+    "issue_date": "2026-06-22",
+    "cluster_id": "openai_com_0f97e525",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1f5f226155eb1c2a",
+    "canonical_url": "https://openai.com/academy/financial-services",
+    "dedupe_key": "eb030a40bd2b3902",
+    "title": "Financial services",
+    "issue_date": "2026-06-22",
+    "cluster_id": "openai_com_13425bd9",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ad34e032114dd10e",
+    "canonical_url": "https://openai.com/academy/finance",
+    "dedupe_key": "96590e509d728ce8",
+    "title": "ChatGPT for finance teams",
+    "issue_date": "2026-06-22",
+    "cluster_id": "openai_com_f36ba79b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c9d5b51d96a923ce",
+    "canonical_url": "https://openai.com/academy/personalization",
+    "dedupe_key": "27ecbefca26af9d0",
+    "title": "Personalizing ChatGPT",
+    "issue_date": "2026-06-22",
+    "cluster_id": "openai_com_51fba94f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_49112277782c480c",
+    "canonical_url": "https://openai.com/academy/getting-started",
+    "dedupe_key": "f69afdd127aabc09",
+    "title": "Getting started with ChatGPT",
+    "issue_date": "2026-06-22",
+    "cluster_id": "openai_com_0deb0b1e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
