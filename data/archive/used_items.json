@@ -3356,5 +3356,215 @@
     "cluster_id": "openai_com_0deb0b1e",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ceef32e88031345d",
+    "canonical_url": "https://vercel.com/changelog/sakana-fugu-ultra-now-available-on-ai-gateway",
+    "dedupe_key": "55395ef280e56796",
+    "title": "Sakana Fugu Ultra now available on AI Gateway",
+    "issue_date": "2026-06-23",
+    "cluster_id": "vercel_com_db4054fe",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b8e24e7a06e79e2b",
+    "canonical_url": "https://openai.com/index/patch-the-planet",
+    "dedupe_key": "410726aba636fa3e",
+    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+    "issue_date": "2026-06-23",
+    "cluster_id": "openai_com_cae4f1cf",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8dff19a8154e6313",
+    "canonical_url": "https://elevenlabs.io/blog/expanding-in-california",
+    "dedupe_key": "849cf64d5fbb913c",
+    "title": "ElevenLabs to expand in California creating 173 high-paying jobs",
+    "issue_date": "2026-06-23",
+    "cluster_id": "elevenlabs_io_c6aa16d2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2ffbb62b8cd13604",
+    "canonical_url": "https://openai.com/index/daybreak-securing-the-world",
+    "dedupe_key": "cc9a6ec31a5922a6",
+    "title": "Daybreak: Tools for securing every organization in the world",
+    "issue_date": "2026-06-23",
+    "cluster_id": "openai_com_21106292",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8d085de52445afe0",
+    "canonical_url": "https://openai.com/index/codex-maxxing-long-running-work",
+    "dedupe_key": "72b19d6d64faf232",
+    "title": "Codex-maxxing for long-running work",
+    "issue_date": "2026-06-23",
+    "cluster_id": "openai_com_79973414",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_504c5fe07906a469",
+    "canonical_url": "https://openai.com/academy/marketing",
+    "dedupe_key": "0931d84b6d530a25",
+    "title": "ChatGPT for marketing teams",
+    "issue_date": "2026-06-23",
+    "cluster_id": "openai_com_fc590a28",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3ba4330a6bffa38c",
+    "canonical_url": "https://openai.com/academy/custom-gpts",
+    "dedupe_key": "284faf6536e32914",
+    "title": "Using custom GPTs",
+    "issue_date": "2026-06-23",
+    "cluster_id": "openai_com_d85b53c9",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a9fc3a4bf563ca21",
+    "canonical_url": "https://openai.com/academy/working-with-files",
+    "dedupe_key": "09ea1446c81cb568",
+    "title": "Working with files in ChatGPT",
+    "issue_date": "2026-06-23",
+    "cluster_id": "openai_com_f65a248d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d41e6212e08f800d",
+    "canonical_url": "https://openai.com/academy/data-analysis",
+    "dedupe_key": "0b8d82ad2f17f6bd",
+    "title": "Analyzing data with ChatGPT",
+    "issue_date": "2026-06-23",
+    "cluster_id": "openai_com_d3c16a52",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_72504d73308031d8",
+    "canonical_url": "https://openai.com/index/introducing-child-safety-blueprint",
+    "dedupe_key": "c0e6e45ed48add06",
+    "title": "Introducing the Child Safety Blueprint",
+    "issue_date": "2026-06-23",
+    "cluster_id": "openai_com_867094a6",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_643271140e3cfb5c",
+    "canonical_url": "https://openai.com/index/introducing-openai-safety-fellowship",
+    "dedupe_key": "8a40e8134e282f10",
+    "title": "Announcing the OpenAI Safety Fellowship",
+    "issue_date": "2026-06-23",
+    "cluster_id": "openai_com_f0c7a475",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_26fa69362f420342",
+    "canonical_url": "https://openai.com/index/openai-acquires-tbpn",
+    "dedupe_key": "fa830cd345538953",
+    "title": "OpenAI acquires TBPN",
+    "issue_date": "2026-06-23",
+    "cluster_id": "openai_com_195ef511",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_89b61842659189df",
+    "canonical_url": "https://openai.com/index/codex-flexible-pricing-for-teams",
+    "dedupe_key": "db248e8fcc56b5e5",
+    "title": "Codex now offers more flexible pricing for teams",
+    "issue_date": "2026-06-23",
+    "cluster_id": "openai_com_3a54866a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3eaf944a56af3ffc",
+    "canonical_url": "https://openai.com/index/accelerating-the-next-phase-ai",
+    "dedupe_key": "74ffa3329443753c",
+    "title": "Accelerating the next phase of AI",
+    "issue_date": "2026-06-23",
+    "cluster_id": "openai_com_32b9fa19",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a1a28b0e9712f308",
+    "canonical_url": "https://openai.com/index/helping-disaster-response-teams-asia",
+    "dedupe_key": "81da58f99cb8c0b1",
+    "title": "Helping disaster response teams turn AI into action across Asia",
+    "issue_date": "2026-06-23",
+    "cluster_id": "openai_com_3f499e05",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_cd5f6ba54a74c4bc",
+    "canonical_url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
+    "dedupe_key": "7d290544ba36eef0",
+    "title": "Helping developers build safer AI experiences for teens",
+    "issue_date": "2026-06-23",
+    "cluster_id": "openai_com_9f4d0dc1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a0943ced457a45d6",
+    "canonical_url": "https://openai.com/index/update-on-the-openai-foundation",
+    "dedupe_key": "c6bbdfd1d8747542",
+    "title": "Update on the OpenAI Foundation",
+    "issue_date": "2026-06-23",
+    "cluster_id": "openai_com_557b60bc",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c70bb483c5599f89",
+    "canonical_url": "https://openai.com/index/creating-with-sora-safely",
+    "dedupe_key": "43fe67ddd45c6742",
+    "title": "Creating with Sora Safely",
+    "issue_date": "2026-06-23",
+    "cluster_id": "openai_com_10858e20",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_22ef265f24a879c1",
+    "canonical_url": "https://openai.com/index/openai-to-acquire-astral",
+    "dedupe_key": "e4d5a75da81f007e",
+    "title": "OpenAI to acquire Astral",
+    "issue_date": "2026-06-23",
+    "cluster_id": "openai_com_577031c6",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_bb560e790b20a337",
+    "canonical_url": "https://openai.com/index/japan-teen-safety-blueprint",
+    "dedupe_key": "a18514b29d6cb301",
+    "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
+    "issue_date": "2026-06-23",
+    "cluster_id": "openai_com_8111ae6e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1acaadf0105ce2bb",
+    "canonical_url": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
+    "dedupe_key": "5d1bce4a7f58e54f",
+    "title": "Equipping workers with insights about compensation",
+    "issue_date": "2026-06-23",
+    "cluster_id": "openai_com_9d508282",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
