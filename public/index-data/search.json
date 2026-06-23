@@ -1,8 +1,242 @@
 [
   {
-    "title": "Sakana Fugu Ultra now available on AI Gateway",
-    "url": "https://vercel.com/changelog/sakana-fugu-ultra-now-available-on-ai-gateway",
-    "summary": "Sakana Fugu Ultra from Sakana AI is now available on AI Gateway . Fugu Ultra is built on a pool of publicly accessible frontier models, rather than running as a single model. It coordinates several models, routing work to 1-3 agents depending on the problem and combining their results into a single answer. Based on reasoning and scientific benchmarks, Fugu Ultra has capabilities similar to those of Claude Mythos Preview and Fable 5. To use Fugu Ultra, set model to sakana/fugu",
+    "title": "GitHub joins coalition advocating for fixes to California AI Transparency Act to protect open source",
+    "url": "https://github.blog/news-insights/policy-news-and-insights/github-joins-coalition-advocating-for-fixes-to-california-ai-transparency-act-to-protect-open-source",
+    "summary": "We’re calling for targeted amendments to resolve conflicts with open source licensing and align with international transparency frameworks while preserving regulatory intent. The post GitHub joins coalition advocating for fixes to California AI Transparency Act to protect open source appeared first on The GitHub Blog .",
+    "tags": [
+      "ai_coding",
+      "developer_tools"
+    ],
+    "author": "GitHub Copilot",
+    "source": "github.blog",
+    "date": "2026-06-24",
+    "score": 70
+  },
+  {
+    "title": "QLORA SFT Distillation Effects on Qwen3.6 27B Agentic Coding Harness Fluency bytkim • 9 days ago • 9",
+    "url": "https://huggingface.co/blog/bytkim/qwen36-27b-reasoning",
+    "summary": "Hugging Face – Blog · QLORA SFT Distillation Effects on Qwen3.6 27B Agentic Coding Harness Fluency bytkim • 9 days ago • 9",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-06-24",
+    "score": 70
+  },
+  {
+    "title": "Helping build shared standards for advanced AI",
+    "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+    "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-06-24",
+    "score": 69
+  },
+  {
+    "title": "Boost Inference Performance up to 15x on NVIDIA Blackwell Using DFlash Speculative Decoding",
+    "url": "https://developer.nvidia.com/blog/boost-inference-performance-up-to-15x-on-nvidia-blackwell-using-dflash-speculative-decoding",
+    "summary": "NVIDIA Technical Blog · Boost Inference Performance up to 15x on NVIDIA Blackwell Using DFlash Speculative Decoding",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-06-24",
+    "score": 69
+  },
+  {
+    "title": "Build an AI Scientist for Life Science Discovery with NVIDIA BioNeMo Agent Toolkit",
+    "url": "https://developer.nvidia.com/blog/build-an-ai-scientist-for-life-science-discovery-with-nvidia-bionemo-agent-toolkit",
+    "summary": "NVIDIA Technical Blog · Build an AI Scientist for Life Science Discovery with NVIDIA BioNeMo Agent Toolkit",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-06-24",
+    "score": 69
+  },
+  {
+    "title": "How Telcos Build Autonomous Networks with Agentic AI",
+    "url": "https://developer.nvidia.com/blog/how-telcos-build-autonomous-networks-with-agentic-ai",
+    "summary": "NVIDIA Technical Blog · How Telcos Build Autonomous Networks with Agentic AI",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-06-24",
+    "score": 69
+  },
+  {
+    "title": "How Omio is building the future of conversational travel",
+    "url": "https://openai.com/index/omio",
+    "summary": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-06-24",
+    "score": 68
+  },
+  {
+    "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+    "url": "https://openai.com/index/gpt-5-immunology-mystery",
+    "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-06-24",
+    "score": 67
+  },
+  {
+    "title": "Rakuten fixes issues twice as fast with Codex",
+    "url": "https://openai.com/index/rakuten",
+    "summary": "Rakuten fixes issues twice as fast with Codex 是 OpenAI 当日抓取到的公开新增条目。",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-06-24",
+    "score": 67
+  },
+  {
+    "title": "Improving instruction hierarchy in frontier LLMs",
+    "url": "https://openai.com/index/instruction-hierarchy-challenge",
+    "summary": "IH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, safety steerability, and resistance to prompt injection attacks.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-06-24",
+    "score": 67
+  },
+  {
+    "title": "New ways to learn math and science in ChatGPT",
+    "url": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt",
+    "summary": "ChatGPT introduces interactive visual explanations for math and science, helping students explore formulas, variables, and concepts in real time.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-06-24",
+    "score": 67
+  },
+  {
+    "title": "OpenAI to acquire Promptfoo",
+    "url": "https://openai.com/index/openai-to-acquire-promptfoo",
+    "summary": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-06-24",
+    "score": 67
+  },
+  {
+    "title": "GPT-5.4 Thinking System Card",
+    "url": "https://openai.com/index/gpt-5-4-thinking-system-card",
+    "summary": "GPT-5.4 Thinking System Card 是 OpenAI 当日抓取到的公开新增条目。",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-06-24",
+    "score": 67
+  },
+  {
+    "title": "Ensuring AI use in education leads to opportunity",
+    "url": "https://openai.com/index/ai-education-opportunity",
+    "summary": "OpenAI shares new tools, certifications, and measurement resources to help schools and universities close AI capability gaps and expand opportunity.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-06-24",
+    "score": 67
+  },
+  {
+    "title": "The five AI value models driving business reinvention",
+    "url": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",
+    "summary": "Five AI value models show how leaders can sequence AI from workforce fluency to process reinvention and build durable business advantage.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-06-24",
+    "score": 67
+  },
+  {
+    "title": "VfL Wolfsburg turns ChatGPT into a club-wide capability",
+    "url": "https://openai.com/index/vfl-wolfsburg",
+    "summary": "By focusing on people, not pilots, the Bundesliga club is scaling efficiency, creativity, and knowledge—without losing its football identity.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-06-24",
+    "score": 67
+  },
+  {
+    "title": "Introducing Vercel Drop",
+    "url": "https://vercel.com/changelog/vercel-drop",
+    "summary": "Vercel Drop lets you deploy a file or folder by dragging it into your browser. You don't need Git, the Vercel CLI , or any local setup. Drop a project onto vercel.com/drop , pick a team and project name, and select Deploy . Vercel will create a new project, upload your files, and publish them straight to production with a live URL you can share. All in a matter of seconds. Vercel Drop handles more than static files: - Framework projects: Vercel detects your framework (e.g., N",
     "tags": [
       "sdk",
       "ai_infra",
@@ -10,305 +244,72 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-06-23",
-    "score": 71
-  },
-  {
-    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-    "url": "https://openai.com/index/patch-the-planet",
-    "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-06-23",
-    "score": 69
-  },
-  {
-    "title": "ElevenLabs to expand in California creating 173 high-paying jobs",
-    "url": "https://elevenlabs.io/blog/expanding-in-california",
-    "summary": "ElevenLabs Blog - Company, Research & Product Updates · ElevenLabs to expand in California creating 173 high-paying jobs",
-    "tags": [
-      "voice_ai",
-      "audio"
-    ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-06-23",
+    "date": "2026-06-24",
     "score": 67
   },
   {
-    "title": "Daybreak: Tools for securing every organization in the world",
-    "url": "https://openai.com/index/daybreak-securing-the-world",
-    "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+    "title": "News & insights",
+    "url": "https://github.blog/news-insights",
+    "summary": "Home - The GitHub Blog · News & insights",
     "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
+      "ai_coding",
+      "developer_tools"
     ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-06-23",
+    "author": "GitHub Copilot",
+    "source": "github.blog",
+    "date": "2026-06-24",
     "score": 67
   },
   {
-    "title": "Codex-maxxing for long-running work",
-    "url": "https://openai.com/index/codex-maxxing-long-running-work",
-    "summary": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
+    "title": "Company news",
+    "url": "https://github.blog/news-insights/company-news",
+    "summary": "Home - The GitHub Blog · Company news",
     "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
+      "ai_coding",
+      "developer_tools"
     ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-06-23",
+    "author": "GitHub Copilot",
+    "source": "github.blog",
+    "date": "2026-06-24",
     "score": 67
   },
   {
-    "title": "ChatGPT for marketing teams",
-    "url": "https://openai.com/academy/marketing",
-    "summary": "Learn how marketing teams use ChatGPT to plan campaigns, generate content, analyze performance, and move from ideas to execution faster.",
+    "title": "The library",
+    "url": "https://github.blog/news-insights/the-library",
+    "summary": "Home - The GitHub Blog · The library",
     "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
+      "ai_coding",
+      "developer_tools"
     ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-06-23",
+    "author": "GitHub Copilot",
+    "source": "github.blog",
+    "date": "2026-06-24",
     "score": 67
   },
   {
-    "title": "Using custom GPTs",
-    "url": "https://openai.com/academy/custom-gpts",
-    "summary": "Learn how to build and use custom GPTs to automate workflows, maintain consistent outputs, and create purpose-built AI assistants.",
+    "title": "I automated my job (and it made me a better leader)",
+    "url": "https://github.blog/developer-skills/github/i-automated-my-job-and-it-made-me-a-better-leader",
+    "summary": "Explore how my day as a senior leader looks now that I use 40 automations to help, and learn more about some of my favorites. The post I automated my job (and it made me a better leader) appeared first on The GitHub Blog .",
     "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
+      "ai_coding",
+      "developer_tools"
     ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-06-23",
+    "author": "GitHub Copilot",
+    "source": "github.blog",
+    "date": "2026-06-24",
     "score": 67
   },
   {
-    "title": "Working with files in ChatGPT",
-    "url": "https://openai.com/academy/working-with-files",
-    "summary": "Learn how to upload and work with files in ChatGPT to analyze data, summarize documents, and generate content from PDFs, spreadsheets, and more.",
+    "title": "From pledge to practice: Building a more inclusive open source ecosystem",
+    "url": "https://github.blog/open-source/from-pledge-to-practice-building-a-more-inclusive-open-source-ecosystem",
+    "summary": "Learn about the progress we’ve made toward our accessibility goals and how you can help make open source more inclusive. The post From pledge to practice: Building a more inclusive open source ecosystem appeared first on The GitHub Blog .",
     "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
+      "ai_coding",
+      "developer_tools"
     ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-06-23",
-    "score": 67
-  },
-  {
-    "title": "Analyzing data with ChatGPT",
-    "url": "https://openai.com/academy/data-analysis",
-    "summary": "Learn how to analyze data with ChatGPT by exploring datasets, generating insights, creating visualizations, and turning findings into actionable decisions.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-06-23",
-    "score": 67
-  },
-  {
-    "title": "Introducing the Child Safety Blueprint",
-    "url": "https://openai.com/index/introducing-child-safety-blueprint",
-    "summary": "Discover OpenAI’s Child Safety Blueprint—a roadmap for building AI responsibly with safeguards, age-appropriate design, and collaboration to protect and empower young people online.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-06-23",
-    "score": 67
-  },
-  {
-    "title": "Announcing the OpenAI Safety Fellowship",
-    "url": "https://openai.com/index/introducing-openai-safety-fellowship",
-    "summary": "A pilot program to support independent safety and alignment research and develop the next generation of talent",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-06-23",
-    "score": 67
-  },
-  {
-    "title": "OpenAI acquires TBPN",
-    "url": "https://openai.com/index/openai-acquires-tbpn",
-    "summary": "OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-06-23",
-    "score": 67
-  },
-  {
-    "title": "Codex now offers more flexible pricing for teams",
-    "url": "https://openai.com/index/codex-flexible-pricing-for-teams",
-    "summary": "Codex now includes pay-as-you-go pricing for ChatGPT Business and Enterprise, providing teams a more flexible option to start and scale adoption.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-06-23",
-    "score": 67
-  },
-  {
-    "title": "Accelerating the next phase of AI",
-    "url": "https://openai.com/index/accelerating-the-next-phase-ai",
-    "summary": "OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-06-23",
-    "score": 67
-  },
-  {
-    "title": "Helping disaster response teams turn AI into action across Asia",
-    "url": "https://openai.com/index/helping-disaster-response-teams-asia",
-    "summary": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-06-23",
-    "score": 67
-  },
-  {
-    "title": "Helping developers build safer AI experiences for teens",
-    "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
-    "summary": "OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-06-23",
-    "score": 67
-  },
-  {
-    "title": "Update on the OpenAI Foundation",
-    "url": "https://openai.com/index/update-on-the-openai-foundation",
-    "summary": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-06-23",
-    "score": 67
-  },
-  {
-    "title": "Creating with Sora Safely",
-    "url": "https://openai.com/index/creating-with-sora-safely",
-    "summary": "To address the novel safety challenges posed by a state-of-the-art video model as well as a new social creation platform, we’ve built Sora 2 and the Sora app with safety at the foundation. Our approach is anchored in concrete protections.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-06-23",
-    "score": 67
-  },
-  {
-    "title": "OpenAI to acquire Astral",
-    "url": "https://openai.com/index/openai-to-acquire-astral",
-    "summary": "Accelerates Codex growth to power the next generation of Python developer tools",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-06-23",
-    "score": 67
-  },
-  {
-    "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
-    "url": "https://openai.com/index/japan-teen-safety-blueprint",
-    "summary": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-06-23",
-    "score": 67
-  },
-  {
-    "title": "Equipping workers with insights about compensation",
-    "url": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
-    "summary": "New research shows Americans send nearly 3 million daily messages to ChatGPT asking about compensation and earnings, helping close the wage information gap.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-06-23",
+    "author": "GitHub Copilot",
+    "source": "github.blog",
+    "date": "2026-06-24",
     "score": 67
   }
 ]

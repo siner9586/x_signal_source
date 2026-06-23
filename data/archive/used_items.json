@@ -3566,5 +3566,225 @@
     "cluster_id": "openai_com_9d508282",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3116d8e39aaa707b",
+    "canonical_url": "https://github.blog/news-insights/policy-news-and-insights/github-joins-coalition-advocating-for-fixes-to-california-ai-transparency-act-to-protect-open-source",
+    "dedupe_key": "3d9eee582047d359",
+    "title": "GitHub joins coalition advocating for fixes to California AI Transparency Act to protect open source",
+    "issue_date": "2026-06-24",
+    "cluster_id": "github_blog_45081fb0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4bc8d65bf0e62c60",
+    "canonical_url": "https://huggingface.co/blog/bytkim/qwen36-27b-reasoning",
+    "dedupe_key": "8bb4b126067dd832",
+    "title": "QLORA SFT Distillation Effects on Qwen3.6 27B Agentic Coding Harness Fluency bytkim • 9 days ago • 9",
+    "issue_date": "2026-06-24",
+    "cluster_id": "huggingface_co_eb55ebff",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5aa8dc5e606d2e3e",
+    "canonical_url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+    "dedupe_key": "c2bf1d161aadb12f",
+    "title": "Helping build shared standards for advanced AI",
+    "issue_date": "2026-06-24",
+    "cluster_id": "openai_com_bc82fdcf",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8fe6f9e52ba61802",
+    "canonical_url": "https://developer.nvidia.com/blog/boost-inference-performance-up-to-15x-on-nvidia-blackwell-using-dflash-speculative-decoding",
+    "dedupe_key": "62e43b4e546061a9",
+    "title": "Boost Inference Performance up to 15x on NVIDIA Blackwell Using DFlash Speculative Decoding",
+    "issue_date": "2026-06-24",
+    "cluster_id": "developer_nvidia_com_79e8feff",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1e71a5a08d1428c9",
+    "canonical_url": "https://developer.nvidia.com/blog/build-an-ai-scientist-for-life-science-discovery-with-nvidia-bionemo-agent-toolkit",
+    "dedupe_key": "f253ad4192903d6c",
+    "title": "Build an AI Scientist for Life Science Discovery with NVIDIA BioNeMo Agent Toolkit",
+    "issue_date": "2026-06-24",
+    "cluster_id": "developer_nvidia_com_9168e98b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e3e40b60e6530b4f",
+    "canonical_url": "https://developer.nvidia.com/blog/how-telcos-build-autonomous-networks-with-agentic-ai",
+    "dedupe_key": "dad8b7441872ef5f",
+    "title": "How Telcos Build Autonomous Networks with Agentic AI",
+    "issue_date": "2026-06-24",
+    "cluster_id": "developer_nvidia_com_1555a712",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f775ed6c95a81771",
+    "canonical_url": "https://openai.com/index/omio",
+    "dedupe_key": "23571494eda50411",
+    "title": "How Omio is building the future of conversational travel",
+    "issue_date": "2026-06-24",
+    "cluster_id": "openai_com_71616c67",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3a58957c8626a0cf",
+    "canonical_url": "https://openai.com/index/gpt-5-immunology-mystery",
+    "dedupe_key": "cebb78173b2cca63",
+    "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+    "issue_date": "2026-06-24",
+    "cluster_id": "openai_com_b94677b8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_86289612ce4ab4a5",
+    "canonical_url": "https://openai.com/index/rakuten",
+    "dedupe_key": "afe9fa9c0757737e",
+    "title": "Rakuten fixes issues twice as fast with Codex",
+    "issue_date": "2026-06-24",
+    "cluster_id": "openai_com_b273da14",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5919b8ef77352a7d",
+    "canonical_url": "https://openai.com/index/instruction-hierarchy-challenge",
+    "dedupe_key": "4eee2a711c5e7e6e",
+    "title": "Improving instruction hierarchy in frontier LLMs",
+    "issue_date": "2026-06-24",
+    "cluster_id": "openai_com_92a5e2c4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8f8897e1781f9ea4",
+    "canonical_url": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt",
+    "dedupe_key": "060b666deeae5e44",
+    "title": "New ways to learn math and science in ChatGPT",
+    "issue_date": "2026-06-24",
+    "cluster_id": "openai_com_ce3e33b2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2ad45b263ca38409",
+    "canonical_url": "https://openai.com/index/openai-to-acquire-promptfoo",
+    "dedupe_key": "863937a49e7a452b",
+    "title": "OpenAI to acquire Promptfoo",
+    "issue_date": "2026-06-24",
+    "cluster_id": "openai_com_4aea8c5f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b0f92fffbb42eab8",
+    "canonical_url": "https://openai.com/index/gpt-5-4-thinking-system-card",
+    "dedupe_key": "76b2a453b12424d1",
+    "title": "GPT-5.4 Thinking System Card",
+    "issue_date": "2026-06-24",
+    "cluster_id": "openai_com_5f80394b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_aee0ae4582a1a092",
+    "canonical_url": "https://openai.com/index/ai-education-opportunity",
+    "dedupe_key": "9a1209d5f6c99e97",
+    "title": "Ensuring AI use in education leads to opportunity",
+    "issue_date": "2026-06-24",
+    "cluster_id": "openai_com_32b2cd9c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_78f11e01e6c90cbf",
+    "canonical_url": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",
+    "dedupe_key": "a34e436676c3bc02",
+    "title": "The five AI value models driving business reinvention",
+    "issue_date": "2026-06-24",
+    "cluster_id": "openai_com_273f37f9",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d034dc2882afa92f",
+    "canonical_url": "https://openai.com/index/vfl-wolfsburg",
+    "dedupe_key": "e4a52613286a5352",
+    "title": "VfL Wolfsburg turns ChatGPT into a club-wide capability",
+    "issue_date": "2026-06-24",
+    "cluster_id": "openai_com_023b188b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_be6fb971fd847cfb",
+    "canonical_url": "https://vercel.com/changelog/vercel-drop",
+    "dedupe_key": "cbb87f8774599a3a",
+    "title": "Introducing Vercel Drop",
+    "issue_date": "2026-06-24",
+    "cluster_id": "vercel_com_1adf1401",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_49e66b080898cc93",
+    "canonical_url": "https://github.blog/news-insights",
+    "dedupe_key": "09f53dbe06d40af7",
+    "title": "News & insights",
+    "issue_date": "2026-06-24",
+    "cluster_id": "github_blog_be47c23c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f03753a6fa9e4c55",
+    "canonical_url": "https://github.blog/news-insights/company-news",
+    "dedupe_key": "315a7ee2c0edded6",
+    "title": "Company news",
+    "issue_date": "2026-06-24",
+    "cluster_id": "github_blog_5ebd41fe",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0dbecf2c69926381",
+    "canonical_url": "https://github.blog/news-insights/the-library",
+    "dedupe_key": "f9b40d89775215bb",
+    "title": "The library",
+    "issue_date": "2026-06-24",
+    "cluster_id": "github_blog_0ea2bff2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_01c484076d1fcf74",
+    "canonical_url": "https://github.blog/developer-skills/github/i-automated-my-job-and-it-made-me-a-better-leader",
+    "dedupe_key": "413ed6fbc9df58bf",
+    "title": "I automated my job (and it made me a better leader)",
+    "issue_date": "2026-06-24",
+    "cluster_id": "github_blog_d63b08be",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7575c5f24670f11a",
+    "canonical_url": "https://github.blog/open-source/from-pledge-to-practice-building-a-more-inclusive-open-source-ecosystem",
+    "dedupe_key": "74ef3b1a5cd56757",
+    "title": "From pledge to practice: Building a more inclusive open source ecosystem",
+    "issue_date": "2026-06-24",
+    "cluster_id": "github_blog_9df046c6",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
