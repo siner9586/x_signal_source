@@ -1,21 +1,8 @@
 [
   {
-    "title": "GitHub joins coalition advocating for fixes to California AI Transparency Act to protect open source",
-    "url": "https://github.blog/news-insights/policy-news-and-insights/github-joins-coalition-advocating-for-fixes-to-california-ai-transparency-act-to-protect-open-source",
-    "summary": "We’re calling for targeted amendments to resolve conflicts with open source licensing and align with international transparency frameworks while preserving regulatory intent. The post GitHub joins coalition advocating for fixes to California AI Transparency Act to protect open source appeared first on The GitHub Blog .",
-    "tags": [
-      "ai_coding",
-      "developer_tools"
-    ],
-    "author": "GitHub Copilot",
-    "source": "github.blog",
-    "date": "2026-06-24",
-    "score": 70
-  },
-  {
-    "title": "QLORA SFT Distillation Effects on Qwen3.6 27B Agentic Coding Harness Fluency bytkim • 9 days ago • 9",
-    "url": "https://huggingface.co/blog/bytkim/qwen36-27b-reasoning",
-    "summary": "Hugging Face – Blog · QLORA SFT Distillation Effects on Qwen3.6 27B Agentic Coding Harness Fluency bytkim • 9 days ago • 9",
+    "title": "Building Moon Bot: A Slack-Native Coding Agent Backed by HuggingFace Buckets huggingface • about 16 hours ago • 31",
+    "url": "https://huggingface.co/blog/huggingface/moon-bot",
+    "summary": "Hugging Face – Blog · Building Moon Bot: A Slack-Native Coding Agent Backed by HuggingFace Buckets huggingface • about 16 hours ago • 31",
     "tags": [
       "open_source",
       "papers",
@@ -23,220 +10,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-06-24",
+    "date": "2026-06-25",
     "score": 70
   },
   {
-    "title": "Helping build shared standards for advanced AI",
-    "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
-    "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-06-24",
-    "score": 69
-  },
-  {
-    "title": "Boost Inference Performance up to 15x on NVIDIA Blackwell Using DFlash Speculative Decoding",
-    "url": "https://developer.nvidia.com/blog/boost-inference-performance-up-to-15x-on-nvidia-blackwell-using-dflash-speculative-decoding",
-    "summary": "NVIDIA Technical Blog · Boost Inference Performance up to 15x on NVIDIA Blackwell Using DFlash Speculative Decoding",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-06-24",
-    "score": 69
-  },
-  {
-    "title": "Build an AI Scientist for Life Science Discovery with NVIDIA BioNeMo Agent Toolkit",
-    "url": "https://developer.nvidia.com/blog/build-an-ai-scientist-for-life-science-discovery-with-nvidia-bionemo-agent-toolkit",
-    "summary": "NVIDIA Technical Blog · Build an AI Scientist for Life Science Discovery with NVIDIA BioNeMo Agent Toolkit",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-06-24",
-    "score": 69
-  },
-  {
-    "title": "How Telcos Build Autonomous Networks with Agentic AI",
-    "url": "https://developer.nvidia.com/blog/how-telcos-build-autonomous-networks-with-agentic-ai",
-    "summary": "NVIDIA Technical Blog · How Telcos Build Autonomous Networks with Agentic AI",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-06-24",
-    "score": 69
-  },
-  {
-    "title": "How Omio is building the future of conversational travel",
-    "url": "https://openai.com/index/omio",
-    "summary": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-06-24",
-    "score": 68
-  },
-  {
-    "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
-    "url": "https://openai.com/index/gpt-5-immunology-mystery",
-    "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-06-24",
-    "score": 67
-  },
-  {
-    "title": "Rakuten fixes issues twice as fast with Codex",
-    "url": "https://openai.com/index/rakuten",
-    "summary": "Rakuten fixes issues twice as fast with Codex 是 OpenAI 当日抓取到的公开新增条目。",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-06-24",
-    "score": 67
-  },
-  {
-    "title": "Improving instruction hierarchy in frontier LLMs",
-    "url": "https://openai.com/index/instruction-hierarchy-challenge",
-    "summary": "IH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, safety steerability, and resistance to prompt injection attacks.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-06-24",
-    "score": 67
-  },
-  {
-    "title": "New ways to learn math and science in ChatGPT",
-    "url": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt",
-    "summary": "ChatGPT introduces interactive visual explanations for math and science, helping students explore formulas, variables, and concepts in real time.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-06-24",
-    "score": 67
-  },
-  {
-    "title": "OpenAI to acquire Promptfoo",
-    "url": "https://openai.com/index/openai-to-acquire-promptfoo",
-    "summary": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-06-24",
-    "score": 67
-  },
-  {
-    "title": "GPT-5.4 Thinking System Card",
-    "url": "https://openai.com/index/gpt-5-4-thinking-system-card",
-    "summary": "GPT-5.4 Thinking System Card 是 OpenAI 当日抓取到的公开新增条目。",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-06-24",
-    "score": 67
-  },
-  {
-    "title": "Ensuring AI use in education leads to opportunity",
-    "url": "https://openai.com/index/ai-education-opportunity",
-    "summary": "OpenAI shares new tools, certifications, and measurement resources to help schools and universities close AI capability gaps and expand opportunity.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-06-24",
-    "score": 67
-  },
-  {
-    "title": "The five AI value models driving business reinvention",
-    "url": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",
-    "summary": "Five AI value models show how leaders can sequence AI from workforce fluency to process reinvention and build durable business advantage.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-06-24",
-    "score": 67
-  },
-  {
-    "title": "VfL Wolfsburg turns ChatGPT into a club-wide capability",
-    "url": "https://openai.com/index/vfl-wolfsburg",
-    "summary": "By focusing on people, not pilots, the Bundesliga club is scaling efficiency, creativity, and knowledge—without losing its football identity.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-06-24",
-    "score": 67
-  },
-  {
-    "title": "Introducing Vercel Drop",
-    "url": "https://vercel.com/changelog/vercel-drop",
-    "summary": "Vercel Drop lets you deploy a file or folder by dragging it into your browser. You don't need Git, the Vercel CLI , or any local setup. Drop a project onto vercel.com/drop , pick a team and project name, and select Deploy . Vercel will create a new project, upload your files, and publish them straight to production with a live URL you can share. All in a matter of seconds. Vercel Drop handles more than static files: - Framework projects: Vercel detects your framework (e.g., N",
+    "title": "Chat SDK adds Novu support",
+    "url": "https://vercel.com/changelog/chat-sdk-adds-novu-support",
+    "summary": "Chat SDK now supports Novu with the new vendor-official adapter . One handler set puts your agent on Slack, Microsoft Teams, WhatsApp, Telegram, and email. Novu handles credentials, identity, and delivery, keeping OAuth and tokens outside your app and mapping each channel to one user. Your agent always knows who they're talking to. Your agent can also send proactive notifications and handle the replies in the same loop, on whichever channel the customer used. One CLI command ",
     "tags": [
       "sdk",
       "ai_infra",
@@ -244,72 +24,271 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-06-24",
+    "date": "2026-06-25",
+    "score": 68
+  },
+  {
+    "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+    "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+    "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-06-25",
     "score": 67
   },
   {
-    "title": "News & insights",
-    "url": "https://github.blog/news-insights",
-    "summary": "Home - The GitHub Blog · News & insights",
+    "title": "How pull request limits are cutting down the noise",
+    "url": "https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise",
+    "summary": "Learn how pull request limits can help manage contribution volume in your repositories, and see what’s next on the roadmap. The post How pull request limits are cutting down the noise appeared first on The GitHub Blog .",
     "tags": [
       "ai_coding",
       "developer_tools"
     ],
     "author": "GitHub Copilot",
     "source": "github.blog",
-    "date": "2026-06-24",
+    "date": "2026-06-25",
     "score": 67
   },
   {
-    "title": "Company news",
-    "url": "https://github.blog/news-insights/company-news",
-    "summary": "Home - The GitHub Blog · Company news",
+    "title": "Getting more from each token: How Copilot improves context handling and model routing",
+    "url": "https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing",
+    "summary": "How GitHub Copilot is making more of each session go toward useful work, so your credits go further. The post Getting more from each token: How Copilot improves context handling and model routing appeared first on The GitHub Blog .",
     "tags": [
       "ai_coding",
       "developer_tools"
     ],
     "author": "GitHub Copilot",
     "source": "github.blog",
-    "date": "2026-06-24",
+    "date": "2026-06-25",
     "score": 67
   },
   {
-    "title": "The library",
-    "url": "https://github.blog/news-insights/the-library",
-    "summary": "Home - The GitHub Blog · The library",
+    "title": "What are git worktrees, and why should I use them?",
+    "url": "https://github.blog/ai-and-ml/github-copilot/what-are-git-worktrees-and-why-should-i-use-them",
+    "summary": "Git worktrees have been around since 2015, but it wasn't until recently they became popular. Learn what they are, how to use them, and why you might. The post What are git worktrees, and why should I use them? appeared first on The GitHub Blog .",
     "tags": [
       "ai_coding",
       "developer_tools"
     ],
     "author": "GitHub Copilot",
     "source": "github.blog",
-    "date": "2026-06-24",
+    "date": "2026-06-25",
     "score": 67
   },
   {
-    "title": "I automated my job (and it made me a better leader)",
-    "url": "https://github.blog/developer-skills/github/i-automated-my-job-and-it-made-me-a-better-leader",
-    "summary": "Explore how my day as a senior leader looks now that I use 40 automations to help, and learn more about some of my favorites. The post I automated my job (and it made me a better leader) appeared first on The GitHub Blog .",
+    "title": "Is it agentic enough? Benchmarking open models on your own tooling",
+    "url": "https://huggingface.co/blog/is-it-agentic-enough",
+    "summary": "Is it agentic enough? Benchmarking open models on your own tooling 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
-      "ai_coding",
-      "developer_tools"
+      "open_source",
+      "papers",
+      "models"
     ],
-    "author": "GitHub Copilot",
-    "source": "github.blog",
-    "date": "2026-06-24",
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-06-25",
     "score": 67
   },
   {
-    "title": "From pledge to practice: Building a more inclusive open source ecosystem",
-    "url": "https://github.blog/open-source/from-pledge-to-practice-building-a-more-inclusive-open-source-ecosystem",
-    "summary": "Learn about the progress we’ve made toward our accessibility goals and how you can help make open source more inclusive. The post From pledge to practice: Building a more inclusive open source ecosystem appeared first on The GitHub Blog .",
+    "title": "A New Framework for Evaluating Voice Agents (EVA)",
+    "url": "https://huggingface.co/blog/ServiceNow-AI/eva",
+    "summary": "A New Framework for Evaluating Voice Agents (EVA) 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
-      "ai_coding",
-      "developer_tools"
+      "open_source",
+      "papers",
+      "models"
     ],
-    "author": "GitHub Copilot",
-    "source": "github.blog",
-    "date": "2026-06-24",
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-06-25",
+    "score": 67
+  },
+  {
+    "title": "How Lyft Built a Self-Serve AI Agent Platform with LangGraph and LangSmith",
+    "url": "https://www.langchain.com/blog/lyft-built-a-self-serve-ai-agent-platform-for-customer-support-with-langgraph-and-langsmith",
+    "summary": "Lyft used LangGraph and LangSmith to build a self-serve AI agent platform for customer support, cutting agent development from months to weeks.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-06-25",
+    "score": 67
+  },
+  {
+    "title": "The Agent Development Lifecycle: Build, Test, Deploy & Monitor AI Agents | LangChain",
+    "url": "https://www.langchain.com/blog/the-agent-development-lifecycle",
+    "summary": "Learn how leading engineering teams ship AI agents reliably and repeatedly using a four-phase agent development lifecycle: Build, Test, Deploy, and Monitor. Includes guidance on evals, runtimes, observability, and governance at scale.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-06-25",
+    "score": 67
+  },
+  {
+    "title": "Agentic Engineering: How Swarms of AI Agents Are Redefining Software Engineering",
+    "url": "https://www.langchain.com/blog/agentic-engineering-redefining-software-engineering",
+    "summary": "Multi-agent systems that mirror real engineering teams — not just code faster — can cut debug time by 93% and compress cross-team delivery. Here's the architecture built on LangGraph.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-06-25",
+    "score": 67
+  },
+  {
+    "title": "How to Build Memory into AI Agents",
+    "url": "https://www.langchain.com/blog/how-to-give-your-agent-memory",
+    "summary": "A practical guide to agent memory, including short-term and long-term memory, trace analysis, and how LangSmith helps agents improve across runs.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-06-25",
+    "score": 67
+  },
+  {
+    "title": "Introducing LangSmith’s No Code Agent Builder",
+    "url": "https://www.langchain.com/blog/langsmith-agent-builder",
+    "summary": "Build AI agents without code using LangSmith Agent Builder. Create agents with memory, guided prompts, and MCP tools—no technical expertise needed.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-06-25",
+    "score": 67
+  },
+  {
+    "title": "Human judgment in the agent improvement loop",
+    "url": "https://www.langchain.com/blog/human-judgment-in-the-agent-improvement-loop",
+    "summary": "AI agents work best when they reflect the knowledge and judgment your team has built over time. Some of that is institutional knowledge that’s already documented and easy for an agent to use as-is. But most great organizations also rely on tacit knowledge that lives inside their employees’ minds.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-06-25",
+    "score": 67
+  },
+  {
+    "title": "What is an AI agent?",
+    "url": "https://www.langchain.com/blog/what-is-an-agent",
+    "summary": "Introducing a new series of musings on AI agents, called \"In the Loop\".",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-06-25",
+    "score": 67
+  },
+  {
+    "title": "How to think about agent frameworks",
+    "url": "https://www.langchain.com/blog/how-to-think-about-agent-frameworks",
+    "summary": "Learn to build reliable AI agents. Compare workflows vs agents, declarative vs imperative approaches, and why context control matters most.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-06-25",
+    "score": 67
+  },
+  {
+    "title": "Building LangGraph: Designing an Agent Runtime from first principles",
+    "url": "https://www.langchain.com/blog/building-langgraph",
+    "summary": "In this blog piece, you’ll learn why and how we built LangGraph for production agents—focusing on control, durability, and the core features needed to scale.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-06-25",
+    "score": 67
+  },
+  {
+    "title": "How to Choose the Right Sandbox for AI Agents",
+    "url": "https://www.langchain.com/blog/how-to-choose-the-right-sandbox-for-your-agent",
+    "summary": "Learn how to choose a secure sandbox for AI agents, with guidance on filesystem isolation, network access, resource limits, and microVMs.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-06-25",
+    "score": 67
+  },
+  {
+    "title": "The Missing Link Between Agents and Applications",
+    "url": "https://www.langchain.com/blog/agents-and-applications",
+    "summary": "Most AI agent tools run on servers, limiting access to browser APIs, device capabilities, and frontend state. Discover how LangChain headless tools enable secure client-side tool execution for modern agent applications.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-06-25",
+    "score": 67
+  },
+  {
+    "title": "Model Neutrality: Why Avoiding AI Vendor Lock-In Matters",
+    "url": "https://www.langchain.com/blog/model-neutrality",
+    "summary": "Explore why model neutrality is critical for AI agents. Learn how labs lock you in at the harness layer—and why a neutral, open-source framework is the answer.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-06-25",
+    "score": 67
+  },
+  {
+    "title": "April 2026: LangChain Newsletter",
+    "url": "https://www.langchain.com/blog/april-2026-langchain-newsletter",
+    "summary": "April means we're officially counting down to Interrupt. We’ve got two more meetups on the agent improvement loop before April officially closes out in New York and San Francisco. RSVP while seats still last!",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-06-25",
     "score": 67
   }
 ]

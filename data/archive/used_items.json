@@ -3786,5 +3786,215 @@
     "cluster_id": "github_blog_9df046c6",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2c5d3086e8e8e40d",
+    "canonical_url": "https://huggingface.co/blog/huggingface/moon-bot",
+    "dedupe_key": "6456368cc12dbf12",
+    "title": "Building Moon Bot: A Slack-Native Coding Agent Backed by HuggingFace Buckets huggingface • about 16 hours ago • 31",
+    "issue_date": "2026-06-25",
+    "cluster_id": "huggingface_co_85a29e3c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0170f84692c72e75",
+    "canonical_url": "https://vercel.com/changelog/chat-sdk-adds-novu-support",
+    "dedupe_key": "f794afda42c8e9ff",
+    "title": "Chat SDK adds Novu support",
+    "issue_date": "2026-06-25",
+    "cluster_id": "vercel_com_6328ef19",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_909eae05b934f2ed",
+    "canonical_url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+    "dedupe_key": "fbc0ee872200e7b7",
+    "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+    "issue_date": "2026-06-25",
+    "cluster_id": "openai_com_9803a56b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b64de810f59f7224",
+    "canonical_url": "https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise",
+    "dedupe_key": "7f54061184be9e28",
+    "title": "How pull request limits are cutting down the noise",
+    "issue_date": "2026-06-25",
+    "cluster_id": "github_blog_a2b33892",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_102898bd098ea462",
+    "canonical_url": "https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing",
+    "dedupe_key": "0c1d6a3f1ffee9b1",
+    "title": "Getting more from each token: How Copilot improves context handling and model routing",
+    "issue_date": "2026-06-25",
+    "cluster_id": "github_blog_bf636d65",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_37af4c9a7aa39f0f",
+    "canonical_url": "https://github.blog/ai-and-ml/github-copilot/what-are-git-worktrees-and-why-should-i-use-them",
+    "dedupe_key": "2011c4381d13670b",
+    "title": "What are git worktrees, and why should I use them?",
+    "issue_date": "2026-06-25",
+    "cluster_id": "github_blog_55e97972",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_80eb68e169e86fb3",
+    "canonical_url": "https://huggingface.co/blog/is-it-agentic-enough",
+    "dedupe_key": "a2aeac42b2a20b02",
+    "title": "Is it agentic enough? Benchmarking open models on your own tooling",
+    "issue_date": "2026-06-25",
+    "cluster_id": "huggingface_co_0c916a5b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b7f2fff5b49ee51e",
+    "canonical_url": "https://huggingface.co/blog/ServiceNow-AI/eva",
+    "dedupe_key": "7d178d6440c291d3",
+    "title": "A New Framework for Evaluating Voice Agents (EVA)",
+    "issue_date": "2026-06-25",
+    "cluster_id": "huggingface_co_b2c7a50d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_73689de746bd09aa",
+    "canonical_url": "https://www.langchain.com/blog/lyft-built-a-self-serve-ai-agent-platform-for-customer-support-with-langgraph-and-langsmith",
+    "dedupe_key": "69567a755d5da1c7",
+    "title": "How Lyft Built a Self-Serve AI Agent Platform with LangGraph and LangSmith",
+    "issue_date": "2026-06-25",
+    "cluster_id": "langchain_com_89e4d830",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7e18c3734a4e74b1",
+    "canonical_url": "https://www.langchain.com/blog/the-agent-development-lifecycle",
+    "dedupe_key": "0964551cfa44ad7a",
+    "title": "The Agent Development Lifecycle: Build, Test, Deploy & Monitor AI Agents | LangChain",
+    "issue_date": "2026-06-25",
+    "cluster_id": "langchain_com_6ef8b0da",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3e92edcdc58d8f02",
+    "canonical_url": "https://www.langchain.com/blog/agentic-engineering-redefining-software-engineering",
+    "dedupe_key": "be882ad2ddb3d30f",
+    "title": "Agentic Engineering: How Swarms of AI Agents Are Redefining Software Engineering",
+    "issue_date": "2026-06-25",
+    "cluster_id": "langchain_com_2b121996",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_537084526d16bb76",
+    "canonical_url": "https://www.langchain.com/blog/how-to-give-your-agent-memory",
+    "dedupe_key": "706e44907fd81f62",
+    "title": "How to Build Memory into AI Agents",
+    "issue_date": "2026-06-25",
+    "cluster_id": "langchain_com_a55493cb",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a48e09ae65ccf37d",
+    "canonical_url": "https://www.langchain.com/blog/langsmith-agent-builder",
+    "dedupe_key": "4d8230e090788134",
+    "title": "Introducing LangSmith’s No Code Agent Builder",
+    "issue_date": "2026-06-25",
+    "cluster_id": "langchain_com_a4437a6a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_071471a8607f4360",
+    "canonical_url": "https://www.langchain.com/blog/human-judgment-in-the-agent-improvement-loop",
+    "dedupe_key": "75412b4c99136b2c",
+    "title": "Human judgment in the agent improvement loop",
+    "issue_date": "2026-06-25",
+    "cluster_id": "langchain_com_171b2cee",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_60a0a267303ccd84",
+    "canonical_url": "https://www.langchain.com/blog/what-is-an-agent",
+    "dedupe_key": "92f44dcc54b53241",
+    "title": "What is an AI agent?",
+    "issue_date": "2026-06-25",
+    "cluster_id": "langchain_com_3449b9d5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e79288f655c576e7",
+    "canonical_url": "https://www.langchain.com/blog/how-to-think-about-agent-frameworks",
+    "dedupe_key": "8beb21a8e20e8071",
+    "title": "How to think about agent frameworks",
+    "issue_date": "2026-06-25",
+    "cluster_id": "langchain_com_e8ec0282",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_da8b0903574a8515",
+    "canonical_url": "https://www.langchain.com/blog/building-langgraph",
+    "dedupe_key": "6e2cafaf752e6d51",
+    "title": "Building LangGraph: Designing an Agent Runtime from first principles",
+    "issue_date": "2026-06-25",
+    "cluster_id": "langchain_com_316fdde7",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_956324286753e75a",
+    "canonical_url": "https://www.langchain.com/blog/how-to-choose-the-right-sandbox-for-your-agent",
+    "dedupe_key": "543db8fffc936623",
+    "title": "How to Choose the Right Sandbox for AI Agents",
+    "issue_date": "2026-06-25",
+    "cluster_id": "langchain_com_b963fcf8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1afbb06400f320f1",
+    "canonical_url": "https://www.langchain.com/blog/agents-and-applications",
+    "dedupe_key": "483460252e6d6030",
+    "title": "The Missing Link Between Agents and Applications",
+    "issue_date": "2026-06-25",
+    "cluster_id": "langchain_com_9e03d3f3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_46c55d1baa134eae",
+    "canonical_url": "https://www.langchain.com/blog/model-neutrality",
+    "dedupe_key": "4d68ab662d445ec1",
+    "title": "Model Neutrality: Why Avoiding AI Vendor Lock-In Matters",
+    "issue_date": "2026-06-25",
+    "cluster_id": "langchain_com_20909ed8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_55de260b890c80af",
+    "canonical_url": "https://www.langchain.com/blog/april-2026-langchain-newsletter",
+    "dedupe_key": "0d7dd3101d38d137",
+    "title": "April 2026: LangChain Newsletter",
+    "issue_date": "2026-06-25",
+    "cluster_id": "langchain_com_b9cc07b4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
