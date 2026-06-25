@@ -1,36 +1,8 @@
 [
   {
-    "title": "Building Moon Bot: A Slack-Native Coding Agent Backed by HuggingFace Buckets huggingface • about 16 hours ago • 31",
-    "url": "https://huggingface.co/blog/huggingface/moon-bot",
-    "summary": "Hugging Face – Blog · Building Moon Bot: A Slack-Native Coding Agent Backed by HuggingFace Buckets huggingface • about 16 hours ago • 31",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-06-25",
-    "score": 70
-  },
-  {
-    "title": "Chat SDK adds Novu support",
-    "url": "https://vercel.com/changelog/chat-sdk-adds-novu-support",
-    "summary": "Chat SDK now supports Novu with the new vendor-official adapter . One handler set puts your agent on Slack, Microsoft Teams, WhatsApp, Telegram, and email. Novu handles credentials, identity, and delivery, keeping OAuth and tokens outside your app and mapping each channel to one user. Your agent always knows who they're talking to. Your agent can also send proactive notifications and handle the replies in the same loop, on whichever channel the customer used. One CLI command ",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-06-25",
-    "score": 68
-  },
-  {
-    "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-    "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-    "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
+    "title": "How agents are transforming work",
+    "url": "https://openai.com/index/how-agents-are-transforming-work",
+    "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
     "tags": [
       "ai_models",
       "official",
@@ -39,94 +11,82 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-06-25",
-    "score": 67
+    "date": "2026-06-26",
+    "score": 74
   },
   {
-    "title": "How pull request limits are cutting down the noise",
-    "url": "https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise",
-    "summary": "Learn how pull request limits can help manage contribution volume in your repositories, and see what’s next on the roadmap. The post How pull request limits are cutting down the noise appeared first on The GitHub Blog .",
+    "title": "Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks",
+    "url": "https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks",
+    "summary": "Explore how the GitHub Copilot agentic harness delivers strong results across multiple benchmarks and leading token efficiency, while maintaining flexibility to choose among more than 20 models. The post Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks appeared first on The GitHub Blog .",
     "tags": [
       "ai_coding",
       "developer_tools"
     ],
     "author": "GitHub Copilot",
     "source": "github.blog",
-    "date": "2026-06-25",
-    "score": 67
+    "date": "2026-06-26",
+    "score": 73
   },
   {
-    "title": "Getting more from each token: How Copilot improves context handling and model routing",
-    "url": "https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing",
-    "summary": "How GitHub Copilot is making more of each session go toward useful work, so your credits go further. The post Getting more from each token: How Copilot improves context handling and model routing appeared first on The GitHub Blog .",
+    "title": "AI SDK 7",
+    "url": "https://vercel.com/blog/ai-sdk-7",
+    "summary": "AI SDK, with over 16 million weekly downloads, is the TypeScript SDK for building AI applications, features, frameworks, and agents across any model provider. It's the same layer eve , Vercel's open-source agent framework, is built on. AI SDK 7 adds production depth for agent work across five areas: Develop agents with reasoning control, tool and runtime context, provider files and skills support, MCP Apps, and a terminal UI. Run agents with tool approvals, durability ( Workf",
     "tags": [
-      "ai_coding",
-      "developer_tools"
+      "sdk",
+      "ai_infra",
+      "frontend"
     ],
-    "author": "GitHub Copilot",
-    "source": "github.blog",
-    "date": "2026-06-25",
-    "score": 67
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-06-26",
+    "score": 72
   },
   {
-    "title": "What are git worktrees, and why should I use them?",
-    "url": "https://github.blog/ai-and-ml/github-copilot/what-are-git-worktrees-and-why-should-i-use-them",
-    "summary": "Git worktrees have been around since 2015, but it wasn't until recently they became popular. Learn what they are, how to use them, and why you might. The post What are git worktrees, and why should I use them? appeared first on The GitHub Blog .",
+    "title": "Teaching agents product design at Vercel",
+    "url": "https://vercel.com/blog/teaching-agents-product-design-at-vercel",
+    "summary": "Coding agents can produce working UI fast, but what's harder is a different shape. They can copy your product's style, match its patterns, and try to follow its conventions. What they cannot do is understand why those patterns exist. Code shows agents what shipped, not why one component, phrase, or interaction became your standard. That reasoning lives in design reviews, PR comments, Slack threads, and with the people who were in the room. For an agent, context that isn't in ",
     "tags": [
-      "ai_coding",
-      "developer_tools"
+      "sdk",
+      "ai_infra",
+      "frontend"
     ],
-    "author": "GitHub Copilot",
-    "source": "github.blog",
-    "date": "2026-06-25",
-    "score": 67
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-06-26",
+    "score": 71
   },
   {
-    "title": "Is it agentic enough? Benchmarking open models on your own tooling",
-    "url": "https://huggingface.co/blog/is-it-agentic-enough",
-    "summary": "Is it agentic enough? Benchmarking open models on your own tooling 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "AI SDK 7 is now available",
+    "url": "https://vercel.com/changelog/ai-sdk-7",
+    "summary": "AI SDK 7 is a major release for building production agents in TypeScript. The SDK has grown from model calls and chat primitives into a broader agent platform for developing, running, integrating, and observing agents across text, audio, realtime, image, and video. Every major provider is supported out of the box. At a Glance Develop agents with reasoning control, tool and runtime context, provider files and skills support, MCP Apps, and a terminal UI. Run agents with tool ap",
     "tags": [
-      "open_source",
-      "papers",
-      "models"
+      "sdk",
+      "ai_infra",
+      "frontend"
     ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-06-25",
-    "score": 67
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-06-26",
+    "score": 69
   },
   {
-    "title": "A New Framework for Evaluating Voice Agents (EVA)",
-    "url": "https://huggingface.co/blog/ServiceNow-AI/eva",
-    "summary": "A New Framework for Evaluating Voice Agents (EVA) 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Deep Agents and OpenCode are now available in the AI SDK Harness",
+    "url": "https://vercel.com/changelog/deepagents-and-opencode-harness-adapters",
+    "summary": "The AI SDK Harness lets you run established coding-agent runtimes through one unified interface, so you can switch runtimes without changing your application code. Today we're adding two new adapters, Deep Agents and OpenCode, both running inside a Vercel Sandbox. Deep Agents @ai-sdk/harness-deepagents adapts LangChain's deepagents runtime, with built-in file and shell tools, skills, host tools, multi-turn sessions, attach and resume, and built-in tool approvals. Read the Dee",
     "tags": [
-      "open_source",
-      "papers",
-      "models"
+      "sdk",
+      "ai_infra",
+      "frontend"
     ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-06-25",
-    "score": 67
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-06-26",
+    "score": 69
   },
   {
-    "title": "How Lyft Built a Self-Serve AI Agent Platform with LangGraph and LangSmith",
-    "url": "https://www.langchain.com/blog/lyft-built-a-self-serve-ai-agent-platform-for-customer-support-with-langgraph-and-langsmith",
-    "summary": "Lyft used LangGraph and LangSmith to build a self-serve AI agent platform for customer support, cutting agent development from months to weeks.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-06-25",
-    "score": 67
-  },
-  {
-    "title": "The Agent Development Lifecycle: Build, Test, Deploy & Monitor AI Agents | LangChain",
-    "url": "https://www.langchain.com/blog/the-agent-development-lifecycle",
-    "summary": "Learn how leading engineering teams ship AI agents reliably and repeatedly using a four-phase agent development lifecycle: Build, Test, Deploy, and Monitor. Includes guidance on evals, runtimes, observability, and governance at scale.",
+    "title": "How we built SmithDB’s inverted index for full-text search",
+    "url": "https://www.langchain.com/blog/full-text-search-in-smithdb-constructing-and-querying-our-inverted-index-pt-2",
+    "summary": "A technical deep dive into how LangChain built full-text search in SmithDB, from constructing and compacting inverted indexes to routing queries across local SSD and object storage.",
     "tags": [
       "agents",
       "rag",
@@ -134,13 +94,13 @@
     ],
     "author": "LangChain",
     "source": "langchain.com",
-    "date": "2026-06-25",
+    "date": "2026-06-26",
     "score": 67
   },
   {
-    "title": "Agentic Engineering: How Swarms of AI Agents Are Redefining Software Engineering",
-    "url": "https://www.langchain.com/blog/agentic-engineering-redefining-software-engineering",
-    "summary": "Multi-agent systems that mirror real engineering teams — not just code faster — can cut debug time by 93% and compress cross-team delivery. Here's the architecture built on LangGraph.",
+    "title": "Why the Best AI Agents Are Simple: Sierra’s Zack Reneau-Wedeen on the Max Agency Podcast",
+    "url": "https://www.langchain.com/blog/why-the-best-agents-are-simpler-than-you-think-sierra-max-agency-podcast",
+    "summary": "On the Max Agency Podcast, Harrison Chase and Sierra’s Zack Reneau-Wedeen sat down to explore the future of AI agents. Learn why simple architectures, outcome-based pricing, and avoiding \"org chart shipping\" are the keys to building high-performance customer-facing AI.",
     "tags": [
       "agents",
       "rag",
@@ -148,13 +108,13 @@
     ],
     "author": "LangChain",
     "source": "langchain.com",
-    "date": "2026-06-25",
+    "date": "2026-06-26",
     "score": 67
   },
   {
-    "title": "How to Build Memory into AI Agents",
-    "url": "https://www.langchain.com/blog/how-to-give-your-agent-memory",
-    "summary": "A practical guide to agent memory, including short-term and long-term memory, trace analysis, and how LangSmith helps agents improve across runs.",
+    "title": "LangSmith LLM Gateway: runtime governance built into the agent lifecycle",
+    "url": "https://www.langchain.com/blog/introducing-llm-gateway",
+    "summary": "Introducing LangSmith LLM Gateway: runtime governance for AI agents with spend limits, PII redaction, and trace continuity, built directly into LangSmith.",
     "tags": [
       "agents",
       "rag",
@@ -162,13 +122,13 @@
     ],
     "author": "LangChain",
     "source": "langchain.com",
-    "date": "2026-06-25",
+    "date": "2026-06-26",
     "score": 67
   },
   {
-    "title": "Introducing LangSmith’s No Code Agent Builder",
-    "url": "https://www.langchain.com/blog/langsmith-agent-builder",
-    "summary": "Build AI agents without code using LangSmith Agent Builder. Create agents with memory, guided prompts, and MCP tools—no technical expertise needed.",
+    "title": "Introducing LangSmith Context Hub",
+    "url": "https://www.langchain.com/blog/introducing-context-hub",
+    "summary": "Introducing Context Hub in LangSmith: a central place to store, version, and collaborate on the files that shape how your AI agents behave.",
     "tags": [
       "agents",
       "rag",
@@ -176,13 +136,13 @@
     ],
     "author": "LangChain",
     "source": "langchain.com",
-    "date": "2026-06-25",
+    "date": "2026-06-26",
     "score": 67
   },
   {
-    "title": "Human judgment in the agent improvement loop",
-    "url": "https://www.langchain.com/blog/human-judgment-in-the-agent-improvement-loop",
-    "summary": "AI agents work best when they reflect the knowledge and judgment your team has built over time. Some of that is institutional knowledge that’s already documented and easy for an agent to use as-is. But most great organizations also rely on tacit knowledge that lives inside their employees’ minds.",
+    "title": "Open SWE: An Open-Source Framework for Internal Coding Agents",
+    "url": "https://www.langchain.com/blog/open-swe-an-open-source-framework-for-internal-coding-agents",
+    "summary": "Built on Deep Agents and LangGraph, Open SWE provides the core architectural components for internal coding agents.",
     "tags": [
       "agents",
       "rag",
@@ -190,13 +150,13 @@
     ],
     "author": "LangChain",
     "source": "langchain.com",
-    "date": "2026-06-25",
+    "date": "2026-06-26",
     "score": 67
   },
   {
-    "title": "What is an AI agent?",
-    "url": "https://www.langchain.com/blog/what-is-an-agent",
-    "summary": "Introducing a new series of musings on AI agents, called \"In the Loop\".",
+    "title": "Benchmarking Query Analysis in High Cardinality Situations",
+    "url": "https://www.langchain.com/blog/high-cardinality",
+    "summary": "Benchmarking Query Analysis in High Cardinality Situations 是 LangChain 当日抓取到的公开新增条目。",
     "tags": [
       "agents",
       "rag",
@@ -204,91 +164,183 @@
     ],
     "author": "LangChain",
     "source": "langchain.com",
-    "date": "2026-06-25",
+    "date": "2026-06-26",
     "score": 67
   },
   {
-    "title": "How to think about agent frameworks",
-    "url": "https://www.langchain.com/blog/how-to-think-about-agent-frameworks",
-    "summary": "Learn to build reliable AI agents. Compare workflows vs agents, declarative vs imperative approaches, and why context control matters most.",
+    "title": "LlamaIndex",
+    "url": "https://www.llamaindex.ai/blog?tag=LlamaIndex",
+    "summary": "Blog · LlamaIndex",
     "tags": [
-      "agents",
       "rag",
+      "agents",
       "framework"
     ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-06-25",
+    "author": "LlamaIndex",
+    "source": "llamaindex.ai",
+    "date": "2026-06-26",
     "score": 67
   },
   {
-    "title": "Building LangGraph: Designing an Agent Runtime from first principles",
-    "url": "https://www.langchain.com/blog/building-langgraph",
-    "summary": "In this blog piece, you’ll learn why and how we built LangGraph for production agents—focusing on control, durability, and the core features needed to scale.",
+    "title": "Harshita Arora Joins YC as General Partner",
+    "url": "https://www.ycombinator.com/blog/welcome-harshita",
+    "summary": "We're thrilled to announce that Harshita Arora is joining Y Combinator as a General Partner. She brings deep fintech and infrastructure experience, a founder's instinct for product, and the perspective of someone who's been building companies since she was a teenager.",
     "tags": [
-      "agents",
-      "rag",
-      "framework"
+      "startup",
+      "product",
+      "founder"
     ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-06-25",
+    "author": "Y Combinator",
+    "source": "ycombinator.com",
+    "date": "2026-06-26",
     "score": 67
   },
   {
-    "title": "How to Choose the Right Sandbox for AI Agents",
-    "url": "https://www.langchain.com/blog/how-to-choose-the-right-sandbox-for-your-agent",
-    "summary": "Learn how to choose a secure sandbox for AI agents, with guidance on filesystem isolation, network access, resource limits, and microVMs.",
+    "title": "🎙️ How I AI: How to write AI agent loops in Claude Code and Codex + How Claude Mythos found a 15-year-old bug in Mozilla Firefox",
+    "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-to-write-ai-agent-loops",
+    "summary": "Your weekly listens from How I AI, part of the Lenny&#8217;s Podcast Network",
     "tags": [
-      "agents",
-      "rag",
-      "framework"
+      "product",
+      "growth",
+      "startup"
     ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-06-25",
+    "author": "Lenny's Newsletter",
+    "source": "lennysnewsletter.com",
+    "date": "2026-06-26",
     "score": 67
   },
   {
-    "title": "The Missing Link Between Agents and Applications",
-    "url": "https://www.langchain.com/blog/agents-and-applications",
-    "summary": "Most AI agent tools run on servers, limiting access to browser APIs, device capabilities, and frontend state. Discover how LangChain headless tools enable secure client-side tool execution for modern agent applications.",
+    "title": "What happens after coding is solved? | Fiona Fung (Manager of the Claude Code and Cowork Teams)",
+    "url": "https://www.lennysnewsletter.com/p/building-the-most-ai-pilled-engineering",
+    "summary": "Listen now | Fiona Fung on leading the Claude Code and Cowork teams, and how to maintain culture when roles are blurring and agents are everywhere",
     "tags": [
-      "agents",
-      "rag",
-      "framework"
+      "product",
+      "growth",
+      "startup"
     ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-06-25",
+    "author": "Lenny's Newsletter",
+    "source": "lennysnewsletter.com",
+    "date": "2026-06-26",
     "score": 67
   },
   {
-    "title": "Model Neutrality: Why Avoiding AI Vendor Lock-In Matters",
-    "url": "https://www.langchain.com/blog/model-neutrality",
-    "summary": "Explore why model neutrality is critical for AI agents. Learn how labs lock you in at the harness layer—and why a neutral, open-source framework is the answer.",
+    "title": "Introducing computer use in Gemini 3.5 Flash",
+    "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash",
+    "summary": "Introducing computer use in Gemini 3.5 Flash 是 Google DeepMind 当日抓取到的公开新增条目。",
     "tags": [
-      "agents",
-      "rag",
-      "framework"
+      "research",
+      "multimodal",
+      "science",
+      "official"
     ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-06-25",
-    "score": 67
+    "author": "Google DeepMind",
+    "source": "deepmind.google",
+    "date": "2026-06-26",
+    "score": 66
   },
   {
-    "title": "April 2026: LangChain Newsletter",
-    "url": "https://www.langchain.com/blog/april-2026-langchain-newsletter",
-    "summary": "April means we're officially counting down to Interrupt. We’ve got two more meetups on the agent improvement loop before April officially closes out in New York and San Francisco. RSVP while seats still last!",
+    "title": "DiffusionGemma: 4x faster text generation",
+    "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation",
+    "summary": "DiffusionGemma: 4x faster text generation 是 Google DeepMind 当日抓取到的公开新增条目。",
     "tags": [
-      "agents",
-      "rag",
-      "framework"
+      "research",
+      "multimodal",
+      "science",
+      "official"
     ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-06-25",
-    "score": 67
+    "author": "Google DeepMind",
+    "source": "deepmind.google",
+    "date": "2026-06-26",
+    "score": 66
+  },
+  {
+    "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+    "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model",
+    "summary": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model 是 Google DeepMind 当日抓取到的公开新增条目。",
+    "tags": [
+      "research",
+      "multimodal",
+      "science",
+      "official"
+    ],
+    "author": "Google DeepMind",
+    "source": "deepmind.google",
+    "date": "2026-06-26",
+    "score": 66
+  },
+  {
+    "title": "Powering the future of robotics in Europe",
+    "url": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe",
+    "summary": "Powering the future of robotics in Europe 是 Google DeepMind 当日抓取到的公开新增条目。",
+    "tags": [
+      "research",
+      "multimodal",
+      "science",
+      "official"
+    ],
+    "author": "Google DeepMind",
+    "source": "deepmind.google",
+    "date": "2026-06-26",
+    "score": 66
+  },
+  {
+    "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+    "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks",
+    "summary": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks 是 Google DeepMind 当日抓取到的公开新增条目。",
+    "tags": [
+      "research",
+      "multimodal",
+      "science",
+      "official"
+    ],
+    "author": "Google DeepMind",
+    "source": "deepmind.google",
+    "date": "2026-06-26",
+    "score": 66
+  },
+  {
+    "title": "Fast-tracking genetic leads to reverse cellular aging",
+    "url": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging",
+    "summary": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
+    "tags": [
+      "research",
+      "multimodal",
+      "science",
+      "official"
+    ],
+    "author": "Google DeepMind",
+    "source": "deepmind.google",
+    "date": "2026-06-26",
+    "score": 66
+  },
+  {
+    "title": "Introducing Gemini Omni",
+    "url": "https://deepmind.google/blog/introducing-gemini-omni",
+    "summary": "Introducing Gemini Omni 是 Google DeepMind 当日抓取到的公开新增条目。",
+    "tags": [
+      "research",
+      "multimodal",
+      "science",
+      "official"
+    ],
+    "author": "Google DeepMind",
+    "source": "deepmind.google",
+    "date": "2026-06-26",
+    "score": 66
+  },
+  {
+    "title": "Introducing Google Antigravity 2.0",
+    "url": "https://deepmind.google/blog/introducing-google-antigravity-2-0",
+    "summary": "Introducing Google Antigravity 2.0 是 Google DeepMind 当日抓取到的公开新增条目。",
+    "tags": [
+      "research",
+      "multimodal",
+      "science",
+      "official"
+    ],
+    "author": "Google DeepMind",
+    "source": "deepmind.google",
+    "date": "2026-06-26",
+    "score": 66
   }
 ]

@@ -3996,5 +3996,245 @@
     "cluster_id": "langchain_com_b9cc07b4",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_cb5698f62d06abf4",
+    "canonical_url": "https://openai.com/index/how-agents-are-transforming-work",
+    "dedupe_key": "a3edec055c9164cb",
+    "title": "How agents are transforming work",
+    "issue_date": "2026-06-26",
+    "cluster_id": "openai_com_114a130f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_72e4cf2ffb171e48",
+    "canonical_url": "https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks",
+    "dedupe_key": "a1d2279504618fa6",
+    "title": "Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks",
+    "issue_date": "2026-06-26",
+    "cluster_id": "github_blog_c7bb5549",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_368199124a05eb5e",
+    "canonical_url": "https://vercel.com/blog/ai-sdk-7",
+    "dedupe_key": "0fcf3372254d5e6f",
+    "title": "AI SDK 7",
+    "issue_date": "2026-06-26",
+    "cluster_id": "vercel_com_774f9471",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_09708b3dce8eca90",
+    "canonical_url": "https://vercel.com/blog/teaching-agents-product-design-at-vercel",
+    "dedupe_key": "b2d775e41108362f",
+    "title": "Teaching agents product design at Vercel",
+    "issue_date": "2026-06-26",
+    "cluster_id": "vercel_com_6933614a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7ae3d1d680e774f4",
+    "canonical_url": "https://vercel.com/changelog/ai-sdk-7",
+    "dedupe_key": "8680e22a437668b5",
+    "title": "AI SDK 7 is now available",
+    "issue_date": "2026-06-26",
+    "cluster_id": "vercel_com_cb52b880",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9972528f647d3117",
+    "canonical_url": "https://vercel.com/changelog/deepagents-and-opencode-harness-adapters",
+    "dedupe_key": "a1521e66f11a12f0",
+    "title": "Deep Agents and OpenCode are now available in the AI SDK Harness",
+    "issue_date": "2026-06-26",
+    "cluster_id": "vercel_com_7c3d599e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_072d070f5cb397b1",
+    "canonical_url": "https://www.langchain.com/blog/full-text-search-in-smithdb-constructing-and-querying-our-inverted-index-pt-2",
+    "dedupe_key": "3d4ca69061a046e3",
+    "title": "How we built SmithDB’s inverted index for full-text search",
+    "issue_date": "2026-06-26",
+    "cluster_id": "langchain_com_49b9b3fb",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_62832e2b3f744087",
+    "canonical_url": "https://www.langchain.com/blog/why-the-best-agents-are-simpler-than-you-think-sierra-max-agency-podcast",
+    "dedupe_key": "22e4dbca37eee17e",
+    "title": "Why the Best AI Agents Are Simple: Sierra’s Zack Reneau-Wedeen on the Max Agency Podcast",
+    "issue_date": "2026-06-26",
+    "cluster_id": "langchain_com_e15620de",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9ae647ca9717b707",
+    "canonical_url": "https://www.langchain.com/blog/introducing-llm-gateway",
+    "dedupe_key": "f8766c19a18708f6",
+    "title": "LangSmith LLM Gateway: runtime governance built into the agent lifecycle",
+    "issue_date": "2026-06-26",
+    "cluster_id": "langchain_com_98e8207f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b61c7d5d69a99988",
+    "canonical_url": "https://www.langchain.com/blog/introducing-context-hub",
+    "dedupe_key": "31f706cdced2dab9",
+    "title": "Introducing LangSmith Context Hub",
+    "issue_date": "2026-06-26",
+    "cluster_id": "langchain_com_5f019eca",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5727afafa9d72815",
+    "canonical_url": "https://www.langchain.com/blog/open-swe-an-open-source-framework-for-internal-coding-agents",
+    "dedupe_key": "1bfa1904332b9788",
+    "title": "Open SWE: An Open-Source Framework for Internal Coding Agents",
+    "issue_date": "2026-06-26",
+    "cluster_id": "langchain_com_4ef8ab61",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b9c6900525295624",
+    "canonical_url": "https://www.langchain.com/blog/high-cardinality",
+    "dedupe_key": "4be6736ef68a80e3",
+    "title": "Benchmarking Query Analysis in High Cardinality Situations",
+    "issue_date": "2026-06-26",
+    "cluster_id": "langchain_com_b728cd56",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_aa404ec02bd70ae3",
+    "canonical_url": "https://www.llamaindex.ai/blog?tag=LlamaIndex",
+    "dedupe_key": "3b9fce6721c8b9be",
+    "title": "LlamaIndex",
+    "issue_date": "2026-06-26",
+    "cluster_id": "llamaindex_ai_2086d0f7",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_de877b670d5dfadb",
+    "canonical_url": "https://www.ycombinator.com/blog/welcome-harshita",
+    "dedupe_key": "c80951f8b63aba4c",
+    "title": "Harshita Arora Joins YC as General Partner",
+    "issue_date": "2026-06-26",
+    "cluster_id": "ycombinator_com_375a28e8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_80791fe778023d6c",
+    "canonical_url": "https://www.lennysnewsletter.com/p/how-i-ai-how-to-write-ai-agent-loops",
+    "dedupe_key": "a77ec8a6d397457f",
+    "title": "🎙️ How I AI: How to write AI agent loops in Claude Code and Codex + How Claude Mythos found a 15-year-old bug in Mozilla Firefox",
+    "issue_date": "2026-06-26",
+    "cluster_id": "lennysnewsletter_com_90e905e3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2e045a7452cb020c",
+    "canonical_url": "https://www.lennysnewsletter.com/p/building-the-most-ai-pilled-engineering",
+    "dedupe_key": "fa7bda7f782532d9",
+    "title": "What happens after coding is solved? | Fiona Fung (Manager of the Claude Code and Cowork Teams)",
+    "issue_date": "2026-06-26",
+    "cluster_id": "lennysnewsletter_com_647141c4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e525bcc29211410e",
+    "canonical_url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash",
+    "dedupe_key": "ca79721f2408aafa",
+    "title": "Introducing computer use in Gemini 3.5 Flash",
+    "issue_date": "2026-06-26",
+    "cluster_id": "deepmind_google_0fa85b72",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_040a70c8929102c5",
+    "canonical_url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation",
+    "dedupe_key": "490cb2914a353d7d",
+    "title": "DiffusionGemma: 4x faster text generation",
+    "issue_date": "2026-06-26",
+    "cluster_id": "deepmind_google_d4ff9244",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_cf67775d692cfb93",
+    "canonical_url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model",
+    "dedupe_key": "f290f8880614a62a",
+    "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+    "issue_date": "2026-06-26",
+    "cluster_id": "deepmind_google_59b9a346",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2bd6dca1aed178d5",
+    "canonical_url": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe",
+    "dedupe_key": "57c83d808c622bf8",
+    "title": "Powering the future of robotics in Europe",
+    "issue_date": "2026-06-26",
+    "cluster_id": "deepmind_google_52621057",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0b92bc72c45c93fb",
+    "canonical_url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks",
+    "dedupe_key": "a08a0a196c023532",
+    "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+    "issue_date": "2026-06-26",
+    "cluster_id": "deepmind_google_27574447",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9e2869a970dbc294",
+    "canonical_url": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging",
+    "dedupe_key": "7aa6c910a871c3d9",
+    "title": "Fast-tracking genetic leads to reverse cellular aging",
+    "issue_date": "2026-06-26",
+    "cluster_id": "deepmind_google_a9003afe",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d9f2074b4231cbaf",
+    "canonical_url": "https://deepmind.google/blog/introducing-gemini-omni",
+    "dedupe_key": "484bb59d032ef4b8",
+    "title": "Introducing Gemini Omni",
+    "issue_date": "2026-06-26",
+    "cluster_id": "deepmind_google_b467bf99",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8d9b879c9defdb76",
+    "canonical_url": "https://deepmind.google/blog/introducing-google-antigravity-2-0",
+    "dedupe_key": "ef65cf0fd965c040",
+    "title": "Introducing Google Antigravity 2.0",
+    "issue_date": "2026-06-26",
+    "cluster_id": "deepmind_google_42098748",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
