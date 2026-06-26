@@ -1,0 +1,12 @@
+---
+const { tags = [], limit = 6 } = Astro.props;
+const safeTags = Array.isArray(tags) ? tags.filter(Boolean) : [];
+const visibleTags = safeTags.slice(0, limit);
+const hiddenCount = Math.max(0, safeTags.length - visibleTags.length);
+---
+{visibleTags.length ? (
+  <div class="tags" aria-label="Tags">
+    {visibleTags.map((tag) => <span class="tag">{tag}</span>)}
+    {hiddenCount ? <span class="tag tag--more">+{hiddenCount}</span> : null}
+  </div>
+) : null}
