@@ -4236,5 +4236,215 @@
     "cluster_id": "deepmind_google_42098748",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_212dc3ed3569aecd",
+    "canonical_url": "https://openai.com/index/previewing-gpt-5-6-sol",
+    "dedupe_key": "7b4b110d909dc775",
+    "title": "Previewing GPT-5.6 Sol: a next-generation model",
+    "issue_date": "2026-06-27",
+    "cluster_id": "openai_com_15a05196",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5e450cd33f9a0415",
+    "canonical_url": "https://vercel.com/changelog/query-web-analytics-from-the-vercel-cli",
+    "dedupe_key": "82e4465ebf0f7ff5",
+    "title": "Query Web Analytics from the Vercel CLI",
+    "issue_date": "2026-06-27",
+    "cluster_id": "vercel_com_d142b598",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_63fc660ae15c2517",
+    "canonical_url": "https://vercel.com/changelog/eve-agent-observability",
+    "dedupe_key": "9ee159e598591694",
+    "title": "Trace and debug eve agent sessions with Vercel Observability",
+    "issue_date": "2026-06-27",
+    "cluster_id": "vercel_com_2325a50d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6b03022c58dfa3c0",
+    "canonical_url": "https://developer.nvidia.com/blog/deploy-a-production-ready-nvidia-ai-q-blueprint-on-oracle-cloud-infrastructure",
+    "dedupe_key": "7439de312e3dc1c6",
+    "title": "Deploy a Production-Ready NVIDIA AI-Q Blueprint on Oracle Cloud Infrastructure",
+    "issue_date": "2026-06-27",
+    "cluster_id": "developer_nvidia_com_22389513",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f088240ac9ea3242",
+    "canonical_url": "https://github.blog/open-source/social-impact/github-and-undp-team-up-to-advance-development-priorities-in-ghana-with-open-source",
+    "dedupe_key": "7f9f977fcf72f9a3",
+    "title": "GitHub and UNDP team up to advance development priorities in Ghana with open source",
+    "issue_date": "2026-06-27",
+    "cluster_id": "github_blog_365ab5aa",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6c92d87e402da1f6",
+    "canonical_url": "https://github.blog/developer-skills/career-growth/transitioning-as-a-hubber",
+    "dedupe_key": "b8296f3cfda93a8b",
+    "title": "Transitioning as a Hubber",
+    "issue_date": "2026-06-27",
+    "cluster_id": "github_blog_a615a683",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_de89bca39866be03",
+    "canonical_url": "https://deepmind.google/blog/making-it-easier-to-understand-how-content-was-created-and-edited",
+    "dedupe_key": "440148f0cb5d9bb7",
+    "title": "Making it easier to understand how content was created and edited",
+    "issue_date": "2026-06-27",
+    "cluster_id": "deepmind_google_7954c73c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6522e70f2f72c936",
+    "canonical_url": "https://deepmind.google/blog/finding-the-molecular-switches-behind-new-infectious-diseases",
+    "dedupe_key": "01b0307d1166cd32",
+    "title": "Finding the molecular switches behind new infectious diseases",
+    "issue_date": "2026-06-27",
+    "cluster_id": "deepmind_google_986cec57",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c35a6f5ca0457d69",
+    "canonical_url": "https://deepmind.google/blog/opening-new-paths-in-aging-research",
+    "dedupe_key": "094fd35e5b3f89cc",
+    "title": "Opening new paths in aging research",
+    "issue_date": "2026-06-27",
+    "cluster_id": "deepmind_google_d0edb9c9",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3e12cba51c3a006a",
+    "canonical_url": "https://deepmind.google/blog/uniting-biological-toolkits-for-a-new-approach-to-als",
+    "dedupe_key": "0ce97d2e63a78a4f",
+    "title": "Uniting biological toolkits for a new approach to ALS",
+    "issue_date": "2026-06-27",
+    "cluster_id": "deepmind_google_faf957aa",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8ecbcfe88e394116",
+    "canonical_url": "https://deepmind.google/blog/uncovering-repurposed-medicines-to-fight-liver-fibrosis",
+    "dedupe_key": "4312d39cd572dd44",
+    "title": "Uncovering repurposed medicines to fight liver fibrosis",
+    "issue_date": "2026-06-27",
+    "cluster_id": "deepmind_google_6448ebcd",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8d6fe26b26c1aa40",
+    "canonical_url": "https://deepmind.google/blog/10-years-of-alphago",
+    "dedupe_key": "696302053e4f76ad",
+    "title": "From games to biology and beyond: 10 years of AlphaGo’s impact",
+    "issue_date": "2026-06-27",
+    "cluster_id": "deepmind_google_692b218f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3dfc03d36d8e7bdf",
+    "canonical_url": "https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale",
+    "dedupe_key": "10bd7f9292d91fa8",
+    "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
+    "issue_date": "2026-06-27",
+    "cluster_id": "deepmind_google_ff9388a3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_81d33d68c3ae8cc8",
+    "canonical_url": "https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks",
+    "dedupe_key": "2be88f081205df43",
+    "title": "Gemini 3.1 Pro: A smarter model for your most complex tasks",
+    "issue_date": "2026-06-27",
+    "cluster_id": "deepmind_google_48fee958",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7f0c2c398889d2a8",
+    "canonical_url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music",
+    "dedupe_key": "c0d39b7b342c7d97",
+    "title": "A new way to express yourself: Gemini can now create music",
+    "issue_date": "2026-06-27",
+    "cluster_id": "deepmind_google_a0e24650",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1081be7f373a826d",
+    "canonical_url": "https://deepmind.google/blog/veo-3-1-ingredients-to-video-more-consistency-creativity-and-control",
+    "dedupe_key": "253025f76abc0570",
+    "title": "Veo 3.1 Ingredients to Video: More consistency, creativity and control",
+    "issue_date": "2026-06-27",
+    "cluster_id": "deepmind_google_42697d77",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c96584a9f96f207e",
+    "canonical_url": "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025",
+    "dedupe_key": "9d24034f7dbc8db3",
+    "title": "Google's year in review: 8 areas with research breakthroughs in 2025",
+    "issue_date": "2026-06-27",
+    "cluster_id": "deepmind_google_b6ee82cc",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8198cda996d49620",
+    "canonical_url": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed",
+    "dedupe_key": "c77649ea25edd7da",
+    "title": "Gemini 3 Flash: frontier intelligence built for speed",
+    "issue_date": "2026-06-27",
+    "cluster_id": "deepmind_google_77a59f72",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6cf50fa95d5bf546",
+    "canonical_url": "https://deepmind.google/blog/improved-gemini-audio-models-for-powerful-voice-experiences",
+    "dedupe_key": "7fd70388ab81cfc0",
+    "title": "Improved Gemini audio models for powerful voice experiences",
+    "issue_date": "2026-06-27",
+    "cluster_id": "deepmind_google_c87c7331",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8fc2e7be11f6c33e",
+    "canonical_url": "https://deepmind.google/blog/engineering-more-resilient-crops-for-a-warming-climate",
+    "dedupe_key": "1a7f4cc94d2b84e2",
+    "title": "Engineering more resilient crops for a warming climate",
+    "issue_date": "2026-06-27",
+    "cluster_id": "deepmind_google_52adb189",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f98bcd153f8d7fa1",
+    "canonical_url": "https://deepmind.google/blog/alphafold-five-years-of-impact",
+    "dedupe_key": "950081f5af5c5e9a",
+    "title": "AlphaFold: Five years of impact",
+    "issue_date": "2026-06-27",
+    "cluster_id": "deepmind_google_fee543a9",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
