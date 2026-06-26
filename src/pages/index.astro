@@ -1,7 +1,10 @@
 ---
 import fs from 'node:fs';
 import BaseLayout from '../layouts/BaseLayout.astro';
-import ItemCard from '../components/ItemCard.astro';
+import HeroSignalPanel from '../components/HeroSignalPanel.astro';
+import TodayReadout from '../components/TodayReadout.astro';
+import SectionHeader from '../components/SectionHeader.astro';
+import SignalCard from '../components/SignalCard.astro';
 const readJson = (p, fallback) => fs.existsSync(p) ? JSON.parse(fs.readFileSync(p, 'utf8')) : fallback;
 const empty = { metadata:{issue_date:'pending',sources_scanned:0,candidates_count:0,selected_count:0,duplicates_blocked:0,generated_at:''}, summary:{one_liner:'等待首次 daily 流水线生成。'}, must_read:[], worth_reading:[], signal_watch:[], hot_rank:[] };
 const publicLatest = readJson('public/index-data/latest.json', empty);
@@ -11,39 +14,44 @@ const fallbackDate = publicLatest.metadata?.issue_date || issuesIndex[0]?.date;
 const frozenIssue = fallbackDate ? readJson(`data/issues/${fallbackDate}.json`, publicLatest) : publicLatest;
 const latest = selectedPublic.length ? publicLatest : frozenIssue;
 const selected = [...(latest.must_read||[]), ...(latest.worth_reading||[]), ...(latest.signal_watch||[])];
+const mustRead = latest.must_read || [];
+const worthReading = latest.worth_reading || [];
+const signalWatch = latest.signal_watch || [];
 ---
-<BaseLayout title="X Signal Source | 今日高价值信号源">
-  <section class="hero shell">
-    <span class="eyebrow">Daily · Public sources only</span>
-    <h1>Today’s X Signal Source</h1>
-    <p>{latest.summary?.one_liner}</p>
-    {latest.metadata?.initial_source_index && <div class="notice">本期为初始来源索引，不伪装成真实抓取新闻；后续每日从公开 RSS、博客、GitHub、播客和人工维护 seed 中增量更新。</div>}
-    <div class="stats">
-      <div class="stat"><b>{latest.metadata?.sources_scanned ?? 0}</b><span>Sources tracked</span></div>
-      <div class="stat"><b>{latest.metadata?.candidates_count ?? 0}</b><span>Candidates scanned</span></div>
-      <div class="stat"><b>{latest.metadata?.selected_count ?? selected.length}</b><span>Selected today</span></div>
-      <div class="stat"><b>{latest.metadata?.duplicates_blocked ?? 0}</b><span>Duplicate blocked</span></div>
-      <div class="stat"><b>{latest.metadata?.issue_date}</b><span>Latest issue</span></div>
-    </div>
-    <div class="actions">
-      <a class="btn primary" href="/issues/latest/">打开最新一期</a>
-      <a class="btn" href="/sources/">查看来源库</a>
-      <a class="btn" href="/about/">查看评分与去重规则</a>
-    </div>
+<BaseLayout title="Today’s Signal Source | 今日高价值信号源" description="每日整理公开来源中的 AI、科技、产品、创业、投资与研究高信号内容，保留来源索引、候选筛选、证据链回链与静态归档。">
+  <HeroSignalPanel latest={latest} selectedCount={selected.length} />
+  <TodayReadout latest={latest} />
+
+  <section class="section shell section--featured" aria-labelledby="must-read-title">
+    <SectionHeader headingId="must-read-title" kicker="Priority 01" title="Must Read" description="综合评分 85–100，每期优先呈现最值得立即阅读的高价值信号。" count={mustRead.length} actionHref="/issues/latest/" actionText="综合排序" />
+    {mustRead.length > 0 ? (
+      <div class="grid grid--featured">
+        {mustRead.map((item, index) => <SignalCard item={item} variant="featured" rank={index + 1} />)}
+      </div>
+    ) : (
+      <div class="panel empty-state"><p>等待首次 daily 流水线生成 Must Read 信号。</p></div>
+    )}
   </section>
 
-  <section class="section shell">
-    <div class="section-head"><div><h2>Must Read</h2><p>综合评分 85–100，每期最多 8 条。</p></div><a class="btn" href="/issues/latest/">综合排序</a></div>
-    <div class="grid">{(latest.must_read||[]).map((item) => <ItemCard item={item} />)}</div>
+  <section class="section shell" aria-labelledby="worth-reading-title">
+    <SectionHeader headingId="worth-reading-title" kicker="Priority 02" title="Worth Reading" description="适合快速扫读与延伸复盘，保留具体判断和证据链。" count={worthReading.slice(0, 6).length} />
+    {worthReading.length > 0 ? (
+      <div class="grid grid--compact">
+        {worthReading.slice(0, 6).map((item, index) => <SignalCard item={item} variant="compact" rank={index + 1} />)}
+      </div>
+    ) : (
+      <div class="panel empty-state"><p>暂无 Worth Reading 信号。</p></div>
+    )}
   </section>
 
-  <section class="section shell">
-    <div class="section-head"><div><h2>Worth Reading</h2><p>综合评分 70–84，保留具体判断与证据链。</p></div></div>
-    <div class="grid">{(latest.worth_reading||[]).slice(0,6).map((item) => <ItemCard item={item} compact />)}</div>
-  </section>
-
-  <section class="section shell">
-    <div class="section-head"><div><h2>Signal Watch</h2><p>综合评分 55–69，用于观察趋势是否继续增强。</p></div></div>
-    <div class="grid">{(latest.signal_watch||[]).slice(0,6).map((item) => <ItemCard item={item} compact />)}</div>
+  <section class="section shell section--watch" aria-labelledby="signal-watch-title">
+    <SectionHeader headingId="signal-watch-title" kicker="Priority 03" title="Signal Watch" description="弱信号观察池：不夸大，但保留继续追踪价值。" count={signalWatch.slice(0, 6).length} />
+    {signalWatch.length > 0 ? (
+      <div class="grid grid--watch">
+        {signalWatch.slice(0, 6).map((item, index) => <SignalCard item={item} variant="watch" rank={index + 1} />)}
+      </div>
+    ) : (
+      <div class="panel empty-state"><p>暂无 Signal Watch 信号。</p></div>
+    )}
   </section>
 </BaseLayout>
