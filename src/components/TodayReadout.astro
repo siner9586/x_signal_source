@@ -1,0 +1,14 @@
+---
+const { latest = {} } = Astro.props;
+const summary = latest.summary || {};
+const readout = summary.one_liner || summary.brief || summary.issue_summary || '等待首次 daily 流水线生成。';
+---
+<section class="readout shell" aria-labelledby="today-readout-title">
+  <div class="readout-card">
+    <span class="readout-icon" aria-hidden="true"></span>
+    <div>
+      <p class="readout-kicker" id="today-readout-title">Today’s Readout</p>
+      <p class="readout-text">{readout}</p>
+    </div>
+  </div>
+</section>
