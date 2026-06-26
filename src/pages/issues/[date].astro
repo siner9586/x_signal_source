@@ -2,7 +2,9 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import BaseLayout from '../../layouts/BaseLayout.astro';
-import ItemCard from '../../components/ItemCard.astro';
+import MetricStrip from '../../components/MetricStrip.astro';
+import SectionHeader from '../../components/SectionHeader.astro';
+import SignalCard from '../../components/SignalCard.astro';
 export function getStaticPaths() {
   const dir = 'data/issues';
   if (!fs.existsSync(dir)) return [];
@@ -12,21 +14,24 @@ export function getStaticPaths() {
   });
 }
 const { issue } = Astro.props;
+const metrics = [
+  { label: 'Sources', value: issue.metadata.sources_scanned, primary: true },
+  { label: 'Candidates', value: issue.metadata.candidates_count },
+  { label: 'Selected', value: issue.metadata.selected_count },
+  { label: 'Duplicates', value: issue.metadata.duplicates_blocked },
+  { label: 'Timezone', value: issue.metadata.timezone || 'BJT', date: true }
+];
 ---
-<BaseLayout title={`Issue ${issue.metadata.issue_date} | X Signal Source`}>
-  <section class="hero shell">
-    <span class="eyebrow">Frozen Issue · {issue.metadata.issue_date}</span>
-    <h1>{issue.metadata.issue_date}</h1>
-    <p>{issue.summary.one_liner}</p>
-    <div class="stats">
-      <div class="stat"><b>{issue.metadata.sources_scanned}</b><span>Sources</span></div>
-      <div class="stat"><b>{issue.metadata.candidates_count}</b><span>Candidates</span></div>
-      <div class="stat"><b>{issue.metadata.selected_count}</b><span>Selected</span></div>
-      <div class="stat"><b>{issue.metadata.duplicates_blocked}</b><span>Duplicates</span></div>
-      <div class="stat"><b>{issue.metadata.timezone}</b><span>Timezone</span></div>
+<BaseLayout title={`Issue ${issue.metadata.issue_date} | Today’s Signal Source`}>
+  <section class="hero hero--subpage shell">
+    <div class="hero-panel">
+      <span class="eyebrow">Frozen Issue · {issue.metadata.issue_date}</span>
+      <h1>{issue.metadata.issue_date}</h1>
+      <p class="hero-lead">{issue.summary.one_liner}</p>
+      <MetricStrip metrics={metrics} />
     </div>
   </section>
-  <section class="section shell"><div class="section-head"><h2>Must Read</h2></div><div class="grid">{issue.must_read.map((item) => <ItemCard item={item} />)}</div></section>
-  <section class="section shell"><div class="section-head"><h2>Worth Reading</h2></div><div class="grid">{issue.worth_reading.map((item) => <ItemCard item={item} />)}</div></section>
-  <section class="section shell"><div class="section-head"><h2>Signal Watch</h2></div><div class="grid">{issue.signal_watch.map((item) => <ItemCard item={item} compact />)}</div></section>
+  <section class="section shell section--featured"><SectionHeader title="Must Read" count={issue.must_read.length} /><div class="grid grid--featured">{issue.must_read.map((item, index) => <SignalCard item={item} variant="featured" rank={index + 1} />)}</div></section>
+  <section class="section shell"><SectionHeader title="Worth Reading" count={issue.worth_reading.length} /><div class="grid grid--compact">{issue.worth_reading.map((item, index) => <SignalCard item={item} variant="compact" rank={index + 1} />)}</div></section>
+  <section class="section shell section--watch"><SectionHeader title="Signal Watch" count={issue.signal_watch.length} /><div class="grid grid--watch">{issue.signal_watch.map((item, index) => <SignalCard item={item} variant="watch" rank={index + 1} />)}</div></section>
 </BaseLayout>
