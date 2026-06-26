@@ -1,25 +1,6 @@
 ---
-const { item, compact = false } = Astro.props;
-const tags = item?.tags || [];
-const evidence = item?.evidence_links || [];
+import SignalCard from './SignalCard.astro';
+const { item, compact = false, variant } = Astro.props;
+const resolvedVariant = variant || (compact ? 'compact' : 'featured');
 ---
-<article class="card">
-  <div class="card-top">
-    <div>
-      <span class="badge">{item.content_type || 'source'}</span>
-      <h3>{item.title}</h3>
-      <div class="meta">{item.author || item.organization || item.source_domain} · {item.published_at || item.captured_at || ''}</div>
-    </div>
-    <div class="score">{item.total_score ?? '--'}</div>
-  </div>
-  <p>{item.summary}</p>
-  {item.reason_selected && <div class="reason">{item.reason_selected}</div>}
-  {!compact && <p class="small">可能影响：帮助判断该来源背后的产品、研究、投资或工程趋势是否正在形成可持续信号。继续追踪：官方原文、关联 GitHub、论文、播客和后续 X 讨论。</p>}
-  <div class="tags">{tags.slice(0,8).map((tag) => <span class="tag">#{tag}</span>)}</div>
-  <div class="actions">
-    {item.canonical_url && <a class="btn primary" href={item.canonical_url} target="_blank" rel="noreferrer">原始来源</a>}
-    {item.source_platform === 'x' && <span class="btn">X 发现入口</span>}
-    {item.raw_text_available === false && <span class="btn">仅索引公开链接</span>}
-    {evidence.slice(0,3).map((url) => <a class="btn" href={url} target="_blank" rel="noreferrer">证据链接</a>)}
-  </div>
-</article>
+<SignalCard item={item} variant={resolvedVariant} />
