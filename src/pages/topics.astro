@@ -1,36 +1,10 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
-const topics = [
-  ['AI Agent','智能体、computer use、多智能体、tool use、MCP 与 agentic workflow。'],
-  ['AI Coding','从 autocomplete 到 repo-level agent、软件工程智能体和开发者工作流重构。'],
-  ['Reasoning Models','推理模型、test-time compute、post-training、distillation 与 evals。'],
-  ['Multimodal','图像、视频、语音、多模态交互和生成式媒体。'],
-  ['AI Search','答案引擎、检索增强、浏览器和信息获取方式变化。'],
-  ['AI Infra','GPU、推理成本、模型服务、数据库、RAG、向量检索和部署。'],
-  ['Open Source','开放模型、GitHub 项目、社区维护者和开源商业化。'],
-  ['Startups','AI-native SaaS、vertical AI、产品发布、增长和组织形态。'],
-  ['Product','产品体验、交互范式、定价、留存、增长和用户工作流。'],
-  ['Investment','VC thesis、市场结构、公司融资、创业机会和风险判断。'],
-  ['Research','arXiv、OpenReview、Papers with Code、研究机构与 benchmark。'],
-  ['Robotics','机器人、world models、具身智能和现实世界部署。'],
-  ['Safety','AI safety、alignment、评测、治理和可验证安全实践。'],
-  ['中文 AI 观点','中文语境下的产品、技术、投资与创业观察；需人工确认高质量账号。']
-];
 ---
-<BaseLayout title="Topics | X Signal Source">
+<BaseLayout title="Topics | Today’s Signal Source">
   <section class="hero shell">
     <span class="eyebrow">Topics</span>
     <h1>主题地图</h1>
-    <p>主题不是装饰标签，而是用于聚类、去重、趋势追踪和后续复盘的稳定结构。</p>
-  </section>
-  <section class="section shell">
-    <div class="source-grid">
-      {topics.map(([name, desc]) => <article class="source-card">
-        <span class="badge">Topic</span>
-        <h3>{name}</h3>
-        <p>{desc}</p>
-        <div class="actions"><a class="btn" href={`/issues/latest/`}>查看最新相关信号</a></div>
-      </article>)}
-    </div>
+    <p>用于聚类、去重、趋势追踪和后续复盘。</p>
   </section>
 </BaseLayout>
