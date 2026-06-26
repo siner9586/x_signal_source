@@ -1,0 +1,44 @@
+---
+import TagList from './TagList.astro';
+import SourceActions from './SourceActions.astro';
+const { item = {}, variant = 'featured', rank } = Astro.props;
+const safeVariant = ['featured', 'compact', 'watch'].includes(variant) ? variant : 'featured';
+const title = item.title || item.canonical_url || 'Untitled signal';
+const score = item.total_score ?? item.score ?? '--';
+const type = item.content_type || item.source_platform || 'source';
+const source = item.author || item.organization || item.source_domain || item.source_platform || 'Public source';
+const date = item.published_at || item.captured_at || '';
+const summary = item.summary || item.description || item.one_liner || '';
+const reason = item.reason_selected || item.why_it_matters || item.reason || '';
+const tagsLimit = safeVariant === 'featured' ? 8 : 5;
+const cardClass = `signal-card signal-card--${safeVariant}`;
+---
+<article class={cardClass}>
+  <div class="signal-card__topline" aria-hidden="true"></div>
+  <div class="signal-card__head">
+    <div class="signal-card__titlegroup">
+      <div class="signal-card__badges">
+        {rank && <span class="badge badge--rank">No. {rank}</span>}
+        <span class="badge">{type}</span>
+      </div>
+      <h3>{title}</h3>
+      <div class="meta">{source}{date && ` · ${date}`}</div>
+    </div>
+    <div class="score" aria-label={`Signal score ${score}`}>
+      <span>{score}</span>
+      <small>Signal Score</small>
+    </div>
+  </div>
+
+  {summary && <p class="signal-summary">{summary}</p>}
+
+  {reason && (
+    <div class="reason">
+      <strong>Why it matters</strong>
+      <span>{reason}</span>
+    </div>
+  )}
+
+  <TagList tags={item.tags || []} limit={tagsLimit} />
+  <SourceActions item={item} />
+</article>
