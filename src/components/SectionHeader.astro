@@ -1,0 +1,14 @@
+---
+const { title, kicker, description, actionHref, actionText, count, headingId } = Astro.props;
+---
+<div class="section-head">
+  <div>
+    {kicker && <span class="section-kicker">{kicker}</span>}
+    <h2 id={headingId}>{title}</h2>
+    {description && <p>{description}</p>}
+  </div>
+  <div class="section-meta">
+    {count !== undefined && <span class="section-count">{count} signals</span>}
+    {actionHref && actionText && <a class="btn" href={actionHref}>{actionText}</a>}
+  </div>
+</div>
