@@ -1,0 +1,33 @@
+---
+import MetricStrip from './MetricStrip.astro';
+const { latest = {}, selectedCount = 0 } = Astro.props;
+const metadata = latest.metadata || {};
+const selectedToday = metadata.selected_count ?? selectedCount ?? 0;
+const metrics = [
+  { label: 'Selected today', value: selectedToday, primary: true },
+  { label: 'Latest issue', value: metadata.issue_date || 'pending', date: true },
+  { label: 'Candidates scanned', value: metadata.candidates_count ?? 0 },
+  { label: 'Duplicate blocked', value: metadata.duplicates_blocked ?? 0 },
+  { label: 'Sources tracked', value: metadata.sources_scanned ?? 0 }
+];
+---
+<section class="hero shell" id="today">
+  <div class="hero-panel">
+    <div class="hero-orbit" aria-hidden="true"></div>
+    <div class="hero-grid">
+      <div class="hero-copy">
+        <span class="eyebrow"><span class="pulse-dot" aria-hidden="true"></span>Daily · Public Sources Only</span>
+        <h1>Today’s Signal Source</h1>
+        <p class="hero-lead">A daily radar for high-signal articles, threads, research notes, product updates and founder-level insights.</p>
+        <p class="hero-sublead">每日整理公开来源中的高价值技术、产品、创业、投资与研究信号，只做索引、判断与证据链回链。</p>
+        <div class="hero-actions actions" aria-label="Primary actions">
+          <a class="btn primary" href="/issues/latest/">打开最新一期</a>
+          <a class="btn" href="/sources/">查看来源库</a>
+          <a class="btn" href="/about/">查看评分与去重规则</a>
+        </div>
+      </div>
+      <MetricStrip metrics={metrics} />
+    </div>
+    {metadata.initial_source_index && <div class="notice">本期为初始来源索引，不伪装成真实抓取新闻；后续每日从公开 RSS、博客、GitHub、播客和人工维护 seed 中增量更新。</div>}
+  </div>
+</section>
