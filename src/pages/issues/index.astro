@@ -3,11 +3,13 @@ import fs from 'node:fs';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 const issues = fs.existsSync('public/index-data/issues.json') ? JSON.parse(fs.readFileSync('public/index-data/issues.json','utf8')) : [];
 ---
-<BaseLayout title="Issues Archive | X Signal Source">
-  <section class="hero shell">
-    <span class="eyebrow">Archive</span>
-    <h1>日期归档</h1>
-    <p>每一期均保存为独立 JSON 与 Markdown，旧期不会因为 latest 更新而被覆盖或串改。</p>
+<BaseLayout title="Issues Archive | Today’s Signal Source">
+  <section class="hero hero--subpage shell">
+    <div class="hero-panel">
+      <span class="eyebrow">Archive</span>
+      <h1>日期归档</h1>
+      <p class="hero-lead">每一期均保存为独立 JSON 与 Markdown，旧期不会因为 latest 更新而被覆盖或串改。</p>
+    </div>
   </section>
   <section class="section shell">
     <div class="panel list">
