@@ -1,0 +1,11 @@
+---
+const { item = {} } = Astro.props;
+const evidence = Array.isArray(item.evidence_links) ? item.evidence_links.filter(Boolean).slice(0, 3) : [];
+---
+<div class="source-actions actions" aria-label="Source actions">
+  {item.canonical_url && <a class="btn primary" href={item.canonical_url} target="_blank" rel="noreferrer">Original</a>}
+  {item.archive_url && <a class="btn" href={item.archive_url} target="_blank" rel="noreferrer">Archive</a>}
+  {item.source_platform === 'x' && <span class="btn btn-static">X 发现入口</span>}
+  {item.raw_text_available === false && <span class="btn btn-static">仅索引公开链接</span>}
+  {evidence.map((url, index) => <a class="btn" href={url} target="_blank" rel="noreferrer">Evidence {index + 1}</a>)}
+</div>
