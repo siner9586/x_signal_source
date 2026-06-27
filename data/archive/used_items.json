@@ -4446,5 +4446,205 @@
     "cluster_id": "deepmind_google_fee543a9",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5c7a28088a1be6fd",
+    "canonical_url": "https://deepmind.google/blog/revealing-a-key-protein-behind-heart-disease",
+    "dedupe_key": "d16690cf8317fbb6",
+    "title": "Revealing a key protein behind heart disease",
+    "issue_date": "2026-06-28",
+    "cluster_id": "deepmind_google_94d0d378",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c3ef99be2caea13f",
+    "canonical_url": "https://deepmind.google/blog/build-with-nano-banana-pro-our-gemini-3-pro-image-model",
+    "dedupe_key": "fd95eec067e2c3d5",
+    "title": "Build with Nano Banana Pro, our Gemini 3 Pro Image model",
+    "issue_date": "2026-06-28",
+    "cluster_id": "deepmind_google_472d2456",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_66c3d5c62aef4416",
+    "canonical_url": "https://deepmind.google/blog/introducing-nano-banana-pro",
+    "dedupe_key": "a33e659d6598809a",
+    "title": "Introducing Nano Banana Pro",
+    "issue_date": "2026-06-28",
+    "cluster_id": "deepmind_google_bdfdadc7",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_cd6c535d30e310ac",
+    "canonical_url": "https://deepmind.google/blog/start-building-with-gemini-3",
+    "dedupe_key": "4627a90b330bbb7f",
+    "title": "Start building with Gemini 3",
+    "issue_date": "2026-06-28",
+    "cluster_id": "deepmind_google_1df47306",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_993a5bebc409bb2e",
+    "canonical_url": "https://deepmind.google/blog/a-new-era-of-intelligence-with-gemini-3",
+    "dedupe_key": "0bd2790bce99739f",
+    "title": "A new era of intelligence with Gemini 3",
+    "issue_date": "2026-06-28",
+    "cluster_id": "deepmind_google_845427ff",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6cbe24a8fe3278cc",
+    "canonical_url": "https://deepmind.google/blog/introducing-google-antigravity",
+    "dedupe_key": "aa7f599912e37abf",
+    "title": "Introducing Google Antigravity",
+    "issue_date": "2026-06-28",
+    "cluster_id": "deepmind_google_17650241",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d9d54ec3c58d818e",
+    "canonical_url": "https://deepmind.google/blog/t5gemma-a-new-collection-of-encoder-decoder-gemma-models",
+    "dedupe_key": "7ef7d09629c5fbcc",
+    "title": "T5Gemma: A new collection of encoder-decoder Gemma models",
+    "issue_date": "2026-06-28",
+    "cluster_id": "deepmind_google_fa4f3e73",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a5e1c77f55fccb7a",
+    "canonical_url": "https://deepmind.google/blog/introducing-gemma-3n-the-developer-guide",
+    "dedupe_key": "2fd1b98dc7673f82",
+    "title": "Introducing Gemma 3n: The developer guide",
+    "issue_date": "2026-06-28",
+    "cluster_id": "deepmind_google_d647c994",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a734f11434cfbd7b",
+    "canonical_url": "https://deepmind.google/blog/behind-ancestra-combining-veo-with-live-action-filmmaking",
+    "dedupe_key": "14f8db308167c422",
+    "title": "Behind “ANCESTRA”: combining Veo with live-action filmmaking",
+    "issue_date": "2026-06-28",
+    "cluster_id": "deepmind_google_a65fa4d3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_43e5480061a70584",
+    "canonical_url": "https://deepmind.google/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad",
+    "dedupe_key": "8ae3ceecac0cd5d3",
+    "title": "Advanced version of Gemini with Deep Think officially achieves gold-medal standard at the International Mathematical Olympiad",
+    "issue_date": "2026-06-28",
+    "cluster_id": "deepmind_google_332f5123",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0ac1b10ff329212e",
+    "canonical_url": "https://deepmind.google/blog/aeneas-transforms-how-historians-connect-the-past",
+    "dedupe_key": "2ea778fc52a3ec08",
+    "title": "Aeneas transforms how historians connect the past",
+    "issue_date": "2026-06-28",
+    "cluster_id": "deepmind_google_ff7ab97e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0e14800529d84d49",
+    "canonical_url": "https://deepmind.google/blog/gemini-achieves-gold-medal-level-at-the-international-collegiate-programming-contest-world-finals",
+    "dedupe_key": "f88a7b76777b01ef",
+    "title": "Gemini achieves gold-medal level at the International Collegiate Programming Contest World Finals",
+    "issue_date": "2026-06-28",
+    "cluster_id": "deepmind_google_97c1fd81",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8a9a9cb8bb0e2bd8",
+    "canonical_url": "https://deepmind.google/blog/image-editing-in-gemini-just-got-a-major-upgrade",
+    "dedupe_key": "fcfca067f3af11ec",
+    "title": "Image editing in Gemini just got a major upgrade",
+    "issue_date": "2026-06-28",
+    "cluster_id": "deepmind_google_9d6c4c6a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_963d7da5a54df70a",
+    "canonical_url": "https://deepmind.google/blog/introducing-veo-31-and-advanced-creative-capabilities",
+    "dedupe_key": "a53c4cacf2b8bbab",
+    "title": "Introducing Veo 3.1 and advanced creative capabilities",
+    "issue_date": "2026-06-28",
+    "cluster_id": "deepmind_google_8f93b752",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_af47c6be602dfc71",
+    "canonical_url": "https://deepmind.google/blog/how-a-gemma-model-helped-discover-a-new-potential-cancer-therapy-pathway",
+    "dedupe_key": "93b03bdb84b331ef",
+    "title": "How a Gemma model helped discover a new potential cancer therapy pathway",
+    "issue_date": "2026-06-28",
+    "cluster_id": "deepmind_google_f2ebef4f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d7b9e90cc21f482a",
+    "canonical_url": "https://ai.meta.com/blog",
+    "dedupe_key": "f0c2c86518f6d870",
+    "title": "AI Research",
+    "issue_date": "2026-06-28",
+    "cluster_id": "ai_meta_com_239d2e99",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_289ea5c2604faf36",
+    "canonical_url": "https://ai.meta.com/blog/introducing-muse-spark-msl",
+    "dedupe_key": "04fc994a17b7fc5f",
+    "title": "Introducing Muse Spark: Scaling Towards Personal Superintelligence",
+    "issue_date": "2026-06-28",
+    "cluster_id": "ai_meta_com_ba208582",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_37cee7bed3f89950",
+    "canonical_url": "https://ai.meta.com/blog/scaling-how-we-build-test-advanced-ai",
+    "dedupe_key": "492ed5068f6197e6",
+    "title": "Scaling How We Build and Test Our Most Advanced AI",
+    "issue_date": "2026-06-28",
+    "cluster_id": "ai_meta_com_48239762",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1809afe079e78823",
+    "canonical_url": "https://ai.meta.com/blog/alta-daily-fashion-app-segment-anything",
+    "dedupe_key": "c4ad387fbf095c6e",
+    "title": "How Alta Daily Uses Meta’s Segment Anything to Reimagine the Digital Closet",
+    "issue_date": "2026-06-28",
+    "cluster_id": "ai_meta_com_2a8ddb3a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7f2878e38aad16f4",
+    "canonical_url": "https://ai.meta.com/blog/meta-mtia-scale-ai-chips-for-billions",
+    "dedupe_key": "19023132a83a775a",
+    "title": "Four MTIA Chips in Two Years: Scaling AI Experiences for Billions",
+    "issue_date": "2026-06-28",
+    "cluster_id": "ai_meta_com_4c4debaa",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]

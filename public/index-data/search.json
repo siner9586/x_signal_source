@@ -1,91 +1,8 @@
 [
   {
-    "title": "Previewing GPT-5.6 Sol: a next-generation model",
-    "url": "https://openai.com/index/previewing-gpt-5-6-sol",
-    "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-06-27",
-    "score": 70
-  },
-  {
-    "title": "Query Web Analytics from the Vercel CLI",
-    "url": "https://vercel.com/changelog/query-web-analytics-from-the-vercel-cli",
-    "summary": "You can now query Web Analytics datapoints directly through the Vercel CLI. Using the vercel metrics command, you can pull page views, visitors, and custom events for your Vercel projects to analyze traffic, compare trends, and answer questions about site performance. By providing a coding agent access to the CLI, an agent can answer questions such as: Which pages gained the most traffic this week? Which UTM campaigns drove the most signups this month? Compare conversion even",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-06-27",
-    "score": 69
-  },
-  {
-    "title": "Trace and debug eve agent sessions with Vercel Observability",
-    "url": "https://vercel.com/changelog/eve-agent-observability",
-    "summary": "You can now view Agent Runs in your Vercel dashboard for eve , the open-source agent framework. The Agent Runs tab appears automatically for every eve project, surfacing trigger, duration, and token usage for each session at a glance. Drill into any run to inspect every turn, model call, and tool call in the conversation. Runtime errors that previously vanished into function logs now correlate to the failing step. Two views read the same data: Developer mode shows raw tool na",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-06-27",
-    "score": 69
-  },
-  {
-    "title": "Deploy a Production-Ready NVIDIA AI-Q Blueprint on Oracle Cloud Infrastructure",
-    "url": "https://developer.nvidia.com/blog/deploy-a-production-ready-nvidia-ai-q-blueprint-on-oracle-cloud-infrastructure",
-    "summary": "NVIDIA Technical Blog · Deploy a Production-Ready NVIDIA AI-Q Blueprint on Oracle Cloud Infrastructure",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-06-27",
-    "score": 67
-  },
-  {
-    "title": "GitHub and UNDP team up to advance development priorities in Ghana with open source",
-    "url": "https://github.blog/open-source/social-impact/github-and-undp-team-up-to-advance-development-priorities-in-ghana-with-open-source",
-    "summary": "GitHub joined the United Nations Development Programme in Ghana to explore how open source governance can support one of West Africa's most ambitious digital reform efforts. The post GitHub and UNDP team up to advance development priorities in Ghana with open source appeared first on The GitHub Blog .",
-    "tags": [
-      "ai_coding",
-      "developer_tools"
-    ],
-    "author": "GitHub Copilot",
-    "source": "github.blog",
-    "date": "2026-06-27",
-    "score": 67
-  },
-  {
-    "title": "Transitioning as a Hubber",
-    "url": "https://github.blog/developer-skills/career-growth/transitioning-as-a-hubber",
-    "summary": "How GitHub's culture and benefits helped me be the best version of myself. The post Transitioning as a Hubber appeared first on The GitHub Blog .",
-    "tags": [
-      "ai_coding",
-      "developer_tools"
-    ],
-    "author": "GitHub Copilot",
-    "source": "github.blog",
-    "date": "2026-06-27",
-    "score": 67
-  },
-  {
-    "title": "Making it easier to understand how content was created and edited",
-    "url": "https://deepmind.google/blog/making-it-easier-to-understand-how-content-was-created-and-edited",
-    "summary": "We're expanding our tools to help you understand how content was created and edited across the web.",
+    "title": "Revealing a key protein behind heart disease",
+    "url": "https://deepmind.google/blog/revealing-a-key-protein-behind-heart-disease",
+    "summary": "AlphaFold has revealed the structure of a key protein behind heart disease",
     "tags": [
       "research",
       "multimodal",
@@ -94,13 +11,13 @@
     ],
     "author": "Google DeepMind",
     "source": "deepmind.google",
-    "date": "2026-06-27",
+    "date": "2026-06-28",
     "score": 66
   },
   {
-    "title": "Finding the molecular switches behind new infectious diseases",
-    "url": "https://deepmind.google/blog/finding-the-molecular-switches-behind-new-infectious-diseases",
-    "summary": "Clare Bryant uses Co-Scientist to identify genetic triggers in emerging infectious diseases.",
+    "title": "Build with Nano Banana Pro, our Gemini 3 Pro Image model",
+    "url": "https://deepmind.google/blog/build-with-nano-banana-pro-our-gemini-3-pro-image-model",
+    "summary": "Build with Nano Banana Pro, our Gemini 3 Pro Image model 是 Google DeepMind 当日抓取到的公开新增条目。",
     "tags": [
       "research",
       "multimodal",
@@ -109,13 +26,13 @@
     ],
     "author": "Google DeepMind",
     "source": "deepmind.google",
-    "date": "2026-06-27",
+    "date": "2026-06-28",
     "score": 66
   },
   {
-    "title": "Opening new paths in aging research",
-    "url": "https://deepmind.google/blog/opening-new-paths-in-aging-research",
-    "summary": "Calico Life Sciences uses Co-Scientist to connect scattered findings and generate new leads in aging research.",
+    "title": "Introducing Nano Banana Pro",
+    "url": "https://deepmind.google/blog/introducing-nano-banana-pro",
+    "summary": "Introducing Nano Banana Pro 是 Google DeepMind 当日抓取到的公开新增条目。",
     "tags": [
       "research",
       "multimodal",
@@ -124,13 +41,13 @@
     ],
     "author": "Google DeepMind",
     "source": "deepmind.google",
-    "date": "2026-06-27",
+    "date": "2026-06-28",
     "score": 66
   },
   {
-    "title": "Uniting biological toolkits for a new approach to ALS",
-    "url": "https://deepmind.google/blog/uniting-biological-toolkits-for-a-new-approach-to-als",
-    "summary": "Co-Scientist unites Boston Children’s Hospital and MIT’s labs to explore new RNA-based treatments for ALS.",
+    "title": "Start building with Gemini 3",
+    "url": "https://deepmind.google/blog/start-building-with-gemini-3",
+    "summary": "Start building with Gemini 3 是 Google DeepMind 当日抓取到的公开新增条目。",
     "tags": [
       "research",
       "multimodal",
@@ -139,13 +56,13 @@
     ],
     "author": "Google DeepMind",
     "source": "deepmind.google",
-    "date": "2026-06-27",
+    "date": "2026-06-28",
     "score": 66
   },
   {
-    "title": "Uncovering repurposed medicines to fight liver fibrosis",
-    "url": "https://deepmind.google/blog/uncovering-repurposed-medicines-to-fight-liver-fibrosis",
-    "summary": "Stanford geneticist uses Co-Scientist to help find new treatments for chronic liver disease and liver fibrosis.",
+    "title": "A new era of intelligence with Gemini 3",
+    "url": "https://deepmind.google/blog/a-new-era-of-intelligence-with-gemini-3",
+    "summary": "A new era of intelligence with Gemini 3 是 Google DeepMind 当日抓取到的公开新增条目。",
     "tags": [
       "research",
       "multimodal",
@@ -154,13 +71,13 @@
     ],
     "author": "Google DeepMind",
     "source": "deepmind.google",
-    "date": "2026-06-27",
+    "date": "2026-06-28",
     "score": 66
   },
   {
-    "title": "From games to biology and beyond: 10 years of AlphaGo’s impact",
-    "url": "https://deepmind.google/blog/10-years-of-alphago",
-    "summary": "Ten years since AlphaGo, we explore how it is catalyzing scientific discovery and paving a path to AGI.",
+    "title": "Introducing Google Antigravity",
+    "url": "https://deepmind.google/blog/introducing-google-antigravity",
+    "summary": "Introducing Google Antigravity 是 Google DeepMind 当日抓取到的公开新增条目。",
     "tags": [
       "research",
       "multimodal",
@@ -169,13 +86,13 @@
     ],
     "author": "Google DeepMind",
     "source": "deepmind.google",
-    "date": "2026-06-27",
+    "date": "2026-06-28",
     "score": 66
   },
   {
-    "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
-    "url": "https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale",
-    "summary": "Gemini 3.1 Flash-Lite is our fastest and most cost-efficient Gemini 3 series model yet.",
+    "title": "T5Gemma: A new collection of encoder-decoder Gemma models",
+    "url": "https://deepmind.google/blog/t5gemma-a-new-collection-of-encoder-decoder-gemma-models",
+    "summary": "Introducing T5Gemma, a new collection of encoder-decoder LLMs.",
     "tags": [
       "research",
       "multimodal",
@@ -184,13 +101,13 @@
     ],
     "author": "Google DeepMind",
     "source": "deepmind.google",
-    "date": "2026-06-27",
+    "date": "2026-06-28",
     "score": 66
   },
   {
-    "title": "Gemini 3.1 Pro: A smarter model for your most complex tasks",
-    "url": "https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks",
-    "summary": "3.1 Pro is designed for tasks where a simple answer isn’t enough.",
+    "title": "Introducing Gemma 3n: The developer guide",
+    "url": "https://deepmind.google/blog/introducing-gemma-3n-the-developer-guide",
+    "summary": "Gemma 3n is designed for the developer community that helped shape Gemma.",
     "tags": [
       "research",
       "multimodal",
@@ -199,13 +116,13 @@
     ],
     "author": "Google DeepMind",
     "source": "deepmind.google",
-    "date": "2026-06-27",
+    "date": "2026-06-28",
     "score": 66
   },
   {
-    "title": "A new way to express yourself: Gemini can now create music",
-    "url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music",
-    "summary": "The Gemini app now features our most advanced music generation model Lyria 3, empowering anyone to make 30-second tracks using text or images.",
+    "title": "Behind “ANCESTRA”: combining Veo with live-action filmmaking",
+    "url": "https://deepmind.google/blog/behind-ancestra-combining-veo-with-live-action-filmmaking",
+    "summary": "We partnered with Darren Aronofsky, Eliza McNitt and a team of more than 200 people to make a film using Veo and live-action filmmaking.",
     "tags": [
       "research",
       "multimodal",
@@ -214,13 +131,13 @@
     ],
     "author": "Google DeepMind",
     "source": "deepmind.google",
-    "date": "2026-06-27",
+    "date": "2026-06-28",
     "score": 66
   },
   {
-    "title": "Veo 3.1 Ingredients to Video: More consistency, creativity and control",
-    "url": "https://deepmind.google/blog/veo-3-1-ingredients-to-video-more-consistency-creativity-and-control",
-    "summary": "Our latest Veo update generates lively, dynamic clips that feel natural and engaging — and supports vertical video generation.",
+    "title": "Advanced version of Gemini with Deep Think officially achieves gold-medal standard at the International Mathematical Olympiad",
+    "url": "https://deepmind.google/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad",
+    "summary": "The International Mathematical Olympiad (“IMO”) is the world’s most prestigious competition for young mathematicians, and has been held annually since 1959. Each country taking part is represented by six elite, pre-university mathematicians who compete to solve six exceptionally difficult problems in algebra, combinatorics, geometry, and number theory.",
     "tags": [
       "research",
       "multimodal",
@@ -229,13 +146,13 @@
     ],
     "author": "Google DeepMind",
     "source": "deepmind.google",
-    "date": "2026-06-27",
+    "date": "2026-06-28",
     "score": 66
   },
   {
-    "title": "Google's year in review: 8 areas with research breakthroughs in 2025",
-    "url": "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025",
-    "summary": "Google 2025 recap: Research breakthroughs of the year",
+    "title": "Aeneas transforms how historians connect the past",
+    "url": "https://deepmind.google/blog/aeneas-transforms-how-historians-connect-the-past",
+    "summary": "Introducing the first model for contextualizing ancient inscriptions, designed to help historians better interpret, attribute and restore fragmentary texts.",
     "tags": [
       "research",
       "multimodal",
@@ -244,13 +161,13 @@
     ],
     "author": "Google DeepMind",
     "source": "deepmind.google",
-    "date": "2026-06-27",
+    "date": "2026-06-28",
     "score": 66
   },
   {
-    "title": "Gemini 3 Flash: frontier intelligence built for speed",
-    "url": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed",
-    "summary": "Gemini 3 Flash offers frontier intelligence built for speed at a fraction of the cost.",
+    "title": "Gemini achieves gold-medal level at the International Collegiate Programming Contest World Finals",
+    "url": "https://deepmind.google/blog/gemini-achieves-gold-medal-level-at-the-international-collegiate-programming-contest-world-finals",
+    "summary": "Gemini 2.5 Deep Think achieves breakthrough performance at the world’s most prestigious computer programming competition, demonstrating a profound leap in abstract problem solving.",
     "tags": [
       "research",
       "multimodal",
@@ -259,13 +176,13 @@
     ],
     "author": "Google DeepMind",
     "source": "deepmind.google",
-    "date": "2026-06-27",
+    "date": "2026-06-28",
     "score": 66
   },
   {
-    "title": "Improved Gemini audio models for powerful voice experiences",
-    "url": "https://deepmind.google/blog/improved-gemini-audio-models-for-powerful-voice-experiences",
-    "summary": "Improved Gemini audio models for powerful voice experiences 是 Google DeepMind 当日抓取到的公开新增条目。",
+    "title": "Image editing in Gemini just got a major upgrade",
+    "url": "https://deepmind.google/blog/image-editing-in-gemini-just-got-a-major-upgrade",
+    "summary": "Transform images in amazing new ways with updated native image editing in the Gemini app.",
     "tags": [
       "research",
       "multimodal",
@@ -274,13 +191,13 @@
     ],
     "author": "Google DeepMind",
     "source": "deepmind.google",
-    "date": "2026-06-27",
+    "date": "2026-06-28",
     "score": 66
   },
   {
-    "title": "Engineering more resilient crops for a warming climate",
-    "url": "https://deepmind.google/blog/engineering-more-resilient-crops-for-a-warming-climate",
-    "summary": "Scientists are using AlphaFold to strengthen a photosynthesis enzyme for resilient, heat-tolerant crops.",
+    "title": "Introducing Veo 3.1 and advanced creative capabilities",
+    "url": "https://deepmind.google/blog/introducing-veo-31-and-advanced-creative-capabilities",
+    "summary": "We’re rolling out significant updates to Veo that give people even more creative control.",
     "tags": [
       "research",
       "multimodal",
@@ -289,13 +206,13 @@
     ],
     "author": "Google DeepMind",
     "source": "deepmind.google",
-    "date": "2026-06-27",
+    "date": "2026-06-28",
     "score": 66
   },
   {
-    "title": "AlphaFold: Five years of impact",
-    "url": "https://deepmind.google/blog/alphafold-five-years-of-impact",
-    "summary": "Explore how AlphaFold has accelerated science and fueled a global wave of biological discovery.",
+    "title": "How a Gemma model helped discover a new potential cancer therapy pathway",
+    "url": "https://deepmind.google/blog/how-a-gemma-model-helped-discover-a-new-potential-cancer-therapy-pathway",
+    "summary": "We’re launching a new 27 billion parameter foundation model for single-cell analysis built on the Gemma family of open models.",
     "tags": [
       "research",
       "multimodal",
@@ -304,7 +221,77 @@
     ],
     "author": "Google DeepMind",
     "source": "deepmind.google",
-    "date": "2026-06-27",
+    "date": "2026-06-28",
+    "score": 66
+  },
+  {
+    "title": "AI Research",
+    "url": "https://ai.meta.com/blog",
+    "summary": "AI at Meta Blog · AI Research",
+    "tags": [
+      "open_source_model",
+      "research",
+      "llama"
+    ],
+    "author": "Meta AI",
+    "source": "ai.meta.com",
+    "date": "2026-06-28",
+    "score": 66
+  },
+  {
+    "title": "Introducing Muse Spark: Scaling Towards Personal Superintelligence",
+    "url": "https://ai.meta.com/blog/introducing-muse-spark-msl",
+    "summary": "AI at Meta Blog · Introducing Muse Spark: Scaling Towards Personal Superintelligence",
+    "tags": [
+      "open_source_model",
+      "research",
+      "llama"
+    ],
+    "author": "Meta AI",
+    "source": "ai.meta.com",
+    "date": "2026-06-28",
+    "score": 66
+  },
+  {
+    "title": "Scaling How We Build and Test Our Most Advanced AI",
+    "url": "https://ai.meta.com/blog/scaling-how-we-build-test-advanced-ai",
+    "summary": "AI at Meta Blog · Scaling How We Build and Test Our Most Advanced AI",
+    "tags": [
+      "open_source_model",
+      "research",
+      "llama"
+    ],
+    "author": "Meta AI",
+    "source": "ai.meta.com",
+    "date": "2026-06-28",
+    "score": 66
+  },
+  {
+    "title": "How Alta Daily Uses Meta’s Segment Anything to Reimagine the Digital Closet",
+    "url": "https://ai.meta.com/blog/alta-daily-fashion-app-segment-anything",
+    "summary": "AI at Meta Blog · How Alta Daily Uses Meta’s Segment Anything to Reimagine the Digital Closet",
+    "tags": [
+      "open_source_model",
+      "research",
+      "llama"
+    ],
+    "author": "Meta AI",
+    "source": "ai.meta.com",
+    "date": "2026-06-28",
+    "score": 66
+  },
+  {
+    "title": "Four MTIA Chips in Two Years: Scaling AI Experiences for Billions",
+    "url": "https://ai.meta.com/blog/meta-mtia-scale-ai-chips-for-billions",
+    "summary": "AI at Meta Blog · Four MTIA Chips in Two Years: Scaling AI Experiences for Billions",
+    "tags": [
+      "open_source_model",
+      "research",
+      "llama"
+    ],
+    "author": "Meta AI",
+    "source": "ai.meta.com",
+    "date": "2026-06-28",
     "score": 66
   }
 ]
