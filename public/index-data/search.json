@@ -1,233 +1,8 @@
 [
   {
-    "title": "Revealing a key protein behind heart disease",
-    "url": "https://deepmind.google/blog/revealing-a-key-protein-behind-heart-disease",
-    "summary": "AlphaFold has revealed the structure of a key protein behind heart disease",
-    "tags": [
-      "research",
-      "multimodal",
-      "science",
-      "official"
-    ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-06-28",
-    "score": 66
-  },
-  {
-    "title": "Build with Nano Banana Pro, our Gemini 3 Pro Image model",
-    "url": "https://deepmind.google/blog/build-with-nano-banana-pro-our-gemini-3-pro-image-model",
-    "summary": "Build with Nano Banana Pro, our Gemini 3 Pro Image model 是 Google DeepMind 当日抓取到的公开新增条目。",
-    "tags": [
-      "research",
-      "multimodal",
-      "science",
-      "official"
-    ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-06-28",
-    "score": 66
-  },
-  {
-    "title": "Introducing Nano Banana Pro",
-    "url": "https://deepmind.google/blog/introducing-nano-banana-pro",
-    "summary": "Introducing Nano Banana Pro 是 Google DeepMind 当日抓取到的公开新增条目。",
-    "tags": [
-      "research",
-      "multimodal",
-      "science",
-      "official"
-    ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-06-28",
-    "score": 66
-  },
-  {
-    "title": "Start building with Gemini 3",
-    "url": "https://deepmind.google/blog/start-building-with-gemini-3",
-    "summary": "Start building with Gemini 3 是 Google DeepMind 当日抓取到的公开新增条目。",
-    "tags": [
-      "research",
-      "multimodal",
-      "science",
-      "official"
-    ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-06-28",
-    "score": 66
-  },
-  {
-    "title": "A new era of intelligence with Gemini 3",
-    "url": "https://deepmind.google/blog/a-new-era-of-intelligence-with-gemini-3",
-    "summary": "A new era of intelligence with Gemini 3 是 Google DeepMind 当日抓取到的公开新增条目。",
-    "tags": [
-      "research",
-      "multimodal",
-      "science",
-      "official"
-    ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-06-28",
-    "score": 66
-  },
-  {
-    "title": "Introducing Google Antigravity",
-    "url": "https://deepmind.google/blog/introducing-google-antigravity",
-    "summary": "Introducing Google Antigravity 是 Google DeepMind 当日抓取到的公开新增条目。",
-    "tags": [
-      "research",
-      "multimodal",
-      "science",
-      "official"
-    ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-06-28",
-    "score": 66
-  },
-  {
-    "title": "T5Gemma: A new collection of encoder-decoder Gemma models",
-    "url": "https://deepmind.google/blog/t5gemma-a-new-collection-of-encoder-decoder-gemma-models",
-    "summary": "Introducing T5Gemma, a new collection of encoder-decoder LLMs.",
-    "tags": [
-      "research",
-      "multimodal",
-      "science",
-      "official"
-    ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-06-28",
-    "score": 66
-  },
-  {
-    "title": "Introducing Gemma 3n: The developer guide",
-    "url": "https://deepmind.google/blog/introducing-gemma-3n-the-developer-guide",
-    "summary": "Gemma 3n is designed for the developer community that helped shape Gemma.",
-    "tags": [
-      "research",
-      "multimodal",
-      "science",
-      "official"
-    ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-06-28",
-    "score": 66
-  },
-  {
-    "title": "Behind “ANCESTRA”: combining Veo with live-action filmmaking",
-    "url": "https://deepmind.google/blog/behind-ancestra-combining-veo-with-live-action-filmmaking",
-    "summary": "We partnered with Darren Aronofsky, Eliza McNitt and a team of more than 200 people to make a film using Veo and live-action filmmaking.",
-    "tags": [
-      "research",
-      "multimodal",
-      "science",
-      "official"
-    ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-06-28",
-    "score": 66
-  },
-  {
-    "title": "Advanced version of Gemini with Deep Think officially achieves gold-medal standard at the International Mathematical Olympiad",
-    "url": "https://deepmind.google/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad",
-    "summary": "The International Mathematical Olympiad (“IMO”) is the world’s most prestigious competition for young mathematicians, and has been held annually since 1959. Each country taking part is represented by six elite, pre-university mathematicians who compete to solve six exceptionally difficult problems in algebra, combinatorics, geometry, and number theory.",
-    "tags": [
-      "research",
-      "multimodal",
-      "science",
-      "official"
-    ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-06-28",
-    "score": 66
-  },
-  {
-    "title": "Aeneas transforms how historians connect the past",
-    "url": "https://deepmind.google/blog/aeneas-transforms-how-historians-connect-the-past",
-    "summary": "Introducing the first model for contextualizing ancient inscriptions, designed to help historians better interpret, attribute and restore fragmentary texts.",
-    "tags": [
-      "research",
-      "multimodal",
-      "science",
-      "official"
-    ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-06-28",
-    "score": 66
-  },
-  {
-    "title": "Gemini achieves gold-medal level at the International Collegiate Programming Contest World Finals",
-    "url": "https://deepmind.google/blog/gemini-achieves-gold-medal-level-at-the-international-collegiate-programming-contest-world-finals",
-    "summary": "Gemini 2.5 Deep Think achieves breakthrough performance at the world’s most prestigious computer programming competition, demonstrating a profound leap in abstract problem solving.",
-    "tags": [
-      "research",
-      "multimodal",
-      "science",
-      "official"
-    ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-06-28",
-    "score": 66
-  },
-  {
-    "title": "Image editing in Gemini just got a major upgrade",
-    "url": "https://deepmind.google/blog/image-editing-in-gemini-just-got-a-major-upgrade",
-    "summary": "Transform images in amazing new ways with updated native image editing in the Gemini app.",
-    "tags": [
-      "research",
-      "multimodal",
-      "science",
-      "official"
-    ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-06-28",
-    "score": 66
-  },
-  {
-    "title": "Introducing Veo 3.1 and advanced creative capabilities",
-    "url": "https://deepmind.google/blog/introducing-veo-31-and-advanced-creative-capabilities",
-    "summary": "We’re rolling out significant updates to Veo that give people even more creative control.",
-    "tags": [
-      "research",
-      "multimodal",
-      "science",
-      "official"
-    ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-06-28",
-    "score": 66
-  },
-  {
-    "title": "How a Gemma model helped discover a new potential cancer therapy pathway",
-    "url": "https://deepmind.google/blog/how-a-gemma-model-helped-discover-a-new-potential-cancer-therapy-pathway",
-    "summary": "We’re launching a new 27 billion parameter foundation model for single-cell analysis built on the Gemma family of open models.",
-    "tags": [
-      "research",
-      "multimodal",
-      "science",
-      "official"
-    ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-06-28",
-    "score": 66
-  },
-  {
-    "title": "AI Research",
-    "url": "https://ai.meta.com/blog",
-    "summary": "AI at Meta Blog · AI Research",
+    "title": "Learn More",
+    "url": "https://ai.meta.com/blog/tribe-v2-brain-predictive-foundation-model",
+    "summary": "AI at Meta Blog · Learn More",
     "tags": [
       "open_source_model",
       "research",
@@ -235,63 +10,273 @@
     ],
     "author": "Meta AI",
     "source": "ai.meta.com",
-    "date": "2026-06-28",
+    "date": "2026-06-29",
     "score": 66
   },
   {
-    "title": "Introducing Muse Spark: Scaling Towards Personal Superintelligence",
-    "url": "https://ai.meta.com/blog/introducing-muse-spark-msl",
-    "summary": "AI at Meta Blog · Introducing Muse Spark: Scaling Towards Personal Superintelligence",
+    "title": "Technical Blog",
+    "url": "https://developer.nvidia.com/blog",
+    "summary": "NVIDIA Technical Blog · Technical Blog",
     "tags": [
-      "open_source_model",
-      "research",
-      "llama"
+      "gpu",
+      "inference",
+      "ai_infra"
     ],
-    "author": "Meta AI",
-    "source": "ai.meta.com",
-    "date": "2026-06-28",
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-06-29",
     "score": 66
   },
   {
-    "title": "Scaling How We Build and Test Our Most Advanced AI",
-    "url": "https://ai.meta.com/blog/scaling-how-we-build-test-advanced-ai",
-    "summary": "AI at Meta Blog · Scaling How We Build and Test Our Most Advanced AI",
+    "title": "NVIDIA Blackwell Tops MLPerf Training 6.0 with Industry-Leading Scale and Performance",
+    "url": "https://developer.nvidia.com/blog/nvidia-blackwell-tops-mlperf-training-6-0-with-industry-leading-scale-and-performance",
+    "summary": "NVIDIA Technical Blog · NVIDIA Blackwell Tops MLPerf Training 6.0 with Industry-Leading Scale and Performance",
     "tags": [
-      "open_source_model",
-      "research",
-      "llama"
+      "gpu",
+      "inference",
+      "ai_infra"
     ],
-    "author": "Meta AI",
-    "source": "ai.meta.com",
-    "date": "2026-06-28",
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-06-29",
     "score": 66
   },
   {
-    "title": "How Alta Daily Uses Meta’s Segment Anything to Reimagine the Digital Closet",
-    "url": "https://ai.meta.com/blog/alta-daily-fashion-app-segment-anything",
-    "summary": "AI at Meta Blog · How Alta Daily Uses Meta’s Segment Anything to Reimagine the Digital Closet",
+    "title": "Run DiffusionGemma on NVIDIA for Developer-Ready, High-Throughput Text Generation",
+    "url": "https://developer.nvidia.com/blog/run-diffusiongemma-on-nvidia-for-developer-ready-high-throughput-text-generation",
+    "summary": "NVIDIA Technical Blog · Run DiffusionGemma on NVIDIA for Developer-Ready, High-Throughput Text Generation",
     "tags": [
-      "open_source_model",
-      "research",
-      "llama"
+      "gpu",
+      "inference",
+      "ai_infra"
     ],
-    "author": "Meta AI",
-    "source": "ai.meta.com",
-    "date": "2026-06-28",
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-06-29",
     "score": 66
   },
   {
-    "title": "Four MTIA Chips in Two Years: Scaling AI Experiences for Billions",
-    "url": "https://ai.meta.com/blog/meta-mtia-scale-ai-chips-for-billions",
-    "summary": "AI at Meta Blog · Four MTIA Chips in Two Years: Scaling AI Experiences for Billions",
+    "title": "Creating the NVIDIA Nemotron 3 Ultra NVFP4 Checkpoint with NVIDIA Model Optimizer",
+    "url": "https://developer.nvidia.com/blog/creating-the-nvidia-nemotron-3-ultra-nvfp4-checkpoint-with-nvidia-model-optimizer",
+    "summary": "NVIDIA Technical Blog · Creating the NVIDIA Nemotron 3 Ultra NVFP4 Checkpoint with NVIDIA Model Optimizer",
     "tags": [
-      "open_source_model",
-      "research",
-      "llama"
+      "gpu",
+      "inference",
+      "ai_infra"
     ],
-    "author": "Meta AI",
-    "source": "ai.meta.com",
-    "date": "2026-06-28",
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-06-29",
+    "score": 66
+  },
+  {
+    "title": "Streamlining Resource Binding with End-to-End Support for Vulkan Descriptor Heaps",
+    "url": "https://developer.nvidia.com/blog/streamlining-resource-binding-with-end-to-end-support-for-vulkan-descriptor-heaps",
+    "summary": "NVIDIA Technical Blog · Streamlining Resource Binding with End-to-End Support for Vulkan Descriptor Heaps",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-06-29",
+    "score": 66
+  },
+  {
+    "title": "Scaling AI Inference Across Multiple GPUs Using NVIDIA TensorRT with Multi-Device Inference Support",
+    "url": "https://developer.nvidia.com/blog/scaling-ai-inference-across-multiple-gpus-using-nvidia-tensorrt-with-multi-device-inference-support",
+    "summary": "NVIDIA Technical Blog · Scaling AI Inference Across Multiple GPUs Using NVIDIA TensorRT with Multi-Device Inference Support",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-06-29",
+    "score": 66
+  },
+  {
+    "title": "Q&A: How KRAFTON Built PUBG Ally, a Co-Playable Character Powered by NVIDIA ACE",
+    "url": "https://developer.nvidia.com/blog/how-krafton-built-pubg-ally-a-co-playable-character-powered-by-nvidia-ace",
+    "summary": "NVIDIA Technical Blog · Q&A: How KRAFTON Built PUBG Ally, a Co-Playable Character Powered by NVIDIA ACE",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-06-29",
+    "score": 66
+  },
+  {
+    "title": "Accelerating BEV Pooling on NVIDIA GPUs for Physical AI Applications",
+    "url": "https://developer.nvidia.com/blog/accelerating-bev-pooling-on-nvidia-gpus-for-physical-ai-applications",
+    "summary": "NVIDIA Technical Blog · Accelerating BEV Pooling on NVIDIA GPUs for Physical AI Applications",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-06-29",
+    "score": 66
+  },
+  {
+    "title": "Vercel Ship 2026 recap",
+    "url": "https://vercel.com/blog/vercel-ship-2026-recap",
+    "summary": "For a decade, Vercel has shaped how the web is built. Now, we’re doing the same for agents. The companies that win the next decade will build on infrastructure designed for agents from the start, and over 2,500 people gathered in London this week to do just that at Vercel Ship 2026. Agentic infrastructure Guillermo kicked off Ship by sharing his vision for Vercel: a true full-stack platform where you can deploy anything, including software that can think. Agentic infrastructu",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-06-29",
+    "score": 66
+  },
+  {
+    "title": "GLM 5.2 Fast via Wafer now available on AI Gateway",
+    "url": "https://vercel.com/changelog/glm-5-2-fast-via-wafer-now-available-on-ai-gateway",
+    "summary": "GLM 5.2 Fast via Wafer is now available on AI Gateway . Based on our own benchmarking across small-context, large-context, and tool-call scenarios, Wafer delivers a 2x higher throughput than other providers serving GLM-5.2 on serverless, leading on decode and end-to-end speed for sustained generation in the small- and large-context cases. In our testing, GLM 5.2 Fast on Wafer measured: Small context: 170+ tok/s Large context: 200+ tok/s To use GLM 5.2 Fast, set model to zai/g",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-06-29",
+    "score": 66
+  },
+  {
+    "title": "VLX-Flow: Continuous Video Understanding for Real-Time Multimodal Interaction omlab • 2 days ago • 9",
+    "url": "https://huggingface.co/blog/omlab/vlx-flow",
+    "summary": "Hugging Face – Blog · VLX-Flow: Continuous Video Understanding for Real-Time Multimodal Interaction omlab • 2 days ago • 9",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-06-29",
+    "score": 66
+  },
+  {
+    "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+    "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
+    "summary": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-06-29",
+    "score": 66
+  },
+  {
+    "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
+    "url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
+    "summary": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-06-29",
+    "score": 66
+  },
+  {
+    "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
+    "summary": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-06-29",
+    "score": 66
+  },
+  {
+    "title": "IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST",
+    "url": "https://huggingface.co/blog/ibm-research/itbenchandmast",
+    "summary": "IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-06-29",
+    "score": 66
+  },
+  {
+    "title": "Unlocking Agentic RL Training for GPT-OSS: A Practical Retrospective",
+    "url": "https://huggingface.co/blog/LinkedIn/gpt-oss-agentic-rl",
+    "summary": "Unlocking Agentic RL Training for GPT-OSS: A Practical Retrospective 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-06-29",
+    "score": 66
+  },
+  {
+    "title": "DeepMath: A lightweight math reasoning Agent with smolagents",
+    "url": "https://huggingface.co/blog/intel-deepmath",
+    "summary": "DeepMath: A lightweight math reasoning Agent with smolagents 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-06-29",
+    "score": 66
+  },
+  {
+    "title": "Smol2Operator: Post-Training GUI Agents for Computer Use",
+    "url": "https://huggingface.co/blog/smol2operator",
+    "summary": "Smol2Operator: Post-Training GUI Agents for Computer Use 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-06-29",
+    "score": 66
+  },
+  {
+    "title": "Gaia2 and ARE: Empowering the community to study agents",
+    "url": "https://huggingface.co/blog/gaia2",
+    "summary": "Gaia2 and ARE: Empowering the community to study agents 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-06-29",
     "score": 66
   }
 ]

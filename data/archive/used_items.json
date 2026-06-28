@@ -4646,5 +4646,205 @@
     "cluster_id": "ai_meta_com_4c4debaa",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_01dfa8911ff31fba",
+    "canonical_url": "https://ai.meta.com/blog/tribe-v2-brain-predictive-foundation-model",
+    "dedupe_key": "d1f0c28ac488a765",
+    "title": "Learn More",
+    "issue_date": "2026-06-29",
+    "cluster_id": "ai_meta_com_d20312bc",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a157939846757ee4",
+    "canonical_url": "https://developer.nvidia.com/blog",
+    "dedupe_key": "5eb348333f9f2313",
+    "title": "Technical Blog",
+    "issue_date": "2026-06-29",
+    "cluster_id": "developer_nvidia_com_3f81d66c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a7ceb1f5c8c75c5c",
+    "canonical_url": "https://developer.nvidia.com/blog/nvidia-blackwell-tops-mlperf-training-6-0-with-industry-leading-scale-and-performance",
+    "dedupe_key": "10ebccb533c85c2f",
+    "title": "NVIDIA Blackwell Tops MLPerf Training 6.0 with Industry-Leading Scale and Performance",
+    "issue_date": "2026-06-29",
+    "cluster_id": "developer_nvidia_com_d0367300",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b9f84c8329361910",
+    "canonical_url": "https://developer.nvidia.com/blog/run-diffusiongemma-on-nvidia-for-developer-ready-high-throughput-text-generation",
+    "dedupe_key": "20085af448029bcb",
+    "title": "Run DiffusionGemma on NVIDIA for Developer-Ready, High-Throughput Text Generation",
+    "issue_date": "2026-06-29",
+    "cluster_id": "developer_nvidia_com_26713b39",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7ef204672a87dca4",
+    "canonical_url": "https://developer.nvidia.com/blog/creating-the-nvidia-nemotron-3-ultra-nvfp4-checkpoint-with-nvidia-model-optimizer",
+    "dedupe_key": "1135bef615cd7d59",
+    "title": "Creating the NVIDIA Nemotron 3 Ultra NVFP4 Checkpoint with NVIDIA Model Optimizer",
+    "issue_date": "2026-06-29",
+    "cluster_id": "developer_nvidia_com_86559ef0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_12dbda6a687116ff",
+    "canonical_url": "https://developer.nvidia.com/blog/streamlining-resource-binding-with-end-to-end-support-for-vulkan-descriptor-heaps",
+    "dedupe_key": "5f500def40e39b09",
+    "title": "Streamlining Resource Binding with End-to-End Support for Vulkan Descriptor Heaps",
+    "issue_date": "2026-06-29",
+    "cluster_id": "developer_nvidia_com_60badbfa",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_195bd15fdb79eb80",
+    "canonical_url": "https://developer.nvidia.com/blog/scaling-ai-inference-across-multiple-gpus-using-nvidia-tensorrt-with-multi-device-inference-support",
+    "dedupe_key": "26eb0fc8d780c342",
+    "title": "Scaling AI Inference Across Multiple GPUs Using NVIDIA TensorRT with Multi-Device Inference Support",
+    "issue_date": "2026-06-29",
+    "cluster_id": "developer_nvidia_com_b6d16a23",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a184610766d07dca",
+    "canonical_url": "https://developer.nvidia.com/blog/how-krafton-built-pubg-ally-a-co-playable-character-powered-by-nvidia-ace",
+    "dedupe_key": "73ebffab93fc3e0b",
+    "title": "Q&A: How KRAFTON Built PUBG Ally, a Co-Playable Character Powered by NVIDIA ACE",
+    "issue_date": "2026-06-29",
+    "cluster_id": "developer_nvidia_com_4a51d8fd",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9d16a058d65c3cce",
+    "canonical_url": "https://developer.nvidia.com/blog/accelerating-bev-pooling-on-nvidia-gpus-for-physical-ai-applications",
+    "dedupe_key": "d4796ca867e4e5a0",
+    "title": "Accelerating BEV Pooling on NVIDIA GPUs for Physical AI Applications",
+    "issue_date": "2026-06-29",
+    "cluster_id": "developer_nvidia_com_38014455",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d4b75aa79887615f",
+    "canonical_url": "https://vercel.com/blog/vercel-ship-2026-recap",
+    "dedupe_key": "0582ed9078b2aaf3",
+    "title": "Vercel Ship 2026 recap",
+    "issue_date": "2026-06-29",
+    "cluster_id": "vercel_com_c0a7ba06",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_76abf51fed0feb75",
+    "canonical_url": "https://vercel.com/changelog/glm-5-2-fast-via-wafer-now-available-on-ai-gateway",
+    "dedupe_key": "efd38f256a2a4b9b",
+    "title": "GLM 5.2 Fast via Wafer now available on AI Gateway",
+    "issue_date": "2026-06-29",
+    "cluster_id": "vercel_com_6a38a17b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ec4564310310ac43",
+    "canonical_url": "https://huggingface.co/blog/omlab/vlx-flow",
+    "dedupe_key": "34368de8773b3d7d",
+    "title": "VLX-Flow: Continuous Video Understanding for Real-Time Multimodal Interaction omlab • 2 days ago • 9",
+    "issue_date": "2026-06-29",
+    "cluster_id": "huggingface_co_6f1785e5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d86fc763396355b3",
+    "canonical_url": "https://huggingface.co/blog/mishig/spaces-agents-md",
+    "dedupe_key": "659f2623dad45179",
+    "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+    "issue_date": "2026-06-29",
+    "cluster_id": "huggingface_co_bace60b0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ba55b4bd08c72874",
+    "canonical_url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
+    "dedupe_key": "0b4703332298779a",
+    "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
+    "issue_date": "2026-06-29",
+    "cluster_id": "huggingface_co_696b37c3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_82a86cdf7ea77217",
+    "canonical_url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
+    "dedupe_key": "7d73fe55317cf323",
+    "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
+    "issue_date": "2026-06-29",
+    "cluster_id": "huggingface_co_92098750",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0c02594d2253c427",
+    "canonical_url": "https://huggingface.co/blog/ibm-research/itbenchandmast",
+    "dedupe_key": "e94528f416c384d7",
+    "title": "IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST",
+    "issue_date": "2026-06-29",
+    "cluster_id": "huggingface_co_764c179a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e6a44497a4b3c913",
+    "canonical_url": "https://huggingface.co/blog/LinkedIn/gpt-oss-agentic-rl",
+    "dedupe_key": "33feaf614cdd992d",
+    "title": "Unlocking Agentic RL Training for GPT-OSS: A Practical Retrospective",
+    "issue_date": "2026-06-29",
+    "cluster_id": "huggingface_co_12e40214",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a894f4f06db01fa0",
+    "canonical_url": "https://huggingface.co/blog/intel-deepmath",
+    "dedupe_key": "0cf4a83910632093",
+    "title": "DeepMath: A lightweight math reasoning Agent with smolagents",
+    "issue_date": "2026-06-29",
+    "cluster_id": "huggingface_co_691da99e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4847032c0050fec8",
+    "canonical_url": "https://huggingface.co/blog/smol2operator",
+    "dedupe_key": "4b389d18606fb181",
+    "title": "Smol2Operator: Post-Training GUI Agents for Computer Use",
+    "issue_date": "2026-06-29",
+    "cluster_id": "huggingface_co_6da6f7d3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6d948530d278640f",
+    "canonical_url": "https://huggingface.co/blog/gaia2",
+    "dedupe_key": "cf2e973aab0894ea",
+    "title": "Gaia2 and ARE: Empowering the community to study agents",
+    "issue_date": "2026-06-29",
+    "cluster_id": "huggingface_co_cf01f5f7",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
