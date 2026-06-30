@@ -5046,5 +5046,225 @@
     "cluster_id": "langchain_com_026f7695",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_92e4c464f6a73d80",
+    "canonical_url": "https://huggingface.co/blog/ibm-research/scarfbench",
+    "dedupe_key": "a5ccdbbdd39dc13d",
+    "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+    "issue_date": "2026-07-01",
+    "cluster_id": "huggingface_co_9fa6c448",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_15d9bd83638ccb46",
+    "canonical_url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+    "dedupe_key": "f289a1c48f4949f9",
+    "title": "Core dump epidemiology: fixing an 18-year-old bug",
+    "issue_date": "2026-07-01",
+    "cluster_id": "openai_com_8d43fec9",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_037cb862449d9049",
+    "canonical_url": "https://openai.com/index/introducing-genebench-pro",
+    "dedupe_key": "6127cda57fccedc9",
+    "title": "Introducing GeneBench-Pro",
+    "issue_date": "2026-07-01",
+    "cluster_id": "openai_com_d4e612c4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_bb35098fe7b754d9",
+    "canonical_url": "https://www.anthropic.com/news/claude-sonnet-5",
+    "dedupe_key": "20dc60c943d52e52",
+    "title": "Product Jun 30, 2026 Introducing Claude Sonnet 5 Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.",
+    "issue_date": "2026-07-01",
+    "cluster_id": "anthropic_com_8068e02d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_616b1efb221ce5d9",
+    "canonical_url": "https://vercel.com/changelog/claude-sonnet-5-ai-gateway",
+    "dedupe_key": "e5f35d87a52bfac0",
+    "title": "Claude Sonnet 5 now available on Vercel AI Gateway",
+    "issue_date": "2026-07-01",
+    "cluster_id": "vercel_com_f8c9ad30",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b72a5d3c734fd810",
+    "canonical_url": "https://www.anthropic.com/news/claude-science-ai-workbench",
+    "dedupe_key": "5b9417d59a344f83",
+    "title": "Announcements Jun 30, 2026 Claude Science, an AI workbench for scientists, is now available Claude Science is a customizable app that integrates the tools and packages researchers most often use, produces auditable artifacts, and provides flexible access to computing resources.",
+    "issue_date": "2026-07-01",
+    "cluster_id": "anthropic_com_b6d6028f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_988ffa671ba00ed7",
+    "canonical_url": "https://vercel.com/changelog/an-expanded-vercel-agent-chat-investigations-and-approved-actions-now-in-public-beta",
+    "dedupe_key": "cc2fc3a4181fb04d",
+    "title": "An expanded Vercel Agent: chat, investigations, and approved actions, now in public beta",
+    "issue_date": "2026-07-01",
+    "cluster_id": "vercel_com_c6686adf",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6028917d3a8fe0d0",
+    "canonical_url": "https://vercel.com/blog/vercel-open-source-program-spring-2026-cohort",
+    "dedupe_key": "5584cde85fb85910",
+    "title": "Vercel Open Source Program: Spring 2026 cohort",
+    "issue_date": "2026-07-01",
+    "cluster_id": "vercel_com_f66f687f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_dbf59087a6ca02d5",
+    "canonical_url": "https://github.blog/enterprise-software/governance-and-compliance/how-github-maintains-compliance-for-open-source-dependencies",
+    "dedupe_key": "feee806d8cf56456",
+    "title": "How GitHub maintains compliance for open source dependencies",
+    "issue_date": "2026-07-01",
+    "cluster_id": "github_blog_f64383e4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2acbb2109018dce7",
+    "canonical_url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+    "dedupe_key": "208e2cbc6b354b5d",
+    "title": "How ChatGPT adoption has expanded",
+    "issue_date": "2026-07-01",
+    "cluster_id": "openai_com_2df4804f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_fe729e428c952d43",
+    "canonical_url": "https://openai.com/index/genebench-pro/case-studies",
+    "dedupe_key": "df4f4aab4955ae6e",
+    "title": "Inside Genebench-Pro",
+    "issue_date": "2026-07-01",
+    "cluster_id": "openai_com_3f72d5a5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_679416f86407f1a9",
+    "canonical_url": "https://vercel.com/blog/vercel-services-run-full-stack-on-vercel",
+    "dedupe_key": "245bd15930d9b7c9",
+    "title": "Vercel Services: Run full stack on Vercel",
+    "issue_date": "2026-07-01",
+    "cluster_id": "vercel_com_be976555",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_31021585c1ad980d",
+    "canonical_url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash",
+    "dedupe_key": "8325aafff5a5b3d6",
+    "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+    "issue_date": "2026-07-01",
+    "cluster_id": "deepmind_google_2581c9b2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_bb6fe5106849ccb7",
+    "canonical_url": "https://developer.nvidia.com/blog/designing-gpu-accelerated-query-engines-with-nvidia-gqe",
+    "dedupe_key": "29584520f17d2273",
+    "title": "Designing GPU-Accelerated Query Engines with NVIDIA GQE",
+    "issue_date": "2026-07-01",
+    "cluster_id": "developer_nvidia_com_250243bf",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d236f07655af8718",
+    "canonical_url": "https://developer.nvidia.com/blog/optimizing-a-neural-reconstruction-pipeline-using-nvidia-nsight-developer-tools",
+    "dedupe_key": "c60fcd4777e38256",
+    "title": "Optimizing a Neural Reconstruction Pipeline Using NVIDIA Nsight Developer Tools",
+    "issue_date": "2026-07-01",
+    "cluster_id": "developer_nvidia_com_8095f6fc",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7cdb6da6facbd159",
+    "canonical_url": "https://vercel.com/blog/dockerfile-on-vercel",
+    "dedupe_key": "3954ee49f3dcf368",
+    "title": "30 June General Run any Dockerfile on Vercel Vercel now runs any HTTP server straight from a Dockerfile. Bring a Rails, Django, Spring Boot, or Go app, and we can run it. Malte Ubl, Luke Phillips-Sheard, and 1 other",
+    "issue_date": "2026-07-01",
+    "cluster_id": "vercel_com_7bbe232d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3b0ed42c70a7e515",
+    "canonical_url": "https://vercel.com/blog/vercel-and-shopify-are-rebuilding-hydrogen",
+    "dedupe_key": "282bd8ab7cf2d513",
+    "title": "Vercel and Shopify are rebuilding Hydrogen",
+    "issue_date": "2026-07-01",
+    "cluster_id": "vercel_com_7be6ba12",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_fa820e2736b4da75",
+    "canonical_url": "https://vercel.com/changelog/vercel-agent-has-updated-pricing",
+    "dedupe_key": "26cd5b01c84acd00",
+    "title": "Vercel Agent has updated pricing",
+    "issue_date": "2026-07-01",
+    "cluster_id": "vercel_com_ff95625a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_360fad7b6c232527",
+    "canonical_url": "https://vercel.com/changelog/vercel-private-blob-is-now-generally-available",
+    "dedupe_key": "13e4d5ff579070e0",
+    "title": "Vercel Private Blob is now generally available",
+    "issue_date": "2026-07-01",
+    "cluster_id": "vercel_com_3ca1576d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_fca42a509d83af8e",
+    "canonical_url": "https://vercel.com/changelog/run-multiple-frameworks-in-one-project-with-vercel-services",
+    "dedupe_key": "9c2b078c160d2c20",
+    "title": "Run multiple frameworks in one project with Vercel Services",
+    "issue_date": "2026-07-01",
+    "cluster_id": "vercel_com_0a7f5a1f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_210a046f8bee9eff",
+    "canonical_url": "https://www.langchain.com/blog/public-langsmith-benchmarks",
+    "dedupe_key": "359d58198986d879",
+    "title": "Sharing LangSmith Benchmarks",
+    "issue_date": "2026-07-01",
+    "cluster_id": "langchain_com_47ba2a4e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0fd6e826c2b79c7d",
+    "canonical_url": "https://www.langchain.com/blog/customers-factory",
+    "dedupe_key": "ab7559bcccf18669",
+    "title": "How Factory used LangSmith to automate their feedback loop and improve iteration speed by 2x",
+    "issue_date": "2026-07-01",
+    "cluster_id": "langchain_com_ae0641b0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]

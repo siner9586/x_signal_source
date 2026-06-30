@@ -1,8 +1,194 @@
 [
   {
-    "title": "How to Govern Autonomous Agents in Enterprise AI Factories",
-    "url": "https://developer.nvidia.com/blog/how-to-govern-autonomous-agents-in-enterprise-ai-factories",
-    "summary": "NVIDIA Technical Blog · How to Govern Autonomous Agents in Enterprise AI Factories",
+    "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+    "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+    "summary": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-01",
+    "score": 72
+  },
+  {
+    "title": "Core dump epidemiology: fixing an 18-year-old bug",
+    "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+    "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-07-01",
+    "score": 70
+  },
+  {
+    "title": "Introducing GeneBench-Pro",
+    "url": "https://openai.com/index/introducing-genebench-pro",
+    "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-07-01",
+    "score": 69
+  },
+  {
+    "title": "Product Jun 30, 2026 Introducing Claude Sonnet 5 Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.",
+    "url": "https://www.anthropic.com/news/claude-sonnet-5",
+    "summary": "Newsroom \\ Anthropic · Product Jun 30, 2026 Introducing Claude Sonnet 5 Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.",
+    "tags": [
+      "ai_models",
+      "safety",
+      "official"
+    ],
+    "author": "Anthropic",
+    "source": "anthropic.com",
+    "date": "2026-07-01",
+    "score": 69
+  },
+  {
+    "title": "Claude Sonnet 5 now available on Vercel AI Gateway",
+    "url": "https://vercel.com/changelog/claude-sonnet-5-ai-gateway",
+    "summary": "Claude Sonnet 5 from Anthropic is now available on AI Gateway . Sonnet 5 improves on Sonnet 4.6 across coding and agentic work, reaching outcomes on many tasks that previously needed an Opus model, at Sonnet pricing. The model is more agentic and follows instructions more closely. Document parsing and long-context memory use are also stronger. Sonnet 5 also uses an updated tokenizer, like the recent Opus models, which can map the same input to more tokens. Launch pricing of $",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-07-01",
+    "score": 69
+  },
+  {
+    "title": "Announcements Jun 30, 2026 Claude Science, an AI workbench for scientists, is now available Claude Science is a customizable app that integrates the tools and packages researchers most often use, produces auditable artifacts, and provides flexible access to computing resources.",
+    "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
+    "summary": "Newsroom \\ Anthropic · Announcements Jun 30, 2026 Claude Science, an AI workbench for scientists, is now available Claude Science is a customizable app that integrates the tools and packages researchers most often use, produces auditable artifacts, and provides flexible access to computing resources.",
+    "tags": [
+      "ai_models",
+      "safety",
+      "official"
+    ],
+    "author": "Anthropic",
+    "source": "anthropic.com",
+    "date": "2026-07-01",
+    "score": 68
+  },
+  {
+    "title": "An expanded Vercel Agent: chat, investigations, and approved actions, now in public beta",
+    "url": "https://vercel.com/changelog/an-expanded-vercel-agent-chat-investigations-and-approved-actions-now-in-public-beta",
+    "summary": "Today, we're launching expanded capabilities for Vercel Agent in public beta. Vercel Agent now lives in your dashboard and can investigate production issues, answer questions about your projects, and take action on your behalf. Because Agent runs inside the platform that deploys and serves your app, it has access to the signals around it: deployments, logs, metrics, project configuration, usage, and connected repositories. That context is what turns a question into an answer ",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-07-01",
+    "score": 68
+  },
+  {
+    "title": "Vercel Open Source Program: Spring 2026 cohort",
+    "url": "https://vercel.com/blog/vercel-open-source-program-spring-2026-cohort",
+    "summary": "The world runs on open source software. The frameworks, libraries, and tools we rely on are made possible by communities that share ideas and build in the open. At Vercel, we want to help those communities thrive. That’s why we run the Vercel Open Source Program : a developer initiative that gives maintainers the resources and support they need to keep shipping and growing their projects. Four times a year, we welcome a new cohort of open source projects into the program. Mai",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-07-01",
+    "score": 68
+  },
+  {
+    "title": "How GitHub maintains compliance for open source dependencies",
+    "url": "https://github.blog/enterprise-software/governance-and-compliance/how-github-maintains-compliance-for-open-source-dependencies",
+    "summary": "Explore how the Open Source Program Office uses GitHub’s new license compliance product to manage open source dependencies at scale. The post How GitHub maintains compliance for open source dependencies appeared first on The GitHub Blog .",
+    "tags": [
+      "ai_coding",
+      "developer_tools"
+    ],
+    "author": "GitHub Copilot",
+    "source": "github.blog",
+    "date": "2026-07-01",
+    "score": 68
+  },
+  {
+    "title": "How ChatGPT adoption has expanded",
+    "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+    "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-07-01",
+    "score": 67
+  },
+  {
+    "title": "Inside Genebench-Pro",
+    "url": "https://openai.com/index/genebench-pro/case-studies",
+    "summary": "Inside Genebench-Pro 是 OpenAI 当日抓取到的公开新增条目。",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-07-01",
+    "score": 67
+  },
+  {
+    "title": "Vercel Services: Run full stack on Vercel",
+    "url": "https://vercel.com/blog/vercel-services-run-full-stack-on-vercel",
+    "summary": "To a user, an app with a Next.js frontend and a FastAPI backend feels like one product, and the same should be true for the engineers who build it. Instead, the two pieces are often deployed across different clouds with different development and deployment workflows. Today we're introducing Vercel Services , which lets you run multiple frameworks in one Vercel Project. This unlocks: Atomic deployments: Your frontend, backend, and other services stay in sync and deploy or roll",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-07-01",
+    "score": 67
+  },
+  {
+    "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+    "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash",
+    "summary": "Start building with Nano Banana 2 Lite and Gemini Omni Flash 是 Google DeepMind 当日抓取到的公开新增条目。",
+    "tags": [
+      "research",
+      "multimodal",
+      "science",
+      "official"
+    ],
+    "author": "Google DeepMind",
+    "source": "deepmind.google",
+    "date": "2026-07-01",
+    "score": 66
+  },
+  {
+    "title": "Designing GPU-Accelerated Query Engines with NVIDIA GQE",
+    "url": "https://developer.nvidia.com/blog/designing-gpu-accelerated-query-engines-with-nvidia-gqe",
+    "summary": "NVIDIA Technical Blog · Designing GPU-Accelerated Query Engines with NVIDIA GQE",
     "tags": [
       "gpu",
       "inference",
@@ -10,13 +196,27 @@
     ],
     "author": "NVIDIA AI",
     "source": "developer.nvidia.com",
-    "date": "2026-06-30",
-    "score": 69
+    "date": "2026-07-01",
+    "score": 66
   },
   {
-    "title": "Query Speed Insights from the Vercel CLI",
-    "url": "https://vercel.com/changelog/query-speed-insights-from-the-vercel-cli",
-    "summary": "You can now query Speed Insights datapoints directly through the Vercel CLI. Using the vercel metrics command, you can pull core Web Vitals (LCP, INP, CLS) and other page performance metrics (FCP, TTFB) based on client-side measurements from real user traffic. By providing a coding agent access to the CLI, an agent can answer questions such as: Which pages' INP have regressed since last week? How is the perceived speed of my home page in Asia? Compare the CLS of the dashboard",
+    "title": "Optimizing a Neural Reconstruction Pipeline Using NVIDIA Nsight Developer Tools",
+    "url": "https://developer.nvidia.com/blog/optimizing-a-neural-reconstruction-pipeline-using-nvidia-nsight-developer-tools",
+    "summary": "NVIDIA Technical Blog · Optimizing a Neural Reconstruction Pipeline Using NVIDIA Nsight Developer Tools",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-07-01",
+    "score": 66
+  },
+  {
+    "title": "30 June General Run any Dockerfile on Vercel Vercel now runs any HTTP server straight from a Dockerfile. Bring a Rails, Django, Spring Boot, or Go app, and we can run it. Malte Ubl, Luke Phillips-Sheard, and 1 other",
+    "url": "https://vercel.com/blog/dockerfile-on-vercel",
+    "summary": "Blog - Vercel · 30 June General Run any Dockerfile on Vercel Vercel now runs any HTTP server straight from a Dockerfile. Bring a Rails, Django, Spring Boot, or Go app, and we can run it. Malte Ubl, Luke Phillips-Sheard, and 1 other",
     "tags": [
       "sdk",
       "ai_infra",
@@ -24,124 +224,13 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-06-30",
-    "score": 69
-  },
-  {
-    "title": "Agent confidence on the technical frontier",
-    "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier",
-    "summary": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mounts, executives and technology leaders are looking to agentic AI to drive the measurable financial outcomes their businesses seek. A prime opportunity for AI agents&#8230;",
-    "tags": [
-      "ai",
-      "research",
-      "society"
-    ],
-    "author": "MIT Technology Review AI",
-    "source": "technologyreview.com",
-    "date": "2026-06-30",
-    "score": 69
-  },
-  {
-    "title": "Detecting audio generated by ElevenLabs with SynthID",
-    "url": "https://elevenlabs.io/blog/synthid",
-    "summary": "ElevenLabs Blog - Company, Research & Product Updates · Detecting audio generated by ElevenLabs with SynthID",
-    "tags": [
-      "voice_ai",
-      "audio"
-    ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-06-30",
-    "score": 67
-  },
-  {
-    "title": "Mapping Europe’s AI Workforce Opportunity",
-    "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-    "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-06-30",
-    "score": 67
-  },
-  {
-    "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
-    "url": "https://openai.com/index/hp-frontier-partnership",
-    "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-06-30",
-    "score": 67
-  },
-  {
-    "title": "Highlights from Git 2.55",
-    "url": "https://github.blog/open-source/git/highlights-from-git-2-55",
-    "summary": "The open source Git project just released Git 2.55. Here is GitHub’s look at some of the most interesting features and changes introduced since last time. The post Highlights from Git 2.55 appeared first on The GitHub Blog .",
-    "tags": [
-      "ai_coding",
-      "developer_tools"
-    ],
-    "author": "GitHub Copilot",
-    "source": "github.blog",
-    "date": "2026-06-30",
-    "score": 67
-  },
-  {
-    "title": "Inside the Advisory Database and what happens when vulnerability volume breaks records",
-    "url": "https://github.blog/security/supply-chain-security/inside-the-advisory-database-and-what-happens-when-vulnerability-volume-breaks-records",
-    "summary": "The GitHub Advisory Database is processing more vulnerability reports than ever before. Here's what's driving the surge, how we're responding, and how the community can help. The post Inside the Advisory Database and what happens when vulnerability volume breaks records appeared first on The GitHub Blog .",
-    "tags": [
-      "ai_coding",
-      "developer_tools"
-    ],
-    "author": "GitHub Copilot",
-    "source": "github.blog",
-    "date": "2026-06-30",
-    "score": 67
-  },
-  {
-    "title": "Introducing Dynamic Subagents in Deep Agents",
-    "url": "https://www.langchain.com/blog/introducing-dynamic-subagents-in-deep-agents",
-    "summary": "Dynamic subagents let AI agents orchestrate work at scale using code instead of tool calls. Learn how programmatic orchestration in Deep Agents guarantees coverage, handles fan-out, and unlocks reliable multi-step, complex agent pipelines with common orchestration patterns and live traces.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-06-30",
-    "score": 67
-  },
-  {
-    "title": "From Brain Waves to Words: Brain2Qwerty Offers a New Path to Communication Without Surgery",
-    "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication",
-    "summary": "AI at Meta Blog · From Brain Waves to Words: Brain2Qwerty Offers a New Path to Communication Without Surgery",
-    "tags": [
-      "open_source_model",
-      "research",
-      "llama"
-    ],
-    "author": "Meta AI",
-    "source": "ai.meta.com",
-    "date": "2026-06-30",
+    "date": "2026-07-01",
     "score": 66
   },
   {
-    "title": "Build realtime voice agents on AI Gateway",
-    "url": "https://vercel.com/blog/realtime-voice-agents-on-ai-gateway",
-    "summary": "AI Gateway now supports audio/voice. You can add realtime voice, text to speech, and speech to text with the same calls you already use for text, image, and video, routed through AI Gateway alongside every other modality. Audio launches with models from OpenAI and xAI . Each call gets the same provider routing, observability, spend controls, and bring-your-own-key support you already use for your other models. These capabilities are in beta and available in AI SDK 7. Capabili",
+    "title": "Vercel and Shopify are rebuilding Hydrogen",
+    "url": "https://vercel.com/blog/vercel-and-shopify-are-rebuilding-hydrogen",
+    "summary": "Hydrogen made headless storefronts easy to ship, but not portable. At Vercel Ship 26 in New York, we announced that we are working with Shopify to rebuild it from the ground up, a shared bet on a more open web. The new version is open source and runtime agnostic, meaning it can run anywhere JavaScript does. You can build with Svelte , Nuxt , Next.js or even bring your own custom framework. Our strategy includes three layers: core, client and server. The core Core is the JavaS",
     "tags": [
       "sdk",
       "ai_infra",
@@ -149,13 +238,13 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-06-30",
+    "date": "2026-07-01",
     "score": 66
   },
   {
-    "title": "xAI Grok audio models now available on Vercel AI Gateway",
-    "url": "https://vercel.com/changelog/xai-grok-audio-models-now-available-on-vercel-ai-gateway",
-    "summary": "xAI's audio models are now live on AI Gateway. Realtime voice, text to speech, and speech to text are all available through the AI SDK with the same routing, observability, and spend controls as your other models. These capabilities are available on the AI SDK 7 release. Available models Capability Models Realtime voice xai/grok-voice-think-fast-1.0 Text to speech xai/grok-tts Speech to text xai/grok-stt Realtime A voice agent has two pieces: a server route that mints a short",
+    "title": "Vercel Agent has updated pricing",
+    "url": "https://vercel.com/changelog/vercel-agent-has-updated-pricing",
+    "summary": "Vercel Agent pricing is changing. You no longer need to pre-load credits or manage a separate wallet for Vercel Agent. Instead of a $0.30 per-request fee, you now pay a Vercel Token Rate of $0.25 per million tokens, plus provider inference costs at the underlying token rate. The new Vercel Token Rate scales with the actual work each task requires. A quick question costs less than a deep investigation that reads your logs, deployments, configuration, and runtime data, spins up",
     "tags": [
       "sdk",
       "ai_infra",
@@ -163,13 +252,13 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-06-30",
+    "date": "2026-07-01",
     "score": 66
   },
   {
-    "title": "Realtime voice, speech, and transcription now supported on AI Gateway",
-    "url": "https://vercel.com/changelog/realtime-voice-speech-and-transcription-now-supported-on-ai-gateway",
-    "summary": "AI Gateway now supports voice and audio models. You can build realtime voice agents, generate speech from text, and transcribe audio to text. This provides the same observability, spend controls, and bring-your-own-key support as text, image, and video models in AI Gateway, with no markup or platform fees. These capabilities are in beta and available via AI SDK 7. With realtime support, a single model takes audio in and audio out, so a user can talk and hear a reply back in n",
+    "title": "Vercel Private Blob is now generally available",
+    "url": "https://vercel.com/changelog/vercel-private-blob-is-now-generally-available",
+    "summary": "Vercel Private Blob is now generally available for all plans. Store sensitive files like user-uploaded photos, invoices, and agent memory, and control exactly who can read them. Private stores, Signed URLs, and OIDC authentication all graduate from beta with this release. Vercel Private Blob uses the same Blob API as public blobs. Specify access: 'private' when uploading a blob: OIDC authentication Functions running on Vercel now authenticate to Vercel Private Blob with a sho",
     "tags": [
       "sdk",
       "ai_infra",
@@ -177,69 +266,27 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-06-30",
+    "date": "2026-07-01",
     "score": 66
   },
   {
-    "title": "Jupyter Agents: training LLMs to reason with notebooks",
-    "url": "https://huggingface.co/blog/jupyter-agent-2",
-    "summary": "Jupyter Agents: training LLMs to reason with notebooks 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Run multiple frameworks in one project with Vercel Services",
+    "url": "https://vercel.com/changelog/run-multiple-frameworks-in-one-project-with-vercel-services",
+    "summary": "You can now deploy multiple frontends and backends together within a single Vercel project. Vercel Services is now available , allowing you to deploy full stack apps with multiple frameworks on a shared domain, where services talk to each other privately and deployments build, preview, and roll back together. Services are defined in vercel.json : From there, your services show up across the dashboard and CLI: The Deployments panel visualizes the services graph The Logs UI fil",
     "tags": [
-      "open_source",
-      "papers",
-      "models"
+      "sdk",
+      "ai_infra",
+      "frontend"
     ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-06-30",
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-07-01",
     "score": 66
   },
   {
-    "title": "MCP for Research: How to Connect AI to Research Tools",
-    "url": "https://huggingface.co/blog/mcp-for-research",
-    "summary": "MCP for Research: How to Connect AI to Research Tools 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-06-30",
-    "score": 66
-  },
-  {
-    "title": "Three Mighty Alerts Supporting Hugging Face’s Production Infrastructure",
-    "url": "https://huggingface.co/blog/infrastructure-alerting",
-    "summary": "Three Mighty Alerts Supporting Hugging Face’s Production Infrastructure 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-06-30",
-    "score": 66
-  },
-  {
-    "title": "How Hugging Face Scaled Secrets Management for AI Infrastructure",
-    "url": "https://huggingface.co/blog/scaling-secrets-management",
-    "summary": "How Hugging Face Scaled Secrets Management for AI Infrastructure 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-06-30",
-    "score": 66
-  },
-  {
-    "title": "Introducing Langsmith Engine",
-    "url": "https://www.langchain.com/blog/introducing-langsmith-engine",
-    "summary": "LangSmith Engine watches your production traces, clusters failures into named issues, and proposes targeted fixes and eval coverage. Stop manually triaging agent failures.",
+    "title": "Sharing LangSmith Benchmarks",
+    "url": "https://www.langchain.com/blog/public-langsmith-benchmarks",
+    "summary": "Share and compare LLM evaluation results with public LangSmith benchmarks. Test RAG systems, agents, and architectures on community datasets.",
     "tags": [
       "agents",
       "rag",
@@ -247,13 +294,13 @@
     ],
     "author": "LangChain",
     "source": "langchain.com",
-    "date": "2026-06-30",
+    "date": "2026-07-01",
     "score": 66
   },
   {
-    "title": "How LangSmith and LangChain OSS Help You Meet EU AI Act Requirements",
-    "url": "https://www.langchain.com/blog/langsmith-langchain-oss-eu-ai-act",
-    "summary": "The EU AI Act compliance deadline is August 2, 2026. Learn what the EU AI Act requires, and how LangSmith and LangChain OSS products help you meet each requirement.",
+    "title": "How Factory used LangSmith to automate their feedback loop and improve iteration speed by 2x",
+    "url": "https://www.langchain.com/blog/customers-factory",
+    "summary": "How Factory AI uses LangSmith to debug issues and close the product feedback loop, resulting in a 2x improvement in iteration speed.",
     "tags": [
       "agents",
       "rag",
@@ -261,21 +308,7 @@
     ],
     "author": "LangChain",
     "source": "langchain.com",
-    "date": "2026-06-30",
-    "score": 66
-  },
-  {
-    "title": "How Klarna's AI assistant redefined customer support at scale for 85 million active users",
-    "url": "https://www.langchain.com/blog/customers-klarna",
-    "summary": "Klarna's AI assistant is revolutionizing the personal shopping experience, including customer service and productivity. See how they used LangGraph and LangSmith to achieve 80% faster customer resolution times.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-06-30",
+    "date": "2026-07-01",
     "score": 66
   }
 ]
