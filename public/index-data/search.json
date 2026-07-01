@@ -1,8 +1,161 @@
 [
   {
-    "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-    "url": "https://huggingface.co/blog/ibm-research/scarfbench",
-    "summary": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Mastering Agentic Techniques: AI Agent Reinforcement Learning",
+    "url": "https://developer.nvidia.com/blog/mastering-agentic-techniques-ai-agent-reinforcement-learning",
+    "summary": "NVIDIA Technical Blog · Mastering Agentic Techniques: AI Agent Reinforcement Learning",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-07-02",
+    "score": 71
+  },
+  {
+    "title": "Dry-run deployments with Vercel CLI",
+    "url": "https://vercel.com/changelog/dry-run-deployments-with-vercel-cli",
+    "summary": "You can now preview the framework preset and files that Vercel CLI includes in a deployment before creating one. Run vercel deploy --dry from a linked project: For automation or further inspection, return the complete file manifest as JSON: JSON output includes the detected framework, included and ignored paths, directory size distribution, largest files, file modes, and content hashes. Piped and other non-TTY output automatically uses JSON. Agents can use this manifest as a ",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-07-02",
+    "score": 69
+  },
+  {
+    "title": "Vercel Security Dashboard is in private beta",
+    "url": "https://vercel.com/changelog/vercel-security-dashboard-is-in-private-beta",
+    "summary": "The Vercel Security Dashboard is now in private beta. It aggregates the security posture of every account and project on Vercel. As teams grow and coding agents make it easy to spin up new projects, small misconfigurations can add up quietly and quickly. Team members without 2FA, publicly accessible preview environments, or long-lived credentials where short-lived ones would do. Each of these can lead to a security incident or breach. The security dashboard flags these findin",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-07-02",
+    "score": 69
+  },
+  {
+    "title": "6 security settings every GitHub maintainer should enable this week",
+    "url": "https://github.blog/security/6-security-settings-every-github-maintainer-should-enable-this-week",
+    "summary": "These six free settings will not make your project unhackable. Nothing will. What they will do is close the easy doors. Turn these on, and your project will be meaningfully harder to attack than it was before. The post 6 security settings every GitHub maintainer should enable this week appeared first on The GitHub Blog .",
+    "tags": [
+      "ai_coding",
+      "developer_tools"
+    ],
+    "author": "GitHub Copilot",
+    "source": "github.blog",
+    "date": "2026-07-02",
+    "score": 69
+  },
+  {
+    "title": "OpenWiki: Open Source Repo Documentation for Coding Agents",
+    "url": "https://www.langchain.com/blog/introducing-openwiki-an-open-source-agent-for-repo-documentation",
+    "summary": "OpenWiki generates and maintains codebase documentation so coding agents can find the repo context they need without loading everything into one instruction file.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-07-02",
+    "score": 68
+  },
+  {
+    "title": "How to Use RLMs in Deep Agents",
+    "url": "https://www.langchain.com/blog/how-to-use-rlms-in-deep-agents",
+    "summary": "Recursive language models (RLMs) fix context rot by having agents write code that dispatches subagents over context chunks instead of pumping everything in one context window. Deep Agents now implements this through dynamic subagents and a lightweight code interpreter, letting agents programmatically fan out work like grep, map, and reduce over large inputs. We benchmark the approach on OOLONG, a long-context reasoning task, and show it holds up where turn-by-turn agents star",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-07-02",
+    "score": 68
+  },
+  {
+    "title": "Benchmarking Agent Tool Use",
+    "url": "https://www.langchain.com/blog/benchmarking-agent-tool-use",
+    "summary": "Benchmark LLM tool use with 4 test environments. Compare GPT-4, Claude, and open-source models on function calling, planning, and reasoning tasks.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-07-02",
+    "score": 68
+  },
+  {
+    "title": "Benchmarking Single Agent Performance",
+    "url": "https://www.langchain.com/blog/react-agent-benchmarking",
+    "summary": "We explore how increasing the number of instructions and tools available to a single ReAct agent affects its performance, benchmarking models like claude-3.5-sonnet, gpt-4o, o1, and o3-mini across two domains of tasks.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-07-02",
+    "score": 67
+  },
+  {
+    "title": "Evaluating Skills",
+    "url": "https://www.langchain.com/blog/evaluating-skills",
+    "summary": "Best practices for evaluating AI agent skills. Define tasks, measure performance, and iterate faster with LangSmith observability and evals.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-07-02",
+    "score": 67
+  },
+  {
+    "title": "Claude Fable 5 access restored on AI Gateway",
+    "url": "https://vercel.com/changelog/claude-fable-5-access-restored-on-ai-gateway",
+    "summary": "Access to Claude Fable 5, the Mythos-class model, has now been restored on AI Gateway following the US Government's decision to lift the export controls. Fable 5 is the same model that was available between June 9 and June 12. What has changed is the safety classifiers, which are now updated and more robust. In the near term, some routine tasks such as coding and debugging may trigger safety classifiers. To ensure requests are still serviced when the safety classifiers are tr",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-07-02",
+    "score": 66
+  },
+  {
+    "title": "Enforce consistent code for agents and humans with konsistent",
+    "url": "https://vercel.com/changelog/enforce-consistent-code-for-agents-and-humans-with-konsistent",
+    "summary": "konsistent is now open source. konsistent is a CLI linter for TypeScript codebases that enforces structural conventions, giving agents and humans the consistent context they need to implement features correctly. Deterministic, fast, and covers structural patterns that TypeScript and ESLint don't model. Configure conventions in a project-level konsistent.json file for concerns like: Do all files matching pattern X export functions Y and Z? Does every folder that has file X als",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-07-02",
+    "score": 66
+  },
+  {
+    "title": "80TB+ of astronomy for the HDD-poor: crossmatch the Multimodal Universe from your laptop hugging-science • 2 days ago • 16",
+    "url": "https://huggingface.co/blog/hugging-science/multimodal-universe-hats",
+    "summary": "Hugging Face – Blog · 80TB+ of astronomy for the HDD-poor: crossmatch the Multimodal Universe from your laptop hugging-science • 2 days ago • 16",
     "tags": [
       "open_source",
       "papers",
@@ -10,283 +163,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-01",
-    "score": 72
-  },
-  {
-    "title": "Core dump epidemiology: fixing an 18-year-old bug",
-    "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-    "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-07-01",
-    "score": 70
-  },
-  {
-    "title": "Introducing GeneBench-Pro",
-    "url": "https://openai.com/index/introducing-genebench-pro",
-    "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-07-01",
-    "score": 69
-  },
-  {
-    "title": "Product Jun 30, 2026 Introducing Claude Sonnet 5 Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.",
-    "url": "https://www.anthropic.com/news/claude-sonnet-5",
-    "summary": "Newsroom \\ Anthropic · Product Jun 30, 2026 Introducing Claude Sonnet 5 Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.",
-    "tags": [
-      "ai_models",
-      "safety",
-      "official"
-    ],
-    "author": "Anthropic",
-    "source": "anthropic.com",
-    "date": "2026-07-01",
-    "score": 69
-  },
-  {
-    "title": "Claude Sonnet 5 now available on Vercel AI Gateway",
-    "url": "https://vercel.com/changelog/claude-sonnet-5-ai-gateway",
-    "summary": "Claude Sonnet 5 from Anthropic is now available on AI Gateway . Sonnet 5 improves on Sonnet 4.6 across coding and agentic work, reaching outcomes on many tasks that previously needed an Opus model, at Sonnet pricing. The model is more agentic and follows instructions more closely. Document parsing and long-context memory use are also stronger. Sonnet 5 also uses an updated tokenizer, like the recent Opus models, which can map the same input to more tokens. Launch pricing of $",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-07-01",
-    "score": 69
-  },
-  {
-    "title": "Announcements Jun 30, 2026 Claude Science, an AI workbench for scientists, is now available Claude Science is a customizable app that integrates the tools and packages researchers most often use, produces auditable artifacts, and provides flexible access to computing resources.",
-    "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
-    "summary": "Newsroom \\ Anthropic · Announcements Jun 30, 2026 Claude Science, an AI workbench for scientists, is now available Claude Science is a customizable app that integrates the tools and packages researchers most often use, produces auditable artifacts, and provides flexible access to computing resources.",
-    "tags": [
-      "ai_models",
-      "safety",
-      "official"
-    ],
-    "author": "Anthropic",
-    "source": "anthropic.com",
-    "date": "2026-07-01",
-    "score": 68
-  },
-  {
-    "title": "An expanded Vercel Agent: chat, investigations, and approved actions, now in public beta",
-    "url": "https://vercel.com/changelog/an-expanded-vercel-agent-chat-investigations-and-approved-actions-now-in-public-beta",
-    "summary": "Today, we're launching expanded capabilities for Vercel Agent in public beta. Vercel Agent now lives in your dashboard and can investigate production issues, answer questions about your projects, and take action on your behalf. Because Agent runs inside the platform that deploys and serves your app, it has access to the signals around it: deployments, logs, metrics, project configuration, usage, and connected repositories. That context is what turns a question into an answer ",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-07-01",
-    "score": 68
-  },
-  {
-    "title": "Vercel Open Source Program: Spring 2026 cohort",
-    "url": "https://vercel.com/blog/vercel-open-source-program-spring-2026-cohort",
-    "summary": "The world runs on open source software. The frameworks, libraries, and tools we rely on are made possible by communities that share ideas and build in the open. At Vercel, we want to help those communities thrive. That’s why we run the Vercel Open Source Program : a developer initiative that gives maintainers the resources and support they need to keep shipping and growing their projects. Four times a year, we welcome a new cohort of open source projects into the program. Mai",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-07-01",
-    "score": 68
-  },
-  {
-    "title": "How GitHub maintains compliance for open source dependencies",
-    "url": "https://github.blog/enterprise-software/governance-and-compliance/how-github-maintains-compliance-for-open-source-dependencies",
-    "summary": "Explore how the Open Source Program Office uses GitHub’s new license compliance product to manage open source dependencies at scale. The post How GitHub maintains compliance for open source dependencies appeared first on The GitHub Blog .",
-    "tags": [
-      "ai_coding",
-      "developer_tools"
-    ],
-    "author": "GitHub Copilot",
-    "source": "github.blog",
-    "date": "2026-07-01",
-    "score": 68
-  },
-  {
-    "title": "How ChatGPT adoption has expanded",
-    "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-    "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-07-01",
-    "score": 67
-  },
-  {
-    "title": "Inside Genebench-Pro",
-    "url": "https://openai.com/index/genebench-pro/case-studies",
-    "summary": "Inside Genebench-Pro 是 OpenAI 当日抓取到的公开新增条目。",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-07-01",
-    "score": 67
-  },
-  {
-    "title": "Vercel Services: Run full stack on Vercel",
-    "url": "https://vercel.com/blog/vercel-services-run-full-stack-on-vercel",
-    "summary": "To a user, an app with a Next.js frontend and a FastAPI backend feels like one product, and the same should be true for the engineers who build it. Instead, the two pieces are often deployed across different clouds with different development and deployment workflows. Today we're introducing Vercel Services , which lets you run multiple frameworks in one Vercel Project. This unlocks: Atomic deployments: Your frontend, backend, and other services stay in sync and deploy or roll",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-07-01",
-    "score": 67
-  },
-  {
-    "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
-    "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash",
-    "summary": "Start building with Nano Banana 2 Lite and Gemini Omni Flash 是 Google DeepMind 当日抓取到的公开新增条目。",
-    "tags": [
-      "research",
-      "multimodal",
-      "science",
-      "official"
-    ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-07-01",
+    "date": "2026-07-02",
     "score": 66
   },
   {
-    "title": "Designing GPU-Accelerated Query Engines with NVIDIA GQE",
-    "url": "https://developer.nvidia.com/blog/designing-gpu-accelerated-query-engines-with-nvidia-gqe",
-    "summary": "NVIDIA Technical Blog · Designing GPU-Accelerated Query Engines with NVIDIA GQE",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-07-01",
-    "score": 66
-  },
-  {
-    "title": "Optimizing a Neural Reconstruction Pipeline Using NVIDIA Nsight Developer Tools",
-    "url": "https://developer.nvidia.com/blog/optimizing-a-neural-reconstruction-pipeline-using-nvidia-nsight-developer-tools",
-    "summary": "NVIDIA Technical Blog · Optimizing a Neural Reconstruction Pipeline Using NVIDIA Nsight Developer Tools",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-07-01",
-    "score": 66
-  },
-  {
-    "title": "30 June General Run any Dockerfile on Vercel Vercel now runs any HTTP server straight from a Dockerfile. Bring a Rails, Django, Spring Boot, or Go app, and we can run it. Malte Ubl, Luke Phillips-Sheard, and 1 other",
-    "url": "https://vercel.com/blog/dockerfile-on-vercel",
-    "summary": "Blog - Vercel · 30 June General Run any Dockerfile on Vercel Vercel now runs any HTTP server straight from a Dockerfile. Bring a Rails, Django, Spring Boot, or Go app, and we can run it. Malte Ubl, Luke Phillips-Sheard, and 1 other",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-07-01",
-    "score": 66
-  },
-  {
-    "title": "Vercel and Shopify are rebuilding Hydrogen",
-    "url": "https://vercel.com/blog/vercel-and-shopify-are-rebuilding-hydrogen",
-    "summary": "Hydrogen made headless storefronts easy to ship, but not portable. At Vercel Ship 26 in New York, we announced that we are working with Shopify to rebuild it from the ground up, a shared bet on a more open web. The new version is open source and runtime agnostic, meaning it can run anywhere JavaScript does. You can build with Svelte , Nuxt , Next.js or even bring your own custom framework. Our strategy includes three layers: core, client and server. The core Core is the JavaS",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-07-01",
-    "score": 66
-  },
-  {
-    "title": "Vercel Agent has updated pricing",
-    "url": "https://vercel.com/changelog/vercel-agent-has-updated-pricing",
-    "summary": "Vercel Agent pricing is changing. You no longer need to pre-load credits or manage a separate wallet for Vercel Agent. Instead of a $0.30 per-request fee, you now pay a Vercel Token Rate of $0.25 per million tokens, plus provider inference costs at the underlying token rate. The new Vercel Token Rate scales with the actual work each task requires. A quick question costs less than a deep investigation that reads your logs, deployments, configuration, and runtime data, spins up",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-07-01",
-    "score": 66
-  },
-  {
-    "title": "Vercel Private Blob is now generally available",
-    "url": "https://vercel.com/changelog/vercel-private-blob-is-now-generally-available",
-    "summary": "Vercel Private Blob is now generally available for all plans. Store sensitive files like user-uploaded photos, invoices, and agent memory, and control exactly who can read them. Private stores, Signed URLs, and OIDC authentication all graduate from beta with this release. Vercel Private Blob uses the same Blob API as public blobs. Specify access: 'private' when uploading a blob: OIDC authentication Functions running on Vercel now authenticate to Vercel Private Blob with a sho",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-07-01",
-    "score": 66
-  },
-  {
-    "title": "Run multiple frameworks in one project with Vercel Services",
-    "url": "https://vercel.com/changelog/run-multiple-frameworks-in-one-project-with-vercel-services",
-    "summary": "You can now deploy multiple frontends and backends together within a single Vercel project. Vercel Services is now available , allowing you to deploy full stack apps with multiple frameworks on a shared domain, where services talk to each other privately and deployments build, preview, and roll back together. Services are defined in vercel.json : From there, your services show up across the dashboard and CLI: The Deployments panel visualizes the services graph The Logs UI fil",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-07-01",
-    "score": 66
-  },
-  {
-    "title": "Sharing LangSmith Benchmarks",
-    "url": "https://www.langchain.com/blog/public-langsmith-benchmarks",
-    "summary": "Share and compare LLM evaluation results with public LangSmith benchmarks. Test RAG systems, agents, and architectures on community datasets.",
+    "title": "How Pendo uses LangSmith to trace Novus from user behavior to code fixes",
+    "url": "https://www.langchain.com/blog/how-pendo-used-langsmith-to-trace-novus-from-user-behavior-to-code-fixes",
+    "summary": "Pendo used LangSmith to debug, evaluate, and monitor Novus, its AI product agent that turns behavioral data and session replays into code fixes.",
     "tags": [
       "agents",
       "rag",
@@ -294,13 +177,13 @@
     ],
     "author": "LangChain",
     "source": "langchain.com",
-    "date": "2026-07-01",
+    "date": "2026-07-02",
     "score": 66
   },
   {
-    "title": "How Factory used LangSmith to automate their feedback loop and improve iteration speed by 2x",
-    "url": "https://www.langchain.com/blog/customers-factory",
-    "summary": "How Factory AI uses LangSmith to debug issues and close the product feedback loop, resulting in a 2x improvement in iteration speed.",
+    "title": "How Rippling built production AI in 6 months with Deep Agents and LangSmith",
+    "url": "https://www.langchain.com/blog/how-rippling-went-ai-native-across-every-product-in-6-months-with-deep-agents-and-langsmith",
+    "summary": "Rippling uses LangChain Deep Agents and LangSmith to run cross-domain AI across HR, IT, finance, payroll, and global operations.",
     "tags": [
       "agents",
       "rag",
@@ -308,7 +191,105 @@
     ],
     "author": "LangChain",
     "source": "langchain.com",
-    "date": "2026-07-01",
+    "date": "2026-07-02",
+    "score": 66
+  },
+  {
+    "title": "Extraction Benchmarking",
+    "url": "https://www.langchain.com/blog/extraction-benchmarking",
+    "summary": "Compare GPT-4, Claude, and open-source LLMs on structured data extraction from chat logs. Benchmark results, evaluation metrics, and dataset creation insights.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-07-02",
+    "score": 66
+  },
+  {
+    "title": "Build and deploy a RAG app with Pinecone Serverless",
+    "url": "https://www.langchain.com/blog/pinecone-serverless",
+    "summary": "Build production-ready RAG apps with Pinecone Serverless, LangChain, and LangServe. Deploy scalable AI with usage-based pricing and observability.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-07-02",
+    "score": 66
+  },
+  {
+    "title": "How and when to build multi-agent systems",
+    "url": "https://www.langchain.com/blog/how-and-when-to-build-multi-agent-systems",
+    "summary": "Learn when to build multi-agent AI systems and when to avoid them. Context engineering best practices, reliability patterns, and production insights.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-07-02",
+    "score": 66
+  },
+  {
+    "title": "Everything we shipped at Interrupt",
+    "url": "https://www.langchain.com/blog/interrupt-2026-overview",
+    "summary": "From autonomous debugging to one-line deploys, here's every product LangChain launched at Interrupt 2026 to help teams build, test, and ship agents in production.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-07-02",
+    "score": 66
+  },
+  {
+    "title": "Fault Tolerance in LangGraph: Retries, Timeouts and Error Handlers",
+    "url": "https://www.langchain.com/blog/fault-tolerance-in-langgraph",
+    "summary": "Production agents fail in ways prototypes never do. This post walks through the three fault tolerance primitives built into LangGraph: RetryPolicy for automatic retries with backoff, TimeoutPolicy for wall-clock and idle-based caps, and error_handler for cleanup logic once retries are exhausted. Learn how they compose, why having them inside the workflow engine matters, and how to use the SAGA pattern to handle multi-step workflows with real-world side effects.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-07-02",
+    "score": 66
+  },
+  {
+    "title": "Fixing agent failures in production: Interrupt 2026 recap | LangChain Newsletter",
+    "url": "https://www.langchain.com/blog/may-2026-langchain-newsletter",
+    "summary": "Recapping two days of Interrupt 2026 — LangSmith Engine, Sandboxes GA, LangChain Labs, and 23 talks from teams at LinkedIn, Rippling, Cisco, and more. Now on demand.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-07-02",
+    "score": 66
+  },
+  {
+    "title": "Newsletter",
+    "url": "https://www.llamaindex.ai/blog?tag=Newsletter",
+    "summary": "Blog · Newsletter",
+    "tags": [
+      "rag",
+      "agents",
+      "framework"
+    ],
+    "author": "LlamaIndex",
+    "source": "llamaindex.ai",
+    "date": "2026-07-02",
     "score": 66
   }
 ]

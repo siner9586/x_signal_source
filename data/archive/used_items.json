@@ -5266,5 +5266,215 @@
     "cluster_id": "langchain_com_ae0641b0",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_20d182586debd155",
+    "canonical_url": "https://developer.nvidia.com/blog/mastering-agentic-techniques-ai-agent-reinforcement-learning",
+    "dedupe_key": "6903c8635ff46ea4",
+    "title": "Mastering Agentic Techniques: AI Agent Reinforcement Learning",
+    "issue_date": "2026-07-02",
+    "cluster_id": "developer_nvidia_com_f4b2be4c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0d1cc22009475eff",
+    "canonical_url": "https://vercel.com/changelog/dry-run-deployments-with-vercel-cli",
+    "dedupe_key": "32ed22002c4eaa17",
+    "title": "Dry-run deployments with Vercel CLI",
+    "issue_date": "2026-07-02",
+    "cluster_id": "vercel_com_d8ced4fc",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0d9cc4b0f1a10cd8",
+    "canonical_url": "https://vercel.com/changelog/vercel-security-dashboard-is-in-private-beta",
+    "dedupe_key": "a4a79e04ac08f8ad",
+    "title": "Vercel Security Dashboard is in private beta",
+    "issue_date": "2026-07-02",
+    "cluster_id": "vercel_com_8b73c7b2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5a1d46e7404a4e2e",
+    "canonical_url": "https://github.blog/security/6-security-settings-every-github-maintainer-should-enable-this-week",
+    "dedupe_key": "fd403186f49654c7",
+    "title": "6 security settings every GitHub maintainer should enable this week",
+    "issue_date": "2026-07-02",
+    "cluster_id": "github_blog_b4ab10c0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a3e5bb371708b9f7",
+    "canonical_url": "https://www.langchain.com/blog/introducing-openwiki-an-open-source-agent-for-repo-documentation",
+    "dedupe_key": "d24c5862b65e12a3",
+    "title": "OpenWiki: Open Source Repo Documentation for Coding Agents",
+    "issue_date": "2026-07-02",
+    "cluster_id": "langchain_com_73a7b625",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8d340e4b14241adc",
+    "canonical_url": "https://www.langchain.com/blog/how-to-use-rlms-in-deep-agents",
+    "dedupe_key": "94034ff83b9aefac",
+    "title": "How to Use RLMs in Deep Agents",
+    "issue_date": "2026-07-02",
+    "cluster_id": "langchain_com_522340d9",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a145ae6d952f5750",
+    "canonical_url": "https://www.langchain.com/blog/benchmarking-agent-tool-use",
+    "dedupe_key": "404d100dc897dfca",
+    "title": "Benchmarking Agent Tool Use",
+    "issue_date": "2026-07-02",
+    "cluster_id": "langchain_com_7b0abacd",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_97380e3c17a563ac",
+    "canonical_url": "https://www.langchain.com/blog/react-agent-benchmarking",
+    "dedupe_key": "faae3f03523db199",
+    "title": "Benchmarking Single Agent Performance",
+    "issue_date": "2026-07-02",
+    "cluster_id": "langchain_com_3ab8dcd2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c9d6a960ed57f203",
+    "canonical_url": "https://www.langchain.com/blog/evaluating-skills",
+    "dedupe_key": "6b32e0684d21e98d",
+    "title": "Evaluating Skills",
+    "issue_date": "2026-07-02",
+    "cluster_id": "langchain_com_0f02c33a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_fd684e139fe9b5d1",
+    "canonical_url": "https://vercel.com/changelog/claude-fable-5-access-restored-on-ai-gateway",
+    "dedupe_key": "237335764341ce6c",
+    "title": "Claude Fable 5 access restored on AI Gateway",
+    "issue_date": "2026-07-02",
+    "cluster_id": "vercel_com_46cf4beb",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f7c97a1c8790ba56",
+    "canonical_url": "https://vercel.com/changelog/enforce-consistent-code-for-agents-and-humans-with-konsistent",
+    "dedupe_key": "bf58fda79ac9afe1",
+    "title": "Enforce consistent code for agents and humans with konsistent",
+    "issue_date": "2026-07-02",
+    "cluster_id": "vercel_com_dc3bead5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d1f8480e6f12e029",
+    "canonical_url": "https://huggingface.co/blog/hugging-science/multimodal-universe-hats",
+    "dedupe_key": "fa5acc1d738daf94",
+    "title": "80TB+ of astronomy for the HDD-poor: crossmatch the Multimodal Universe from your laptop hugging-science • 2 days ago • 16",
+    "issue_date": "2026-07-02",
+    "cluster_id": "huggingface_co_96952904",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_487021b386e39d69",
+    "canonical_url": "https://www.langchain.com/blog/how-pendo-used-langsmith-to-trace-novus-from-user-behavior-to-code-fixes",
+    "dedupe_key": "1412eda523550606",
+    "title": "How Pendo uses LangSmith to trace Novus from user behavior to code fixes",
+    "issue_date": "2026-07-02",
+    "cluster_id": "langchain_com_382baefd",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_fb9c07ed7c676dab",
+    "canonical_url": "https://www.langchain.com/blog/how-rippling-went-ai-native-across-every-product-in-6-months-with-deep-agents-and-langsmith",
+    "dedupe_key": "b2d819b2177890ed",
+    "title": "How Rippling built production AI in 6 months with Deep Agents and LangSmith",
+    "issue_date": "2026-07-02",
+    "cluster_id": "langchain_com_adc70e4b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f9cc1e09a8b682a3",
+    "canonical_url": "https://www.langchain.com/blog/extraction-benchmarking",
+    "dedupe_key": "48c6129cf2519241",
+    "title": "Extraction Benchmarking",
+    "issue_date": "2026-07-02",
+    "cluster_id": "langchain_com_cf3354f5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7901f11ebd94d070",
+    "canonical_url": "https://www.langchain.com/blog/pinecone-serverless",
+    "dedupe_key": "aab1f275ea76db6d",
+    "title": "Build and deploy a RAG app with Pinecone Serverless",
+    "issue_date": "2026-07-02",
+    "cluster_id": "langchain_com_6c7d1a34",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b33de337e9dff0a7",
+    "canonical_url": "https://www.langchain.com/blog/how-and-when-to-build-multi-agent-systems",
+    "dedupe_key": "f144f5ce4f643701",
+    "title": "How and when to build multi-agent systems",
+    "issue_date": "2026-07-02",
+    "cluster_id": "langchain_com_4d0f169f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_79a31babe29ca920",
+    "canonical_url": "https://www.langchain.com/blog/interrupt-2026-overview",
+    "dedupe_key": "bdc749d640fafc3c",
+    "title": "Everything we shipped at Interrupt",
+    "issue_date": "2026-07-02",
+    "cluster_id": "langchain_com_31ffcb5e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9bb77ec827f20264",
+    "canonical_url": "https://www.langchain.com/blog/fault-tolerance-in-langgraph",
+    "dedupe_key": "66a34f1b3dd9f5e6",
+    "title": "Fault Tolerance in LangGraph: Retries, Timeouts and Error Handlers",
+    "issue_date": "2026-07-02",
+    "cluster_id": "langchain_com_b741663d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_536f5efd0650acfa",
+    "canonical_url": "https://www.langchain.com/blog/may-2026-langchain-newsletter",
+    "dedupe_key": "e4f3174fe4b7354d",
+    "title": "Fixing agent failures in production: Interrupt 2026 recap | LangChain Newsletter",
+    "issue_date": "2026-07-02",
+    "cluster_id": "langchain_com_33359ad2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_11e87231a767dfee",
+    "canonical_url": "https://www.llamaindex.ai/blog?tag=Newsletter",
+    "dedupe_key": "d481c770d720fa20",
+    "title": "Newsletter",
+    "issue_date": "2026-07-02",
+    "cluster_id": "llamaindex_ai_dd6f465f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
