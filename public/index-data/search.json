@@ -1,8 +1,74 @@
 [
   {
-    "title": "Mastering Agentic Techniques: AI Agent Reinforcement Learning",
-    "url": "https://developer.nvidia.com/blog/mastering-agentic-techniques-ai-agent-reinforcement-learning",
-    "summary": "NVIDIA Technical Blog · Mastering Agentic Techniques: AI Agent Reinforcement Learning",
+    "title": "Introducing Procedures in ElevenAgents",
+    "url": "https://elevenlabs.io/blog/procedures",
+    "summary": "ElevenLabs Blog - Company, Research & Product Updates · Introducing Procedures in ElevenAgents",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-07-03",
+    "score": 70
+  },
+  {
+    "title": "Introducing Flows Agent in ElevenCreative",
+    "url": "https://elevenlabs.io/blog/introducing-flows-agent",
+    "summary": "ElevenLabs Blog - Company, Research & Product Updates · Introducing Flows Agent in ElevenCreative",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-07-03",
+    "score": 70
+  },
+  {
+    "title": "Introducing Ads Engine in ElevenCreative",
+    "url": "https://elevenlabs.io/blog/introducing-ads-engine-in-elevencreative",
+    "summary": "ElevenLabs Blog - Company, Research & Product Updates · Introducing Ads Engine in ElevenCreative",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-07-03",
+    "score": 67
+  },
+  {
+    "title": "How GitHub used secret scanning to reach inbox zero",
+    "url": "https://github.blog/security/application-security/how-github-used-secret-scanning-to-reach-inbox-zero",
+    "summary": "GitHub had 20,000+ secret scanning alerts across 15,000 repositories. Here's how we separated signal from noise, built remediation workflows, and reached inbox zero in nine months. The post How GitHub used secret scanning to reach inbox zero appeared first on The GitHub Blog .",
+    "tags": [
+      "ai_coding",
+      "developer_tools"
+    ],
+    "author": "GitHub Copilot",
+    "source": "github.blog",
+    "date": "2026-07-03",
+    "score": 67
+  },
+  {
+    "title": "Your coding agent bill doubled. Here’s how to fix it.",
+    "url": "https://www.langchain.com/blog/fix-your-coding-agent-bill",
+    "summary": "Learn why coding agent bills spiral out of control — and how to trace, compare, and govern spend across Claude Code, Cursor, Copilot, and more in one place.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-07-03",
+    "score": 67
+  },
+  {
+    "title": "Hardware-Rooted AI Security That Won&#039;t Slow You Down",
+    "url": "https://developer.nvidia.com/blog/hardware-rooted-ai-security-that-wont-slow-you-down",
+    "summary": "NVIDIA Technical Blog · Hardware-Rooted AI Security That Won&#039;t Slow You Down",
     "tags": [
       "gpu",
       "inference",
@@ -10,278 +76,13 @@
     ],
     "author": "NVIDIA AI",
     "source": "developer.nvidia.com",
-    "date": "2026-07-02",
-    "score": 71
-  },
-  {
-    "title": "Dry-run deployments with Vercel CLI",
-    "url": "https://vercel.com/changelog/dry-run-deployments-with-vercel-cli",
-    "summary": "You can now preview the framework preset and files that Vercel CLI includes in a deployment before creating one. Run vercel deploy --dry from a linked project: For automation or further inspection, return the complete file manifest as JSON: JSON output includes the detected framework, included and ignored paths, directory size distribution, largest files, file modes, and content hashes. Piped and other non-TTY output automatically uses JSON. Agents can use this manifest as a ",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-07-02",
-    "score": 69
-  },
-  {
-    "title": "Vercel Security Dashboard is in private beta",
-    "url": "https://vercel.com/changelog/vercel-security-dashboard-is-in-private-beta",
-    "summary": "The Vercel Security Dashboard is now in private beta. It aggregates the security posture of every account and project on Vercel. As teams grow and coding agents make it easy to spin up new projects, small misconfigurations can add up quietly and quickly. Team members without 2FA, publicly accessible preview environments, or long-lived credentials where short-lived ones would do. Each of these can lead to a security incident or breach. The security dashboard flags these findin",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-07-02",
-    "score": 69
-  },
-  {
-    "title": "6 security settings every GitHub maintainer should enable this week",
-    "url": "https://github.blog/security/6-security-settings-every-github-maintainer-should-enable-this-week",
-    "summary": "These six free settings will not make your project unhackable. Nothing will. What they will do is close the easy doors. Turn these on, and your project will be meaningfully harder to attack than it was before. The post 6 security settings every GitHub maintainer should enable this week appeared first on The GitHub Blog .",
-    "tags": [
-      "ai_coding",
-      "developer_tools"
-    ],
-    "author": "GitHub Copilot",
-    "source": "github.blog",
-    "date": "2026-07-02",
-    "score": 69
-  },
-  {
-    "title": "OpenWiki: Open Source Repo Documentation for Coding Agents",
-    "url": "https://www.langchain.com/blog/introducing-openwiki-an-open-source-agent-for-repo-documentation",
-    "summary": "OpenWiki generates and maintains codebase documentation so coding agents can find the repo context they need without loading everything into one instruction file.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-07-02",
-    "score": 68
-  },
-  {
-    "title": "How to Use RLMs in Deep Agents",
-    "url": "https://www.langchain.com/blog/how-to-use-rlms-in-deep-agents",
-    "summary": "Recursive language models (RLMs) fix context rot by having agents write code that dispatches subagents over context chunks instead of pumping everything in one context window. Deep Agents now implements this through dynamic subagents and a lightweight code interpreter, letting agents programmatically fan out work like grep, map, and reduce over large inputs. We benchmark the approach on OOLONG, a long-context reasoning task, and show it holds up where turn-by-turn agents star",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-07-02",
-    "score": 68
-  },
-  {
-    "title": "Benchmarking Agent Tool Use",
-    "url": "https://www.langchain.com/blog/benchmarking-agent-tool-use",
-    "summary": "Benchmark LLM tool use with 4 test environments. Compare GPT-4, Claude, and open-source models on function calling, planning, and reasoning tasks.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-07-02",
-    "score": 68
-  },
-  {
-    "title": "Benchmarking Single Agent Performance",
-    "url": "https://www.langchain.com/blog/react-agent-benchmarking",
-    "summary": "We explore how increasing the number of instructions and tools available to a single ReAct agent affects its performance, benchmarking models like claude-3.5-sonnet, gpt-4o, o1, and o3-mini across two domains of tasks.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-07-02",
-    "score": 67
-  },
-  {
-    "title": "Evaluating Skills",
-    "url": "https://www.langchain.com/blog/evaluating-skills",
-    "summary": "Best practices for evaluating AI agent skills. Define tasks, measure performance, and iterate faster with LangSmith observability and evals.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-07-02",
-    "score": 67
-  },
-  {
-    "title": "Claude Fable 5 access restored on AI Gateway",
-    "url": "https://vercel.com/changelog/claude-fable-5-access-restored-on-ai-gateway",
-    "summary": "Access to Claude Fable 5, the Mythos-class model, has now been restored on AI Gateway following the US Government's decision to lift the export controls. Fable 5 is the same model that was available between June 9 and June 12. What has changed is the safety classifiers, which are now updated and more robust. In the near term, some routine tasks such as coding and debugging may trigger safety classifiers. To ensure requests are still serviced when the safety classifiers are tr",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-07-02",
+    "date": "2026-07-03",
     "score": 66
   },
   {
-    "title": "Enforce consistent code for agents and humans with konsistent",
-    "url": "https://vercel.com/changelog/enforce-consistent-code-for-agents-and-humans-with-konsistent",
-    "summary": "konsistent is now open source. konsistent is a CLI linter for TypeScript codebases that enforces structural conventions, giving agents and humans the consistent context they need to implement features correctly. Deterministic, fast, and covers structural patterns that TypeScript and ESLint don't model. Configure conventions in a project-level konsistent.json file for concerns like: Do all files matching pattern X export functions Y and Z? Does every folder that has file X als",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-07-02",
-    "score": 66
-  },
-  {
-    "title": "80TB+ of astronomy for the HDD-poor: crossmatch the Multimodal Universe from your laptop hugging-science • 2 days ago • 16",
-    "url": "https://huggingface.co/blog/hugging-science/multimodal-universe-hats",
-    "summary": "Hugging Face – Blog · 80TB+ of astronomy for the HDD-poor: crossmatch the Multimodal Universe from your laptop hugging-science • 2 days ago • 16",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-02",
-    "score": 66
-  },
-  {
-    "title": "How Pendo uses LangSmith to trace Novus from user behavior to code fixes",
-    "url": "https://www.langchain.com/blog/how-pendo-used-langsmith-to-trace-novus-from-user-behavior-to-code-fixes",
-    "summary": "Pendo used LangSmith to debug, evaluate, and monitor Novus, its AI product agent that turns behavioral data and session replays into code fixes.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-07-02",
-    "score": 66
-  },
-  {
-    "title": "How Rippling built production AI in 6 months with Deep Agents and LangSmith",
-    "url": "https://www.langchain.com/blog/how-rippling-went-ai-native-across-every-product-in-6-months-with-deep-agents-and-langsmith",
-    "summary": "Rippling uses LangChain Deep Agents and LangSmith to run cross-domain AI across HR, IT, finance, payroll, and global operations.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-07-02",
-    "score": 66
-  },
-  {
-    "title": "Extraction Benchmarking",
-    "url": "https://www.langchain.com/blog/extraction-benchmarking",
-    "summary": "Compare GPT-4, Claude, and open-source LLMs on structured data extraction from chat logs. Benchmark results, evaluation metrics, and dataset creation insights.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-07-02",
-    "score": 66
-  },
-  {
-    "title": "Build and deploy a RAG app with Pinecone Serverless",
-    "url": "https://www.langchain.com/blog/pinecone-serverless",
-    "summary": "Build production-ready RAG apps with Pinecone Serverless, LangChain, and LangServe. Deploy scalable AI with usage-based pricing and observability.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-07-02",
-    "score": 66
-  },
-  {
-    "title": "How and when to build multi-agent systems",
-    "url": "https://www.langchain.com/blog/how-and-when-to-build-multi-agent-systems",
-    "summary": "Learn when to build multi-agent AI systems and when to avoid them. Context engineering best practices, reliability patterns, and production insights.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-07-02",
-    "score": 66
-  },
-  {
-    "title": "Everything we shipped at Interrupt",
-    "url": "https://www.langchain.com/blog/interrupt-2026-overview",
-    "summary": "From autonomous debugging to one-line deploys, here's every product LangChain launched at Interrupt 2026 to help teams build, test, and ship agents in production.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-07-02",
-    "score": 66
-  },
-  {
-    "title": "Fault Tolerance in LangGraph: Retries, Timeouts and Error Handlers",
-    "url": "https://www.langchain.com/blog/fault-tolerance-in-langgraph",
-    "summary": "Production agents fail in ways prototypes never do. This post walks through the three fault tolerance primitives built into LangGraph: RetryPolicy for automatic retries with backoff, TimeoutPolicy for wall-clock and idle-based caps, and error_handler for cleanup logic once retries are exhausted. Learn how they compose, why having them inside the workflow engine matters, and how to use the SAGA pattern to handle multi-step workflows with real-world side effects.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-07-02",
-    "score": 66
-  },
-  {
-    "title": "Fixing agent failures in production: Interrupt 2026 recap | LangChain Newsletter",
-    "url": "https://www.langchain.com/blog/may-2026-langchain-newsletter",
-    "summary": "Recapping two days of Interrupt 2026 — LangSmith Engine, Sandboxes GA, LangChain Labs, and 23 talks from teams at LinkedIn, Rippling, Cisco, and more. Now on demand.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-07-02",
-    "score": 66
-  },
-  {
-    "title": "Newsletter",
-    "url": "https://www.llamaindex.ai/blog?tag=Newsletter",
-    "summary": "Blog · Newsletter",
+    "title": "LlamaParse",
+    "url": "https://www.llamaindex.ai/blog?tag=LlamaParse",
+    "summary": "Blog · LlamaParse",
     "tags": [
       "rag",
       "agents",
@@ -289,7 +90,217 @@
     ],
     "author": "LlamaIndex",
     "source": "llamaindex.ai",
-    "date": "2026-07-02",
+    "date": "2026-07-03",
     "score": 66
+  },
+  {
+    "title": "Large Language Models",
+    "url": "https://www.llamaindex.ai/blog?tag=Large+Language+Models",
+    "summary": "Blog · Large Language Models",
+    "tags": [
+      "rag",
+      "agents",
+      "framework"
+    ],
+    "author": "LlamaIndex",
+    "source": "llamaindex.ai",
+    "date": "2026-07-03",
+    "score": 66
+  },
+  {
+    "title": "Case Study",
+    "url": "https://www.llamaindex.ai/blog?tag=Case+Study",
+    "summary": "Blog · Case Study",
+    "tags": [
+      "rag",
+      "agents",
+      "framework"
+    ],
+    "author": "LlamaIndex",
+    "source": "llamaindex.ai",
+    "date": "2026-07-03",
+    "score": 66
+  },
+  {
+    "title": "Claude Science is Anthropic’s newest flagship product",
+    "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product",
+    "summary": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Claude Code, Claude Science can autonomously carry out meaningful work when given concise, high-level instructions, and it has access&#8230;",
+    "tags": [
+      "ai",
+      "research",
+      "society"
+    ],
+    "author": "MIT Technology Review AI",
+    "source": "technologyreview.com",
+    "date": "2026-07-03",
+    "score": 66
+  },
+  {
+    "title": "AI agents are not your &#8220;coworkers&#8221;",
+    "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one that your company nonetheless calls Alex, an&#8230;",
+    "tags": [
+      "ai",
+      "research",
+      "society"
+    ],
+    "author": "MIT Technology Review AI",
+    "source": "technologyreview.com",
+    "date": "2026-07-03",
+    "score": 66
+  },
+  {
+    "title": "Redeploying Fable 5 Announcements Jun 30, 2026 Fable 5 returns globally July 1. We&#x27;re also proposing an industry-wide framework for scoring jailbreak severity, together with Amazon, Microsoft, Google, and other Glasswing partners.",
+    "url": "https://www.anthropic.com/news/redeploying-fable-5",
+    "summary": "Newsroom \\ Anthropic · Redeploying Fable 5 Announcements Jun 30, 2026 Fable 5 returns globally July 1. We&#x27;re also proposing an industry-wide framework for scoring jailbreak severity, together with Amazon, Microsoft, Google, and other Glasswing partners.",
+    "tags": [
+      "ai_models",
+      "safety",
+      "official"
+    ],
+    "author": "Anthropic",
+    "source": "anthropic.com",
+    "date": "2026-07-03",
+    "score": 65
+  },
+  {
+    "title": "Explore all research areas",
+    "url": "https://research.google/research-areas",
+    "summary": "Google Research - Explore Our Latest Research in Science and AI · Explore all research areas",
+    "tags": [
+      "google",
+      "ai",
+      "official"
+    ],
+    "author": "Google AI",
+    "source": "research.google",
+    "date": "2026-07-03",
+    "score": 65
+  },
+  {
+    "title": "Science AI",
+    "url": "https://research.google/research-areas/science-ai",
+    "summary": "Google Research - Explore Our Latest Research in Science and AI · Science AI",
+    "tags": [
+      "google",
+      "ai",
+      "official"
+    ],
+    "author": "Google AI",
+    "source": "research.google",
+    "date": "2026-07-03",
+    "score": 65
+  },
+  {
+    "title": "Sustainability & crisis resilience",
+    "url": "https://research.google/research-areas/sustainability-crisis-resilience",
+    "summary": "Google Research - Explore Our Latest Research in Science and AI · Sustainability & crisis resilience",
+    "tags": [
+      "google",
+      "ai",
+      "official"
+    ],
+    "author": "Google AI",
+    "source": "research.google",
+    "date": "2026-07-03",
+    "score": 65
+  },
+  {
+    "title": "Algorithms & theory",
+    "url": "https://research.google/research-areas/algorithms-and-theory",
+    "summary": "Google Research - Explore Our Latest Research in Science and AI · Algorithms & theory",
+    "tags": [
+      "google",
+      "ai",
+      "official"
+    ],
+    "author": "Google AI",
+    "source": "research.google",
+    "date": "2026-07-03",
+    "score": 65
+  },
+  {
+    "title": "Information retrieval",
+    "url": "https://research.google/research-areas/information-retrieval",
+    "summary": "Google Research - Explore Our Latest Research in Science and AI · Information retrieval",
+    "tags": [
+      "google",
+      "ai",
+      "official"
+    ],
+    "author": "Google AI",
+    "source": "research.google",
+    "date": "2026-07-03",
+    "score": 65
+  },
+  {
+    "title": "Machine intelligence",
+    "url": "https://research.google/research-areas/machine-intelligence",
+    "summary": "Google Research - Explore Our Latest Research in Science and AI · Machine intelligence",
+    "tags": [
+      "google",
+      "ai",
+      "official"
+    ],
+    "author": "Google AI",
+    "source": "research.google",
+    "date": "2026-07-03",
+    "score": 65
+  },
+  {
+    "title": "Machine perception",
+    "url": "https://research.google/research-areas/machine-perception",
+    "summary": "Google Research - Explore Our Latest Research in Science and AI · Machine perception",
+    "tags": [
+      "google",
+      "ai",
+      "official"
+    ],
+    "author": "Google AI",
+    "source": "research.google",
+    "date": "2026-07-03",
+    "score": 65
+  },
+  {
+    "title": "Natural language processing",
+    "url": "https://research.google/research-areas/natural-language-processing",
+    "summary": "Google Research - Explore Our Latest Research in Science and AI · Natural language processing",
+    "tags": [
+      "google",
+      "ai",
+      "official"
+    ],
+    "author": "Google AI",
+    "source": "research.google",
+    "date": "2026-07-03",
+    "score": 65
+  },
+  {
+    "title": "Human-computer interaction and visualization",
+    "url": "https://research.google/research-areas/human-computer-interaction-and-visualization",
+    "summary": "Google Research - Explore Our Latest Research in Science and AI · Human-computer interaction and visualization",
+    "tags": [
+      "google",
+      "ai",
+      "official"
+    ],
+    "author": "Google AI",
+    "source": "research.google",
+    "date": "2026-07-03",
+    "score": 65
+  },
+  {
+    "title": "Networking",
+    "url": "https://research.google/research-areas/networking",
+    "summary": "Google Research - Explore Our Latest Research in Science and AI · Networking",
+    "tags": [
+      "google",
+      "ai",
+      "official"
+    ],
+    "author": "Google AI",
+    "source": "research.google",
+    "date": "2026-07-03",
+    "score": 65
   }
 ]

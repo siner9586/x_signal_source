@@ -5476,5 +5476,225 @@
     "cluster_id": "llamaindex_ai_dd6f465f",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d56485defdad0250",
+    "canonical_url": "https://elevenlabs.io/blog/procedures",
+    "dedupe_key": "1c7711fad409a405",
+    "title": "Introducing Procedures in ElevenAgents",
+    "issue_date": "2026-07-03",
+    "cluster_id": "elevenlabs_io_dc39b42c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_eab0ec53b3b8113f",
+    "canonical_url": "https://elevenlabs.io/blog/introducing-flows-agent",
+    "dedupe_key": "a801b72427045068",
+    "title": "Introducing Flows Agent in ElevenCreative",
+    "issue_date": "2026-07-03",
+    "cluster_id": "elevenlabs_io_a2b81164",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_88b3be91d747e225",
+    "canonical_url": "https://elevenlabs.io/blog/introducing-ads-engine-in-elevencreative",
+    "dedupe_key": "8dd4820b04c2c172",
+    "title": "Introducing Ads Engine in ElevenCreative",
+    "issue_date": "2026-07-03",
+    "cluster_id": "elevenlabs_io_08652534",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e8d4c9dd14cd7848",
+    "canonical_url": "https://github.blog/security/application-security/how-github-used-secret-scanning-to-reach-inbox-zero",
+    "dedupe_key": "2ad58f3fcdbcb513",
+    "title": "How GitHub used secret scanning to reach inbox zero",
+    "issue_date": "2026-07-03",
+    "cluster_id": "github_blog_19623648",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ff226081f048cc30",
+    "canonical_url": "https://www.langchain.com/blog/fix-your-coding-agent-bill",
+    "dedupe_key": "f076e1f232e1bef5",
+    "title": "Your coding agent bill doubled. Here’s how to fix it.",
+    "issue_date": "2026-07-03",
+    "cluster_id": "langchain_com_d84a1258",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_03d7ba3858caf180",
+    "canonical_url": "https://developer.nvidia.com/blog/hardware-rooted-ai-security-that-wont-slow-you-down",
+    "dedupe_key": "e7fce547e8839943",
+    "title": "Hardware-Rooted AI Security That Won&#039;t Slow You Down",
+    "issue_date": "2026-07-03",
+    "cluster_id": "developer_nvidia_com_b3c42417",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b734d2b97fd60065",
+    "canonical_url": "https://www.llamaindex.ai/blog?tag=LlamaParse",
+    "dedupe_key": "b516a5ccc517f7b3",
+    "title": "LlamaParse",
+    "issue_date": "2026-07-03",
+    "cluster_id": "llamaindex_ai_6c1cdd86",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_113f7bc97bbcf2c8",
+    "canonical_url": "https://www.llamaindex.ai/blog?tag=Large+Language+Models",
+    "dedupe_key": "7f208ee37d5c7ad7",
+    "title": "Large Language Models",
+    "issue_date": "2026-07-03",
+    "cluster_id": "llamaindex_ai_3e6d81a1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0ad0188f51a67e99",
+    "canonical_url": "https://www.llamaindex.ai/blog?tag=Case+Study",
+    "dedupe_key": "bd6919533c0f8a05",
+    "title": "Case Study",
+    "issue_date": "2026-07-03",
+    "cluster_id": "llamaindex_ai_2dbbb215",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_62b6738903831568",
+    "canonical_url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product",
+    "dedupe_key": "6c846f6820aab42a",
+    "title": "Claude Science is Anthropic’s newest flagship product",
+    "issue_date": "2026-07-03",
+    "cluster_id": "technologyreview_com_4efc7016",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a0e81789a57b44de",
+    "canonical_url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers",
+    "dedupe_key": "02213da7fc30c83e",
+    "title": "AI agents are not your &#8220;coworkers&#8221;",
+    "issue_date": "2026-07-03",
+    "cluster_id": "technologyreview_com_e0f5955b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_58ff3285da599d33",
+    "canonical_url": "https://www.anthropic.com/news/redeploying-fable-5",
+    "dedupe_key": "1424766edb899d6b",
+    "title": "Redeploying Fable 5 Announcements Jun 30, 2026 Fable 5 returns globally July 1. We&#x27;re also proposing an industry-wide framework for scoring jailbreak severity, together with Amazon, Microsoft, Google, and other Glasswing partners.",
+    "issue_date": "2026-07-03",
+    "cluster_id": "anthropic_com_d8ba2b4d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_94d51d0b00b8680c",
+    "canonical_url": "https://research.google/research-areas",
+    "dedupe_key": "3c51748aabf84b5f",
+    "title": "Explore all research areas",
+    "issue_date": "2026-07-03",
+    "cluster_id": "research_google_3d61812f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8a8b4b68a6c5d586",
+    "canonical_url": "https://research.google/research-areas/science-ai",
+    "dedupe_key": "1213c5ffd59f4cc8",
+    "title": "Science AI",
+    "issue_date": "2026-07-03",
+    "cluster_id": "research_google_7cbe50da",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_416fd60dc3533650",
+    "canonical_url": "https://research.google/research-areas/sustainability-crisis-resilience",
+    "dedupe_key": "7ce4f2fe746fb179",
+    "title": "Sustainability & crisis resilience",
+    "issue_date": "2026-07-03",
+    "cluster_id": "research_google_18139333",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b9025f7f3c9b5dfa",
+    "canonical_url": "https://research.google/research-areas/algorithms-and-theory",
+    "dedupe_key": "07dd58ad83514d0e",
+    "title": "Algorithms & theory",
+    "issue_date": "2026-07-03",
+    "cluster_id": "research_google_e1249090",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d70ebc50943181d0",
+    "canonical_url": "https://research.google/research-areas/information-retrieval",
+    "dedupe_key": "7c83ae887a99aa5c",
+    "title": "Information retrieval",
+    "issue_date": "2026-07-03",
+    "cluster_id": "research_google_a01d874d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8d30d3d99dcc34c3",
+    "canonical_url": "https://research.google/research-areas/machine-intelligence",
+    "dedupe_key": "b8acfb0ffd3fdc18",
+    "title": "Machine intelligence",
+    "issue_date": "2026-07-03",
+    "cluster_id": "research_google_0f6995bf",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f378babc9dfd0f59",
+    "canonical_url": "https://research.google/research-areas/machine-perception",
+    "dedupe_key": "225b6d301480e85b",
+    "title": "Machine perception",
+    "issue_date": "2026-07-03",
+    "cluster_id": "research_google_d4cfdbba",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7b41c7bdc4ffa8c0",
+    "canonical_url": "https://research.google/research-areas/natural-language-processing",
+    "dedupe_key": "9c8dcacc19aacad9",
+    "title": "Natural language processing",
+    "issue_date": "2026-07-03",
+    "cluster_id": "research_google_dc453b2d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9b2e9a41c3620542",
+    "canonical_url": "https://research.google/research-areas/human-computer-interaction-and-visualization",
+    "dedupe_key": "64b5379e1c6c6989",
+    "title": "Human-computer interaction and visualization",
+    "issue_date": "2026-07-03",
+    "cluster_id": "research_google_f46c2639",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d384f210af73ddc3",
+    "canonical_url": "https://research.google/research-areas/networking",
+    "dedupe_key": "4be6b8388a80db31",
+    "title": "Networking",
+    "issue_date": "2026-07-03",
+    "cluster_id": "research_google_fefdcdb7",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
