@@ -1,158 +1,37 @@
 [
   {
-    "title": "Introducing Procedures in ElevenAgents",
-    "url": "https://elevenlabs.io/blog/procedures",
-    "summary": "ElevenLabs Blog - Company, Research & Product Updates · Introducing Procedures in ElevenAgents",
+    "title": "Agent Runs now available in the Vercel MCP and CLI",
+    "url": "https://vercel.com/changelog/agent-runs-vercel-mcp-cli",
+    "summary": "Your agent can now inspect Agent Runs via the Vercel MCP and CLI for eve , the open-source agent framework. eve traces are automatically ingested when deployed to Vercel and available as Agent Runs. The new Vercel MCP tools and Vercel CLI commands let you find projects with runs, list recent runs, and retrieve full traces, including reasoning, tool calls, and token usage. Vercel MCP tools: list_agent_run_projects : Find projects in a team with Agent Runs activity. list_agent_",
     "tags": [
-      "voice_ai",
-      "audio"
+      "sdk",
+      "ai_infra",
+      "frontend"
     ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-07-03",
-    "score": 70
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-07-04",
+    "score": 71
   },
   {
-    "title": "Introducing Flows Agent in ElevenCreative",
-    "url": "https://elevenlabs.io/blog/introducing-flows-agent",
-    "summary": "ElevenLabs Blog - Company, Research & Product Updates · Introducing Flows Agent in ElevenCreative",
+    "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+    "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership",
+    "summary": "Google DeepMind and A24 announce first-of-its-kind research partnership 是 Google DeepMind 当日抓取到的公开新增条目。",
     "tags": [
-      "voice_ai",
-      "audio"
-    ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-07-03",
-    "score": 70
-  },
-  {
-    "title": "Introducing Ads Engine in ElevenCreative",
-    "url": "https://elevenlabs.io/blog/introducing-ads-engine-in-elevencreative",
-    "summary": "ElevenLabs Blog - Company, Research & Product Updates · Introducing Ads Engine in ElevenCreative",
-    "tags": [
-      "voice_ai",
-      "audio"
-    ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-07-03",
-    "score": 67
-  },
-  {
-    "title": "How GitHub used secret scanning to reach inbox zero",
-    "url": "https://github.blog/security/application-security/how-github-used-secret-scanning-to-reach-inbox-zero",
-    "summary": "GitHub had 20,000+ secret scanning alerts across 15,000 repositories. Here's how we separated signal from noise, built remediation workflows, and reached inbox zero in nine months. The post How GitHub used secret scanning to reach inbox zero appeared first on The GitHub Blog .",
-    "tags": [
-      "ai_coding",
-      "developer_tools"
-    ],
-    "author": "GitHub Copilot",
-    "source": "github.blog",
-    "date": "2026-07-03",
-    "score": 67
-  },
-  {
-    "title": "Your coding agent bill doubled. Here’s how to fix it.",
-    "url": "https://www.langchain.com/blog/fix-your-coding-agent-bill",
-    "summary": "Learn why coding agent bills spiral out of control — and how to trace, compare, and govern spend across Claude Code, Cursor, Copilot, and more in one place.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-07-03",
-    "score": 67
-  },
-  {
-    "title": "Hardware-Rooted AI Security That Won&#039;t Slow You Down",
-    "url": "https://developer.nvidia.com/blog/hardware-rooted-ai-security-that-wont-slow-you-down",
-    "summary": "NVIDIA Technical Blog · Hardware-Rooted AI Security That Won&#039;t Slow You Down",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-07-03",
-    "score": 66
-  },
-  {
-    "title": "LlamaParse",
-    "url": "https://www.llamaindex.ai/blog?tag=LlamaParse",
-    "summary": "Blog · LlamaParse",
-    "tags": [
-      "rag",
-      "agents",
-      "framework"
-    ],
-    "author": "LlamaIndex",
-    "source": "llamaindex.ai",
-    "date": "2026-07-03",
-    "score": 66
-  },
-  {
-    "title": "Large Language Models",
-    "url": "https://www.llamaindex.ai/blog?tag=Large+Language+Models",
-    "summary": "Blog · Large Language Models",
-    "tags": [
-      "rag",
-      "agents",
-      "framework"
-    ],
-    "author": "LlamaIndex",
-    "source": "llamaindex.ai",
-    "date": "2026-07-03",
-    "score": 66
-  },
-  {
-    "title": "Case Study",
-    "url": "https://www.llamaindex.ai/blog?tag=Case+Study",
-    "summary": "Blog · Case Study",
-    "tags": [
-      "rag",
-      "agents",
-      "framework"
-    ],
-    "author": "LlamaIndex",
-    "source": "llamaindex.ai",
-    "date": "2026-07-03",
-    "score": 66
-  },
-  {
-    "title": "Claude Science is Anthropic’s newest flagship product",
-    "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product",
-    "summary": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Claude Code, Claude Science can autonomously carry out meaningful work when given concise, high-level instructions, and it has access&#8230;",
-    "tags": [
-      "ai",
       "research",
-      "society"
+      "multimodal",
+      "science",
+      "official"
     ],
-    "author": "MIT Technology Review AI",
-    "source": "technologyreview.com",
-    "date": "2026-07-03",
+    "author": "Google DeepMind",
+    "source": "deepmind.google",
+    "date": "2026-07-04",
     "score": 66
   },
   {
-    "title": "AI agents are not your &#8220;coworkers&#8221;",
-    "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one that your company nonetheless calls Alex, an&#8230;",
-    "tags": [
-      "ai",
-      "research",
-      "society"
-    ],
-    "author": "MIT Technology Review AI",
-    "source": "technologyreview.com",
-    "date": "2026-07-03",
-    "score": 66
-  },
-  {
-    "title": "Redeploying Fable 5 Announcements Jun 30, 2026 Fable 5 returns globally July 1. We&#x27;re also proposing an industry-wide framework for scoring jailbreak severity, together with Amazon, Microsoft, Google, and other Glasswing partners.",
-    "url": "https://www.anthropic.com/news/redeploying-fable-5",
-    "summary": "Newsroom \\ Anthropic · Redeploying Fable 5 Announcements Jun 30, 2026 Fable 5 returns globally July 1. We&#x27;re also proposing an industry-wide framework for scoring jailbreak severity, together with Amazon, Microsoft, Google, and other Glasswing partners.",
+    "title": "Jul 2, 2026 Announcements More details on Fable 5’s cyber safeguards and our jailbreak framework",
+    "url": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
+    "summary": "Newsroom \\ Anthropic · Jul 2, 2026 Announcements More details on Fable 5’s cyber safeguards and our jailbreak framework",
     "tags": [
       "ai_models",
       "safety",
@@ -160,13 +39,13 @@
     ],
     "author": "Anthropic",
     "source": "anthropic.com",
-    "date": "2026-07-03",
+    "date": "2026-07-04",
     "score": 65
   },
   {
-    "title": "Explore all research areas",
-    "url": "https://research.google/research-areas",
-    "summary": "Google Research - Explore Our Latest Research in Science and AI · Explore all research areas",
+    "title": "Quantum AI",
+    "url": "https://research.google/research-areas/quantum-computing",
+    "summary": "Google Research - Explore Our Latest Research in Science and AI · Quantum AI",
     "tags": [
       "google",
       "ai",
@@ -174,13 +53,13 @@
     ],
     "author": "Google AI",
     "source": "research.google",
-    "date": "2026-07-03",
+    "date": "2026-07-04",
     "score": 65
   },
   {
-    "title": "Science AI",
-    "url": "https://research.google/research-areas/science-ai",
-    "summary": "Google Research - Explore Our Latest Research in Science and AI · Science AI",
+    "title": "Responsible AI",
+    "url": "https://research.google/research-areas/responsible-ai",
+    "summary": "Google Research - Explore Our Latest Research in Science and AI · Responsible AI",
     "tags": [
       "google",
       "ai",
@@ -188,119 +67,231 @@
     ],
     "author": "Google AI",
     "source": "research.google",
-    "date": "2026-07-03",
+    "date": "2026-07-04",
     "score": 65
   },
   {
-    "title": "Sustainability & crisis resilience",
-    "url": "https://research.google/research-areas/sustainability-crisis-resilience",
-    "summary": "Google Research - Explore Our Latest Research in Science and AI · Sustainability & crisis resilience",
+    "title": "Does Your LLM Know *When It's About to Be Wrong*? ginigen-ai • 3 days ago • 20",
+    "url": "https://huggingface.co/blog/ginigen-ai/metacognition",
+    "summary": "Hugging Face – Blog · Does Your LLM Know *When It's About to Be Wrong*? ginigen-ai • 3 days ago • 20",
     "tags": [
-      "google",
-      "ai",
-      "official"
+      "open_source",
+      "papers",
+      "models"
     ],
-    "author": "Google AI",
-    "source": "research.google",
-    "date": "2026-07-03",
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-04",
     "score": 65
   },
   {
-    "title": "Algorithms & theory",
-    "url": "https://research.google/research-areas/algorithms-and-theory",
-    "summary": "Google Research - Explore Our Latest Research in Science and AI · Algorithms & theory",
+    "title": "Chitos: From Detection to Proof — An Autonomous Security AI That Actually Exploits FINAL-Bench • 5 days ago • 19",
+    "url": "https://huggingface.co/blog/FINAL-Bench/chitos",
+    "summary": "Hugging Face – Blog · Chitos: From Detection to Proof — An Autonomous Security AI That Actually Exploits FINAL-Bench • 5 days ago • 19",
     "tags": [
-      "google",
-      "ai",
-      "official"
+      "open_source",
+      "papers",
+      "models"
     ],
-    "author": "Google AI",
-    "source": "research.google",
-    "date": "2026-07-03",
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-04",
     "score": 65
   },
   {
-    "title": "Information retrieval",
-    "url": "https://research.google/research-areas/information-retrieval",
-    "summary": "Google Research - Explore Our Latest Research in Science and AI · Information retrieval",
+    "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+    "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+    "summary": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
-      "google",
-      "ai",
-      "official"
+      "open_source",
+      "papers",
+      "models"
     ],
-    "author": "Google AI",
-    "source": "research.google",
-    "date": "2026-07-03",
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-04",
     "score": 65
   },
   {
-    "title": "Machine intelligence",
-    "url": "https://research.google/research-areas/machine-intelligence",
-    "summary": "Google Research - Explore Our Latest Research in Science and AI · Machine intelligence",
+    "title": "Agentic Resource Discovery: Let agents search",
+    "url": "https://huggingface.co/blog/agentic-resource-discovery-launch",
+    "summary": "Agentic Resource Discovery: Let agents search 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
-      "google",
-      "ai",
-      "official"
+      "open_source",
+      "papers",
+      "models"
     ],
-    "author": "Google AI",
-    "source": "research.google",
-    "date": "2026-07-03",
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-04",
     "score": 65
   },
   {
-    "title": "Machine perception",
-    "url": "https://research.google/research-areas/machine-perception",
-    "summary": "Google Research - Explore Our Latest Research in Science and AI · Machine perception",
+    "title": "The Open Source Community is backing OpenEnv for Agentic RL",
+    "url": "https://huggingface.co/blog/openenv-agentic-rl",
+    "summary": "The Open Source Community is backing OpenEnv for Agentic RL 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
-      "google",
-      "ai",
-      "official"
+      "open_source",
+      "papers",
+      "models"
     ],
-    "author": "Google AI",
-    "source": "research.google",
-    "date": "2026-07-03",
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-04",
     "score": 65
   },
   {
-    "title": "Natural language processing",
-    "url": "https://research.google/research-areas/natural-language-processing",
-    "summary": "Google Research - Explore Our Latest Research in Science and AI · Natural language processing",
+    "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+    "summary": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
-      "google",
-      "ai",
-      "official"
+      "open_source",
+      "papers",
+      "models"
     ],
-    "author": "Google AI",
-    "source": "research.google",
-    "date": "2026-07-03",
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-04",
     "score": 65
   },
   {
-    "title": "Human-computer interaction and visualization",
-    "url": "https://research.google/research-areas/human-computer-interaction-and-visualization",
-    "summary": "Google Research - Explore Our Latest Research in Science and AI · Human-computer interaction and visualization",
+    "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
+    "url": "https://huggingface.co/blog/hf-cli-for-agents",
+    "summary": "Designing the hf CLI as an agent-optimized way to work with the Hub 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
-      "google",
-      "ai",
-      "official"
+      "open_source",
+      "papers",
+      "models"
     ],
-    "author": "Google AI",
-    "source": "research.google",
-    "date": "2026-07-03",
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-04",
     "score": 65
   },
   {
-    "title": "Networking",
-    "url": "https://research.google/research-areas/networking",
-    "summary": "Google Research - Explore Our Latest Research in Science and AI · Networking",
+    "title": "Holo3.1: Fast & Local Computer Use Agents",
+    "url": "https://huggingface.co/blog/Hcompany/holo31",
+    "summary": "Holo3.1: Fast & Local Computer Use Agents 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
-      "google",
-      "ai",
-      "official"
+      "open_source",
+      "papers",
+      "models"
     ],
-    "author": "Google AI",
-    "source": "research.google",
-    "date": "2026-07-03",
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-04",
+    "score": 65
+  },
+  {
+    "title": "DeepInfra on Hugging Face Inference Providers 🔥",
+    "url": "https://huggingface.co/blog/inference-providers-deepinfra",
+    "summary": "DeepInfra on Hugging Face Inference Providers 🔥 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-04",
+    "score": 65
+  },
+  {
+    "title": "DeepSeek-V4: a million-token context that agents can actually use",
+    "url": "https://huggingface.co/blog/deepseekv4",
+    "summary": "DeepSeek-V4: a million-token context that agents can actually use 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-04",
+    "score": 65
+  },
+  {
+    "title": "Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents",
+    "url": "https://huggingface.co/blog/ecom-rlve",
+    "summary": "Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-04",
+    "score": 65
+  },
+  {
+    "title": "Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers",
+    "url": "https://huggingface.co/blog/train-multimodal-sentence-transformers",
+    "summary": "Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-04",
+    "score": 65
+  },
+  {
+    "title": "Holotron-12B - High Throughput Computer Use Agent",
+    "url": "https://huggingface.co/blog/Hcompany/holotron-12b",
+    "summary": "Holotron-12B - High Throughput Computer Use Agent 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-04",
+    "score": 65
+  },
+  {
+    "title": "OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments",
+    "url": "https://huggingface.co/blog/openenv-turing",
+    "summary": "OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-04",
+    "score": 65
+  },
+  {
+    "title": "NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI",
+    "url": "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning",
+    "summary": "NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-04",
+    "score": 65
+  },
+  {
+    "title": "NVIDIA brings agents to life with DGX Spark and Reachy Mini",
+    "url": "https://huggingface.co/blog/nvidia-reachy-mini",
+    "summary": "NVIDIA brings agents to life with DGX Spark and Reachy Mini 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-04",
     "score": 65
   }
 ]

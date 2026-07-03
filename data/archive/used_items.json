@@ -5696,5 +5696,215 @@
     "cluster_id": "research_google_fefdcdb7",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_265df8894a1c1310",
+    "canonical_url": "https://vercel.com/changelog/agent-runs-vercel-mcp-cli",
+    "dedupe_key": "8f2f99efd9b4b7cc",
+    "title": "Agent Runs now available in the Vercel MCP and CLI",
+    "issue_date": "2026-07-04",
+    "cluster_id": "vercel_com_11cdef7d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b5cfbdc2ba59f785",
+    "canonical_url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership",
+    "dedupe_key": "8c2df06084d20b04",
+    "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+    "issue_date": "2026-07-04",
+    "cluster_id": "deepmind_google_beee3ab8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_dc85b13a5a780514",
+    "canonical_url": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
+    "dedupe_key": "793608fd70fa9f36",
+    "title": "Jul 2, 2026 Announcements More details on Fable 5’s cyber safeguards and our jailbreak framework",
+    "issue_date": "2026-07-04",
+    "cluster_id": "anthropic_com_2263ae58",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2b87bfb2a31dd754",
+    "canonical_url": "https://research.google/research-areas/quantum-computing",
+    "dedupe_key": "99fae0ae940a2d0e",
+    "title": "Quantum AI",
+    "issue_date": "2026-07-04",
+    "cluster_id": "research_google_aa7b76f9",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_cffd23a2a49e7d74",
+    "canonical_url": "https://research.google/research-areas/responsible-ai",
+    "dedupe_key": "57e6cec11398a11a",
+    "title": "Responsible AI",
+    "issue_date": "2026-07-04",
+    "cluster_id": "research_google_ebc491d6",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a04747d5da43a085",
+    "canonical_url": "https://huggingface.co/blog/ginigen-ai/metacognition",
+    "dedupe_key": "f91a8bc3eedaef53",
+    "title": "Does Your LLM Know *When It's About to Be Wrong*? ginigen-ai • 3 days ago • 20",
+    "issue_date": "2026-07-04",
+    "cluster_id": "huggingface_co_0ddf5828",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a08f9fe1812b8ed6",
+    "canonical_url": "https://huggingface.co/blog/FINAL-Bench/chitos",
+    "dedupe_key": "de0013f1690cd7ad",
+    "title": "Chitos: From Detection to Proof — An Autonomous Security AI That Actually Exploits FINAL-Bench • 5 days ago • 19",
+    "issue_date": "2026-07-04",
+    "cluster_id": "huggingface_co_59f365ed",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_cf1ba6e7c85f18c1",
+    "canonical_url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+    "dedupe_key": "26b5a6da3cef51cd",
+    "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+    "issue_date": "2026-07-04",
+    "cluster_id": "huggingface_co_558d5cdc",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_555991767ebd6f1e",
+    "canonical_url": "https://huggingface.co/blog/agentic-resource-discovery-launch",
+    "dedupe_key": "7663fef361c1dac1",
+    "title": "Agentic Resource Discovery: Let agents search",
+    "issue_date": "2026-07-04",
+    "cluster_id": "huggingface_co_78a112ba",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_cbde6cbbc06fdc0a",
+    "canonical_url": "https://huggingface.co/blog/openenv-agentic-rl",
+    "dedupe_key": "d325c628ae384f94",
+    "title": "The Open Source Community is backing OpenEnv for Agentic RL",
+    "issue_date": "2026-07-04",
+    "cluster_id": "huggingface_co_127d9a2d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_64f3cdcdf1c7b114",
+    "canonical_url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+    "dedupe_key": "9b3eef9ebce1966c",
+    "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+    "issue_date": "2026-07-04",
+    "cluster_id": "huggingface_co_4e6838e3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_819a933ec6112eab",
+    "canonical_url": "https://huggingface.co/blog/hf-cli-for-agents",
+    "dedupe_key": "ae351f20f7a60463",
+    "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
+    "issue_date": "2026-07-04",
+    "cluster_id": "huggingface_co_4f5c82ad",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9b1fc7533147b35e",
+    "canonical_url": "https://huggingface.co/blog/Hcompany/holo31",
+    "dedupe_key": "f4e420e6629a8be2",
+    "title": "Holo3.1: Fast & Local Computer Use Agents",
+    "issue_date": "2026-07-04",
+    "cluster_id": "huggingface_co_3b20f9ba",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7d639e6ef449f6ca",
+    "canonical_url": "https://huggingface.co/blog/inference-providers-deepinfra",
+    "dedupe_key": "7961b49109ab3deb",
+    "title": "DeepInfra on Hugging Face Inference Providers 🔥",
+    "issue_date": "2026-07-04",
+    "cluster_id": "huggingface_co_58f32c78",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_52ee3817578c6c25",
+    "canonical_url": "https://huggingface.co/blog/deepseekv4",
+    "dedupe_key": "ce98dc138ae3d260",
+    "title": "DeepSeek-V4: a million-token context that agents can actually use",
+    "issue_date": "2026-07-04",
+    "cluster_id": "huggingface_co_e0b22cc3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4aff7d2b8f5a4b85",
+    "canonical_url": "https://huggingface.co/blog/ecom-rlve",
+    "dedupe_key": "1113fb3ced97a8fc",
+    "title": "Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents",
+    "issue_date": "2026-07-04",
+    "cluster_id": "huggingface_co_4eda255f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_fb1454f62717d72e",
+    "canonical_url": "https://huggingface.co/blog/train-multimodal-sentence-transformers",
+    "dedupe_key": "6887cae2914d53d3",
+    "title": "Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers",
+    "issue_date": "2026-07-04",
+    "cluster_id": "huggingface_co_552db3e1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8864f9617007da22",
+    "canonical_url": "https://huggingface.co/blog/Hcompany/holotron-12b",
+    "dedupe_key": "c8b53a718f71b1ba",
+    "title": "Holotron-12B - High Throughput Computer Use Agent",
+    "issue_date": "2026-07-04",
+    "cluster_id": "huggingface_co_ec654b51",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_316c9d4aac7e3830",
+    "canonical_url": "https://huggingface.co/blog/openenv-turing",
+    "dedupe_key": "f6325c01931f5f4e",
+    "title": "OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments",
+    "issue_date": "2026-07-04",
+    "cluster_id": "huggingface_co_08205922",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_be16c4c800d561b8",
+    "canonical_url": "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning",
+    "dedupe_key": "477e3500690e150e",
+    "title": "NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI",
+    "issue_date": "2026-07-04",
+    "cluster_id": "huggingface_co_25427570",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3e2209f5642f5bcb",
+    "canonical_url": "https://huggingface.co/blog/nvidia-reachy-mini",
+    "dedupe_key": "c88c4228c3f088f3",
+    "title": "NVIDIA brings agents to life with DGX Spark and Reachy Mini",
+    "issue_date": "2026-07-04",
+    "cluster_id": "huggingface_co_311e1e17",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
