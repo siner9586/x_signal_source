@@ -1,79 +1,8 @@
 [
   {
-    "title": "Agent Runs now available in the Vercel MCP and CLI",
-    "url": "https://vercel.com/changelog/agent-runs-vercel-mcp-cli",
-    "summary": "Your agent can now inspect Agent Runs via the Vercel MCP and CLI for eve , the open-source agent framework. eve traces are automatically ingested when deployed to Vercel and available as Agent Runs. The new Vercel MCP tools and Vercel CLI commands let you find projects with runs, list recent runs, and retrieve full traces, including reasoning, tool calls, and token usage. Vercel MCP tools: list_agent_run_projects : Find projects in a team with Agent Runs activity. list_agent_",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-07-04",
-    "score": 71
-  },
-  {
-    "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
-    "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership",
-    "summary": "Google DeepMind and A24 announce first-of-its-kind research partnership 是 Google DeepMind 当日抓取到的公开新增条目。",
-    "tags": [
-      "research",
-      "multimodal",
-      "science",
-      "official"
-    ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-07-04",
-    "score": 66
-  },
-  {
-    "title": "Jul 2, 2026 Announcements More details on Fable 5’s cyber safeguards and our jailbreak framework",
-    "url": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
-    "summary": "Newsroom \\ Anthropic · Jul 2, 2026 Announcements More details on Fable 5’s cyber safeguards and our jailbreak framework",
-    "tags": [
-      "ai_models",
-      "safety",
-      "official"
-    ],
-    "author": "Anthropic",
-    "source": "anthropic.com",
-    "date": "2026-07-04",
-    "score": 65
-  },
-  {
-    "title": "Quantum AI",
-    "url": "https://research.google/research-areas/quantum-computing",
-    "summary": "Google Research - Explore Our Latest Research in Science and AI · Quantum AI",
-    "tags": [
-      "google",
-      "ai",
-      "official"
-    ],
-    "author": "Google AI",
-    "source": "research.google",
-    "date": "2026-07-04",
-    "score": 65
-  },
-  {
-    "title": "Responsible AI",
-    "url": "https://research.google/research-areas/responsible-ai",
-    "summary": "Google Research - Explore Our Latest Research in Science and AI · Responsible AI",
-    "tags": [
-      "google",
-      "ai",
-      "official"
-    ],
-    "author": "Google AI",
-    "source": "research.google",
-    "date": "2026-07-04",
-    "score": 65
-  },
-  {
-    "title": "Does Your LLM Know *When It's About to Be Wrong*? ginigen-ai • 3 days ago • 20",
-    "url": "https://huggingface.co/blog/ginigen-ai/metacognition",
-    "summary": "Hugging Face – Blog · Does Your LLM Know *When It's About to Be Wrong*? ginigen-ai • 3 days ago • 20",
+    "title": "Building Deep Research: How we Achieved State of the Art",
+    "url": "https://huggingface.co/blog/Tavily/tavily-deep-research",
+    "summary": "Building Deep Research: How we Achieved State of the Art 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -81,13 +10,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-04",
+    "date": "2026-07-05",
     "score": 65
   },
   {
-    "title": "Chitos: From Detection to Proof — An Autonomous Security AI That Actually Exploits FINAL-Bench • 5 days ago • 19",
-    "url": "https://huggingface.co/blog/FINAL-Bench/chitos",
-    "summary": "Hugging Face – Blog · Chitos: From Detection to Proof — An Autonomous Security AI That Actually Exploits FINAL-Bench • 5 days ago • 19",
+    "title": "Aligning to What? Rethinking Agent Generalization in MiniMax M2",
+    "url": "https://huggingface.co/blog/MiniMax-AI/aligning-to-what",
+    "summary": "Aligning to What? Rethinking Agent Generalization in MiniMax M2 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -95,13 +24,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-04",
+    "date": "2026-07-05",
     "score": 65
   },
   {
-    "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
-    "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
-    "summary": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Building the Open Agent Ecosystem Together: Introducing OpenEnv",
+    "url": "https://huggingface.co/blog/openenv",
+    "summary": "Building the Open Agent Ecosystem Together: Introducing OpenEnv 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -109,13 +38,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-04",
+    "date": "2026-07-05",
     "score": 65
   },
   {
-    "title": "Agentic Resource Discovery: Let agents search",
-    "url": "https://huggingface.co/blog/agentic-resource-discovery-launch",
-    "summary": "Agentic Resource Discovery: Let agents search 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Accelerating Qwen3-8B Agent on Intel® Core™ Ultra with Depth-Pruned Draft Models",
+    "url": "https://huggingface.co/blog/intel-qwen3-agent",
+    "summary": "Accelerating Qwen3-8B Agent on Intel® Core™ Ultra with Depth-Pruned Draft Models 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -123,13 +52,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-04",
+    "date": "2026-07-05",
     "score": 65
   },
   {
-    "title": "The Open Source Community is backing OpenEnv for Agentic RL",
-    "url": "https://huggingface.co/blog/openenv-agentic-rl",
-    "summary": "The Open Source Community is backing OpenEnv for Agentic RL 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "VibeGame: Exploring Vibe Coding Games",
+    "url": "https://huggingface.co/blog/vibegame",
+    "summary": "VibeGame: Exploring Vibe Coding Games 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -137,13 +66,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-04",
+    "date": "2026-07-05",
     "score": 65
   },
   {
-    "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
-    "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
-    "summary": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Measuring Open-Source Llama Nemotron Models on DeepResearch Bench",
+    "url": "https://huggingface.co/blog/nvidia/ai-q-top-ranking-open-portable-deep-research-agent",
+    "summary": "Measuring Open-Source Llama Nemotron Models on DeepResearch Bench 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -151,13 +80,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-04",
+    "date": "2026-07-05",
     "score": 65
   },
   {
-    "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
-    "url": "https://huggingface.co/blog/hf-cli-for-agents",
-    "summary": "Designing the hf CLI as an agent-optimized way to work with the Hub 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "ScreenEnv: Deploy your full stack Desktop Agent",
+    "url": "https://huggingface.co/blog/screenenv",
+    "summary": "ScreenEnv: Deploy your full stack Desktop Agent 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -165,13 +94,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-04",
+    "date": "2026-07-05",
     "score": 65
   },
   {
-    "title": "Holo3.1: Fast & Local Computer Use Agents",
-    "url": "https://huggingface.co/blog/Hcompany/holo31",
-    "summary": "Holo3.1: Fast & Local Computer Use Agents 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "ScreenSuite - The most comprehensive evaluation suite for GUI Agents!",
+    "url": "https://huggingface.co/blog/screensuite",
+    "summary": "ScreenSuite - The most comprehensive evaluation suite for GUI Agents! 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -179,13 +108,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-04",
+    "date": "2026-07-05",
     "score": 65
   },
   {
-    "title": "DeepInfra on Hugging Face Inference Providers 🔥",
-    "url": "https://huggingface.co/blog/inference-providers-deepinfra",
-    "summary": "DeepInfra on Hugging Face Inference Providers 🔥 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Holo1: New family of GUI automation VLMs powering GUI agent Surfer-H",
+    "url": "https://huggingface.co/blog/Hcompany/holo1",
+    "summary": "Holo1: New family of GUI automation VLMs powering GUI agent Surfer-H 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -193,13 +122,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-04",
+    "date": "2026-07-05",
     "score": 65
   },
   {
-    "title": "DeepSeek-V4: a million-token context that agents can actually use",
-    "url": "https://huggingface.co/blog/deepseekv4",
-    "summary": "DeepSeek-V4: a million-token context that agents can actually use 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "CodeAgents + Structure: A Better Way to Execute Actions",
+    "url": "https://huggingface.co/blog/structured-codeagent",
+    "summary": "CodeAgents + Structure: A Better Way to Execute Actions 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -207,13 +136,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-04",
+    "date": "2026-07-05",
     "score": 65
   },
   {
-    "title": "Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents",
-    "url": "https://huggingface.co/blog/ecom-rlve",
-    "summary": "Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Tiny Agents in Python: a MCP-powered agent in ~70 lines of code",
+    "url": "https://huggingface.co/blog/python-tiny-agents",
+    "summary": "Tiny Agents in Python: a MCP-powered agent in ~70 lines of code 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -221,13 +150,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-04",
+    "date": "2026-07-05",
     "score": 65
   },
   {
-    "title": "Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers",
-    "url": "https://huggingface.co/blog/train-multimodal-sentence-transformers",
-    "summary": "Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Tiny Agents: an MCP-powered agent in 50 lines of code",
+    "url": "https://huggingface.co/blog/tiny-agents",
+    "summary": "Tiny Agents: an MCP-powered agent in 50 lines of code 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -235,13 +164,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-04",
+    "date": "2026-07-05",
     "score": 65
   },
   {
-    "title": "Holotron-12B - High Throughput Computer Use Agent",
-    "url": "https://huggingface.co/blog/Hcompany/holotron-12b",
-    "summary": "Holotron-12B - High Throughput Computer Use Agent 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Open R1: How to use OlympicCoder locally for coding",
+    "url": "https://huggingface.co/blog/olympic-coder-lmstudio",
+    "summary": "Open R1: How to use OlympicCoder locally for coding 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -249,13 +178,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-04",
+    "date": "2026-07-05",
     "score": 65
   },
   {
-    "title": "OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments",
-    "url": "https://huggingface.co/blog/openenv-turing",
-    "summary": "OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Trace & Evaluate your Agent with Arize Phoenix",
+    "url": "https://huggingface.co/blog/smolagents-phoenix",
+    "summary": "Trace & Evaluate your Agent with Arize Phoenix 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -263,13 +192,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-04",
+    "date": "2026-07-05",
     "score": 65
   },
   {
-    "title": "NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI",
-    "url": "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning",
-    "summary": "NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Remote VAEs for decoding with Inference Endpoints 🤗",
+    "url": "https://huggingface.co/blog/remote_vae",
+    "summary": "Remote VAEs for decoding with Inference Endpoints 🤗 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -277,13 +206,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-04",
+    "date": "2026-07-05",
     "score": 65
   },
   {
-    "title": "NVIDIA brings agents to life with DGX Spark and Reachy Mini",
-    "url": "https://huggingface.co/blog/nvidia-reachy-mini",
-    "summary": "NVIDIA brings agents to life with DGX Spark and Reachy Mini 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "We now support VLMs in smolagents!",
+    "url": "https://huggingface.co/blog/smolagents-can-see",
+    "summary": "We now support VLMs in smolagents! 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -291,7 +220,63 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-04",
+    "date": "2026-07-05",
+    "score": 65
+  },
+  {
+    "title": "Introducing smolagents: simple agents that write actions in code.",
+    "url": "https://huggingface.co/blog/smolagents",
+    "summary": "Introducing smolagents: simple agents that write actions in code. 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-05",
+    "score": 65
+  },
+  {
+    "title": "LeMaterial: an open source initiative to accelerate materials discovery and research",
+    "url": "https://huggingface.co/blog/lematerial",
+    "summary": "LeMaterial: an open source initiative to accelerate materials discovery and research 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-05",
+    "score": 65
+  },
+  {
+    "title": "You could have designed state of the art positional encoding",
+    "url": "https://huggingface.co/blog/designing-positional-encoding",
+    "summary": "You could have designed state of the art positional encoding 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-05",
+    "score": 65
+  },
+  {
+    "title": "Faster Text Generation with Self-Speculative Decoding",
+    "url": "https://huggingface.co/blog/layerskip",
+    "summary": "Faster Text Generation with Self-Speculative Decoding 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-05",
     "score": 65
   }
 ]

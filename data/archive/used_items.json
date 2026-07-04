@@ -5906,5 +5906,205 @@
     "cluster_id": "huggingface_co_311e1e17",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9c25af01bdbab30a",
+    "canonical_url": "https://huggingface.co/blog/Tavily/tavily-deep-research",
+    "dedupe_key": "bdd14dd22fe86102",
+    "title": "Building Deep Research: How we Achieved State of the Art",
+    "issue_date": "2026-07-05",
+    "cluster_id": "huggingface_co_7756563e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_81c6a3aa8a3ea7a5",
+    "canonical_url": "https://huggingface.co/blog/MiniMax-AI/aligning-to-what",
+    "dedupe_key": "6733cb6d6a306211",
+    "title": "Aligning to What? Rethinking Agent Generalization in MiniMax M2",
+    "issue_date": "2026-07-05",
+    "cluster_id": "huggingface_co_a9ccd5e4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_edf69f25c55784ce",
+    "canonical_url": "https://huggingface.co/blog/openenv",
+    "dedupe_key": "ed82164d9b88777a",
+    "title": "Building the Open Agent Ecosystem Together: Introducing OpenEnv",
+    "issue_date": "2026-07-05",
+    "cluster_id": "huggingface_co_5601ff01",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7270b444453872eb",
+    "canonical_url": "https://huggingface.co/blog/intel-qwen3-agent",
+    "dedupe_key": "7d18ca9510f0f4e1",
+    "title": "Accelerating Qwen3-8B Agent on Intel® Core™ Ultra with Depth-Pruned Draft Models",
+    "issue_date": "2026-07-05",
+    "cluster_id": "huggingface_co_07df327b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f1158df4226dda16",
+    "canonical_url": "https://huggingface.co/blog/vibegame",
+    "dedupe_key": "434b032d3869297a",
+    "title": "VibeGame: Exploring Vibe Coding Games",
+    "issue_date": "2026-07-05",
+    "cluster_id": "huggingface_co_d6d55cbb",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_250b942c2f00084e",
+    "canonical_url": "https://huggingface.co/blog/nvidia/ai-q-top-ranking-open-portable-deep-research-agent",
+    "dedupe_key": "26ce9079572da07a",
+    "title": "Measuring Open-Source Llama Nemotron Models on DeepResearch Bench",
+    "issue_date": "2026-07-05",
+    "cluster_id": "huggingface_co_2d5f4188",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3d4f6053a7e7c5a8",
+    "canonical_url": "https://huggingface.co/blog/screenenv",
+    "dedupe_key": "0a47731b9abda539",
+    "title": "ScreenEnv: Deploy your full stack Desktop Agent",
+    "issue_date": "2026-07-05",
+    "cluster_id": "huggingface_co_c12965d0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7f759b18f1f0c381",
+    "canonical_url": "https://huggingface.co/blog/screensuite",
+    "dedupe_key": "46a63b35dd73522f",
+    "title": "ScreenSuite - The most comprehensive evaluation suite for GUI Agents!",
+    "issue_date": "2026-07-05",
+    "cluster_id": "huggingface_co_0552dcf2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_430775efbedec5e4",
+    "canonical_url": "https://huggingface.co/blog/Hcompany/holo1",
+    "dedupe_key": "abc45ab83eca49ac",
+    "title": "Holo1: New family of GUI automation VLMs powering GUI agent Surfer-H",
+    "issue_date": "2026-07-05",
+    "cluster_id": "huggingface_co_705189ed",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_889d0dc6968f1347",
+    "canonical_url": "https://huggingface.co/blog/structured-codeagent",
+    "dedupe_key": "26d640c7983f1f6d",
+    "title": "CodeAgents + Structure: A Better Way to Execute Actions",
+    "issue_date": "2026-07-05",
+    "cluster_id": "huggingface_co_7724aff8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e8fc9d84857260d4",
+    "canonical_url": "https://huggingface.co/blog/python-tiny-agents",
+    "dedupe_key": "05ab285f9bf2c2bf",
+    "title": "Tiny Agents in Python: a MCP-powered agent in ~70 lines of code",
+    "issue_date": "2026-07-05",
+    "cluster_id": "huggingface_co_44cb7e01",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_098700ed65a94b63",
+    "canonical_url": "https://huggingface.co/blog/tiny-agents",
+    "dedupe_key": "1b68143f29c3d0b8",
+    "title": "Tiny Agents: an MCP-powered agent in 50 lines of code",
+    "issue_date": "2026-07-05",
+    "cluster_id": "huggingface_co_e28fe42e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d9057e3073e6c9b9",
+    "canonical_url": "https://huggingface.co/blog/olympic-coder-lmstudio",
+    "dedupe_key": "9708cb04b4c7f9d0",
+    "title": "Open R1: How to use OlympicCoder locally for coding",
+    "issue_date": "2026-07-05",
+    "cluster_id": "huggingface_co_7606aa27",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b759015c9591486c",
+    "canonical_url": "https://huggingface.co/blog/smolagents-phoenix",
+    "dedupe_key": "253eaa4cd77a2719",
+    "title": "Trace & Evaluate your Agent with Arize Phoenix",
+    "issue_date": "2026-07-05",
+    "cluster_id": "huggingface_co_aec64162",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_02f2da0a8c12bb38",
+    "canonical_url": "https://huggingface.co/blog/remote_vae",
+    "dedupe_key": "3d56cd1bd6d887e0",
+    "title": "Remote VAEs for decoding with Inference Endpoints 🤗",
+    "issue_date": "2026-07-05",
+    "cluster_id": "huggingface_co_01bb797a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_980ccc8c19225f11",
+    "canonical_url": "https://huggingface.co/blog/smolagents-can-see",
+    "dedupe_key": "03ba2c83012fd738",
+    "title": "We now support VLMs in smolagents!",
+    "issue_date": "2026-07-05",
+    "cluster_id": "huggingface_co_098eddeb",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_bf88b1944983d83c",
+    "canonical_url": "https://huggingface.co/blog/smolagents",
+    "dedupe_key": "cf8017dd19072cb7",
+    "title": "Introducing smolagents: simple agents that write actions in code.",
+    "issue_date": "2026-07-05",
+    "cluster_id": "huggingface_co_8b43edb4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b4f43938db1e2374",
+    "canonical_url": "https://huggingface.co/blog/lematerial",
+    "dedupe_key": "5deb6b5d56617a63",
+    "title": "LeMaterial: an open source initiative to accelerate materials discovery and research",
+    "issue_date": "2026-07-05",
+    "cluster_id": "huggingface_co_1e73568b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c19b64e3ffa9c0d4",
+    "canonical_url": "https://huggingface.co/blog/designing-positional-encoding",
+    "dedupe_key": "b0e37b437f5fc399",
+    "title": "You could have designed state of the art positional encoding",
+    "issue_date": "2026-07-05",
+    "cluster_id": "huggingface_co_c4de9cd1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1888513b6979e8c9",
+    "canonical_url": "https://huggingface.co/blog/layerskip",
+    "dedupe_key": "4c490891ef331a03",
+    "title": "Faster Text Generation with Self-Speculative Decoding",
+    "issue_date": "2026-07-05",
+    "cluster_id": "huggingface_co_78c51116",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
