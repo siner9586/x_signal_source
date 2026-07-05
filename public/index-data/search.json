@@ -1,8 +1,8 @@
 [
   {
-    "title": "Building Deep Research: How we Achieved State of the Art",
-    "url": "https://huggingface.co/blog/Tavily/tavily-deep-research",
-    "summary": "Building Deep Research: How we Achieved State of the Art 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Universal Assisted Generation: Faster Decoding with Any Assistant Model",
+    "url": "https://huggingface.co/blog/universal_assisted_generation",
+    "summary": "Universal Assisted Generation: Faster Decoding with Any Assistant Model 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -10,13 +10,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-05",
+    "date": "2026-07-06",
     "score": 65
   },
   {
-    "title": "Aligning to What? Rethinking Agent Generalization in MiniMax M2",
-    "url": "https://huggingface.co/blog/MiniMax-AI/aligning-to-what",
-    "summary": "Aligning to What? Rethinking Agent Generalization in MiniMax M2 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Scaling robotics datasets with video encoding",
+    "url": "https://huggingface.co/blog/video-encoding",
+    "summary": "Scaling robotics datasets with video encoding 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -24,259 +24,259 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-05",
+    "date": "2026-07-06",
     "score": 65
   },
   {
-    "title": "Building the Open Agent Ecosystem Together: Introducing OpenEnv",
-    "url": "https://huggingface.co/blog/openenv",
-    "summary": "Building the Open Agent Ecosystem Together: Introducing OpenEnv 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Harbor x LangChain: A Unified Stack for Evaluating Agents",
+    "url": "https://www.langchain.com/blog/unified-stack-for-evaluating-agents",
+    "summary": "Evaluating long-running, stateful agents needs a new kind of runner. Here's how Deep Agents, LangSmith sandboxes, and observability plug into Harbor.",
     "tags": [
-      "open_source",
-      "papers",
-      "models"
+      "agents",
+      "rag",
+      "framework"
     ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-05",
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-07-06",
     "score": 65
   },
   {
-    "title": "Accelerating Qwen3-8B Agent on Intel® Core™ Ultra with Depth-Pruned Draft Models",
-    "url": "https://huggingface.co/blog/intel-qwen3-agent",
-    "summary": "Accelerating Qwen3-8B Agent on Intel® Core™ Ultra with Depth-Pruned Draft Models 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Pairwise Evaluations with LangSmith",
+    "url": "https://www.langchain.com/blog/pairwise-evaluations-with-langsmith",
+    "summary": "Learn what pairwise evaluation is, why you might need it for LLM app development, and see an example of how to use it in LangSmith by LangChain.",
     "tags": [
-      "open_source",
-      "papers",
-      "models"
+      "agents",
+      "rag",
+      "framework"
     ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-05",
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-07-06",
     "score": 65
   },
   {
-    "title": "VibeGame: Exploring Vibe Coding Games",
-    "url": "https://huggingface.co/blog/vibegame",
-    "summary": "VibeGame: Exploring Vibe Coding Games 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Evaluating Large Language Models With OpenEvals",
+    "url": "https://www.langchain.com/blog/evaluating-llms-with-openevals",
+    "summary": "Evaluate LLMs with OpenEvals and AgentEvals—pre-built evaluators for LLM-as-judge, structured data, and agent trajectories. Production-ready frameworks.",
     "tags": [
-      "open_source",
-      "papers",
-      "models"
+      "agents",
+      "rag",
+      "framework"
     ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-05",
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-07-06",
     "score": 65
   },
   {
-    "title": "Measuring Open-Source Llama Nemotron Models on DeepResearch Bench",
-    "url": "https://huggingface.co/blog/nvidia/ai-q-top-ranking-open-portable-deep-research-agent",
-    "summary": "Measuring Open-Source Llama Nemotron Models on DeepResearch Bench 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Agent Evaluation Readiness Checklist",
+    "url": "https://www.langchain.com/blog/agent-evaluation-readiness-checklist",
+    "summary": "A practical checklist for agent evaluation: error analysis, dataset construction, grader design, offline & online evals, and production readiness.",
     "tags": [
-      "open_source",
-      "papers",
-      "models"
+      "agents",
+      "rag",
+      "framework"
     ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-05",
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-07-06",
     "score": 65
   },
   {
-    "title": "ScreenEnv: Deploy your full stack Desktop Agent",
-    "url": "https://huggingface.co/blog/screenenv",
-    "summary": "ScreenEnv: Deploy your full stack Desktop Agent 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "June 2026: LangChain Newsletter — Fleet On-Call Copilot, Deep Agents Rubrics, and More",
+    "url": "https://www.langchain.com/blog/june-2026-langchain-newsletter",
+    "summary": "New in LangSmith: a Fleet on-call copilot for alert triage, computer use for agents, voice trace debugging, and experiment status tracking. Plus Deep Agents Rubrics, programmatic subagents, a new LangSmith Deployment course, and upcoming events in Chicago, Berlin, DC, and Vegas.",
     "tags": [
-      "open_source",
-      "papers",
-      "models"
+      "agents",
+      "rag",
+      "framework"
     ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-05",
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-07-06",
     "score": 65
   },
   {
-    "title": "ScreenSuite - The most comprehensive evaluation suite for GUI Agents!",
-    "url": "https://huggingface.co/blog/screensuite",
-    "summary": "ScreenSuite - The most comprehensive evaluation suite for GUI Agents! 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "The Art of Loop Engineering",
+    "url": "https://www.langchain.com/blog/the-art-of-loop-engineering",
+    "summary": "Agents automate real-world work, but reliable performance requires more than a good model, it requires a carefully designed harness built for specific tasks. This post explores the core agent loop, how stacking and extending loops builds more effective agents, and how to instrument each level with LangChain primitives.",
     "tags": [
-      "open_source",
-      "papers",
-      "models"
+      "agents",
+      "rag",
+      "framework"
     ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-05",
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-07-06",
     "score": 65
   },
   {
-    "title": "Holo1: New family of GUI automation VLMs powering GUI agent Surfer-H",
-    "url": "https://huggingface.co/blog/Hcompany/holo1",
-    "summary": "Holo1: New family of GUI automation VLMs powering GUI agent Surfer-H 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Designing Efficient Verifiers for Legal Agents",
+    "url": "https://www.langchain.com/blog/designing-efficient-verifiers-for-legal-agents",
+    "summary": "A Harvey and LangChain Labs study on making LLM verifiers cheaper and more reliable for legal-agent evaluation and post-training.",
     "tags": [
-      "open_source",
-      "papers",
-      "models"
+      "agents",
+      "rag",
+      "framework"
     ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-05",
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-07-06",
     "score": 65
   },
   {
-    "title": "CodeAgents + Structure: A Better Way to Execute Actions",
-    "url": "https://huggingface.co/blog/structured-codeagent",
-    "summary": "CodeAgents + Structure: A Better Way to Execute Actions 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Testing Fine Tuned Open Source Models in LangSmith",
+    "url": "https://www.langchain.com/blog/testing-fine-tuned-open-source-models-in-langsmith",
+    "summary": "Evaluate and compare fine-tuned open source LLMs using LangSmith. Test multiple models, automate evaluations, and choose the best performing AI.",
     "tags": [
-      "open_source",
-      "papers",
-      "models"
+      "agents",
+      "rag",
+      "framework"
     ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-05",
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-07-06",
     "score": 65
   },
   {
-    "title": "Tiny Agents in Python: a MCP-powered agent in ~70 lines of code",
-    "url": "https://huggingface.co/blog/python-tiny-agents",
-    "summary": "Tiny Agents in Python: a MCP-powered agent in ~70 lines of code 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "LangSmith: Redesigned product homepage and Resource Tags for better organization",
+    "url": "https://www.langchain.com/blog/langsmith-homepage-redesign-and-resource-tags",
+    "summary": "LangSmith's homepage is now organized into Observability, Evaluation, and Prompt Engineering. Learn why we organized the homepage like this. Plus, see our latest Resource Tags updates.",
     "tags": [
-      "open_source",
-      "papers",
-      "models"
+      "agents",
+      "rag",
+      "framework"
     ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-05",
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-07-06",
     "score": 65
   },
   {
-    "title": "Tiny Agents: an MCP-powered agent in 50 lines of code",
-    "url": "https://huggingface.co/blog/tiny-agents",
-    "summary": "Tiny Agents: an MCP-powered agent in 50 lines of code 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Monte Carlo: Building Data + AI Observability Agents with LangGraph and LangSmith",
+    "url": "https://www.langchain.com/blog/customers-monte-carlo",
+    "summary": "See how Monte Carlo built its AI Troubleshooting Agent on LangGraph and debugged with LangSmith to help data teams resolve issues faster",
     "tags": [
-      "open_source",
-      "papers",
-      "models"
+      "agents",
+      "rag",
+      "framework"
     ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-05",
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-07-06",
     "score": 65
   },
   {
-    "title": "Open R1: How to use OlympicCoder locally for coding",
-    "url": "https://huggingface.co/blog/olympic-coder-lmstudio",
-    "summary": "Open R1: How to use OlympicCoder locally for coding 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Agent Engineering: A New Discipline",
+    "url": "https://www.langchain.com/blog/agent-engineering-a-new-discipline",
+    "summary": "Learn how agent engineering combines product thinking, engineering, and data science to build reliable LLM systems. Ship faster with iterative testing.",
     "tags": [
-      "open_source",
-      "papers",
-      "models"
+      "agents",
+      "rag",
+      "framework"
     ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-05",
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-07-06",
     "score": 65
   },
   {
-    "title": "Trace & Evaluate your Agent with Arize Phoenix",
-    "url": "https://huggingface.co/blog/smolagents-phoenix",
-    "summary": "Trace & Evaluate your Agent with Arize Phoenix 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Context Management for Deep Agents",
+    "url": "https://www.langchain.com/blog/context-management-for-deepagents",
+    "summary": "Learn how Deep Agents SDK manages context for long-running AI tasks through offloading, summarization, and filesystem abstraction to prevent context rot.",
     "tags": [
-      "open_source",
-      "papers",
-      "models"
+      "agents",
+      "rag",
+      "framework"
     ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-05",
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-07-06",
     "score": 65
   },
   {
-    "title": "Remote VAEs for decoding with Inference Endpoints 🤗",
-    "url": "https://huggingface.co/blog/remote_vae",
-    "summary": "Remote VAEs for decoding with Inference Endpoints 🤗 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Test Run Comparisons",
+    "url": "https://www.langchain.com/blog/test-run-comparisons",
+    "summary": "Compare LLM test runs side-by-side with LangSmith's Test Run Comparisons. Manually inspect data, filter results, and gain insights faster.",
     "tags": [
-      "open_source",
-      "papers",
-      "models"
+      "agents",
+      "rag",
+      "framework"
     ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-05",
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-07-06",
     "score": 65
   },
   {
-    "title": "We now support VLMs in smolagents!",
-    "url": "https://huggingface.co/blog/smolagents-can-see",
-    "summary": "We now support VLMs in smolagents! 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Iterating Towards LLM Reliability with Evaluation Driven Development",
+    "url": "https://www.langchain.com/blog/iterating-towards-llm-reliability-with-evaluation-driven-development",
+    "summary": "Dosu uses evaluation driven development and LangSmith to build reliable LLM products at scale, monitor production performance, and iterate with confidence.",
     "tags": [
-      "open_source",
-      "papers",
-      "models"
+      "agents",
+      "rag",
+      "framework"
     ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-05",
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-07-06",
     "score": 65
   },
   {
-    "title": "Introducing smolagents: simple agents that write actions in code.",
-    "url": "https://huggingface.co/blog/smolagents",
-    "summary": "Introducing smolagents: simple agents that write actions in code. 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Announcing LangSmith is now a transactable offering in the Azure Marketplace",
+    "url": "https://www.langchain.com/blog/announcing-langsmith-is-now-a-transactable-offering-in-the-azure-marketplace",
+    "summary": "LangSmith is now available in Azure Marketplace. Deploy the DevOps platform for LLM apps in your Azure VPC with full data control and MACC credit support.",
     "tags": [
-      "open_source",
-      "papers",
-      "models"
+      "agents",
+      "rag",
+      "framework"
     ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-05",
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-07-06",
     "score": 65
   },
   {
-    "title": "LeMaterial: an open source initiative to accelerate materials discovery and research",
-    "url": "https://huggingface.co/blog/lematerial",
-    "summary": "LeMaterial: an open source initiative to accelerate materials discovery and research 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Promptim: an experimental library for prompt optimization",
+    "url": "https://www.langchain.com/blog/promptim",
+    "summary": "Automate prompt engineering with Promptim's optimization library. Save time, improve AI performance, and switch models faster.",
     "tags": [
-      "open_source",
-      "papers",
-      "models"
+      "agents",
+      "rag",
+      "framework"
     ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-05",
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-07-06",
     "score": 65
   },
   {
-    "title": "You could have designed state of the art positional encoding",
-    "url": "https://huggingface.co/blog/designing-positional-encoding",
-    "summary": "You could have designed state of the art positional encoding 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Introducing End-to-End OpenTelemetry Support in LangSmith",
+    "url": "https://www.langchain.com/blog/end-to-end-opentelemetry-langsmith",
+    "summary": "LangSmith now provides end-to-end OpenTelemetry (OTel) support for applications built on LangChain and/or LangGraph.",
     "tags": [
-      "open_source",
-      "papers",
-      "models"
+      "agents",
+      "rag",
+      "framework"
     ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-05",
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-07-06",
     "score": 65
   },
   {
-    "title": "Faster Text Generation with Self-Speculative Decoding",
-    "url": "https://huggingface.co/blog/layerskip",
-    "summary": "Faster Text Generation with Self-Speculative Decoding 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "On Agent Frameworks and Agent Observability",
+    "url": "https://www.langchain.com/blog/on-agent-frameworks-and-agent-observability",
+    "summary": "Learn why agent frameworks still matter in 2026 and how LangSmith provides observability for any framework, including LangChain, Claude SDK, and custom-built agents.",
     "tags": [
-      "open_source",
-      "papers",
-      "models"
+      "agents",
+      "rag",
+      "framework"
     ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-05",
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-07-06",
     "score": 65
   }
 ]

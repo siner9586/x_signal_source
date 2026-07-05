@@ -6106,5 +6106,205 @@
     "cluster_id": "huggingface_co_78c51116",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b3108712ce320b14",
+    "canonical_url": "https://huggingface.co/blog/universal_assisted_generation",
+    "dedupe_key": "cf5a3d656e9d853c",
+    "title": "Universal Assisted Generation: Faster Decoding with Any Assistant Model",
+    "issue_date": "2026-07-06",
+    "cluster_id": "huggingface_co_c739c909",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_31a9ae0e95cbb591",
+    "canonical_url": "https://huggingface.co/blog/video-encoding",
+    "dedupe_key": "60a2310a2c2b5a71",
+    "title": "Scaling robotics datasets with video encoding",
+    "issue_date": "2026-07-06",
+    "cluster_id": "huggingface_co_f9dda270",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2ec92369488c73ad",
+    "canonical_url": "https://www.langchain.com/blog/unified-stack-for-evaluating-agents",
+    "dedupe_key": "636ead5bf0f1e81d",
+    "title": "Harbor x LangChain: A Unified Stack for Evaluating Agents",
+    "issue_date": "2026-07-06",
+    "cluster_id": "langchain_com_59af27ab",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_fb298df0603cefa8",
+    "canonical_url": "https://www.langchain.com/blog/pairwise-evaluations-with-langsmith",
+    "dedupe_key": "2a6e97739f1662d7",
+    "title": "Pairwise Evaluations with LangSmith",
+    "issue_date": "2026-07-06",
+    "cluster_id": "langchain_com_05e57c28",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9e6a9a26fa660943",
+    "canonical_url": "https://www.langchain.com/blog/evaluating-llms-with-openevals",
+    "dedupe_key": "2c3999068c1a5bd3",
+    "title": "Evaluating Large Language Models With OpenEvals",
+    "issue_date": "2026-07-06",
+    "cluster_id": "langchain_com_cefc6b65",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9c1bb5b71cd74e1b",
+    "canonical_url": "https://www.langchain.com/blog/agent-evaluation-readiness-checklist",
+    "dedupe_key": "7bb4686d7d1d5729",
+    "title": "Agent Evaluation Readiness Checklist",
+    "issue_date": "2026-07-06",
+    "cluster_id": "langchain_com_3bc22b0c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_89737907ea81c568",
+    "canonical_url": "https://www.langchain.com/blog/june-2026-langchain-newsletter",
+    "dedupe_key": "5b5bd9496d4bc312",
+    "title": "June 2026: LangChain Newsletter — Fleet On-Call Copilot, Deep Agents Rubrics, and More",
+    "issue_date": "2026-07-06",
+    "cluster_id": "langchain_com_09e5828a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8b802096d32205a5",
+    "canonical_url": "https://www.langchain.com/blog/the-art-of-loop-engineering",
+    "dedupe_key": "09fb18e74f4e623c",
+    "title": "The Art of Loop Engineering",
+    "issue_date": "2026-07-06",
+    "cluster_id": "langchain_com_a33a188f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4ab222d41fa38ae7",
+    "canonical_url": "https://www.langchain.com/blog/designing-efficient-verifiers-for-legal-agents",
+    "dedupe_key": "6da53b2cf15fe49c",
+    "title": "Designing Efficient Verifiers for Legal Agents",
+    "issue_date": "2026-07-06",
+    "cluster_id": "langchain_com_deb1fed3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e017373661b29cae",
+    "canonical_url": "https://www.langchain.com/blog/testing-fine-tuned-open-source-models-in-langsmith",
+    "dedupe_key": "04e2ecd4c9f0df12",
+    "title": "Testing Fine Tuned Open Source Models in LangSmith",
+    "issue_date": "2026-07-06",
+    "cluster_id": "langchain_com_950ad7a1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_79ed813b6816dd93",
+    "canonical_url": "https://www.langchain.com/blog/langsmith-homepage-redesign-and-resource-tags",
+    "dedupe_key": "9a2978c9495ee663",
+    "title": "LangSmith: Redesigned product homepage and Resource Tags for better organization",
+    "issue_date": "2026-07-06",
+    "cluster_id": "langchain_com_2b4c64b5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3eef3f488de425fd",
+    "canonical_url": "https://www.langchain.com/blog/customers-monte-carlo",
+    "dedupe_key": "e7ef533d4d0e73fc",
+    "title": "Monte Carlo: Building Data + AI Observability Agents with LangGraph and LangSmith",
+    "issue_date": "2026-07-06",
+    "cluster_id": "langchain_com_67c6cca3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_03886c8664c5f977",
+    "canonical_url": "https://www.langchain.com/blog/agent-engineering-a-new-discipline",
+    "dedupe_key": "2e279ee860851efd",
+    "title": "Agent Engineering: A New Discipline",
+    "issue_date": "2026-07-06",
+    "cluster_id": "langchain_com_f21747b7",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3e86b07995783948",
+    "canonical_url": "https://www.langchain.com/blog/context-management-for-deepagents",
+    "dedupe_key": "bd57ba2739d3e42e",
+    "title": "Context Management for Deep Agents",
+    "issue_date": "2026-07-06",
+    "cluster_id": "langchain_com_9826776c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_386c5a68b82daf5a",
+    "canonical_url": "https://www.langchain.com/blog/test-run-comparisons",
+    "dedupe_key": "ea9483a9c8fb3dd8",
+    "title": "Test Run Comparisons",
+    "issue_date": "2026-07-06",
+    "cluster_id": "langchain_com_771267bd",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e0c437904a25d47b",
+    "canonical_url": "https://www.langchain.com/blog/iterating-towards-llm-reliability-with-evaluation-driven-development",
+    "dedupe_key": "b425e3fba96fafb9",
+    "title": "Iterating Towards LLM Reliability with Evaluation Driven Development",
+    "issue_date": "2026-07-06",
+    "cluster_id": "langchain_com_74e6b7ae",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7520b830b7d75178",
+    "canonical_url": "https://www.langchain.com/blog/announcing-langsmith-is-now-a-transactable-offering-in-the-azure-marketplace",
+    "dedupe_key": "6dd2b1d22ceae752",
+    "title": "Announcing LangSmith is now a transactable offering in the Azure Marketplace",
+    "issue_date": "2026-07-06",
+    "cluster_id": "langchain_com_e3492f72",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_02de9b2c006fe2af",
+    "canonical_url": "https://www.langchain.com/blog/promptim",
+    "dedupe_key": "ba09139e64a3fd19",
+    "title": "Promptim: an experimental library for prompt optimization",
+    "issue_date": "2026-07-06",
+    "cluster_id": "langchain_com_d2aa5f58",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7d27d11d7e323f43",
+    "canonical_url": "https://www.langchain.com/blog/end-to-end-opentelemetry-langsmith",
+    "dedupe_key": "9049f37e4798e84d",
+    "title": "Introducing End-to-End OpenTelemetry Support in LangSmith",
+    "issue_date": "2026-07-06",
+    "cluster_id": "langchain_com_cbebb0fa",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5991d99a18d3cf7e",
+    "canonical_url": "https://www.langchain.com/blog/on-agent-frameworks-and-agent-observability",
+    "dedupe_key": "af7f8ff16c4fa94e",
+    "title": "On Agent Frameworks and Agent Observability",
+    "issue_date": "2026-07-06",
+    "cluster_id": "langchain_com_51094634",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
