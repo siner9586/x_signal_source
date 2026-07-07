@@ -1,36 +1,22 @@
 [
   {
-    "title": "🎙️ How I AI: Sonnet 5 review & How to run autonomous coding agents from your phone",
-    "url": "https://www.lennysnewsletter.com/p/how-i-ai-sonnet-5-review-and-how",
-    "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+    "title": "The Making of Claude Code Features Jul 6, 2026 The inside story of how Claude Code went from an internal CLI to Anthropic&#x27;s coding agent, told by researchers, engineers and early users who built it.",
+    "url": "https://www.anthropic.com/features/making-of-claude-code",
+    "summary": "Newsroom \\ Anthropic · The Making of Claude Code Features Jul 6, 2026 The inside story of how Claude Code went from an internal CLI to Anthropic&#x27;s coding agent, told by researchers, engineers and early users who built it.",
     "tags": [
-      "product",
-      "growth",
-      "startup"
+      "ai_models",
+      "safety",
+      "official"
     ],
-    "author": "Lenny's Newsletter",
-    "source": "lennysnewsletter.com",
-    "date": "2026-07-07",
-    "score": 67
+    "author": "Anthropic",
+    "source": "anthropic.com",
+    "date": "2026-07-08",
+    "score": 74
   },
   {
-    "title": "How I run autonomous coding agents from my phone with OpenAI Symphony + Linear | Alessio Fanelli (Kernel Labs)",
-    "url": "https://www.lennysnewsletter.com/p/how-i-run-autonomous-coding-agents",
-    "summary": "Watch now | &#127897;&#65039; Alessio Fanelli shows his Symphony + Linear setup for running parallel coding agents from his phone, then demos Codex hunting underpriced Pok&#233;mon cards in real time",
-    "tags": [
-      "product",
-      "growth",
-      "startup"
-    ],
-    "author": "Lenny's Newsletter",
-    "source": "lennysnewsletter.com",
-    "date": "2026-07-07",
-    "score": 67
-  },
-  {
-    "title": "Enhancing Goodput in Large-Scale LLM Training with Nonuniform Tensor Parallelism",
-    "url": "https://developer.nvidia.com/blog/enhancing-goodput-in-large-scale-llm-training-with-nonuniform-tensor-parallelism",
-    "summary": "NVIDIA Technical Blog · Enhancing Goodput in Large-Scale LLM Training with Nonuniform Tensor Parallelism",
+    "title": "Building an Analysis AI Agent for Industrial Alarm Management with NVIDIA Nemotron",
+    "url": "https://developer.nvidia.com/blog/building-an-analysis-ai-agent-for-industrial-alarm-management-with-nvidia-nemotron",
+    "summary": "NVIDIA Technical Blog · Building an Analysis AI Agent for Industrial Alarm Management with NVIDIA Nemotron",
     "tags": [
       "gpu",
       "inference",
@@ -38,13 +24,214 @@
     ],
     "author": "NVIDIA AI",
     "source": "developer.nvidia.com",
-    "date": "2026-07-07",
+    "date": "2026-07-08",
+    "score": 71
+  },
+  {
+    "title": "Give your eve agent GitHub tools",
+    "url": "https://vercel.com/changelog/github-tools-eve",
+    "summary": "GitHub Tools now ships an eve toolset through the new @github-tools/sdk/eve subpath. One file in agent/tools/ can register every GitHub tool, or use a preset such as maintainer , so you can build a complete GitHub agent in nine lines of code. Safe by default: Every write tool, such as mergePullRequest , requires approval unless you opt out. Gate individual tools with always , once , or an input-dependent predicate; pauses survive restarts and deploys. Presets: code-review , i",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-07-08",
+    "score": 71
+  },
+  {
+    "title": "NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads",
+    "url": "https://developer.nvidia.com/blog/nvidia-vera-cpu-boosts-ai-factory-throughput-to-accelerate-agentic-workloads",
+    "summary": "NVIDIA Technical Blog · NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-07-08",
+    "score": 69
+  },
+  {
+    "title": "Conversational Design: Five Patterns to Shape Customer-facing AI Experiences",
+    "url": "https://openai.com/deployco/news/conversational-design-five-patterns-to-shape-customer-facing-ai-experiences",
+    "summary": "What held up in production when the goal wasn’t just functional accuracy but better dialogue",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-07-08",
+    "score": 68
+  },
+  {
+    "title": "Vercel acquires Better Auth to accelerate open source auth",
+    "url": "https://vercel.com/blog/vercel-acquires-better-auth",
+    "summary": "Vercel is acquiring Better Auth , the company behind the open source TypeScript authentication library , which has 4.7M+ weekly npm downloads and more than 850 contributors. Founder Bereket Engida and the core team are joining Vercel to continue their work on Better Auth and agent identity. The open web Last year, we published our approach behind Next.js, AI SDK, and Nuxt: software that's open by default, loosely coupled, and portable to any platform. Better Auth applies it t",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-07-08",
+    "score": 68
+  },
+  {
+    "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+    "url": "https://openai.com/index/australian-payments-plus",
+    "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-07-08",
+    "score": 67
+  },
+  {
+    "title": "Designing Organisations That Can Keep Up With AI",
+    "url": "https://openai.com/deployco/news/designing-organisations-that-can-keep-up-with-ai",
+    "summary": "Why organisational latency is becoming the biggest barrier to fully realising AI’s benefits",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-07-08",
+    "score": 67
+  },
+  {
+    "title": "Meta-Harness R&D: Enterprise-Grade Self-Improvement for Long-Horizon AI Workflows",
+    "url": "https://openai.com/deployco/news/meta-harness-enterprise-self-improvement-long-horizon-ai-workflows",
+    "summary": "How autonomous code improvement can be made disciplined enough for enterprise use",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-07-08",
+    "score": 67
+  },
+  {
+    "title": "Responses are the Easy Part: What We’ve Learned Building Real-time Voice Experiences at Scale",
+    "url": "https://openai.com/deployco/news/building-realtime-voice-experiences-at-scale",
+    "summary": "Timing, interruption, silence and recovery shape the experience as much as words",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-07-08",
+    "score": 67
+  },
+  {
+    "title": "Deploying Business-Critical AI: How to Build the Confidence and Accountability to Go Live",
+    "url": "https://openai.com/deployco/news/deploying-business-critical-ai-confidence-accountability-go-live",
+    "summary": "Lacking confidence to put AI at the heart of your business?",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-07-08",
+    "score": 67
+  },
+  {
+    "title": "Q1 2026 Innovation Graph update: Open source collaboration is accelerating worldwide",
+    "url": "https://github.blog/news-insights/policy-news-and-insights/q1-2026-innovation-graph-update-open-source-collaboration-is-accelerating-worldwide",
+    "summary": "New Innovation Graph data shows global developer communities growing faster than ever, with collaboration reaching new highs across many economies. The post Q1 2026 Innovation Graph update: Open source collaboration is accelerating worldwide appeared first on The GitHub Blog .",
+    "tags": [
+      "ai_coding",
+      "developer_tools"
+    ],
+    "author": "GitHub Copilot",
+    "source": "github.blog",
+    "date": "2026-07-08",
+    "score": 67
+  },
+  {
+    "title": "The foundational elements of AI architecture that IT leaders need to scale",
+    "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale",
+    "summary": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces risk, leaving IT leaders to wonder which investments will prove valuable even six months into the future. Returning to the foundational elements of AI architecture—the&#8230;",
+    "tags": [
+      "ai",
+      "research",
+      "society"
+    ],
+    "author": "MIT Technology Review AI",
+    "source": "technologyreview.com",
+    "date": "2026-07-08",
+    "score": 67
+  },
+  {
+    "title": "Introducing Muse Image and Muse Video",
+    "url": "https://ai.meta.com/blog/introducing-muse-image-muse-video-msl",
+    "summary": "AI at Meta Blog · Introducing Muse Image and Muse Video",
+    "tags": [
+      "open_source_model",
+      "research",
+      "llama"
+    ],
+    "author": "Meta AI",
+    "source": "ai.meta.com",
+    "date": "2026-07-08",
     "score": 66
   },
   {
-    "title": "How we built LangChain’s GTM Agent",
-    "url": "https://www.langchain.com/blog/how-we-built-langchains-gtm-agent",
-    "summary": "Learn how we built a GTM agent that increased lead conversion by 250% while saving each sales rep 40 hours per month",
+    "title": "Develop Humanoid Robot Policies End-to-End with NVIDIA Isaac GR00T",
+    "url": "https://developer.nvidia.com/blog/develop-humanoid-robot-policies-end-to-end-with-nvidia-isaac-gr00t",
+    "summary": "NVIDIA Technical Blog · Develop Humanoid Robot Policies End-to-End with NVIDIA Isaac GR00T",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-07-08",
+    "score": 66
+  },
+  {
+    "title": "Maximize Spectral Efficiency with AI-Native RAN and NVIDIA AI Aerial",
+    "url": "https://developer.nvidia.com/blog/maximize-spectral-efficiency-with-ai-native-ran-and-nvidia-ai-aerial",
+    "summary": "NVIDIA Technical Blog · Maximize Spectral Efficiency with AI-Native RAN and NVIDIA AI Aerial",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-07-08",
+    "score": 66
+  },
+  {
+    "title": "How Schneider Electric Built Their LLMOps Foundations With LangSmith",
+    "url": "https://www.langchain.com/blog/how-schneider-electric-built-their-llmops-foundations-at-enterprise-scale-with-langsmith",
+    "summary": "Learn how Schneider Electric built enterprise LLMOps foundations with LangSmith to improve observability, evaluation, and deployment for AI products at scale.",
     "tags": [
       "agents",
       "rag",
@@ -52,13 +239,13 @@
     ],
     "author": "LangChain",
     "source": "langchain.com",
-    "date": "2026-07-07",
-    "score": 65
+    "date": "2026-07-08",
+    "score": 66
   },
   {
-    "title": "How Box AI built enterprise content agents with Deep Agents",
-    "url": "https://www.langchain.com/blog/building-box-ai-how-an-enterprise-content-platform-went-ai-native-with-deep-agents",
-    "summary": "See how Box built Box Agent on Deep Agents to search, analyze, and synthesize enterprise content while preserving security, permissions, and model flexibility.",
+    "title": "Improving Agents is a Data Mining Problem",
+    "url": "https://www.langchain.com/blog/improving-agents-is-a-data-mining-problem",
+    "summary": "How LangChain mines agent traces to find failures, fine-tune judge models cheaper than frontier LLMs, and hill-climb performance with evals.",
     "tags": [
       "agents",
       "rag",
@@ -66,209 +253,13 @@
     ],
     "author": "LangChain",
     "source": "langchain.com",
-    "date": "2026-07-07",
+    "date": "2026-07-08",
     "score": 65
   },
   {
-    "title": "How to Build a Custom Agent Harness",
-    "url": "https://www.langchain.com/blog/how-to-build-a-custom-agent-harness",
-    "summary": "Effective agents are built with harnesses that are tightly coupled with the task at hand. The easiest way to build a custom harness is with LangChain's create_agent plus middleware. This guide covers the core agent loop and how you can customize it for your agent's use case.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-07-07",
-    "score": 65
-  },
-  {
-    "title": "The Anatomy of an Agent Harness",
-    "url": "https://www.langchain.com/blog/the-anatomy-of-an-agent-harness",
-    "summary": "Learn how agent harnesses transform AI models into autonomous work engines. Explore core components: filesystems, sandboxes, and memory.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-07-07",
-    "score": 65
-  },
-  {
-    "title": "Tuning Deep Agents to Work Well with Different Models",
-    "url": "https://www.langchain.com/blog/tuning-deep-agents-different-models",
-    "summary": "Deep Agents was previously designed in a generic way to work well across model families. Today we’re adding model-specific profiles to adjust prompts, tools, and middleware. We ship profiles for OpenAI, Anthropic, and Google models out of the box, which we see leads to a 10–20 point jump on a subset of tau2-bench over the default harness.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-07-07",
-    "score": 65
-  },
-  {
-    "title": "Announcing the YC AI Stack",
-    "url": "https://www.ycombinator.com/blog/the-yc-ai-student-starter-pack",
-    "summary": "We've partnered with nearly two dozen companies to offer students who attend YC events a suite of over $25,000 in free credits for AI devtools.",
-    "tags": [
-      "startup",
-      "product",
-      "founder"
-    ],
-    "author": "Y Combinator",
-    "source": "ycombinator.com",
-    "date": "2026-07-07",
-    "score": 65
-  },
-  {
-    "title": "YC x Coinbase RFS: Build Onchain",
-    "url": "https://www.ycombinator.com/blog/build-onchain",
-    "summary": "We are entering the era of Fintech 3.0. Regulatory clarity, growing consumer adoption, and low-cost chains have paved the way for a golden age of building in crypto — and at YC, Base, and Coinbase, we want to fund builders to seize this moment.",
-    "tags": [
-      "startup",
-      "product",
-      "founder"
-    ],
-    "author": "Y Combinator",
-    "source": "ycombinator.com",
-    "date": "2026-07-07",
-    "score": 65
-  },
-  {
-    "title": "Sonnet 5 review: I ran 64 generations to find out if it's worth it",
-    "url": "https://www.lennysnewsletter.com/p/sonnet-5-review-i-ran-64-generations",
-    "summary": "Watch now | &#127897; I built the How I AI Bench live using Claude Code, ran 5 frontier models through 64 blind prototype generations, PRDs, and agent voice tests, and the results surprised even me",
-    "tags": [
-      "product",
-      "growth",
-      "startup"
-    ],
-    "author": "Lenny's Newsletter",
-    "source": "lennysnewsletter.com",
-    "date": "2026-07-07",
-    "score": 65
-  },
-  {
-    "title": "Latest news from our research",
-    "url": "https://research.runwayml.com/news/research",
-    "summary": "AI Video Research & Innovation | Runway AI · Latest news from our research",
-    "tags": [
-      "video_ai",
-      "multimodal",
-      "research"
-    ],
-    "author": "Runway",
-    "source": "research.runwayml.com",
-    "date": "2026-07-07",
-    "score": 64
-  },
-  {
-    "title": "View More Publications",
-    "url": "https://research.runwayml.com/research/publications",
-    "summary": "AI Video Research & Innovation | Runway AI · View More Publications",
-    "tags": [
-      "video_ai",
-      "multimodal",
-      "research"
-    ],
-    "author": "Runway",
-    "source": "research.runwayml.com",
-    "date": "2026-07-07",
-    "score": 64
-  },
-  {
-    "title": "GWM-1 ↗ A state-of-the-art General World Model built to interact with the real world. And a major step towards universal simulation.",
-    "url": "https://research.runwayml.com/research/introducing-runway-gwm-1",
-    "summary": "AI Video Research & Innovation | Runway AI · GWM-1 ↗ A state-of-the-art General World Model built to interact with the real world. And a major step towards universal simulation.",
-    "tags": [
-      "video_ai",
-      "multimodal",
-      "research"
-    ],
-    "author": "Runway",
-    "source": "research.runwayml.com",
-    "date": "2026-07-07",
-    "score": 64
-  },
-  {
-    "title": "Gen-4.5 ↗ The world&#x27;s best video model, featuring state-of-the-art motion quality, prompt adherence and visual fidelity.",
-    "url": "https://research.runwayml.com/research/introducing-runway-gen-4.5",
-    "summary": "AI Video Research & Innovation | Runway AI · Gen-4.5 ↗ The world&#x27;s best video model, featuring state-of-the-art motion quality, prompt adherence and visual fidelity.",
-    "tags": [
-      "video_ai",
-      "multimodal",
-      "research"
-    ],
-    "author": "Runway",
-    "source": "research.runwayml.com",
-    "date": "2026-07-07",
-    "score": 64
-  },
-  {
-    "title": "General World Models ↗ Our long-term research effort to build AI systems that understand the visual world and its dynamics.",
-    "url": "https://research.runwayml.com/research/introducing-general-world-models",
-    "summary": "AI Video Research & Innovation | Runway AI · General World Models ↗ Our long-term research effort to build AI systems that understand the visual world and its dynamics.",
-    "tags": [
-      "video_ai",
-      "multimodal",
-      "research"
-    ],
-    "author": "Runway",
-    "source": "research.runwayml.com",
-    "date": "2026-07-07",
-    "score": 64
-  },
-  {
-    "title": "How Real-Time Video Generation Is Changing Online Interaction",
-    "url": "https://research.runwayml.com/research/how-real-time-video-generation-is-changing-online-interaction",
-    "summary": "AI Video Research & Innovation | Runway AI · How Real-Time Video Generation Is Changing Online Interaction",
-    "tags": [
-      "video_ai",
-      "multimodal",
-      "research"
-    ],
-    "author": "Runway",
-    "source": "research.runwayml.com",
-    "date": "2026-07-07",
-    "score": 64
-  },
-  {
-    "title": "Accelerating Robot Policy Evaluation with General World Models",
-    "url": "https://research.runwayml.com/research/accelerating-robot-policy-evaluation",
-    "summary": "AI Video Research & Innovation | Runway AI · Accelerating Robot Policy Evaluation with General World Models",
-    "tags": [
-      "video_ai",
-      "multimodal",
-      "research"
-    ],
-    "author": "Runway",
-    "source": "research.runwayml.com",
-    "date": "2026-07-07",
-    "score": 64
-  },
-  {
-    "title": "The Turing Reel",
-    "url": "https://research.runwayml.com/research/theturingreel",
-    "summary": "AI Video Research & Innovation | Runway AI · The Turing Reel",
-    "tags": [
-      "video_ai",
-      "multimodal",
-      "research"
-    ],
-    "author": "Runway",
-    "source": "research.runwayml.com",
-    "date": "2026-07-07",
-    "score": 64
-  },
-  {
-    "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
-    "url": "https://huggingface.co/blog/ffasr-leaderboard",
-    "summary": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Adding a GPU Without Building One FINAL-Bench • 5 days ago • 16",
+    "url": "https://huggingface.co/blog/FINAL-Bench/vkae-leaderboard",
+    "summary": "Hugging Face – Blog · Adding a GPU Without Building One FINAL-Bench • 5 days ago • 16",
     "tags": [
       "open_source",
       "papers",
@@ -276,7 +267,63 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-07",
+    "date": "2026-07-08",
+    "score": 64
+  },
+  {
+    "title": "Migrating Your GitHub CI to Hugging Face Jobs",
+    "url": "https://huggingface.co/blog/github-ci-hf-jobs",
+    "summary": "Migrating Your GitHub CI to Hugging Face Jobs 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-08",
+    "score": 64
+  },
+  {
+    "title": "The Open Evaluation Standard: Benchmarking NVIDIA Nemotron 3 Nano with NeMo Evaluator",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-evaluation-recipe",
+    "summary": "The Open Evaluation Standard: Benchmarking NVIDIA Nemotron 3 Nano with NeMo Evaluator 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-08",
+    "score": 64
+  },
+  {
+    "title": "SyGra: The One-Stop Framework for Building Data for LLMs and SLMs",
+    "url": "https://huggingface.co/blog/ServiceNow-AI/sygra-data-gen-framework",
+    "summary": "SyGra: The One-Stop Framework for Building Data for LLMs and SLMs 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-08",
+    "score": 64
+  },
+  {
+    "title": "📚 3LM: A Benchmark for Arabic LLMs in STEM and Code",
+    "url": "https://huggingface.co/blog/tiiuae/3lm-benchmark",
+    "summary": "📚 3LM: A Benchmark for Arabic LLMs in STEM and Code 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-08",
     "score": 64
   }
 ]

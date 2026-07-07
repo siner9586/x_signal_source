@@ -6506,5 +6506,235 @@
     "cluster_id": "huggingface_co_cbe0701b",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5fd77ebd08a0da10",
+    "canonical_url": "https://www.anthropic.com/features/making-of-claude-code",
+    "dedupe_key": "b46772613671b2c5",
+    "title": "The Making of Claude Code Features Jul 6, 2026 The inside story of how Claude Code went from an internal CLI to Anthropic&#x27;s coding agent, told by researchers, engineers and early users who built it.",
+    "issue_date": "2026-07-08",
+    "cluster_id": "anthropic_com_c8d438de",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_eed67f83853b8a5f",
+    "canonical_url": "https://developer.nvidia.com/blog/building-an-analysis-ai-agent-for-industrial-alarm-management-with-nvidia-nemotron",
+    "dedupe_key": "1b41f7812a367bc0",
+    "title": "Building an Analysis AI Agent for Industrial Alarm Management with NVIDIA Nemotron",
+    "issue_date": "2026-07-08",
+    "cluster_id": "developer_nvidia_com_9eb0749b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4b9a500ec57ce203",
+    "canonical_url": "https://vercel.com/changelog/github-tools-eve",
+    "dedupe_key": "b1163a2b70a92fca",
+    "title": "Give your eve agent GitHub tools",
+    "issue_date": "2026-07-08",
+    "cluster_id": "vercel_com_d665b940",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6ecaa8e13158e55c",
+    "canonical_url": "https://developer.nvidia.com/blog/nvidia-vera-cpu-boosts-ai-factory-throughput-to-accelerate-agentic-workloads",
+    "dedupe_key": "99181f569a17823c",
+    "title": "NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads",
+    "issue_date": "2026-07-08",
+    "cluster_id": "developer_nvidia_com_1a169869",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_24254bbd611d56db",
+    "canonical_url": "https://openai.com/deployco/news/conversational-design-five-patterns-to-shape-customer-facing-ai-experiences",
+    "dedupe_key": "dc8e3754faa7413e",
+    "title": "Conversational Design: Five Patterns to Shape Customer-facing AI Experiences",
+    "issue_date": "2026-07-08",
+    "cluster_id": "openai_com_49200245",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_cab257228dbd98ed",
+    "canonical_url": "https://vercel.com/blog/vercel-acquires-better-auth",
+    "dedupe_key": "842529e414b8f03f",
+    "title": "Vercel acquires Better Auth to accelerate open source auth",
+    "issue_date": "2026-07-08",
+    "cluster_id": "vercel_com_80f62847",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6eebe5bdf5d32824",
+    "canonical_url": "https://openai.com/index/australian-payments-plus",
+    "dedupe_key": "0917801c40244d1c",
+    "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+    "issue_date": "2026-07-08",
+    "cluster_id": "openai_com_1c6bcc68",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2c53fd11f94a15ae",
+    "canonical_url": "https://openai.com/deployco/news/designing-organisations-that-can-keep-up-with-ai",
+    "dedupe_key": "d607dbf3a13d9d4b",
+    "title": "Designing Organisations That Can Keep Up With AI",
+    "issue_date": "2026-07-08",
+    "cluster_id": "openai_com_f67d727f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6f339ee0f011e08b",
+    "canonical_url": "https://openai.com/deployco/news/meta-harness-enterprise-self-improvement-long-horizon-ai-workflows",
+    "dedupe_key": "96e49f43a218387f",
+    "title": "Meta-Harness R&D: Enterprise-Grade Self-Improvement for Long-Horizon AI Workflows",
+    "issue_date": "2026-07-08",
+    "cluster_id": "openai_com_6d196ffe",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_64ba35e7d3c2c053",
+    "canonical_url": "https://openai.com/deployco/news/building-realtime-voice-experiences-at-scale",
+    "dedupe_key": "3d0d007d1ba7218a",
+    "title": "Responses are the Easy Part: What We’ve Learned Building Real-time Voice Experiences at Scale",
+    "issue_date": "2026-07-08",
+    "cluster_id": "openai_com_7afb0633",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_bd68da7aec3455b6",
+    "canonical_url": "https://openai.com/deployco/news/deploying-business-critical-ai-confidence-accountability-go-live",
+    "dedupe_key": "b2df90242efa29ed",
+    "title": "Deploying Business-Critical AI: How to Build the Confidence and Accountability to Go Live",
+    "issue_date": "2026-07-08",
+    "cluster_id": "openai_com_ba27d165",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3f6ba5536f7f0dee",
+    "canonical_url": "https://github.blog/news-insights/policy-news-and-insights/q1-2026-innovation-graph-update-open-source-collaboration-is-accelerating-worldwide",
+    "dedupe_key": "4e72f58acc42d8ce",
+    "title": "Q1 2026 Innovation Graph update: Open source collaboration is accelerating worldwide",
+    "issue_date": "2026-07-08",
+    "cluster_id": "github_blog_2d91b99e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6811ca5b97ea43c1",
+    "canonical_url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale",
+    "dedupe_key": "7e637c1556201eb8",
+    "title": "The foundational elements of AI architecture that IT leaders need to scale",
+    "issue_date": "2026-07-08",
+    "cluster_id": "technologyreview_com_1c816c14",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_649a7bd9d2b1df29",
+    "canonical_url": "https://ai.meta.com/blog/introducing-muse-image-muse-video-msl",
+    "dedupe_key": "efe9d407af0586ff",
+    "title": "Introducing Muse Image and Muse Video",
+    "issue_date": "2026-07-08",
+    "cluster_id": "ai_meta_com_f0621c8a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7dc73d7fb92f05c4",
+    "canonical_url": "https://developer.nvidia.com/blog/develop-humanoid-robot-policies-end-to-end-with-nvidia-isaac-gr00t",
+    "dedupe_key": "8ebe9539aa2a788d",
+    "title": "Develop Humanoid Robot Policies End-to-End with NVIDIA Isaac GR00T",
+    "issue_date": "2026-07-08",
+    "cluster_id": "developer_nvidia_com_8bce65ec",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d833f620b9fcf7a6",
+    "canonical_url": "https://developer.nvidia.com/blog/maximize-spectral-efficiency-with-ai-native-ran-and-nvidia-ai-aerial",
+    "dedupe_key": "05ce5f3734344919",
+    "title": "Maximize Spectral Efficiency with AI-Native RAN and NVIDIA AI Aerial",
+    "issue_date": "2026-07-08",
+    "cluster_id": "developer_nvidia_com_fd98280a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e7c185923490ac95",
+    "canonical_url": "https://www.langchain.com/blog/how-schneider-electric-built-their-llmops-foundations-at-enterprise-scale-with-langsmith",
+    "dedupe_key": "d121520c8ab2a300",
+    "title": "How Schneider Electric Built Their LLMOps Foundations With LangSmith",
+    "issue_date": "2026-07-08",
+    "cluster_id": "langchain_com_72745060",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2781763c0abee060",
+    "canonical_url": "https://www.langchain.com/blog/improving-agents-is-a-data-mining-problem",
+    "dedupe_key": "260ad14fbb55cf7a",
+    "title": "Improving Agents is a Data Mining Problem",
+    "issue_date": "2026-07-08",
+    "cluster_id": "langchain_com_b08b7417",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ff456ed65451e381",
+    "canonical_url": "https://huggingface.co/blog/FINAL-Bench/vkae-leaderboard",
+    "dedupe_key": "1138f712736a0709",
+    "title": "Adding a GPU Without Building One FINAL-Bench • 5 days ago • 16",
+    "issue_date": "2026-07-08",
+    "cluster_id": "huggingface_co_fc614449",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f2e85fefba1b1cec",
+    "canonical_url": "https://huggingface.co/blog/github-ci-hf-jobs",
+    "dedupe_key": "556718e611ade157",
+    "title": "Migrating Your GitHub CI to Hugging Face Jobs",
+    "issue_date": "2026-07-08",
+    "cluster_id": "huggingface_co_3803d4a3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_47d8bb074faa05c5",
+    "canonical_url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-evaluation-recipe",
+    "dedupe_key": "b5e248af2f63a428",
+    "title": "The Open Evaluation Standard: Benchmarking NVIDIA Nemotron 3 Nano with NeMo Evaluator",
+    "issue_date": "2026-07-08",
+    "cluster_id": "huggingface_co_26c02329",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_66dfa8b716091906",
+    "canonical_url": "https://huggingface.co/blog/ServiceNow-AI/sygra-data-gen-framework",
+    "dedupe_key": "4841be9dd8f3e0b6",
+    "title": "SyGra: The One-Stop Framework for Building Data for LLMs and SLMs",
+    "issue_date": "2026-07-08",
+    "cluster_id": "huggingface_co_1879b77f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_80fd7ef10ff96d1c",
+    "canonical_url": "https://huggingface.co/blog/tiiuae/3lm-benchmark",
+    "dedupe_key": "f0907c7ffe81e26a",
+    "title": "📚 3LM: A Benchmark for Arabic LLMs in STEM and Code",
+    "issue_date": "2026-07-08",
+    "cluster_id": "huggingface_co_b0b959ab",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
