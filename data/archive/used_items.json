@@ -6736,5 +6736,225 @@
     "cluster_id": "huggingface_co_b0b959ab",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c6d130379a321c26",
+    "canonical_url": "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows",
+    "dedupe_key": "c167368c15c2426e",
+    "title": "Automating cross-repo documentation with GitHub Agentic Workflows",
+    "issue_date": "2026-07-09",
+    "cluster_id": "github_blog_c427299d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a2129cca284fa892",
+    "canonical_url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+    "dedupe_key": "2e551af5f597309a",
+    "title": "Separating signal from noise in coding evaluations",
+    "issue_date": "2026-07-09",
+    "cluster_id": "openai_com_8a15a625",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3adb9384981ec3cb",
+    "canonical_url": "https://developer.nvidia.com/blog/create-a-langchain-deep-agents-harness-profile-for-nvidia-nemotron-3-ultra-to-improve-performance",
+    "dedupe_key": "c1430a6b1aeb8017",
+    "title": "Create a LangChain Deep Agents Harness Profile for NVIDIA Nemotron 3 Ultra to Improve Performance",
+    "issue_date": "2026-07-09",
+    "cluster_id": "developer_nvidia_com_0beeef95",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2376dc52c21b67ca",
+    "canonical_url": "https://vercel.com/blog/vercel-agent",
+    "dedupe_key": "2478f1a1f530a33a",
+    "title": "Vercel Agent: An agent you can let near production",
+    "issue_date": "2026-07-09",
+    "cluster_id": "vercel_com_22713c1e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5b4aab62d990e343",
+    "canonical_url": "https://vercel.com/changelog/grok-4-5-now-available-on-ai-gateway",
+    "dedupe_key": "89fd17829bbed209",
+    "title": "Grok 4.5 now available on AI Gateway",
+    "issue_date": "2026-07-09",
+    "cluster_id": "vercel_com_a390402b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_55cada0fe58091b6",
+    "canonical_url": "https://openai.com/index/government-national-security-partnerships",
+    "dedupe_key": "76b2d95da715ce63",
+    "title": "Our approach to government and national security partnerships",
+    "issue_date": "2026-07-09",
+    "cluster_id": "openai_com_f6aa4fb6",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d99133ae84fad75e",
+    "canonical_url": "https://openai.com/index/k-12-educators-practical-skills",
+    "dedupe_key": "09d244cc1be6472a",
+    "title": "Helping K–12 educators build practical AI skills",
+    "issue_date": "2026-07-09",
+    "cluster_id": "openai_com_6758a40b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1600cfbb96a387cf",
+    "canonical_url": "https://openai.com/index/introducing-gpt-live",
+    "dedupe_key": "8c9b56332e4b4578",
+    "title": "Introducing GPT-Live",
+    "issue_date": "2026-07-09",
+    "cluster_id": "openai_com_0d1935dc",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6a6a7cba05d96f74",
+    "canonical_url": "https://github.blog/news-insights/company-news/github-availability-report-june-2026",
+    "dedupe_key": "0122e24718739865",
+    "title": "GitHub availability report: June 2026",
+    "issue_date": "2026-07-09",
+    "cluster_id": "github_blog_19ea1713",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0e7b1280668099f4",
+    "canonical_url": "https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages",
+    "dedupe_key": "436415d35e90a306",
+    "title": "How GitHub Copilot enables zero DNS configuration for GitHub Pages",
+    "issue_date": "2026-07-09",
+    "cluster_id": "github_blog_9443983c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_bc9fc64fd6fd6430",
+    "canonical_url": "https://developer.nvidia.com/blog/running-low-latency-analytical-workloads-with-gpu-accelerated-presto-on-nvidia-gb200-nvl72",
+    "dedupe_key": "de471846240477ae",
+    "title": "Running Low-Latency Analytical Workloads with GPU-Accelerated Presto on NVIDIA GB200 NVL72",
+    "issue_date": "2026-07-09",
+    "cluster_id": "developer_nvidia_com_05a6bdd4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_14a9602d9aad64d7",
+    "canonical_url": "https://vercel.com/changelog/update-project-settings-from-the-vercel-cli",
+    "dedupe_key": "fdd2666c926df2c5",
+    "title": "Update Project Settings from the Vercel CLI",
+    "issue_date": "2026-07-09",
+    "cluster_id": "vercel_com_a27b517f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_549e7f5b1e42758a",
+    "canonical_url": "https://vercel.com/changelog/eve-chat-sdk-channel",
+    "dedupe_key": "f043b2879362de47",
+    "title": "Use any Chat SDK adapter with eve",
+    "issue_date": "2026-07-09",
+    "cluster_id": "vercel_com_cd31f48c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c8aa374b26b912f1",
+    "canonical_url": "https://vercel.com/changelog/chat-sdk-vercel-connect",
+    "dedupe_key": "3c23479548fae8d3",
+    "title": "Chat SDK now supports Vercel Connect",
+    "issue_date": "2026-07-09",
+    "cluster_id": "vercel_com_40182df0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3e0228f56aa95213",
+    "canonical_url": "https://vercel.com/changelog/vercel-microfrontends-checks-for-missing-configuration",
+    "dedupe_key": "4f598c75f57c1b4e",
+    "title": "Vercel Microfrontends checks for missing configuration",
+    "issue_date": "2026-07-09",
+    "cluster_id": "vercel_com_85872443",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_85e9b791072f51e1",
+    "canonical_url": "https://vercel.com/changelog/chat-sdk-adds-dial-support",
+    "dedupe_key": "80c1d8d6ac32c33c",
+    "title": "Chat SDK adds Dial support",
+    "issue_date": "2026-07-09",
+    "cluster_id": "vercel_com_642c8853",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ddf5d5332095ebf9",
+    "canonical_url": "https://vercel.com/changelog/chat-sdk-adds-photon-support",
+    "dedupe_key": "5b27331ef3fe2587",
+    "title": "Chat SDK adds Photon support",
+    "issue_date": "2026-07-09",
+    "cluster_id": "vercel_com_81d8e88a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4cf4e8475a4ef542",
+    "canonical_url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+    "dedupe_key": "761cb544cbc47712",
+    "title": "Data for Agents",
+    "issue_date": "2026-07-09",
+    "cluster_id": "huggingface_co_8e1e99b3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9ba75271c851b7c1",
+    "canonical_url": "https://www.langchain.com/blog/langchain-and-nvidia-launch-the-nemoclaw-deep-agents-blueprint",
+    "dedupe_key": "a3630fdfc8d095b8",
+    "title": "LangChain and NVIDIA Launch NemoClaw Deep Agents Blueprint",
+    "issue_date": "2026-07-09",
+    "cluster_id": "langchain_com_e5a18c91",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6d19e7d123d31aac",
+    "canonical_url": "https://huggingface.co/blog/huggingface/blog-articles-for-orgs",
+    "dedupe_key": "fd4afd836bc923f0",
+    "title": "Yay! Organizations can now publish blog Articles",
+    "issue_date": "2026-07-09",
+    "cluster_id": "huggingface_co_17e5d682",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_558e79b939772b8e",
+    "canonical_url": "https://huggingface.co/blog/intel-gcp-c4",
+    "dedupe_key": "ae7e84f5e1c52fdf",
+    "title": "Benchmarking Language Model Performance on 5th Gen Xeon at GCP",
+    "issue_date": "2026-07-09",
+    "cluster_id": "huggingface_co_9041b4cf",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3d003e8fb4dc4590",
+    "canonical_url": "https://huggingface.co/blog/leaderboard-3c3h-aragen",
+    "dedupe_key": "1a62581010b24ec5",
+    "title": "Rethinking LLM Evaluation with 3C3H: AraGen Benchmark and Leaderboard",
+    "issue_date": "2026-07-09",
+    "cluster_id": "huggingface_co_2e4f3a54",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]

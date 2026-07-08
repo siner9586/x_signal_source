@@ -1,209 +1,36 @@
 [
   {
-    "title": "The Making of Claude Code Features Jul 6, 2026 The inside story of how Claude Code went from an internal CLI to Anthropic&#x27;s coding agent, told by researchers, engineers and early users who built it.",
-    "url": "https://www.anthropic.com/features/making-of-claude-code",
-    "summary": "Newsroom \\ Anthropic · The Making of Claude Code Features Jul 6, 2026 The inside story of how Claude Code went from an internal CLI to Anthropic&#x27;s coding agent, told by researchers, engineers and early users who built it.",
-    "tags": [
-      "ai_models",
-      "safety",
-      "official"
-    ],
-    "author": "Anthropic",
-    "source": "anthropic.com",
-    "date": "2026-07-08",
-    "score": 74
-  },
-  {
-    "title": "Building an Analysis AI Agent for Industrial Alarm Management with NVIDIA Nemotron",
-    "url": "https://developer.nvidia.com/blog/building-an-analysis-ai-agent-for-industrial-alarm-management-with-nvidia-nemotron",
-    "summary": "NVIDIA Technical Blog · Building an Analysis AI Agent for Industrial Alarm Management with NVIDIA Nemotron",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-07-08",
-    "score": 71
-  },
-  {
-    "title": "Give your eve agent GitHub tools",
-    "url": "https://vercel.com/changelog/github-tools-eve",
-    "summary": "GitHub Tools now ships an eve toolset through the new @github-tools/sdk/eve subpath. One file in agent/tools/ can register every GitHub tool, or use a preset such as maintainer , so you can build a complete GitHub agent in nine lines of code. Safe by default: Every write tool, such as mergePullRequest , requires approval unless you opt out. Gate individual tools with always , once , or an input-dependent predicate; pauses survive restarts and deploys. Presets: code-review , i",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-07-08",
-    "score": 71
-  },
-  {
-    "title": "NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads",
-    "url": "https://developer.nvidia.com/blog/nvidia-vera-cpu-boosts-ai-factory-throughput-to-accelerate-agentic-workloads",
-    "summary": "NVIDIA Technical Blog · NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-07-08",
-    "score": 69
-  },
-  {
-    "title": "Conversational Design: Five Patterns to Shape Customer-facing AI Experiences",
-    "url": "https://openai.com/deployco/news/conversational-design-five-patterns-to-shape-customer-facing-ai-experiences",
-    "summary": "What held up in production when the goal wasn’t just functional accuracy but better dialogue",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-07-08",
-    "score": 68
-  },
-  {
-    "title": "Vercel acquires Better Auth to accelerate open source auth",
-    "url": "https://vercel.com/blog/vercel-acquires-better-auth",
-    "summary": "Vercel is acquiring Better Auth , the company behind the open source TypeScript authentication library , which has 4.7M+ weekly npm downloads and more than 850 contributors. Founder Bereket Engida and the core team are joining Vercel to continue their work on Better Auth and agent identity. The open web Last year, we published our approach behind Next.js, AI SDK, and Nuxt: software that's open by default, loosely coupled, and portable to any platform. Better Auth applies it t",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-07-08",
-    "score": 68
-  },
-  {
-    "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
-    "url": "https://openai.com/index/australian-payments-plus",
-    "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-07-08",
-    "score": 67
-  },
-  {
-    "title": "Designing Organisations That Can Keep Up With AI",
-    "url": "https://openai.com/deployco/news/designing-organisations-that-can-keep-up-with-ai",
-    "summary": "Why organisational latency is becoming the biggest barrier to fully realising AI’s benefits",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-07-08",
-    "score": 67
-  },
-  {
-    "title": "Meta-Harness R&D: Enterprise-Grade Self-Improvement for Long-Horizon AI Workflows",
-    "url": "https://openai.com/deployco/news/meta-harness-enterprise-self-improvement-long-horizon-ai-workflows",
-    "summary": "How autonomous code improvement can be made disciplined enough for enterprise use",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-07-08",
-    "score": 67
-  },
-  {
-    "title": "Responses are the Easy Part: What We’ve Learned Building Real-time Voice Experiences at Scale",
-    "url": "https://openai.com/deployco/news/building-realtime-voice-experiences-at-scale",
-    "summary": "Timing, interruption, silence and recovery shape the experience as much as words",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-07-08",
-    "score": 67
-  },
-  {
-    "title": "Deploying Business-Critical AI: How to Build the Confidence and Accountability to Go Live",
-    "url": "https://openai.com/deployco/news/deploying-business-critical-ai-confidence-accountability-go-live",
-    "summary": "Lacking confidence to put AI at the heart of your business?",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-07-08",
-    "score": 67
-  },
-  {
-    "title": "Q1 2026 Innovation Graph update: Open source collaboration is accelerating worldwide",
-    "url": "https://github.blog/news-insights/policy-news-and-insights/q1-2026-innovation-graph-update-open-source-collaboration-is-accelerating-worldwide",
-    "summary": "New Innovation Graph data shows global developer communities growing faster than ever, with collaboration reaching new highs across many economies. The post Q1 2026 Innovation Graph update: Open source collaboration is accelerating worldwide appeared first on The GitHub Blog .",
+    "title": "Automating cross-repo documentation with GitHub Agentic Workflows",
+    "url": "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows",
+    "summary": "Explore how the Aspire team turns merged product changes into SME-reviewed docs pull requests, closing the gap between release and documentation. The post Automating cross-repo documentation with GitHub Agentic Workflows appeared first on The GitHub Blog .",
     "tags": [
       "ai_coding",
       "developer_tools"
     ],
     "author": "GitHub Copilot",
     "source": "github.blog",
-    "date": "2026-07-08",
-    "score": 67
+    "date": "2026-07-09",
+    "score": 74
   },
   {
-    "title": "The foundational elements of AI architecture that IT leaders need to scale",
-    "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale",
-    "summary": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces risk, leaving IT leaders to wonder which investments will prove valuable even six months into the future. Returning to the foundational elements of AI architecture—the&#8230;",
+    "title": "Separating signal from noise in coding evaluations",
+    "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+    "summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
     "tags": [
-      "ai",
+      "ai_models",
+      "official",
       "research",
-      "society"
+      "developer"
     ],
-    "author": "MIT Technology Review AI",
-    "source": "technologyreview.com",
-    "date": "2026-07-08",
-    "score": 67
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-07-09",
+    "score": 72
   },
   {
-    "title": "Introducing Muse Image and Muse Video",
-    "url": "https://ai.meta.com/blog/introducing-muse-image-muse-video-msl",
-    "summary": "AI at Meta Blog · Introducing Muse Image and Muse Video",
-    "tags": [
-      "open_source_model",
-      "research",
-      "llama"
-    ],
-    "author": "Meta AI",
-    "source": "ai.meta.com",
-    "date": "2026-07-08",
-    "score": 66
-  },
-  {
-    "title": "Develop Humanoid Robot Policies End-to-End with NVIDIA Isaac GR00T",
-    "url": "https://developer.nvidia.com/blog/develop-humanoid-robot-policies-end-to-end-with-nvidia-isaac-gr00t",
-    "summary": "NVIDIA Technical Blog · Develop Humanoid Robot Policies End-to-End with NVIDIA Isaac GR00T",
+    "title": "Create a LangChain Deep Agents Harness Profile for NVIDIA Nemotron 3 Ultra to Improve Performance",
+    "url": "https://developer.nvidia.com/blog/create-a-langchain-deep-agents-harness-profile-for-nvidia-nemotron-3-ultra-to-improve-performance",
+    "summary": "NVIDIA Technical Blog · Create a LangChain Deep Agents Harness Profile for NVIDIA Nemotron 3 Ultra to Improve Performance",
     "tags": [
       "gpu",
       "inference",
@@ -211,13 +38,112 @@
     ],
     "author": "NVIDIA AI",
     "source": "developer.nvidia.com",
-    "date": "2026-07-08",
-    "score": 66
+    "date": "2026-07-09",
+    "score": 69
   },
   {
-    "title": "Maximize Spectral Efficiency with AI-Native RAN and NVIDIA AI Aerial",
-    "url": "https://developer.nvidia.com/blog/maximize-spectral-efficiency-with-ai-native-ran-and-nvidia-ai-aerial",
-    "summary": "NVIDIA Technical Blog · Maximize Spectral Efficiency with AI-Native RAN and NVIDIA AI Aerial",
+    "title": "Vercel Agent: An agent you can let near production",
+    "url": "https://vercel.com/blog/vercel-agent",
+    "summary": "Today we're expanding Vercel Agent . It started by triaging alerts and reviewing your pull requests. Now it has a home in your dashboard, where it can investigate production, answer questions about your projects, and take action once you approve it. Because Vercel Agent is built into the platform that deploys and runs your app, when something changes in production, it's your first responder. It autonomously investigates your logs, metrics, and deployments, finds the root caus",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-07-09",
+    "score": 68
+  },
+  {
+    "title": "Grok 4.5 now available on AI Gateway",
+    "url": "https://vercel.com/changelog/grok-4-5-now-available-on-ai-gateway",
+    "summary": "Grok 4.5 from SpaceXAI is now available on AI Gateway . Built for coding, knowledge work, and STEM, the model accepts text and image inputs. Grok 4.5 supports low, medium, and high reasoning levels and defaults to high. Set the level with reasoning to balance speed against depth. To use Grok 4.5, set model to xai/grok-4.5 in the AI SDK : AI Gateway provides a unified API for calling models, tracking usage and cost, and configuring retries, failover, and performance optimizati",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-07-09",
+    "score": 68
+  },
+  {
+    "title": "Our approach to government and national security partnerships",
+    "url": "https://openai.com/index/government-national-security-partnerships",
+    "summary": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-07-09",
+    "score": 67
+  },
+  {
+    "title": "Helping K–12 educators build practical AI skills",
+    "url": "https://openai.com/index/k-12-educators-practical-skills",
+    "summary": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-07-09",
+    "score": 67
+  },
+  {
+    "title": "Introducing GPT-Live",
+    "url": "https://openai.com/index/introducing-gpt-live",
+    "summary": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-07-09",
+    "score": 67
+  },
+  {
+    "title": "GitHub availability report: June 2026",
+    "url": "https://github.blog/news-insights/company-news/github-availability-report-june-2026",
+    "summary": "In June, we experienced six incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: June 2026 appeared first on The GitHub Blog .",
+    "tags": [
+      "ai_coding",
+      "developer_tools"
+    ],
+    "author": "GitHub Copilot",
+    "source": "github.blog",
+    "date": "2026-07-09",
+    "score": 67
+  },
+  {
+    "title": "How GitHub Copilot enables zero DNS configuration for GitHub Pages",
+    "url": "https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages",
+    "summary": "Go from an empty repository to a live custom domain with HTTPS in about 14 minutes, without manually editing a single DNS record. The post How GitHub Copilot enables zero DNS configuration for GitHub Pages appeared first on The GitHub Blog .",
+    "tags": [
+      "ai_coding",
+      "developer_tools"
+    ],
+    "author": "GitHub Copilot",
+    "source": "github.blog",
+    "date": "2026-07-09",
+    "score": 67
+  },
+  {
+    "title": "Running Low-Latency Analytical Workloads with GPU-Accelerated Presto on NVIDIA GB200 NVL72",
+    "url": "https://developer.nvidia.com/blog/running-low-latency-analytical-workloads-with-gpu-accelerated-presto-on-nvidia-gb200-nvl72",
+    "summary": "NVIDIA Technical Blog · Running Low-Latency Analytical Workloads with GPU-Accelerated Presto on NVIDIA GB200 NVL72",
     "tags": [
       "gpu",
       "inference",
@@ -225,41 +151,97 @@
     ],
     "author": "NVIDIA AI",
     "source": "developer.nvidia.com",
-    "date": "2026-07-08",
+    "date": "2026-07-09",
     "score": 66
   },
   {
-    "title": "How Schneider Electric Built Their LLMOps Foundations With LangSmith",
-    "url": "https://www.langchain.com/blog/how-schneider-electric-built-their-llmops-foundations-at-enterprise-scale-with-langsmith",
-    "summary": "Learn how Schneider Electric built enterprise LLMOps foundations with LangSmith to improve observability, evaluation, and deployment for AI products at scale.",
+    "title": "Update Project Settings from the Vercel CLI",
+    "url": "https://vercel.com/changelog/update-project-settings-from-the-vercel-cli",
+    "summary": "You can now update a project's framework preset and build settings directly from the CLI, without opening the dashboard. Run vercel project update from a linked project, or pass a project name directly: Settings can also be returned to automatic detection instead of an explicit override: For automation or further inspection, return the result as JSON: JSON output includes whether anything changed, the list of changed settings, the project ID and name, and the requested settin",
     "tags": [
-      "agents",
-      "rag",
-      "framework"
+      "sdk",
+      "ai_infra",
+      "frontend"
     ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-07-08",
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-07-09",
     "score": 66
   },
   {
-    "title": "Improving Agents is a Data Mining Problem",
-    "url": "https://www.langchain.com/blog/improving-agents-is-a-data-mining-problem",
-    "summary": "How LangChain mines agent traces to find failures, fine-tune judge models cheaper than frontier LLMs, and hill-climb performance with evals.",
+    "title": "Use any Chat SDK adapter with eve",
+    "url": "https://vercel.com/changelog/eve-chat-sdk-channel",
+    "summary": "eve now supports Chat SDK adapters with the new Chat SDK channel . One channel connects your eve agent to Facebook Messenger, WhatsApp, Resend, Liveblocks, and any other surface with an adapter . You write normal Chat SDK handler code, and calling send inside a handler hands the message to your agent. Register handlers on bot exactly as you would in a standalone Chat SDK app. Out of the box, the channel: Mounts a webhook route for each adapter (e.g., /eve/v1/chat/slack ) Show",
     "tags": [
-      "agents",
-      "rag",
-      "framework"
+      "sdk",
+      "ai_infra",
+      "frontend"
     ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-07-08",
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-07-09",
+    "score": 66
+  },
+  {
+    "title": "Chat SDK now supports Vercel Connect",
+    "url": "https://vercel.com/changelog/chat-sdk-vercel-connect",
+    "summary": "You can now use Vercel Connect to manage credentials for your Chat SDK bots, with no tokens or signing secrets to store or rotate yourself. The new @vercel/connect/chat subpath provides adapter helpers for Slack, GitHub, and Linear. Each helper takes a connector UID and returns a config you spread into the matching adapter factory. Outbound bot calls use a function-form token field backed by getToken , so each API request gets a fresh, short-lived token that Vercel Connect ro",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-07-09",
+    "score": 66
+  },
+  {
+    "title": "Vercel Microfrontends checks for missing configuration",
+    "url": "https://vercel.com/changelog/vercel-microfrontends-checks-for-missing-configuration",
+    "summary": "The Microfrontends Config Present deployment check prevents broken production routing by blocking any default app deployment that is missing its microfrontends.json . This appears alongside other Native Deployment Checks , such as lint and typecheck. The check is blocking by default for eligible apps, with no opt-in required. Eligible apps are projects enrolled in Vercel Microfrontends and designated as the default app in a Microfrontends group. If microfrontends.json is miss",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-07-09",
     "score": 65
   },
   {
-    "title": "Adding a GPU Without Building One FINAL-Bench • 5 days ago • 16",
-    "url": "https://huggingface.co/blog/FINAL-Bench/vkae-leaderboard",
-    "summary": "Hugging Face – Blog · Adding a GPU Without Building One FINAL-Bench • 5 days ago • 16",
+    "title": "Chat SDK adds Dial support",
+    "url": "https://vercel.com/changelog/chat-sdk-adds-dial-support",
+    "summary": "Chat SDK now supports Dial with the new vendor-official adapter . Build bots that send and receive SMS, MMS, and iMessage on a real phone number, with bidirectional media and inbound voice-call transcripts. Replies use the standard Chat SDK thread and message APIs, with HMAC-verified webhooks and stable per-conversation threading. Each phone conversation becomes a Chat SDK thread . Texts and media arrive as messages on that thread, and when a voice call ends, its transcript a",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-07-09",
+    "score": 65
+  },
+  {
+    "title": "Chat SDK adds Photon support",
+    "url": "https://vercel.com/changelog/chat-sdk-adds-photon-support",
+    "summary": "Chat SDK now supports Photon with the new vendor-official adapter . Build bots that send and receive iMessages directly and in group chats, share media, and react with native tapbacks. Run the adapter against Spectrum Cloud, your own server, or directly on a Mac. Each Photon conversation becomes a Chat SDK thread, and tapbacks come through as reactions. Handlers, posts, and subscriptions work the same as with any other adapter. Webhooks are HMAC-verified, and your bot can rep",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-07-09",
+    "score": 65
+  },
+  {
+    "title": "Data for Agents",
+    "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+    "summary": "Data for Agents 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -267,13 +249,41 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-08",
+    "date": "2026-07-09",
+    "score": 65
+  },
+  {
+    "title": "LangChain and NVIDIA Launch NemoClaw Deep Agents Blueprint",
+    "url": "https://www.langchain.com/blog/langchain-and-nvidia-launch-the-nemoclaw-deep-agents-blueprint",
+    "summary": "LangChain and NVIDIA launch the NemoClaw Deep Agents blueprint, combining Deep Agents Code, Nemotron 3 Ultra, and OpenShell for open, governed enterprise agents.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-07-09",
+    "score": 65
+  },
+  {
+    "title": "Yay! Organizations can now publish blog Articles",
+    "url": "https://huggingface.co/blog/huggingface/blog-articles-for-orgs",
+    "summary": "Yay! Organizations can now publish blog Articles 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-09",
     "score": 64
   },
   {
-    "title": "Migrating Your GitHub CI to Hugging Face Jobs",
-    "url": "https://huggingface.co/blog/github-ci-hf-jobs",
-    "summary": "Migrating Your GitHub CI to Hugging Face Jobs 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Benchmarking Language Model Performance on 5th Gen Xeon at GCP",
+    "url": "https://huggingface.co/blog/intel-gcp-c4",
+    "summary": "Benchmarking Language Model Performance on 5th Gen Xeon at GCP 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -281,13 +291,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-08",
+    "date": "2026-07-09",
     "score": 64
   },
   {
-    "title": "The Open Evaluation Standard: Benchmarking NVIDIA Nemotron 3 Nano with NeMo Evaluator",
-    "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-evaluation-recipe",
-    "summary": "The Open Evaluation Standard: Benchmarking NVIDIA Nemotron 3 Nano with NeMo Evaluator 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Rethinking LLM Evaluation with 3C3H: AraGen Benchmark and Leaderboard",
+    "url": "https://huggingface.co/blog/leaderboard-3c3h-aragen",
+    "summary": "Rethinking LLM Evaluation with 3C3H: AraGen Benchmark and Leaderboard 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -295,35 +305,7 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-08",
-    "score": 64
-  },
-  {
-    "title": "SyGra: The One-Stop Framework for Building Data for LLMs and SLMs",
-    "url": "https://huggingface.co/blog/ServiceNow-AI/sygra-data-gen-framework",
-    "summary": "SyGra: The One-Stop Framework for Building Data for LLMs and SLMs 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-08",
-    "score": 64
-  },
-  {
-    "title": "📚 3LM: A Benchmark for Arabic LLMs in STEM and Code",
-    "url": "https://huggingface.co/blog/tiiuae/3lm-benchmark",
-    "summary": "📚 3LM: A Benchmark for Arabic LLMs in STEM and Code 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-08",
+    "date": "2026-07-09",
     "score": 64
   }
 ]
