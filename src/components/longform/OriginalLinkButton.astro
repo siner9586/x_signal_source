@@ -1,0 +1,5 @@
+---
+const { href = '', label = 'Watch original', seconds = null } = Astro.props;
+const url = href && seconds !== null && href.includes('youtube') ? `${href}${href.includes('?') ? '&' : '?'}t=${Math.floor(seconds)}s` : href;
+---
+{href ? <a class="lf-btn primary" href={url} target="_blank" rel="noreferrer">{label}</a> : <span class="lf-btn">Original link pending</span>}
