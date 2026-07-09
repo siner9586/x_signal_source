@@ -1,0 +1,52 @@
+---
+import fs from 'node:fs';
+import path from 'node:path';
+import yaml from 'js-yaml';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import LongformHero from '../../components/longform/LongformHero.astro';
+import EpisodeCard from '../../components/longform/EpisodeCard.astro';
+import SourceGrid from '../../components/longform/SourceGrid.astro';
+import LearningQueue from '../../components/longform/LearningQueue.astro';
+import SearchBox from '../../components/longform/SearchBox.astro';
+import EmptyState from '../../components/longform/EmptyState.astro';
+const readJson = (p, f) => fs.existsSync(p) ? JSON.parse(fs.readFileSync(p, 'utf8')) : f;
+const readYaml = (p) => fs.existsSync(p) ? (yaml.load(fs.readFileSync(p, 'utf8')) || []) : [];
+const slugify = (s) => String(s || 'episode').toLowerCase().replace(/[^a-z0-9\u4e00-\u9fa5]+/g, '-').replace(/^-+|-+$/g, '').slice(0,96);
+const queue = readJson('data/longform/queues/current.json', { episodes: [], counts: {} });
+const episodes = (queue.episodes || []).map(e => ({ ...e, slug: e.slug || slugify(`${e.source_name}-${e.title}`) }));
+const sources = [...readYaml('data/sources/podcasts.yaml'), ...readYaml('data/sources/video_creators.yaml')].map(s => ({ ...s, source_id: s.source_id || s.id }));
+const published = episodes.filter(e => e.transcript_status === 'ready' || e.page_status === 'published');
+const hours = Math.round(episodes.reduce((sum, e) => sum + Number(e.duration_seconds || 0), 0) / 3600 * 10) / 10;
+const stats = { sources: sources.length, episodes: episodes.length, hours, segments: episodes.reduce((sum,e)=>sum+Number(e.segment_count||0),0), pending: episodes.filter(e => e.status !== 'transcript_published').length, published: published.length };
+const categories = ['All','AI / LLM','Coding Agents','Product','Startup','Engineering','VC / Investing','Cognitive Science','Chinese Tech','YouTube Creators','Podcasts'];
+---
+<BaseLayout title="Podcast Signals | 长访谈逐字稿学习库" description="Long-form AI interviews, transcribed for deep learning.">
+  <div class="longform-surface">
+    <LongformHero stats={stats} />
+    <section class="lf-section longform-shell">
+      <div class="lf-section-head"><div><h2>Longform cockpit</h2><p>发现、排队、转录、清洗、生成笔记与完整阅读页。</p></div></div>
+      <SearchBox id="episodeSearch" placeholder="搜索标题、来源、嘉宾、标签、逐字稿状态..." />
+      <div class="lf-actions" style="margin:16px 0">
+        {categories.map((cat) => <button class="lf-btn" type="button" data-filter={cat}>{cat}</button>)}
+      </div>
+      <LearningQueue counts={queue.counts || {}} />
+    </section>
+    <section class="lf-section longform-shell">
+      <div class="lf-section-head"><div><h2>Episodes</h2><p>首个样例已进入队列；有真实 transcript 后自动生成完整阅读页。</p></div></div>
+      {episodes.length ? <div class="lf-grid">{episodes.map((episode) => <EpisodeCard episode={episode} />)}</div> : <EmptyState title="No episodes captured yet" description="Run npm run longform:discover and npm run longform:queue, or add a manual YouTube link." />}
+    </section>
+    <section class="lf-section longform-shell">
+      <div class="lf-section-head"><div><h2>Source grid</h2><p>播客、视频博主、技术频道、中文科技与认知科学来源库。</p></div><a class="lf-btn" href="/creators/">Creators</a></div>
+      <SourceGrid sources={sources} />
+    </section>
+  </div>
+  <script is:inline>
+    const input = document.getElementById('episodeSearch');
+    const cards = [...document.querySelectorAll('[data-longform-card]')];
+    input?.addEventListener('input', () => {
+      const q = input.value.trim().toLowerCase();
+      cards.forEach((card) => card.classList.toggle('lf-hidden', q && !card.dataset.longformCard.toLowerCase().includes(q)));
+    });
+    document.querySelectorAll('[data-copy]').forEach((btn) => btn.addEventListener('click', async () => { await navigator.clipboard?.writeText(btn.dataset.copy || ''); btn.textContent = 'Copied'; setTimeout(() => btn.textContent = 'Copy source', 1000); }));
+  </script>
+</BaseLayout>
