@@ -1,0 +1,22 @@
+---
+import StatusBadge from './StatusBadge.astro';
+const { episode } = Astro.props;
+const tags = episode.tags || [];
+---
+<article class="lf-card" data-longform-card={`${episode.title || ''} ${episode.source_name || ''} ${(episode.guest_names || []).join(' ')} ${tags.join(' ')}`} data-tags={tags.join(',')} data-source={episode.source_name || ''}>
+  <span class="lf-pill">{episode.source_name || 'Unknown source'} · {episode.duration || 'duration pending'}</span>
+  <h3>{episode.title}</h3>
+  <p>{episode.summary || episode.description || 'Queued for local transcription.'}</p>
+  <div class="lf-meta">
+    <StatusBadge status={episode.status || 'queued'} />
+    {(episode.guest_names || []).map((g) => <span class="lf-tag">{g}</span>)}
+    {tags.slice(0, 6).map((tag) => <span class="lf-tag">{tag}</span>)}
+  </div>
+  <div class="lf-actions">
+    <a class="lf-btn" href={episode.notes_url || `/podcasts/${episode.slug}/`}>Read notes</a>
+    <a class="lf-btn" href={episode.transcript_url || `/transcripts/${episode.slug}/`}>Read transcript</a>
+    {episode.video_url && <a class="lf-btn primary" href={episode.video_url} target="_blank" rel="noreferrer">Watch original</a>}
+    <button class="lf-btn" type="button" data-copy={episode.video_url || episode.episode_url || ''}>Copy source</button>
+  </div>
+  {episode.transcribe_command && <pre class="lf-command"><code>{episode.transcribe_command}</code></pre>}
+</article>
