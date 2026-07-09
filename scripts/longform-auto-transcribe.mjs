@@ -214,17 +214,23 @@ async function processEpisode(ep) {
   const rawPath = path.join(RAW_DIR, `${ep.id}.json`);
   if (await exists(rawPath)) return { episode_id:ep.id, status:'skipped', reason:'raw transcript exists' };
 
+  let subtitleError = '';
   const sub = await downloadSubtitle(ep);
   if (sub.ok) {
-    const converted = await subtitleToRawTranscript(ep, sub.subtitle);
-    return { episode_id:ep.id, status:'transcribed', method:'subtitle', subtitle:path.relative(ROOT, sub.subtitle), ...converted };
+    try {
+      const converted = await subtitleToRawTranscript(ep, sub.subtitle);
+      return { episode_id:ep.id, status:'transcribed', method:'subtitle', subtitle:path.relative(ROOT, sub.subtitle), ...converted };
+    } catch (err) {
+      subtitleError = String(err?.message || err);
+      console.warn(`Subtitle parse failed for ${ep.id}; falling back to Whisper: ${subtitleError}`);
+    }
   }
 
   const audio = await downloadAudio(ep);
-  if (!audio.ok) return { episode_id:ep.id, status:'failed', method:'audio-download', error:audio.error };
+  if (!audio.ok) return { episode_id:ep.id, status:'failed', method:'audio-download', subtitle_error:subtitleError, error:audio.error };
 
   const converted = await whisper(ep, audio.audio);
-  return { episode_id:ep.id, status:'transcribed', method:'whisper', audio:path.relative(ROOT, audio.audio), ...converted };
+  return { episode_id:ep.id, status:'transcribed', method:'whisper', subtitle_error:subtitleError, audio:path.relative(ROOT, audio.audio), ...converted };
 }
 
 async function main() {
