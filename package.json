@@ -26,7 +26,7 @@
     "longform:search": "node scripts/longform-build-search-index.mjs",
     "longform:creators": "node scripts/longform-build-creators.mjs",
     "longform:qa": "node scripts/longform-qa.mjs",
-    "longform:build": "npm run longform:clean && npm run longform:chapters && npm run longform:notes && npm run longform:transcript-page && npm run longform:search && npm run longform:creators",
+    "longform:build": "npm run longform:clean && npm run longform:chapters && npm run longform:queue && npm run longform:notes && npm run longform:transcript-page && npm run longform:search && npm run longform:creators",
     "longform": "npm run longform:discover && npm run longform:queue && npm run longform:auto-transcribe && npm run longform:build",
     "transcribe:local": "python scripts/transcribe.py"
   },
