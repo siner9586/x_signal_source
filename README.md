@@ -15,7 +15,7 @@
 
 1. 降低长期维护成本，保证普通个人仓库可持续运行。
 2. 避免依赖单一商业接口，优先使用公开 RSS、Atom、sitemap、blog index、GitHub、YouTube RSS、podcast feed、公开网页元数据与人工维护 seed list。
-3. 长内容转录默认使用本地免费开源 ASR：`faster-whisper` 优先，`openai-whisper` 备用。
+3. 长内容转录优先使用公开视频字幕/自动字幕；字幕不可用时使用免费开源 ASR：`faster-whisper` 优先，`openai-whisper` 可作为本地备用。
 4. 遵守平台边界，不绕过登录、验证码、人机验证、付费墙、反爬机制或 rate limit。
 
 ## 合规边界
@@ -55,6 +55,14 @@ npm run qa
 npm run build
 ```
 
+长内容来源均应设置：
+
+```yaml
+daily_signal_enabled: false
+```
+
+`daily` pipeline 会跳过这类来源，避免 Podcast / YouTube / 长访谈来源污染原每日信号抓取。
+
 ## Podcast Signals / 长访谈逐字稿学习库
 
 页面入口：
@@ -76,7 +84,7 @@ Slogan：`Long-form AI interviews, transcribed for deep learning.`
 
 1. 扩充更广泛的视频博主、播客、访谈、技术频道来源。
 2. 支持从 RSS、YouTube feed、Podcast feed、手动链接、公开网页中发现长内容。
-3. 支持本地免费开源转录，生成完整逐字稿。
+3. 支持 GitHub Actions 云端自动转录：字幕优先，Whisper 兜底。
 4. 每篇逐字稿自动附原视频/原音频链接，方便边读边看。
 5. 生成高级、克制、适合深度阅读的全文阅读界面。
 6. 支持长文检索、时间戳跳转、章节导航、标签归档、学习笔记、关键观点、引用卡片。
@@ -114,8 +122,8 @@ content/longform/
 public/longform-search-index.json
 public/longform-data/
 
-local_audio/        # 本地音频，不提交 Git
-model_cache/        # 本地模型缓存，不提交 Git
+local_audio/        # 临时音频/字幕下载目录，不提交 Git
+model_cache/        # 模型缓存，不提交 Git
 ```
 
 ## 如何新增视频博主
@@ -193,6 +201,7 @@ data/sources/manual_longform_links.yaml
 
 ```yaml
 - id: lenny-openai-codex-andrew-ambrosino
+  source_id: lennys-podcast
   title: Why OpenAI is merging Codex and ChatGPT and the future of knowledge work | Andrew Ambrosino
   source_name: Lenny's Podcast
   creator_name: Lenny Rachitsky
@@ -209,81 +218,94 @@ data/sources/manual_longform_links.yaml
   notes: 用户指定的首个测试视频，用于完整逐字稿阅读系统验证。
 ```
 
-## 完整使用流程
+## 自动转录与更新
 
-### 第一步：发现内容
+当前推荐方案：**GitHub Actions 自动转录**。
+
+文件：
+
+```text
+.github/workflows/longform.yml
+scripts/longform-auto-transcribe.mjs
+scripts/transcribe.py
+```
+
+定时：北京时间 / 台北时间每天 07:42 自动触发。
+
+自动流程：
+
+```text
+checkout
+→ setup node
+→ setup python
+→ install ffmpeg
+→ install yt-dlp + faster-whisper
+→ npm run longform:discover
+→ npm run longform:queue
+→ npm run longform:auto-transcribe
+→ npm run longform:queue
+→ npm run longform:build
+→ npm run longform:qa
+→ npm run build
+→ commit & push
+```
+
+自动转录策略：
+
+```text
+1. 优先用 yt-dlp 抓取公开视频字幕 / 自动字幕。
+2. 若字幕存在：直接将 VTT 转为 data/transcripts/raw/{episode_id}.json。
+3. 若字幕不存在：下载音频到 local_audio/，再用 faster-whisper 免费开源转录。
+4. 清洗、分章、学习笔记、完整逐字稿页面和搜索索引随后自动生成。
+5. 音频、字幕临时文件、模型缓存不会提交到 Git。
+```
+
+默认每次只处理 1 条 queued episode，避免 GitHub-hosted runner 超时或资源消耗过大：
+
+```text
+LONGFORM_AUTO_TRANSCRIBE_ITEMS=1
+LONGFORM_WHISPER_MODEL=base
+LONGFORM_WHISPER_DEVICE=cpu
+LONGFORM_WHISPER_COMPUTE_TYPE=int8
+```
+
+也可以在 GitHub Actions 页面手动运行 `Longform Podcast Signals`，设置：
+
+```text
+run_transcription=true
+max_items=1
+whisper_model=base / small / medium
+```
+
+## 手动命令备用
+
+即使不用本地，也保留命令方便调试。
+
+发现内容：
 
 ```bash
 npm run longform:discover
 ```
 
-输出：
-
-```text
-data/longform/episodes/YYYY-MM-DD.json
-data/longform/runs/YYYY-MM-DD-discover.json
-data/longform/source_index.json
-```
-
-### 第二步：查看队列
+查看队列：
 
 ```bash
 npm run longform:queue
 ```
 
-输出：
-
-```text
-data/longform/queues/current.json
-```
-
-### 第三步：下载或登记音频
-
-本地下载公开视频音频：
+云端/本地自动转录当前队列：
 
 ```bash
-node scripts/longform-download-local.mjs \
-  --episode-id "lenny-openai-codex-andrew-ambrosino" \
-  --audio-only \
-  --write-subs \
-  --write-auto-subs
+npm run longform:auto-transcribe
 ```
 
-或者登记已下载音频：
-
-```bash
-node scripts/longform-register-audio.mjs \
-  --episode-id "lenny-openai-codex-andrew-ambrosino" \
-  --audio "local_audio/lenny_codex.mp3"
-```
-
-`local_audio/` 已加入 `.gitignore`，不要把音频提交到仓库。
-
-### 第四步：本地转录
-
-```bash
-python scripts/transcribe.py \
-  --episode-id "lenny-openai-codex-andrew-ambrosino" \
-  --audio "local_audio/lenny_codex.mp3" \
-  --model "medium" \
-  --language "en" \
-  --output-dir "data/transcripts/raw" \
-  --formats "json,txt,srt,vtt,md"
-```
-
-### 第五步：清洗、章节、页面生成
+清洗、章节、页面生成：
 
 ```bash
 npm run longform:build
 ```
 
-该命令依次运行：
-
-```text
-longform:clean → longform:chapters → longform:notes → longform:transcript-page → longform:search → longform:creators
-```
-
-### 第六步：本地预览
+本地预览：
 
 ```bash
 npm run dev
@@ -296,7 +318,7 @@ http://localhost:4321/podcasts/
 http://localhost:4321/transcripts/
 ```
 
-### 第七步：构建
+构建：
 
 ```bash
 npm run build
@@ -308,6 +330,7 @@ npm run build
 npm run longform:discover
 npm run longform:normalize
 npm run longform:queue
+npm run longform:auto-transcribe
 npm run longform:download
 npm run longform:register-audio
 npm run longform:clean
@@ -344,23 +367,25 @@ https://www.youtube.com/watch?v={video_id}&t={seconds}s
 
 ## GitHub Actions
 
-新增：
+Daily 主流程：
+
+```text
+.github/workflows/daily.yml
+```
+
+Longform 自动转录与页面生成：
 
 ```text
 .github/workflows/longform.yml
 ```
 
-默认只运行：
+`longform.yml` 默认每天自动跑：
 
 ```text
-longform:discover → longform:queue → longform:build → longform:qa → build
+longform:discover → longform:queue → longform:auto-transcribe → longform:build → longform:qa → build
 ```
 
-Whisper 转录大模型不适合默认在 GitHub-hosted runner 跑，因此 workflow 默认不跑长音频转录。若以后使用 self-hosted runner，可在 `workflow_dispatch` 中开启：
-
-```text
-run_transcription=true
-```
+如果字幕可用，通常不需要 Whisper；如果字幕不可用，才会走 `faster-whisper` CPU 兜底。
 
 ## QA 检查
 
@@ -372,6 +397,8 @@ run_transcription=true
 - manual links 可解析。
 - 每个 source 有 id、name、source_type、language、tags、enabled。
 - 每个 episode 有 id、title、source_name、episode_url 或 video_url。
+- 自动转录脚本存在。
+- `longform.yml` 已接入 `yt-dlp`、`faster-whisper`、`npm run longform:auto-transcribe`。
 - 每个 transcript 有 title、source_name、segments、full_text。
 - 每个 timestamp 可生成跳转链接。
 - `local_audio/` 在 `.gitignore`。
@@ -394,27 +421,55 @@ ID：
 lenny-openai-codex-andrew-ambrosino
 ```
 
-状态：默认 `queued`。在未提供真实音频和真实 transcript JSON 前，站点只显示待转录卡片、原视频按钮、下载命令、转录命令，不会编造逐字稿；一旦 `data/transcripts/raw/` 和 `data/transcripts/cleaned/` 中出现真实转录 JSON，`npm run longform:build` 会生成完整逐字稿阅读页。
+明天的 `Longform Podcast Signals` workflow 会自动尝试处理该队列条目：先抓字幕；若无字幕，再下载音频并用 `faster-whisper` 转录。成功后会自动生成 raw transcript、cleaned transcript、学习笔记、完整阅读页与全文搜索索引。
+
+## 可选替代方案比较
+
+### GitHub Actions
+
+优点：无需本地机器、无需额外服务器、已和仓库提交部署天然集成、免费额度足够小批量字幕/轻量转录。
+
+缺点：CPU 转录长视频可能慢；公开平台下载偶尔受网络、地区或平台限制影响。
+
+### Self-hosted runner
+
+优点：最稳定、可用你自己的 Mac mini / 云主机 / GPU 机器跑 Whisper，速度更快，可持久缓存模型。
+
+缺点：需要维护机器，仍然属于“有一台长期在线的执行环境”。
+
+### 低价云服务器 / GPU worker
+
+优点：可控、速度更快、适合批量转录。
+
+缺点：不是零成本，需要部署、密钥、存储和运维。
+
+### Hugging Face Spaces / Modal / RunPod / Fly / Render
+
+优点：适合把转录服务拆出去。
+
+缺点：免费额度、休眠、资源限制或计费策略不稳定；还要处理仓库回写、队列、失败重试与密钥。
+
+综合当前目标：**不想本地执行、尽量零成本、直接自动更新站点**，优先使用 GitHub Actions 是最合适的方案。
 
 ## 常见问题
 
 ### Whisper 太慢怎么办？
 
-先用 `small` 或 `base` 跑通流程，再对重点视频使用 `medium` 或 `large-v3`。CPU 环境优先 `small`，GPU 环境可尝试 `medium` 或 `large-v3`。
-
-### medium 和 large-v3 如何选择？
-
-`medium` 更适合日常批量转录，速度和质量比较均衡；`large-v3` 更适合高价值内容、中文口音复杂内容或需要更高准确率的访谈。
-
-### 中文视频如何转录？
-
-```bash
-python scripts/transcribe.py --episode-id xxx --audio local_audio/xxx.mp3 --model medium --language zh --output-dir data/transcripts/raw --formats json,txt,srt,vtt,md
-```
+默认云端使用 `base` + `cpu` + `int8` 兜底。若字幕可用，不走 Whisper。若你后续使用 self-hosted runner 或 GPU，可把 `whisper_model` 改成 `small`、`medium` 或 `large-v3`。
 
 ### 没有字幕怎么办？
 
-先用 `longform-download-local.mjs` 下载音频，再用本地 Whisper 转录。脚本不依赖官方字幕，也不会因为没有字幕而失败。
+`longform-auto-transcribe.mjs` 会下载音频并调用 `faster-whisper` 兜底，不需要你本地下载。
+
+### 中文视频如何转录？
+
+默认字幕语言包含：
+
+```text
+en.*,en,zh.*,zh-Hans,zh-Hant,zh
+```
+
+Whisper 兜底默认 `language=auto`，会自动识别。
 
 ### 如何修正错误转录？
 
@@ -424,48 +479,9 @@ python scripts/transcribe.py --episode-id xxx --audio local_audio/xxx.mp3 --mode
 npm run longform:build
 ```
 
-### 如何重新生成页面？
-
-```bash
-npm run longform:build
-```
-
-### 如何只处理某一个 episode？
-
-下载和转录支持 `--episode-id`。页面构建默认批量处理所有 cleaned transcript；只要只放入一个 cleaned JSON，就只生成一个。
-
-### 如何批量处理？
-
-```bash
-npm run longform:discover
-npm run longform:queue
-```
-
-再按 `data/longform/queues/current.json` 中的命令逐条下载、转录，最后运行：
-
-```bash
-npm run longform:build
-```
-
 ### 为什么不把音频提交仓库？
 
-音频和视频文件体积大，会快速膨胀 Git 仓库，并且不利于静态站部署。项目只提交结构化 metadata、transcript、notes、search index 和页面内容；音频、模型缓存、下载缓存留在本地。
-
-### 如何添加手动章节？
-
-编辑或新增：
-
-```text
-data/longform/chapters/{episode_id}.json
-```
-
-然后重新生成页面：
-
-```bash
-npm run longform:transcript-page
-npm run longform:notes
-npm run longform:search
-```
+音频和视频文件体积大，会快速膨胀 Git 仓库，并且不利于静态站部署。项目只提交结构化 metadata、transcript、notes、search index 和页面内容；音频、模型缓存、下载缓存只作为 workflow 临时文件存在。
 
 ### 如果来源没有 feed 怎么办？
 
