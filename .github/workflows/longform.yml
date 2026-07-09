@@ -1,0 +1,79 @@
+name: Longform Podcast Signals
+
+on:
+  workflow_dispatch:
+    inputs:
+      run_transcription:
+        description: "Run local transcription on self-hosted runner"
+        required: false
+        default: "false"
+  schedule:
+    # Lightweight discovery/build only. Taipei/Beijing 07:42.
+    - cron: "42 23 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: longform-podcast-signals
+  cancel-in-progress: false
+
+jobs:
+  longform:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+
+      - name: Install dependencies
+        run: |
+          if [ -f package-lock.json ]; then
+            npm ci
+          else
+            npm install
+          fi
+
+      - name: Discover longform episodes
+        env:
+          TZ: Asia/Taipei
+          LONGFORM_MAX_FETCH_SOURCES: 36
+          LONGFORM_FETCH_TIMEOUT_MS: 7000
+        run: npm run longform:discover
+
+      - name: Build longform queue
+        run: npm run longform:queue
+
+      - name: Optional transcription hook
+        if: github.event_name == 'workflow_dispatch' && inputs.run_transcription == 'true'
+        run: |
+          echo "Whisper transcription is intentionally not run on GitHub-hosted runners by default."
+          echo "Use a self-hosted runner with local_audio/ and model cache, then call scripts/transcribe.py manually."
+
+      - name: Build longform pages and indexes
+        run: npm run longform:build
+
+      - name: Longform QA
+        run: npm run longform:qa
+
+      - name: Build site
+        run: npm run build
+
+      - name: Commit and push if changed
+        run: |
+          git pull --rebase || true
+          if git diff --quiet; then
+            echo "No longform changes to commit."
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add data content public package-lock.json || true
+            git commit -m "chore: update longform podcast signals"
+            git push
+          fi
