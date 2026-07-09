@@ -1,0 +1,40 @@
+---
+import fs from 'node:fs';
+import path from 'node:path';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import TranscriptReader from '../../components/longform/TranscriptReader.astro';
+import TimestampNav from '../../components/longform/TimestampNav.astro';
+import SourcePanel from '../../components/longform/SourcePanel.astro';
+import ReadingModeToggle from '../../components/longform/ReadingModeToggle.astro';
+import EmptyState from '../../components/longform/EmptyState.astro';
+import '../../styles/longform.css';
+const readJson = (p, fallback) => fs.existsSync(p) ? JSON.parse(fs.readFileSync(p, 'utf8')) : fallback;
+const slugify = (s) => String(s || 'episode').toLowerCase().replace(/[^a-z0-9一-龥]+/g, '-').replace(/^-+|-+$/g, '').slice(0,96);
+export function getStaticPaths() {
+  const queue = readJson('data/longform/queues/current.json', { episodes: [] });
+  return (queue.episodes || []).map((episode) => ({ params: { slug: episode.slug || episode.id }, props: { episode } }));
+}
+const { episode } = Astro.props;
+const transcriptPath = path.join('data/transcripts/cleaned', `${episode.id}.json`);
+const transcript = readJson(transcriptPath, null);
+const chapters = transcript?.chapters || [];
+---
+<BaseLayout title={`${episode.title} | Transcript`} description="Podcast Signals complete transcript reader.">
+  <div class="longform-surface" id="readerSurface">
+    <div class="lf-progress" id="readerProgress"></div>
+    <section class="lf-hero longform-shell"><div class="lf-hero-panel"><span class="lf-kicker">{episode.source_name} · {episode.duration || 'duration pending'}</span><h1>{episode.title}</h1><p class="lf-lead">来源：{episode.source_name} · 嘉宾：{(episode.guest_names || []).join(', ') || 'pending'} · 状态：{episode.status || 'queued'}</p><div class="lf-actions"><a class="lf-btn primary" href={episode.video_url || episode.episode_url} target="_blank" rel="noreferrer">Watch original / 打开原视频</a><ReadingModeToggle /></div></div></section>
+    <section class="lf-section longform-shell lf-dashboard">
+      <aside class="lf-sidebar"><TimestampNav chapters={chapters} segments={transcript?.segments || []} /><a class="lf-btn" href="/podcasts/">← Back to podcasts</a></aside>
+      <main>{transcript ? <TranscriptReader transcript={transcript} episode={episode} /> : <EmptyState title="Transcript pending" body={`该条目已进入队列，但仓库中还没有真实 transcript JSON。请先下载或登记音频，再运行 transcribe.py。\n\n${episode.transcribe_command || ''}`} />}</main>
+      <aside class="lf-aside"><SourcePanel episode={episode} points={transcript?.key_points || []} /></aside>
+    </section>
+    {episode.video_url && <a class="lf-btn primary lf-floating-original" href={episode.video_url} target="_blank" rel="noreferrer">Watch original</a>}
+  </div>
+  <script is:inline>
+    const root = document.getElementById('readerSurface');
+    const progress = document.getElementById('readerProgress');
+    document.querySelectorAll('[data-mode]').forEach((btn) => btn.addEventListener('click', () => { root.classList.remove('lf-mode-dense','lf-mode-focus'); if (btn.dataset.mode === 'dense') root.classList.add('lf-mode-dense'); if (btn.dataset.mode === 'focus') root.classList.add('lf-mode-focus'); }));
+    document.addEventListener('scroll', () => { const h = document.documentElement.scrollHeight - innerHeight; progress.style.width = `${Math.max(0, Math.min(100, scrollY / h * 100))}%`; });
+    document.addEventListener('click', async (event) => { const text = event.target?.dataset?.copy; if (text !== undefined) await navigator.clipboard?.writeText(text); });
+  </script>
+</BaseLayout>
