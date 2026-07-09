@@ -9,12 +9,14 @@ const requiredFiles = [
   'data/sources/manual_longform_links.yaml',
   'scripts/longform-discover.mjs',
   'scripts/longform-build-queue.mjs',
+  'scripts/longform-auto-transcribe.mjs',
   'scripts/transcribe.py',
   'scripts/transcript-clean.mjs',
   'scripts/transcript-chapters.mjs',
   'scripts/longform-build-notes.mjs',
   'scripts/longform-build-transcript-page.mjs',
   'scripts/longform-build-search-index.mjs',
+  '.github/workflows/longform.yml',
   'src/pages/podcasts/index.astro',
   'src/pages/transcripts/index.astro',
   'src/pages/transcripts/[slug].astro',
@@ -22,6 +24,15 @@ const requiredFiles = [
   'src/styles/longform.css'
 ];
 for (const file of requiredFiles) if (!fileExistsSync(path.join(ROOT, file))) errors.push(`missing ${file}`);
+
+const pkg = await readJson(path.join(ROOT, 'package.json'), {});
+if (!pkg.scripts?.['longform:auto-transcribe']) errors.push('package.json missing longform:auto-transcribe script');
+if (!String(pkg.scripts?.longform || '').includes('longform:auto-transcribe')) errors.push('longform aggregate script must include auto-transcribe');
+const wf = await readText(path.join(ROOT, '.github/workflows/longform.yml'));
+for (const needle of ['yt-dlp', 'faster-whisper', 'npm run longform:auto-transcribe', 'timeout-minutes: 330', 'LONGFORM_AUTO_TRANSCRIBE_ITEMS']) {
+  if (!wf.includes(needle)) errors.push(`longform workflow missing ${needle}`);
+}
+
 const sources = await readAllSources();
 for (const s of sources) {
   for (const field of ['source_id', 'name', 'source_type', 'language', 'tags', 'enabled']) {
