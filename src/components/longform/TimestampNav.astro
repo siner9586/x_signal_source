@@ -1,0 +1,10 @@
+---
+const { chapters = [], segments = [] } = Astro.props;
+const items = chapters.length ? chapters.map((c, i) => ({ id: `chapter-${i}`, label: c.title || `Chapter ${i + 1}`, time: c.start_hhmmss || c.start || '' })) : segments.slice(0, 80).map((s) => ({ id: `seg-${s.index}`, label: s.text?.slice(0, 42) || `Segment ${s.index}`, time: s.start_hhmmss || '' }));
+---
+<nav class="lf-card">
+  <span class="lf-pill">Timestamp navigation</span>
+  <div class="lf-meta">
+    {items.map((item) => <a class="lf-tag" href={`#${item.id}`}>{item.time} {item.label}</a>)}
+  </div>
+</nav>
