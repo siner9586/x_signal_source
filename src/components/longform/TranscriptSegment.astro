@@ -1,0 +1,15 @@
+---
+const { segment, originalUrl = '' } = Astro.props;
+const seconds = Math.floor(Number(segment.start || 0));
+let jump = originalUrl;
+try {
+  const u = new URL(originalUrl);
+  if (u.hostname.includes('youtu.be')) jump = `https://www.youtube.com/watch?v=${u.pathname.replace(/^\//,'').split('/')[0]}&t=${seconds}s`;
+  else if (u.hostname.includes('youtube.com')) jump = `https://www.youtube.com/watch?v=${u.searchParams.get('v') || ''}&t=${seconds}s`;
+} catch {}
+---
+<p class="lf-segment" id={`seg-${segment.index}`} data-segment-text={segment.text || ''}>
+  <a class="lf-time" href={jump} target="_blank" rel="noreferrer">{segment.start_hhmmss || '00:00:00'}</a>
+  <span>{segment.text}</span>
+  <span class="lf-copy-row"><button class="lf-btn" type="button" data-copy={segment.text || ''}>copy</button><button class="lf-btn" type="button" data-copy={`${segment.start_hhmmss || ''} ${segment.text || ''}`}>copy timestamp</button></span>
+</p>
