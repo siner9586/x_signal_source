@@ -1,0 +1,25 @@
+---
+import fs from 'node:fs';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import EmptyState from '../../components/longform/EmptyState.astro';
+import EpisodeCard from '../../components/longform/EpisodeCard.astro';
+import '../../styles/longform.css';
+const readJson = (p, fallback) => fs.existsSync(p) ? JSON.parse(fs.readFileSync(p, 'utf8')) : fallback;
+export function getStaticPaths() {
+  const queue = readJson('data/longform/queues/current.json', { episodes: [] });
+  return (queue.episodes || []).map((episode) => ({ params: { slug: episode.slug || episode.id }, props: { episode } }));
+}
+const { episode } = Astro.props;
+---
+<BaseLayout title={`${episode.title} | Podcast Signals`} description="Rule-based learning note and source card.">
+  <div class="longform-surface">
+    <section class="lf-hero longform-shell"><div class="lf-hero-panel"><span class="lf-kicker">Learning note</span><h1>{episode.title}</h1><p class="lf-lead">来源：{episode.source_name} · 嘉宾：{(episode.guest_names || []).join(', ') || 'pending'} · 时长：{episode.duration || 'pending'}</p></div></section>
+    <section class="lf-section longform-shell lf-grid-2">
+      <EpisodeCard episode={episode} />
+      <div class="lf-card"><h2>本期为什么值得看</h2><p>{episode.summary || episode.description || '该条目已进入长访谈学习队列，等待本地下载音频与开源 ASR 转录。'}</p><h2>下一步</h2><pre class="lf-command"><code>{episode.download_command || ''}
+{episode.transcribe_command || ''}
+npm run longform:build</code></pre><div class="lf-actions"><a class="lf-btn primary" href={episode.video_url || episode.episode_url} target="_blank" rel="noreferrer">Watch original</a><a class="lf-btn" href={`/transcripts/${episode.slug || episode.id}/`}>Read transcript</a></div></div>
+    </section>
+    <section class="lf-section longform-shell"><EmptyState title="Notes are rule-based until transcript exists" body="没有真实逐字稿时不会生成伪核心观点。转录完成后，longform-build-notes 会生成时间轴、关键词、行动项和原始链接。" /></section>
+  </div>
+</BaseLayout>
