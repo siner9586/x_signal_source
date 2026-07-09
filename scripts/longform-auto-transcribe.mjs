@@ -10,6 +10,7 @@ const RUN_DIR = path.join(ROOT, 'data/longform/runs');
 
 const MAX_ITEMS = Number(process.env.LONGFORM_AUTO_TRANSCRIBE_ITEMS || 1);
 const SUBTITLE_LANGS = process.env.LONGFORM_SUBTITLE_LANGS || 'en.*,en,zh.*,zh-Hans,zh-Hant,zh';
+const TRANSCRIBE_STRATEGY = process.env.LONGFORM_TRANSCRIBE_STRATEGY || 'subtitle_then_audio';
 const WHISPER_MODEL = process.env.LONGFORM_WHISPER_MODEL || 'base';
 const WHISPER_LANGUAGE = process.env.LONGFORM_WHISPER_LANGUAGE || 'auto';
 const DEVICE = process.env.LONGFORM_WHISPER_DEVICE || 'cpu';
@@ -208,11 +209,23 @@ async function whisper(ep, audio) {
   return { engine:'whisper', raw_path:path.join(RAW_DIR, `${ep.id}.json`) };
 }
 
+async function tryWhisperFromAudio(ep, subtitleError = '') {
+  const audio = await downloadAudio(ep);
+  if (!audio.ok) return { episode_id:ep.id, status:'failed', method:'audio-download', subtitle_error:subtitleError, error:audio.error };
+  const converted = await whisper(ep, audio.audio);
+  return { episode_id:ep.id, status:'transcribed', method:'whisper', subtitle_error:subtitleError, audio:path.relative(ROOT, audio.audio), ...converted };
+}
+
 async function processEpisode(ep) {
   await ensure(RAW_DIR);
   await ensure(AUDIO_DIR);
   const rawPath = path.join(RAW_DIR, `${ep.id}.json`);
   if (await exists(rawPath)) return { episode_id:ep.id, status:'skipped', reason:'raw transcript exists' };
+
+  if (TRANSCRIBE_STRATEGY === 'audio_only') {
+    console.log(`Strategy audio_only: skipping subtitle probe for ${ep.id}.`);
+    return await tryWhisperFromAudio(ep, 'subtitle probe skipped by audio_only strategy');
+  }
 
   let subtitleError = '';
   const sub = await downloadSubtitle(ep);
@@ -224,13 +237,11 @@ async function processEpisode(ep) {
       subtitleError = String(err?.message || err);
       console.warn(`Subtitle parse failed for ${ep.id}; falling back to Whisper: ${subtitleError}`);
     }
+  } else {
+    subtitleError = sub.error || 'subtitle not available';
   }
 
-  const audio = await downloadAudio(ep);
-  if (!audio.ok) return { episode_id:ep.id, status:'failed', method:'audio-download', subtitle_error:subtitleError, error:audio.error };
-
-  const converted = await whisper(ep, audio.audio);
-  return { episode_id:ep.id, status:'transcribed', method:'whisper', subtitle_error:subtitleError, audio:path.relative(ROOT, audio.audio), ...converted };
+  return await tryWhisperFromAudio(ep, subtitleError);
 }
 
 async function main() {
@@ -240,7 +251,7 @@ async function main() {
     .filter(ep => ep?.id && (ep.transcript_status !== 'ready' || ep.status === 'queued'))
     .slice(0, MAX_ITEMS);
 
-  const report = { generated_at:stamp(), max_items:MAX_ITEMS, subtitle_langs:SUBTITLE_LANGS, whisper_model:WHISPER_MODEL, items:[] };
+  const report = { generated_at:stamp(), max_items:MAX_ITEMS, subtitle_langs:SUBTITLE_LANGS, transcribe_strategy:TRANSCRIBE_STRATEGY, whisper_model:WHISPER_MODEL, items:[] };
   if (!episodes.length) {
     report.message = 'No queued episodes need transcription.';
     await writeJson(path.join(RUN_DIR, `${TODAY}-auto-transcribe.json`), report);
