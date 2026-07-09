@@ -1,0 +1,64 @@
+---
+import OriginalLinkButton from './OriginalLinkButton.astro';
+import ReadingModeToggle from './ReadingModeToggle.astro';
+const { transcript = {}, episode = {} } = Astro.props;
+const segments = transcript.segments || [];
+const original = transcript.video_url || transcript.episode_url || transcript.audio_url || episode.video_url || episode.episode_url || '';
+const yt = (url, seconds) => {
+  try {
+    const u = new URL(url);
+    const id = u.hostname.includes('youtu.be') ? u.pathname.replace('/', '') : u.searchParams.get('v');
+    if (id) return `https://www.youtube.com/watch?v=${id}&t=${Math.floor(seconds || 0)}s`;
+  } catch {}
+  return original;
+};
+---
+<div class="lf-progress" id="readingProgress"></div>
+<article class="lf-reader" data-reader>
+  <div class="lf-card">
+    <span class="lf-kicker">Full transcript</span>
+    <h1>{transcript.title || episode.title}</h1>
+    <p class="lf-lead">{transcript.source_name || episode.source_name} · {(transcript.guest_names || episode.guest_names || []).join(', ') || 'Guest not set'} · {transcript.duration || episode.duration || ''}</p>
+    <div class="lf-actions">
+      <OriginalLinkButton url={original} />
+      <ReadingModeToggle />
+      <button class="lf-btn" type="button" data-copy-citation={`《${transcript.title || episode.title}》 ${original}`}>Copy citation</button>
+    </div>
+  </div>
+  <div class="lf-card" style="margin-top:18px">
+    <input class="lf-searchbar" id="withinTranscriptSearch" placeholder="Search within transcript..." />
+    <div class="lf-transcript">
+      {segments.map((segment) => (
+        <section class="lf-segment" id={`seg-${segment.index}`} data-segment data-text={segment.text}>
+          <a class="lf-time" href={yt(original, segment.start)} target="_blank" rel="noreferrer">{segment.start_hhmmss}</a>
+          <p>{segment.text}</p>
+          <div class="lf-copy-row">
+            <button class="lf-btn" type="button" data-copy={segment.text}>copy</button>
+            <a class="lf-btn" href={yt(original, segment.start)} target="_blank" rel="noreferrer">open original</a>
+            <button class="lf-btn" type="button" data-copy={`${Astro.url.origin}${Astro.url.pathname}#seg-${segment.index}`}>copy link</button>
+          </div>
+        </section>
+      ))}
+    </div>
+  </div>
+</article>
+<script is:inline>
+  const progress = document.getElementById('readingProgress');
+  const updateProgress = () => {
+    const doc = document.documentElement;
+    const total = doc.scrollHeight - doc.clientHeight;
+    progress.style.width = `${total > 0 ? (doc.scrollTop / total) * 100 : 0}%`;
+  };
+  document.addEventListener('scroll', updateProgress, { passive: true });
+  updateProgress();
+  document.querySelectorAll('[data-copy],[data-copy-citation]').forEach((el) => el.addEventListener('click', async () => {
+    const text = el.dataset.copy || el.dataset.copyCitation || '';
+    await navigator.clipboard?.writeText(text);
+    el.textContent = 'copied';
+    setTimeout(() => el.textContent = el.dataset.copyCitation ? 'Copy citation' : 'copy', 1100);
+  }));
+  document.getElementById('withinTranscriptSearch')?.addEventListener('input', (event) => {
+    const q = event.target.value.trim().toLowerCase();
+    document.querySelectorAll('[data-segment]').forEach((seg) => seg.classList.toggle('active', q && seg.dataset.text.toLowerCase().includes(q)));
+  });
+</script>
