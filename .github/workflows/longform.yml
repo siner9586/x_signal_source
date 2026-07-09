@@ -46,6 +46,25 @@ jobs:
         with:
           python-version: "3.11"
 
+      - name: Cache pip packages
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-longform-v1-${{ hashFiles('scripts/transcribe.py', 'scripts/longform-auto-transcribe.mjs') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-longform-v1-
+
+      - name: Cache Whisper models
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cache/huggingface
+            ~/.cache/whisper
+          key: ${{ runner.os }}-whisper-${{ github.event_name == 'workflow_dispatch' && inputs.whisper_model || 'base' }}-v1
+          restore-keys: |
+            ${{ runner.os }}-whisper-base-v1
+            ${{ runner.os }}-whisper-
+
       - name: Install system media tools
         run: |
           sudo apt-get update
