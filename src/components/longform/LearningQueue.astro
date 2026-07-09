@@ -1,0 +1,7 @@
+---
+const { counts = {} } = Astro.props;
+const steps = ['queued', 'audio_ready', 'transcribing', 'cleaning', 'notes_ready', 'transcript_published'];
+---
+<div class="lf-grid">
+  {steps.map((step) => <div class="lf-card"><span class="lf-pill">{step.replace(/_/g, ' ')}</span><h3>{counts[step] || 0}</h3></div>)}
+</div>
