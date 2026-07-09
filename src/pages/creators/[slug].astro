@@ -1,0 +1,19 @@
+---
+import fs from 'node:fs';
+import yaml from 'js-yaml';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import SourceCard from '../../components/longform/SourceCard.astro';
+import '../../styles/longform.css';
+const readYaml = (p) => fs.existsSync(p) ? (yaml.load(fs.readFileSync(p, 'utf8')) || []) : [];
+const slugify = (s) => String(s || 'source').toLowerCase().replace(/[^a-z0-9一-龥]+/g, '-').replace(/^-+|-+$/g, '').slice(0,96);
+const sources = [...readYaml('data/sources/podcasts.yaml'), ...readYaml('data/sources/video_creators.yaml')];
+export function getStaticPaths() { return sources.map((source) => ({ params: { slug: slugify(source.id || source.name) }, props: { source } })); }
+const { source } = Astro.props;
+---
+<BaseLayout title={`${source.name} | Podcast Signals`} description="Longform source profile.">
+  <div class="longform-surface">
+    <section class="lf-hero longform-shell"><div class="lf-hero-panel"><span class="lf-kicker">Creator / Source</span><h1>{source.name}</h1><p class="lf-lead">{source.notes || 'Tracked by Podcast Signals.'}</p></div></section>
+    <section class="lf-section longform-shell lf-grid-2"><SourceCard source={source} /><div class="lf-card"><h2>How to use this source</h2><p>如果没有公开 RSS / YouTube channel id，请保持 discovery_status 为 needs_manual_url，并把具体集数加入 manual_longform_links.yaml。</p><pre class="lf-command"><code>npm run longform:discover
+npm run longform:queue</code></pre></div></section>
+  </div>
+</BaseLayout>
