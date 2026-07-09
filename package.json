@@ -1,1 +1,44 @@
-{"name":"x-signal-source","version":"0.1.0","private":true,"type":"module","scripts":{"collect":"node scripts/pipeline.mjs collect","score":"node scripts/pipeline.mjs score","build:issue":"node scripts/pipeline.mjs build-issue","generate:site-data":"node scripts/pipeline.mjs generate-site-data","qa":"node scripts/qa.mjs","daily":"npm run collect && npm run score && npm run build:issue && npm run generate:site-data","build":"astro build","dev":"astro dev","preview":"astro preview"},"dependencies":{"@astrojs/sitemap":"latest","astro":"latest","gray-matter":"latest","js-yaml":"latest"},"devDependencies":{"typescript":"latest"},"engines":{"node":">=22.12.0"}}
+{
+  "name": "x-signal-source",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "collect": "node scripts/pipeline.mjs collect",
+    "score": "node scripts/pipeline.mjs score",
+    "build:issue": "node scripts/pipeline.mjs build-issue",
+    "generate:site-data": "node scripts/pipeline.mjs generate-site-data",
+    "qa": "node scripts/qa.mjs",
+    "daily": "npm run collect && npm run score && npm run build:issue && npm run generate:site-data",
+    "build": "astro build",
+    "dev": "astro dev",
+    "preview": "astro preview",
+    "longform:discover": "node scripts/longform-discover.mjs",
+    "longform:normalize": "node scripts/longform-normalize.mjs",
+    "longform:queue": "node scripts/longform-build-queue.mjs",
+    "longform:download": "node scripts/longform-download-local.mjs",
+    "longform:register-audio": "node scripts/longform-register-audio.mjs",
+    "longform:clean": "node scripts/transcript-clean.mjs",
+    "longform:chapters": "node scripts/transcript-chapters.mjs",
+    "longform:notes": "node scripts/longform-build-notes.mjs",
+    "longform:transcript-page": "node scripts/longform-build-transcript-page.mjs",
+    "longform:search": "node scripts/longform-build-search-index.mjs",
+    "longform:creators": "node scripts/longform-build-creators.mjs",
+    "longform:qa": "node scripts/longform-qa.mjs",
+    "longform:build": "npm run longform:clean && npm run longform:chapters && npm run longform:notes && npm run longform:transcript-page && npm run longform:search && npm run longform:creators",
+    "longform": "npm run longform:discover && npm run longform:queue && npm run longform:build",
+    "transcribe:local": "python scripts/transcribe.py"
+  },
+  "dependencies": {
+    "@astrojs/sitemap": "latest",
+    "astro": "latest",
+    "gray-matter": "latest",
+    "js-yaml": "latest"
+  },
+  "devDependencies": {
+    "typescript": "latest"
+  },
+  "engines": {
+    "node": ">=22.12.0"
+  }
+}
