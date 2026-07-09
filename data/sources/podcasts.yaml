@@ -1,82 +1,33 @@
-- name: Lenny's Podcast
-  category: podcast_source
-  priority: 5
-  homepage_url: https://www.lennysnewsletter.com/
-  youtube_url: https://www.youtube.com/@LennysPodcast
-  tags: [product, growth, podcast, ai]
-  notes: 产品、增长、创业与 AI 产品访谈。
-- name: Peter Yang
-  category: creator_source
-  priority: 4
-  homepage_url: https://creatoreconomy.so/
-  tags: [product, creator, ai]
-  notes: 创作者经济、AI 产品与平台变化。
-- name: AI and I by Every
-  category: podcast_source
-  priority: 4
-  homepage_url: https://every.to/
-  tags: [ai, interview, every]
-  notes: Every 的 AI 访谈与长内容入口；具体 podcast feed 需按公开页面人工补充。
-- name: Unsupervised Learning by Redpoint
-  category: podcast_source
-  priority: 4
-  homepage_url: https://www.redpoint.com/
-  tags: [vc, ai, podcast]
-  notes: Redpoint 公开播客入口，关注 AI、创业与投资判断。
-- name: Training Data by Sequoia
-  category: podcast_source
-  priority: 5
-  homepage_url: https://www.sequoiacap.com/
-  tags: [vc, ai, podcast]
-  notes: Sequoia AI 访谈与创始人判断入口。
-- name: Minus One by South Park Commons
-  category: podcast_source
-  priority: 4
-  homepage_url: https://www.southparkcommons.com/
-  x_url: https://x.com/southpkcommons
-  tags: [startup, podcast, ai]
-- name: Google DeepMind The Podcast
-  category: podcast_source
-  priority: 5
-  homepage_url: https://deepmind.google/
-  youtube_url: https://www.youtube.com/@googledeepmind
-  tags: [research, podcast, ai]
-- name: No Priors
-  category: podcast_source
-  priority: 5
-  homepage_url: https://www.nopriors.com/
-  tags: [ai, podcast, founders, research]
-  notes: AI 创业、研究和投资访谈。
-- name: a16z Podcast
-  category: podcast_source
-  priority: 5
-  homepage_url: https://a16z.com/podcasts/
-  x_url: https://x.com/a16z
-  tags: [vc, ai, podcast]
-- name: Latent Space
-  category: podcast_source
-  priority: 5
-  homepage_url: https://www.latent.space/
-  tags: [ai_engineering, podcast, newsletter]
-- name: The AI Daily Brief
-  category: podcast_source
-  priority: 4
-  homepage_url: https://www.aidailybrief.com/
-  tags: [ai_news, podcast]
-- name: Lightcone Podcast by YC
-  category: podcast_source
-  priority: 4
-  homepage_url: https://www.youtube.com/@ycombinator
-  tags: [yc, startup, podcast]
-- name: Lex Fridman Podcast
-  category: podcast_source
-  priority: 4
-  homepage_url: https://lexfridman.com/podcast/
-  youtube_url: https://www.youtube.com/@lexfridman
-  tags: [longform, ai, science]
-- name: Dwarkesh Podcast
-  category: podcast_source
-  priority: 5
-  homepage_url: https://www.dwarkeshpatel.com/
-  youtube_url: https://www.youtube.com/@DwarkeshPatel
-  tags: [ai, longform, research]
+# Podcast Signals / 长访谈逐字稿学习库 sources.
+# Longform-only metadata uses daily_signal_enabled: false so these sources remain isolated from the daily signal workflow.
+- {id: lennys-podcast, name: "Lenny's Podcast", source_type: podcast, category: product_growth_ai, priority: 5, language: en, homepage_url: "https://www.lennysnewsletter.com/", podcast_url: "", apple_podcast_url: "", spotify_url: "", rss_url: "", youtube_url: "https://www.youtube.com/@LennysPodcast", youtube_channel_id: "", youtube_feed_url: "", tags: [Product, Growth, AI, Startup], enabled: true, daily_signal_enabled: false, crawl_strategy: rss_or_youtube_feed, discovery_status: needs_feed_url, notes: "Product, growth, startup and AI interviews."}
+- {id: peter-yang, name: Peter Yang, source_type: website, category: product_growth_ai, priority: 4, language: en, homepage_url: "https://creatoreconomy.so/", podcast_url: "", rss_url: "", youtube_url: "", youtube_channel_id: "", youtube_feed_url: "", tags: [Product, Creator, AI], enabled: true, daily_signal_enabled: false, crawl_strategy: webpage_metadata, discovery_status: needs_manual_url, notes: "Creator economy, product and AI platform commentary."}
+- {id: ai-and-i-every, name: "AI and I by Every", source_type: podcast, category: ai_product, priority: 4, language: en, homepage_url: "https://every.to/", podcast_url: "", rss_url: "", youtube_url: "", youtube_channel_id: "", youtube_feed_url: "", tags: [AI, Interview, Every, Product], enabled: true, daily_signal_enabled: false, crawl_strategy: manual, discovery_status: needs_manual_url, notes: "Every's AI interviews and longform essays."}
+- {id: unsupervised-learning-redpoint, name: "Unsupervised Learning by Redpoint", source_type: podcast, category: vc_investing_ai, priority: 4, language: en, homepage_url: "https://www.redpoint.com/", podcast_url: "", rss_url: "", youtube_url: "", youtube_channel_id: "", youtube_feed_url: "", tags: [VC, AI, Startup, Podcast], enabled: true, daily_signal_enabled: false, crawl_strategy: manual, discovery_status: needs_feed_url, notes: "Redpoint public podcast on AI, startups and investing."}
+- {id: training-data-sequoia, name: "Training Data by Sequoia", source_type: podcast, category: vc_investing_ai, priority: 5, language: en, homepage_url: "https://www.sequoiacap.com/", podcast_url: "", rss_url: "", youtube_url: "", youtube_channel_id: "", youtube_feed_url: "", tags: [Sequoia, AI, Founder, Podcast], enabled: true, daily_signal_enabled: false, crawl_strategy: manual, discovery_status: needs_feed_url, notes: "Sequoia AI founder and builder interviews."}
+- {id: minus-one-spc, name: "Minus One by South Park Commons", source_type: podcast, category: startup_ai, priority: 4, language: en, homepage_url: "https://www.southparkcommons.com/", podcast_url: "", rss_url: "", youtube_url: "", youtube_channel_id: "", youtube_feed_url: "", tags: [Startup, AI, Podcast], enabled: true, daily_signal_enabled: false, crawl_strategy: manual, discovery_status: needs_feed_url, notes: "SPC longform startup and AI conversations."}
+- {id: google-deepmind-podcast, name: "Google DeepMind Podcast", source_type: mixed, category: ai_research, priority: 5, language: en, homepage_url: "https://deepmind.google/", podcast_url: "", rss_url: "", youtube_url: "https://www.youtube.com/@googledeepmind", youtube_channel_id: "", youtube_feed_url: "", tags: [AI, Research, DeepMind], enabled: true, daily_signal_enabled: false, crawl_strategy: rss_or_youtube_feed, discovery_status: needs_feed_url, notes: "DeepMind research and official longform conversations."}
+- {id: no-priors, name: No Priors, source_type: podcast, category: ai_startup_research, priority: 5, language: en, homepage_url: "https://www.nopriors.com/", podcast_url: "", rss_url: "", youtube_url: "", youtube_channel_id: "", youtube_feed_url: "", tags: [AI, Startup, Research, Podcast], enabled: true, daily_signal_enabled: false, crawl_strategy: manual, discovery_status: needs_feed_url, notes: "AI startup, research and investing interviews."}
+- {id: a16z-ai, name: a16z AI, source_type: mixed, category: vc_investing_ai, priority: 5, language: en, homepage_url: "https://a16z.com/ai/", podcast_url: "https://a16z.com/podcasts/", rss_url: "", youtube_url: "https://www.youtube.com/@a16z", youtube_channel_id: "", youtube_feed_url: "", tags: [AI, VC, Startup, Podcast], enabled: true, daily_signal_enabled: false, crawl_strategy: rss_or_youtube_feed, discovery_status: needs_feed_url, notes: "a16z AI conversations, market analysis and builder interviews."}
+- {id: latent-space, name: Latent Space, source_type: podcast, category: ai_engineering, priority: 5, language: en, homepage_url: "https://www.latent.space/", podcast_url: "", rss_url: "", youtube_url: "", youtube_channel_id: "", youtube_feed_url: "", tags: [AI Engineering, LLM, Agents, Podcast], enabled: true, daily_signal_enabled: false, crawl_strategy: rss_or_youtube_feed, discovery_status: needs_feed_url, notes: "AI engineering and LLM infrastructure longform."}
+- {id: ai-daily-brief, name: "The AI Daily Brief", source_type: podcast, category: ai_news, priority: 4, language: en, homepage_url: "https://www.aidailybrief.com/", podcast_url: "", rss_url: "", youtube_url: "", youtube_channel_id: "", youtube_feed_url: "", tags: [AI, News, Podcast], enabled: true, daily_signal_enabled: false, crawl_strategy: manual, discovery_status: needs_feed_url, notes: "AI news and industry analysis."}
+- {id: lightcone-podcast-yc, name: "Lightcone Podcast by YC", source_type: youtube, category: startup_ai, priority: 4, language: en, homepage_url: "", podcast_url: "", rss_url: "", youtube_url: "https://www.youtube.com/@ycombinator", youtube_channel_id: "", youtube_feed_url: "", tags: [YC, Startup, AI, Podcast], enabled: true, daily_signal_enabled: false, crawl_strategy: youtube_feed, discovery_status: needs_channel_id, notes: "Y Combinator founder and startup interviews."}
+- {id: lex-fridman, name: "Lex Fridman Podcast", source_type: mixed, category: ai_science_longform, priority: 4, language: en, homepage_url: "https://lexfridman.com/podcast/", podcast_url: "", rss_url: "", youtube_url: "https://www.youtube.com/@lexfridman", youtube_channel_id: "", youtube_feed_url: "", tags: [AI, Science, Philosophy, Longform], enabled: true, daily_signal_enabled: false, crawl_strategy: rss_or_youtube_feed, discovery_status: needs_feed_url, notes: "Longform AI, science and philosophy interviews."}
+- {id: dwarkesh-podcast, name: "Dwarkesh Podcast", source_type: mixed, category: ai_research_longform, priority: 5, language: en, homepage_url: "https://www.dwarkeshpatel.com/", podcast_url: "", rss_url: "", youtube_url: "https://www.youtube.com/@DwarkeshPatel", youtube_channel_id: "", youtube_feed_url: "", tags: [AI, Research, Forecasting, Longform], enabled: true, daily_signal_enabled: false, crawl_strategy: rss_or_youtube_feed, discovery_status: needs_feed_url, notes: "AI research, scaling, economics and future forecasts."}
+- {id: cognitive-revolution, name: "The Cognitive Revolution", source_type: podcast, category: ai_llm_agents, priority: 4, language: en, homepage_url: "", podcast_url: "", rss_url: "", youtube_url: "", youtube_channel_id: "", youtube_feed_url: "", tags: [AI, Agents, LLM, Podcast], enabled: true, daily_signal_enabled: false, crawl_strategy: manual, discovery_status: needs_feed_url, notes: "Longform AI and agent interviews."}
+- {id: practical-ai, name: Practical AI, source_type: podcast, category: ai_engineering, priority: 4, language: en, homepage_url: "", podcast_url: "", rss_url: "", youtube_url: "", youtube_channel_id: "", youtube_feed_url: "", tags: [AI, ML, Engineering], enabled: true, daily_signal_enabled: false, crawl_strategy: manual, discovery_status: needs_feed_url, notes: "Practical machine learning and AI engineering conversations."}
+- {id: twiml-ai, name: "TWIML AI Podcast", source_type: podcast, category: ai_research_engineering, priority: 4, language: en, homepage_url: "", podcast_url: "", rss_url: "", youtube_url: "", youtube_channel_id: "", youtube_feed_url: "", tags: [Machine Learning, AI, Research], enabled: true, daily_signal_enabled: false, crawl_strategy: manual, discovery_status: needs_feed_url, notes: "ML research and applied AI interviews."}
+- {id: eye-on-ai, name: Eye on AI, source_type: podcast, category: ai_research, priority: 4, language: en, homepage_url: "", podcast_url: "", rss_url: "", youtube_url: "", youtube_channel_id: "", youtube_feed_url: "", tags: [AI, Research, Podcast], enabled: true, daily_signal_enabled: false, crawl_strategy: manual, discovery_status: needs_feed_url, notes: "AI researchers, founders and industry leaders."}
+- {id: ml-street-talk, name: "Machine Learning Street Talk", source_type: youtube, category: ai_research, priority: 4, language: en, homepage_url: "", podcast_url: "", rss_url: "", youtube_url: "https://www.youtube.com/@MachineLearningStreetTalk", youtube_channel_id: "", youtube_feed_url: "", tags: [AI, ML, Research, Philosophy], enabled: true, daily_signal_enabled: false, crawl_strategy: youtube_feed, discovery_status: needs_channel_id, notes: "Deep technical and philosophical AI conversations."}
+- {id: yc-startup-school, name: "Y Combinator Startup School", source_type: youtube, category: startup_product, priority: 4, language: en, homepage_url: "", podcast_url: "", rss_url: "", youtube_url: "https://www.youtube.com/@ycombinator", youtube_channel_id: "", youtube_feed_url: "", tags: [Startup, Product, YC], enabled: true, daily_signal_enabled: false, crawl_strategy: youtube_feed, discovery_status: needs_channel_id, notes: "Startup school talks and founder education."}
+- {id: twenty-vc, name: 20VC, source_type: podcast, category: vc_investing, priority: 4, language: en, homepage_url: "", podcast_url: "", rss_url: "", youtube_url: "", youtube_channel_id: "", youtube_feed_url: "", tags: [VC, Startup, SaaS], enabled: true, daily_signal_enabled: false, crawl_strategy: manual, discovery_status: needs_feed_url, notes: "Venture capital and founder interviews."}
+- {id: acquired, name: Acquired, source_type: podcast, category: business_breakdowns, priority: 4, language: en, homepage_url: "", podcast_url: "", rss_url: "", youtube_url: "", youtube_channel_id: "", youtube_feed_url: "", tags: [Business, Strategy, Investing], enabled: true, daily_signal_enabled: false, crawl_strategy: manual, discovery_status: needs_feed_url, notes: "Company histories and strategy deep dives."}
+- {id: invest-like-the-best, name: "Invest Like the Best", source_type: podcast, category: investing_business, priority: 4, language: en, homepage_url: "", podcast_url: "", rss_url: "", youtube_url: "", youtube_channel_id: "", youtube_feed_url: "", tags: [Investing, Business, Technology], enabled: true, daily_signal_enabled: false, crawl_strategy: manual, discovery_status: needs_feed_url, notes: "Investing, technology and company building interviews."}
+- {id: knowledge-project, name: "The Knowledge Project", source_type: podcast, category: cognition_learning, priority: 4, language: en, homepage_url: "", podcast_url: "", rss_url: "", youtube_url: "", youtube_channel_id: "", youtube_feed_url: "", tags: [Cognition, Decision Making, Learning], enabled: true, daily_signal_enabled: false, crawl_strategy: manual, discovery_status: needs_feed_url, notes: "Decision making, mental models and learning."}
+- {id: huberman-lab, name: Huberman Lab, source_type: podcast, category: cognitive_science, priority: 3, language: en, homepage_url: "", podcast_url: "", rss_url: "", youtube_url: "https://www.youtube.com/@hubermanlab", youtube_channel_id: "", youtube_feed_url: "", tags: [Neuroscience, Learning, Health], enabled: true, daily_signal_enabled: false, crawl_strategy: youtube_feed, discovery_status: needs_channel_id, notes: "Neuroscience and learning longform."}
+- {id: conversations-with-tyler, name: "Conversations with Tyler", source_type: podcast, category: economics_cognition, priority: 3, language: en, homepage_url: "", podcast_url: "", rss_url: "", youtube_url: "", youtube_channel_id: "", youtube_feed_url: "", tags: [Economics, Culture, Cognition], enabled: true, daily_signal_enabled: false, crawl_strategy: manual, discovery_status: needs_feed_url, notes: "Economics, culture and intellectual interviews."}
+- {id: econtalk, name: EconTalk, source_type: podcast, category: economics_cognition, priority: 3, language: en, homepage_url: "", podcast_url: "", rss_url: "", youtube_url: "", youtube_channel_id: "", youtube_feed_url: "", tags: [Economics, Society, Learning], enabled: true, daily_signal_enabled: false, crawl_strategy: manual, discovery_status: needs_feed_url, notes: "Economics, institutions and society conversations."}
+- {id: silicon-valley-101, name: 硅谷101, source_type: podcast, category: chinese_tech_business, priority: 4, language: zh, homepage_url: "", podcast_url: "", rss_url: "", youtube_url: "", youtube_channel_id: "", youtube_feed_url: "", tags: [中文科技, 商业, 硅谷], enabled: true, daily_signal_enabled: false, crawl_strategy: manual, discovery_status: needs_manual_url, notes: "中文科技、商业与硅谷访谈；找不到公开 feed 时走手动链接入口。"}
+- {id: luan-fan-shu, name: 乱翻书, source_type: podcast, category: chinese_tech_business, priority: 4, language: zh, homepage_url: "", podcast_url: "", rss_url: "", youtube_url: "", youtube_channel_id: "", youtube_feed_url: "", tags: [中文播客, 科技, 商业], enabled: true, daily_signal_enabled: false, crawl_strategy: manual, discovery_status: needs_manual_url, notes: "中文科技与商业访谈入口。"}
+- {id: fengyanfengyu, name: 枫言枫语, source_type: podcast, category: chinese_tech_business, priority: 3, language: zh, homepage_url: "", podcast_url: "", rss_url: "", youtube_url: "", youtube_channel_id: "", youtube_feed_url: "", tags: [中文播客, 科技, 产品], enabled: true, daily_signal_enabled: false, crawl_strategy: manual, discovery_status: needs_manual_url, notes: "中文科技、产品与生活方式播客。"}
+- {id: beyond-code-cn, name: 代码之外, source_type: podcast, category: chinese_engineering, priority: 3, language: zh, homepage_url: "", podcast_url: "", rss_url: "", youtube_url: "", youtube_channel_id: "", youtube_feed_url: "", tags: [中文播客, 编程, 工程], enabled: true, daily_signal_enabled: false, crawl_strategy: manual, discovery_status: needs_manual_url, notes: "中文开发者与工程访谈。"}
