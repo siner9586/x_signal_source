@@ -1,0 +1,4 @@
+[
+  {"source_id":"lennys-podcast","name":"Lenny's Podcast","category":"product_growth_ai","source_type":"podcast","language":"en","priority":5,"enabled":true,"crawl_strategy":"rss_or_youtube_feed","discovery_status":"needs_feed_url","tags":["Product","Growth","AI","Startup"],"homepage_url":"https://www.lennysnewsletter.com/","youtube_url":"https://www.youtube.com/@LennysPodcast","rss_url":""},
+  {"source_id":"andrej-karpathy","name":"Andrej Karpathy","category":"ai_engineering","source_type":"youtube","language":"en","priority":5,"enabled":true,"crawl_strategy":"youtube_feed","discovery_status":"needs_channel_id","tags":["AI","LLM","Deep Learning","Engineering"],"homepage_url":"","youtube_url":"https://www.youtube.com/@AndrejKarpathy","rss_url":""}
+]
