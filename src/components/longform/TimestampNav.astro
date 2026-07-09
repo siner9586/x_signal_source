@@ -1,10 +1,16 @@
 ---
 const { chapters = [], segments = [] } = Astro.props;
-const items = chapters.length ? chapters.map((c, i) => ({ id: `chapter-${i}`, label: c.title || `Chapter ${i + 1}`, time: c.start_hhmmss || c.start || '' })) : segments.slice(0, 80).map((s) => ({ id: `seg-${s.index}`, label: s.text?.slice(0, 42) || `Segment ${s.index}`, time: s.start_hhmmss || '' }));
+const segmentForTime = (seconds = 0) => {
+  const seg = segments.find((s) => Number(s.start || 0) >= Number(seconds || 0)) || segments.find((s) => Number(s.end || 0) >= Number(seconds || 0)) || segments[0];
+  return seg ? `seg-${seg.index}` : '';
+};
+const items = chapters.length
+  ? chapters.map((c, i) => ({ id: segmentForTime(c.start), label: c.title || `Chapter ${i + 1}`, time: c.start_hhmmss || c.start || '' }))
+  : segments.slice(0, 80).map((s) => ({ id: `seg-${s.index}`, label: s.text?.slice(0, 42) || `Segment ${s.index}`, time: s.start_hhmmss || '' }));
 ---
 <nav class="lf-card">
   <span class="lf-pill">Timestamp navigation</span>
   <div class="lf-meta">
-    {items.map((item) => <a class="lf-tag" href={`#${item.id}`}>{item.time} {item.label}</a>)}
+    {items.filter((item) => item.id).map((item) => <a class="lf-tag" href={`#${item.id}`}>{item.time} {item.label}</a>)}
   </div>
 </nav>
