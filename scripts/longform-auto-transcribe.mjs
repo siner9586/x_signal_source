@@ -83,7 +83,7 @@ function parseVtt(vtt='') {
     const textLines = [];
     while (i < lines.length && lines[i].trim() !== '') {
       const t = lines[i].trim();
-      if (!/^NOTE\b|^STYLE\b|^REGION\b/i.test(t)) textLines.push(t);
+      if (!/^(NOTE\b|STYLE\b|REGION\b)/i.test(t)) textLines.push(t);
       i++;
     }
     const text = cleanSubtitleText(textLines.join(' '));
