@@ -29,8 +29,12 @@ const pkg = await readJson(path.join(ROOT, 'package.json'), {});
 if (!pkg.scripts?.['longform:auto-transcribe']) errors.push('package.json missing longform:auto-transcribe script');
 if (!String(pkg.scripts?.longform || '').includes('longform:auto-transcribe')) errors.push('longform aggregate script must include auto-transcribe');
 const wf = await readText(path.join(ROOT, '.github/workflows/longform.yml'));
-for (const needle of ['yt-dlp', 'faster-whisper', 'npm run longform:auto-transcribe', 'timeout-minutes: 330', 'LONGFORM_AUTO_TRANSCRIBE_ITEMS']) {
+for (const needle of ['yt-dlp', 'faster-whisper', 'npm run longform:auto-transcribe', 'timeout-minutes: 330', 'LONGFORM_AUTO_TRANSCRIBE_ITEMS', 'LONGFORM_TRANSCRIBE_STRATEGY', 'audio_only']) {
   if (!wf.includes(needle)) errors.push(`longform workflow missing ${needle}`);
+}
+const autoScript = await readText(path.join(ROOT, 'scripts/longform-auto-transcribe.mjs'));
+for (const needle of ['TRANSCRIBE_STRATEGY', 'audio_only', 'tryWhisperFromAudio', 'downloadAudio(ep)', 'await main();']) {
+  if (!autoScript.includes(needle)) errors.push(`auto transcribe script missing ${needle}`);
 }
 
 const sources = await readAllSources();
