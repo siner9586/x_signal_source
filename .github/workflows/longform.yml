@@ -4,17 +4,31 @@ on:
   workflow_dispatch:
     inputs:
       run_transcription:
-        description: "Run automatic subtitle-first transcription on GitHub runner"
+        description: "Run automatic transcription on GitHub runner"
         required: false
         default: "true"
       max_items:
         description: "Max queued episodes to transcribe in this run"
         required: false
         default: "1"
+      transcribe_strategy:
+        description: "subtitle_then_audio tries captions first; audio_only skips captions and runs Whisper"
+        required: false
+        default: "subtitle_then_audio"
+        type: choice
+        options:
+          - subtitle_then_audio
+          - audio_only
       whisper_model:
-        description: "Whisper model used only when subtitles are unavailable"
+        description: "Whisper model used for audio transcription"
         required: false
         default: "base"
+        type: choice
+        options:
+          - tiny
+          - base
+          - small
+          - medium
   schedule:
     # Lightweight discovery + subtitle-first transcription. Taipei/Beijing 07:42.
     - cron: "42 23 * * *"
@@ -98,6 +112,7 @@ jobs:
         env:
           TZ: Asia/Taipei
           LONGFORM_AUTO_TRANSCRIBE_ITEMS: ${{ github.event_name == 'workflow_dispatch' && inputs.max_items || '1' }}
+          LONGFORM_TRANSCRIBE_STRATEGY: ${{ github.event_name == 'workflow_dispatch' && inputs.transcribe_strategy || 'subtitle_then_audio' }}
           LONGFORM_SUBTITLE_LANGS: "en.*,en,zh.*,zh-Hans,zh-Hant,zh"
           LONGFORM_WHISPER_MODEL: ${{ github.event_name == 'workflow_dispatch' && inputs.whisper_model || 'base' }}
           LONGFORM_WHISPER_LANGUAGE: "auto"
