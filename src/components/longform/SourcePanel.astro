@@ -1,0 +1,14 @@
+---
+const { episode = {}, points = [] } = Astro.props;
+---
+<aside class="lf-card">
+  <span class="lf-pill">Source panel</span>
+  <h3>{episode.source_name || 'Source'}</h3>
+  <p>{episode.creator_name || ''}</p>
+  <div class="lf-meta">{(episode.tags || []).map((tag) => <span class="lf-tag">{tag}</span>)}</div>
+  <div class="lf-actions">
+    {episode.video_url && <a class="lf-btn primary" href={episode.video_url} target="_blank" rel="noreferrer">Watch original</a>}
+    {episode.episode_url && <a class="lf-btn" href={episode.episode_url} target="_blank" rel="noreferrer">Episode link</a>}
+  </div>
+  {points.length > 0 && <div><h3>Key points</h3>{points.slice(0, 8).map((p) => <p>{p}</p>)}</div>}
+</aside>
