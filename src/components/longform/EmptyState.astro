@@ -1,7 +1,8 @@
 ---
-const { title = 'No longform content yet', body = 'Run the longform discovery and queue commands, or add a manual link first.' } = Astro.props;
+const { title = 'No longform content yet', body = '', description = '' } = Astro.props;
+const text = body || description || 'Run the longform discovery and queue commands, or add a manual link first.';
 ---
 <div class="lf-empty">
   <strong>{title}</strong>
-  <p>{body}</p>
+  <p>{text}</p>
 </div>
