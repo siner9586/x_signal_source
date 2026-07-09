@@ -1,0 +1,7 @@
+---
+import SourceCard from './SourceCard.astro';
+const { sources = [] } = Astro.props;
+---
+<div class="lf-grid">
+  {sources.map((source) => <SourceCard source={source} />)}
+</div>
