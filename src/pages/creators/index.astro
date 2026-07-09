@@ -1,0 +1,23 @@
+---
+import fs from 'node:fs';
+import yaml from 'js-yaml';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import SourceGrid from '../../components/longform/SourceGrid.astro';
+import SearchBox from '../../components/longform/SearchBox.astro';
+import EmptyState from '../../components/longform/EmptyState.astro';
+import '../../styles/longform.css';
+const readYaml = (p) => fs.existsSync(p) ? (yaml.load(fs.readFileSync(p, 'utf8')) || []) : [];
+const sources = [...readYaml('data/sources/podcasts.yaml'), ...readYaml('data/sources/video_creators.yaml')];
+---
+<BaseLayout title="Creators | Podcast Signals" description="Longform source and creator library.">
+  <div class="longform-surface">
+    <section class="lf-hero longform-shell"><div class="lf-hero-panel"><span class="lf-kicker">Source Library</span><h1>Creators</h1><p class="lf-lead">视频博主、播客、访谈节目、工程频道、投资与认知科学来源。</p></div></section>
+    <section class="lf-section longform-shell"><SearchBox placeholder="Search creators, tags, categories and languages..." /></section>
+    <section class="lf-section longform-shell">{sources.length ? <SourceGrid sources={sources} /> : <EmptyState title="No creators yet" body="Add sources to podcasts.yaml or video_creators.yaml." />}</section>
+  </div>
+  <script is:inline>
+    const input = document.getElementById('longformSearch');
+    const cards = [...document.querySelectorAll('[data-source-card]')];
+    input?.addEventListener('input', () => { const q = input.value.trim().toLowerCase(); cards.forEach((card) => card.classList.toggle('lf-hidden', q && !card.dataset.sourceCard.toLowerCase().includes(q))); });
+  </script>
+</BaseLayout>
