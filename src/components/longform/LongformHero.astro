@@ -1,0 +1,19 @@
+---
+const { stats = {} } = Astro.props;
+---
+<section class="lf-hero longform-shell">
+  <div class="lf-hero-panel">
+    <span class="lf-kicker">Podcast Signals · 长访谈逐字稿学习库</span>
+    <h1>Podcast Signals</h1>
+    <p class="lf-lead">Long-form AI interviews, transcribed for deep learning.</p>
+    <p class="lf-lead">聚合 AI、产品、创业、技术、投资与认知科学长访谈，生成完整逐字稿、时间轴与学习笔记。</p>
+    <div class="lf-stats">
+      <div class="lf-stat"><b>{stats.sources ?? 0}</b><span>Sources tracked</span></div>
+      <div class="lf-stat"><b>{stats.episodes ?? 0}</b><span>Episodes captured</span></div>
+      <div class="lf-stat"><b>{stats.hours ?? 0}</b><span>Hours transcribed</span></div>
+      <div class="lf-stat"><b>{stats.segments ?? 0}</b><span>Transcript segments</span></div>
+      <div class="lf-stat"><b>{stats.pending ?? 0}</b><span>Pending queue</span></div>
+      <div class="lf-stat"><b>{stats.published ?? 0}</b><span>Published notes</span></div>
+    </div>
+  </div>
+</section>
