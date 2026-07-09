@@ -1,0 +1,28 @@
+---
+import fs from 'node:fs';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import TranscriptCard from '../../components/longform/TranscriptCard.astro';
+import SearchBox from '../../components/longform/SearchBox.astro';
+import TranscriptStats from '../../components/longform/TranscriptStats.astro';
+import EmptyState from '../../components/longform/EmptyState.astro';
+import '../../styles/longform.css';
+const readJson = (p, fallback) => fs.existsSync(p) ? JSON.parse(fs.readFileSync(p, 'utf8')) : fallback;
+const queue = readJson('data/longform/queues/current.json', { episodes: [] });
+const items = (queue.episodes || []).map((e) => ({ ...e, transcript_url: e.transcript_url || `/transcripts/${e.slug || e.id}/` }));
+const stats = { words: items.reduce((s,e)=>s+Number(e.word_count||0),0), hours: Math.round(items.reduce((s,e)=>s+Number(e.duration_seconds||0),0)/3600*10)/10, recent: items.length };
+---
+<BaseLayout title="Transcripts | Podcast Signals" description="完整逐字稿库：搜索、筛选、时间戳跳转与深度阅读。">
+  <div class="longform-surface">
+    <section class="lf-hero longform-shell"><div class="lf-hero-panel"><span class="lf-kicker">Transcript Library</span><h1>完整逐字稿库</h1><p class="lf-lead">搜索标题、来源、嘉宾、标签与完整逐字稿；点击结果进入对应时间戳位置。</p></div></section>
+    <section class="lf-section longform-shell"><SearchBox placeholder="Search transcripts, sources, guests, tags and full text..." /></section>
+    <section class="lf-section longform-shell"><TranscriptStats stats={stats} /></section>
+    <section class="lf-section longform-shell">
+      {items.length ? <div class="lf-grid">{items.map((item) => <TranscriptCard item={item} />)}</div> : <EmptyState title="No transcripts yet" body="有队列但未转录时不会编造逐字稿。完成本地 transcribe.py 后运行 npm run longform:build。" />}
+    </section>
+  </div>
+  <script is:inline>
+    const input = document.getElementById('longformSearch');
+    const cards = [...document.querySelectorAll('[data-longform-card]')];
+    input?.addEventListener('input', () => { const q = input.value.trim().toLowerCase(); cards.forEach((card) => card.classList.toggle('lf-hidden', q && !card.dataset.longformCard.toLowerCase().includes(q))); });
+  </script>
+</BaseLayout>
