@@ -20,7 +20,7 @@ const yt = (url, seconds) => {
     <h1>{transcript.title || episode.title}</h1>
     <p class="lf-lead">{transcript.source_name || episode.source_name} · {(transcript.guest_names || episode.guest_names || []).join(', ') || 'Guest not set'} · {transcript.duration || episode.duration || ''}</p>
     <div class="lf-actions">
-      <OriginalLinkButton url={original} />
+      <OriginalLinkButton href={original} />
       <ReadingModeToggle />
       <button class="lf-btn" type="button" data-copy-citation={`《${transcript.title || episode.title}》 ${original}`}>Copy citation</button>
     </div>
