@@ -1,5 +1,6 @@
 ---
-const { href = '', label = 'Watch original', seconds = null } = Astro.props;
-const url = href && seconds !== null && href.includes('youtube') ? `${href}${href.includes('?') ? '&' : '?'}t=${Math.floor(seconds)}s` : href;
+const { href = '', url: inputUrl = '', label = 'Watch original', seconds = null } = Astro.props;
+const target = href || inputUrl;
+const resolved = target && seconds !== null && target.includes('youtube') ? `${target}${target.includes('?') ? '&' : '?'}t=${Math.floor(seconds)}s` : target;
 ---
-{href ? <a class="lf-btn primary" href={url} target="_blank" rel="noreferrer">{label}</a> : <span class="lf-btn">Original link pending</span>}
+{target ? <a class="lf-btn primary" href={resolved} target="_blank" rel="noreferrer">{label}</a> : <span class="lf-btn">Original link pending</span>}
