@@ -52,6 +52,17 @@ function parseFeed(text, sourceUrl) {
   }).filter(x => x.url && x.title);
 }
 
+function isArticleLike(url, title='') {
+  try {
+    const u = new URL(url);
+    const p = u.pathname.replace(/\/$/,'');
+    if (!p || p === '') return false;
+    if (/(\/tag\/|\/tags\/|\/category\/|\/categories\/|\/author\/|\/page\/|\/search|\/login|\/signup|\/privacy|\/terms)/i.test(p)) return false;
+    if (title.length < 10) return false;
+    return /(\d{4}|news|blog|post|posts|article|articles|research|release|releases|paper|papers|podcast|episode)/i.test(p + ' ' + title);
+  } catch { return false; }
+}
+
 function parseHtmlLinks(text, sourceUrl) {
   const pageTitle = decode(text.match(/<title[^>]*>([\s\S]*?)<\/title>/i)?.[1] || '');
   const out = [];
@@ -67,18 +78,8 @@ function parseHtmlLinks(text, sourceUrl) {
   return out;
 }
 
-function isArticleLike(url, title='') {
-  try {
-    const u = new URL(url);
-    const p = u.pathname.replace(/\/$/,'');
-    if (!p || p === '') return false;
-    if (/(\/tag\/|\/tags\/|\/category\/|\/categories\/|\/author\/|\/page\/|\/search|\/login|\/signup|\/privacy|\/terms)/i.test(p)) return false;
-    if (title.length < 10) return false;
-    return /(\d{4}|news|blog|post|posts|article|articles|research|release|releases|paper|papers|podcast|episode)/i.test(p + ' ' + title);
-  } catch { return false; }
-}
-
 function fetchUrlsFor(e) {
+  if (e.daily_signal_enabled === false || e.longform_only === true) return [];
   const raw = [e.rss_url, e.feed_url, e.atom_url, e.blog_url, e.research_url, e.url, e.homepage_url].filter(Boolean).map(norm);
   const out = [];
   const push = (u) => { if (u && !out.includes(u)) out.push(u); };
@@ -207,7 +208,9 @@ async function sources() {
   for (const f of files) {
     const body = await yload(path.join(dir, f));
     const arr = Array.isArray(body) ? body : [];
-    arr.filter(e => e && typeof e === 'object').forEach(e => out.push({ ...e, _source_file:f }));
+    arr
+      .filter(e => e && typeof e === 'object' && e.daily_signal_enabled !== false && e.longform_only !== true)
+      .forEach(e => out.push({ ...e, _source_file:f }));
   }
   return out;
 }
@@ -419,9 +422,7 @@ async function qa() {
       for (const k of ['title','canonical_url','summary','reason_selected','total_score','dedupe_key','content_type','source_mode','captured_issue']) {
         if (i[k] === undefined || i[k] === null || i[k] === '') errors.push(`item ${i.id} missing ${k}`);
       }
-      if (latest.metadata?.strict_new_only && (i.source_mode !== 'live_fetch' || i.captured_issue !== latest.metadata.issue_date)) {
-        errors.push(`item ${i.id} is not current live_fetch`);
-      }
+      if (latest.metadata?.strict_new_only && (i.source_mode !== 'live_fetch' || i.captured_issue !== latest.metadata.issue_date)) errors.push(`item ${i.id} is not current live_fetch`);
       if (urls.has(i.canonical_url)) errors.push(`duplicate url ${i.canonical_url}`);
       urls.add(i.canonical_url);
       if (keys.has(i.dedupe_key)) errors.push(`duplicate key ${i.dedupe_key}`);
@@ -429,7 +430,9 @@ async function qa() {
     }
   }
   const wf = await fs.readFile(path.join(ROOT, '.github/workflows/daily.yml'), 'utf8').catch(() => '');
-  if (!wf.includes('12 22 * * *')) errors.push('cron is not 12 22 * * *');
+  for (const cron of ['7,17,27,37,47,57 22-23 * * *','7,17,27,37,47,57 0-5 * * *','7,17 6 * * *']) {
+    if (!wf.includes(cron)) errors.push(`missing redundant cron ${cron}`);
+  }
   const readme = await fs.readFile(path.join(ROOT, 'README.md'), 'utf8').catch(() => '');
   if (!readme.includes('不使用付费 API') || !readme.includes('合规边界')) errors.push('README compliance missing');
   if (errors.length) { console.error(errors.join('\n')); process.exit(1); }
