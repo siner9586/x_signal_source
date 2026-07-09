@@ -1,0 +1,25 @@
+{
+  "generated_at": "2026-07-09T00:00:00.000Z",
+  "total": 1,
+  "counts": { "queued": 1 },
+  "episodes": [
+    {
+      "id": "lenny-openai-codex-andrew-ambrosino",
+      "slug": "lenny-openai-codex-andrew-ambrosino",
+      "source_name": "Lenny's Podcast",
+      "creator_name": "Lenny Rachitsky",
+      "guest_names": ["Andrew Ambrosino"],
+      "title": "Why OpenAI is merging Codex and ChatGPT and the future of knowledge work | Andrew Ambrosino",
+      "episode_url": "https://youtu.be/P3KDebPTUrw?si=abkAhzMhiFwXZqhk",
+      "video_url": "https://youtu.be/P3KDebPTUrw?si=abkAhzMhiFwXZqhk",
+      "duration": "01:09:57",
+      "language": "en",
+      "tags": ["OpenAI", "Codex", "ChatGPT", "Knowledge Work", "Product", "AI Agents"],
+      "status": "queued",
+      "transcript_status": "missing",
+      "page_status": "pending",
+      "transcript_url": "/transcripts/lenny-openai-codex-andrew-ambrosino/",
+      "notes_url": "/podcasts/lenny-openai-codex-andrew-ambrosino/"
+    }
+  ]
+}
