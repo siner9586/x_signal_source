@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-07-09T00:00:00.000Z",
+  "total": 1,
+  "counts": {
+    "queued": 1
+  },
+  "episodes": [
+    {
+      "id": "lenny-openai-codex-andrew-ambrosino",
+      "slug": "lenny-openai-codex-andrew-ambrosino",
+      "source_id": "lennys-podcast",
+      "source_name": "Lenny's Podcast",
+      "creator_name": "Lenny Rachitsky",
+      "guest_names": ["Andrew Ambrosino"],
+      "title": "Why OpenAI is merging Codex and ChatGPT and the future of knowledge work | Andrew Ambrosino",
+      "description": "用户指定的首个测试视频，用于完整逐字稿阅读系统验证。",
+      "summary": "用户指定的首个测试视频，用于完整逐字稿阅读系统验证。",
+      "episode_url": "https://youtu.be/P3KDebPTUrw?si=abkAhzMhiFwXZqhk",
+      "video_url": "https://youtu.be/P3KDebPTUrw?si=abkAhzMhiFwXZqhk",
+      "audio_url": "",
+      "canonical_url": "https://youtu.be/P3KDebPTUrw",
+      "published_at": "",
+      "duration": "01:09:57",
+      "duration_seconds": 4197,
+      "language": "en",
+      "tags": ["OpenAI", "Codex", "ChatGPT", "Knowledge Work", "Product", "AI Agents"],
+      "topics": ["OpenAI", "Codex", "Knowledge Work", "AI Agents"],
+      "entities": ["OpenAI", "ChatGPT", "Codex", "Andrew Ambrosino", "Lenny's Podcast"],
+      "source_type": "youtube",
+      "content_type": "longform_video",
+      "status": "queued",
+      "audio_status": "missing",
+      "transcript_status": "missing",
+      "notes_status": "missing",
+      "page_status": "pending",
+      "word_count": 0,
+      "char_count": 0,
+      "segment_count": 0,
+      "chapter_count": 0,
+      "transcript_url": "/transcripts/lenny-openai-codex-andrew-ambrosino/",
+      "notes_url": "/podcasts/lenny-openai-codex-andrew-ambrosino/",
+      "download_command": "node scripts/longform-download-local.mjs --episode-id \"lenny-openai-codex-andrew-ambrosino\" --audio-only --write-subs --write-auto-subs",
+      "register_audio_command": "node scripts/longform-register-audio.mjs --episode-id \"lenny-openai-codex-andrew-ambrosino\" --audio \"local_audio/lenny-openai-codex-andrew-ambrosino.mp3\"",
+      "transcribe_command": "python scripts/transcribe.py --episode-id \"lenny-openai-codex-andrew-ambrosino\" --audio \"local_audio/lenny-openai-codex-andrew-ambrosino.mp3\" --model \"medium\" --language \"en\" --output-dir \"data/transcripts/raw\" --formats \"json,txt,srt,vtt,md\""
+    }
+  ]
+}
