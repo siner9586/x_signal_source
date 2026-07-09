@@ -1,0 +1,5 @@
+---
+const { status = 'queued' } = Astro.props;
+const label = String(status).replace(/_/g, ' ');
+---
+<span class={`lf-tag lf-status status-${status}`}>{label}</span>
