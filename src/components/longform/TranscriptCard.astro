@@ -1,0 +1,13 @@
+---
+const { item } = Astro.props;
+---
+<article class="lf-card" data-longform-card={`${item.title || ''} ${item.source_name || ''} ${(item.guest_names || []).join(' ')} ${(item.tags || []).join(' ')}`}>
+  <span class="lf-pill">{item.source_name || 'Transcript'} · {item.duration || ''}</span>
+  <h3>{item.title}</h3>
+  <p>{item.word_count || 0} words · {item.segment_count || 0} segments · {item.chapter_count || 0} chapters · {item.model || 'model pending'}</p>
+  <div class="lf-meta">{(item.tags || []).slice(0, 6).map((tag) => <span class="lf-tag">{tag}</span>)}</div>
+  <div class="lf-actions">
+    <a class="lf-btn primary" href={item.transcript_url || `/transcripts/${item.slug}/`}>Read transcript</a>
+    {item.video_url && <a class="lf-btn" href={item.video_url} target="_blank" rel="noreferrer">Watch original</a>}
+  </div>
+</article>
