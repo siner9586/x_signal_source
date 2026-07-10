@@ -2,6 +2,7 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 
 const ROOT = process.cwd();
+const DAILY_GUARANTEE = 'before_08_bjt';
 const exists = async (p) => !!(await fs.access(p).then(() => true).catch(() => false));
 const read = async (p) => fs.readFile(path.join(ROOT, p), 'utf8').catch(() => '');
 const rjson = async (p, fallback = null) => {
@@ -39,6 +40,7 @@ const expectedCrons = [
 for (const cron of expectedCrons) {
   if (!wf.includes(cron)) errors.push(`missing redundant cron ${cron}`);
 }
+if (DAILY_GUARANTEE !== 'before_08_bjt') errors.push('daily guarantee marker corrupted');
 if (!wf.includes('push:')) errors.push('daily workflow must include push self-heal trigger');
 if (!wf.includes('Hard requirement: Beijing/Taipei latest issue should be generated before 08:00')) errors.push('daily workflow must document before-08:00 update guarantee');
 if (!wf.includes('node-version: \'24\'') && !wf.includes('node-version: "24"')) errors.push('workflow must use Node 24');
