@@ -3,6 +3,7 @@ import path from 'node:path';
 
 const ROOT = process.cwd();
 const DAILY_GUARANTEE = 'before_08_bjt';
+const BACKFILL_GUARANTEE = 'daily_backfill_guard_0750_bjt';
 const exists = async (p) => !!(await fs.access(p).then(() => true).catch(() => false));
 const read = async (p) => fs.readFile(path.join(ROOT, p), 'utf8').catch(() => '');
 const rjson = async (p, fallback = null) => {
@@ -17,6 +18,7 @@ const requiredFiles = [
   'README.md',
   'astro.config.mjs',
   '.github/workflows/daily.yml',
+  '.github/workflows/daily-backfill.yml',
   'data/sources/source_policy.md',
   'src/pages/index.astro',
   'src/pages/sources.astro',
@@ -40,8 +42,12 @@ const expectedCrons = [
 for (const cron of expectedCrons) {
   if (!wf.includes(cron)) errors.push(`missing redundant cron ${cron}`);
 }
+const backfill = await read('.github/workflows/daily-backfill.yml');
 if (DAILY_GUARANTEE !== 'before_08_bjt') errors.push('daily guarantee marker corrupted');
+if (BACKFILL_GUARANTEE !== 'daily_backfill_guard_0750_bjt') errors.push('backfill guarantee marker corrupted');
 if (!wf.includes('push:')) errors.push('daily workflow must include push self-heal trigger');
+if (!backfill.includes("50 23 * * *")) errors.push('daily backfill must run at 07:50 BJT/Taipei');
+if (!backfill.includes('npm run daily')) errors.push('daily backfill must force generate missing issue');
 if (!wf.includes('Hard requirement: Beijing/Taipei latest issue should be generated before 08:00')) errors.push('daily workflow must document before-08:00 update guarantee');
 if (!wf.includes('node-version: \'24\'') && !wf.includes('node-version: "24"')) errors.push('workflow must use Node 24');
 if (!wf.includes('Remote idempotency guard')) errors.push('missing remote idempotency guard');
