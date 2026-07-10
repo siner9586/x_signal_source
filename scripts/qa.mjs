@@ -32,13 +32,15 @@ for (const file of requiredFiles) {
 
 const wf = await read('.github/workflows/daily.yml');
 const expectedCrons = [
-  "7,17,27,37,47,57 22-23 * * *",
+  "2,7,12,17,22,27,32,37,42,47,52,57 21-23 * * *",
   "7,17,27,37,47,57 0-5 * * *",
   "7,17 6 * * *"
 ];
 for (const cron of expectedCrons) {
   if (!wf.includes(cron)) errors.push(`missing redundant cron ${cron}`);
 }
+if (!wf.includes('push:')) errors.push('daily workflow must include push self-heal trigger');
+if (!wf.includes('Hard requirement: Beijing/Taipei latest issue should be generated before 08:00')) errors.push('daily workflow must document before-08:00 update guarantee');
 if (!wf.includes('node-version: \'24\'') && !wf.includes('node-version: "24"')) errors.push('workflow must use Node 24');
 if (!wf.includes('Remote idempotency guard')) errors.push('missing remote idempotency guard');
 if (!wf.includes('gh api "repos/${GITHUB_REPOSITORY}/contents/${ISSUE_FILE}?ref=${GITHUB_REF_NAME}"')) errors.push('missing remote issue existence check');
