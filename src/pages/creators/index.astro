@@ -1,11 +1,12 @@
 ---
-import { readYamlListSync } from '../../lib/simpleYaml.mjs';
+import fs from 'node:fs';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import SourceGrid from '../../components/longform/SourceGrid.astro';
 import SearchBox from '../../components/longform/SearchBox.astro';
 import EmptyState from '../../components/longform/EmptyState.astro';
 import '../../styles/longform.css';
-const sources = [...readYamlListSync('data/sources/podcasts.yaml'), ...readYamlListSync('data/sources/video_creators.yaml')];
+const sourceData = fs.existsSync('public/index-data/sources.json') ? JSON.parse(fs.readFileSync('public/index-data/sources.json', 'utf8')) : { longform_sources: [] };
+const sources = sourceData.longform_sources || [];
 ---
 <BaseLayout title="Creators | Podcast Signals" description="Longform source and creator library.">
   <div class="longform-surface">

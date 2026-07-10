@@ -1,12 +1,10 @@
 ---
 import fs from 'node:fs';
-import path from 'node:path';
-import { readYamlListSync } from '../lib/simpleYaml.mjs';
 import BaseLayout from '../layouts/BaseLayout.astro';
-const dir = 'data/sources';
-const excluded = new Set(['query_templates.yaml', 'blocklist.yaml']);
-const files = fs.existsSync(dir) ? fs.readdirSync(dir).filter((f) => f.endsWith('.yaml') && !excluded.has(f)) : [];
-const entries = files.flatMap((file) => readYamlListSync(path.join(dir, file)).filter((item) => item && typeof item === 'object' && (item.homepage_url || item.x_url || item.blog_url || item.github_url || item.url)).map((item) => ({ ...item, source_file: file })));
+const readJson = (file, fallback) => fs.existsSync(file) ? JSON.parse(fs.readFileSync(file, 'utf8')) : fallback;
+const sourceData = readJson('public/index-data/sources.json', { source_files: [], sources: [] });
+const files = sourceData.source_files || [];
+const entries = sourceData.sources || [];
 const categories = [...new Set(entries.map((e) => e.category || 'uncategorized'))].sort();
 ---
 <BaseLayout title="Sources | Today’s Signal Source">

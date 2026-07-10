@@ -1,6 +1,5 @@
 ---
 import fs from 'node:fs';
-import { readYamlListSync } from '../../lib/simpleYaml.mjs';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import LongformHero from '../../components/longform/LongformHero.astro';
 import EpisodeCard from '../../components/longform/EpisodeCard.astro';
@@ -12,7 +11,8 @@ const readJson = (p, f) => fs.existsSync(p) ? JSON.parse(fs.readFileSync(p, 'utf
 const slugify = (s) => String(s || 'episode').toLowerCase().replace(/[^a-z0-9\u4e00-\u9fa5]+/g, '-').replace(/^-+|-+$/g, '').slice(0,96);
 const queue = readJson('data/longform/queues/current.json', { episodes: [], counts: {} });
 const episodes = (queue.episodes || []).map(e => ({ ...e, slug: e.slug || slugify(`${e.source_name}-${e.title}`) }));
-const sources = [...readYamlListSync('data/sources/podcasts.yaml'), ...readYamlListSync('data/sources/video_creators.yaml')].map(s => ({ ...s, source_id: s.source_id || s.id }));
+const sourceData = readJson('public/index-data/sources.json', { longform_sources: [] });
+const sources = sourceData.longform_sources || [];
 const published = episodes.filter(e => e.transcript_status === 'ready' || e.page_status === 'published');
 const hours = Math.round(episodes.reduce((sum, e) => sum + Number(e.duration_seconds || 0), 0) / 3600 * 10) / 10;
 const stats = { sources: sources.length, episodes: episodes.length, hours, segments: episodes.reduce((sum,e)=>sum+Number(e.segment_count||0),0), pending: episodes.filter(e => e.status !== 'transcript_published').length, published: published.length };

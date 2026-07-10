@@ -1,5 +1,6 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
+import { assertNoBuildImports } from './check-build-imports.mjs';
 
 const ROOT = process.cwd();
 const DAILY_GUARANTEE = 'before_08_bjt';
@@ -13,6 +14,11 @@ const rjson = async (p, fallback = null) => {
 };
 
 const errors = [];
+try {
+  await assertNoBuildImports(ROOT);
+} catch (error) {
+  errors.push(error.message);
+}
 const requiredFiles = [
   'package.json',
   'README.md',
@@ -49,7 +55,7 @@ if (!wf.includes('push:')) errors.push('daily workflow must include push self-he
 if (!backfill.includes("50 23 * * *")) errors.push('daily backfill must run at 07:50 BJT/Taipei');
 if (!backfill.includes('npm run daily')) errors.push('daily backfill must force generate missing issue');
 if (!wf.includes('Hard requirement: Beijing/Taipei latest issue should be generated before 08:00')) errors.push('daily workflow must document before-08:00 update guarantee');
-if (!wf.includes('node-version: \'24\'') && !wf.includes('node-version: "24"')) errors.push('workflow must use Node 24');
+if (!wf.includes("node-version: '22.16.0'") && !wf.includes('node-version: "22.16.0"')) errors.push('workflow must use Node 22.16.0');
 if (!wf.includes('Remote idempotency guard')) errors.push('missing remote idempotency guard');
 if (!wf.includes('gh api "repos/${GITHUB_REPOSITORY}/contents/${ISSUE_FILE}?ref=${GITHUB_REF_NAME}"')) errors.push('missing remote issue existence check');
 if (!wf.includes('steps.guard.outputs.exists != \'true\'')) errors.push('pipeline steps must be guarded by idempotency output');
@@ -57,7 +63,12 @@ if (!wf.includes('steps.guard.outputs.exists != \'true\'')) errors.push('pipelin
 const pkg = await rjson('package.json', {});
 if (!pkg.scripts?.daily?.includes('build:issue')) errors.push('daily script must generate issue data');
 if (pkg.scripts?.qa !== 'node scripts/qa.mjs') errors.push('qa script must point to scripts/qa.mjs');
-if (!String(pkg.engines?.node || '').includes('22.12.0')) errors.push('package engines must require Node >=22.12.0');
+if (!String(pkg.engines?.node || '').includes('22.16.0')) errors.push('package engines must require Node 22.16.0 or newer');
+
+const sourceData = await rjson('public/index-data/sources.json', null);
+if (!sourceData || !Array.isArray(sourceData.sources) || !Array.isArray(sourceData.longform_sources)) {
+  errors.push('generated source JSON is missing or invalid; run npm run generate:source-data');
+}
 
 const latest = await rjson('public/index-data/latest.json', null);
 if (latest) {

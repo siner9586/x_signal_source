@@ -1,13 +1,19 @@
 ---
 import fs from 'node:fs';
-import yaml from 'js-yaml';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import SourceCard from '../../components/longform/SourceCard.astro';
 import '../../styles/longform.css';
-const readYaml = (p) => fs.existsSync(p) ? (yaml.load(fs.readFileSync(p, 'utf8')) || []) : [];
-const slugify = (s) => String(s || 'source').toLowerCase().replace(/[^a-z0-9一-龥]+/g, '-').replace(/^-+|-+$/g, '').slice(0,96);
-const sources = [...readYaml('data/sources/podcasts.yaml'), ...readYaml('data/sources/video_creators.yaml')];
-export function getStaticPaths() { return sources.map((source) => ({ params: { slug: slugify(source.id || source.name) }, props: { source } })); }
+export function getStaticPaths() {
+  const sourceData = fs.existsSync('public/index-data/sources.json')
+    ? JSON.parse(fs.readFileSync('public/index-data/sources.json', 'utf8'))
+    : { longform_sources: [] };
+  const slugify = (value) => String(value || 'source').toLowerCase()
+    .replace(/[^a-z0-9一-龥]+/g, '-').replace(/^-+|-+$/g, '').slice(0, 96);
+  return (sourceData.longform_sources || []).map((source) => ({
+    params: { slug: slugify(source.id || source.name) },
+    props: { source }
+  }));
+}
 const { source } = Astro.props;
 ---
 <BaseLayout title={`${source.name} | Podcast Signals`} description="Longform source profile.">

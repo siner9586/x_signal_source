@@ -9,9 +9,10 @@ import ReadingModeToggle from '../../components/longform/ReadingModeToggle.astro
 import EmptyState from '../../components/longform/EmptyState.astro';
 import '../../styles/longform.css';
 const readJson = (p, fallback) => fs.existsSync(p) ? JSON.parse(fs.readFileSync(p, 'utf8')) : fallback;
-const slugify = (s) => String(s || 'episode').toLowerCase().replace(/[^a-z0-9一-龥]+/g, '-').replace(/^-+|-+$/g, '').slice(0,96);
 export function getStaticPaths() {
-  const queue = readJson('data/longform/queues/current.json', { episodes: [] });
+  const queue = fs.existsSync('data/longform/queues/current.json')
+    ? JSON.parse(fs.readFileSync('data/longform/queues/current.json', 'utf8'))
+    : { episodes: [] };
   return (queue.episodes || []).map((episode) => ({ params: { slug: episode.slug || episode.id }, props: { episode } }));
 }
 const { episode } = Astro.props;

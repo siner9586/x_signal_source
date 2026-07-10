@@ -4,9 +4,10 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import EmptyState from '../../components/longform/EmptyState.astro';
 import EpisodeCard from '../../components/longform/EpisodeCard.astro';
 import '../../styles/longform.css';
-const readJson = (p, fallback) => fs.existsSync(p) ? JSON.parse(fs.readFileSync(p, 'utf8')) : fallback;
 export function getStaticPaths() {
-  const queue = readJson('data/longform/queues/current.json', { episodes: [] });
+  const queue = fs.existsSync('data/longform/queues/current.json')
+    ? JSON.parse(fs.readFileSync('data/longform/queues/current.json', 'utf8'))
+    : { episodes: [] };
   return (queue.episodes || []).map((episode) => ({ params: { slug: episode.slug || episode.id }, props: { episode } }));
 }
 const { episode } = Astro.props;

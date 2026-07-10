@@ -1,7 +1,7 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import crypto from 'node:crypto';
-import yaml from 'js-yaml';
+import { load } from 'js-yaml';
 
 const ROOT = process.cwd();
 const DATA = path.join(ROOT, 'data');
@@ -27,7 +27,7 @@ const decode = (s='') => strip(s).replace(/&amp;/g,'&').replace(/&lt;/g,'<').rep
 const norm = (u) => { try { const x = new URL(u); x.hash = ''; ['utm_source','utm_medium','utm_campaign','utm_term','utm_content','ref'].forEach(k => x.searchParams.delete(k)); return x.toString().replace(/\/$/,''); } catch { return u || ''; } };
 const dom = (u) => { try { return new URL(u).hostname.replace(/^www\./,''); } catch { return ''; } };
 const absolutize = (href, base) => { try { return norm(new URL(href, base).toString()); } catch { return ''; } };
-const yload = async (p) => yaml.load(await fs.readFile(p, 'utf8')) || [];
+const yload = async (p) => load(await fs.readFile(p, 'utf8')) || [];
 
 function tag(block, name) {
   const m = block.match(new RegExp(`<${name}[^>]*>([\\s\\S]*?)<\\/${name}>`, 'i'));
@@ -430,7 +430,7 @@ async function qa() {
     }
   }
   const wf = await fs.readFile(path.join(ROOT, '.github/workflows/daily.yml'), 'utf8').catch(() => '');
-  for (const cron of ['7,17,27,37,47,57 22-23 * * *','7,17,27,37,47,57 0-5 * * *','7,17 6 * * *']) {
+  for (const cron of ['2,7,12,17,22,27,32,37,42,47,52,57 21-23 * * *','7,17,27,37,47,57 0-5 * * *','7,17 6 * * *']) {
     if (!wf.includes(cron)) errors.push(`missing redundant cron ${cron}`);
   }
   const readme = await fs.readFile(path.join(ROOT, 'README.md'), 'utf8').catch(() => '');

@@ -1,0 +1,3738 @@
+{
+  "generated_at": "2026-07-10T03:23:10.232Z",
+  "source_files": [
+    "ai_apps_infra_vc_extra.yaml",
+    "curated_threads.yaml",
+    "curated_x_articles.yaml",
+    "external_sources.yaml",
+    "manual_links.yaml",
+    "manual_longform_links.yaml",
+    "media.yaml",
+    "podcasts.yaml",
+    "research.yaml",
+    "video_creators.yaml",
+    "x_accounts.yaml"
+  ],
+  "sources": [
+    {
+      "name": "Notion AI",
+      "category": "ai_product_company",
+      "priority": 4,
+      "homepage_url": "https://www.notion.com/product/ai",
+      "x_url": "https://x.com/NotionHQ",
+      "tags": [
+        "ai_product",
+        "workspace"
+      ],
+      "notes": "工作空间 AI 与知识管理产品入口。",
+      "source_file": "ai_apps_infra_vc_extra.yaml"
+    },
+    {
+      "name": "Canva AI",
+      "category": "ai_product_company",
+      "priority": 4,
+      "homepage_url": "https://www.canva.com/ai/",
+      "x_url": "https://x.com/canva",
+      "tags": [
+        "design_ai",
+        "generative_media"
+      ],
+      "source_file": "ai_apps_infra_vc_extra.yaml"
+    },
+    {
+      "name": "Runway",
+      "category": "ai_product_company",
+      "priority": 5,
+      "homepage_url": "https://runwayml.com/",
+      "research_url": "https://research.runwayml.com/",
+      "x_url": "https://x.com/runwayml",
+      "tags": [
+        "video_ai",
+        "multimodal",
+        "research"
+      ],
+      "source_file": "ai_apps_infra_vc_extra.yaml"
+    },
+    {
+      "name": "ElevenLabs",
+      "category": "ai_product_company",
+      "priority": 5,
+      "homepage_url": "https://elevenlabs.io/",
+      "blog_url": "https://elevenlabs.io/blog",
+      "x_url": "https://x.com/elevenlabsio",
+      "tags": [
+        "voice_ai",
+        "audio"
+      ],
+      "source_file": "ai_apps_infra_vc_extra.yaml"
+    },
+    {
+      "name": "Midjourney",
+      "category": "ai_product_company",
+      "priority": 4,
+      "homepage_url": "https://www.midjourney.com/",
+      "x_url": "https://x.com/midjourney",
+      "tags": [
+        "image_ai",
+        "creative_tools"
+      ],
+      "source_file": "ai_apps_infra_vc_extra.yaml"
+    },
+    {
+      "name": "Microsoft AutoGen",
+      "category": "ai_open_source_project",
+      "priority": 5,
+      "homepage_url": "https://github.com/microsoft/autogen",
+      "github_url": "https://github.com/microsoft/autogen",
+      "blog_url": "https://blogs.microsoft.com/ai/",
+      "research_url": "https://www.microsoft.com/en-us/research/",
+      "tags": [
+        "agents",
+        "microsoft",
+        "open_source"
+      ],
+      "source_file": "ai_apps_infra_vc_extra.yaml"
+    },
+    {
+      "name": "CrewAI",
+      "category": "ai_open_source_project",
+      "priority": 4,
+      "homepage_url": "https://www.crewai.com/",
+      "github_url": "https://github.com/crewAIInc/crewAI",
+      "x_url": "https://x.com/crewAIInc",
+      "tags": [
+        "agents",
+        "multi_agent"
+      ],
+      "source_file": "ai_apps_infra_vc_extra.yaml"
+    },
+    {
+      "name": "Browser Use",
+      "category": "ai_open_source_project",
+      "priority": 4,
+      "homepage_url": "https://github.com/browser-use/browser-use",
+      "github_url": "https://github.com/browser-use/browser-use",
+      "tags": [
+        "computer_use",
+        "browser_agent"
+      ],
+      "source_file": "ai_apps_infra_vc_extra.yaml"
+    },
+    {
+      "name": "Windsurf",
+      "category": "ai_product_company",
+      "priority": 4,
+      "homepage_url": "https://windsurf.com/",
+      "x_url": "https://x.com/windsurf_ai",
+      "tags": [
+        "ai_coding",
+        "developer_tools"
+      ],
+      "source_file": "ai_apps_infra_vc_extra.yaml"
+    },
+    {
+      "name": "Baseten Blog",
+      "category": "ai_infra_source",
+      "priority": 4,
+      "homepage_url": "https://www.baseten.co/blog/",
+      "tags": [
+        "inference",
+        "ai_infra"
+      ],
+      "source_file": "ai_apps_infra_vc_extra.yaml"
+    },
+    {
+      "name": "Databricks Blog",
+      "category": "ai_infra_source",
+      "priority": 4,
+      "homepage_url": "https://www.databricks.com/blog",
+      "tags": [
+        "data_ai",
+        "mlops"
+      ],
+      "source_file": "ai_apps_infra_vc_extra.yaml"
+    },
+    {
+      "name": "Snowflake Blog",
+      "category": "ai_infra_source",
+      "priority": 4,
+      "homepage_url": "https://www.snowflake.com/en/blog/",
+      "tags": [
+        "data_cloud",
+        "enterprise_ai"
+      ],
+      "source_file": "ai_apps_infra_vc_extra.yaml"
+    },
+    {
+      "name": "MongoDB Blog",
+      "category": "ai_infra_source",
+      "priority": 3,
+      "homepage_url": "https://www.mongodb.com/blog",
+      "tags": [
+        "database",
+        "developer"
+      ],
+      "source_file": "ai_apps_infra_vc_extra.yaml"
+    },
+    {
+      "name": "Docker Blog",
+      "category": "ai_infra_source",
+      "priority": 3,
+      "homepage_url": "https://www.docker.com/blog/",
+      "tags": [
+        "developer_tools",
+        "infra"
+      ],
+      "source_file": "ai_apps_infra_vc_extra.yaml"
+    },
+    {
+      "name": "Kubernetes Blog",
+      "category": "ai_infra_source",
+      "priority": 3,
+      "homepage_url": "https://kubernetes.io/blog/",
+      "tags": [
+        "cloud_native",
+        "infra"
+      ],
+      "source_file": "ai_apps_infra_vc_extra.yaml"
+    },
+    {
+      "name": "South Park Commons",
+      "category": "vc_source",
+      "priority": 4,
+      "homepage_url": "https://www.southparkcommons.com/",
+      "x_url": "https://x.com/southpkcommons",
+      "tags": [
+        "startup",
+        "community",
+        "podcast"
+      ],
+      "source_file": "ai_apps_infra_vc_extra.yaml"
+    },
+    {
+      "name": "Redpoint Ventures",
+      "category": "vc_source",
+      "priority": 4,
+      "homepage_url": "https://www.redpoint.com/",
+      "blog_url": "https://www.redpoint.com/blog/",
+      "x_url": "https://x.com/redpointvc",
+      "tags": [
+        "vc",
+        "ai",
+        "startup"
+      ],
+      "source_file": "ai_apps_infra_vc_extra.yaml"
+    },
+    {
+      "name": "Bessemer Venture Partners",
+      "category": "vc_source",
+      "priority": 4,
+      "homepage_url": "https://www.bvp.com/atlas",
+      "x_url": "https://x.com/BessemerVP",
+      "tags": [
+        "vc",
+        "atlas",
+        "cloud"
+      ],
+      "source_file": "ai_apps_infra_vc_extra.yaml"
+    },
+    {
+      "name": "Greylock",
+      "category": "vc_source",
+      "priority": 4,
+      "homepage_url": "https://greylock.com/greymatter/",
+      "x_url": "https://x.com/greylockvc",
+      "tags": [
+        "vc",
+        "greymatter",
+        "startup"
+      ],
+      "source_file": "ai_apps_infra_vc_extra.yaml"
+    },
+    {
+      "name": "Lightspeed",
+      "category": "vc_source",
+      "priority": 4,
+      "homepage_url": "https://lsvp.com/stories/",
+      "x_url": "https://x.com/lightspeedvp",
+      "tags": [
+        "vc",
+        "startups"
+      ],
+      "source_file": "ai_apps_infra_vc_extra.yaml"
+    },
+    {
+      "name": "Index Ventures",
+      "category": "vc_source",
+      "priority": 4,
+      "homepage_url": "https://www.indexventures.com/perspectives/",
+      "x_url": "https://x.com/indexventures",
+      "tags": [
+        "vc",
+        "perspectives"
+      ],
+      "source_file": "ai_apps_infra_vc_extra.yaml"
+    },
+    {
+      "name": "Benchmark",
+      "category": "vc_source",
+      "priority": 4,
+      "homepage_url": "https://www.benchmark.com/",
+      "x_url": "https://x.com/benchmark",
+      "tags": [
+        "vc",
+        "startups"
+      ],
+      "source_file": "ai_apps_infra_vc_extra.yaml"
+    },
+    {
+      "name": "OpenAI",
+      "category": "ai_company_official",
+      "priority": 5,
+      "homepage_url": "https://openai.com/",
+      "blog_url": "https://openai.com/news/",
+      "research_url": "https://openai.com/research/",
+      "docs_url": "https://platform.openai.com/docs",
+      "github_url": "https://github.com/openai",
+      "x_url": "https://x.com/OpenAI",
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "notes": "官方发布、研究、模型与开发者文档优先来源。",
+      "source_file": "external_sources.yaml"
+    },
+    {
+      "name": "Anthropic",
+      "category": "ai_company_official",
+      "priority": 5,
+      "homepage_url": "https://www.anthropic.com/",
+      "blog_url": "https://www.anthropic.com/news",
+      "research_url": "https://www.anthropic.com/research",
+      "docs_url": "https://docs.anthropic.com/",
+      "x_url": "https://x.com/AnthropicAI",
+      "tags": [
+        "ai_models",
+        "safety",
+        "official"
+      ],
+      "source_file": "external_sources.yaml"
+    },
+    {
+      "name": "Google DeepMind",
+      "category": "ai_company_official",
+      "priority": 5,
+      "homepage_url": "https://deepmind.google/",
+      "blog_url": "https://deepmind.google/discover/blog/",
+      "research_url": "https://deepmind.google/research/",
+      "youtube_url": "https://www.youtube.com/@googledeepmind",
+      "x_url": "https://x.com/GoogleDeepMind",
+      "tags": [
+        "research",
+        "multimodal",
+        "science",
+        "official"
+      ],
+      "source_file": "external_sources.yaml"
+    },
+    {
+      "name": "Google AI",
+      "category": "ai_company_official",
+      "priority": 5,
+      "homepage_url": "https://blog.google/technology/ai/",
+      "research_url": "https://research.google/",
+      "x_url": "https://x.com/GoogleAI",
+      "tags": [
+        "google",
+        "ai",
+        "official"
+      ],
+      "source_file": "external_sources.yaml"
+    },
+    {
+      "name": "Meta AI",
+      "category": "ai_company_official",
+      "priority": 5,
+      "homepage_url": "https://ai.meta.com/",
+      "blog_url": "https://ai.meta.com/blog/",
+      "research_url": "https://ai.meta.com/research/",
+      "github_url": "https://github.com/facebookresearch",
+      "x_url": "https://x.com/AIatMeta",
+      "tags": [
+        "open_source_model",
+        "research",
+        "llama"
+      ],
+      "source_file": "external_sources.yaml"
+    },
+    {
+      "name": "xAI",
+      "category": "ai_company_official",
+      "priority": 5,
+      "homepage_url": "https://x.ai/",
+      "x_url": "https://x.com/xai",
+      "tags": [
+        "ai_models",
+        "reasoning"
+      ],
+      "source_file": "external_sources.yaml"
+    },
+    {
+      "name": "Mistral AI",
+      "category": "ai_company_official",
+      "priority": 5,
+      "homepage_url": "https://mistral.ai/",
+      "blog_url": "https://mistral.ai/news",
+      "docs_url": "https://docs.mistral.ai/",
+      "github_url": "https://github.com/mistralai",
+      "x_url": "https://x.com/MistralAI",
+      "tags": [
+        "open_model",
+        "european_ai"
+      ],
+      "source_file": "external_sources.yaml"
+    },
+    {
+      "name": "Cohere",
+      "category": "ai_company_official",
+      "priority": 4,
+      "homepage_url": "https://cohere.com/",
+      "blog_url": "https://cohere.com/blog",
+      "docs_url": "https://docs.cohere.com/",
+      "x_url": "https://x.com/cohere",
+      "tags": [
+        "enterprise_ai",
+        "rag"
+      ],
+      "source_file": "external_sources.yaml"
+    },
+    {
+      "name": "Stability AI",
+      "category": "ai_company_official",
+      "priority": 4,
+      "homepage_url": "https://stability.ai/",
+      "blog_url": "https://stability.ai/news",
+      "github_url": "https://github.com/Stability-AI",
+      "x_url": "https://x.com/StabilityAI",
+      "tags": [
+        "generative_media",
+        "image"
+      ],
+      "source_file": "external_sources.yaml"
+    },
+    {
+      "name": "NVIDIA AI",
+      "category": "ai_infra_official",
+      "priority": 5,
+      "homepage_url": "https://blogs.nvidia.com/blog/category/deep-learning/",
+      "blog_url": "https://developer.nvidia.com/blog/",
+      "github_url": "https://github.com/NVIDIA",
+      "x_url": "https://x.com/NVIDIAAI",
+      "tags": [
+        "gpu",
+        "inference",
+        "ai_infra"
+      ],
+      "source_file": "external_sources.yaml"
+    },
+    {
+      "name": "Perplexity",
+      "category": "ai_product_company",
+      "priority": 4,
+      "homepage_url": "https://www.perplexity.ai/",
+      "x_url": "https://x.com/perplexity_ai",
+      "tags": [
+        "ai_search",
+        "product"
+      ],
+      "source_file": "external_sources.yaml"
+    },
+    {
+      "name": "Cursor",
+      "category": "ai_product_company",
+      "priority": 5,
+      "homepage_url": "https://www.cursor.com/",
+      "x_url": "https://x.com/cursor_ai",
+      "tags": [
+        "ai_coding",
+        "developer_tools"
+      ],
+      "source_file": "external_sources.yaml"
+    },
+    {
+      "name": "Replit",
+      "category": "ai_product_company",
+      "priority": 4,
+      "homepage_url": "https://replit.com/",
+      "blog_url": "https://blog.replit.com/",
+      "x_url": "https://x.com/replit",
+      "tags": [
+        "ai_coding",
+        "cloud_dev"
+      ],
+      "source_file": "external_sources.yaml"
+    },
+    {
+      "name": "Lovable",
+      "category": "ai_product_company",
+      "priority": 4,
+      "homepage_url": "https://lovable.dev/",
+      "x_url": "https://x.com/lovable_dev",
+      "tags": [
+        "ai_app_builder",
+        "vibe_coding"
+      ],
+      "source_file": "external_sources.yaml"
+    },
+    {
+      "name": "Vercel AI",
+      "category": "ai_infra_official",
+      "priority": 5,
+      "homepage_url": "https://vercel.com/ai",
+      "blog_url": "https://vercel.com/blog",
+      "github_url": "https://github.com/vercel/ai",
+      "x_url": "https://x.com/vercel",
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "source_file": "external_sources.yaml"
+    },
+    {
+      "name": "GitHub Copilot",
+      "category": "ai_product_company",
+      "priority": 5,
+      "homepage_url": "https://github.com/features/copilot",
+      "blog_url": "https://github.blog/",
+      "x_url": "https://x.com/github",
+      "tags": [
+        "ai_coding",
+        "developer_tools"
+      ],
+      "source_file": "external_sources.yaml"
+    },
+    {
+      "name": "Hugging Face",
+      "category": "ai_platform_official",
+      "priority": 5,
+      "homepage_url": "https://huggingface.co/",
+      "blog_url": "https://huggingface.co/blog",
+      "research_url": "https://huggingface.co/papers",
+      "github_url": "https://github.com/huggingface",
+      "x_url": "https://x.com/huggingface",
+      "tags": [
+        "open_source",
+        "papers",
+        "models"
+      ],
+      "source_file": "external_sources.yaml"
+    },
+    {
+      "name": "LangChain",
+      "category": "ai_open_source_project",
+      "priority": 5,
+      "homepage_url": "https://www.langchain.com/",
+      "blog_url": "https://blog.langchain.com/",
+      "github_url": "https://github.com/langchain-ai/langchain",
+      "x_url": "https://x.com/LangChainAI",
+      "tags": [
+        "agents",
+        "rag",
+        "framework"
+      ],
+      "source_file": "external_sources.yaml"
+    },
+    {
+      "name": "LlamaIndex",
+      "category": "ai_open_source_project",
+      "priority": 5,
+      "homepage_url": "https://www.llamaindex.ai/",
+      "blog_url": "https://www.llamaindex.ai/blog",
+      "github_url": "https://github.com/run-llama/llama_index",
+      "x_url": "https://x.com/llama_index",
+      "tags": [
+        "rag",
+        "agents",
+        "framework"
+      ],
+      "source_file": "external_sources.yaml"
+    },
+    {
+      "name": "Cloudflare Blog",
+      "category": "ai_infra_source",
+      "priority": 4,
+      "homepage_url": "https://blog.cloudflare.com/",
+      "docs_url": "https://developers.cloudflare.com/",
+      "tags": [
+        "edge_ai",
+        "infra",
+        "cloud"
+      ],
+      "source_file": "external_sources.yaml"
+    },
+    {
+      "name": "Supabase Blog",
+      "category": "ai_infra_source",
+      "priority": 4,
+      "homepage_url": "https://supabase.com/blog",
+      "tags": [
+        "database",
+        "backend",
+        "startups"
+      ],
+      "source_file": "external_sources.yaml"
+    },
+    {
+      "name": "Neon Blog",
+      "category": "ai_infra_source",
+      "priority": 4,
+      "homepage_url": "https://neon.com/blog",
+      "tags": [
+        "postgres",
+        "serverless",
+        "database"
+      ],
+      "source_file": "external_sources.yaml"
+    },
+    {
+      "name": "Modal Blog",
+      "category": "ai_infra_source",
+      "priority": 4,
+      "homepage_url": "https://modal.com/blog",
+      "tags": [
+        "compute",
+        "inference",
+        "ai_infra"
+      ],
+      "source_file": "external_sources.yaml"
+    },
+    {
+      "name": "Together AI Blog",
+      "category": "ai_infra_source",
+      "priority": 4,
+      "homepage_url": "https://www.together.ai/blog",
+      "tags": [
+        "inference",
+        "open_models"
+      ],
+      "source_file": "external_sources.yaml"
+    },
+    {
+      "name": "Fireworks AI Blog",
+      "category": "ai_infra_source",
+      "priority": 4,
+      "homepage_url": "https://fireworks.ai/blog",
+      "tags": [
+        "inference",
+        "serving"
+      ],
+      "source_file": "external_sources.yaml"
+    },
+    {
+      "name": "AWS Machine Learning Blog",
+      "category": "ai_infra_source",
+      "priority": 4,
+      "homepage_url": "https://aws.amazon.com/blogs/machine-learning/",
+      "tags": [
+        "cloud",
+        "mlops"
+      ],
+      "source_file": "external_sources.yaml"
+    },
+    {
+      "name": "Google Cloud AI Blog",
+      "category": "ai_infra_source",
+      "priority": 4,
+      "homepage_url": "https://cloud.google.com/blog/products/ai-machine-learning",
+      "tags": [
+        "cloud",
+        "ai_infra"
+      ],
+      "source_file": "external_sources.yaml"
+    },
+    {
+      "name": "Azure AI Blog",
+      "category": "ai_infra_source",
+      "priority": 4,
+      "homepage_url": "https://azure.microsoft.com/en-us/blog/topics/ai-machine-learning/",
+      "tags": [
+        "cloud",
+        "enterprise_ai"
+      ],
+      "source_file": "external_sources.yaml"
+    },
+    {
+      "name": "a16z AI",
+      "category": "vc_source",
+      "priority": 5,
+      "homepage_url": "https://a16z.com/ai/",
+      "podcast_url": "https://a16z.com/podcasts/",
+      "x_url": "https://x.com/a16z",
+      "tags": [
+        "investment",
+        "startup",
+        "thesis"
+      ],
+      "source_file": "external_sources.yaml"
+    },
+    {
+      "name": "Sequoia Capital Articles",
+      "category": "vc_source",
+      "priority": 5,
+      "homepage_url": "https://www.sequoiacap.com/articles/",
+      "x_url": "https://x.com/sequoia",
+      "tags": [
+        "investment",
+        "startup",
+        "ai"
+      ],
+      "source_file": "external_sources.yaml"
+    },
+    {
+      "name": "Y Combinator",
+      "category": "startup_source",
+      "priority": 5,
+      "homepage_url": "https://www.ycombinator.com/",
+      "blog_url": "https://www.ycombinator.com/blog",
+      "youtube_url": "https://www.youtube.com/@ycombinator",
+      "x_url": "https://x.com/ycombinator",
+      "tags": [
+        "startup",
+        "product",
+        "founder"
+      ],
+      "source_file": "external_sources.yaml"
+    },
+    {
+      "name": "First Round Review",
+      "category": "startup_source",
+      "priority": 5,
+      "homepage_url": "https://review.firstround.com/",
+      "x_url": "https://x.com/firstround",
+      "tags": [
+        "playbook",
+        "product",
+        "startup"
+      ],
+      "source_file": "external_sources.yaml"
+    },
+    {
+      "name": "AI Brief reference",
+      "category": "reference_site",
+      "priority": 4,
+      "homepage_url": "https://ai-brief.liziran.com/zh/",
+      "tags": [
+        "reference",
+        "information_architecture"
+      ],
+      "source_file": "external_sources.yaml"
+    },
+    {
+      "name": "AI Digest reference",
+      "category": "reference_site",
+      "priority": 4,
+      "homepage_url": "https://ai-digest.liziran.com/zh/",
+      "tags": [
+        "reference",
+        "ai_news"
+      ],
+      "source_file": "external_sources.yaml"
+    },
+    {
+      "name": "Hacker News",
+      "category": "community_source",
+      "priority": 4,
+      "homepage_url": "https://news.ycombinator.com/",
+      "tags": [
+        "community",
+        "ranking"
+      ],
+      "source_file": "external_sources.yaml"
+    },
+    {
+      "name": "Product Hunt",
+      "category": "community_source",
+      "priority": 3,
+      "homepage_url": "https://www.producthunt.com/",
+      "tags": [
+        "product_launch",
+        "startups"
+      ],
+      "source_file": "external_sources.yaml"
+    },
+    {
+      "name": "TLDR AI",
+      "category": "newsletter_source",
+      "priority": 4,
+      "homepage_url": "https://tldr.tech/ai",
+      "tags": [
+        "newsletter",
+        "ai"
+      ],
+      "source_file": "external_sources.yaml"
+    },
+    {
+      "name": "The Information",
+      "category": "media_source",
+      "priority": 4,
+      "homepage_url": "https://www.theinformation.com/",
+      "tags": [
+        "tech_media",
+        "business"
+      ],
+      "notes": "深度科技商业报道，遇到付费墙只索引链接与元数据。",
+      "source_file": "media.yaml"
+    },
+    {
+      "name": "Bloomberg Technology",
+      "category": "media_source",
+      "priority": 4,
+      "homepage_url": "https://www.bloomberg.com/technology",
+      "tags": [
+        "business",
+        "tech"
+      ],
+      "source_file": "media.yaml"
+    },
+    {
+      "name": "Wall Street Journal Tech",
+      "category": "media_source",
+      "priority": 4,
+      "homepage_url": "https://www.wsj.com/tech",
+      "tags": [
+        "business",
+        "tech"
+      ],
+      "source_file": "media.yaml"
+    },
+    {
+      "name": "Financial Times Technology",
+      "category": "media_source",
+      "priority": 4,
+      "homepage_url": "https://www.ft.com/technology",
+      "tags": [
+        "business",
+        "tech"
+      ],
+      "source_file": "media.yaml"
+    },
+    {
+      "name": "New York Times Technology",
+      "category": "media_source",
+      "priority": 4,
+      "homepage_url": "https://www.nytimes.com/section/technology",
+      "tags": [
+        "tech_media"
+      ],
+      "source_file": "media.yaml"
+    },
+    {
+      "name": "The Verge AI",
+      "category": "media_source",
+      "priority": 4,
+      "homepage_url": "https://www.theverge.com/ai-artificial-intelligence",
+      "tags": [
+        "ai",
+        "tech_media"
+      ],
+      "source_file": "media.yaml"
+    },
+    {
+      "name": "Wired AI",
+      "category": "media_source",
+      "priority": 4,
+      "homepage_url": "https://www.wired.com/tag/artificial-intelligence/",
+      "tags": [
+        "ai",
+        "tech_media"
+      ],
+      "source_file": "media.yaml"
+    },
+    {
+      "name": "TechCrunch AI",
+      "category": "media_source",
+      "priority": 4,
+      "homepage_url": "https://techcrunch.com/category/artificial-intelligence/",
+      "tags": [
+        "startup",
+        "ai"
+      ],
+      "source_file": "media.yaml"
+    },
+    {
+      "name": "VentureBeat AI",
+      "category": "media_source",
+      "priority": 3,
+      "homepage_url": "https://venturebeat.com/ai/",
+      "tags": [
+        "ai",
+        "enterprise"
+      ],
+      "source_file": "media.yaml"
+    },
+    {
+      "name": "MIT Technology Review AI",
+      "category": "media_source",
+      "priority": 5,
+      "homepage_url": "https://www.technologyreview.com/topic/artificial-intelligence/",
+      "tags": [
+        "ai",
+        "research",
+        "society"
+      ],
+      "source_file": "media.yaml"
+    },
+    {
+      "name": "IEEE Spectrum AI",
+      "category": "media_source",
+      "priority": 5,
+      "homepage_url": "https://spectrum.ieee.org/artificial-intelligence",
+      "tags": [
+        "engineering",
+        "ai"
+      ],
+      "source_file": "media.yaml"
+    },
+    {
+      "name": "Ars Technica AI",
+      "category": "media_source",
+      "priority": 4,
+      "homepage_url": "https://arstechnica.com/tag/artificial-intelligence/",
+      "tags": [
+        "tech_media",
+        "ai"
+      ],
+      "source_file": "media.yaml"
+    },
+    {
+      "name": "Semafor Technology",
+      "category": "media_source",
+      "priority": 3,
+      "homepage_url": "https://www.semafor.com/vertical/technology",
+      "tags": [
+        "technology",
+        "media"
+      ],
+      "source_file": "media.yaml"
+    },
+    {
+      "name": "Stratechery",
+      "category": "analyst_source",
+      "priority": 5,
+      "homepage_url": "https://stratechery.com/",
+      "tags": [
+        "strategy",
+        "tech",
+        "business"
+      ],
+      "source_file": "media.yaml"
+    },
+    {
+      "name": "Platformer",
+      "category": "analyst_source",
+      "priority": 4,
+      "homepage_url": "https://www.platformer.news/",
+      "tags": [
+        "platforms",
+        "ai",
+        "tech"
+      ],
+      "source_file": "media.yaml"
+    },
+    {
+      "name": "Benedict Evans",
+      "category": "analyst_source",
+      "priority": 5,
+      "homepage_url": "https://www.ben-evans.com/",
+      "tags": [
+        "strategy",
+        "mobile",
+        "ai"
+      ],
+      "source_file": "media.yaml"
+    },
+    {
+      "name": "Import AI",
+      "category": "newsletter_source",
+      "priority": 5,
+      "homepage_url": "https://importai.substack.com/",
+      "tags": [
+        "ai",
+        "newsletter",
+        "research"
+      ],
+      "source_file": "media.yaml"
+    },
+    {
+      "name": "The Batch",
+      "category": "newsletter_source",
+      "priority": 5,
+      "homepage_url": "https://www.deeplearning.ai/the-batch/",
+      "tags": [
+        "ai",
+        "education",
+        "newsletter"
+      ],
+      "source_file": "media.yaml"
+    },
+    {
+      "name": "Every",
+      "category": "media_source",
+      "priority": 4,
+      "homepage_url": "https://every.to/",
+      "tags": [
+        "ai",
+        "product",
+        "essays"
+      ],
+      "source_file": "media.yaml"
+    },
+    {
+      "name": "Lenny's Newsletter",
+      "category": "newsletter_source",
+      "priority": 5,
+      "homepage_url": "https://www.lennysnewsletter.com/",
+      "tags": [
+        "product",
+        "growth",
+        "startup"
+      ],
+      "source_file": "media.yaml"
+    },
+    {
+      "id": "lennys-podcast",
+      "name": "Lenny's Podcast",
+      "source_type": "podcast",
+      "category": "product_growth_ai",
+      "priority": 5,
+      "language": "en",
+      "homepage_url": "https://www.lennysnewsletter.com/",
+      "podcast_url": "",
+      "apple_podcast_url": "",
+      "spotify_url": "",
+      "rss_url": "",
+      "youtube_url": "https://www.youtube.com/@LennysPodcast",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "tags": [
+        "Product",
+        "Growth",
+        "AI",
+        "Startup"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "rss_or_youtube_feed",
+      "discovery_status": "needs_feed_url",
+      "notes": "Product, growth, startup and AI interviews.",
+      "source_file": "podcasts.yaml"
+    },
+    {
+      "id": "peter-yang",
+      "name": "Peter Yang",
+      "source_type": "website",
+      "category": "product_growth_ai",
+      "priority": 4,
+      "language": "en",
+      "homepage_url": "https://creatoreconomy.so/",
+      "podcast_url": "",
+      "rss_url": "",
+      "youtube_url": "",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "tags": [
+        "Product",
+        "Creator",
+        "AI"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "webpage_metadata",
+      "discovery_status": "needs_manual_url",
+      "notes": "Creator economy, product and AI platform commentary.",
+      "source_file": "podcasts.yaml"
+    },
+    {
+      "id": "ai-and-i-every",
+      "name": "AI and I by Every",
+      "source_type": "podcast",
+      "category": "ai_product",
+      "priority": 4,
+      "language": "en",
+      "homepage_url": "https://every.to/",
+      "podcast_url": "",
+      "rss_url": "",
+      "youtube_url": "",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "tags": [
+        "AI",
+        "Interview",
+        "Every",
+        "Product"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "manual",
+      "discovery_status": "needs_manual_url",
+      "notes": "Every's AI interviews and longform essays.",
+      "source_file": "podcasts.yaml"
+    },
+    {
+      "id": "unsupervised-learning-redpoint",
+      "name": "Unsupervised Learning by Redpoint",
+      "source_type": "podcast",
+      "category": "vc_investing_ai",
+      "priority": 4,
+      "language": "en",
+      "homepage_url": "https://www.redpoint.com/",
+      "podcast_url": "",
+      "rss_url": "",
+      "youtube_url": "",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "tags": [
+        "VC",
+        "AI",
+        "Startup",
+        "Podcast"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "manual",
+      "discovery_status": "needs_feed_url",
+      "notes": "Redpoint public podcast on AI, startups and investing.",
+      "source_file": "podcasts.yaml"
+    },
+    {
+      "id": "training-data-sequoia",
+      "name": "Training Data by Sequoia",
+      "source_type": "podcast",
+      "category": "vc_investing_ai",
+      "priority": 5,
+      "language": "en",
+      "homepage_url": "https://www.sequoiacap.com/",
+      "podcast_url": "",
+      "rss_url": "",
+      "youtube_url": "",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "tags": [
+        "Sequoia",
+        "AI",
+        "Founder",
+        "Podcast"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "manual",
+      "discovery_status": "needs_feed_url",
+      "notes": "Sequoia AI founder and builder interviews.",
+      "source_file": "podcasts.yaml"
+    },
+    {
+      "id": "minus-one-spc",
+      "name": "Minus One by South Park Commons",
+      "source_type": "podcast",
+      "category": "startup_ai",
+      "priority": 4,
+      "language": "en",
+      "homepage_url": "https://www.southparkcommons.com/",
+      "podcast_url": "",
+      "rss_url": "",
+      "youtube_url": "",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "tags": [
+        "Startup",
+        "AI",
+        "Podcast"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "manual",
+      "discovery_status": "needs_feed_url",
+      "notes": "SPC longform startup and AI conversations.",
+      "source_file": "podcasts.yaml"
+    },
+    {
+      "id": "google-deepmind-podcast",
+      "name": "Google DeepMind Podcast",
+      "source_type": "mixed",
+      "category": "ai_research",
+      "priority": 5,
+      "language": "en",
+      "homepage_url": "https://deepmind.google/",
+      "podcast_url": "",
+      "rss_url": "",
+      "youtube_url": "https://www.youtube.com/@googledeepmind",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "tags": [
+        "AI",
+        "Research",
+        "DeepMind"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "rss_or_youtube_feed",
+      "discovery_status": "needs_feed_url",
+      "notes": "DeepMind research and official longform conversations.",
+      "source_file": "podcasts.yaml"
+    },
+    {
+      "id": "no-priors",
+      "name": "No Priors",
+      "source_type": "podcast",
+      "category": "ai_startup_research",
+      "priority": 5,
+      "language": "en",
+      "homepage_url": "https://www.nopriors.com/",
+      "podcast_url": "",
+      "rss_url": "",
+      "youtube_url": "",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "tags": [
+        "AI",
+        "Startup",
+        "Research",
+        "Podcast"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "manual",
+      "discovery_status": "needs_feed_url",
+      "notes": "AI startup, research and investing interviews.",
+      "source_file": "podcasts.yaml"
+    },
+    {
+      "id": "a16z-ai",
+      "name": "a16z AI",
+      "source_type": "mixed",
+      "category": "vc_investing_ai",
+      "priority": 5,
+      "language": "en",
+      "homepage_url": "https://a16z.com/ai/",
+      "podcast_url": "https://a16z.com/podcasts/",
+      "rss_url": "",
+      "youtube_url": "https://www.youtube.com/@a16z",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "tags": [
+        "AI",
+        "VC",
+        "Startup",
+        "Podcast"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "rss_or_youtube_feed",
+      "discovery_status": "needs_feed_url",
+      "notes": "a16z AI conversations, market analysis and builder interviews.",
+      "source_file": "podcasts.yaml"
+    },
+    {
+      "id": "latent-space",
+      "name": "Latent Space",
+      "source_type": "podcast",
+      "category": "ai_engineering",
+      "priority": 5,
+      "language": "en",
+      "homepage_url": "https://www.latent.space/",
+      "podcast_url": "",
+      "rss_url": "",
+      "youtube_url": "",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "tags": [
+        "AI Engineering",
+        "LLM",
+        "Agents",
+        "Podcast"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "rss_or_youtube_feed",
+      "discovery_status": "needs_feed_url",
+      "notes": "AI engineering and LLM infrastructure longform.",
+      "source_file": "podcasts.yaml"
+    },
+    {
+      "id": "ai-daily-brief",
+      "name": "The AI Daily Brief",
+      "source_type": "podcast",
+      "category": "ai_news",
+      "priority": 4,
+      "language": "en",
+      "homepage_url": "https://www.aidailybrief.com/",
+      "podcast_url": "",
+      "rss_url": "",
+      "youtube_url": "",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "tags": [
+        "AI",
+        "News",
+        "Podcast"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "manual",
+      "discovery_status": "needs_feed_url",
+      "notes": "AI news and industry analysis.",
+      "source_file": "podcasts.yaml"
+    },
+    {
+      "id": "lex-fridman",
+      "name": "Lex Fridman Podcast",
+      "source_type": "mixed",
+      "category": "ai_science_longform",
+      "priority": 4,
+      "language": "en",
+      "homepage_url": "https://lexfridman.com/podcast/",
+      "podcast_url": "",
+      "rss_url": "",
+      "youtube_url": "https://www.youtube.com/@lexfridman",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "tags": [
+        "AI",
+        "Science",
+        "Philosophy",
+        "Longform"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "rss_or_youtube_feed",
+      "discovery_status": "needs_feed_url",
+      "notes": "Longform AI, science and philosophy interviews.",
+      "source_file": "podcasts.yaml"
+    },
+    {
+      "id": "dwarkesh-podcast",
+      "name": "Dwarkesh Podcast",
+      "source_type": "mixed",
+      "category": "ai_research_longform",
+      "priority": 5,
+      "language": "en",
+      "homepage_url": "https://www.dwarkeshpatel.com/",
+      "podcast_url": "",
+      "rss_url": "",
+      "youtube_url": "https://www.youtube.com/@DwarkeshPatel",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "tags": [
+        "AI",
+        "Research",
+        "Forecasting",
+        "Longform"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "rss_or_youtube_feed",
+      "discovery_status": "needs_feed_url",
+      "notes": "AI research, scaling, economics and future forecasts.",
+      "source_file": "podcasts.yaml"
+    },
+    {
+      "name": "arXiv CS AI",
+      "category": "research_source",
+      "priority": 5,
+      "homepage_url": "https://arxiv.org/list/cs.AI/recent",
+      "tags": [
+        "paper",
+        "ai",
+        "arxiv"
+      ],
+      "source_file": "research.yaml"
+    },
+    {
+      "name": "arXiv CS CL",
+      "category": "research_source",
+      "priority": 5,
+      "homepage_url": "https://arxiv.org/list/cs.CL/recent",
+      "tags": [
+        "paper",
+        "nlp",
+        "arxiv"
+      ],
+      "source_file": "research.yaml"
+    },
+    {
+      "name": "arXiv CS LG",
+      "category": "research_source",
+      "priority": 5,
+      "homepage_url": "https://arxiv.org/list/cs.LG/recent",
+      "tags": [
+        "paper",
+        "machine_learning",
+        "arxiv"
+      ],
+      "source_file": "research.yaml"
+    },
+    {
+      "name": "arXiv CS CV",
+      "category": "research_source",
+      "priority": 5,
+      "homepage_url": "https://arxiv.org/list/cs.CV/recent",
+      "tags": [
+        "paper",
+        "vision",
+        "arxiv"
+      ],
+      "source_file": "research.yaml"
+    },
+    {
+      "name": "Papers with Code",
+      "category": "research_source",
+      "priority": 5,
+      "homepage_url": "https://paperswithcode.com/",
+      "tags": [
+        "paper",
+        "code",
+        "benchmark"
+      ],
+      "source_file": "research.yaml"
+    },
+    {
+      "name": "Hugging Face Papers",
+      "category": "research_source",
+      "priority": 5,
+      "homepage_url": "https://huggingface.co/papers",
+      "tags": [
+        "paper",
+        "models",
+        "community"
+      ],
+      "source_file": "research.yaml"
+    },
+    {
+      "name": "OpenReview",
+      "category": "research_source",
+      "priority": 5,
+      "homepage_url": "https://openreview.net/",
+      "tags": [
+        "paper",
+        "peer_review"
+      ],
+      "source_file": "research.yaml"
+    },
+    {
+      "name": "Google Research",
+      "category": "research_source",
+      "priority": 5,
+      "homepage_url": "https://research.google/",
+      "tags": [
+        "research",
+        "google"
+      ],
+      "source_file": "research.yaml"
+    },
+    {
+      "name": "Microsoft Research",
+      "category": "research_source",
+      "priority": 5,
+      "homepage_url": "https://www.microsoft.com/en-us/research/",
+      "tags": [
+        "research",
+        "microsoft"
+      ],
+      "source_file": "research.yaml"
+    },
+    {
+      "name": "Meta Research",
+      "category": "research_source",
+      "priority": 5,
+      "homepage_url": "https://research.facebook.com/",
+      "tags": [
+        "research",
+        "meta"
+      ],
+      "source_file": "research.yaml"
+    },
+    {
+      "name": "Stanford HAI",
+      "category": "research_source",
+      "priority": 4,
+      "homepage_url": "https://hai.stanford.edu/news",
+      "tags": [
+        "ai_policy",
+        "research"
+      ],
+      "source_file": "research.yaml"
+    },
+    {
+      "name": "Berkeley BAIR",
+      "category": "research_source",
+      "priority": 5,
+      "homepage_url": "https://bair.berkeley.edu/blog/",
+      "tags": [
+        "research",
+        "robotics",
+        "ai"
+      ],
+      "source_file": "research.yaml"
+    },
+    {
+      "name": "MIT CSAIL",
+      "category": "research_source",
+      "priority": 4,
+      "homepage_url": "https://www.csail.mit.edu/news",
+      "tags": [
+        "research",
+        "cs"
+      ],
+      "source_file": "research.yaml"
+    },
+    {
+      "name": "CMU AI",
+      "category": "research_source",
+      "priority": 4,
+      "homepage_url": "https://www.cs.cmu.edu/news",
+      "tags": [
+        "research",
+        "ai"
+      ],
+      "source_file": "research.yaml"
+    },
+    {
+      "name": "GitHub Trending",
+      "category": "open_source_source",
+      "priority": 4,
+      "homepage_url": "https://github.com/trending",
+      "tags": [
+        "github",
+        "trending",
+        "open_source"
+      ],
+      "source_file": "research.yaml"
+    },
+    {
+      "name": "Lobsters",
+      "category": "community_source",
+      "priority": 3,
+      "homepage_url": "https://lobste.rs/",
+      "tags": [
+        "engineering",
+        "community"
+      ],
+      "source_file": "research.yaml"
+    },
+    {
+      "name": "Reddit Machine Learning",
+      "category": "community_source",
+      "priority": 3,
+      "homepage_url": "https://www.reddit.com/r/MachineLearning/",
+      "tags": [
+        "community",
+        "machine_learning"
+      ],
+      "source_file": "research.yaml"
+    },
+    {
+      "name": "Reddit LocalLLaMA",
+      "category": "community_source",
+      "priority": 3,
+      "homepage_url": "https://www.reddit.com/r/LocalLLaMA/",
+      "tags": [
+        "community",
+        "open_models"
+      ],
+      "source_file": "research.yaml"
+    },
+    {
+      "id": "ai-brief-liziran",
+      "name": "AI Brief liziran",
+      "source_type": "website",
+      "category": "user_habit_source",
+      "priority": 5,
+      "language": "zh",
+      "homepage_url": "https://ai-brief.liziran.com/zh/",
+      "youtube_url": "",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "rss_url": "",
+      "tags": [
+        "AI",
+        "中文",
+        "用户习惯来源"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "webpage_metadata",
+      "discovery_status": "needs_manual_url",
+      "notes": "用户已有习惯来源，可作为长内容发现线索。",
+      "source_file": "video_creators.yaml"
+    },
+    {
+      "id": "ai-digest-liziran",
+      "name": "AI Digest liziran",
+      "source_type": "website",
+      "category": "user_habit_source",
+      "priority": 5,
+      "language": "zh",
+      "homepage_url": "https://ai-digest.liziran.com/zh/",
+      "youtube_url": "",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "rss_url": "",
+      "tags": [
+        "AI",
+        "中文",
+        "用户习惯来源"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "webpage_metadata",
+      "discovery_status": "needs_manual_url",
+      "notes": "用户已有习惯来源，可作为长内容发现线索。",
+      "source_file": "video_creators.yaml"
+    },
+    {
+      "handle": "OpenAI",
+      "display_name": "OpenAI",
+      "category": "ai_company_official",
+      "organization": "OpenAI",
+      "role": "official",
+      "homepage_url": "https://openai.com/",
+      "x_url": "https://x.com/OpenAI",
+      "priority": 5,
+      "language": "en",
+      "notes": "官方模型、产品、研究与安全公告入口。",
+      "tags": [
+        "official",
+        "ai_models"
+      ],
+      "source_file": "x_accounts.yaml"
+    },
+    {
+      "handle": "AnthropicAI",
+      "display_name": "Anthropic",
+      "category": "ai_company_official",
+      "organization": "Anthropic",
+      "role": "official",
+      "homepage_url": "https://www.anthropic.com/",
+      "x_url": "https://x.com/AnthropicAI",
+      "priority": 5,
+      "language": "en",
+      "notes": "Claude、AI safety、研究与产品公告。",
+      "tags": [
+        "official",
+        "safety",
+        "claude"
+      ],
+      "source_file": "x_accounts.yaml"
+    },
+    {
+      "handle": "GoogleDeepMind",
+      "display_name": "Google DeepMind",
+      "category": "ai_company_official",
+      "organization": "Google DeepMind",
+      "role": "official",
+      "homepage_url": "https://deepmind.google/",
+      "x_url": "https://x.com/GoogleDeepMind",
+      "priority": 5,
+      "language": "en",
+      "notes": "前沿研究、模型、科学 AI 与播客入口。",
+      "tags": [
+        "research",
+        "official"
+      ],
+      "source_file": "x_accounts.yaml"
+    },
+    {
+      "handle": "AIatMeta",
+      "display_name": "Meta AI",
+      "category": "ai_company_official",
+      "organization": "Meta AI",
+      "role": "official",
+      "homepage_url": "https://ai.meta.com/",
+      "x_url": "https://x.com/AIatMeta",
+      "priority": 5,
+      "language": "en",
+      "notes": "Llama、开放模型、研究项目官方入口。",
+      "tags": [
+        "open_source_model",
+        "official"
+      ],
+      "source_file": "x_accounts.yaml"
+    },
+    {
+      "handle": "xai",
+      "display_name": "xAI",
+      "category": "ai_company_official",
+      "organization": "xAI",
+      "role": "official",
+      "homepage_url": "https://x.ai/",
+      "x_url": "https://x.com/xai",
+      "priority": 5,
+      "language": "en",
+      "notes": "Grok 与 xAI 官方入口。",
+      "tags": [
+        "reasoning",
+        "official"
+      ],
+      "source_file": "x_accounts.yaml"
+    },
+    {
+      "handle": "MistralAI",
+      "display_name": "Mistral AI",
+      "category": "ai_company_official",
+      "organization": "Mistral AI",
+      "role": "official",
+      "homepage_url": "https://mistral.ai/",
+      "x_url": "https://x.com/MistralAI",
+      "priority": 5,
+      "language": "en",
+      "notes": "开放模型、欧洲 AI、开发者文档。",
+      "tags": [
+        "open_model",
+        "official"
+      ],
+      "source_file": "x_accounts.yaml"
+    },
+    {
+      "handle": "cohere",
+      "display_name": "Cohere",
+      "category": "ai_company_official",
+      "organization": "Cohere",
+      "role": "official",
+      "homepage_url": "https://cohere.com/",
+      "x_url": "https://x.com/cohere",
+      "priority": 4,
+      "language": "en",
+      "notes": "企业 AI、RAG、文档与产品发布。",
+      "tags": [
+        "enterprise_ai",
+        "rag"
+      ],
+      "source_file": "x_accounts.yaml"
+    },
+    {
+      "handle": "NVIDIAAI",
+      "display_name": "NVIDIA AI",
+      "category": "tech_platform_official",
+      "organization": "NVIDIA",
+      "role": "official",
+      "homepage_url": "https://blogs.nvidia.com/blog/category/deep-learning/",
+      "x_url": "https://x.com/NVIDIAAI",
+      "priority": 5,
+      "language": "en",
+      "notes": "GPU、推理、模型服务、AI infra 入口。",
+      "tags": [
+        "gpu",
+        "inference",
+        "infra"
+      ],
+      "source_file": "x_accounts.yaml"
+    },
+    {
+      "handle": "perplexity_ai",
+      "display_name": "Perplexity",
+      "category": "ai_product_leader",
+      "organization": "Perplexity",
+      "role": "official",
+      "homepage_url": "https://www.perplexity.ai/",
+      "x_url": "https://x.com/perplexity_ai",
+      "priority": 4,
+      "language": "en",
+      "notes": "AI 搜索与浏览器方向。",
+      "tags": [
+        "ai_search",
+        "product"
+      ],
+      "source_file": "x_accounts.yaml"
+    },
+    {
+      "handle": "cursor_ai",
+      "display_name": "Cursor",
+      "category": "ai_product_leader",
+      "organization": "Cursor",
+      "role": "official",
+      "homepage_url": "https://www.cursor.com/",
+      "x_url": "https://x.com/cursor_ai",
+      "priority": 5,
+      "language": "en",
+      "notes": "AI coding、repo-level agent 与开发者工作流。",
+      "tags": [
+        "ai_coding",
+        "developer_tools"
+      ],
+      "source_file": "x_accounts.yaml"
+    },
+    {
+      "handle": "replit",
+      "display_name": "Replit",
+      "category": "ai_product_leader",
+      "organization": "Replit",
+      "role": "official",
+      "homepage_url": "https://replit.com/",
+      "x_url": "https://x.com/replit",
+      "priority": 4,
+      "language": "en",
+      "notes": "云端开发、AI agent 编程体验。",
+      "tags": [
+        "ai_coding",
+        "cloud_dev"
+      ],
+      "source_file": "x_accounts.yaml"
+    },
+    {
+      "handle": "lovable_dev",
+      "display_name": "Lovable",
+      "category": "ai_builder",
+      "organization": "Lovable",
+      "role": "official",
+      "homepage_url": "https://lovable.dev/",
+      "x_url": "https://x.com/lovable_dev",
+      "priority": 4,
+      "language": "en",
+      "notes": "Vibe coding 与 AI 应用生成。",
+      "tags": [
+        "vibe_coding",
+        "product"
+      ],
+      "source_file": "x_accounts.yaml"
+    },
+    {
+      "handle": "vercel",
+      "display_name": "Vercel",
+      "category": "tech_platform_official",
+      "organization": "Vercel",
+      "role": "official",
+      "homepage_url": "https://vercel.com/ai",
+      "x_url": "https://x.com/vercel",
+      "priority": 5,
+      "language": "en",
+      "notes": "AI SDK、前端部署与应用层 infra。",
+      "tags": [
+        "ai_sdk",
+        "frontend",
+        "infra"
+      ],
+      "source_file": "x_accounts.yaml"
+    },
+    {
+      "handle": "huggingface",
+      "display_name": "Hugging Face",
+      "category": "ai_open_source_maintainer",
+      "organization": "Hugging Face",
+      "role": "official",
+      "homepage_url": "https://huggingface.co/",
+      "x_url": "https://x.com/huggingface",
+      "priority": 5,
+      "language": "en",
+      "notes": "模型、papers、开源社区与数据集。",
+      "tags": [
+        "open_source",
+        "papers"
+      ],
+      "source_file": "x_accounts.yaml"
+    },
+    {
+      "handle": "LangChainAI",
+      "display_name": "LangChain",
+      "category": "ai_open_source_maintainer",
+      "organization": "LangChain",
+      "role": "official",
+      "homepage_url": "https://www.langchain.com/",
+      "x_url": "https://x.com/LangChainAI",
+      "priority": 5,
+      "language": "en",
+      "notes": "Agent、RAG、tool use 框架。",
+      "tags": [
+        "agents",
+        "rag"
+      ],
+      "source_file": "x_accounts.yaml"
+    },
+    {
+      "handle": "llama_index",
+      "display_name": "LlamaIndex",
+      "category": "ai_open_source_maintainer",
+      "organization": "LlamaIndex",
+      "role": "official",
+      "homepage_url": "https://www.llamaindex.ai/",
+      "x_url": "https://x.com/llama_index",
+      "priority": 5,
+      "language": "en",
+      "notes": "数据代理、RAG、企业知识库框架。",
+      "tags": [
+        "rag",
+        "agents"
+      ],
+      "source_file": "x_accounts.yaml"
+    },
+    {
+      "handle": "a16z",
+      "display_name": "a16z",
+      "category": "ai_investor",
+      "organization": "Andreessen Horowitz",
+      "role": "VC",
+      "homepage_url": "https://a16z.com/ai/",
+      "x_url": "https://x.com/a16z",
+      "priority": 5,
+      "language": "en",
+      "notes": "AI 投资 thesis、市场趋势、podcast。",
+      "tags": [
+        "investment",
+        "startups"
+      ],
+      "source_file": "x_accounts.yaml"
+    },
+    {
+      "handle": "sequoia",
+      "display_name": "Sequoia Capital",
+      "category": "ai_investor",
+      "organization": "Sequoia Capital",
+      "role": "VC",
+      "homepage_url": "https://www.sequoiacap.com/articles/",
+      "x_url": "https://x.com/sequoia",
+      "priority": 5,
+      "language": "en",
+      "notes": "Training Data、AI 市场判断与创业公司观察。",
+      "tags": [
+        "investment",
+        "startups"
+      ],
+      "source_file": "x_accounts.yaml"
+    },
+    {
+      "handle": "ycombinator",
+      "display_name": "Y Combinator",
+      "category": "ai_investor",
+      "organization": "Y Combinator",
+      "role": "accelerator",
+      "homepage_url": "https://www.ycombinator.com/blog",
+      "x_url": "https://x.com/ycombinator",
+      "priority": 5,
+      "language": "en",
+      "notes": "创业趋势、Lightcone podcast、YC 公司。",
+      "tags": [
+        "startup",
+        "product"
+      ],
+      "source_file": "x_accounts.yaml"
+    },
+    {
+      "handle": "TODO_manual_confirm",
+      "display_name": "Chinese AI commentators",
+      "category": "chinese_ai_commentator",
+      "organization": "TODO",
+      "role": "TODO",
+      "homepage_url": "https://x.com/",
+      "x_url": "https://x.com/",
+      "priority": 2,
+      "language": "zh",
+      "notes": "需要人工确认具体个人账号，禁止臆造。",
+      "tags": [
+        "todo",
+        "manual_confirm"
+      ],
+      "source_file": "x_accounts.yaml"
+    }
+  ],
+  "longform_sources": [
+    {
+      "id": "lennys-podcast",
+      "name": "Lenny's Podcast",
+      "source_type": "podcast",
+      "category": "product_growth_ai",
+      "priority": 5,
+      "language": "en",
+      "homepage_url": "https://www.lennysnewsletter.com/",
+      "podcast_url": "",
+      "apple_podcast_url": "",
+      "spotify_url": "",
+      "rss_url": "",
+      "youtube_url": "https://www.youtube.com/@LennysPodcast",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "tags": [
+        "Product",
+        "Growth",
+        "AI",
+        "Startup"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "rss_or_youtube_feed",
+      "discovery_status": "needs_feed_url",
+      "notes": "Product, growth, startup and AI interviews.",
+      "source_file": "podcasts.yaml",
+      "source_id": "lennys-podcast"
+    },
+    {
+      "id": "peter-yang",
+      "name": "Peter Yang",
+      "source_type": "website",
+      "category": "product_growth_ai",
+      "priority": 4,
+      "language": "en",
+      "homepage_url": "https://creatoreconomy.so/",
+      "podcast_url": "",
+      "rss_url": "",
+      "youtube_url": "",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "tags": [
+        "Product",
+        "Creator",
+        "AI"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "webpage_metadata",
+      "discovery_status": "needs_manual_url",
+      "notes": "Creator economy, product and AI platform commentary.",
+      "source_file": "podcasts.yaml",
+      "source_id": "peter-yang"
+    },
+    {
+      "id": "ai-and-i-every",
+      "name": "AI and I by Every",
+      "source_type": "podcast",
+      "category": "ai_product",
+      "priority": 4,
+      "language": "en",
+      "homepage_url": "https://every.to/",
+      "podcast_url": "",
+      "rss_url": "",
+      "youtube_url": "",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "tags": [
+        "AI",
+        "Interview",
+        "Every",
+        "Product"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "manual",
+      "discovery_status": "needs_manual_url",
+      "notes": "Every's AI interviews and longform essays.",
+      "source_file": "podcasts.yaml",
+      "source_id": "ai-and-i-every"
+    },
+    {
+      "id": "unsupervised-learning-redpoint",
+      "name": "Unsupervised Learning by Redpoint",
+      "source_type": "podcast",
+      "category": "vc_investing_ai",
+      "priority": 4,
+      "language": "en",
+      "homepage_url": "https://www.redpoint.com/",
+      "podcast_url": "",
+      "rss_url": "",
+      "youtube_url": "",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "tags": [
+        "VC",
+        "AI",
+        "Startup",
+        "Podcast"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "manual",
+      "discovery_status": "needs_feed_url",
+      "notes": "Redpoint public podcast on AI, startups and investing.",
+      "source_file": "podcasts.yaml",
+      "source_id": "unsupervised-learning-redpoint"
+    },
+    {
+      "id": "training-data-sequoia",
+      "name": "Training Data by Sequoia",
+      "source_type": "podcast",
+      "category": "vc_investing_ai",
+      "priority": 5,
+      "language": "en",
+      "homepage_url": "https://www.sequoiacap.com/",
+      "podcast_url": "",
+      "rss_url": "",
+      "youtube_url": "",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "tags": [
+        "Sequoia",
+        "AI",
+        "Founder",
+        "Podcast"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "manual",
+      "discovery_status": "needs_feed_url",
+      "notes": "Sequoia AI founder and builder interviews.",
+      "source_file": "podcasts.yaml",
+      "source_id": "training-data-sequoia"
+    },
+    {
+      "id": "minus-one-spc",
+      "name": "Minus One by South Park Commons",
+      "source_type": "podcast",
+      "category": "startup_ai",
+      "priority": 4,
+      "language": "en",
+      "homepage_url": "https://www.southparkcommons.com/",
+      "podcast_url": "",
+      "rss_url": "",
+      "youtube_url": "",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "tags": [
+        "Startup",
+        "AI",
+        "Podcast"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "manual",
+      "discovery_status": "needs_feed_url",
+      "notes": "SPC longform startup and AI conversations.",
+      "source_file": "podcasts.yaml",
+      "source_id": "minus-one-spc"
+    },
+    {
+      "id": "google-deepmind-podcast",
+      "name": "Google DeepMind Podcast",
+      "source_type": "mixed",
+      "category": "ai_research",
+      "priority": 5,
+      "language": "en",
+      "homepage_url": "https://deepmind.google/",
+      "podcast_url": "",
+      "rss_url": "",
+      "youtube_url": "https://www.youtube.com/@googledeepmind",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "tags": [
+        "AI",
+        "Research",
+        "DeepMind"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "rss_or_youtube_feed",
+      "discovery_status": "needs_feed_url",
+      "notes": "DeepMind research and official longform conversations.",
+      "source_file": "podcasts.yaml",
+      "source_id": "google-deepmind-podcast"
+    },
+    {
+      "id": "no-priors",
+      "name": "No Priors",
+      "source_type": "podcast",
+      "category": "ai_startup_research",
+      "priority": 5,
+      "language": "en",
+      "homepage_url": "https://www.nopriors.com/",
+      "podcast_url": "",
+      "rss_url": "",
+      "youtube_url": "",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "tags": [
+        "AI",
+        "Startup",
+        "Research",
+        "Podcast"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "manual",
+      "discovery_status": "needs_feed_url",
+      "notes": "AI startup, research and investing interviews.",
+      "source_file": "podcasts.yaml",
+      "source_id": "no-priors"
+    },
+    {
+      "id": "a16z-ai",
+      "name": "a16z AI",
+      "source_type": "mixed",
+      "category": "vc_investing_ai",
+      "priority": 5,
+      "language": "en",
+      "homepage_url": "https://a16z.com/ai/",
+      "podcast_url": "https://a16z.com/podcasts/",
+      "rss_url": "",
+      "youtube_url": "https://www.youtube.com/@a16z",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "tags": [
+        "AI",
+        "VC",
+        "Startup",
+        "Podcast"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "rss_or_youtube_feed",
+      "discovery_status": "needs_feed_url",
+      "notes": "a16z AI conversations, market analysis and builder interviews.",
+      "source_file": "podcasts.yaml",
+      "source_id": "a16z-ai"
+    },
+    {
+      "id": "latent-space",
+      "name": "Latent Space",
+      "source_type": "podcast",
+      "category": "ai_engineering",
+      "priority": 5,
+      "language": "en",
+      "homepage_url": "https://www.latent.space/",
+      "podcast_url": "",
+      "rss_url": "",
+      "youtube_url": "",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "tags": [
+        "AI Engineering",
+        "LLM",
+        "Agents",
+        "Podcast"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "rss_or_youtube_feed",
+      "discovery_status": "needs_feed_url",
+      "notes": "AI engineering and LLM infrastructure longform.",
+      "source_file": "podcasts.yaml",
+      "source_id": "latent-space"
+    },
+    {
+      "id": "ai-daily-brief",
+      "name": "The AI Daily Brief",
+      "source_type": "podcast",
+      "category": "ai_news",
+      "priority": 4,
+      "language": "en",
+      "homepage_url": "https://www.aidailybrief.com/",
+      "podcast_url": "",
+      "rss_url": "",
+      "youtube_url": "",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "tags": [
+        "AI",
+        "News",
+        "Podcast"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "manual",
+      "discovery_status": "needs_feed_url",
+      "notes": "AI news and industry analysis.",
+      "source_file": "podcasts.yaml",
+      "source_id": "ai-daily-brief"
+    },
+    {
+      "id": "lightcone-podcast-yc",
+      "name": "Lightcone Podcast by YC",
+      "source_type": "youtube",
+      "category": "startup_ai",
+      "priority": 4,
+      "language": "en",
+      "homepage_url": "",
+      "podcast_url": "",
+      "rss_url": "",
+      "youtube_url": "https://www.youtube.com/@ycombinator",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "tags": [
+        "YC",
+        "Startup",
+        "AI",
+        "Podcast"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "youtube_feed",
+      "discovery_status": "needs_channel_id",
+      "notes": "Y Combinator founder and startup interviews.",
+      "source_file": "podcasts.yaml",
+      "source_id": "lightcone-podcast-yc"
+    },
+    {
+      "id": "lex-fridman",
+      "name": "Lex Fridman Podcast",
+      "source_type": "mixed",
+      "category": "ai_science_longform",
+      "priority": 4,
+      "language": "en",
+      "homepage_url": "https://lexfridman.com/podcast/",
+      "podcast_url": "",
+      "rss_url": "",
+      "youtube_url": "https://www.youtube.com/@lexfridman",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "tags": [
+        "AI",
+        "Science",
+        "Philosophy",
+        "Longform"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "rss_or_youtube_feed",
+      "discovery_status": "needs_feed_url",
+      "notes": "Longform AI, science and philosophy interviews.",
+      "source_file": "podcasts.yaml",
+      "source_id": "lex-fridman"
+    },
+    {
+      "id": "dwarkesh-podcast",
+      "name": "Dwarkesh Podcast",
+      "source_type": "mixed",
+      "category": "ai_research_longform",
+      "priority": 5,
+      "language": "en",
+      "homepage_url": "https://www.dwarkeshpatel.com/",
+      "podcast_url": "",
+      "rss_url": "",
+      "youtube_url": "https://www.youtube.com/@DwarkeshPatel",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "tags": [
+        "AI",
+        "Research",
+        "Forecasting",
+        "Longform"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "rss_or_youtube_feed",
+      "discovery_status": "needs_feed_url",
+      "notes": "AI research, scaling, economics and future forecasts.",
+      "source_file": "podcasts.yaml",
+      "source_id": "dwarkesh-podcast"
+    },
+    {
+      "id": "cognitive-revolution",
+      "name": "The Cognitive Revolution",
+      "source_type": "podcast",
+      "category": "ai_llm_agents",
+      "priority": 4,
+      "language": "en",
+      "homepage_url": "",
+      "podcast_url": "",
+      "rss_url": "",
+      "youtube_url": "",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "tags": [
+        "AI",
+        "Agents",
+        "LLM",
+        "Podcast"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "manual",
+      "discovery_status": "needs_feed_url",
+      "notes": "Longform AI and agent interviews.",
+      "source_file": "podcasts.yaml",
+      "source_id": "cognitive-revolution"
+    },
+    {
+      "id": "practical-ai",
+      "name": "Practical AI",
+      "source_type": "podcast",
+      "category": "ai_engineering",
+      "priority": 4,
+      "language": "en",
+      "homepage_url": "",
+      "podcast_url": "",
+      "rss_url": "",
+      "youtube_url": "",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "tags": [
+        "AI",
+        "ML",
+        "Engineering"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "manual",
+      "discovery_status": "needs_feed_url",
+      "notes": "Practical machine learning and AI engineering conversations.",
+      "source_file": "podcasts.yaml",
+      "source_id": "practical-ai"
+    },
+    {
+      "id": "twiml-ai",
+      "name": "TWIML AI Podcast",
+      "source_type": "podcast",
+      "category": "ai_research_engineering",
+      "priority": 4,
+      "language": "en",
+      "homepage_url": "",
+      "podcast_url": "",
+      "rss_url": "",
+      "youtube_url": "",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "tags": [
+        "Machine Learning",
+        "AI",
+        "Research"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "manual",
+      "discovery_status": "needs_feed_url",
+      "notes": "ML research and applied AI interviews.",
+      "source_file": "podcasts.yaml",
+      "source_id": "twiml-ai"
+    },
+    {
+      "id": "eye-on-ai",
+      "name": "Eye on AI",
+      "source_type": "podcast",
+      "category": "ai_research",
+      "priority": 4,
+      "language": "en",
+      "homepage_url": "",
+      "podcast_url": "",
+      "rss_url": "",
+      "youtube_url": "",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "tags": [
+        "AI",
+        "Research",
+        "Podcast"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "manual",
+      "discovery_status": "needs_feed_url",
+      "notes": "AI researchers, founders and industry leaders.",
+      "source_file": "podcasts.yaml",
+      "source_id": "eye-on-ai"
+    },
+    {
+      "id": "ml-street-talk",
+      "name": "Machine Learning Street Talk",
+      "source_type": "youtube",
+      "category": "ai_research",
+      "priority": 4,
+      "language": "en",
+      "homepage_url": "",
+      "podcast_url": "",
+      "rss_url": "",
+      "youtube_url": "https://www.youtube.com/@MachineLearningStreetTalk",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "tags": [
+        "AI",
+        "ML",
+        "Research",
+        "Philosophy"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "youtube_feed",
+      "discovery_status": "needs_channel_id",
+      "notes": "Deep technical and philosophical AI conversations.",
+      "source_file": "podcasts.yaml",
+      "source_id": "ml-street-talk"
+    },
+    {
+      "id": "yc-startup-school",
+      "name": "Y Combinator Startup School",
+      "source_type": "youtube",
+      "category": "startup_product",
+      "priority": 4,
+      "language": "en",
+      "homepage_url": "",
+      "podcast_url": "",
+      "rss_url": "",
+      "youtube_url": "https://www.youtube.com/@ycombinator",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "tags": [
+        "Startup",
+        "Product",
+        "YC"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "youtube_feed",
+      "discovery_status": "needs_channel_id",
+      "notes": "Startup school talks and founder education.",
+      "source_file": "podcasts.yaml",
+      "source_id": "yc-startup-school"
+    },
+    {
+      "id": "twenty-vc",
+      "name": "20VC",
+      "source_type": "podcast",
+      "category": "vc_investing",
+      "priority": 4,
+      "language": "en",
+      "homepage_url": "",
+      "podcast_url": "",
+      "rss_url": "",
+      "youtube_url": "",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "tags": [
+        "VC",
+        "Startup",
+        "SaaS"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "manual",
+      "discovery_status": "needs_feed_url",
+      "notes": "Venture capital and founder interviews.",
+      "source_file": "podcasts.yaml",
+      "source_id": "twenty-vc"
+    },
+    {
+      "id": "acquired",
+      "name": "Acquired",
+      "source_type": "podcast",
+      "category": "business_breakdowns",
+      "priority": 4,
+      "language": "en",
+      "homepage_url": "",
+      "podcast_url": "",
+      "rss_url": "",
+      "youtube_url": "",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "tags": [
+        "Business",
+        "Strategy",
+        "Investing"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "manual",
+      "discovery_status": "needs_feed_url",
+      "notes": "Company histories and strategy deep dives.",
+      "source_file": "podcasts.yaml",
+      "source_id": "acquired"
+    },
+    {
+      "id": "invest-like-the-best",
+      "name": "Invest Like the Best",
+      "source_type": "podcast",
+      "category": "investing_business",
+      "priority": 4,
+      "language": "en",
+      "homepage_url": "",
+      "podcast_url": "",
+      "rss_url": "",
+      "youtube_url": "",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "tags": [
+        "Investing",
+        "Business",
+        "Technology"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "manual",
+      "discovery_status": "needs_feed_url",
+      "notes": "Investing, technology and company building interviews.",
+      "source_file": "podcasts.yaml",
+      "source_id": "invest-like-the-best"
+    },
+    {
+      "id": "knowledge-project",
+      "name": "The Knowledge Project",
+      "source_type": "podcast",
+      "category": "cognition_learning",
+      "priority": 4,
+      "language": "en",
+      "homepage_url": "",
+      "podcast_url": "",
+      "rss_url": "",
+      "youtube_url": "",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "tags": [
+        "Cognition",
+        "Decision Making",
+        "Learning"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "manual",
+      "discovery_status": "needs_feed_url",
+      "notes": "Decision making, mental models and learning.",
+      "source_file": "podcasts.yaml",
+      "source_id": "knowledge-project"
+    },
+    {
+      "id": "huberman-lab",
+      "name": "Huberman Lab",
+      "source_type": "podcast",
+      "category": "cognitive_science",
+      "priority": 3,
+      "language": "en",
+      "homepage_url": "",
+      "podcast_url": "",
+      "rss_url": "",
+      "youtube_url": "https://www.youtube.com/@hubermanlab",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "tags": [
+        "Neuroscience",
+        "Learning",
+        "Health"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "youtube_feed",
+      "discovery_status": "needs_channel_id",
+      "notes": "Neuroscience and learning longform.",
+      "source_file": "podcasts.yaml",
+      "source_id": "huberman-lab"
+    },
+    {
+      "id": "conversations-with-tyler",
+      "name": "Conversations with Tyler",
+      "source_type": "podcast",
+      "category": "economics_cognition",
+      "priority": 3,
+      "language": "en",
+      "homepage_url": "",
+      "podcast_url": "",
+      "rss_url": "",
+      "youtube_url": "",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "tags": [
+        "Economics",
+        "Culture",
+        "Cognition"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "manual",
+      "discovery_status": "needs_feed_url",
+      "notes": "Economics, culture and intellectual interviews.",
+      "source_file": "podcasts.yaml",
+      "source_id": "conversations-with-tyler"
+    },
+    {
+      "id": "econtalk",
+      "name": "EconTalk",
+      "source_type": "podcast",
+      "category": "economics_cognition",
+      "priority": 3,
+      "language": "en",
+      "homepage_url": "",
+      "podcast_url": "",
+      "rss_url": "",
+      "youtube_url": "",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "tags": [
+        "Economics",
+        "Society",
+        "Learning"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "manual",
+      "discovery_status": "needs_feed_url",
+      "notes": "Economics, institutions and society conversations.",
+      "source_file": "podcasts.yaml",
+      "source_id": "econtalk"
+    },
+    {
+      "id": "silicon-valley-101",
+      "name": "硅谷101",
+      "source_type": "podcast",
+      "category": "chinese_tech_business",
+      "priority": 4,
+      "language": "zh",
+      "homepage_url": "",
+      "podcast_url": "",
+      "rss_url": "",
+      "youtube_url": "",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "tags": [
+        "中文科技",
+        "商业",
+        "硅谷"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "manual",
+      "discovery_status": "needs_manual_url",
+      "notes": "中文科技、商业与硅谷访谈；找不到公开 feed 时走手动链接入口。",
+      "source_file": "podcasts.yaml",
+      "source_id": "silicon-valley-101"
+    },
+    {
+      "id": "luan-fan-shu",
+      "name": "乱翻书",
+      "source_type": "podcast",
+      "category": "chinese_tech_business",
+      "priority": 4,
+      "language": "zh",
+      "homepage_url": "",
+      "podcast_url": "",
+      "rss_url": "",
+      "youtube_url": "",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "tags": [
+        "中文播客",
+        "科技",
+        "商业"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "manual",
+      "discovery_status": "needs_manual_url",
+      "notes": "中文科技与商业访谈入口。",
+      "source_file": "podcasts.yaml",
+      "source_id": "luan-fan-shu"
+    },
+    {
+      "id": "fengyanfengyu",
+      "name": "枫言枫语",
+      "source_type": "podcast",
+      "category": "chinese_tech_business",
+      "priority": 3,
+      "language": "zh",
+      "homepage_url": "",
+      "podcast_url": "",
+      "rss_url": "",
+      "youtube_url": "",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "tags": [
+        "中文播客",
+        "科技",
+        "产品"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "manual",
+      "discovery_status": "needs_manual_url",
+      "notes": "中文科技、产品与生活方式播客。",
+      "source_file": "podcasts.yaml",
+      "source_id": "fengyanfengyu"
+    },
+    {
+      "id": "beyond-code-cn",
+      "name": "代码之外",
+      "source_type": "podcast",
+      "category": "chinese_engineering",
+      "priority": 3,
+      "language": "zh",
+      "homepage_url": "",
+      "podcast_url": "",
+      "rss_url": "",
+      "youtube_url": "",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "tags": [
+        "中文播客",
+        "编程",
+        "工程"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "manual",
+      "discovery_status": "needs_manual_url",
+      "notes": "中文开发者与工程访谈。",
+      "source_file": "podcasts.yaml",
+      "source_id": "beyond-code-cn"
+    },
+    {
+      "id": "openai",
+      "name": "OpenAI",
+      "source_type": "youtube",
+      "category": "ai_llm_agents",
+      "priority": 5,
+      "language": "en",
+      "homepage_url": "",
+      "youtube_url": "https://www.youtube.com/@OpenAI",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "rss_url": "",
+      "tags": [
+        "OpenAI",
+        "LLM",
+        "Agents",
+        "AI"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "youtube_feed",
+      "discovery_status": "needs_channel_id",
+      "notes": "Official OpenAI videos, demos, interviews and developer talks.",
+      "source_file": "video_creators.yaml",
+      "source_id": "openai"
+    },
+    {
+      "id": "anthropic",
+      "name": "Anthropic",
+      "source_type": "mixed",
+      "category": "ai_llm_agents",
+      "priority": 5,
+      "language": "en",
+      "homepage_url": "",
+      "youtube_url": "https://www.youtube.com/@AnthropicAI",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "rss_url": "",
+      "tags": [
+        "Claude",
+        "AI Safety",
+        "Agents"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "youtube_feed",
+      "discovery_status": "needs_channel_id",
+      "notes": "Claude, AI safety and agentic coding discussions.",
+      "source_file": "video_creators.yaml",
+      "source_id": "anthropic"
+    },
+    {
+      "id": "google-deepmind",
+      "name": "Google DeepMind",
+      "source_type": "youtube",
+      "category": "ai_research",
+      "priority": 5,
+      "language": "en",
+      "homepage_url": "",
+      "youtube_url": "https://www.youtube.com/@googledeepmind",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "rss_url": "",
+      "tags": [
+        "DeepMind",
+        "Research",
+        "AI"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "youtube_feed",
+      "discovery_status": "needs_channel_id",
+      "notes": "AI research talks, official demos and interviews.",
+      "source_file": "video_creators.yaml",
+      "source_id": "google-deepmind"
+    },
+    {
+      "id": "google-ai",
+      "name": "Google AI",
+      "source_type": "mixed",
+      "category": "ai_research",
+      "priority": 4,
+      "language": "en",
+      "homepage_url": "",
+      "youtube_url": "",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "rss_url": "",
+      "tags": [
+        "Google AI",
+        "Gemini",
+        "Research"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "manual",
+      "discovery_status": "needs_manual_url",
+      "notes": "Google AI public talks and releases; add concrete links manually.",
+      "source_file": "video_creators.yaml",
+      "source_id": "google-ai"
+    },
+    {
+      "id": "microsoft-research",
+      "name": "Microsoft Research",
+      "source_type": "mixed",
+      "category": "ai_research",
+      "priority": 4,
+      "language": "en",
+      "homepage_url": "",
+      "youtube_url": "https://www.youtube.com/@MicrosoftResearch",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "rss_url": "",
+      "tags": [
+        "Research",
+        "AI",
+        "Microsoft"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "youtube_feed",
+      "discovery_status": "needs_channel_id",
+      "notes": "Research seminars and public technical talks.",
+      "source_file": "video_creators.yaml",
+      "source_id": "microsoft-research"
+    },
+    {
+      "id": "nvidia",
+      "name": "NVIDIA",
+      "source_type": "youtube",
+      "category": "ai_infra",
+      "priority": 5,
+      "language": "en",
+      "homepage_url": "",
+      "youtube_url": "https://www.youtube.com/@NVIDIADeveloper",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "rss_url": "",
+      "tags": [
+        "GPU",
+        "AI Infra",
+        "NVIDIA"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "youtube_feed",
+      "discovery_status": "needs_channel_id",
+      "notes": "Developer talks on AI infrastructure and accelerated computing.",
+      "source_file": "video_creators.yaml",
+      "source_id": "nvidia"
+    },
+    {
+      "id": "meta-ai",
+      "name": "Meta AI",
+      "source_type": "mixed",
+      "category": "ai_research",
+      "priority": 4,
+      "language": "en",
+      "homepage_url": "",
+      "youtube_url": "",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "rss_url": "",
+      "tags": [
+        "Meta AI",
+        "Open Source",
+        "Research"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "manual",
+      "discovery_status": "needs_manual_url",
+      "notes": "Meta AI research and open model talks.",
+      "source_file": "video_creators.yaml",
+      "source_id": "meta-ai"
+    },
+    {
+      "id": "hugging-face",
+      "name": "Hugging Face",
+      "source_type": "mixed",
+      "category": "ai_open_source",
+      "priority": 5,
+      "language": "en",
+      "homepage_url": "",
+      "youtube_url": "https://www.youtube.com/@HuggingFace",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "rss_url": "",
+      "tags": [
+        "Open Source",
+        "Models",
+        "AI"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "youtube_feed",
+      "discovery_status": "needs_channel_id",
+      "notes": "Open source model, dataset and tooling talks.",
+      "source_file": "video_creators.yaml",
+      "source_id": "hugging-face"
+    },
+    {
+      "id": "stanford-hai",
+      "name": "Stanford HAI",
+      "source_type": "youtube",
+      "category": "ai_research_policy",
+      "priority": 4,
+      "language": "en",
+      "homepage_url": "",
+      "youtube_url": "https://www.youtube.com/@StanfordHAI",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "rss_url": "",
+      "tags": [
+        "Stanford",
+        "AI",
+        "Policy"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "youtube_feed",
+      "discovery_status": "needs_channel_id",
+      "notes": "AI research, governance and policy discussions.",
+      "source_file": "video_creators.yaml",
+      "source_id": "stanford-hai"
+    },
+    {
+      "id": "mit-csail",
+      "name": "MIT CSAIL",
+      "source_type": "youtube",
+      "category": "ai_research",
+      "priority": 4,
+      "language": "en",
+      "homepage_url": "",
+      "youtube_url": "https://www.youtube.com/@MITCSAIL",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "rss_url": "",
+      "tags": [
+        "MIT",
+        "AI",
+        "Research"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "youtube_feed",
+      "discovery_status": "needs_channel_id",
+      "notes": "Computer science and AI research talks.",
+      "source_file": "video_creators.yaml",
+      "source_id": "mit-csail"
+    },
+    {
+      "id": "berkeley-ai-research",
+      "name": "Berkeley AI Research",
+      "source_type": "mixed",
+      "category": "ai_research",
+      "priority": 4,
+      "language": "en",
+      "homepage_url": "",
+      "youtube_url": "",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "rss_url": "",
+      "tags": [
+        "Berkeley",
+        "AI",
+        "Research"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "manual",
+      "discovery_status": "needs_manual_url",
+      "notes": "BAIR talks and public research videos when manually linked.",
+      "source_file": "video_creators.yaml",
+      "source_id": "berkeley-ai-research"
+    },
+    {
+      "id": "andrej-karpathy",
+      "name": "Andrej Karpathy",
+      "source_type": "youtube",
+      "category": "ai_engineering",
+      "priority": 5,
+      "language": "en",
+      "homepage_url": "",
+      "youtube_url": "https://www.youtube.com/@AndrejKarpathy",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "rss_url": "",
+      "tags": [
+        "AI",
+        "LLM",
+        "Deep Learning",
+        "Engineering"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "youtube_feed",
+      "discovery_status": "needs_channel_id",
+      "notes": "AI engineering, LLM, neural networks and coding education.",
+      "source_file": "video_creators.yaml",
+      "source_id": "andrej-karpathy"
+    },
+    {
+      "id": "yannic-kilcher",
+      "name": "Yannic Kilcher",
+      "source_type": "youtube",
+      "category": "ai_research",
+      "priority": 4,
+      "language": "en",
+      "homepage_url": "",
+      "youtube_url": "https://www.youtube.com/@YannicKilcher",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "rss_url": "",
+      "tags": [
+        "Papers",
+        "ML",
+        "AI"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "youtube_feed",
+      "discovery_status": "needs_channel_id",
+      "notes": "Machine learning paper explanations and interviews.",
+      "source_file": "video_creators.yaml",
+      "source_id": "yannic-kilcher"
+    },
+    {
+      "id": "two-minute-papers",
+      "name": "Two Minute Papers",
+      "source_type": "youtube",
+      "category": "ai_research",
+      "priority": 3,
+      "language": "en",
+      "homepage_url": "",
+      "youtube_url": "https://www.youtube.com/@TwoMinutePapers",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "rss_url": "",
+      "tags": [
+        "AI",
+        "Research",
+        "Papers"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "youtube_feed",
+      "discovery_status": "needs_channel_id",
+      "notes": "Short paper explanations; useful for discovery, less often full longform.",
+      "source_file": "video_creators.yaml",
+      "source_id": "two-minute-papers"
+    },
+    {
+      "id": "ai-explained",
+      "name": "AI Explained",
+      "source_type": "youtube",
+      "category": "ai_analysis",
+      "priority": 4,
+      "language": "en",
+      "homepage_url": "",
+      "youtube_url": "https://www.youtube.com/@aiexplained-official",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "rss_url": "",
+      "tags": [
+        "AI",
+        "Analysis",
+        "LLM"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "youtube_feed",
+      "discovery_status": "needs_channel_id",
+      "notes": "AI model and industry analysis.",
+      "source_file": "video_creators.yaml",
+      "source_id": "ai-explained"
+    },
+    {
+      "id": "wes-roth",
+      "name": "Wes Roth",
+      "source_type": "youtube",
+      "category": "ai_product_agents",
+      "priority": 3,
+      "language": "en",
+      "homepage_url": "",
+      "youtube_url": "https://www.youtube.com/@WesRoth",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "rss_url": "",
+      "tags": [
+        "AI",
+        "Agents",
+        "Tools"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "youtube_feed",
+      "discovery_status": "needs_channel_id",
+      "notes": "AI tools, agents and product demos.",
+      "source_file": "video_creators.yaml",
+      "source_id": "wes-roth"
+    },
+    {
+      "id": "matthew-berman",
+      "name": "Matthew Berman",
+      "source_type": "youtube",
+      "category": "ai_product_agents",
+      "priority": 3,
+      "language": "en",
+      "homepage_url": "",
+      "youtube_url": "https://www.youtube.com/@matthew_berman",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "rss_url": "",
+      "tags": [
+        "AI",
+        "Agents",
+        "LLM Tools"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "youtube_feed",
+      "discovery_status": "needs_channel_id",
+      "notes": "AI products, agents and model tool walkthroughs.",
+      "source_file": "video_creators.yaml",
+      "source_id": "matthew-berman"
+    },
+    {
+      "id": "github",
+      "name": "GitHub",
+      "source_type": "youtube",
+      "category": "developer_tools",
+      "priority": 5,
+      "language": "en",
+      "homepage_url": "",
+      "youtube_url": "https://www.youtube.com/@GitHub",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "rss_url": "",
+      "tags": [
+        "GitHub",
+        "Copilot",
+        "Developer Tools"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "youtube_feed",
+      "discovery_status": "needs_channel_id",
+      "notes": "GitHub, Copilot and developer platform videos.",
+      "source_file": "video_creators.yaml",
+      "source_id": "github"
+    },
+    {
+      "id": "vercel",
+      "name": "Vercel",
+      "source_type": "youtube",
+      "category": "developer_tools",
+      "priority": 4,
+      "language": "en",
+      "homepage_url": "",
+      "youtube_url": "https://www.youtube.com/@VercelHQ",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "rss_url": "",
+      "tags": [
+        "Vercel",
+        "Web",
+        "AI SDK"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "youtube_feed",
+      "discovery_status": "needs_channel_id",
+      "notes": "Frontend, AI SDK and product engineering talks.",
+      "source_file": "video_creators.yaml",
+      "source_id": "vercel"
+    },
+    {
+      "id": "cloudflare-developers",
+      "name": "Cloudflare Developers",
+      "source_type": "youtube",
+      "category": "developer_tools_cloud",
+      "priority": 4,
+      "language": "en",
+      "homepage_url": "",
+      "youtube_url": "https://www.youtube.com/@CloudflareDevelopers",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "rss_url": "",
+      "tags": [
+        "Cloudflare",
+        "Workers",
+        "Edge"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "youtube_feed",
+      "discovery_status": "needs_channel_id",
+      "notes": "Cloudflare Workers, edge and developer platform videos.",
+      "source_file": "video_creators.yaml",
+      "source_id": "cloudflare-developers"
+    },
+    {
+      "id": "docker",
+      "name": "Docker",
+      "source_type": "youtube",
+      "category": "engineering_platform",
+      "priority": 3,
+      "language": "en",
+      "homepage_url": "",
+      "youtube_url": "https://www.youtube.com/@Docker",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "rss_url": "",
+      "tags": [
+        "Docker",
+        "DevOps",
+        "Engineering"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "youtube_feed",
+      "discovery_status": "needs_channel_id",
+      "notes": "Container and developer workflow talks.",
+      "source_file": "video_creators.yaml",
+      "source_id": "docker"
+    },
+    {
+      "id": "cncf",
+      "name": "CNCF",
+      "source_type": "youtube",
+      "category": "engineering_platform",
+      "priority": 3,
+      "language": "en",
+      "homepage_url": "",
+      "youtube_url": "https://www.youtube.com/@cncf",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "rss_url": "",
+      "tags": [
+        "Kubernetes",
+        "Cloud Native",
+        "DevOps"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "youtube_feed",
+      "discovery_status": "needs_channel_id",
+      "notes": "Cloud native and Kubernetes conference talks.",
+      "source_file": "video_creators.yaml",
+      "source_id": "cncf"
+    },
+    {
+      "id": "fireship",
+      "name": "Fireship",
+      "source_type": "youtube",
+      "category": "developer_tools",
+      "priority": 3,
+      "language": "en",
+      "homepage_url": "",
+      "youtube_url": "https://www.youtube.com/@Fireship",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "rss_url": "",
+      "tags": [
+        "Programming",
+        "DevTools",
+        "Web"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "youtube_feed",
+      "discovery_status": "needs_channel_id",
+      "notes": "Programming and developer tools explainers.",
+      "source_file": "video_creators.yaml",
+      "source_id": "fireship"
+    },
+    {
+      "id": "theo-t3",
+      "name": "Theo - t3.gg",
+      "source_type": "youtube",
+      "category": "developer_tools",
+      "priority": 3,
+      "language": "en",
+      "homepage_url": "",
+      "youtube_url": "https://www.youtube.com/@t3dotgg",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "rss_url": "",
+      "tags": [
+        "Web",
+        "TypeScript",
+        "DevTools"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "youtube_feed",
+      "discovery_status": "needs_channel_id",
+      "notes": "Developer tooling, web engineering and AI coding commentary.",
+      "source_file": "video_creators.yaml",
+      "source_id": "theo-t3"
+    },
+    {
+      "id": "syntax",
+      "name": "Syntax",
+      "source_type": "podcast",
+      "category": "engineering_web",
+      "priority": 3,
+      "language": "en",
+      "homepage_url": "",
+      "youtube_url": "",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "rss_url": "",
+      "tags": [
+        "JavaScript",
+        "Web",
+        "Podcast"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "manual",
+      "discovery_status": "needs_feed_url",
+      "notes": "Web development and JavaScript podcast.",
+      "source_file": "video_creators.yaml",
+      "source_id": "syntax"
+    },
+    {
+      "id": "software-engineering-daily",
+      "name": "Software Engineering Daily",
+      "source_type": "podcast",
+      "category": "engineering",
+      "priority": 3,
+      "language": "en",
+      "homepage_url": "",
+      "youtube_url": "",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "rss_url": "",
+      "tags": [
+        "Software Engineering",
+        "Cloud",
+        "AI"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "manual",
+      "discovery_status": "needs_feed_url",
+      "notes": "Longform engineering interviews.",
+      "source_file": "video_creators.yaml",
+      "source_id": "software-engineering-daily"
+    },
+    {
+      "id": "changelog",
+      "name": "The Changelog",
+      "source_type": "podcast",
+      "category": "engineering_open_source",
+      "priority": 3,
+      "language": "en",
+      "homepage_url": "",
+      "youtube_url": "",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "rss_url": "",
+      "tags": [
+        "Open Source",
+        "Engineering",
+        "Podcast"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "manual",
+      "discovery_status": "needs_feed_url",
+      "notes": "Open source and developer interviews.",
+      "source_file": "video_creators.yaml",
+      "source_id": "changelog"
+    },
+    {
+      "id": "pragmatic-engineer",
+      "name": "The Pragmatic Engineer",
+      "source_type": "mixed",
+      "category": "engineering_management",
+      "priority": 4,
+      "language": "en",
+      "homepage_url": "",
+      "youtube_url": "https://www.youtube.com/@pragmaticengineer",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "rss_url": "",
+      "tags": [
+        "Engineering",
+        "Management",
+        "Big Tech"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "youtube_feed",
+      "discovery_status": "needs_channel_id",
+      "notes": "Engineering leadership and software industry analysis.",
+      "source_file": "video_creators.yaml",
+      "source_id": "pragmatic-engineer"
+    },
+    {
+      "id": "supabase",
+      "name": "Supabase",
+      "source_type": "youtube",
+      "category": "developer_tools_database",
+      "priority": 3,
+      "language": "en",
+      "homepage_url": "",
+      "youtube_url": "https://www.youtube.com/@Supabase",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "rss_url": "",
+      "tags": [
+        "Database",
+        "Open Source",
+        "DevTools"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "youtube_feed",
+      "discovery_status": "needs_channel_id",
+      "notes": "Database and developer tooling videos.",
+      "source_file": "video_creators.yaml",
+      "source_id": "supabase"
+    },
+    {
+      "id": "neon",
+      "name": "Neon",
+      "source_type": "mixed",
+      "category": "developer_tools_database",
+      "priority": 3,
+      "language": "en",
+      "homepage_url": "",
+      "youtube_url": "",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "rss_url": "",
+      "tags": [
+        "Postgres",
+        "Database",
+        "DevTools"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "manual",
+      "discovery_status": "needs_manual_url",
+      "notes": "Postgres and serverless database talks.",
+      "source_file": "video_creators.yaml",
+      "source_id": "neon"
+    },
+    {
+      "id": "ai-brief-liziran",
+      "name": "AI Brief liziran",
+      "source_type": "website",
+      "category": "user_habit_source",
+      "priority": 5,
+      "language": "zh",
+      "homepage_url": "https://ai-brief.liziran.com/zh/",
+      "youtube_url": "",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "rss_url": "",
+      "tags": [
+        "AI",
+        "中文",
+        "用户习惯来源"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "webpage_metadata",
+      "discovery_status": "needs_manual_url",
+      "notes": "用户已有习惯来源，可作为长内容发现线索。",
+      "source_file": "video_creators.yaml",
+      "source_id": "ai-brief-liziran"
+    },
+    {
+      "id": "ai-digest-liziran",
+      "name": "AI Digest liziran",
+      "source_type": "website",
+      "category": "user_habit_source",
+      "priority": 5,
+      "language": "zh",
+      "homepage_url": "https://ai-digest.liziran.com/zh/",
+      "youtube_url": "",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "rss_url": "",
+      "tags": [
+        "AI",
+        "中文",
+        "用户习惯来源"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "webpage_metadata",
+      "discovery_status": "needs_manual_url",
+      "notes": "用户已有习惯来源，可作为长内容发现线索。",
+      "source_file": "video_creators.yaml",
+      "source_id": "ai-digest-liziran"
+    },
+    {
+      "id": "li-ziran-shuo",
+      "name": "李自然说",
+      "source_type": "youtube",
+      "category": "chinese_ai_business",
+      "priority": 4,
+      "language": "zh",
+      "homepage_url": "",
+      "youtube_url": "",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "rss_url": "",
+      "tags": [
+        "中文AI",
+        "商业",
+        "科技"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "manual",
+      "discovery_status": "needs_manual_url",
+      "notes": "中文 AI、商业和科技内容；不编造 feed，先走手动入口。",
+      "source_file": "video_creators.yaml",
+      "source_id": "li-ziran-shuo"
+    },
+    {
+      "id": "latepost-audio-video",
+      "name": "晚点 LatePost 公开音视频",
+      "source_type": "mixed",
+      "category": "chinese_business_tech",
+      "priority": 3,
+      "language": "zh",
+      "homepage_url": "",
+      "youtube_url": "",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "rss_url": "",
+      "tags": [
+        "中文商业",
+        "科技",
+        "访谈"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "manual",
+      "discovery_status": "needs_manual_url",
+      "notes": "公开音视频与访谈需要人工补充单条链接。",
+      "source_file": "video_creators.yaml",
+      "source_id": "latepost-audio-video"
+    },
+    {
+      "id": "geekpark",
+      "name": "极客公园公开访谈",
+      "source_type": "mixed",
+      "category": "chinese_tech_business",
+      "priority": 4,
+      "language": "zh",
+      "homepage_url": "",
+      "youtube_url": "",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "rss_url": "",
+      "tags": [
+        "中文科技",
+        "产品",
+        "创业"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "manual",
+      "discovery_status": "needs_manual_url",
+      "notes": "公开访谈和活动视频通过手动链接加入。",
+      "source_file": "video_creators.yaml",
+      "source_id": "geekpark"
+    },
+    {
+      "id": "infoq-cn",
+      "name": "InfoQ 中文公开演讲",
+      "source_type": "mixed",
+      "category": "chinese_engineering",
+      "priority": 4,
+      "language": "zh",
+      "homepage_url": "",
+      "youtube_url": "",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "rss_url": "",
+      "tags": [
+        "中文技术",
+        "架构",
+        "工程"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "manual",
+      "discovery_status": "needs_manual_url",
+      "notes": "公开演讲与技术大会视频通过手动链接加入。",
+      "source_file": "video_creators.yaml",
+      "source_id": "infoq-cn"
+    },
+    {
+      "id": "qcon-cn",
+      "name": "QCon 公开演讲",
+      "source_type": "mixed",
+      "category": "chinese_engineering",
+      "priority": 4,
+      "language": "zh",
+      "homepage_url": "",
+      "youtube_url": "",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "rss_url": "",
+      "tags": [
+        "中文技术",
+        "架构",
+        "工程"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "manual",
+      "discovery_status": "needs_manual_url",
+      "notes": "公开演讲入口；不编造 feed。",
+      "source_file": "video_creators.yaml",
+      "source_id": "qcon-cn"
+    },
+    {
+      "id": "machine-heart",
+      "name": "机器之心公开访谈",
+      "source_type": "mixed",
+      "category": "chinese_ai",
+      "priority": 4,
+      "language": "zh",
+      "homepage_url": "",
+      "youtube_url": "",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "rss_url": "",
+      "tags": [
+        "中文AI",
+        "机器学习",
+        "访谈"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "manual",
+      "discovery_status": "needs_manual_url",
+      "notes": "机器之心公开访谈与演讲，具体链接人工加入。",
+      "source_file": "video_creators.yaml",
+      "source_id": "machine-heart"
+    },
+    {
+      "id": "qbitai",
+      "name": "量子位公开访谈",
+      "source_type": "mixed",
+      "category": "chinese_ai",
+      "priority": 4,
+      "language": "zh",
+      "homepage_url": "",
+      "youtube_url": "",
+      "youtube_channel_id": "",
+      "youtube_feed_url": "",
+      "rss_url": "",
+      "tags": [
+        "中文AI",
+        "科技",
+        "访谈"
+      ],
+      "enabled": true,
+      "daily_signal_enabled": false,
+      "crawl_strategy": "manual",
+      "discovery_status": "needs_manual_url",
+      "notes": "量子位公开访谈与活动，具体链接人工加入。",
+      "source_file": "video_creators.yaml",
+      "source_id": "qbitai"
+    }
+  ]
+}

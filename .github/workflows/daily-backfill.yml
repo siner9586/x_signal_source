@@ -13,8 +13,11 @@ on:
       - '.github/workflows/daily-backfill.yml'
       - '.github/workflows/daily.yml'
       - 'scripts/pipeline.mjs'
+      - 'scripts/generate-source-data.mjs'
       - 'scripts/qa.mjs'
       - 'package.json'
+      - 'package-lock.json'
+      - '.nvmrc'
       - 'data/sources/**'
 
 permissions:
@@ -56,16 +59,11 @@ jobs:
         if: steps.guard.outputs.exists != 'true'
         uses: actions/setup-node@v4
         with:
-          node-version: '24'
+          node-version: '22.16.0'
 
       - name: Install dependencies
         if: steps.guard.outputs.exists != 'true'
-        run: |
-          if [ -f package-lock.json ]; then
-            npm ci
-          else
-            npm install
-          fi
+        run: npm ci
 
       - name: Force generate missing daily issue
         if: steps.guard.outputs.exists != 'true'
