@@ -1,182 +1,21 @@
 [
   {
-    "title": "ChatGPT is now a partner for your most ambitious work",
-    "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-    "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-07-10",
-    "score": 70
-  },
-  {
-    "title": "Muse Spark 1.1 is now available on AI Gateway",
-    "url": "https://vercel.com/changelog/muse-spark-1-1-is-now-available-on-ai-gateway",
-    "summary": "Muse Spark 1.1 from Meta is now available on AI Gateway . It is a multimodal reasoning model with a 1M token context window built for agentic tasks, accepting text, image, video, PDF, and audio inputs. Muse Spark 1.1 plans and orchestrates work across tools and services, operating as a main agent or as a subagent, and it works with new tools, MCP servers, and custom skills without examples. The model supports parallel tool calling, structured output, and built-in search with ",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-07-10",
-    "score": 70
-  },
-  {
-    "title": "Modeling an AI jobs transition",
-    "url": "https://openai.com/index/modeling-ai-jobs-transition",
-    "summary": "A new framework analyzes 921 occupations and 148 million U.S. jobs to identify which roles face automation risk, reorganization, growth, or minimal AI disruption.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-07-10",
-    "score": 69
-  },
-  {
-    "title": "Synthetic Data Generation for Financial AI Research with NVIDIA NeMo",
-    "url": "https://developer.nvidia.com/blog/synthetic-data-generation-for-financial-ai-research-with-nvidia-nemo",
-    "summary": "NVIDIA Technical Blog · Synthetic Data Generation for Financial AI Research with NVIDIA NeMo",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-07-10",
-    "score": 69
-  },
-  {
-    "title": "GPT 5.6 Sol, Luna, and Terra now available on AI Gateway",
-    "url": "https://vercel.com/changelog/gpt-5-6-now-available-on-ai-gateway",
-    "summary": "GPT 5.6 is now available on AI Gateway in three models: Sol, Terra, and Luna. GPT 5.6 from OpenAI is now available on AI Gateway in a limited preview, across three models: Sol, Terra, and Luna. All three are stronger at agentic work across coding, biology, and cybersecurity, and are more token-efficient than the previous generation. Sol ( openai/gpt-5.6-sol ): the flagship, and the most capable of the three. Terra ( openai/gpt-5.6-terra ): a balanced model for everyday work, ",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-07-10",
-    "score": 69
-  },
-  {
-    "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-    "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-    "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-07-10",
-    "score": 67
-  },
-  {
-    "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-    "url": "https://openai.com/index/gpt-5-6",
-    "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-07-10",
-    "score": 67
-  },
-  {
-    "title": "ChatGPT Sites",
-    "url": "https://openai.com/academy/chatgpt-sites",
-    "summary": "Create that kind of lightweight website or app with Codex.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-07-10",
-    "score": 67
-  },
-  {
-    "title": "AI is becoming a first hire for small businesses",
-    "url": "https://openai.com/index/ai-first-hire-small-business",
-    "summary": "New research shows how 4 million Americans use ChatGPT to start, run, and grow small businesses, lowering the cost of entrepreneurship with AI.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-07-10",
-    "score": 67
-  },
-  {
-    "title": "How to use ChatGPT Work for everyday tasks",
-    "url": "https://openai.com/academy/how-to-use-chatgpt-work-for-everyday-tasks",
-    "summary": "Explore practical ChatGPT Work use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-07-10",
-    "score": 67
-  },
-  {
-    "title": "How GitHub gave every repository a durable owner",
-    "url": "https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner",
-    "summary": "GitHub had over 14,000 repositories. Fewer than half had clear ownership. Here's how we gave every active repository a validated owner in under 45 days, archived the rest, and made ownership the foundation for everything that followed. The post How GitHub gave every repository a durable owner appeared first on The GitHub Blog .",
+    "title": "Better tools made Copilot code review worse. Here&#8217;s how we actually improved it.",
+    "url": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it",
+    "summary": "How migrating Copilot code review to shared Unix-style code exploration tools reduced review cost by reshaping agent workflows around pull request evidence. The post Better tools made Copilot code review worse. Here&#8217;s how we actually improved it. appeared first on The GitHub Blog .",
     "tags": [
       "ai_coding",
       "developer_tools"
     ],
     "author": "GitHub Copilot",
     "source": "github.blog",
-    "date": "2026-07-10",
-    "score": 67
+    "date": "2026-07-11",
+    "score": 70
   },
   {
-    "title": "Introducing Muse Spark 1.1",
-    "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api",
-    "summary": "AI at Meta Blog · Introducing Muse Spark 1.1",
-    "tags": [
-      "open_source_model",
-      "research",
-      "llama"
-    ],
-    "author": "Meta AI",
-    "source": "ai.meta.com",
-    "date": "2026-07-10",
-    "score": 66
-  },
-  {
-    "title": "A Practical Guide to GPU-Initiated Communication for Molecular Dynamics at Scale",
-    "url": "https://developer.nvidia.com/blog/a-practical-guide-to-gpu-initiated-communication-for-molecular-dynamics-at-scale",
-    "summary": "NVIDIA Technical Blog · A Practical Guide to GPU-Initiated Communication for Molecular Dynamics at Scale",
+    "title": "Accelerating End-to-End Co-Folding Performance with NVIDIA BioNeMo Agent Toolkit",
+    "url": "https://developer.nvidia.com/blog/accelerating-end-to-end-co-folding-performance-with-nvidia-bionemo-agent-toolkit",
+    "summary": "NVIDIA Technical Blog · Accelerating End-to-End Co-Folding Performance with NVIDIA BioNeMo Agent Toolkit",
     "tags": [
       "gpu",
       "inference",
@@ -184,40 +23,98 @@
     ],
     "author": "NVIDIA AI",
     "source": "developer.nvidia.com",
-    "date": "2026-07-10",
+    "date": "2026-07-11",
+    "score": 69
+  },
+  {
+    "title": "You can now deploy Lovable apps to Vercel",
+    "url": "https://vercel.com/changelog/you-can-now-deploy-lovable-apps-to-vercel",
+    "summary": "Vercel now supports Lovable applications with zero configuration. To get started, sync your Lovable project to GitHub , then import the repository to Vercel. Vercel automatically detects the framework ( TanStack Start ) and deploys your app. Once connected, every change you make in Lovable syncs to GitHub and triggers a new deployment on Vercel. Lovable projects now use Nitro under the hood. Nitro is the universal server toolkit that powers zero-config deployments for TanStac",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-07-11",
+    "score": 68
+  },
+  {
+    "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+    "url": "https://openai.com/index/deutsche-telekom",
+    "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-07-11",
+    "score": 67
+  },
+  {
+    "title": "OpenWiki Brains: Proactive Memory for AI Agents",
+    "url": "https://www.langchain.com/blog/introducing-openwiki-brains-general-purpose-wiki-memory-for-agents",
+    "summary": "OpenWiki Brains turns sources like Gmail, Notion, Git, X, Hacker News, and web search into a local wiki that agents can use as fresh, proactive memory.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-07-11",
+    "score": 67
+  },
+  {
+    "title": "Reducing High-Bandwidth Memory Bottlenecks in JAX-Based LLM Training with Host Offloading",
+    "url": "https://developer.nvidia.com/blog/reducing-high-bandwidth-memory-bottlenecks-in-jax-based-llm-training-with-host-offloading",
+    "summary": "NVIDIA Technical Blog · Reducing High-Bandwidth Memory Bottlenecks in JAX-Based LLM Training with Host Offloading",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-07-11",
     "score": 66
   },
   {
-    "title": "Jul 1, 2026 Introducing the Voice Agent Builder",
-    "url": "https://x.ai/news/grok-voice-agent-builder",
-    "summary": "SpaceXAI · Jul 1, 2026 Introducing the Voice Agent Builder",
+    "title": "Kernel Fusion in NVIDIA CUDA: Optimizing Memory Traffic and Launch Overhead",
+    "url": "https://developer.nvidia.com/blog/kernel-fusion-in-nvidia-cuda-optimizing-memory-traffic-and-launch-overhead",
+    "summary": "NVIDIA Technical Blog · Kernel Fusion in NVIDIA CUDA: Optimizing Memory Traffic and Launch Overhead",
     "tags": [
-      "ai_models",
-      "reasoning"
+      "gpu",
+      "inference",
+      "ai_infra"
     ],
-    "author": "xAI",
-    "source": "x.ai",
-    "date": "2026-07-10",
-    "score": 64
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-07-11",
+    "score": 66
   },
   {
-    "title": "Judge Arena: Benchmarking LLMs as Evaluators",
-    "url": "https://huggingface.co/blog/arena-atla",
-    "summary": "Judge Arena: Benchmarking LLMs as Evaluators 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "AI Model Co-Design: Hardware-Friendly LLM Design",
+    "url": "https://developer.nvidia.com/blog/ai-model-co-design-hardware-friendly-llm-design",
+    "summary": "NVIDIA Technical Blog · AI Model Co-Design: Hardware-Friendly LLM Design",
     "tags": [
-      "open_source",
-      "papers",
-      "models"
+      "gpu",
+      "inference",
+      "ai_infra"
     ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-10",
-    "score": 64
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-07-11",
+    "score": 66
   },
   {
-    "title": "Deep Agents Code on NVIDIA NemoClaw",
-    "url": "https://www.langchain.com/blog/deep-agents-code-on-nemoclaw-a-governed-blueprint-for-your-most-sensitive-code",
-    "summary": "Run Deep Agents Code on NVIDIA NemoClaw with deny-by-default networking, human approval, and audit logs for sensitive code modernization.",
+    "title": "Reusable Evaluators and Evaluator Templates in LangSmith",
+    "url": "https://www.langchain.com/blog/reusable-langsmith-evaluator-templates",
+    "summary": "LangSmith Evaluation now includes 30+ evaluator templates and a central hub to reuse evaluators across projects — so you can ship better evals faster without starting from scratch each time.",
     "tags": [
       "agents",
       "rag",
@@ -225,13 +122,13 @@
     ],
     "author": "LangChain",
     "source": "langchain.com",
-    "date": "2026-07-10",
+    "date": "2026-07-11",
     "score": 64
   },
   {
-    "title": "Tuning the harness, not the model: a Nemotron 3 Ultra playbook",
-    "url": "https://www.langchain.com/blog/tuning-the-harness-not-the-model-a-nemotron-3-ultra-playbook",
-    "summary": "We tuned an Nemotron 3 Ultra's harness to match Opus 4.8's best agent run at ~8x lower cost, changing only the scaffolding around it.",
+    "title": "How we build evals for Deep Agents",
+    "url": "https://www.langchain.com/blog/how-we-build-evals-for-deep-agents",
+    "summary": "Build targeted evals for Deep Agents that measure real behaviors. Discover data curation, metrics, and testing strategies to improve agent accuracy.",
     "tags": [
       "agents",
       "rag",
@@ -239,13 +136,13 @@
     ],
     "author": "LangChain",
     "source": "langchain.com",
-    "date": "2026-07-10",
+    "date": "2026-07-11",
     "score": 64
   },
   {
-    "title": "How Deep Agents Run Untrusted Code Without a Sandbox",
-    "url": "https://www.langchain.com/blog/running-untrusted-agent-code-without-a-sandbox",
-    "summary": "A smaller, in-process alternative to full sandboxes: WASM + QuickJS for isolation, least-privilege capabilities, and snapshot-based durable pauses.",
+    "title": "Regression Testing with LangSmith",
+    "url": "https://www.langchain.com/blog/regression-testing",
+    "summary": "Evaluate and iterate on LLM applications with confidence using LangSmith's regression testing. Compare experiments, track performance, and identify changes.",
     "tags": [
       "agents",
       "rag",
@@ -253,13 +150,13 @@
     ],
     "author": "LangChain",
     "source": "langchain.com",
-    "date": "2026-07-10",
+    "date": "2026-07-11",
     "score": 64
   },
   {
-    "title": "Prompt Caching with Deep Agents",
-    "url": "https://www.langchain.com/blog/deep-agents-prompt-caching",
-    "summary": "Learn how Deep Agents uses prompt caching to cut LLM token costs by up to 80% across every major model provider - no extra config required.",
+    "title": "Improving Memory Retrieval: How New Computer achieved 50% higher recall with LangSmith",
+    "url": "https://www.langchain.com/blog/customers-new-computer",
+    "summary": "New Computer used LangSmith to improve their memory retrieval system, achieving 50% higher recall by tracking regressions in comparison view and adjusting conversation prompts accordingly.",
     "tags": [
       "agents",
       "rag",
@@ -267,13 +164,13 @@
     ],
     "author": "LangChain",
     "source": "langchain.com",
-    "date": "2026-07-10",
+    "date": "2026-07-11",
     "score": 64
   },
   {
-    "title": "Introducing Rubrics: Build Agents that Evaluate and Correct Their Work",
-    "url": "https://www.langchain.com/blog/introducing-rubrics-for-deepagents",
-    "summary": "Deep Agents' RubricMiddleware adds a self-evaluation loop to your agent runs. Set a rubric, configure a grader, and get reliable outputs on tasks where correctness matters.",
+    "title": "Pushing LangSmith to new limits with Replit Agent's complex workflows",
+    "url": "https://www.langchain.com/blog/customers-replit",
+    "summary": "See how Replit built their agents atop LangGraph and integrated LangSmith to pinpoint issues, improve the performance of their agents, and enable human-in-the-loop workflows.",
     "tags": [
       "agents",
       "rag",
@@ -281,13 +178,13 @@
     ],
     "author": "LangChain",
     "source": "langchain.com",
-    "date": "2026-07-10",
+    "date": "2026-07-11",
     "score": 64
   },
   {
-    "title": "We built SmithDB, the data layer for agent observability",
-    "url": "https://www.langchain.com/blog/introducing-smithdb",
-    "summary": "Introducing SmithDB: LangSmith's purpose-built distributed database for agent observability, delivering up to 12x faster performance with full portability.",
+    "title": "Introducing OpenTelemetry support for LangSmith",
+    "url": "https://www.langchain.com/blog/opentelemetry-langsmith",
+    "summary": "LangSmith now supports OpenTelemetry for distributed tracing and observability.",
     "tags": [
       "agents",
       "rag",
@@ -295,13 +192,13 @@
     ],
     "author": "LangChain",
     "source": "langchain.com",
-    "date": "2026-07-10",
+    "date": "2026-07-11",
     "score": 64
   },
   {
-    "title": "Why Fleet Has General Purpose Chat and Specialized Agents",
-    "url": "https://www.langchain.com/blog/why-fleet-has-both-general-purpose-chat-and-specialized-agents",
-    "summary": "Fleet supports both quick, ad hoc tasks and recurring responsibilities. See how General Purpose Chat and Specialized Agents help teams delegate work.",
+    "title": "Introducing Align Evals: Streamlining LLM Application Evaluation",
+    "url": "https://www.langchain.com/blog/introducing-align-evals",
+    "summary": "Align Evals is a new feature in LangSmith that helps you calibrate your evaluators to better match human preferences.",
     "tags": [
       "agents",
       "rag",
@@ -309,7 +206,91 @@
     ],
     "author": "LangChain",
     "source": "langchain.com",
-    "date": "2026-07-10",
+    "date": "2026-07-11",
+    "score": 64
+  },
+  {
+    "title": "Evaluating Deep Agents: Our Learnings",
+    "url": "https://www.langchain.com/blog/evaluating-deep-agents-our-learnings",
+    "summary": "Learn 5 patterns for evaluating deep agents: bespoke testing, single-step validation, full turns, multi-turn simulations, and environment setup.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-07-11",
+    "score": 64
+  },
+  {
+    "title": "monday Service + LangSmith: Building a Code-First Evaluation Strategy from Day 1",
+    "url": "https://www.langchain.com/blog/customers-monday",
+    "summary": "Learn how monday Service developed an eval-driven development framework for their customer-facing service agents.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-07-11",
+    "score": 64
+  },
+  {
+    "title": "Full Text Search in SmithDB: Designing an Inverted Index for Object Storage",
+    "url": "https://www.langchain.com/blog/full-text-search-in-smithdb-designing-an-inverted-index-for-object-storage",
+    "summary": "SmithDB supports full-text search and JSON filtering over agent traces with a median (P50) latency of 400 ms, even though the underlying data consists of large, deeply nested JSON documents stored in object storage.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-07-11",
+    "score": 64
+  },
+  {
+    "title": "Delta Channels: How We’re Evolving our Runtime for Long-Running Agents",
+    "url": "https://www.langchain.com/blog/delta-channels-evolving-agent-runtime",
+    "summary": "Long-running agents have a storage problem: checkpointing full state at every step grows at O(N²). DeltaChannel is a new primitive in LangGraph 1.2 that checkpoints only the diff each step and writes full snapshots periodically, keeping storage costs flat as sessions grow longer. It ships by default in Deep Agents v0.6, with no config changes or data migration required.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-07-11",
+    "score": 64
+  },
+  {
+    "title": "New in Deep Agents v0.6",
+    "url": "https://www.langchain.com/blog/deep-agents-0-6",
+    "summary": "Deep Agents 0.6 ships a code interpreter, harness profiles, streaming v3, delta channels, and ContextHub, making agents faster, cheaper, and more scalable.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-07-11",
+    "score": 64
+  },
+  {
+    "title": "Interpreter Skills: Building Workflows for Agents",
+    "url": "https://www.langchain.com/blog/interpreter-skills",
+    "summary": "Interpreter skills extend agent skills with a TypeScript module the agent can import and run. This lets you build more capable workflows with your agents.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-07-11",
     "score": 64
   }
 ]

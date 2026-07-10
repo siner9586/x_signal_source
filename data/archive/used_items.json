@@ -7176,5 +7176,215 @@
     "cluster_id": "langchain_com_1b0c65b1",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_88058d5497884f7e",
+    "canonical_url": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it",
+    "dedupe_key": "7a9bc5e9e5850459",
+    "title": "Better tools made Copilot code review worse. Here&#8217;s how we actually improved it.",
+    "issue_date": "2026-07-11",
+    "cluster_id": "github_blog_529f1123",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_94ad9ae5dd82c146",
+    "canonical_url": "https://developer.nvidia.com/blog/accelerating-end-to-end-co-folding-performance-with-nvidia-bionemo-agent-toolkit",
+    "dedupe_key": "6b0f08a46365a531",
+    "title": "Accelerating End-to-End Co-Folding Performance with NVIDIA BioNeMo Agent Toolkit",
+    "issue_date": "2026-07-11",
+    "cluster_id": "developer_nvidia_com_9b7d8d54",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f7807b14839bd844",
+    "canonical_url": "https://vercel.com/changelog/you-can-now-deploy-lovable-apps-to-vercel",
+    "dedupe_key": "fa1cf866a3a5d64e",
+    "title": "You can now deploy Lovable apps to Vercel",
+    "issue_date": "2026-07-11",
+    "cluster_id": "vercel_com_b0fce409",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9f2605f576873ca4",
+    "canonical_url": "https://openai.com/index/deutsche-telekom",
+    "dedupe_key": "ece6a5a40daa5ea0",
+    "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+    "issue_date": "2026-07-11",
+    "cluster_id": "openai_com_3535f5ae",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f14a4c496d391095",
+    "canonical_url": "https://www.langchain.com/blog/introducing-openwiki-brains-general-purpose-wiki-memory-for-agents",
+    "dedupe_key": "22761655245e3f5e",
+    "title": "OpenWiki Brains: Proactive Memory for AI Agents",
+    "issue_date": "2026-07-11",
+    "cluster_id": "langchain_com_8c7d9b2d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f74afc6ea50f2570",
+    "canonical_url": "https://developer.nvidia.com/blog/reducing-high-bandwidth-memory-bottlenecks-in-jax-based-llm-training-with-host-offloading",
+    "dedupe_key": "26502904c7a05c54",
+    "title": "Reducing High-Bandwidth Memory Bottlenecks in JAX-Based LLM Training with Host Offloading",
+    "issue_date": "2026-07-11",
+    "cluster_id": "developer_nvidia_com_8f23acc7",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_255b0dff7a0e488b",
+    "canonical_url": "https://developer.nvidia.com/blog/kernel-fusion-in-nvidia-cuda-optimizing-memory-traffic-and-launch-overhead",
+    "dedupe_key": "b836d718b0751885",
+    "title": "Kernel Fusion in NVIDIA CUDA: Optimizing Memory Traffic and Launch Overhead",
+    "issue_date": "2026-07-11",
+    "cluster_id": "developer_nvidia_com_c9916650",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d8a84275fde93d74",
+    "canonical_url": "https://developer.nvidia.com/blog/ai-model-co-design-hardware-friendly-llm-design",
+    "dedupe_key": "a68570643f655643",
+    "title": "AI Model Co-Design: Hardware-Friendly LLM Design",
+    "issue_date": "2026-07-11",
+    "cluster_id": "developer_nvidia_com_24a4bec5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_047e338cb25fc30b",
+    "canonical_url": "https://www.langchain.com/blog/reusable-langsmith-evaluator-templates",
+    "dedupe_key": "0debe717852599e2",
+    "title": "Reusable Evaluators and Evaluator Templates in LangSmith",
+    "issue_date": "2026-07-11",
+    "cluster_id": "langchain_com_64d87cae",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_fdf5aa57b8f9477c",
+    "canonical_url": "https://www.langchain.com/blog/how-we-build-evals-for-deep-agents",
+    "dedupe_key": "9d10e716c60d72fd",
+    "title": "How we build evals for Deep Agents",
+    "issue_date": "2026-07-11",
+    "cluster_id": "langchain_com_6eb17383",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0d88359f023b8825",
+    "canonical_url": "https://www.langchain.com/blog/regression-testing",
+    "dedupe_key": "2eecbc4e506a109d",
+    "title": "Regression Testing with LangSmith",
+    "issue_date": "2026-07-11",
+    "cluster_id": "langchain_com_16c9fba3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_55c1b7af68f9f344",
+    "canonical_url": "https://www.langchain.com/blog/customers-new-computer",
+    "dedupe_key": "28ae6a5b40f76c8e",
+    "title": "Improving Memory Retrieval: How New Computer achieved 50% higher recall with LangSmith",
+    "issue_date": "2026-07-11",
+    "cluster_id": "langchain_com_62e076b1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8592bf1c12adf8a0",
+    "canonical_url": "https://www.langchain.com/blog/customers-replit",
+    "dedupe_key": "efb03c3a9723a303",
+    "title": "Pushing LangSmith to new limits with Replit Agent's complex workflows",
+    "issue_date": "2026-07-11",
+    "cluster_id": "langchain_com_94944ebe",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_451f09f11f8186f8",
+    "canonical_url": "https://www.langchain.com/blog/opentelemetry-langsmith",
+    "dedupe_key": "2e4f586ec491f818",
+    "title": "Introducing OpenTelemetry support for LangSmith",
+    "issue_date": "2026-07-11",
+    "cluster_id": "langchain_com_bf7ce9a8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_cce149f5058afe7c",
+    "canonical_url": "https://www.langchain.com/blog/introducing-align-evals",
+    "dedupe_key": "5eebc47309f0cd89",
+    "title": "Introducing Align Evals: Streamlining LLM Application Evaluation",
+    "issue_date": "2026-07-11",
+    "cluster_id": "langchain_com_9660e04b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_13330d9ef4b1ca9e",
+    "canonical_url": "https://www.langchain.com/blog/evaluating-deep-agents-our-learnings",
+    "dedupe_key": "92550edabb93a668",
+    "title": "Evaluating Deep Agents: Our Learnings",
+    "issue_date": "2026-07-11",
+    "cluster_id": "langchain_com_2a2740cb",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0fe407e599f82bc2",
+    "canonical_url": "https://www.langchain.com/blog/customers-monday",
+    "dedupe_key": "b7e03a004cc19d6c",
+    "title": "monday Service + LangSmith: Building a Code-First Evaluation Strategy from Day 1",
+    "issue_date": "2026-07-11",
+    "cluster_id": "langchain_com_60e9f16e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_bf43d8ec579f90e7",
+    "canonical_url": "https://www.langchain.com/blog/full-text-search-in-smithdb-designing-an-inverted-index-for-object-storage",
+    "dedupe_key": "9a58b12a327e4169",
+    "title": "Full Text Search in SmithDB: Designing an Inverted Index for Object Storage",
+    "issue_date": "2026-07-11",
+    "cluster_id": "langchain_com_e2f838db",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8d6be257bd2f460e",
+    "canonical_url": "https://www.langchain.com/blog/delta-channels-evolving-agent-runtime",
+    "dedupe_key": "a9456826de115cdd",
+    "title": "Delta Channels: How We’re Evolving our Runtime for Long-Running Agents",
+    "issue_date": "2026-07-11",
+    "cluster_id": "langchain_com_190f95d6",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4091dbe6aa211d70",
+    "canonical_url": "https://www.langchain.com/blog/deep-agents-0-6",
+    "dedupe_key": "b68fca40659d2a43",
+    "title": "New in Deep Agents v0.6",
+    "issue_date": "2026-07-11",
+    "cluster_id": "langchain_com_4d732fbe",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_dc6ae2ccba83d38e",
+    "canonical_url": "https://www.langchain.com/blog/interpreter-skills",
+    "dedupe_key": "ed351b9d4a1a22aa",
+    "title": "Interpreter Skills: Building Workflows for Agents",
+    "issue_date": "2026-07-11",
+    "cluster_id": "langchain_com_e71e36a8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
