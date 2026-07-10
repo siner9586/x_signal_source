@@ -1,0 +1,100 @@
+name: Daily Backfill Guard
+
+on:
+  # Final independent guard before 08:00 Beijing/Taipei.
+  # 23:50 UTC previous day = 07:50 BJT/Taipei.
+  schedule:
+    - cron: '50 23 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/daily-backfill.yml'
+      - '.github/workflows/daily.yml'
+      - 'scripts/pipeline.mjs'
+      - 'scripts/qa.mjs'
+      - 'package.json'
+      - 'data/sources/**'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-backfill-guard
+  cancel-in-progress: false
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check whether today's issue exists
+        id: guard
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TZ: Asia/Shanghai
+        run: |
+          TODAY="$(date +%F)"
+          ISSUE_FILE="data/issues/${TODAY}.json"
+          echo "today=${TODAY}" >> "$GITHUB_OUTPUT"
+          echo "issue_file=${ISSUE_FILE}" >> "$GITHUB_OUTPUT"
+          if gh api "repos/${GITHUB_REPOSITORY}/contents/${ISSUE_FILE}?ref=${GITHUB_REF_NAME}" >/dev/null 2>&1; then
+            echo "exists=true" >> "$GITHUB_OUTPUT"
+            echo "Issue already exists: ${ISSUE_FILE}. Backfill stops."
+          else
+            echo "exists=false" >> "$GITHUB_OUTPUT"
+            echo "Issue missing: ${ISSUE_FILE}. Backfill will generate now."
+          fi
+
+      - name: Checkout
+        if: steps.guard.outputs.exists != 'true'
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Setup Node
+        if: steps.guard.outputs.exists != 'true'
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+
+      - name: Install dependencies
+        if: steps.guard.outputs.exists != 'true'
+        run: |
+          if [ -f package-lock.json ]; then
+            npm ci
+          else
+            npm install
+          fi
+
+      - name: Force generate missing daily issue
+        if: steps.guard.outputs.exists != 'true'
+        env:
+          TZ: Asia/Shanghai
+        run: npm run daily
+
+      - name: Run QA
+        if: steps.guard.outputs.exists != 'true'
+        env:
+          TZ: Asia/Shanghai
+        run: npm run qa
+
+      - name: Build site
+        if: steps.guard.outputs.exists != 'true'
+        run: npm run build
+
+      - name: Commit and push if changed
+        if: steps.guard.outputs.exists != 'true'
+        env:
+          TZ: Asia/Shanghai
+        run: |
+          git pull --rebase || true
+          if git diff --quiet; then
+            echo "No changes to commit."
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add data content public package-lock.json || true
+            git commit -m "chore: backfill x signal source for $(date +%F)"
+            git push
+          fi
