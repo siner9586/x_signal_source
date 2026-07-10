@@ -10,6 +10,7 @@
     "generate:site-data": "node scripts/pipeline.mjs generate-site-data",
     "qa": "node scripts/qa.mjs",
     "daily": "npm run collect && npm run score && npm run build:issue && npm run generate:site-data",
+    "prebuild": "node scripts/check-build-imports.mjs",
     "build": "astro build",
     "dev": "astro dev",
     "preview": "astro preview",
