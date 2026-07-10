@@ -6956,5 +6956,225 @@
     "cluster_id": "huggingface_co_2e4f3a54",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_101299a7c02f5402",
+    "canonical_url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+    "dedupe_key": "a6ef0a930d468a92",
+    "title": "ChatGPT is now a partner for your most ambitious work",
+    "issue_date": "2026-07-10",
+    "cluster_id": "openai_com_a2aa096f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a19ee24d921dcf8d",
+    "canonical_url": "https://vercel.com/changelog/muse-spark-1-1-is-now-available-on-ai-gateway",
+    "dedupe_key": "3bcf194060d59afb",
+    "title": "Muse Spark 1.1 is now available on AI Gateway",
+    "issue_date": "2026-07-10",
+    "cluster_id": "vercel_com_e141a00d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1e040da3e5624827",
+    "canonical_url": "https://openai.com/index/modeling-ai-jobs-transition",
+    "dedupe_key": "73ee6e83fe9c1184",
+    "title": "Modeling an AI jobs transition",
+    "issue_date": "2026-07-10",
+    "cluster_id": "openai_com_70ed7e6e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_24a5d31793367ded",
+    "canonical_url": "https://developer.nvidia.com/blog/synthetic-data-generation-for-financial-ai-research-with-nvidia-nemo",
+    "dedupe_key": "109bb89140494f32",
+    "title": "Synthetic Data Generation for Financial AI Research with NVIDIA NeMo",
+    "issue_date": "2026-07-10",
+    "cluster_id": "developer_nvidia_com_c48e49ca",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8a02084c2ff7716b",
+    "canonical_url": "https://vercel.com/changelog/gpt-5-6-now-available-on-ai-gateway",
+    "dedupe_key": "0f1fe186faf2f4c7",
+    "title": "GPT 5.6 Sol, Luna, and Terra now available on AI Gateway",
+    "issue_date": "2026-07-10",
+    "cluster_id": "vercel_com_ed3e9a49",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_518118c8565a42bd",
+    "canonical_url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+    "dedupe_key": "2938ae1168bbf54d",
+    "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+    "issue_date": "2026-07-10",
+    "cluster_id": "openai_com_3b229cf5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a97cf986468919d3",
+    "canonical_url": "https://openai.com/index/gpt-5-6",
+    "dedupe_key": "c4846a1644c80e43",
+    "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+    "issue_date": "2026-07-10",
+    "cluster_id": "openai_com_18682d8e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8bb008d1788c6e14",
+    "canonical_url": "https://openai.com/academy/chatgpt-sites",
+    "dedupe_key": "bc0d8d52ffad7cb0",
+    "title": "ChatGPT Sites",
+    "issue_date": "2026-07-10",
+    "cluster_id": "openai_com_bc332df2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7116631489714874",
+    "canonical_url": "https://openai.com/index/ai-first-hire-small-business",
+    "dedupe_key": "2151f103fce9355f",
+    "title": "AI is becoming a first hire for small businesses",
+    "issue_date": "2026-07-10",
+    "cluster_id": "openai_com_31d3221c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_02ddb62df0763848",
+    "canonical_url": "https://openai.com/academy/how-to-use-chatgpt-work-for-everyday-tasks",
+    "dedupe_key": "d731b04397891738",
+    "title": "How to use ChatGPT Work for everyday tasks",
+    "issue_date": "2026-07-10",
+    "cluster_id": "openai_com_0ae3590b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_32e031143337866a",
+    "canonical_url": "https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner",
+    "dedupe_key": "1fd50dd62d407ec7",
+    "title": "How GitHub gave every repository a durable owner",
+    "issue_date": "2026-07-10",
+    "cluster_id": "github_blog_c7c4f6cc",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8bce4641e7322e4a",
+    "canonical_url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api",
+    "dedupe_key": "85e9025672474dcc",
+    "title": "Introducing Muse Spark 1.1",
+    "issue_date": "2026-07-10",
+    "cluster_id": "ai_meta_com_6c3aeb64",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0adfc1812d69b68f",
+    "canonical_url": "https://developer.nvidia.com/blog/a-practical-guide-to-gpu-initiated-communication-for-molecular-dynamics-at-scale",
+    "dedupe_key": "6613b4b0886ceca3",
+    "title": "A Practical Guide to GPU-Initiated Communication for Molecular Dynamics at Scale",
+    "issue_date": "2026-07-10",
+    "cluster_id": "developer_nvidia_com_3be3c476",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9b34b6195058bc36",
+    "canonical_url": "https://x.ai/news/grok-voice-agent-builder",
+    "dedupe_key": "f77b26329b3a1ff7",
+    "title": "Jul 1, 2026 Introducing the Voice Agent Builder",
+    "issue_date": "2026-07-10",
+    "cluster_id": "x_ai_6ca4cf6f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e02346c182b6d2c8",
+    "canonical_url": "https://huggingface.co/blog/arena-atla",
+    "dedupe_key": "87eaebee3ae73974",
+    "title": "Judge Arena: Benchmarking LLMs as Evaluators",
+    "issue_date": "2026-07-10",
+    "cluster_id": "huggingface_co_ba93e888",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f2cf3553c8398e47",
+    "canonical_url": "https://www.langchain.com/blog/deep-agents-code-on-nemoclaw-a-governed-blueprint-for-your-most-sensitive-code",
+    "dedupe_key": "8a7de73a48953d71",
+    "title": "Deep Agents Code on NVIDIA NemoClaw",
+    "issue_date": "2026-07-10",
+    "cluster_id": "langchain_com_54f68f76",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c61cd93f37031675",
+    "canonical_url": "https://www.langchain.com/blog/tuning-the-harness-not-the-model-a-nemotron-3-ultra-playbook",
+    "dedupe_key": "6cb70a730bf546f4",
+    "title": "Tuning the harness, not the model: a Nemotron 3 Ultra playbook",
+    "issue_date": "2026-07-10",
+    "cluster_id": "langchain_com_312cfe46",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1885d6dff3271288",
+    "canonical_url": "https://www.langchain.com/blog/running-untrusted-agent-code-without-a-sandbox",
+    "dedupe_key": "c2925f88ef398ac5",
+    "title": "How Deep Agents Run Untrusted Code Without a Sandbox",
+    "issue_date": "2026-07-10",
+    "cluster_id": "langchain_com_26bb2d76",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9d08385c88288a74",
+    "canonical_url": "https://www.langchain.com/blog/deep-agents-prompt-caching",
+    "dedupe_key": "854e6669d240895b",
+    "title": "Prompt Caching with Deep Agents",
+    "issue_date": "2026-07-10",
+    "cluster_id": "langchain_com_2329046d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6f05ea6889d26aaf",
+    "canonical_url": "https://www.langchain.com/blog/introducing-rubrics-for-deepagents",
+    "dedupe_key": "ee6ebae194929c16",
+    "title": "Introducing Rubrics: Build Agents that Evaluate and Correct Their Work",
+    "issue_date": "2026-07-10",
+    "cluster_id": "langchain_com_bc688255",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_daeef45e7f6a7bcc",
+    "canonical_url": "https://www.langchain.com/blog/introducing-smithdb",
+    "dedupe_key": "1f7c76c5e5cbcbdb",
+    "title": "We built SmithDB, the data layer for agent observability",
+    "issue_date": "2026-07-10",
+    "cluster_id": "langchain_com_81b01f11",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ef80865a65fc486a",
+    "canonical_url": "https://www.langchain.com/blog/why-fleet-has-both-general-purpose-chat-and-specialized-agents",
+    "dedupe_key": "8f1b43e6c6cfd559",
+    "title": "Why Fleet Has General Purpose Chat and Specialized Agents",
+    "issue_date": "2026-07-10",
+    "cluster_id": "langchain_com_1b0c65b1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
