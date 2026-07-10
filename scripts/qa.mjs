@@ -54,6 +54,8 @@ if (BACKFILL_GUARANTEE !== 'daily_backfill_guard_0750_bjt') errors.push('backfil
 if (!wf.includes('push:')) errors.push('daily workflow must include push self-heal trigger');
 if (!backfill.includes("50 23 * * *")) errors.push('daily backfill must run at 07:50 BJT/Taipei');
 if (!backfill.includes('npm run daily')) errors.push('daily backfill must force generate missing issue');
+if (!backfill.includes('group: daily-x-signal-source')) errors.push('daily and backfill workflows must share one concurrency group');
+if (wf.includes('git pull --rebase || true') || backfill.includes('git pull --rebase || true')) errors.push('workflow must commit before rebasing and must not ignore a rebase failure');
 if (!wf.includes('Hard requirement: Beijing/Taipei latest issue should be generated before 08:00')) errors.push('daily workflow must document before-08:00 update guarantee');
 if (!wf.includes("node-version: '22.16.0'") && !wf.includes('node-version: "22.16.0"')) errors.push('workflow must use Node 22.16.0');
 if (!wf.includes('Remote idempotency guard')) errors.push('missing remote idempotency guard');

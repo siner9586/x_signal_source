@@ -24,7 +24,8 @@ permissions:
   contents: write
 
 concurrency:
-  group: daily-backfill-guard
+  # Shares the daily workflow lock: two guards must never generate the same date concurrently.
+  group: daily-x-signal-source
   cancel-in-progress: false
 
 jobs:
@@ -86,13 +87,13 @@ jobs:
         env:
           TZ: Asia/Shanghai
         run: |
-          git pull --rebase || true
-          if git diff --quiet; then
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data content public package-lock.json || true
+          if git diff --cached --quiet; then
             echo "No changes to commit."
           else
-            git config user.name "github-actions[bot]"
-            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add data content public package-lock.json || true
             git commit -m "chore: backfill x signal source for $(date +%F)"
+            git pull --rebase
             git push
           fi
