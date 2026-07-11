@@ -7386,5 +7386,205 @@
     "cluster_id": "langchain_com_e71e36a8",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d41f61e1bc8c010e",
+    "canonical_url": "https://www.langchain.com/blog/mission-control-operating-self-hosted-langsmith-on-kubernetes",
+    "dedupe_key": "be43093d5ea4be00",
+    "title": "Mission Control for Self-Hosted LangSmith on Kubernetes",
+    "issue_date": "2026-07-12",
+    "cluster_id": "langchain_com_2037ad12",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_87baf4e2b56974ca",
+    "canonical_url": "https://a16z.com/news-content",
+    "dedupe_key": "8a2a50b9cb3011a6",
+    "title": "News & Content",
+    "issue_date": "2026-07-12",
+    "cluster_id": "a16z_com_e78e5f93",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6af7e52e58552b2c",
+    "canonical_url": "https://a16z.com/newsletters",
+    "dedupe_key": "6c157670edb9a01b",
+    "title": "Newsletters",
+    "issue_date": "2026-07-12",
+    "cluster_id": "a16z_com_d2ce4df5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_26792e60a86d8905",
+    "canonical_url": "https://a16z.com/podcasts",
+    "dedupe_key": "bd0a436b3fc46c28",
+    "title": "Podcast Network",
+    "issue_date": "2026-07-12",
+    "cluster_id": "a16z_com_74f26113",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b2342112255789f5",
+    "canonical_url": "https://a16z.com/podcast/steven-sinofsky-on-ai-pcs-nvidia-and-the-future-of-computing",
+    "dedupe_key": "ee0085bbbedaf1f0",
+    "title": "Steven Sinofsky on AI PCs, NVIDIA, and the Future of Computing",
+    "issue_date": "2026-07-12",
+    "cluster_id": "a16z_com_026eb219",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3aed781c3d046414",
+    "canonical_url": "https://a16z.com/podcast/why-1b-exits-are-dead",
+    "dedupe_key": "bb5bb62435351dc6",
+    "title": "Why $1B Exits are Dead",
+    "issue_date": "2026-07-12",
+    "cluster_id": "a16z_com_59aa4b27",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2091411ab92d0a3f",
+    "canonical_url": "https://a16z.com/podcast/hugging-faces-clem-delangue-on-open-source-ai-and-the-llm-bubble-mts-live",
+    "dedupe_key": "7901955a3e8ec4ae",
+    "title": "Hugging Face&rsquo;s Clem Delangue on Open Source AI and the LLM Bubble | MTS Live",
+    "issue_date": "2026-07-12",
+    "cluster_id": "a16z_com_098e6d3d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_61a03022fc654b6b",
+    "canonical_url": "https://a16z.com/podcast/marc-andreessen-on-ai-california-and-the-future-of-america-joe-rogan",
+    "dedupe_key": "bb20dfb80786f30f",
+    "title": "Marc Andreessen on AI, California, and the Future of America | Joe Rogan",
+    "issue_date": "2026-07-12",
+    "cluster_id": "a16z_com_4624e0e0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2020d588e6cb5e99",
+    "canonical_url": "https://a16z.com/podcast/the-plan-to-make-american-crime-obsolete",
+    "dedupe_key": "67c3e470e34861ac",
+    "title": "The Plan to Make American Crime Obsolete",
+    "issue_date": "2026-07-12",
+    "cluster_id": "a16z_com_2a607993",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4414589ee9de8032",
+    "canonical_url": "https://www.ycombinator.com/blog/chris-golda-and-grey-baker-general-partners",
+    "dedupe_key": "4e3d7dcea982d827",
+    "title": "Christopher Golda and Grey Baker Join YC as General Partners",
+    "issue_date": "2026-07-12",
+    "cluster_id": "ycombinator_com_89ff42e7",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_60e6a6d7c4edaa09",
+    "canonical_url": "https://www.ycombinator.com/blog/diana-hu-managing-partner",
+    "dedupe_key": "c80eb9138e52439b",
+    "title": "Diana Hu Is YC's Newest Managing Partner",
+    "issue_date": "2026-07-12",
+    "cluster_id": "ycombinator_com_42499f59",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6614e95e2a755ae7",
+    "canonical_url": "https://www.ycombinator.com/blog/adding-canada-back",
+    "dedupe_key": "ae1602f6cd164cf3",
+    "title": "Adding Canada Back to Our List of Accepted Countries of Incorporation",
+    "issue_date": "2026-07-12",
+    "cluster_id": "ycombinator_com_799a79f2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b03e70957f8ab29d",
+    "canonical_url": "https://www.ycombinator.com/blog/congratulations-to-equipmentshare",
+    "dedupe_key": "d0fcc0a20492a69b",
+    "title": "Congratulations to EquipmentShare on Going Public",
+    "issue_date": "2026-07-12",
+    "cluster_id": "ycombinator_com_d89b3de3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0fa8370dd68e4e9e",
+    "canonical_url": "https://www.ycombinator.com/blog/2026-demo-days",
+    "dedupe_key": "ef63dcbc23ba0ea7",
+    "title": "2026 Demo Day Dates",
+    "issue_date": "2026-07-12",
+    "cluster_id": "ycombinator_com_5cbcad53",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ef623d0f08392941",
+    "canonical_url": "https://www.ycombinator.com/blog/meesho-goes-public",
+    "dedupe_key": "6d6dd91534c8131b",
+    "title": "Meesho Goes Public",
+    "issue_date": "2026-07-12",
+    "cluster_id": "ycombinator_com_8177501a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f5b841910ceeff02",
+    "canonical_url": "https://www.ycombinator.com/blog/groww",
+    "dedupe_key": "737e835ea7012096",
+    "title": "Congratulations to Groww",
+    "issue_date": "2026-07-12",
+    "cluster_id": "ycombinator_com_4d332517",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_15ca240897e925db",
+    "canonical_url": "https://www.ycombinator.com/blog/billiontoone",
+    "dedupe_key": "d4c63554e56b3717",
+    "title": "BillionToOne Goes Public — The Startup That Made Genetic Testing Universal",
+    "issue_date": "2026-07-12",
+    "cluster_id": "ycombinator_com_002f1f87",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8cadc0fd3a33d0a0",
+    "canonical_url": "https://www.ycombinator.com/blog/ycs-newest-visiting-partners",
+    "dedupe_key": "23628f16bfd18738",
+    "title": "Meet YC's Newest Visiting Partners",
+    "issue_date": "2026-07-12",
+    "cluster_id": "ycombinator_com_1ba0f2f5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_186f085a177f80bc",
+    "canonical_url": "https://www.ycombinator.com/blog/welcome-ankit",
+    "dedupe_key": "897b4d5739604c7c",
+    "title": "Ankit Gupta Joins YC as General Partner, Bringing Deep ML Expertise",
+    "issue_date": "2026-07-12",
+    "cluster_id": "ycombinator_com_511ed3dd",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8a12e0651d08424a",
+    "canonical_url": "https://www.ycombinator.com/blog/dalton-caldwell-partner-emeritus",
+    "dedupe_key": "bb0e5df7e12134bc",
+    "title": "Dalton Caldwell’s Move to Partner Emeritus",
+    "issue_date": "2026-07-12",
+    "cluster_id": "ycombinator_com_247d3f98",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]

@@ -1,64 +1,8 @@
 [
   {
-    "title": "Better tools made Copilot code review worse. Here&#8217;s how we actually improved it.",
-    "url": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it",
-    "summary": "How migrating Copilot code review to shared Unix-style code exploration tools reduced review cost by reshaping agent workflows around pull request evidence. The post Better tools made Copilot code review worse. Here&#8217;s how we actually improved it. appeared first on The GitHub Blog .",
-    "tags": [
-      "ai_coding",
-      "developer_tools"
-    ],
-    "author": "GitHub Copilot",
-    "source": "github.blog",
-    "date": "2026-07-11",
-    "score": 70
-  },
-  {
-    "title": "Accelerating End-to-End Co-Folding Performance with NVIDIA BioNeMo Agent Toolkit",
-    "url": "https://developer.nvidia.com/blog/accelerating-end-to-end-co-folding-performance-with-nvidia-bionemo-agent-toolkit",
-    "summary": "NVIDIA Technical Blog · Accelerating End-to-End Co-Folding Performance with NVIDIA BioNeMo Agent Toolkit",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-07-11",
-    "score": 69
-  },
-  {
-    "title": "You can now deploy Lovable apps to Vercel",
-    "url": "https://vercel.com/changelog/you-can-now-deploy-lovable-apps-to-vercel",
-    "summary": "Vercel now supports Lovable applications with zero configuration. To get started, sync your Lovable project to GitHub , then import the repository to Vercel. Vercel automatically detects the framework ( TanStack Start ) and deploys your app. Once connected, every change you make in Lovable syncs to GitHub and triggers a new deployment on Vercel. Lovable projects now use Nitro under the hood. Nitro is the universal server toolkit that powers zero-config deployments for TanStac",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-07-11",
-    "score": 68
-  },
-  {
-    "title": "How Deutsche Telekom is rewiring telecommunications with AI",
-    "url": "https://openai.com/index/deutsche-telekom",
-    "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-07-11",
-    "score": 67
-  },
-  {
-    "title": "OpenWiki Brains: Proactive Memory for AI Agents",
-    "url": "https://www.langchain.com/blog/introducing-openwiki-brains-general-purpose-wiki-memory-for-agents",
-    "summary": "OpenWiki Brains turns sources like Gmail, Notion, Git, X, Hacker News, and web search into a local wiki that agents can use as fresh, proactive memory.",
+    "title": "Mission Control for Self-Hosted LangSmith on Kubernetes",
+    "url": "https://www.langchain.com/blog/mission-control-operating-self-hosted-langsmith-on-kubernetes",
+    "summary": "How Mission Control helps teams operate self-hosted LangSmith on Kubernetes with in-cluster config, preflight checks, health views, releases, and diagnostics.",
     "tags": [
       "agents",
       "rag",
@@ -66,231 +10,273 @@
     ],
     "author": "LangChain",
     "source": "langchain.com",
-    "date": "2026-07-11",
-    "score": 67
-  },
-  {
-    "title": "Reducing High-Bandwidth Memory Bottlenecks in JAX-Based LLM Training with Host Offloading",
-    "url": "https://developer.nvidia.com/blog/reducing-high-bandwidth-memory-bottlenecks-in-jax-based-llm-training-with-host-offloading",
-    "summary": "NVIDIA Technical Blog · Reducing High-Bandwidth Memory Bottlenecks in JAX-Based LLM Training with Host Offloading",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-07-11",
-    "score": 66
-  },
-  {
-    "title": "Kernel Fusion in NVIDIA CUDA: Optimizing Memory Traffic and Launch Overhead",
-    "url": "https://developer.nvidia.com/blog/kernel-fusion-in-nvidia-cuda-optimizing-memory-traffic-and-launch-overhead",
-    "summary": "NVIDIA Technical Blog · Kernel Fusion in NVIDIA CUDA: Optimizing Memory Traffic and Launch Overhead",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-07-11",
-    "score": 66
-  },
-  {
-    "title": "AI Model Co-Design: Hardware-Friendly LLM Design",
-    "url": "https://developer.nvidia.com/blog/ai-model-co-design-hardware-friendly-llm-design",
-    "summary": "NVIDIA Technical Blog · AI Model Co-Design: Hardware-Friendly LLM Design",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-07-11",
-    "score": 66
-  },
-  {
-    "title": "Reusable Evaluators and Evaluator Templates in LangSmith",
-    "url": "https://www.langchain.com/blog/reusable-langsmith-evaluator-templates",
-    "summary": "LangSmith Evaluation now includes 30+ evaluator templates and a central hub to reuse evaluators across projects — so you can ship better evals faster without starting from scratch each time.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-07-11",
+    "date": "2026-07-12",
     "score": 64
   },
   {
-    "title": "How we build evals for Deep Agents",
-    "url": "https://www.langchain.com/blog/how-we-build-evals-for-deep-agents",
-    "summary": "Build targeted evals for Deep Agents that measure real behaviors. Discover data curation, metrics, and testing strategies to improve agent accuracy.",
+    "title": "News & Content",
+    "url": "https://a16z.com/news-content",
+    "summary": "AI a16z | Andreessen Horowitz · News & Content",
     "tags": [
-      "agents",
-      "rag",
-      "framework"
+      "investment",
+      "startup",
+      "thesis"
     ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-07-11",
+    "author": "a16z AI",
+    "source": "a16z.com",
+    "date": "2026-07-12",
     "score": 64
   },
   {
-    "title": "Regression Testing with LangSmith",
-    "url": "https://www.langchain.com/blog/regression-testing",
-    "summary": "Evaluate and iterate on LLM applications with confidence using LangSmith's regression testing. Compare experiments, track performance, and identify changes.",
+    "title": "Newsletters",
+    "url": "https://a16z.com/newsletters",
+    "summary": "AI a16z | Andreessen Horowitz · Newsletters",
     "tags": [
-      "agents",
-      "rag",
-      "framework"
+      "investment",
+      "startup",
+      "thesis"
     ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-07-11",
+    "author": "a16z AI",
+    "source": "a16z.com",
+    "date": "2026-07-12",
     "score": 64
   },
   {
-    "title": "Improving Memory Retrieval: How New Computer achieved 50% higher recall with LangSmith",
-    "url": "https://www.langchain.com/blog/customers-new-computer",
-    "summary": "New Computer used LangSmith to improve their memory retrieval system, achieving 50% higher recall by tracking regressions in comparison view and adjusting conversation prompts accordingly.",
+    "title": "Podcast Network",
+    "url": "https://a16z.com/podcasts",
+    "summary": "AI a16z | Andreessen Horowitz · Podcast Network",
     "tags": [
-      "agents",
-      "rag",
-      "framework"
+      "investment",
+      "startup",
+      "thesis"
     ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-07-11",
+    "author": "a16z AI",
+    "source": "a16z.com",
+    "date": "2026-07-12",
     "score": 64
   },
   {
-    "title": "Pushing LangSmith to new limits with Replit Agent's complex workflows",
-    "url": "https://www.langchain.com/blog/customers-replit",
-    "summary": "See how Replit built their agents atop LangGraph and integrated LangSmith to pinpoint issues, improve the performance of their agents, and enable human-in-the-loop workflows.",
+    "title": "Steven Sinofsky on AI PCs, NVIDIA, and the Future of Computing",
+    "url": "https://a16z.com/podcast/steven-sinofsky-on-ai-pcs-nvidia-and-the-future-of-computing",
+    "summary": "AI a16z | Andreessen Horowitz · Steven Sinofsky on AI PCs, NVIDIA, and the Future of Computing",
     "tags": [
-      "agents",
-      "rag",
-      "framework"
+      "investment",
+      "startup",
+      "thesis"
     ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-07-11",
+    "author": "a16z AI",
+    "source": "a16z.com",
+    "date": "2026-07-12",
     "score": 64
   },
   {
-    "title": "Introducing OpenTelemetry support for LangSmith",
-    "url": "https://www.langchain.com/blog/opentelemetry-langsmith",
-    "summary": "LangSmith now supports OpenTelemetry for distributed tracing and observability.",
+    "title": "Why $1B Exits are Dead",
+    "url": "https://a16z.com/podcast/why-1b-exits-are-dead",
+    "summary": "AI a16z | Andreessen Horowitz · Why $1B Exits are Dead",
     "tags": [
-      "agents",
-      "rag",
-      "framework"
+      "investment",
+      "startup",
+      "thesis"
     ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-07-11",
+    "author": "a16z AI",
+    "source": "a16z.com",
+    "date": "2026-07-12",
     "score": 64
   },
   {
-    "title": "Introducing Align Evals: Streamlining LLM Application Evaluation",
-    "url": "https://www.langchain.com/blog/introducing-align-evals",
-    "summary": "Align Evals is a new feature in LangSmith that helps you calibrate your evaluators to better match human preferences.",
+    "title": "Hugging Face&rsquo;s Clem Delangue on Open Source AI and the LLM Bubble | MTS Live",
+    "url": "https://a16z.com/podcast/hugging-faces-clem-delangue-on-open-source-ai-and-the-llm-bubble-mts-live",
+    "summary": "AI a16z | Andreessen Horowitz · Hugging Face&rsquo;s Clem Delangue on Open Source AI and the LLM Bubble | MTS Live",
     "tags": [
-      "agents",
-      "rag",
-      "framework"
+      "investment",
+      "startup",
+      "thesis"
     ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-07-11",
+    "author": "a16z AI",
+    "source": "a16z.com",
+    "date": "2026-07-12",
     "score": 64
   },
   {
-    "title": "Evaluating Deep Agents: Our Learnings",
-    "url": "https://www.langchain.com/blog/evaluating-deep-agents-our-learnings",
-    "summary": "Learn 5 patterns for evaluating deep agents: bespoke testing, single-step validation, full turns, multi-turn simulations, and environment setup.",
+    "title": "Marc Andreessen on AI, California, and the Future of America | Joe Rogan",
+    "url": "https://a16z.com/podcast/marc-andreessen-on-ai-california-and-the-future-of-america-joe-rogan",
+    "summary": "AI a16z | Andreessen Horowitz · Marc Andreessen on AI, California, and the Future of America | Joe Rogan",
     "tags": [
-      "agents",
-      "rag",
-      "framework"
+      "investment",
+      "startup",
+      "thesis"
     ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-07-11",
+    "author": "a16z AI",
+    "source": "a16z.com",
+    "date": "2026-07-12",
     "score": 64
   },
   {
-    "title": "monday Service + LangSmith: Building a Code-First Evaluation Strategy from Day 1",
-    "url": "https://www.langchain.com/blog/customers-monday",
-    "summary": "Learn how monday Service developed an eval-driven development framework for their customer-facing service agents.",
+    "title": "The Plan to Make American Crime Obsolete",
+    "url": "https://a16z.com/podcast/the-plan-to-make-american-crime-obsolete",
+    "summary": "AI a16z | Andreessen Horowitz · The Plan to Make American Crime Obsolete",
     "tags": [
-      "agents",
-      "rag",
-      "framework"
+      "investment",
+      "startup",
+      "thesis"
     ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-07-11",
+    "author": "a16z AI",
+    "source": "a16z.com",
+    "date": "2026-07-12",
     "score": 64
   },
   {
-    "title": "Full Text Search in SmithDB: Designing an Inverted Index for Object Storage",
-    "url": "https://www.langchain.com/blog/full-text-search-in-smithdb-designing-an-inverted-index-for-object-storage",
-    "summary": "SmithDB supports full-text search and JSON filtering over agent traces with a median (P50) latency of 400 ms, even though the underlying data consists of large, deeply nested JSON documents stored in object storage.",
+    "title": "Christopher Golda and Grey Baker Join YC as General Partners",
+    "url": "https://www.ycombinator.com/blog/chris-golda-and-grey-baker-general-partners",
+    "summary": "We're excited to announce that Christopher Golda and Grey Baker are joining YC as General Partners.",
     "tags": [
-      "agents",
-      "rag",
-      "framework"
+      "startup",
+      "product",
+      "founder"
     ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-07-11",
+    "author": "Y Combinator",
+    "source": "ycombinator.com",
+    "date": "2026-07-12",
     "score": 64
   },
   {
-    "title": "Delta Channels: How We’re Evolving our Runtime for Long-Running Agents",
-    "url": "https://www.langchain.com/blog/delta-channels-evolving-agent-runtime",
-    "summary": "Long-running agents have a storage problem: checkpointing full state at every step grows at O(N²). DeltaChannel is a new primitive in LangGraph 1.2 that checkpoints only the diff each step and writes full snapshots periodically, keeping storage costs flat as sessions grow longer. It ships by default in Deep Agents v0.6, with no config changes or data migration required.",
+    "title": "Diana Hu Is YC's Newest Managing Partner",
+    "url": "https://www.ycombinator.com/blog/diana-hu-managing-partner",
+    "summary": "We're thrilled to announce that Diana Hu has been promoted to Managing Partner at Y Combinator. Few people have built a startup from zero and also shipped tech to 100 million people. Diana has done both.",
     "tags": [
-      "agents",
-      "rag",
-      "framework"
+      "startup",
+      "product",
+      "founder"
     ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-07-11",
+    "author": "Y Combinator",
+    "source": "ycombinator.com",
+    "date": "2026-07-12",
     "score": 64
   },
   {
-    "title": "New in Deep Agents v0.6",
-    "url": "https://www.langchain.com/blog/deep-agents-0-6",
-    "summary": "Deep Agents 0.6 ships a code interpreter, harness profiles, streaming v3, delta channels, and ContextHub, making agents faster, cheaper, and more scalable.",
+    "title": "Adding Canada Back to Our List of Accepted Countries of Incorporation",
+    "url": "https://www.ycombinator.com/blog/adding-canada-back",
+    "summary": "After hearing feedback from Canadian founders in our network, we are adding Canada back to our list of accepted countries of incorporation.",
     "tags": [
-      "agents",
-      "rag",
-      "framework"
+      "startup",
+      "product",
+      "founder"
     ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-07-11",
+    "author": "Y Combinator",
+    "source": "ycombinator.com",
+    "date": "2026-07-12",
     "score": 64
   },
   {
-    "title": "Interpreter Skills: Building Workflows for Agents",
-    "url": "https://www.langchain.com/blog/interpreter-skills",
-    "summary": "Interpreter skills extend agent skills with a TypeScript module the agent can import and run. This lets you build more capable workflows with your agents.",
+    "title": "Congratulations to EquipmentShare on Going Public",
+    "url": "https://www.ycombinator.com/blog/congratulations-to-equipmentshare",
+    "summary": "Today, EquipmentShare (YC W15) goes public. From Missouri to 373 locations nationwide, they've built the operating system construction has been missing—built by contractors, for contractors. Congrats to Jabbok, Willy, and the EquipmentShare team on a huge milestone.",
     "tags": [
-      "agents",
-      "rag",
-      "framework"
+      "startup",
+      "product",
+      "founder"
     ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-07-11",
+    "author": "Y Combinator",
+    "source": "ycombinator.com",
+    "date": "2026-07-12",
+    "score": 64
+  },
+  {
+    "title": "2026 Demo Day Dates",
+    "url": "https://www.ycombinator.com/blog/2026-demo-days",
+    "summary": "We’re excited to share the Demo Day dates for 2026 so founders, investors, and our broader community can plan ahead.",
+    "tags": [
+      "startup",
+      "product",
+      "founder"
+    ],
+    "author": "Y Combinator",
+    "source": "ycombinator.com",
+    "date": "2026-07-12",
+    "score": 64
+  },
+  {
+    "title": "Meesho Goes Public",
+    "url": "https://www.ycombinator.com/blog/meesho-goes-public",
+    "summary": "Meesho goes public today. From S16 to IPO, they’ve built one of India’s largest e-commerce platforms—empowering millions of small merchants to grow their businesses. Congrats to Vidit and Sanjeev on a decade of relentless building and listening to users!",
+    "tags": [
+      "startup",
+      "product",
+      "founder"
+    ],
+    "author": "Y Combinator",
+    "source": "ycombinator.com",
+    "date": "2026-07-12",
+    "score": 64
+  },
+  {
+    "title": "Congratulations to Groww",
+    "url": "https://www.ycombinator.com/blog/groww",
+    "summary": "Today, Groww, India's leading digital investing platform, goes public. Tens of millions use Groww to invest simply and confidently in stocks, mutual funds, and ETFs. As YC's first company to list in India, we couldn't be more proud.",
+    "tags": [
+      "startup",
+      "product",
+      "founder"
+    ],
+    "author": "Y Combinator",
+    "source": "ycombinator.com",
+    "date": "2026-07-12",
+    "score": 64
+  },
+  {
+    "title": "BillionToOne Goes Public — The Startup That Made Genetic Testing Universal",
+    "url": "https://www.ycombinator.com/blog/billiontoone",
+    "summary": "Today, BillionToOne goes public, becoming YC's fourth publicly traded biotech company. More importantly, they have built one of the most important genetic tests in the U.S. Today, 1 in 11 babies born in the US are tested with BillionToOne's fetal genetic test.",
+    "tags": [
+      "startup",
+      "product",
+      "founder"
+    ],
+    "author": "Y Combinator",
+    "source": "ycombinator.com",
+    "date": "2026-07-12",
+    "score": 64
+  },
+  {
+    "title": "Meet YC's Newest Visiting Partners",
+    "url": "https://www.ycombinator.com/blog/ycs-newest-visiting-partners",
+    "summary": "We're excited to announce that nine exceptional founders are joining us as Visiting Partners at YC: Matt Riley, Harshita Arora, Grey Baker, Christopher Golda, Raphael Schaad, Christina Gilbert, Francois Chaubard, Vivian Shen, and James Evans.",
+    "tags": [
+      "startup",
+      "product",
+      "founder"
+    ],
+    "author": "Y Combinator",
+    "source": "ycombinator.com",
+    "date": "2026-07-12",
+    "score": 64
+  },
+  {
+    "title": "Ankit Gupta Joins YC as General Partner, Bringing Deep ML Expertise",
+    "url": "https://www.ycombinator.com/blog/welcome-ankit",
+    "summary": "We&#x2019;re thrilled to announce that Ankit Gupta is joining YC as our newest General Partner. Ankit has already worked with dozens of YC founders as a visiting partner in recent batches. He has a rare blend of deep machine learning expertise and firsthand startup experience that make him",
+    "tags": [
+      "startup",
+      "product",
+      "founder"
+    ],
+    "author": "Y Combinator",
+    "source": "ycombinator.com",
+    "date": "2026-07-12",
+    "score": 64
+  },
+  {
+    "title": "Dalton Caldwell’s Move to Partner Emeritus",
+    "url": "https://www.ycombinator.com/blog/dalton-caldwell-partner-emeritus",
+    "summary": "After 12+ years, 25 batches, and working with more than a thousand startups, Dalton Caldwell is transitioning to Partner Emeritus at YC. Dalton joined YC in 2011 and has contributed in a number of roles over the years, most recently as a Managing Partner. During his time here, he worked",
+    "tags": [
+      "startup",
+      "product",
+      "founder"
+    ],
+    "author": "Y Combinator",
+    "source": "ycombinator.com",
+    "date": "2026-07-12",
     "score": 64
   }
 ]

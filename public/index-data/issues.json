@@ -1,5 +1,13 @@
 [
   {
+    "date": "2026-07-12",
+    "selected_count": 20,
+    "candidates_count": 1020,
+    "must_read_count": 0,
+    "generated_at": "2026-07-11T21:50:36.901Z",
+    "no_new_content": false
+  },
+  {
     "date": "2026-07-11",
     "selected_count": 21,
     "candidates_count": 1018,
