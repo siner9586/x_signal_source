@@ -1,134 +1,22 @@
 [
   {
-    "title": "Mission Control for Self-Hosted LangSmith on Kubernetes",
-    "url": "https://www.langchain.com/blog/mission-control-operating-self-hosted-langsmith-on-kubernetes",
-    "summary": "How Mission Control helps teams operate self-hosted LangSmith on Kubernetes with in-cluster config, preflight checks, health views, releases, and diagnostics.",
+    "title": "How to Evaluate General-Purpose Robot Policies for Real-World Deployment",
+    "url": "https://developer.nvidia.com/blog/how-to-evaluate-general-purpose-robot-policies-for-real-world-deployment",
+    "summary": "NVIDIA Technical Blog · How to Evaluate General-Purpose Robot Policies for Real-World Deployment",
     "tags": [
-      "agents",
-      "rag",
-      "framework"
+      "gpu",
+      "inference",
+      "ai_infra"
     ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-07-12",
-    "score": 64
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-07-13",
+    "score": 66
   },
   {
-    "title": "News & Content",
-    "url": "https://a16z.com/news-content",
-    "summary": "AI a16z | Andreessen Horowitz · News & Content",
-    "tags": [
-      "investment",
-      "startup",
-      "thesis"
-    ],
-    "author": "a16z AI",
-    "source": "a16z.com",
-    "date": "2026-07-12",
-    "score": 64
-  },
-  {
-    "title": "Newsletters",
-    "url": "https://a16z.com/newsletters",
-    "summary": "AI a16z | Andreessen Horowitz · Newsletters",
-    "tags": [
-      "investment",
-      "startup",
-      "thesis"
-    ],
-    "author": "a16z AI",
-    "source": "a16z.com",
-    "date": "2026-07-12",
-    "score": 64
-  },
-  {
-    "title": "Podcast Network",
-    "url": "https://a16z.com/podcasts",
-    "summary": "AI a16z | Andreessen Horowitz · Podcast Network",
-    "tags": [
-      "investment",
-      "startup",
-      "thesis"
-    ],
-    "author": "a16z AI",
-    "source": "a16z.com",
-    "date": "2026-07-12",
-    "score": 64
-  },
-  {
-    "title": "Steven Sinofsky on AI PCs, NVIDIA, and the Future of Computing",
-    "url": "https://a16z.com/podcast/steven-sinofsky-on-ai-pcs-nvidia-and-the-future-of-computing",
-    "summary": "AI a16z | Andreessen Horowitz · Steven Sinofsky on AI PCs, NVIDIA, and the Future of Computing",
-    "tags": [
-      "investment",
-      "startup",
-      "thesis"
-    ],
-    "author": "a16z AI",
-    "source": "a16z.com",
-    "date": "2026-07-12",
-    "score": 64
-  },
-  {
-    "title": "Why $1B Exits are Dead",
-    "url": "https://a16z.com/podcast/why-1b-exits-are-dead",
-    "summary": "AI a16z | Andreessen Horowitz · Why $1B Exits are Dead",
-    "tags": [
-      "investment",
-      "startup",
-      "thesis"
-    ],
-    "author": "a16z AI",
-    "source": "a16z.com",
-    "date": "2026-07-12",
-    "score": 64
-  },
-  {
-    "title": "Hugging Face&rsquo;s Clem Delangue on Open Source AI and the LLM Bubble | MTS Live",
-    "url": "https://a16z.com/podcast/hugging-faces-clem-delangue-on-open-source-ai-and-the-llm-bubble-mts-live",
-    "summary": "AI a16z | Andreessen Horowitz · Hugging Face&rsquo;s Clem Delangue on Open Source AI and the LLM Bubble | MTS Live",
-    "tags": [
-      "investment",
-      "startup",
-      "thesis"
-    ],
-    "author": "a16z AI",
-    "source": "a16z.com",
-    "date": "2026-07-12",
-    "score": 64
-  },
-  {
-    "title": "Marc Andreessen on AI, California, and the Future of America | Joe Rogan",
-    "url": "https://a16z.com/podcast/marc-andreessen-on-ai-california-and-the-future-of-america-joe-rogan",
-    "summary": "AI a16z | Andreessen Horowitz · Marc Andreessen on AI, California, and the Future of America | Joe Rogan",
-    "tags": [
-      "investment",
-      "startup",
-      "thesis"
-    ],
-    "author": "a16z AI",
-    "source": "a16z.com",
-    "date": "2026-07-12",
-    "score": 64
-  },
-  {
-    "title": "The Plan to Make American Crime Obsolete",
-    "url": "https://a16z.com/podcast/the-plan-to-make-american-crime-obsolete",
-    "summary": "AI a16z | Andreessen Horowitz · The Plan to Make American Crime Obsolete",
-    "tags": [
-      "investment",
-      "startup",
-      "thesis"
-    ],
-    "author": "a16z AI",
-    "source": "a16z.com",
-    "date": "2026-07-12",
-    "score": 64
-  },
-  {
-    "title": "Christopher Golda and Grey Baker Join YC as General Partners",
-    "url": "https://www.ycombinator.com/blog/chris-golda-and-grey-baker-general-partners",
-    "summary": "We're excited to announce that Christopher Golda and Grey Baker are joining YC as General Partners.",
+    "title": "Welcoming Jon Xu and Andrew Miklas as YC’s Newest General Partners",
+    "url": "https://www.ycombinator.com/blog/welcome-jon-and-andrew",
+    "summary": "Over the last few batches, visiting partners Jon Xu and Andrew Miklas have become two of the most trusted voices in the YC community. They were both founders in YC’s Summer 2010 batch, and now, 15 years and two industry-shaping companies later, they’re back in a new role: General Partners at YC.",
     "tags": [
       "startup",
       "product",
@@ -136,147 +24,259 @@
     ],
     "author": "Y Combinator",
     "source": "ycombinator.com",
-    "date": "2026-07-12",
+    "date": "2026-07-13",
     "score": 64
   },
   {
-    "title": "Diana Hu Is YC's Newest Managing Partner",
-    "url": "https://www.ycombinator.com/blog/diana-hu-managing-partner",
-    "summary": "We're thrilled to announce that Diana Hu has been promoted to Managing Partner at Y Combinator. Few people have built a startup from zero and also shipped tech to 100 million people. Diana has done both.",
+    "title": "Achieving operational excellence with AI",
+    "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai",
+    "summary": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Lean Six Sigma emphasized statistical rigor and quality control; BPM created end-to-end maps of how work should flow across departments. Both offered a repeatable way to&#8230;",
     "tags": [
-      "startup",
-      "product",
-      "founder"
+      "ai",
+      "research",
+      "society"
     ],
-    "author": "Y Combinator",
-    "source": "ycombinator.com",
-    "date": "2026-07-12",
+    "author": "MIT Technology Review AI",
+    "source": "technologyreview.com",
+    "date": "2026-07-13",
     "score": 64
   },
   {
-    "title": "Adding Canada Back to Our List of Accepted Countries of Incorporation",
-    "url": "https://www.ycombinator.com/blog/adding-canada-back",
-    "summary": "After hearing feedback from Canadian founders in our network, we are adding Canada back to our list of accepted countries of incorporation.",
+    "title": "Building the foundation for an autonomous enterprise",
+    "url": "https://www.technologyreview.com/2026/07/02/1138433/building-the-foundation-for-an-autonomous-enterprise",
+    "summary": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In industries where physical infrastructure, operational continuity, and safety are paramount, AI is becoming a core operating layer. With its sprawling industrial systems and constant stream of operational&#8230;",
     "tags": [
-      "startup",
-      "product",
-      "founder"
+      "ai",
+      "research",
+      "society"
     ],
-    "author": "Y Combinator",
-    "source": "ycombinator.com",
-    "date": "2026-07-12",
+    "author": "MIT Technology Review AI",
+    "source": "technologyreview.com",
+    "date": "2026-07-13",
     "score": 64
   },
   {
-    "title": "Congratulations to EquipmentShare on Going Public",
-    "url": "https://www.ycombinator.com/blog/congratulations-to-equipmentshare",
-    "summary": "Today, EquipmentShare (YC W15) goes public. From Missouri to 373 locations nationwide, they've built the operating system construction has been missing—built by contractors, for contractors. Congrats to Jabbok, Willy, and the EquipmentShare team on a huge milestone.",
+    "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+    "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out",
+    "summary": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll get 3 or 4. Type “Another” again and you’ll get 8 or 9. That won’t work every time—but if it&#8230;",
     "tags": [
-      "startup",
-      "product",
-      "founder"
+      "ai",
+      "research",
+      "society"
     ],
-    "author": "Y Combinator",
-    "source": "ycombinator.com",
-    "date": "2026-07-12",
+    "author": "MIT Technology Review AI",
+    "source": "technologyreview.com",
+    "date": "2026-07-13",
     "score": 64
   },
   {
-    "title": "2026 Demo Day Dates",
-    "url": "https://www.ycombinator.com/blog/2026-demo-days",
-    "summary": "We’re excited to share the Demo Day dates for 2026 so founders, investors, and our broader community can plan ahead.",
+    "title": "GPT-5.6 Sol vs. Claude Fable: Why OpenAI’s new model crushes my benchmark",
+    "url": "https://www.lennysnewsletter.com/p/gpt-56-sol-vs-claude-fable-why-openais",
+    "summary": "Watch now | &#127897;&#65039;GPT 5.6-Sol beats Fable on prototypes, PRDs, and browser use in my 5-category How I AI benchmark, and here's exactly where each model earns its spot.",
     "tags": [
-      "startup",
       "product",
-      "founder"
+      "growth",
+      "startup"
     ],
-    "author": "Y Combinator",
-    "source": "ycombinator.com",
-    "date": "2026-07-12",
+    "author": "Lenny's Newsletter",
+    "source": "lennysnewsletter.com",
+    "date": "2026-07-13",
     "score": 64
   },
   {
-    "title": "Meesho Goes Public",
-    "url": "https://www.ycombinator.com/blog/meesho-goes-public",
-    "summary": "Meesho goes public today. From S16 to IPO, they’ve built one of India’s largest e-commerce platforms—empowering millions of small merchants to grow their businesses. Congrats to Vidit and Sanjeev on a decade of relentless building and listening to users!",
+    "title": "What a harness is and how to build one with Claude Agent SDK",
+    "url": "https://www.lennysnewsletter.com/p/what-a-harness-is-and-how-to-build",
+    "summary": "Listen now | &#127897;&#65039; I built a custom Claude Agent SDK harness to automate Sentry bug triage, saved the \"dear agent, please fix this\" prompt forever, and show you exactly how to build your own",
     "tags": [
-      "startup",
       "product",
-      "founder"
+      "growth",
+      "startup"
     ],
-    "author": "Y Combinator",
-    "source": "ycombinator.com",
-    "date": "2026-07-12",
+    "author": "Lenny's Newsletter",
+    "source": "lennysnewsletter.com",
+    "date": "2026-07-13",
     "score": 64
   },
   {
-    "title": "Congratulations to Groww",
-    "url": "https://www.ycombinator.com/blog/groww",
-    "summary": "Today, Groww, India's leading digital investing platform, goes public. Tens of millions use Groww to invest simply and confidently in stocks, mutual funds, and ETFs. As YC's first company to list in India, we couldn't be more proud.",
+    "title": "Seedream 5.0 Pro is now available on AI Gateway",
+    "url": "https://vercel.com/changelog/seedream-5-0-pro-is-now-available-on-ai-gateway",
+    "summary": "Seedream 5.0 Pro is now available on AI Gateway . Seedream 5.0 Pro is an image generation and editing model. It generates images from text, rendering text without spelling errors and following typographic rules, and produces dense infographics with charts, timelines, and layouts alongside realistic imagery. To use Seedream 5.0 Pro, set model to bytedance/seedream-5.0-pro in the AI SDK : AI Gateway provides a unified API for calling models, tracking usage and cost, and configu",
     "tags": [
-      "startup",
-      "product",
-      "founder"
+      "sdk",
+      "ai_infra",
+      "frontend"
     ],
-    "author": "Y Combinator",
-    "source": "ycombinator.com",
-    "date": "2026-07-12",
-    "score": 64
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-07-13",
+    "score": 63
   },
   {
-    "title": "BillionToOne Goes Public — The Startup That Made Genetic Testing Universal",
-    "url": "https://www.ycombinator.com/blog/billiontoone",
-    "summary": "Today, BillionToOne goes public, becoming YC's fourth publicly traded biotech company. More importantly, they have built one of the most important genetic tests in the U.S. Today, 1 in 11 babies born in the US are tested with BillionToOne's fetal genetic test.",
+    "title": "Traces now support Tree and Waterfall views",
+    "url": "https://vercel.com/changelog/traces-now-support-tree-and-waterfall-views",
+    "summary": "Traces in Vercel Logs now support Tree and Waterfall views. See span hierarchy, critical path, and timing without leaving the log entry. The Tree view groups spans by parent and child. On load, spans are sorted by duration so the slowest appear first. The Waterfall view places every span on one chronological axis, showing what ran in parallel and where time was lost. Read the Tracing documentation to learn more. Read more",
     "tags": [
-      "startup",
-      "product",
-      "founder"
+      "sdk",
+      "ai_infra",
+      "frontend"
     ],
-    "author": "Y Combinator",
-    "source": "ycombinator.com",
-    "date": "2026-07-12",
-    "score": 64
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-07-13",
+    "score": 63
   },
   {
-    "title": "Meet YC's Newest Visiting Partners",
-    "url": "https://www.ycombinator.com/blog/ycs-newest-visiting-partners",
-    "summary": "We're excited to announce that nine exceptional founders are joining us as Visiting Partners at YC: Matt Riley, Harshita Arora, Grey Baker, Christopher Golda, Raphael Schaad, Christina Gilbert, Francois Chaubard, Vivian Shen, and James Evans.",
+    "title": "Build logs now redact Sensitive Environment Variable values",
+    "url": "https://vercel.com/changelog/build-logs-now-redact-sensitive-environment-variable-values",
+    "summary": "When an Environment Variable is marked Sensitive and has a value 32 characters or longer, Vercel now replaces it with [REDACTED] in the deployment's build logs. The Build Logs view also indicates when redaction happened, giving teams visibility into why output was masked without ever exposing the underlying value. When a value is redacted, Vercel logs the Environment Variable key, project, and deployment in the Activity Log, but never the value. Vercel also redacts selected s",
     "tags": [
-      "startup",
-      "product",
-      "founder"
+      "sdk",
+      "ai_infra",
+      "frontend"
     ],
-    "author": "Y Combinator",
-    "source": "ycombinator.com",
-    "date": "2026-07-12",
-    "score": 64
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-07-13",
+    "score": 63
   },
   {
-    "title": "Ankit Gupta Joins YC as General Partner, Bringing Deep ML Expertise",
-    "url": "https://www.ycombinator.com/blog/welcome-ankit",
-    "summary": "We&#x2019;re thrilled to announce that Ankit Gupta is joining YC as our newest General Partner. Ankit has already worked with dozens of YC founders as a visiting partner in recent batches. He has a rare blend of deep machine learning expertise and firsthand startup experience that make him",
+    "title": "Flags SDK now evaluates flags 10x faster",
+    "url": "https://vercel.com/changelog/flags-sdk-now-evaluates-flags-10x-faster",
+    "summary": "Flags SDK and Vercel Flags now evaluate multiple feature flags in bulk around 10x faster. Flag evaluation time improved by reducing microtask queue overhead and creating fewer promises. The improvement scales with the number of flags. Use await evaluate([flagA, flagB]) instead of Promise.all([flagA(), flagB()]) to benefit from these optimizations: You can also pass an object to evaluate flags with named keys precompute() automatically benefits from these improvements as well.",
     "tags": [
-      "startup",
-      "product",
-      "founder"
+      "sdk",
+      "ai_infra",
+      "frontend"
     ],
-    "author": "Y Combinator",
-    "source": "ycombinator.com",
-    "date": "2026-07-12",
-    "score": 64
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-07-13",
+    "score": 63
   },
   {
-    "title": "Dalton Caldwell’s Move to Partner Emeritus",
-    "url": "https://www.ycombinator.com/blog/dalton-caldwell-partner-emeritus",
-    "summary": "After 12+ years, 25 batches, and working with more than a thousand startups, Dalton Caldwell is transitioning to Partner Emeritus at YC. Dalton joined YC in 2011 and has contributed in a number of roles over the years, most recently as a Managing Partner. During his time here, he worked",
+    "title": "You can now view the Activity Log at a project-level",
+    "url": "https://vercel.com/changelog/you-can-now-view-the-activity-log-at-a-project-level",
+    "summary": "Project Settings now includes its own project-specific A ctivity Log . This view pulls the relevant user events from the Activity Log in Team Settings. Review project-level activity without leaving your project settings. Visit your project settings to try it out. Read more",
     "tags": [
-      "startup",
-      "product",
-      "founder"
+      "sdk",
+      "ai_infra",
+      "frontend"
     ],
-    "author": "Y Combinator",
-    "source": "ycombinator.com",
-    "date": "2026-07-12",
-    "score": 64
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-07-13",
+    "score": 63
+  },
+  {
+    "title": "More granular observability for Vercel Sandbox",
+    "url": "https://vercel.com/changelog/more-granular-observability-for-vercel-sandbox",
+    "summary": "Vercel Sandbox observability now includes detailed resource metrics, giving you deeper visibility into how your sandboxes consume compute and networking. From the Observability tab in your dashboard, you can now monitor: Active CPU and CPU usage: Measures when your code actively uses the CPU. Active CPU is measured in core-hours and time spent waiting on I/O, such as network requests or model calls, is not billed Provisioned Memory: Memory allocated to your sandboxes multipli",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-07-13",
+    "score": 63
+  },
+  {
+    "title": "Vercel Sandbox now supports FUSE-based filesystems",
+    "url": "https://vercel.com/changelog/vercel-sandbox-now-supports-fuse-based-filesystems",
+    "summary": "Vercel Sandbox now supports FUSE, letting you mount remote storage and custom filesystems inside a running Sandbox. Use it to attach S3 buckets, network filesystems, or any other FUSE-compatible driver as a regular path. This makes it possible to stream large datasets directly from object storage, share state across Sandboxes through a common filesystem, or run tools that expect POSIX paths against remote sources without copying data into the Sandbox first. Learn more about r",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-07-13",
+    "score": 63
+  },
+  {
+    "title": "Manage Vercel Flags segments with Vercel CLI",
+    "url": "https://vercel.com/changelog/manage-vercel-flags-segments-with-vercel-cli",
+    "summary": "Vercel Flags segments can now be managed from the Vercel CLI with the new vercel flags segments command. A segment is the targeting primitive a flag uses to decide who sees what. Membership composes from three repeatable tokens: include: , exclude: , and rule: . Pass them to --add or --remove for incremental edits. For full replacement, --data takes the entire segment definition as raw JSON. All segment commands support --json output, making them scriptable from CI, local wor",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-07-13",
+    "score": 63
+  },
+  {
+    "title": "Routing rules now available on AI Gateway",
+    "url": "https://vercel.com/changelog/ai-gateway-routing-rules",
+    "summary": "Vercel AI Gateway now supports routing rules . Routing rules are firewall-style rules that control which models your team can use, applied at the gateway level instead of in your application code. When a model goes down or gets retired, you usually have to ship a code change to move off it. With routing rules, you push one rule and every request reroutes instantly. There are two types: Type What it does Use it to Rewrite Serves a request for one model using another Keep traff",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-07-13",
+    "score": 63
+  },
+  {
+    "title": "Secure internal communication between services (beta)",
+    "url": "https://vercel.com/changelog/secure-internal-communication-between-services",
+    "summary": "Service Bindings make it easy for one Vercel service to securely call another within the same deployment. When a service declares a binding for another service, Vercel automatically injects the configured environment variable. That means user code can fetch that URL normally, while Vercel handles the internal rewrite, routing, authentication, and TLS behind the scenes. This enables multi-service applications on Vercel, like a Next.js frontend calling a FastAPI backend, while ",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-07-13",
+    "score": 63
+  },
+  {
+    "title": "Resend joins the Vercel Marketplace",
+    "url": "https://vercel.com/changelog/resend-vercel-marketplace",
+    "summary": "Resend is now available on the Vercel Marketplace , allowing Vercel teams to send emails from their applications without managing any infrastructure. This integration helps developers start sending messages within minutes, build emails as React components, and track delivery events in real time. Key capabilities include: Send transactional and marketing emails through an API or SMTP relay Build email templates as React components with React Email Track opens, clicks, bounces,",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-07-13",
+    "score": 63
+  },
+  {
+    "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+    "url": "https://huggingface.co/blog/skypilot-hf-storage",
+    "summary": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-13",
+    "score": 63
+  },
+  {
+    "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+    "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+    "summary": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-13",
+    "score": 63
   }
 ]

@@ -7586,5 +7586,205 @@
     "cluster_id": "ycombinator_com_247d3f98",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e3c6d15431d992ef",
+    "canonical_url": "https://developer.nvidia.com/blog/how-to-evaluate-general-purpose-robot-policies-for-real-world-deployment",
+    "dedupe_key": "4c6a1643961c6663",
+    "title": "How to Evaluate General-Purpose Robot Policies for Real-World Deployment",
+    "issue_date": "2026-07-13",
+    "cluster_id": "developer_nvidia_com_a5e63fcc",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f727725a5dcd08f4",
+    "canonical_url": "https://www.ycombinator.com/blog/welcome-jon-and-andrew",
+    "dedupe_key": "9e7fb65fb8ef2b92",
+    "title": "Welcoming Jon Xu and Andrew Miklas as YC’s Newest General Partners",
+    "issue_date": "2026-07-13",
+    "cluster_id": "ycombinator_com_43994e3a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b82f62cd8d223725",
+    "canonical_url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai",
+    "dedupe_key": "5307553b28158a6d",
+    "title": "Achieving operational excellence with AI",
+    "issue_date": "2026-07-13",
+    "cluster_id": "technologyreview_com_b0ea1b1d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5c07c2d5409b1629",
+    "canonical_url": "https://www.technologyreview.com/2026/07/02/1138433/building-the-foundation-for-an-autonomous-enterprise",
+    "dedupe_key": "e1562d7ae6f75639",
+    "title": "Building the foundation for an autonomous enterprise",
+    "issue_date": "2026-07-13",
+    "cluster_id": "technologyreview_com_432adcf6",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_891fea0c84d0a192",
+    "canonical_url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out",
+    "dedupe_key": "1349ec20e17fce12",
+    "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+    "issue_date": "2026-07-13",
+    "cluster_id": "technologyreview_com_8835de40",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_17c310e60076a22c",
+    "canonical_url": "https://www.lennysnewsletter.com/p/gpt-56-sol-vs-claude-fable-why-openais",
+    "dedupe_key": "54566ec64568ca06",
+    "title": "GPT-5.6 Sol vs. Claude Fable: Why OpenAI’s new model crushes my benchmark",
+    "issue_date": "2026-07-13",
+    "cluster_id": "lennysnewsletter_com_aa748a4a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_cf84e09c7f0934d2",
+    "canonical_url": "https://www.lennysnewsletter.com/p/what-a-harness-is-and-how-to-build",
+    "dedupe_key": "38db54a8c07229ac",
+    "title": "What a harness is and how to build one with Claude Agent SDK",
+    "issue_date": "2026-07-13",
+    "cluster_id": "lennysnewsletter_com_91912dc4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a37c56604a082168",
+    "canonical_url": "https://vercel.com/changelog/seedream-5-0-pro-is-now-available-on-ai-gateway",
+    "dedupe_key": "10495c703a130eb2",
+    "title": "Seedream 5.0 Pro is now available on AI Gateway",
+    "issue_date": "2026-07-13",
+    "cluster_id": "vercel_com_d798359f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7581fd8388388e9d",
+    "canonical_url": "https://vercel.com/changelog/traces-now-support-tree-and-waterfall-views",
+    "dedupe_key": "39d60ee6cd4deac6",
+    "title": "Traces now support Tree and Waterfall views",
+    "issue_date": "2026-07-13",
+    "cluster_id": "vercel_com_6eb5d810",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c6fbdc7ba55291e3",
+    "canonical_url": "https://vercel.com/changelog/build-logs-now-redact-sensitive-environment-variable-values",
+    "dedupe_key": "34179901b71379c8",
+    "title": "Build logs now redact Sensitive Environment Variable values",
+    "issue_date": "2026-07-13",
+    "cluster_id": "vercel_com_6ff78f52",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_87a6ac3cdbb1e8a1",
+    "canonical_url": "https://vercel.com/changelog/flags-sdk-now-evaluates-flags-10x-faster",
+    "dedupe_key": "d2f1a68736e5c927",
+    "title": "Flags SDK now evaluates flags 10x faster",
+    "issue_date": "2026-07-13",
+    "cluster_id": "vercel_com_c583e5d0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8dead8ae700e1587",
+    "canonical_url": "https://vercel.com/changelog/you-can-now-view-the-activity-log-at-a-project-level",
+    "dedupe_key": "33e3aa875b4e6616",
+    "title": "You can now view the Activity Log at a project-level",
+    "issue_date": "2026-07-13",
+    "cluster_id": "vercel_com_7af2da45",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6e88feeeff14f439",
+    "canonical_url": "https://vercel.com/changelog/more-granular-observability-for-vercel-sandbox",
+    "dedupe_key": "4fc8eb5386367cf0",
+    "title": "More granular observability for Vercel Sandbox",
+    "issue_date": "2026-07-13",
+    "cluster_id": "vercel_com_fb27e3fe",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2cdbb70600fee79d",
+    "canonical_url": "https://vercel.com/changelog/vercel-sandbox-now-supports-fuse-based-filesystems",
+    "dedupe_key": "2d644eae761cebd9",
+    "title": "Vercel Sandbox now supports FUSE-based filesystems",
+    "issue_date": "2026-07-13",
+    "cluster_id": "vercel_com_e6f6ce79",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_256d62b812d7bba3",
+    "canonical_url": "https://vercel.com/changelog/manage-vercel-flags-segments-with-vercel-cli",
+    "dedupe_key": "e635951dbcff11df",
+    "title": "Manage Vercel Flags segments with Vercel CLI",
+    "issue_date": "2026-07-13",
+    "cluster_id": "vercel_com_4de13c32",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ab675cf803453c8c",
+    "canonical_url": "https://vercel.com/changelog/ai-gateway-routing-rules",
+    "dedupe_key": "3ae2e01d84bcfe39",
+    "title": "Routing rules now available on AI Gateway",
+    "issue_date": "2026-07-13",
+    "cluster_id": "vercel_com_25acedae",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a6c44869fcf35404",
+    "canonical_url": "https://vercel.com/changelog/secure-internal-communication-between-services",
+    "dedupe_key": "83d16ac401c002e2",
+    "title": "Secure internal communication between services (beta)",
+    "issue_date": "2026-07-13",
+    "cluster_id": "vercel_com_8bd30d70",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_08ad520316521e1f",
+    "canonical_url": "https://vercel.com/changelog/resend-vercel-marketplace",
+    "dedupe_key": "bbd8e5622661aa9c",
+    "title": "Resend joins the Vercel Marketplace",
+    "issue_date": "2026-07-13",
+    "cluster_id": "vercel_com_72e28b0f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a3ebc42367db5ce2",
+    "canonical_url": "https://huggingface.co/blog/skypilot-hf-storage",
+    "dedupe_key": "f5049a6bfbdce3a2",
+    "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+    "issue_date": "2026-07-13",
+    "cluster_id": "huggingface_co_fbdd5bff",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e2886777b78534d2",
+    "canonical_url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+    "dedupe_key": "13a7d635d67336c2",
+    "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+    "issue_date": "2026-07-13",
+    "cluster_id": "huggingface_co_b53b062e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
