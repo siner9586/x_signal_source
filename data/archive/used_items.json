@@ -7786,5 +7786,205 @@
     "cluster_id": "huggingface_co_b53b062e",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_65ddc42fb41a8717",
+    "canonical_url": "https://developer.nvidia.com/blog/nvidia-ising-decoding-cuts-color-code-logical-error-rates-by-over-300x",
+    "dedupe_key": "50dcfac1cb7bb2ad",
+    "title": "NVIDIA Ising Decoding Cuts Color Code Logical Error Rates by Over 300X",
+    "issue_date": "2026-07-14",
+    "cluster_id": "developer_nvidia_com_b8d392a5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6e232065b5d6991a",
+    "canonical_url": "https://elevenlabs.io/blog/canada",
+    "dedupe_key": "fb018a79f3c0bf38",
+    "title": "ElevenLabs is launching in Canada",
+    "issue_date": "2026-07-14",
+    "cluster_id": "elevenlabs_io_f43de35c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_02adfb80d2129326",
+    "canonical_url": "https://developer.nvidia.com/blog/extreme-event-likelihoods-with-guided-generative-models",
+    "dedupe_key": "a457e0a266a5f856",
+    "title": "Extreme Event Likelihoods with Guided Generative Models",
+    "issue_date": "2026-07-14",
+    "cluster_id": "developer_nvidia_com_99c2ad27",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_13a7d171453aa832",
+    "canonical_url": "https://vercel.com/changelog/manage-vercel-flags-targeting-rules-from-the-cli",
+    "dedupe_key": "8b7ebaf057dd96b9",
+    "title": "Manage Vercel Flags targeting rules from the CLI",
+    "issue_date": "2026-07-14",
+    "cluster_id": "vercel_com_8c429fc6",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6f9c226c465f6254",
+    "canonical_url": "https://vercel.com/blog/ai-gateway-production-index-july-2026",
+    "dedupe_key": "e5a72a2acab092e0",
+    "title": "Open-weight models surge to 29% of volume, price per token flattens",
+    "issue_date": "2026-07-14",
+    "cluster_id": "vercel_com_8aaa6c87",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f3fae1261ae6f998",
+    "canonical_url": "https://vercel.com/changelog/open-data-and-shareable-charts-for-ai-gateway-leaderboards",
+    "dedupe_key": "55113db3ee8fe37e",
+    "title": "AI Gateway leaderboards, now with open data and shareable charts",
+    "issue_date": "2026-07-14",
+    "cluster_id": "vercel_com_74a18a43",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5d8c0b67fa805347",
+    "canonical_url": "https://vercel.com/changelog/web-analytics-and-speed-insights-are-now-more-cost-efficient",
+    "dedupe_key": "ed91f307117cc6fb",
+    "title": "Web Analytics and Speed Insights are now more cost-efficient",
+    "issue_date": "2026-07-14",
+    "cluster_id": "vercel_com_b31f8683",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8a34b276d280b06e",
+    "canonical_url": "https://www.lennysnewsletter.com/p/how-i-ai-gpt-56-review-how-a-solo",
+    "dedupe_key": "4936e51a44623e26",
+    "title": "🎙️ How I AI: GPT-5.6 review, How a solo builder runs 24/7 local AI, and What an agent harness is and how to build one",
+    "issue_date": "2026-07-14",
+    "cluster_id": "lennysnewsletter_com_6c8868ed",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_03510f409f5928c7",
+    "canonical_url": "https://vercel.com/changelog/configure-which-sources-can-create-deployments-with-deployment-policies",
+    "dedupe_key": "b7a2a934645a0369",
+    "title": "Configure which sources can create deployments with Deployment Policies",
+    "issue_date": "2026-07-14",
+    "cluster_id": "vercel_com_019a5b63",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ccb64db4a3a4982c",
+    "canonical_url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+    "dedupe_key": "120594685444d549",
+    "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+    "issue_date": "2026-07-14",
+    "cluster_id": "huggingface_co_9a86a11e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_83d84ae5ebd6b987",
+    "canonical_url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
+    "dedupe_key": "e0de1858f193d9f0",
+    "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
+    "issue_date": "2026-07-14",
+    "cluster_id": "huggingface_co_f5f0f576",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6a45b6a6654cbf37",
+    "canonical_url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
+    "dedupe_key": "c0d9797a811d552e",
+    "title": "Building Blocks for Foundation Model Training and Inference on AWS",
+    "issue_date": "2026-07-14",
+    "cluster_id": "huggingface_co_db032b27",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d0a257ace40e972c",
+    "canonical_url": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
+    "dedupe_key": "f75fb0b90e0c170d",
+    "title": "How to build scalable web apps with OpenAI&apos;s Privacy Filter",
+    "issue_date": "2026-07-14",
+    "cluster_id": "huggingface_co_cb083ac4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ad708c0b23faa6e5",
+    "canonical_url": "https://huggingface.co/blog/cybersecurity-openness",
+    "dedupe_key": "a708c3f0ea9b078d",
+    "title": "AI and the Future of Cybersecurity: Why Openness Matters",
+    "issue_date": "2026-07-14",
+    "cluster_id": "huggingface_co_5baa8a0f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f72576a2f7994bd0",
+    "canonical_url": "https://huggingface.co/blog/Hcompany/holotab",
+    "dedupe_key": "2b9e323d5fd09a33",
+    "title": "Meet HoloTab by HCompany. Your AI browser companion.",
+    "issue_date": "2026-07-14",
+    "cluster_id": "huggingface_co_65807575",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_764cf248412600e4",
+    "canonical_url": "https://huggingface.co/blog/multimodal-sentence-transformers",
+    "dedupe_key": "8b9b2744537863af",
+    "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
+    "issue_date": "2026-07-14",
+    "cluster_id": "huggingface_co_674b1d4e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b5b6f8a64bb2dd56",
+    "canonical_url": "https://huggingface.co/blog/gemma4",
+    "dedupe_key": "147559d201841bfa",
+    "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
+    "issue_date": "2026-07-14",
+    "cluster_id": "huggingface_co_973ae9a7",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5b65e4817bb40ff6",
+    "canonical_url": "https://huggingface.co/blog/ibm-granite/granite-4-vision",
+    "dedupe_key": "b87a5480da50c8e8",
+    "title": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
+    "issue_date": "2026-07-14",
+    "cluster_id": "huggingface_co_87ca20ae",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_bbcea0a2f9509f96",
+    "canonical_url": "https://huggingface.co/blog/OpenMed/training-mrna-models-25-species",
+    "dedupe_key": "3c6f0a1920f2186b",
+    "title": "Training mRNA Language Models Across 25 Species for $165",
+    "issue_date": "2026-07-14",
+    "cluster_id": "huggingface_co_fdfd8a26",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3a9b9dee59515d59",
+    "canonical_url": "https://huggingface.co/blog/trl-v1",
+    "dedupe_key": "71dcc6aad0f3df23",
+    "title": "TRL v1.0: Post-Training Library Built to Move with the Field",
+    "issue_date": "2026-07-14",
+    "cluster_id": "huggingface_co_f10e3fe6",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]

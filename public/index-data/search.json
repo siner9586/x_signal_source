@@ -1,8 +1,8 @@
 [
   {
-    "title": "How to Evaluate General-Purpose Robot Policies for Real-World Deployment",
-    "url": "https://developer.nvidia.com/blog/how-to-evaluate-general-purpose-robot-policies-for-real-world-deployment",
-    "summary": "NVIDIA Technical Blog · How to Evaluate General-Purpose Robot Policies for Real-World Deployment",
+    "title": "NVIDIA Ising Decoding Cuts Color Code Logical Error Rates by Over 300X",
+    "url": "https://developer.nvidia.com/blog/nvidia-ising-decoding-cuts-color-code-logical-error-rates-by-over-300x",
+    "summary": "NVIDIA Technical Blog · NVIDIA Ising Decoding Cuts Color Code Logical Error Rates by Over 300X",
     "tags": [
       "gpu",
       "inference",
@@ -10,83 +10,96 @@
     ],
     "author": "NVIDIA AI",
     "source": "developer.nvidia.com",
-    "date": "2026-07-13",
+    "date": "2026-07-14",
+    "score": 69
+  },
+  {
+    "title": "ElevenLabs is launching in Canada",
+    "url": "https://elevenlabs.io/blog/canada",
+    "summary": "ElevenLabs Blog - Company, Research & Product Updates · ElevenLabs is launching in Canada",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-07-14",
+    "score": 67
+  },
+  {
+    "title": "Extreme Event Likelihoods with Guided Generative Models",
+    "url": "https://developer.nvidia.com/blog/extreme-event-likelihoods-with-guided-generative-models",
+    "summary": "NVIDIA Technical Blog · Extreme Event Likelihoods with Guided Generative Models",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-07-14",
     "score": 66
   },
   {
-    "title": "Welcoming Jon Xu and Andrew Miklas as YC’s Newest General Partners",
-    "url": "https://www.ycombinator.com/blog/welcome-jon-and-andrew",
-    "summary": "Over the last few batches, visiting partners Jon Xu and Andrew Miklas have become two of the most trusted voices in the YC community. They were both founders in YC’s Summer 2010 batch, and now, 15 years and two industry-shaping companies later, they’re back in a new role: General Partners at YC.",
+    "title": "Manage Vercel Flags targeting rules from the CLI",
+    "url": "https://vercel.com/changelog/manage-vercel-flags-targeting-rules-from-the-cli",
+    "summary": "You can now manage targeting rules for Vercel Flags through the Vercel CLI . With the vercel flags rules command, you and your agents can add new rules, move existing ones, and inspect the current ordering without leaving your terminal. Rules you create from the CLI use the same model as the dashboard. Conditions can target entities or reusable segments , outcomes can serve a single variant, a weighted split, or a progressive rollout, and rules evaluate top to bottom. For scr",
     "tags": [
-      "startup",
-      "product",
-      "founder"
+      "sdk",
+      "ai_infra",
+      "frontend"
     ],
-    "author": "Y Combinator",
-    "source": "ycombinator.com",
-    "date": "2026-07-13",
-    "score": 64
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-07-14",
+    "score": 66
   },
   {
-    "title": "Achieving operational excellence with AI",
-    "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai",
-    "summary": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Lean Six Sigma emphasized statistical rigor and quality control; BPM created end-to-end maps of how work should flow across departments. Both offered a repeatable way to&#8230;",
+    "title": "Open-weight models surge to 29% of volume, price per token flattens",
+    "url": "https://vercel.com/blog/ai-gateway-production-index-july-2026",
+    "summary": "AI Gateway Production Index — July 2026 Every month, AI Gateway routes tens of trillions of tokens between production applications and AI labs, giving us a view of what AI usage actually looks like in today’s enterprise. We publish that view here. See the Production Index reports published in May and June . July 2026 summary The July index reports on AI Gateway data collected in June 2026. AI Gateway token volume grew 29% month over month and spend grew 27% . The price per to",
     "tags": [
-      "ai",
-      "research",
-      "society"
+      "sdk",
+      "ai_infra",
+      "frontend"
     ],
-    "author": "MIT Technology Review AI",
-    "source": "technologyreview.com",
-    "date": "2026-07-13",
-    "score": 64
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-07-14",
+    "score": 65
   },
   {
-    "title": "Building the foundation for an autonomous enterprise",
-    "url": "https://www.technologyreview.com/2026/07/02/1138433/building-the-foundation-for-an-autonomous-enterprise",
-    "summary": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In industries where physical infrastructure, operational continuity, and safety are paramount, AI is becoming a core operating layer. With its sprawling industrial systems and constant stream of operational&#8230;",
+    "title": "AI Gateway leaderboards, now with open data and shareable charts",
+    "url": "https://vercel.com/changelog/open-data-and-shareable-charts-for-ai-gateway-leaderboards",
+    "summary": "The AI Gateway leaderboards show how AI is used in production. They rank the models, labs, apps, and providers running on AI Gateway by production traffic, aggregated daily across trillions of tokens, so you can see what gets adopted and how that changes over time. You can now share any chart as an image and download or query the data behind every ranking. For deeper analysis, see the July AI Production Index . What's ranked There are four leaderboards, each with its own metr",
     "tags": [
-      "ai",
-      "research",
-      "society"
+      "sdk",
+      "ai_infra",
+      "frontend"
     ],
-    "author": "MIT Technology Review AI",
-    "source": "technologyreview.com",
-    "date": "2026-07-13",
-    "score": 64
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-07-14",
+    "score": 65
   },
   {
-    "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
-    "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out",
-    "summary": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll get 3 or 4. Type “Another” again and you’ll get 8 or 9. That won’t work every time—but if it&#8230;",
+    "title": "Web Analytics and Speed Insights are now more cost-efficient",
+    "url": "https://vercel.com/changelog/web-analytics-and-speed-insights-are-now-more-cost-efficient",
+    "summary": "Web Analytics and Speed Insights are now almost 10% more cost-efficient for all Pro and Enterprise teams. Infrastructure and event-processing improvements reduced cost across both products, so page views, referrers, top routes, and Core Web Vitals are now processed more efficiently, and savings scale with your event volume. The change applies automatically, with no configuration, plan changes, or code to update. You'll see the change reflected on your next bill. Learn more in",
     "tags": [
-      "ai",
-      "research",
-      "society"
+      "sdk",
+      "ai_infra",
+      "frontend"
     ],
-    "author": "MIT Technology Review AI",
-    "source": "technologyreview.com",
-    "date": "2026-07-13",
-    "score": 64
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-07-14",
+    "score": 65
   },
   {
-    "title": "GPT-5.6 Sol vs. Claude Fable: Why OpenAI’s new model crushes my benchmark",
-    "url": "https://www.lennysnewsletter.com/p/gpt-56-sol-vs-claude-fable-why-openais",
-    "summary": "Watch now | &#127897;&#65039;GPT 5.6-Sol beats Fable on prototypes, PRDs, and browser use in my 5-category How I AI benchmark, and here's exactly where each model earns its spot.",
-    "tags": [
-      "product",
-      "growth",
-      "startup"
-    ],
-    "author": "Lenny's Newsletter",
-    "source": "lennysnewsletter.com",
-    "date": "2026-07-13",
-    "score": 64
-  },
-  {
-    "title": "What a harness is and how to build one with Claude Agent SDK",
-    "url": "https://www.lennysnewsletter.com/p/what-a-harness-is-and-how-to-build",
-    "summary": "Listen now | &#127897;&#65039; I built a custom Claude Agent SDK harness to automate Sentry bug triage, saved the \"dear agent, please fix this\" prompt forever, and show you exactly how to build your own",
+    "title": "🎙️ How I AI: GPT-5.6 review, How a solo builder runs 24/7 local AI, and What an agent harness is and how to build one",
+    "url": "https://www.lennysnewsletter.com/p/how-i-ai-gpt-56-review-how-a-solo",
+    "summary": "Your weekly listens from How I AI, part of the Lenny&#8217;s Podcast Network",
     "tags": [
       "product",
       "growth",
@@ -94,13 +107,13 @@
     ],
     "author": "Lenny's Newsletter",
     "source": "lennysnewsletter.com",
-    "date": "2026-07-13",
-    "score": 64
+    "date": "2026-07-14",
+    "score": 65
   },
   {
-    "title": "Seedream 5.0 Pro is now available on AI Gateway",
-    "url": "https://vercel.com/changelog/seedream-5-0-pro-is-now-available-on-ai-gateway",
-    "summary": "Seedream 5.0 Pro is now available on AI Gateway . Seedream 5.0 Pro is an image generation and editing model. It generates images from text, rendering text without spelling errors and following typographic rules, and produces dense infographics with charts, timelines, and layouts alongside realistic imagery. To use Seedream 5.0 Pro, set model to bytedance/seedream-5.0-pro in the AI SDK : AI Gateway provides a unified API for calling models, tracking usage and cost, and configu",
+    "title": "Configure which sources can create deployments with Deployment Policies",
+    "url": "https://vercel.com/changelog/configure-which-sources-can-create-deployments-with-deployment-policies",
+    "summary": "Deployment Policies are now available and enable teams to restrict which mechanisms, organizations, and repositories are allowed to create deployments. Each policy can be configured per environment at the team and project level, allowing flexible combinations of rules. Learn more about Deployment Policies . Read more",
     "tags": [
       "sdk",
       "ai_infra",
@@ -108,153 +121,13 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-07-13",
+    "date": "2026-07-14",
     "score": 63
   },
   {
-    "title": "Traces now support Tree and Waterfall views",
-    "url": "https://vercel.com/changelog/traces-now-support-tree-and-waterfall-views",
-    "summary": "Traces in Vercel Logs now support Tree and Waterfall views. See span hierarchy, critical path, and timing without leaving the log entry. The Tree view groups spans by parent and child. On load, spans are sorted by duration so the slowest appear first. The Waterfall view places every span on one chronological axis, showing what ran in parallel and where time was lost. Read the Tracing documentation to learn more. Read more",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-07-13",
-    "score": 63
-  },
-  {
-    "title": "Build logs now redact Sensitive Environment Variable values",
-    "url": "https://vercel.com/changelog/build-logs-now-redact-sensitive-environment-variable-values",
-    "summary": "When an Environment Variable is marked Sensitive and has a value 32 characters or longer, Vercel now replaces it with [REDACTED] in the deployment's build logs. The Build Logs view also indicates when redaction happened, giving teams visibility into why output was masked without ever exposing the underlying value. When a value is redacted, Vercel logs the Environment Variable key, project, and deployment in the Activity Log, but never the value. Vercel also redacts selected s",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-07-13",
-    "score": 63
-  },
-  {
-    "title": "Flags SDK now evaluates flags 10x faster",
-    "url": "https://vercel.com/changelog/flags-sdk-now-evaluates-flags-10x-faster",
-    "summary": "Flags SDK and Vercel Flags now evaluate multiple feature flags in bulk around 10x faster. Flag evaluation time improved by reducing microtask queue overhead and creating fewer promises. The improvement scales with the number of flags. Use await evaluate([flagA, flagB]) instead of Promise.all([flagA(), flagB()]) to benefit from these optimizations: You can also pass an object to evaluate flags with named keys precompute() automatically benefits from these improvements as well.",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-07-13",
-    "score": 63
-  },
-  {
-    "title": "You can now view the Activity Log at a project-level",
-    "url": "https://vercel.com/changelog/you-can-now-view-the-activity-log-at-a-project-level",
-    "summary": "Project Settings now includes its own project-specific A ctivity Log . This view pulls the relevant user events from the Activity Log in Team Settings. Review project-level activity without leaving your project settings. Visit your project settings to try it out. Read more",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-07-13",
-    "score": 63
-  },
-  {
-    "title": "More granular observability for Vercel Sandbox",
-    "url": "https://vercel.com/changelog/more-granular-observability-for-vercel-sandbox",
-    "summary": "Vercel Sandbox observability now includes detailed resource metrics, giving you deeper visibility into how your sandboxes consume compute and networking. From the Observability tab in your dashboard, you can now monitor: Active CPU and CPU usage: Measures when your code actively uses the CPU. Active CPU is measured in core-hours and time spent waiting on I/O, such as network requests or model calls, is not billed Provisioned Memory: Memory allocated to your sandboxes multipli",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-07-13",
-    "score": 63
-  },
-  {
-    "title": "Vercel Sandbox now supports FUSE-based filesystems",
-    "url": "https://vercel.com/changelog/vercel-sandbox-now-supports-fuse-based-filesystems",
-    "summary": "Vercel Sandbox now supports FUSE, letting you mount remote storage and custom filesystems inside a running Sandbox. Use it to attach S3 buckets, network filesystems, or any other FUSE-compatible driver as a regular path. This makes it possible to stream large datasets directly from object storage, share state across Sandboxes through a common filesystem, or run tools that expect POSIX paths against remote sources without copying data into the Sandbox first. Learn more about r",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-07-13",
-    "score": 63
-  },
-  {
-    "title": "Manage Vercel Flags segments with Vercel CLI",
-    "url": "https://vercel.com/changelog/manage-vercel-flags-segments-with-vercel-cli",
-    "summary": "Vercel Flags segments can now be managed from the Vercel CLI with the new vercel flags segments command. A segment is the targeting primitive a flag uses to decide who sees what. Membership composes from three repeatable tokens: include: , exclude: , and rule: . Pass them to --add or --remove for incremental edits. For full replacement, --data takes the entire segment definition as raw JSON. All segment commands support --json output, making them scriptable from CI, local wor",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-07-13",
-    "score": 63
-  },
-  {
-    "title": "Routing rules now available on AI Gateway",
-    "url": "https://vercel.com/changelog/ai-gateway-routing-rules",
-    "summary": "Vercel AI Gateway now supports routing rules . Routing rules are firewall-style rules that control which models your team can use, applied at the gateway level instead of in your application code. When a model goes down or gets retired, you usually have to ship a code change to move off it. With routing rules, you push one rule and every request reroutes instantly. There are two types: Type What it does Use it to Rewrite Serves a request for one model using another Keep traff",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-07-13",
-    "score": 63
-  },
-  {
-    "title": "Secure internal communication between services (beta)",
-    "url": "https://vercel.com/changelog/secure-internal-communication-between-services",
-    "summary": "Service Bindings make it easy for one Vercel service to securely call another within the same deployment. When a service declares a binding for another service, Vercel automatically injects the configured environment variable. That means user code can fetch that URL normally, while Vercel handles the internal rewrite, routing, authentication, and TLS behind the scenes. This enables multi-service applications on Vercel, like a Next.js frontend calling a FastAPI backend, while ",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-07-13",
-    "score": 63
-  },
-  {
-    "title": "Resend joins the Vercel Marketplace",
-    "url": "https://vercel.com/changelog/resend-vercel-marketplace",
-    "summary": "Resend is now available on the Vercel Marketplace , allowing Vercel teams to send emails from their applications without managing any infrastructure. This integration helps developers start sending messages within minutes, build emails as React components, and track delivery events in real time. Key capabilities include: Send transactional and marketing emails through an API or SMTP relay Build email templates as React components with React Email Track opens, clicks, bounces,",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-07-13",
-    "score": 63
-  },
-  {
-    "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
-    "url": "https://huggingface.co/blog/skypilot-hf-storage",
-    "summary": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+    "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+    "summary": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -262,13 +135,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-13",
+    "date": "2026-07-14",
     "score": 63
   },
   {
-    "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
-    "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
-    "summary": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
+    "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
+    "summary": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -276,7 +149,133 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-13",
+    "date": "2026-07-14",
+    "score": 63
+  },
+  {
+    "title": "Building Blocks for Foundation Model Training and Inference on AWS",
+    "url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
+    "summary": "Building Blocks for Foundation Model Training and Inference on AWS 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-14",
+    "score": 63
+  },
+  {
+    "title": "How to build scalable web apps with OpenAI&apos;s Privacy Filter",
+    "url": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
+    "summary": "How to build scalable web apps with OpenAI&apos;s Privacy Filter 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-14",
+    "score": 63
+  },
+  {
+    "title": "AI and the Future of Cybersecurity: Why Openness Matters",
+    "url": "https://huggingface.co/blog/cybersecurity-openness",
+    "summary": "AI and the Future of Cybersecurity: Why Openness Matters 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-14",
+    "score": 63
+  },
+  {
+    "title": "Meet HoloTab by HCompany. Your AI browser companion.",
+    "url": "https://huggingface.co/blog/Hcompany/holotab",
+    "summary": "Meet HoloTab by HCompany. Your AI browser companion. 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-14",
+    "score": 63
+  },
+  {
+    "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
+    "url": "https://huggingface.co/blog/multimodal-sentence-transformers",
+    "summary": "Multimodal Embedding & Reranker Models with Sentence Transformers 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-14",
+    "score": 63
+  },
+  {
+    "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
+    "url": "https://huggingface.co/blog/gemma4",
+    "summary": "Welcome Gemma 4: Frontier multimodal intelligence on device 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-14",
+    "score": 63
+  },
+  {
+    "title": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-4-vision",
+    "summary": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-14",
+    "score": 63
+  },
+  {
+    "title": "Training mRNA Language Models Across 25 Species for $165",
+    "url": "https://huggingface.co/blog/OpenMed/training-mrna-models-25-species",
+    "summary": "Training mRNA Language Models Across 25 Species for $165 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-14",
+    "score": 63
+  },
+  {
+    "title": "TRL v1.0: Post-Training Library Built to Move with the Field",
+    "url": "https://huggingface.co/blog/trl-v1",
+    "summary": "TRL v1.0: Post-Training Library Built to Move with the Field 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-14",
     "score": 63
   }
 ]
