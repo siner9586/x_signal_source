@@ -1,8 +1,23 @@
 [
   {
-    "title": "NVIDIA Ising Decoding Cuts Color Code Logical Error Rates by Over 300X",
-    "url": "https://developer.nvidia.com/blog/nvidia-ising-decoding-cuts-color-code-logical-error-rates-by-over-300x",
-    "summary": "NVIDIA Technical Blog · NVIDIA Ising Decoding Cuts Color Code Logical Error Rates by Over 300X",
+    "title": "How to manage AI investments in the agentic era",
+    "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+    "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-07-15",
+    "score": 72
+  },
+  {
+    "title": "How to Run an Autoresearch Workflow with RL Agent Skills and NVIDIA NeMo",
+    "url": "https://developer.nvidia.com/blog/how-to-run-an-autoresearch-workflow-with-rl-agent-skills-and-nvidia-nemo",
+    "summary": "NVIDIA Technical Blog · How to Run an Autoresearch Workflow with RL Agent Skills and NVIDIA NeMo",
     "tags": [
       "gpu",
       "inference",
@@ -10,26 +25,56 @@
     ],
     "author": "NVIDIA AI",
     "source": "developer.nvidia.com",
-    "date": "2026-07-14",
+    "date": "2026-07-15",
+    "score": 72
+  },
+  {
+    "title": "Post-Train NVIDIA Cosmos 3 in One Day Using Agent Skills",
+    "url": "https://developer.nvidia.com/blog/post-train-nvidia-cosmos-3-in-one-day-using-agent-skills",
+    "summary": "NVIDIA Technical Blog · Post-Train NVIDIA Cosmos 3 in One Day Using Agent Skills",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-07-15",
     "score": 69
   },
   {
-    "title": "ElevenLabs is launching in Canada",
-    "url": "https://elevenlabs.io/blog/canada",
-    "summary": "ElevenLabs Blog - Company, Research & Product Updates · ElevenLabs is launching in Canada",
+    "title": "Vercel Plugin now available in VS Code and GitHub Copilot CLI",
+    "url": "https://vercel.com/changelog/vercel-plugin-now-available-in-vs-code-and-github-copilot-cli",
+    "summary": "The Vercel Plugin is now available in VS Code and the GitHub Copilot CLI. GitHub Copilot now has Vercel platform knowledge on demand, with skills for Next.js, AI SDK, Vercel Functions, and more. The Vercel plugin also helps Copilot stay up to date with the latest Vercel APIs and recommended patterns. To install it for Copilot Chat, search for @agentPlugins vercel in the Extensions panel in VS Code. To install it for the GitHub Copilot CLI, run npx plugins add vercel/vercel-pl",
     "tags": [
-      "voice_ai",
-      "audio"
+      "sdk",
+      "ai_infra",
+      "frontend"
     ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-07-14",
-    "score": 67
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-07-15",
+    "score": 69
   },
   {
-    "title": "Extreme Event Likelihoods with Guided Generative Models",
-    "url": "https://developer.nvidia.com/blog/extreme-event-likelihoods-with-guided-generative-models",
-    "summary": "NVIDIA Technical Blog · Extreme Event Likelihoods with Guided Generative Models",
+    "title": "Empowering India’s next generation of innovators with ATL Saathi",
+    "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi",
+    "summary": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
+    "tags": [
+      "research",
+      "multimodal",
+      "science",
+      "official"
+    ],
+    "author": "Google DeepMind",
+    "source": "deepmind.google",
+    "date": "2026-07-15",
+    "score": 68
+  },
+  {
+    "title": "Lessons From the Leaderboard: What 5,000+ Kagglers Taught Us About Improving AI Reasoning",
+    "url": "https://developer.nvidia.com/blog/lessons-from-the-leaderboard-what-5000-kagglers-taught-us-about-improving-ai-reasoning",
+    "summary": "NVIDIA Technical Blog · Lessons From the Leaderboard: What 5,000+ Kagglers Taught Us About Improving AI Reasoning",
     "tags": [
       "gpu",
       "inference",
@@ -37,13 +82,55 @@
     ],
     "author": "NVIDIA AI",
     "source": "developer.nvidia.com",
-    "date": "2026-07-14",
+    "date": "2026-07-15",
+    "score": 68
+  },
+  {
+    "title": "AgentMail joins the Vercel Marketplace",
+    "url": "https://vercel.com/changelog/agentmail-vercel-marketplace",
+    "summary": "You can now provision and manage AgentMail directly from the Vercel Marketplace. Your AI agents can send, receive, and respond to email from a real inbox. AgentMail handles the mail servers and deliverability. Key capabilities: Provision inboxes and custom domains through the API Handle threads, attachments, and deliverability out of the box Trigger agentic workflows using webhooks and WebSockets Install AgentMail on the Vercel Marketplace or with the Vercel CLI: vc i agentma",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-07-15",
+    "score": 68
+  },
+  {
+    "title": "How to Debug Coding Agents with LangSmith Traces",
+    "url": "https://www.langchain.com/blog/your-coding-agents-are-a-black-box-heres-how-to-crack-them-open",
+    "summary": "Use LangSmith to trace coding agents across Claude Code, Codex, Cursor, Copilot, and more. Inspect tool calls, subagents, errors, costs, and retries.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-07-15",
+    "score": 67
+  },
+  {
+    "title": "Jul 14, 2026 Announcements Anthropic commits $10 million to Canadian AI research",
+    "url": "https://www.anthropic.com/news/canadian-ai-research",
+    "summary": "Newsroom \\ Anthropic · Jul 14, 2026 Announcements Anthropic commits $10 million to Canadian AI research",
+    "tags": [
+      "ai_models",
+      "safety",
+      "official"
+    ],
+    "author": "Anthropic",
+    "source": "anthropic.com",
+    "date": "2026-07-15",
     "score": 66
   },
   {
-    "title": "Manage Vercel Flags targeting rules from the CLI",
-    "url": "https://vercel.com/changelog/manage-vercel-flags-targeting-rules-from-the-cli",
-    "summary": "You can now manage targeting rules for Vercel Flags through the Vercel CLI . With the vercel flags rules command, you and your agents can add new rules, move existing ones, and inspect the current ordering without leaving your terminal. Rules you create from the CLI use the same model as the dashboard. Conditions can target entities or reusable segments , outcomes can serve a single variant, a weighted split, or a progressive rollout, and rules evaluate top to bottom. For scr",
+    "title": "Chat SDK adds X adapter support",
+    "url": "https://vercel.com/changelog/chat-sdk-adds-x-adapter-support",
+    "summary": "Chat SDK now supports X, extending its single-codebase approach to Slack, Discord, GitHub, Teams, Telegram, and WhatsApp with the new X adapter . Teams can build bots that reply to public mentions and hold direct message conversations through the X API v2 and the X Activity API . The adapter handles CRC verification and webhook signature checks automatically and can manage OAuth token refresh for long-running bots. Likes are the only supported reaction, and responses post onc",
     "tags": [
       "sdk",
       "ai_infra",
@@ -51,13 +138,13 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-07-14",
+    "date": "2026-07-15",
     "score": 66
   },
   {
-    "title": "Open-weight models surge to 29% of volume, price per token flattens",
-    "url": "https://vercel.com/blog/ai-gateway-production-index-july-2026",
-    "summary": "AI Gateway Production Index — July 2026 Every month, AI Gateway routes tens of trillions of tokens between production applications and AI labs, giving us a view of what AI usage actually looks like in today’s enterprise. We publish that view here. See the Production Index reports published in May and June . July 2026 summary The July index reports on AI Gateway data collected in June 2026. AI Gateway token volume grew 29% month over month and spend grew 27% . The price per to",
+    "title": "Agent Runs now show subagent activity on eve projects",
+    "url": "https://vercel.com/changelog/agent-runs-now-show-subagent-activity-on-eve-projects",
+    "summary": "You can now inspect subagent activity for eve projects in Agent Runs . The new Subagents tab shows every subagent, organized by which turn started it. Each row shows the prompt, duration, and any failures, all on a shared timeline. Click any subagent to open its run. The tab shows the same details as a parent run: turns, tool calls, metadata, cost, and token usage. Open Agent Runs to try it, or read the documentation to learn more. Read more",
     "tags": [
       "sdk",
       "ai_infra",
@@ -65,13 +152,13 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-07-14",
-    "score": 65
+    "date": "2026-07-15",
+    "score": 66
   },
   {
-    "title": "AI Gateway leaderboards, now with open data and shareable charts",
-    "url": "https://vercel.com/changelog/open-data-and-shareable-charts-for-ai-gateway-leaderboards",
-    "summary": "The AI Gateway leaderboards show how AI is used in production. They rank the models, labs, apps, and providers running on AI Gateway by production traffic, aggregated daily across trillions of tokens, so you can see what gets adopted and how that changes over time. You can now share any chart as an image and download or query the data behind every ranking. For deeper analysis, see the July AI Production Index . What's ranked There are four leaderboards, each with its own metr",
+    "title": "Endform joins the Vercel Marketplace",
+    "url": "https://vercel.com/changelog/endform-joins-the-vercel-marketplace",
+    "summary": "Endform is now available on the Vercel Marketplace . It runs your Playwright tests in parallel, so your suite finishes in the time of your slowest test. Key capabilities: Run every test on its own isolated machine, so they don't interfere Bring your existing Playwright tests with no config changes Get a pass/fail check on every production and preview deployment, linked to full traces in the Endform dashboard Spot flaky tests by tracking results across historical runs Pay only",
     "tags": [
       "sdk",
       "ai_infra",
@@ -79,13 +166,27 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-07-14",
+    "date": "2026-07-15",
     "score": 65
   },
   {
-    "title": "Web Analytics and Speed Insights are now more cost-efficient",
-    "url": "https://vercel.com/changelog/web-analytics-and-speed-insights-are-now-more-cost-efficient",
-    "summary": "Web Analytics and Speed Insights are now almost 10% more cost-efficient for all Pro and Enterprise teams. Infrastructure and event-processing improvements reduced cost across both products, so page views, referrers, top routes, and Core Web Vitals are now processed more efficiently, and savings scale with your event volume. The change applies automatically, with no configuration, plan changes, or code to update. You'll see the change reflected on your next bill. Learn more in",
+    "title": "Jul 14, 2026 Product Introducing Claude for Teachers",
+    "url": "https://www.anthropic.com/news/claude-for-teachers",
+    "summary": "Newsroom \\ Anthropic · Jul 14, 2026 Product Introducing Claude for Teachers",
+    "tags": [
+      "ai_models",
+      "safety",
+      "official"
+    ],
+    "author": "Anthropic",
+    "source": "anthropic.com",
+    "date": "2026-07-15",
+    "score": 63
+  },
+  {
+    "title": "Node.js 20 is being deprecated on October 1, 2026",
+    "url": "https://vercel.com/changelog/node-js-20-is-being-deprecated",
+    "summary": "Following the Node.js 20 end of life on April 30, 2026, we are deprecating Node.js 20 for Builds and Functions on October 1, 2026. How can I see which of my projects are affected? You can see which of your projects are affected by this deprecation with: Will my existing deployments be affected? No, existing deployments with Serverless Functions will not be affected. Invocations to already-deployed functions will continue to work normally. Only new deployments will be affected",
     "tags": [
       "sdk",
       "ai_infra",
@@ -93,41 +194,13 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-07-14",
-    "score": 65
-  },
-  {
-    "title": "🎙️ How I AI: GPT-5.6 review, How a solo builder runs 24/7 local AI, and What an agent harness is and how to build one",
-    "url": "https://www.lennysnewsletter.com/p/how-i-ai-gpt-56-review-how-a-solo",
-    "summary": "Your weekly listens from How I AI, part of the Lenny&#8217;s Podcast Network",
-    "tags": [
-      "product",
-      "growth",
-      "startup"
-    ],
-    "author": "Lenny's Newsletter",
-    "source": "lennysnewsletter.com",
-    "date": "2026-07-14",
-    "score": 65
-  },
-  {
-    "title": "Configure which sources can create deployments with Deployment Policies",
-    "url": "https://vercel.com/changelog/configure-which-sources-can-create-deployments-with-deployment-policies",
-    "summary": "Deployment Policies are now available and enable teams to restrict which mechanisms, organizations, and repositories are allowed to create deployments. Each policy can be configured per environment at the team and project level, allowing flexible combinations of rules. Learn more about Deployment Policies . Read more",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-07-14",
+    "date": "2026-07-15",
     "score": 63
   },
   {
-    "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
-    "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
-    "summary": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Build a Domain-Specific Embedding Model in Under a Day",
+    "url": "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune",
+    "summary": "Build a Domain-Specific Embedding Model in Under a Day 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -135,13 +208,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-14",
+    "date": "2026-07-15",
     "score": 63
   },
   {
-    "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
-    "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
-    "summary": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Ulysses Sequence Parallelism: Training with Million-Token Contexts",
+    "url": "https://huggingface.co/blog/ulysses-sp",
+    "summary": "Ulysses Sequence Parallelism: Training with Million-Token Contexts 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -149,13 +222,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-14",
+    "date": "2026-07-15",
     "score": 63
   },
   {
-    "title": "Building Blocks for Foundation Model Training and Inference on AWS",
-    "url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
-    "summary": "Building Blocks for Foundation Model Training and Inference on AWS 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fine‑Tuning, and On‑Device Optimizations",
+    "url": "https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms",
+    "summary": "Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fine‑Tuning, and On‑Device Optimizations 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -163,13 +236,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-14",
+    "date": "2026-07-15",
     "score": 63
   },
   {
-    "title": "How to build scalable web apps with OpenAI&apos;s Privacy Filter",
-    "url": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
-    "summary": "How to build scalable web apps with OpenAI&apos;s Privacy Filter 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "PRX Part 3 — Training a Text-to-Image Model in 24h!",
+    "url": "https://huggingface.co/blog/Photoroom/prx-part3",
+    "summary": "PRX Part 3 — Training a Text-to-Image Model in 24h! 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -177,13 +250,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-14",
+    "date": "2026-07-15",
     "score": 63
   },
   {
-    "title": "AI and the Future of Cybersecurity: Why Openness Matters",
-    "url": "https://huggingface.co/blog/cybersecurity-openness",
-    "summary": "AI and the Future of Cybersecurity: Why Openness Matters 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "GGML and llama.cpp join HF to ensure the long-term progress of Local AI",
+    "url": "https://huggingface.co/blog/ggml-joins-hf",
+    "summary": "GGML and llama.cpp join HF to ensure the long-term progress of Local AI 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -191,13 +264,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-14",
+    "date": "2026-07-15",
     "score": 63
   },
   {
-    "title": "Meet HoloTab by HCompany. Your AI browser companion.",
-    "url": "https://huggingface.co/blog/Hcompany/holotab",
-    "summary": "Meet HoloTab by HCompany. Your AI browser companion. 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Train AI models with Unsloth and Hugging Face Jobs for FREE",
+    "url": "https://huggingface.co/blog/unsloth-jobs",
+    "summary": "Train AI models with Unsloth and Hugging Face Jobs for FREE 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -205,13 +278,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-14",
+    "date": "2026-07-15",
     "score": 63
   },
   {
-    "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
-    "url": "https://huggingface.co/blog/multimodal-sentence-transformers",
-    "summary": "Multimodal Embedding & Reranker Models with Sentence Transformers 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Transformers.js v4: Now Available on NPM!",
+    "url": "https://huggingface.co/blog/transformersjs-v4",
+    "summary": "Transformers.js v4: Now Available on NPM! 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -219,13 +292,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-14",
+    "date": "2026-07-15",
     "score": 63
   },
   {
-    "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
-    "url": "https://huggingface.co/blog/gemma4",
-    "summary": "Welcome Gemma 4: Frontier multimodal intelligence on device 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+",
+    "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3",
+    "summary": "The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+ 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -233,49 +306,7 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-14",
-    "score": 63
-  },
-  {
-    "title": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
-    "url": "https://huggingface.co/blog/ibm-granite/granite-4-vision",
-    "summary": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-14",
-    "score": 63
-  },
-  {
-    "title": "Training mRNA Language Models Across 25 Species for $165",
-    "url": "https://huggingface.co/blog/OpenMed/training-mrna-models-25-species",
-    "summary": "Training mRNA Language Models Across 25 Species for $165 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-14",
-    "score": 63
-  },
-  {
-    "title": "TRL v1.0: Post-Training Library Built to Move with the Field",
-    "url": "https://huggingface.co/blog/trl-v1",
-    "summary": "TRL v1.0: Post-Training Library Built to Move with the Field 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-14",
+    "date": "2026-07-15",
     "score": 63
   }
 ]

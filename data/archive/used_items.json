@@ -7986,5 +7986,225 @@
     "cluster_id": "huggingface_co_f10e3fe6",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f59efce9c3333556",
+    "canonical_url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+    "dedupe_key": "00daf9baed581b65",
+    "title": "How to manage AI investments in the agentic era",
+    "issue_date": "2026-07-15",
+    "cluster_id": "openai_com_86614d94",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_97f445a82ecfc0c3",
+    "canonical_url": "https://developer.nvidia.com/blog/how-to-run-an-autoresearch-workflow-with-rl-agent-skills-and-nvidia-nemo",
+    "dedupe_key": "60e83bf308950d3d",
+    "title": "How to Run an Autoresearch Workflow with RL Agent Skills and NVIDIA NeMo",
+    "issue_date": "2026-07-15",
+    "cluster_id": "developer_nvidia_com_d27beb10",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3b57f0e26bac777f",
+    "canonical_url": "https://developer.nvidia.com/blog/post-train-nvidia-cosmos-3-in-one-day-using-agent-skills",
+    "dedupe_key": "f9f86e74c1a1f21a",
+    "title": "Post-Train NVIDIA Cosmos 3 in One Day Using Agent Skills",
+    "issue_date": "2026-07-15",
+    "cluster_id": "developer_nvidia_com_78accb9c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a7c2bcb50aec8a58",
+    "canonical_url": "https://vercel.com/changelog/vercel-plugin-now-available-in-vs-code-and-github-copilot-cli",
+    "dedupe_key": "dce83fc333463c76",
+    "title": "Vercel Plugin now available in VS Code and GitHub Copilot CLI",
+    "issue_date": "2026-07-15",
+    "cluster_id": "vercel_com_d868e020",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e8b55dbe8a172333",
+    "canonical_url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi",
+    "dedupe_key": "dc10f486e7d59bab",
+    "title": "Empowering India’s next generation of innovators with ATL Saathi",
+    "issue_date": "2026-07-15",
+    "cluster_id": "deepmind_google_0ff61758",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ff98230e93e7631f",
+    "canonical_url": "https://developer.nvidia.com/blog/lessons-from-the-leaderboard-what-5000-kagglers-taught-us-about-improving-ai-reasoning",
+    "dedupe_key": "c88d7179a9c96f0e",
+    "title": "Lessons From the Leaderboard: What 5,000+ Kagglers Taught Us About Improving AI Reasoning",
+    "issue_date": "2026-07-15",
+    "cluster_id": "developer_nvidia_com_08f21c0b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_cf2d8750a9332de1",
+    "canonical_url": "https://vercel.com/changelog/agentmail-vercel-marketplace",
+    "dedupe_key": "82fc29b51ee30dcf",
+    "title": "AgentMail joins the Vercel Marketplace",
+    "issue_date": "2026-07-15",
+    "cluster_id": "vercel_com_d33e9fe7",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_019f50634314739d",
+    "canonical_url": "https://www.langchain.com/blog/your-coding-agents-are-a-black-box-heres-how-to-crack-them-open",
+    "dedupe_key": "dd72cb9717dd9a9f",
+    "title": "How to Debug Coding Agents with LangSmith Traces",
+    "issue_date": "2026-07-15",
+    "cluster_id": "langchain_com_b2a69772",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1bf93b8fc0d08efc",
+    "canonical_url": "https://www.anthropic.com/news/canadian-ai-research",
+    "dedupe_key": "8fe91ea3f5fc462e",
+    "title": "Jul 14, 2026 Announcements Anthropic commits $10 million to Canadian AI research",
+    "issue_date": "2026-07-15",
+    "cluster_id": "anthropic_com_e1c62d80",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a73576e2e736fb5c",
+    "canonical_url": "https://vercel.com/changelog/chat-sdk-adds-x-adapter-support",
+    "dedupe_key": "f099e9b1195498da",
+    "title": "Chat SDK adds X adapter support",
+    "issue_date": "2026-07-15",
+    "cluster_id": "vercel_com_24313b27",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_71194d56b28f0e20",
+    "canonical_url": "https://vercel.com/changelog/agent-runs-now-show-subagent-activity-on-eve-projects",
+    "dedupe_key": "fc1cc04959527b70",
+    "title": "Agent Runs now show subagent activity on eve projects",
+    "issue_date": "2026-07-15",
+    "cluster_id": "vercel_com_6e20754e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5f643764a4939e42",
+    "canonical_url": "https://vercel.com/changelog/endform-joins-the-vercel-marketplace",
+    "dedupe_key": "e06776846d315487",
+    "title": "Endform joins the Vercel Marketplace",
+    "issue_date": "2026-07-15",
+    "cluster_id": "vercel_com_bf6ad284",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_13ce0b7ba236037b",
+    "canonical_url": "https://www.anthropic.com/news/claude-for-teachers",
+    "dedupe_key": "e9bb95da71725bf9",
+    "title": "Jul 14, 2026 Product Introducing Claude for Teachers",
+    "issue_date": "2026-07-15",
+    "cluster_id": "anthropic_com_d71ba3b2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d05d8699b415ccc0",
+    "canonical_url": "https://vercel.com/changelog/node-js-20-is-being-deprecated",
+    "dedupe_key": "0834c5c12bfe31cd",
+    "title": "Node.js 20 is being deprecated on October 1, 2026",
+    "issue_date": "2026-07-15",
+    "cluster_id": "vercel_com_6acad077",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4b2e0c1eafd8de8f",
+    "canonical_url": "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune",
+    "dedupe_key": "015794372dbc0636",
+    "title": "Build a Domain-Specific Embedding Model in Under a Day",
+    "issue_date": "2026-07-15",
+    "cluster_id": "huggingface_co_d1ffce7f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0e63ac737a7a1513",
+    "canonical_url": "https://huggingface.co/blog/ulysses-sp",
+    "dedupe_key": "f36d9d8749f8e4d6",
+    "title": "Ulysses Sequence Parallelism: Training with Million-Token Contexts",
+    "issue_date": "2026-07-15",
+    "cluster_id": "huggingface_co_73dc131d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_298d01d970b846e8",
+    "canonical_url": "https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms",
+    "dedupe_key": "e38da80915e6eb3a",
+    "title": "Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fine‑Tuning, and On‑Device Optimizations",
+    "issue_date": "2026-07-15",
+    "cluster_id": "huggingface_co_3edc07a1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_38914b01fa0b31ac",
+    "canonical_url": "https://huggingface.co/blog/Photoroom/prx-part3",
+    "dedupe_key": "0f7cc418b64182ba",
+    "title": "PRX Part 3 — Training a Text-to-Image Model in 24h!",
+    "issue_date": "2026-07-15",
+    "cluster_id": "huggingface_co_198d947e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_12269d1b5c8064c7",
+    "canonical_url": "https://huggingface.co/blog/ggml-joins-hf",
+    "dedupe_key": "1f9b6fed9baf753d",
+    "title": "GGML and llama.cpp join HF to ensure the long-term progress of Local AI",
+    "issue_date": "2026-07-15",
+    "cluster_id": "huggingface_co_d463cdf8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_390edd47ebcee5a2",
+    "canonical_url": "https://huggingface.co/blog/unsloth-jobs",
+    "dedupe_key": "f342d730abc214e9",
+    "title": "Train AI models with Unsloth and Hugging Face Jobs for FREE",
+    "issue_date": "2026-07-15",
+    "cluster_id": "huggingface_co_a0464295",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_caf47d6f4b6afe3c",
+    "canonical_url": "https://huggingface.co/blog/transformersjs-v4",
+    "dedupe_key": "1e04ebc8e9a4f662",
+    "title": "Transformers.js v4: Now Available on NPM!",
+    "issue_date": "2026-07-15",
+    "cluster_id": "huggingface_co_f2a42f36",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d266c7a2189a899f",
+    "canonical_url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3",
+    "dedupe_key": "2b1f96ee8365f8af",
+    "title": "The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+",
+    "issue_date": "2026-07-15",
+    "cluster_id": "huggingface_co_eb4288bb",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
