@@ -8206,5 +8206,225 @@
     "cluster_id": "huggingface_co_eb4288bb",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a0f2565f1e90fc1c",
+    "canonical_url": "https://developer.nvidia.com/blog/develop-lightweight-usd-runtimes-faster-with-ai-agents",
+    "dedupe_key": "51819457fc1a04d1",
+    "title": "Develop Lightweight USD Runtimes Faster with AI Agents",
+    "issue_date": "2026-07-16",
+    "cluster_id": "developer_nvidia_com_b65adfa8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d5c7e8e46c796535",
+    "canonical_url": "https://vercel.com/changelog/inkling-from-thinking-machines-is-now-available-on-ai-gateway",
+    "dedupe_key": "2c72e6c5d6fb35ea",
+    "title": "Inkling from Thinking Machines is now available on AI Gateway",
+    "issue_date": "2026-07-16",
+    "cluster_id": "vercel_com_83e948a5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7ed21783d1d739da",
+    "canonical_url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+    "dedupe_key": "771cbc81f08a6246",
+    "title": "The US is advancing AI safety through state and federal action",
+    "issue_date": "2026-07-16",
+    "cluster_id": "openai_com_bed9ad79",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_adece9698816c23f",
+    "canonical_url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+    "dedupe_key": "72581389b315d195",
+    "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+    "issue_date": "2026-07-16",
+    "cluster_id": "openai_com_3bb95612",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8e57fb71404f4f54",
+    "canonical_url": "https://github.blog/developer-skills/github/github-for-beginners-your-roadmap-to-mastering-the-github-essentials",
+    "dedupe_key": "6649412f9f63a331",
+    "title": "GitHub for Beginners: Your roadmap to mastering the GitHub essentials",
+    "issue_date": "2026-07-16",
+    "cluster_id": "github_blog_49b1824d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_61c2769c3b39c458",
+    "canonical_url": "https://www.langchain.com/blog/new-in-langsmith-fleet-bring-agents-into-slack-in-one-click",
+    "dedupe_key": "f12f9dd59397a7c2",
+    "title": "New in Fleet: Deploy AI agents to Slack in one click",
+    "issue_date": "2026-07-16",
+    "cluster_id": "langchain_com_e5e83865",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b0b11d44c225d33a",
+    "canonical_url": "https://developer.nvidia.com/blog/building-faster-cryptography-with-carryless-multiplication-in-nvidia-cuda-13-3",
+    "dedupe_key": "2380ca860e5ff1ea",
+    "title": "Building Faster Cryptography with Carryless Multiplication in NVIDIA CUDA 13.3",
+    "issue_date": "2026-07-16",
+    "cluster_id": "developer_nvidia_com_d160ffce",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d94a248f9c1ff97c",
+    "canonical_url": "https://vercel.com/blog/how-speechify-serves-50000-dynamic-pages-to-60-million-users-on-vercel",
+    "dedupe_key": "9c27b70f8226daaf",
+    "title": "How Speechify serves 500,000 dynamic pages to 60 million users on Vercel",
+    "issue_date": "2026-07-16",
+    "cluster_id": "vercel_com_63c15fe4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_20dc359b96a37443",
+    "canonical_url": "https://vercel.com/changelog/vercel-blob-now-supports-consistent-reads-on-private-storage",
+    "dedupe_key": "463863a07447b851",
+    "title": "Vercel Blob now supports consistent reads on private storage",
+    "issue_date": "2026-07-16",
+    "cluster_id": "vercel_com_dc02d46c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_23bd69631c1955db",
+    "canonical_url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+    "dedupe_key": "cb7a539c9b3e4602",
+    "title": "What building Shippy taught us about building agents",
+    "issue_date": "2026-07-16",
+    "cluster_id": "huggingface_co_0c1f0a5f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5cb59e22a29a7868",
+    "canonical_url": "https://www.langchain.com/blog/agents-need-their-own-computer",
+    "dedupe_key": "84a649e319c80c4d",
+    "title": "Agents need their own computer. Here's how to give them one safely.",
+    "issue_date": "2026-07-16",
+    "cluster_id": "langchain_com_d42ae00a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_bd23a1d08ab4dc12",
+    "canonical_url": "https://vercel.com/changelog/faster-predictable-project-linking-in-the-vercel-cli",
+    "dedupe_key": "d3273122ee7783d0",
+    "title": "Faster, predictable project linking in the Vercel CLI",
+    "issue_date": "2026-07-16",
+    "cluster_id": "vercel_com_49dfdb1e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2a2ea00997631c32",
+    "canonical_url": "https://vercel.com/changelog/vercel-workflows-trace-viewer-now-has-a-minimap",
+    "dedupe_key": "6673d1128bde7766",
+    "title": "Vercel Workflows trace viewer now has a minimap",
+    "issue_date": "2026-07-16",
+    "cluster_id": "vercel_com_11d040fd",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_48ac825db57b0ca8",
+    "canonical_url": "https://vercel.com/changelog/chat-sdk-adds-discord-components-v2-support",
+    "dedupe_key": "4554a815402dfbd0",
+    "title": "Chat SDK adds Discord Components V2 support",
+    "issue_date": "2026-07-16",
+    "cluster_id": "vercel_com_24987cc7",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ce8a0d03cd340ecd",
+    "canonical_url": "https://huggingface.co/blog/real-world-voiceeq",
+    "dedupe_key": "a8dd616286798963",
+    "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+    "issue_date": "2026-07-16",
+    "cluster_id": "huggingface_co_ec0bc1da",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b1e7489de5bb7190",
+    "canonical_url": "https://huggingface.co/blog/Photoroom/prx-part2",
+    "dedupe_key": "a390de9d1f0534d6",
+    "title": "Training Design for Text-to-Image Models: Lessons from Ablations",
+    "issue_date": "2026-07-16",
+    "cluster_id": "huggingface_co_c33803f5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_db3a1cdfadde11b0",
+    "canonical_url": "https://huggingface.co/blog/daggr",
+    "dedupe_key": "0c85e9c959a7b8f6",
+    "title": "Introducing Daggr: Chain apps programmatically, inspect visually",
+    "issue_date": "2026-07-16",
+    "cluster_id": "huggingface_co_91d30394",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c86efeb3956df5ee",
+    "canonical_url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2",
+    "dedupe_key": "17a2c6a528991d6f",
+    "title": "Architectural Choices in China&apos;s Open-Source AI Ecosystem: Building Beyond DeepSeek",
+    "issue_date": "2026-07-16",
+    "cluster_id": "huggingface_co_55c606d9",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_06a159e7a7aaa6c3",
+    "canonical_url": "https://huggingface.co/blog/tiiuae/falcon-h1-arabic",
+    "dedupe_key": "a6822738c5cb7363",
+    "title": "Introducing Falcon-H1-Arabic: Pushing the Boundaries of Arabic Language AI with Hybrid Architecture",
+    "issue_date": "2026-07-16",
+    "cluster_id": "huggingface_co_c5170ca7",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_226392b3c0e062bd",
+    "canonical_url": "https://huggingface.co/blog/ServiceNow-AI/aprielguard",
+    "dedupe_key": "23fb1e1b540dc4c8",
+    "title": "AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems",
+    "issue_date": "2026-07-16",
+    "cluster_id": "huggingface_co_dac9e78e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_997505505977a5ca",
+    "canonical_url": "https://huggingface.co/blog/hf-skills-training-codex",
+    "dedupe_key": "0c37fb267aab18c1",
+    "title": "Codex is Open Sourcing AI models",
+    "issue_date": "2026-07-16",
+    "cluster_id": "huggingface_co_98961fb4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_865d0637e7d27ede",
+    "canonical_url": "https://huggingface.co/blog/transformers-v5",
+    "dedupe_key": "c594188ee30451b6",
+    "title": "Transformers v5: Simple model definitions powering the AI ecosystem",
+    "issue_date": "2026-07-16",
+    "cluster_id": "huggingface_co_63864e86",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
