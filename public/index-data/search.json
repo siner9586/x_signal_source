@@ -1,8 +1,8 @@
 [
   {
-    "title": "Develop Lightweight USD Runtimes Faster with AI Agents",
-    "url": "https://developer.nvidia.com/blog/develop-lightweight-usd-runtimes-faster-with-ai-agents",
-    "summary": "NVIDIA Technical Blog · Develop Lightweight USD Runtimes Faster with AI Agents",
+    "title": "Integrating Context-Aware Video AI Agents Into Enterprise Workflows",
+    "url": "https://developer.nvidia.com/blog/integrating-context-aware-video-ai-agents-into-enterprise-workflows",
+    "summary": "NVIDIA Technical Blog · Integrating Context-Aware Video AI Agents Into Enterprise Workflows",
     "tags": [
       "gpu",
       "inference",
@@ -10,13 +10,13 @@
     ],
     "author": "NVIDIA AI",
     "source": "developer.nvidia.com",
-    "date": "2026-07-16",
+    "date": "2026-07-17",
     "score": 71
   },
   {
-    "title": "Inkling from Thinking Machines is now available on AI Gateway",
-    "url": "https://vercel.com/changelog/inkling-from-thinking-machines-is-now-available-on-ai-gateway",
-    "summary": "Inkling from Thinking Machines is now available on AI Gateway. Inkling is a broad generalist model, trained across agentic, reasoning, coding, instruction-following, factuality, vision, and audio tasks rather than optimized for a single domain. The model also supports controllable thinking effort. To use Inkling, set model to thinkingmachines/inkling in the AI SDK : AI Gateway provides a unified API for calling models, tracking usage and cost, and configuring retries, failove",
+    "title": "Vercel Connect support in GitHub Tools",
+    "url": "https://vercel.com/changelog/vercel-connect-support-in-github-tools",
+    "summary": "GitHub Tools now has first-class support for Vercel Connect through the new @github-tools/sdk/connect subpath. Instead of storing a long-lived personal access token, your agent mints short-lived, scoped GitHub tokens at runtime from a connector. There is no secret to store, rotate, or leak. Attach a GitHub connector to your project and pick a preset: Scopes from presets: Presets such as code-review , issue-triage , and maintainer map to Connect scopes automatically, so tokens",
     "tags": [
       "sdk",
       "ai_infra",
@@ -24,13 +24,13 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-07-16",
+    "date": "2026-07-17",
     "score": 71
   },
   {
-    "title": "The US is advancing AI safety through state and federal action",
-    "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-    "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
+    "title": "How Cars24 scales conversations and builds faster with OpenAI",
+    "url": "https://openai.com/index/cars24",
+    "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
     "tags": [
       "ai_models",
       "official",
@@ -39,13 +39,42 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-07-16",
+    "date": "2026-07-17",
+    "score": 70
+  },
+  {
+    "title": "Scaling Agentic AI Factories Through Extreme Co-Design with NVIDIA BlueField",
+    "url": "https://developer.nvidia.com/blog/scaling-agentic-ai-factories-through-extreme-co-design-with-nvidia-bluefield",
+    "summary": "NVIDIA Technical Blog · Scaling Agentic AI Factories Through Extreme Co-Design with NVIDIA BlueField",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-07-17",
     "score": 69
   },
   {
-    "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
-    "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-    "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
+    "title": "Our approach to bioresilience",
+    "url": "https://deepmind.google/blog/our-approach-to-bioresilience",
+    "summary": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
+    "tags": [
+      "research",
+      "multimodal",
+      "science",
+      "official"
+    ],
+    "author": "Google DeepMind",
+    "source": "deepmind.google",
+    "date": "2026-07-17",
+    "score": 68
+  },
+  {
+    "title": "Why teens deserve access to safe AI",
+    "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+    "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
     "tags": [
       "ai_models",
       "official",
@@ -54,40 +83,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-07-16",
+    "date": "2026-07-17",
     "score": 67
   },
   {
-    "title": "GitHub for Beginners: Your roadmap to mastering the GitHub essentials",
-    "url": "https://github.blog/developer-skills/github/github-for-beginners-your-roadmap-to-mastering-the-github-essentials",
-    "summary": "New to GitHub? This beginner's guide explains version control, repositories, and pull requests—plus everything else you need to start working confidently on GitHub. The post GitHub for Beginners: Your roadmap to mastering the GitHub essentials appeared first on The GitHub Blog .",
-    "tags": [
-      "ai_coding",
-      "developer_tools"
-    ],
-    "author": "GitHub Copilot",
-    "source": "github.blog",
-    "date": "2026-07-16",
-    "score": 67
-  },
-  {
-    "title": "New in Fleet: Deploy AI agents to Slack in one click",
-    "url": "https://www.langchain.com/blog/new-in-langsmith-fleet-bring-agents-into-slack-in-one-click",
-    "summary": "Build custom AI agents in Fleet without code, then deploy them to Slack in one click. Give agents custom identities, use them in channels and threads, and keep work moving where your team already collaborates.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-07-16",
-    "score": 67
-  },
-  {
-    "title": "Building Faster Cryptography with Carryless Multiplication in NVIDIA CUDA 13.3",
-    "url": "https://developer.nvidia.com/blog/building-faster-cryptography-with-carryless-multiplication-in-nvidia-cuda-13-3",
-    "summary": "NVIDIA Technical Blog · Building Faster Cryptography with Carryless Multiplication in NVIDIA CUDA 13.3",
+    "title": "Build a Multi-Camera 3D Tracking Application with NVIDIA DeepStream 9.1 Skills",
+    "url": "https://developer.nvidia.com/blog/build-a-multi-camera-3d-tracking-application-with-nvidia-deepstream-9-1-skills",
+    "summary": "NVIDIA Technical Blog · Build a Multi-Camera 3D Tracking Application with NVIDIA DeepStream 9.1 Skills",
     "tags": [
       "gpu",
       "inference",
@@ -95,13 +97,13 @@
     ],
     "author": "NVIDIA AI",
     "source": "developer.nvidia.com",
-    "date": "2026-07-16",
+    "date": "2026-07-17",
     "score": 66
   },
   {
-    "title": "How Speechify serves 500,000 dynamic pages to 60 million users on Vercel",
-    "url": "https://vercel.com/blog/how-speechify-serves-50000-dynamic-pages-to-60-million-users-on-vercel",
-    "summary": "Speechify on Vercel 500,000+ pages served across 40+ languages Cut costs 50% by auto-scaling with Fluid compute Zero user impact on bad deploys with Instant Rollbacks Speechify started as a tool for people with dyslexia. Cliff Weitzman, Founder & CEO, built it because reading was challenging and audio made it much easier. That initial use case led Speechify to tens of millions of users and an Apple Design Award for inclusion. The product has since grown into something much la",
+    "title": "Write utilization now available in ISR Observability",
+    "url": "https://vercel.com/changelog/write-utilization-now-available-in-isr-observability",
+    "summary": "The ISR Observability page now shows Observability Plus subscribers a write utilization metric, helping identify routes that regenerate often but receive few requests. Write utilization is the ratio of cached requests to ISR writes. For routes with low write utilization, consider increasing the revalidation interval or switching to on-demand revalidation to reduce costs. You can also compute write utilization using the Vercel CLI, or use agents with the cdn-caching skill to i",
     "tags": [
       "sdk",
       "ai_infra",
@@ -109,41 +111,13 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-07-16",
+    "date": "2026-07-17",
     "score": 66
   },
   {
-    "title": "Vercel Blob now supports consistent reads on private storage",
-    "url": "https://vercel.com/changelog/vercel-blob-now-supports-consistent-reads-on-private-storage",
-    "summary": "Vercel Blob now supports consistent reads on private storage. Pass useCache: false to get() or presignUrl() for a read that reflects the latest write. A blob written to a fresh pathname has no existing cached entry, so reads reflect the latest write immediately. When you overwrite a blob at an existing pathname, readers might see the cached version for up to 60 seconds. When a read must reflect the latest write, like an agent's memory file, a session transcript, or a schedule",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-07-16",
-    "score": 66
-  },
-  {
-    "title": "What building Shippy taught us about building agents",
-    "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
-    "summary": "What building Shippy taught us about building agents 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-16",
-    "score": 65
-  },
-  {
-    "title": "Agents need their own computer. Here's how to give them one safely.",
-    "url": "https://www.langchain.com/blog/agents-need-their-own-computer",
-    "summary": "For most of computing history, a developer environment meant a physical machine, then a VM, then a container, with each one shared across the work happening on it, each one requiring deliberate setup and teardown. The idea of giving every agent its own isolated computer, booting in under a second and cleaning up when done wasn't practical at scale. Sandboxes give you a safer way to run upgraded workflows, providing you an isolated environment to run tasks that require iterati",
+    "title": "OpenWiki 0.2 brings OKF to codebase documentation",
+    "url": "https://www.langchain.com/blog/openwiki-0-2-adds-okf-support",
+    "summary": "OpenWiki 0.2 generates codebase wikis in the OKF format, helping developers organize repo docs with metadata, changelogs, and agent-friendly retrieval.",
     "tags": [
       "agents",
       "rag",
@@ -151,13 +125,41 @@
     ],
     "author": "LangChain",
     "source": "langchain.com",
-    "date": "2026-07-16",
+    "date": "2026-07-17",
+    "score": 66
+  },
+  {
+    "title": "Kimi K3 is now available on AI Gateway",
+    "url": "https://vercel.com/changelog/kimi-k3-is-now-available-on-ai-gateway",
+    "summary": "Kimi K3 from Moonshot AI is now available on AI Gateway. K3 is an open-source model with a 1M-token context window and native visual understanding, accepting text, image, and video inputs. Built for long-horizon software engineering, knowledge work, and deep reasoning, K3 is especially strong where code meets visual and spatial reasoning, which suits frontend, game development, and CAD workflows. Thinking mode is always on. To use Kimi K3, set model to moonshotai/kimi-k3 in t",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-07-17",
     "score": 65
   },
   {
-    "title": "Faster, predictable project linking in the Vercel CLI",
-    "url": "https://vercel.com/changelog/faster-predictable-project-linking-in-the-vercel-cli",
-    "summary": "The Vercel CLI now resolves your team before discovering projects, then searches for projects only in that team instead of sweeping every team you belong to. Linking is faster and more predictable, and every command that establishes a link ( vercel link , deploy , pull , dev , and git connect ) follows the same flow: Teams resolve from an explicit signal (such as --team , --scope , the scope field in vercel.json , or VERCEL_ORG_ID ), if you only have one team, or from a searc",
+    "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+    "summary": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-17",
+    "score": 65
+  },
+  {
+    "title": "Runtime logs now show cache reasons",
+    "url": "https://vercel.com/changelog/runtime-logs-now-show-cache-reasons",
+    "summary": "Runtime logs now show a Cache Reason explaining why a request wasn't a fresh cache hit, for example a time-based or tag-based revalidation. Use cache reasons to debug misses and improve your hit rate. Cache reasons appear for any response the CDN can cache, including ISR, Partial Prerendering, and functions that set a Cache-Control header with directives like stale-while-revalidate . Responses rendered dynamically on every request don't have a cache reason. Cache status Possi",
     "tags": [
       "sdk",
       "ai_infra",
@@ -165,41 +167,13 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-07-16",
+    "date": "2026-07-17",
     "score": 63
   },
   {
-    "title": "Vercel Workflows trace viewer now has a minimap",
-    "url": "https://vercel.com/changelog/vercel-workflows-trace-viewer-now-has-a-minimap",
-    "summary": "The trace viewer for Vercel Workflows now has a minimap that shows the entire run in one view. Drag the viewport to pan, resize it to zoom, or drag across the minimap to select a new section. Click anywhere on the minimap to jump to that point, or scroll and use arrow keys to step through the run. The minimap is available in the trace viewer on Vercel and locally through the Workflow SDK with npx workflow@beta web . Learn more about Vercel Workflows and the Workflow SDK . Rea",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-07-16",
-    "score": 63
-  },
-  {
-    "title": "Chat SDK adds Discord Components V2 support",
-    "url": "https://vercel.com/changelog/chat-sdk-adds-discord-components-v2-support",
-    "summary": "You can now send Discord bot messages with Components V2 , an opt-in layout system that treats text, images, files, and buttons as flexible components you can arrange in any order. Set the adapter's contentFormat option to ComponentsV2 and cards render with native containers, sections, media galleries, separators, buttons, and string selects. Embeds remain the default, so existing bots work unchanged. Individual sections can carry their own actions, markdown renders correctly",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-07-16",
-    "score": 63
-  },
-  {
-    "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
-    "url": "https://huggingface.co/blog/real-world-voiceeq",
-    "summary": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "20x Faster TRL Fine-tuning with RapidFire AI",
+    "url": "https://huggingface.co/blog/rapidfireai",
+    "summary": "20x Faster TRL Fine-tuning with RapidFire AI 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -207,13 +181,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-16",
+    "date": "2026-07-17",
     "score": 63
   },
   {
-    "title": "Training Design for Text-to-Image Models: Lessons from Ablations",
-    "url": "https://huggingface.co/blog/Photoroom/prx-part2",
-    "summary": "Training Design for Text-to-Image Models: Lessons from Ablations 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Apriel-H1: The Surprising Key to Distilling Efficient Reasoning Models",
+    "url": "https://huggingface.co/blog/ServiceNow-AI/apriel-h1",
+    "summary": "Apriel-H1: The Surprising Key to Distilling Efficient Reasoning Models 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -221,13 +195,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-16",
+    "date": "2026-07-17",
     "score": 63
   },
   {
-    "title": "Introducing Daggr: Chain apps programmatically, inspect visually",
-    "url": "https://huggingface.co/blog/daggr",
-    "summary": "Introducing Daggr: Chain apps programmatically, inspect visually 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Hugging Face and VirusTotal collaborate to strengthen AI security",
+    "url": "https://huggingface.co/blog/virustotal",
+    "summary": "Hugging Face and VirusTotal collaborate to strengthen AI security 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -235,13 +209,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-16",
+    "date": "2026-07-17",
     "score": 63
   },
   {
-    "title": "Architectural Choices in China&apos;s Open-Source AI Ecosystem: Building Beyond DeepSeek",
-    "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2",
-    "summary": "Architectural Choices in China&apos;s Open-Source AI Ecosystem: Building Beyond DeepSeek 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Unlock the power of images with AI Sheets",
+    "url": "https://huggingface.co/blog/aisheets-unlock-images",
+    "summary": "Unlock the power of images with AI Sheets 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -249,13 +223,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-16",
+    "date": "2026-07-17",
     "score": 63
   },
   {
-    "title": "Introducing Falcon-H1-Arabic: Pushing the Boundaries of Arabic Language AI with Hybrid Architecture",
-    "url": "https://huggingface.co/blog/tiiuae/falcon-h1-arabic",
-    "summary": "Introducing Falcon-H1-Arabic: Pushing the Boundaries of Arabic Language AI with Hybrid Architecture 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "AI for Food Allergies",
+    "url": "https://huggingface.co/blog/hugging-science/ai-for-food-allergies",
+    "summary": "AI for Food Allergies 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -263,13 +237,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-16",
+    "date": "2026-07-17",
     "score": 63
   },
   {
-    "title": "AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems",
-    "url": "https://huggingface.co/blog/ServiceNow-AI/aprielguard",
-    "summary": "AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Nemotron-Personas-India: Synthesized Data for Sovereign AI",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-personas-india",
+    "summary": "Nemotron-Personas-India: Synthesized Data for Sovereign AI 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -277,13 +251,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-16",
+    "date": "2026-07-17",
     "score": 63
   },
   {
-    "title": "Codex is Open Sourcing AI models",
-    "url": "https://huggingface.co/blog/hf-skills-training-codex",
-    "summary": "Codex is Open Sourcing AI models 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Nemotron-Personas-Japan: ソブリン AI のための合成データセット",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-personas-japan-ja",
+    "summary": "Nemotron-Personas-Japan: ソブリン AI のための合成データセット 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -291,13 +265,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-16",
+    "date": "2026-07-17",
     "score": 63
   },
   {
-    "title": "Transformers v5: Simple model definitions powering the AI ecosystem",
-    "url": "https://huggingface.co/blog/transformers-v5",
-    "summary": "Transformers v5: Simple model definitions powering the AI ecosystem 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Democratizing AI Safety with RiskRubric.ai",
+    "url": "https://huggingface.co/blog/riskrubric",
+    "summary": "Democratizing AI Safety with RiskRubric.ai 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -305,7 +279,49 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-16",
+    "date": "2026-07-17",
+    "score": 63
+  },
+  {
+    "title": "Public AI on Hugging Face Inference Providers 🔥",
+    "url": "https://huggingface.co/blog/inference-providers-publicai",
+    "summary": "Public AI on Hugging Face Inference Providers 🔥 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-17",
+    "score": 63
+  },
+  {
+    "title": "Tricks from OpenAI gpt-oss YOU 🫵 can use with transformers",
+    "url": "https://huggingface.co/blog/faster-transformers",
+    "summary": "Tricks from OpenAI gpt-oss YOU 🫵 can use with transformers 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-17",
+    "score": 63
+  },
+  {
+    "title": "Fine-tune Any LLM from the Hugging Face Hub with Together AI",
+    "url": "https://huggingface.co/blog/togethercomputer/together-ft",
+    "summary": "Fine-tune Any LLM from the Hugging Face Hub with Together AI 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-17",
     "score": 63
   }
 ]

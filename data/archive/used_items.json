@@ -8426,5 +8426,235 @@
     "cluster_id": "huggingface_co_63864e86",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ba8ef8f18800b2c5",
+    "canonical_url": "https://developer.nvidia.com/blog/integrating-context-aware-video-ai-agents-into-enterprise-workflows",
+    "dedupe_key": "cd0dcda9befafaa2",
+    "title": "Integrating Context-Aware Video AI Agents Into Enterprise Workflows",
+    "issue_date": "2026-07-17",
+    "cluster_id": "developer_nvidia_com_1c402215",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e3d56fa0d16c0ab0",
+    "canonical_url": "https://vercel.com/changelog/vercel-connect-support-in-github-tools",
+    "dedupe_key": "c8bc5f52e6552c9f",
+    "title": "Vercel Connect support in GitHub Tools",
+    "issue_date": "2026-07-17",
+    "cluster_id": "vercel_com_3aa83181",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_21f1023ad4614029",
+    "canonical_url": "https://openai.com/index/cars24",
+    "dedupe_key": "7c91c1af49e09dde",
+    "title": "How Cars24 scales conversations and builds faster with OpenAI",
+    "issue_date": "2026-07-17",
+    "cluster_id": "openai_com_ed35518f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f32a5510a14e8c76",
+    "canonical_url": "https://developer.nvidia.com/blog/scaling-agentic-ai-factories-through-extreme-co-design-with-nvidia-bluefield",
+    "dedupe_key": "85a392b0a04e2a5c",
+    "title": "Scaling Agentic AI Factories Through Extreme Co-Design with NVIDIA BlueField",
+    "issue_date": "2026-07-17",
+    "cluster_id": "developer_nvidia_com_eea1b44f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_06aba59a09afdd67",
+    "canonical_url": "https://deepmind.google/blog/our-approach-to-bioresilience",
+    "dedupe_key": "1c1b16a3c743b31a",
+    "title": "Our approach to bioresilience",
+    "issue_date": "2026-07-17",
+    "cluster_id": "deepmind_google_9630383d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7548307249f12b41",
+    "canonical_url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+    "dedupe_key": "4efae12f887c2b66",
+    "title": "Why teens deserve access to safe AI",
+    "issue_date": "2026-07-17",
+    "cluster_id": "openai_com_82273760",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a15118589d4fcc12",
+    "canonical_url": "https://developer.nvidia.com/blog/build-a-multi-camera-3d-tracking-application-with-nvidia-deepstream-9-1-skills",
+    "dedupe_key": "8c5e007495dbd009",
+    "title": "Build a Multi-Camera 3D Tracking Application with NVIDIA DeepStream 9.1 Skills",
+    "issue_date": "2026-07-17",
+    "cluster_id": "developer_nvidia_com_4c6bef8d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_98272857baf5a004",
+    "canonical_url": "https://vercel.com/changelog/write-utilization-now-available-in-isr-observability",
+    "dedupe_key": "b5a1f7d0ca853dff",
+    "title": "Write utilization now available in ISR Observability",
+    "issue_date": "2026-07-17",
+    "cluster_id": "vercel_com_65e611e7",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4639d9926b9deff0",
+    "canonical_url": "https://www.langchain.com/blog/openwiki-0-2-adds-okf-support",
+    "dedupe_key": "69b643eedc76b95c",
+    "title": "OpenWiki 0.2 brings OKF to codebase documentation",
+    "issue_date": "2026-07-17",
+    "cluster_id": "langchain_com_79373acf",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ee36150e2769907c",
+    "canonical_url": "https://vercel.com/changelog/kimi-k3-is-now-available-on-ai-gateway",
+    "dedupe_key": "ee9c84a76b573c28",
+    "title": "Kimi K3 is now available on AI Gateway",
+    "issue_date": "2026-07-17",
+    "cluster_id": "vercel_com_82744085",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a19deae8fa5562a1",
+    "canonical_url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+    "dedupe_key": "154e2f61c3aceea2",
+    "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+    "issue_date": "2026-07-17",
+    "cluster_id": "huggingface_co_1b732761",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d27d8772d7468828",
+    "canonical_url": "https://vercel.com/changelog/runtime-logs-now-show-cache-reasons",
+    "dedupe_key": "fadae763f598a223",
+    "title": "Runtime logs now show cache reasons",
+    "issue_date": "2026-07-17",
+    "cluster_id": "vercel_com_018d2dd4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_fe5d9362341b05d3",
+    "canonical_url": "https://huggingface.co/blog/rapidfireai",
+    "dedupe_key": "0061aac9f672c721",
+    "title": "20x Faster TRL Fine-tuning with RapidFire AI",
+    "issue_date": "2026-07-17",
+    "cluster_id": "huggingface_co_543066cb",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_24776ebd9d486005",
+    "canonical_url": "https://huggingface.co/blog/ServiceNow-AI/apriel-h1",
+    "dedupe_key": "6c739c8399de8837",
+    "title": "Apriel-H1: The Surprising Key to Distilling Efficient Reasoning Models",
+    "issue_date": "2026-07-17",
+    "cluster_id": "huggingface_co_8440ed9e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d65dc97278b8bb02",
+    "canonical_url": "https://huggingface.co/blog/virustotal",
+    "dedupe_key": "b0c8773304d8201e",
+    "title": "Hugging Face and VirusTotal collaborate to strengthen AI security",
+    "issue_date": "2026-07-17",
+    "cluster_id": "huggingface_co_3f458826",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_09018b2132761a33",
+    "canonical_url": "https://huggingface.co/blog/aisheets-unlock-images",
+    "dedupe_key": "38eef3f74b5f84d3",
+    "title": "Unlock the power of images with AI Sheets",
+    "issue_date": "2026-07-17",
+    "cluster_id": "huggingface_co_c56b752e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a262eec849486cac",
+    "canonical_url": "https://huggingface.co/blog/hugging-science/ai-for-food-allergies",
+    "dedupe_key": "60271facb964ef00",
+    "title": "AI for Food Allergies",
+    "issue_date": "2026-07-17",
+    "cluster_id": "huggingface_co_3f9749cc",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_25cf84c4d92d1192",
+    "canonical_url": "https://huggingface.co/blog/nvidia/nemotron-personas-india",
+    "dedupe_key": "df04e0c7cf0efc80",
+    "title": "Nemotron-Personas-India: Synthesized Data for Sovereign AI",
+    "issue_date": "2026-07-17",
+    "cluster_id": "huggingface_co_411489bc",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_065899ba895e8b75",
+    "canonical_url": "https://huggingface.co/blog/nvidia/nemotron-personas-japan-ja",
+    "dedupe_key": "e202f9a8d122389b",
+    "title": "Nemotron-Personas-Japan: ソブリン AI のための合成データセット",
+    "issue_date": "2026-07-17",
+    "cluster_id": "huggingface_co_f22358f7",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_bad1c288949980b3",
+    "canonical_url": "https://huggingface.co/blog/riskrubric",
+    "dedupe_key": "f83d412ef3dc548a",
+    "title": "Democratizing AI Safety with RiskRubric.ai",
+    "issue_date": "2026-07-17",
+    "cluster_id": "huggingface_co_01a77d2b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d3537808f7f07e40",
+    "canonical_url": "https://huggingface.co/blog/inference-providers-publicai",
+    "dedupe_key": "14b9d1c67e5fd632",
+    "title": "Public AI on Hugging Face Inference Providers 🔥",
+    "issue_date": "2026-07-17",
+    "cluster_id": "huggingface_co_545afb2e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_27e5e32444efc35c",
+    "canonical_url": "https://huggingface.co/blog/faster-transformers",
+    "dedupe_key": "914f2f4a327af862",
+    "title": "Tricks from OpenAI gpt-oss YOU 🫵 can use with transformers",
+    "issue_date": "2026-07-17",
+    "cluster_id": "huggingface_co_c5b8536d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_56553fe98a262ee3",
+    "canonical_url": "https://huggingface.co/blog/togethercomputer/together-ft",
+    "dedupe_key": "837166292b2b11cb",
+    "title": "Fine-tune Any LLM from the Hugging Face Hub with Together AI",
+    "issue_date": "2026-07-17",
+    "cluster_id": "huggingface_co_03aa50aa",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
