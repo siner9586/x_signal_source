@@ -8656,5 +8656,215 @@
     "cluster_id": "huggingface_co_03aa50aa",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7b6581f2852a6ba3",
+    "canonical_url": "https://github.blog/engineering/the-cost-of-saying-yes-has-changed",
+    "dedupe_key": "a087ef25de5441cd",
+    "title": "The cost of saying yes has changed",
+    "issue_date": "2026-07-18",
+    "cluster_id": "github_blog_f1369f6f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a9a25a3701009a9d",
+    "canonical_url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+    "dedupe_key": "78bb2fbb2712fb54",
+    "title": "A scorecard for the AI age",
+    "issue_date": "2026-07-18",
+    "cluster_id": "openai_com_2619cfbd",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_34bb45ec9dee853f",
+    "canonical_url": "https://developer.nvidia.com/blog/qa-how-capcom-brought-path-tracing-to-re-engine-across-pragmata-and-resident-evil-requiem",
+    "dedupe_key": "a8ffbbe3edb92303",
+    "title": "Q&A: How Capcom Brought Path Tracing to RE ENGINE Across PRAGMATA and Resident Evil Requiem",
+    "issue_date": "2026-07-18",
+    "cluster_id": "developer_nvidia_com_9a3634d4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_de728c0328214dbb",
+    "canonical_url": "https://vercel.com/changelog/optimized-cdn-caching-and-deploying-of-immutable-static-assets",
+    "dedupe_key": "9eb776d0452c87ab",
+    "title": "Optimized CDN caching and deploying of immutable static assets",
+    "issue_date": "2026-07-18",
+    "cluster_id": "vercel_com_7186dece",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_cf6af170fdc7f147",
+    "canonical_url": "https://vercel.com/changelog/chat-sdk-adds-native-slack-agent-support",
+    "dedupe_key": "384d21117cff4d74",
+    "title": "Chat SDK adds native Slack agent support",
+    "issue_date": "2026-07-18",
+    "cluster_id": "vercel_com_4745f27b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ac312bd814537e9e",
+    "canonical_url": "https://vercel.com/changelog/glm-5-2-is-35-off-via-novita-on-ai-gateway",
+    "dedupe_key": "1bef0832d7b45709",
+    "title": "GLM 5.2 is 35% off via Novita on AI Gateway",
+    "issue_date": "2026-07-18",
+    "cluster_id": "vercel_com_3778e223",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_bc61d8f30943acef",
+    "canonical_url": "https://vercel.com/changelog/vercel-plugin-now-available-in-kimi-code-cli",
+    "dedupe_key": "0df114ae8add2466",
+    "title": "Vercel Plugin now available in Kimi Code CLI",
+    "issue_date": "2026-07-18",
+    "cluster_id": "vercel_com_10bed6cb",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_60c03f093484599e",
+    "canonical_url": "https://huggingface.co/blog/SandboxAQ/sair-data-accelerating-drug-discovery-with-ai",
+    "dedupe_key": "b39ea0ed9f326dcb",
+    "title": "SAIR: Accelerating Pharma R&D with AI-Powered Structural Intelligence",
+    "issue_date": "2026-07-18",
+    "cluster_id": "huggingface_co_7a288fee",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e1f05e5676cda2d5",
+    "canonical_url": "https://huggingface.co/blog/nvidia/multilingual-reasoning-v1",
+    "dedupe_key": "f107ab560fa23548",
+    "title": "NVIDIA Releases 6 Million Multi-Lingual Reasoning Dataset",
+    "issue_date": "2026-07-18",
+    "cluster_id": "huggingface_co_2c9643ec",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e52557fc29ff471d",
+    "canonical_url": "https://huggingface.co/blog/kernel-builder",
+    "dedupe_key": "aa9d256f5bafcbb1",
+    "title": "From Zero to GPU: A Guide to Building and Scaling Production-Ready CUDA Kernels",
+    "issue_date": "2026-07-18",
+    "cluster_id": "huggingface_co_f9e2618f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6bb5075b604b65c3",
+    "canonical_url": "https://huggingface.co/blog/Arm/executorch-0-dot-7",
+    "dedupe_key": "05425ffc3e25e63c",
+    "title": "Arm & ExecuTorch 0.7: Bringing Generative AI to the masses",
+    "issue_date": "2026-07-18",
+    "cluster_id": "huggingface_co_55997168",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_570a216c2b09bae0",
+    "canonical_url": "https://huggingface.co/blog/aisheets",
+    "dedupe_key": "b3ee521645f137c0",
+    "title": "Introducing AI Sheets: a tool to work with datasets using open AI models!",
+    "issue_date": "2026-07-18",
+    "cluster_id": "huggingface_co_1726a2a5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_98e5c16e3e460130",
+    "canonical_url": "https://huggingface.co/blog/accelerate-nd-parallel",
+    "dedupe_key": "708781a6d7b880fe",
+    "title": "Accelerate ND-Parallel: A guide to Efficient Multi-GPU Training",
+    "issue_date": "2026-07-18",
+    "cluster_id": "huggingface_co_3c88dba1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a13d3fb05cf6847e",
+    "canonical_url": "https://huggingface.co/blog/welcome-openai-gpt-oss",
+    "dedupe_key": "2292fe98af0df840",
+    "title": "Welcome GPT OSS, the new open-source model family from OpenAI!",
+    "issue_date": "2026-07-18",
+    "cluster_id": "huggingface_co_f501eb67",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4281230d35aba6ab",
+    "canonical_url": "https://huggingface.co/blog/gradio-vton-mcp",
+    "dedupe_key": "4b13674ae61f38dd",
+    "title": "Implementing MCP Servers in Python: An AI Shopping Assistant with Gradio",
+    "issue_date": "2026-07-18",
+    "cluster_id": "huggingface_co_93272d34",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a818f9de63b72a17",
+    "canonical_url": "https://huggingface.co/blog/timescope-video-lmm-benchmark",
+    "dedupe_key": "67843dd97330c30c",
+    "title": "TimeScope: How Long Can Your Video Large Multimodal Model Go?",
+    "issue_date": "2026-07-18",
+    "cluster_id": "huggingface_co_1cfab463",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_bdbf8456108d2f54",
+    "canonical_url": "https://huggingface.co/blog/ettin",
+    "dedupe_key": "173f7ed5e032bab3",
+    "title": "Ettin Suite: SoTA Paired Encoders and Decoders",
+    "issue_date": "2026-07-18",
+    "cluster_id": "huggingface_co_2abcf475",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_69bf2ca1f611b729",
+    "canonical_url": "https://huggingface.co/blog/AI-MO/kimina-prover",
+    "dedupe_key": "650c7f88ff835787",
+    "title": "Kimina-Prover: Applying Test-time RL Search on Large Formal Reasoning Models",
+    "issue_date": "2026-07-18",
+    "cluster_id": "huggingface_co_5e5ac828",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9895f584d75619e4",
+    "canonical_url": "https://huggingface.co/blog/reachy-mini",
+    "dedupe_key": "bb77af668978ae7e",
+    "title": "Reachy Mini - The Open-Source Robot for Today&apos;s and Tomorrow&apos;s AI Builders",
+    "issue_date": "2026-07-18",
+    "cluster_id": "huggingface_co_8e1a836b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e0a70f2b2e204612",
+    "canonical_url": "https://huggingface.co/blog/mmdp",
+    "dedupe_key": "5952408f9945aa9e",
+    "title": "Efficient MultiModal Data Pipeline",
+    "issue_date": "2026-07-18",
+    "cluster_id": "huggingface_co_0bda6a7c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c56eb618e2c73f1a",
+    "canonical_url": "https://huggingface.co/blog/tiiuae/e2lm-competition",
+    "dedupe_key": "d0187e6db3efe36f",
+    "title": "Announcing NeurIPS 2025 E2LM Competition: Early Training Evaluation of Language Models",
+    "issue_date": "2026-07-18",
+    "cluster_id": "huggingface_co_fa5fb341",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]

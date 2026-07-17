@@ -1,80 +1,21 @@
 [
   {
-    "title": "Integrating Context-Aware Video AI Agents Into Enterprise Workflows",
-    "url": "https://developer.nvidia.com/blog/integrating-context-aware-video-ai-agents-into-enterprise-workflows",
-    "summary": "NVIDIA Technical Blog · Integrating Context-Aware Video AI Agents Into Enterprise Workflows",
+    "title": "The cost of saying yes has changed",
+    "url": "https://github.blog/engineering/the-cost-of-saying-yes-has-changed",
+    "summary": "The cost of writing code dropped; the cost of owning it didn't. A framework for deciding which changes are actually cheap in the AI era. The post The cost of saying yes has changed appeared first on The GitHub Blog .",
     "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
+      "ai_coding",
+      "developer_tools"
     ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-07-17",
-    "score": 71
-  },
-  {
-    "title": "Vercel Connect support in GitHub Tools",
-    "url": "https://vercel.com/changelog/vercel-connect-support-in-github-tools",
-    "summary": "GitHub Tools now has first-class support for Vercel Connect through the new @github-tools/sdk/connect subpath. Instead of storing a long-lived personal access token, your agent mints short-lived, scoped GitHub tokens at runtime from a connector. There is no secret to store, rotate, or leak. Attach a GitHub connector to your project and pick a preset: Scopes from presets: Presets such as code-review , issue-triage , and maintainer map to Connect scopes automatically, so tokens",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-07-17",
-    "score": 71
-  },
-  {
-    "title": "How Cars24 scales conversations and builds faster with OpenAI",
-    "url": "https://openai.com/index/cars24",
-    "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-07-17",
+    "author": "GitHub Copilot",
+    "source": "github.blog",
+    "date": "2026-07-18",
     "score": 70
   },
   {
-    "title": "Scaling Agentic AI Factories Through Extreme Co-Design with NVIDIA BlueField",
-    "url": "https://developer.nvidia.com/blog/scaling-agentic-ai-factories-through-extreme-co-design-with-nvidia-bluefield",
-    "summary": "NVIDIA Technical Blog · Scaling Agentic AI Factories Through Extreme Co-Design with NVIDIA BlueField",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-07-17",
-    "score": 69
-  },
-  {
-    "title": "Our approach to bioresilience",
-    "url": "https://deepmind.google/blog/our-approach-to-bioresilience",
-    "summary": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
-    "tags": [
-      "research",
-      "multimodal",
-      "science",
-      "official"
-    ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-07-17",
-    "score": 68
-  },
-  {
-    "title": "Why teens deserve access to safe AI",
-    "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-    "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
+    "title": "A scorecard for the AI age",
+    "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+    "summary": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
     "tags": [
       "ai_models",
       "official",
@@ -83,13 +24,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-07-17",
+    "date": "2026-07-18",
     "score": 67
   },
   {
-    "title": "Build a Multi-Camera 3D Tracking Application with NVIDIA DeepStream 9.1 Skills",
-    "url": "https://developer.nvidia.com/blog/build-a-multi-camera-3d-tracking-application-with-nvidia-deepstream-9-1-skills",
-    "summary": "NVIDIA Technical Blog · Build a Multi-Camera 3D Tracking Application with NVIDIA DeepStream 9.1 Skills",
+    "title": "Q&A: How Capcom Brought Path Tracing to RE ENGINE Across PRAGMATA and Resident Evil Requiem",
+    "url": "https://developer.nvidia.com/blog/qa-how-capcom-brought-path-tracing-to-re-engine-across-pragmata-and-resident-evil-requiem",
+    "summary": "NVIDIA Technical Blog · Q&A: How Capcom Brought Path Tracing to RE ENGINE Across PRAGMATA and Resident Evil Requiem",
     "tags": [
       "gpu",
       "inference",
@@ -97,13 +38,13 @@
     ],
     "author": "NVIDIA AI",
     "source": "developer.nvidia.com",
-    "date": "2026-07-17",
+    "date": "2026-07-18",
     "score": 66
   },
   {
-    "title": "Write utilization now available in ISR Observability",
-    "url": "https://vercel.com/changelog/write-utilization-now-available-in-isr-observability",
-    "summary": "The ISR Observability page now shows Observability Plus subscribers a write utilization metric, helping identify routes that regenerate often but receive few requests. Write utilization is the ratio of cached requests to ISR writes. For routes with low write utilization, consider increasing the revalidation interval or switching to on-demand revalidation to reduce costs. You can also compute write utilization using the Vercel CLI, or use agents with the cdn-caching skill to i",
+    "title": "Optimized CDN caching and deploying of immutable static assets",
+    "url": "https://vercel.com/changelog/optimized-cdn-caching-and-deploying-of-immutable-static-assets",
+    "summary": "Vercel now reuses static files across deployments for frameworks that output content-addressed assets. It's zero-config: Vercel uses Framework-defined infrastructure to manage these immutable files alongside your code changes, handling the hard parts like hash collisions, file lifecycles, and efficient routing. This brings several benefits: Lower costs and improved cache hit rates — For frameworks using query-parameter-based Skew Protection (such as Next.js), we saw 17% fewer",
     "tags": [
       "sdk",
       "ai_infra",
@@ -111,27 +52,13 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-07-17",
+    "date": "2026-07-18",
     "score": 66
   },
   {
-    "title": "OpenWiki 0.2 brings OKF to codebase documentation",
-    "url": "https://www.langchain.com/blog/openwiki-0-2-adds-okf-support",
-    "summary": "OpenWiki 0.2 generates codebase wikis in the OKF format, helping developers organize repo docs with metadata, changelogs, and agent-friendly retrieval.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-07-17",
-    "score": 66
-  },
-  {
-    "title": "Kimi K3 is now available on AI Gateway",
-    "url": "https://vercel.com/changelog/kimi-k3-is-now-available-on-ai-gateway",
-    "summary": "Kimi K3 from Moonshot AI is now available on AI Gateway. K3 is an open-source model with a 1M-token context window and native visual understanding, accepting text, image, and video inputs. Built for long-horizon software engineering, knowledge work, and deep reasoning, K3 is especially strong where code meets visual and spatial reasoning, which suits frontend, game development, and CAD workflows. Thinking mode is always on. To use Kimi K3, set model to moonshotai/kimi-k3 in t",
+    "title": "Chat SDK adds native Slack agent support",
+    "url": "https://vercel.com/changelog/chat-sdk-adds-native-slack-agent-support",
+    "summary": "Chat SDK's Slack adapter now supports the agent messaging experience Slack introduced on June 30 . Agents built with Chat SDK could already talk in channels and DMs and stream replies token-by-token. This update adds the Agent badge, agent conversations in the Messages tab, suggested prompts, rotating status messages, and native feedback buttons. Here's what the adapter gives you: Suggested prompts, per thread: Pass a static payload or an async resolver that receives the thre",
     "tags": [
       "sdk",
       "ai_infra",
@@ -139,27 +66,13 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-07-17",
-    "score": 65
+    "date": "2026-07-18",
+    "score": 66
   },
   {
-    "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
-    "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
-    "summary": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-17",
-    "score": 65
-  },
-  {
-    "title": "Runtime logs now show cache reasons",
-    "url": "https://vercel.com/changelog/runtime-logs-now-show-cache-reasons",
-    "summary": "Runtime logs now show a Cache Reason explaining why a request wasn't a fresh cache hit, for example a time-based or tag-based revalidation. Use cache reasons to debug misses and improve your hit rate. Cache reasons appear for any response the CDN can cache, including ISR, Partial Prerendering, and functions that set a Cache-Control header with directives like stale-while-revalidate . Responses rendered dynamically on every request don't have a cache reason. Cache status Possi",
+    "title": "GLM 5.2 is 35% off via Novita on AI Gateway",
+    "url": "https://vercel.com/changelog/glm-5-2-is-35-off-via-novita-on-ai-gateway",
+    "summary": "GLM 5.2 is 35% off on AI Gateway through July 24 when routed through Novita. To get the discounted rate, set the model to zai/glm-5.2 in the AI SDK and route requests through Novita: After July 24, the model stays available at standard provider rates with no markup. Try GLM 5.2 in the model playground . Read more",
     "tags": [
       "sdk",
       "ai_infra",
@@ -167,13 +80,27 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-07-17",
+    "date": "2026-07-18",
     "score": 63
   },
   {
-    "title": "20x Faster TRL Fine-tuning with RapidFire AI",
-    "url": "https://huggingface.co/blog/rapidfireai",
-    "summary": "20x Faster TRL Fine-tuning with RapidFire AI 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Vercel Plugin now available in Kimi Code CLI",
+    "url": "https://vercel.com/changelog/vercel-plugin-now-available-in-kimi-code-cli",
+    "summary": "The Vercel Plugin is now available in the Kimi Code CLI . Kimi Code can now draw on Vercel platform knowledge on demand, with skills for Next.js, AI SDK, Vercel Functions, and more. The Vercel Plugin also helps Kimi Code stay up to date with the latest Vercel APIs and recommended patterns. To install it, upgrade to the latest Kimi Code CLI and select the Vercel Plugin from the Third-party section of the /plugin menu. Learn more in the Vercel Plugin documentation . Read more",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-07-18",
+    "score": 63
+  },
+  {
+    "title": "SAIR: Accelerating Pharma R&D with AI-Powered Structural Intelligence",
+    "url": "https://huggingface.co/blog/SandboxAQ/sair-data-accelerating-drug-discovery-with-ai",
+    "summary": "SAIR: Accelerating Pharma R&D with AI-Powered Structural Intelligence 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -181,13 +108,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-17",
+    "date": "2026-07-18",
     "score": 63
   },
   {
-    "title": "Apriel-H1: The Surprising Key to Distilling Efficient Reasoning Models",
-    "url": "https://huggingface.co/blog/ServiceNow-AI/apriel-h1",
-    "summary": "Apriel-H1: The Surprising Key to Distilling Efficient Reasoning Models 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "NVIDIA Releases 6 Million Multi-Lingual Reasoning Dataset",
+    "url": "https://huggingface.co/blog/nvidia/multilingual-reasoning-v1",
+    "summary": "NVIDIA Releases 6 Million Multi-Lingual Reasoning Dataset 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -195,13 +122,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-17",
+    "date": "2026-07-18",
     "score": 63
   },
   {
-    "title": "Hugging Face and VirusTotal collaborate to strengthen AI security",
-    "url": "https://huggingface.co/blog/virustotal",
-    "summary": "Hugging Face and VirusTotal collaborate to strengthen AI security 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "From Zero to GPU: A Guide to Building and Scaling Production-Ready CUDA Kernels",
+    "url": "https://huggingface.co/blog/kernel-builder",
+    "summary": "From Zero to GPU: A Guide to Building and Scaling Production-Ready CUDA Kernels 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -209,13 +136,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-17",
+    "date": "2026-07-18",
     "score": 63
   },
   {
-    "title": "Unlock the power of images with AI Sheets",
-    "url": "https://huggingface.co/blog/aisheets-unlock-images",
-    "summary": "Unlock the power of images with AI Sheets 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Arm & ExecuTorch 0.7: Bringing Generative AI to the masses",
+    "url": "https://huggingface.co/blog/Arm/executorch-0-dot-7",
+    "summary": "Arm & ExecuTorch 0.7: Bringing Generative AI to the masses 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -223,13 +150,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-17",
+    "date": "2026-07-18",
     "score": 63
   },
   {
-    "title": "AI for Food Allergies",
-    "url": "https://huggingface.co/blog/hugging-science/ai-for-food-allergies",
-    "summary": "AI for Food Allergies 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Introducing AI Sheets: a tool to work with datasets using open AI models!",
+    "url": "https://huggingface.co/blog/aisheets",
+    "summary": "Introducing AI Sheets: a tool to work with datasets using open AI models! 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -237,13 +164,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-17",
+    "date": "2026-07-18",
     "score": 63
   },
   {
-    "title": "Nemotron-Personas-India: Synthesized Data for Sovereign AI",
-    "url": "https://huggingface.co/blog/nvidia/nemotron-personas-india",
-    "summary": "Nemotron-Personas-India: Synthesized Data for Sovereign AI 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Accelerate ND-Parallel: A guide to Efficient Multi-GPU Training",
+    "url": "https://huggingface.co/blog/accelerate-nd-parallel",
+    "summary": "Accelerate ND-Parallel: A guide to Efficient Multi-GPU Training 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -251,13 +178,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-17",
+    "date": "2026-07-18",
     "score": 63
   },
   {
-    "title": "Nemotron-Personas-Japan: ソブリン AI のための合成データセット",
-    "url": "https://huggingface.co/blog/nvidia/nemotron-personas-japan-ja",
-    "summary": "Nemotron-Personas-Japan: ソブリン AI のための合成データセット 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Welcome GPT OSS, the new open-source model family from OpenAI!",
+    "url": "https://huggingface.co/blog/welcome-openai-gpt-oss",
+    "summary": "Welcome GPT OSS, the new open-source model family from OpenAI! 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -265,13 +192,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-17",
+    "date": "2026-07-18",
     "score": 63
   },
   {
-    "title": "Democratizing AI Safety with RiskRubric.ai",
-    "url": "https://huggingface.co/blog/riskrubric",
-    "summary": "Democratizing AI Safety with RiskRubric.ai 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Implementing MCP Servers in Python: An AI Shopping Assistant with Gradio",
+    "url": "https://huggingface.co/blog/gradio-vton-mcp",
+    "summary": "Implementing MCP Servers in Python: An AI Shopping Assistant with Gradio 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -279,13 +206,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-17",
+    "date": "2026-07-18",
     "score": 63
   },
   {
-    "title": "Public AI on Hugging Face Inference Providers 🔥",
-    "url": "https://huggingface.co/blog/inference-providers-publicai",
-    "summary": "Public AI on Hugging Face Inference Providers 🔥 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "TimeScope: How Long Can Your Video Large Multimodal Model Go?",
+    "url": "https://huggingface.co/blog/timescope-video-lmm-benchmark",
+    "summary": "TimeScope: How Long Can Your Video Large Multimodal Model Go? 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -293,13 +220,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-17",
+    "date": "2026-07-18",
     "score": 63
   },
   {
-    "title": "Tricks from OpenAI gpt-oss YOU 🫵 can use with transformers",
-    "url": "https://huggingface.co/blog/faster-transformers",
-    "summary": "Tricks from OpenAI gpt-oss YOU 🫵 can use with transformers 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Ettin Suite: SoTA Paired Encoders and Decoders",
+    "url": "https://huggingface.co/blog/ettin",
+    "summary": "Ettin Suite: SoTA Paired Encoders and Decoders 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -307,13 +234,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-17",
+    "date": "2026-07-18",
     "score": 63
   },
   {
-    "title": "Fine-tune Any LLM from the Hugging Face Hub with Together AI",
-    "url": "https://huggingface.co/blog/togethercomputer/together-ft",
-    "summary": "Fine-tune Any LLM from the Hugging Face Hub with Together AI 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Kimina-Prover: Applying Test-time RL Search on Large Formal Reasoning Models",
+    "url": "https://huggingface.co/blog/AI-MO/kimina-prover",
+    "summary": "Kimina-Prover: Applying Test-time RL Search on Large Formal Reasoning Models 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -321,7 +248,49 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-17",
+    "date": "2026-07-18",
+    "score": 63
+  },
+  {
+    "title": "Reachy Mini - The Open-Source Robot for Today&apos;s and Tomorrow&apos;s AI Builders",
+    "url": "https://huggingface.co/blog/reachy-mini",
+    "summary": "Reachy Mini - The Open-Source Robot for Today&apos;s and Tomorrow&apos;s AI Builders 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-18",
+    "score": 63
+  },
+  {
+    "title": "Efficient MultiModal Data Pipeline",
+    "url": "https://huggingface.co/blog/mmdp",
+    "summary": "Efficient MultiModal Data Pipeline 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-18",
+    "score": 63
+  },
+  {
+    "title": "Announcing NeurIPS 2025 E2LM Competition: Early Training Evaluation of Language Models",
+    "url": "https://huggingface.co/blog/tiiuae/e2lm-competition",
+    "summary": "Announcing NeurIPS 2025 E2LM Competition: Early Training Evaluation of Language Models 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-18",
     "score": 63
   }
 ]
