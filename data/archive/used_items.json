@@ -8866,5 +8866,205 @@
     "cluster_id": "huggingface_co_fa5fb341",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_17323601460ac62b",
+    "canonical_url": "https://www.langchain.com/blog/open-source-extraction-service",
+    "dedupe_key": "b81bf3a9d378e044",
+    "title": "Open Source Extraction Service",
+    "issue_date": "2026-07-19",
+    "cluster_id": "langchain_com_b4146277",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1805c775b2ca155b",
+    "canonical_url": "https://vercel.com/changelog/data-downloaded-by-vercel-sandbox-is-now-free",
+    "dedupe_key": "7f2bbca8ed655f42",
+    "title": "Data downloaded by Vercel Sandbox is now free",
+    "issue_date": "2026-07-19",
+    "cluster_id": "vercel_com_8172c48e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9c6a2f22b21772fa",
+    "canonical_url": "https://huggingface.co/blog/train-sparse-encoder",
+    "dedupe_key": "bc5e5fa7d841a671",
+    "title": "Training and Finetuning Sparse Embedding Models with Sentence Transformers",
+    "issue_date": "2026-07-19",
+    "cluster_id": "huggingface_co_d9cbebf7",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_21e8b0b8606667a7",
+    "canonical_url": "https://huggingface.co/blog/gemma3n",
+    "dedupe_key": "52f6a0100d6b5af2",
+    "title": "Gemma 3n fully available in the open-source ecosystem!",
+    "issue_date": "2026-07-19",
+    "cluster_id": "huggingface_co_4a4acc8e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6243ade71a67696b",
+    "canonical_url": "https://huggingface.co/blog/inference-providers-featherless",
+    "dedupe_key": "633e624e9ac2fd14",
+    "title": "Featherless AI on Hugging Face Inference Providers 🔥",
+    "issue_date": "2026-07-19",
+    "cluster_id": "huggingface_co_cb5d52d4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b7ad55bf35bc0d3e",
+    "canonical_url": "https://huggingface.co/blog/nvidia/gr00t-n1-5-so101-tuning",
+    "dedupe_key": "d2e523afdc3ca21e",
+    "title": "Post-Training Isaac GR00T N1.5 for LeRobot SO-101 Arm",
+    "issue_date": "2026-07-19",
+    "cluster_id": "huggingface_co_8505d844",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_40016c62214014da",
+    "canonical_url": "https://huggingface.co/blog/nvidia-training-cluster",
+    "dedupe_key": "1e14c5a5f9235e90",
+    "title": "Introducing Training Cluster as a Service - a new collaboration with NVIDIA",
+    "issue_date": "2026-07-19",
+    "cluster_id": "huggingface_co_eadd4d0c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e2ec9ba35526ffd8",
+    "canonical_url": "https://huggingface.co/blog/Arm/ai-sound-gen-on-arm",
+    "dedupe_key": "b53caf48ef63e8b1",
+    "title": "Real-Time AI Sound Generation on Arm: A Personal Tool for Creative Freedom",
+    "issue_date": "2026-07-19",
+    "cluster_id": "huggingface_co_a206b067",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b6575f5dafd18939",
+    "canonical_url": "https://huggingface.co/blog/smolvla",
+    "dedupe_key": "e6f79867c89223e0",
+    "title": "SmolVLA: Efficient Vision-Language-Action Model trained on Lerobot Community Data",
+    "issue_date": "2026-07-19",
+    "cluster_id": "huggingface_co_4ad2e604",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5ee4c739d3290109",
+    "canonical_url": "https://huggingface.co/blog/dell-ai-applications",
+    "dedupe_key": "de55276415f692d0",
+    "title": "Dell Enterprise Hub is all you need to build AI on premises",
+    "issue_date": "2026-07-19",
+    "cluster_id": "huggingface_co_547c2023",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2f901c1c983d6b12",
+    "canonical_url": "https://huggingface.co/blog/nanovlm",
+    "dedupe_key": "680b4a8c0b8e04b0",
+    "title": "nanoVLM: The simplest repository to train your VLM in pure PyTorch",
+    "issue_date": "2026-07-19",
+    "cluster_id": "huggingface_co_555415bd",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a7480530784a4b27",
+    "canonical_url": "https://huggingface.co/blog/tngtech/finetuning-olmocr-to-be-a-faithful-ocr-engine",
+    "dedupe_key": "e923f8dd8d124edb",
+    "title": "Finetuning olmOCR to be a faithful OCR-Engine",
+    "issue_date": "2026-07-19",
+    "cluster_id": "huggingface_co_7665190c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7d2a5ae171bee98e",
+    "canonical_url": "https://huggingface.co/blog/pai-6-month",
+    "dedupe_key": "c5d2e7fb1f3a3a5d",
+    "title": "4M Models Scanned: Protect AI + Hugging Face 6 Months In",
+    "issue_date": "2026-07-19",
+    "cluster_id": "huggingface_co_dec93876",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_bd0a2fb7fa146cd0",
+    "canonical_url": "https://huggingface.co/blog/BSC-LT/visualsalamandra7b",
+    "dedupe_key": "3fac9c9e6bbf6d68",
+    "title": "Visual Salamandra: Pushing the Boundaries of Multimodal Understanding",
+    "issue_date": "2026-07-19",
+    "cluster_id": "huggingface_co_b6961897",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3d8c50809356be77",
+    "canonical_url": "https://huggingface.co/blog/train-reranker",
+    "dedupe_key": "5be29ea161ce328c",
+    "title": "Training and Finetuning Reranker Models with Sentence Transformers",
+    "issue_date": "2026-07-19",
+    "cluster_id": "huggingface_co_be9f0aa9",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ee21bacf5159d9c2",
+    "canonical_url": "https://huggingface.co/blog/ai-action-wh-2025",
+    "dedupe_key": "bb98bdb93b3c84bb",
+    "title": "AI Policy @🤗: Response to the White House AI Action Plan RFI",
+    "issue_date": "2026-07-19",
+    "cluster_id": "huggingface_co_090d5ae9",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3bcc365a64988b84",
+    "canonical_url": "https://huggingface.co/blog/nvidia-physical-ai",
+    "dedupe_key": "3782249d0d3cfa3d",
+    "title": "NVIDIA&apos;s GTC 2025 Announcement for Physical AI Developers: New Open Models and Datasets",
+    "issue_date": "2026-07-19",
+    "cluster_id": "huggingface_co_4be28c2f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d557f6e87e31b438",
+    "canonical_url": "https://huggingface.co/blog/gemma3",
+    "dedupe_key": "55360bc5753492cd",
+    "title": "Welcome Gemma 3: Google&apos;s all new multimodal, multilingual, long context open LLM",
+    "issue_date": "2026-07-19",
+    "cluster_id": "huggingface_co_ce1cb934",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c3d854184f75cd9a",
+    "canonical_url": "https://huggingface.co/blog/jfrog",
+    "dedupe_key": "5273a26d7a51db42",
+    "title": "Hugging Face and JFrog partner to make AI Security more transparent",
+    "issue_date": "2026-07-19",
+    "cluster_id": "huggingface_co_85972133",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c9ffcc51d3c53dd0",
+    "canonical_url": "https://huggingface.co/blog/aya-vision",
+    "dedupe_key": "323456346afadfa6",
+    "title": "A Deepdive into Aya Vision: Advancing the Frontier of Multilingual Multimodality",
+    "issue_date": "2026-07-19",
+    "cluster_id": "huggingface_co_2b438fc0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]

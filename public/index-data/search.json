@@ -1,50 +1,22 @@
 [
   {
-    "title": "The cost of saying yes has changed",
-    "url": "https://github.blog/engineering/the-cost-of-saying-yes-has-changed",
-    "summary": "The cost of writing code dropped; the cost of owning it didn't. A framework for deciding which changes are actually cheap in the AI era. The post The cost of saying yes has changed appeared first on The GitHub Blog .",
+    "title": "Open Source Extraction Service",
+    "url": "https://www.langchain.com/blog/open-source-extraction-service",
+    "summary": "Open Source Extraction Service 是 LangChain 当日抓取到的公开新增条目。",
     "tags": [
-      "ai_coding",
-      "developer_tools"
+      "agents",
+      "rag",
+      "framework"
     ],
-    "author": "GitHub Copilot",
-    "source": "github.blog",
-    "date": "2026-07-18",
-    "score": 70
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-07-19",
+    "score": 65
   },
   {
-    "title": "A scorecard for the AI age",
-    "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
-    "summary": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-07-18",
-    "score": 67
-  },
-  {
-    "title": "Q&A: How Capcom Brought Path Tracing to RE ENGINE Across PRAGMATA and Resident Evil Requiem",
-    "url": "https://developer.nvidia.com/blog/qa-how-capcom-brought-path-tracing-to-re-engine-across-pragmata-and-resident-evil-requiem",
-    "summary": "NVIDIA Technical Blog · Q&A: How Capcom Brought Path Tracing to RE ENGINE Across PRAGMATA and Resident Evil Requiem",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-07-18",
-    "score": 66
-  },
-  {
-    "title": "Optimized CDN caching and deploying of immutable static assets",
-    "url": "https://vercel.com/changelog/optimized-cdn-caching-and-deploying-of-immutable-static-assets",
-    "summary": "Vercel now reuses static files across deployments for frameworks that output content-addressed assets. It's zero-config: Vercel uses Framework-defined infrastructure to manage these immutable files alongside your code changes, handling the hard parts like hash collisions, file lifecycles, and efficient routing. This brings several benefits: Lower costs and improved cache hit rates — For frameworks using query-parameter-based Skew Protection (such as Next.js), we saw 17% fewer",
+    "title": "Data downloaded by Vercel Sandbox is now free",
+    "url": "https://vercel.com/changelog/data-downloaded-by-vercel-sandbox-is-now-free",
+    "summary": "Vercel Sandbox no longer bills for data it downloads from the internet. Installing packages, cloning a Git repository, or pulling artifacts and datasets from an external source does not count toward Sandbox Data Transfer usage. Traffic received on a Sandbox's exposed ports is still billable, as is outbound traffic the Sandbox sends to the internet. Pricing for Active CPU, Provisioned Memory, Snapshot Storage, and Sandbox Creations is unchanged. See the pricing documentation f",
     "tags": [
       "sdk",
       "ai_infra",
@@ -52,55 +24,13 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-07-18",
-    "score": 66
-  },
-  {
-    "title": "Chat SDK adds native Slack agent support",
-    "url": "https://vercel.com/changelog/chat-sdk-adds-native-slack-agent-support",
-    "summary": "Chat SDK's Slack adapter now supports the agent messaging experience Slack introduced on June 30 . Agents built with Chat SDK could already talk in channels and DMs and stream replies token-by-token. This update adds the Agent badge, agent conversations in the Messages tab, suggested prompts, rotating status messages, and native feedback buttons. Here's what the adapter gives you: Suggested prompts, per thread: Pass a static payload or an async resolver that receives the thre",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-07-18",
-    "score": 66
-  },
-  {
-    "title": "GLM 5.2 is 35% off via Novita on AI Gateway",
-    "url": "https://vercel.com/changelog/glm-5-2-is-35-off-via-novita-on-ai-gateway",
-    "summary": "GLM 5.2 is 35% off on AI Gateway through July 24 when routed through Novita. To get the discounted rate, set the model to zai/glm-5.2 in the AI SDK and route requests through Novita: After July 24, the model stays available at standard provider rates with no markup. Try GLM 5.2 in the model playground . Read more",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-07-18",
+    "date": "2026-07-19",
     "score": 63
   },
   {
-    "title": "Vercel Plugin now available in Kimi Code CLI",
-    "url": "https://vercel.com/changelog/vercel-plugin-now-available-in-kimi-code-cli",
-    "summary": "The Vercel Plugin is now available in the Kimi Code CLI . Kimi Code can now draw on Vercel platform knowledge on demand, with skills for Next.js, AI SDK, Vercel Functions, and more. The Vercel Plugin also helps Kimi Code stay up to date with the latest Vercel APIs and recommended patterns. To install it, upgrade to the latest Kimi Code CLI and select the Vercel Plugin from the Third-party section of the /plugin menu. Learn more in the Vercel Plugin documentation . Read more",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-07-18",
-    "score": 63
-  },
-  {
-    "title": "SAIR: Accelerating Pharma R&D with AI-Powered Structural Intelligence",
-    "url": "https://huggingface.co/blog/SandboxAQ/sair-data-accelerating-drug-discovery-with-ai",
-    "summary": "SAIR: Accelerating Pharma R&D with AI-Powered Structural Intelligence 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Training and Finetuning Sparse Embedding Models with Sentence Transformers",
+    "url": "https://huggingface.co/blog/train-sparse-encoder",
+    "summary": "Training and Finetuning Sparse Embedding Models with Sentence Transformers 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -108,13 +38,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-18",
+    "date": "2026-07-19",
     "score": 63
   },
   {
-    "title": "NVIDIA Releases 6 Million Multi-Lingual Reasoning Dataset",
-    "url": "https://huggingface.co/blog/nvidia/multilingual-reasoning-v1",
-    "summary": "NVIDIA Releases 6 Million Multi-Lingual Reasoning Dataset 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Gemma 3n fully available in the open-source ecosystem!",
+    "url": "https://huggingface.co/blog/gemma3n",
+    "summary": "Gemma 3n fully available in the open-source ecosystem! 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -122,13 +52,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-18",
+    "date": "2026-07-19",
     "score": 63
   },
   {
-    "title": "From Zero to GPU: A Guide to Building and Scaling Production-Ready CUDA Kernels",
-    "url": "https://huggingface.co/blog/kernel-builder",
-    "summary": "From Zero to GPU: A Guide to Building and Scaling Production-Ready CUDA Kernels 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Featherless AI on Hugging Face Inference Providers 🔥",
+    "url": "https://huggingface.co/blog/inference-providers-featherless",
+    "summary": "Featherless AI on Hugging Face Inference Providers 🔥 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -136,13 +66,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-18",
+    "date": "2026-07-19",
     "score": 63
   },
   {
-    "title": "Arm & ExecuTorch 0.7: Bringing Generative AI to the masses",
-    "url": "https://huggingface.co/blog/Arm/executorch-0-dot-7",
-    "summary": "Arm & ExecuTorch 0.7: Bringing Generative AI to the masses 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Post-Training Isaac GR00T N1.5 for LeRobot SO-101 Arm",
+    "url": "https://huggingface.co/blog/nvidia/gr00t-n1-5-so101-tuning",
+    "summary": "Post-Training Isaac GR00T N1.5 for LeRobot SO-101 Arm 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -150,13 +80,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-18",
+    "date": "2026-07-19",
     "score": 63
   },
   {
-    "title": "Introducing AI Sheets: a tool to work with datasets using open AI models!",
-    "url": "https://huggingface.co/blog/aisheets",
-    "summary": "Introducing AI Sheets: a tool to work with datasets using open AI models! 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Introducing Training Cluster as a Service - a new collaboration with NVIDIA",
+    "url": "https://huggingface.co/blog/nvidia-training-cluster",
+    "summary": "Introducing Training Cluster as a Service - a new collaboration with NVIDIA 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -164,13 +94,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-18",
+    "date": "2026-07-19",
     "score": 63
   },
   {
-    "title": "Accelerate ND-Parallel: A guide to Efficient Multi-GPU Training",
-    "url": "https://huggingface.co/blog/accelerate-nd-parallel",
-    "summary": "Accelerate ND-Parallel: A guide to Efficient Multi-GPU Training 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Real-Time AI Sound Generation on Arm: A Personal Tool for Creative Freedom",
+    "url": "https://huggingface.co/blog/Arm/ai-sound-gen-on-arm",
+    "summary": "Real-Time AI Sound Generation on Arm: A Personal Tool for Creative Freedom 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -178,13 +108,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-18",
+    "date": "2026-07-19",
     "score": 63
   },
   {
-    "title": "Welcome GPT OSS, the new open-source model family from OpenAI!",
-    "url": "https://huggingface.co/blog/welcome-openai-gpt-oss",
-    "summary": "Welcome GPT OSS, the new open-source model family from OpenAI! 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "SmolVLA: Efficient Vision-Language-Action Model trained on Lerobot Community Data",
+    "url": "https://huggingface.co/blog/smolvla",
+    "summary": "SmolVLA: Efficient Vision-Language-Action Model trained on Lerobot Community Data 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -192,13 +122,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-18",
+    "date": "2026-07-19",
     "score": 63
   },
   {
-    "title": "Implementing MCP Servers in Python: An AI Shopping Assistant with Gradio",
-    "url": "https://huggingface.co/blog/gradio-vton-mcp",
-    "summary": "Implementing MCP Servers in Python: An AI Shopping Assistant with Gradio 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Dell Enterprise Hub is all you need to build AI on premises",
+    "url": "https://huggingface.co/blog/dell-ai-applications",
+    "summary": "Dell Enterprise Hub is all you need to build AI on premises 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -206,13 +136,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-18",
+    "date": "2026-07-19",
     "score": 63
   },
   {
-    "title": "TimeScope: How Long Can Your Video Large Multimodal Model Go?",
-    "url": "https://huggingface.co/blog/timescope-video-lmm-benchmark",
-    "summary": "TimeScope: How Long Can Your Video Large Multimodal Model Go? 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "nanoVLM: The simplest repository to train your VLM in pure PyTorch",
+    "url": "https://huggingface.co/blog/nanovlm",
+    "summary": "nanoVLM: The simplest repository to train your VLM in pure PyTorch 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -220,13 +150,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-18",
+    "date": "2026-07-19",
     "score": 63
   },
   {
-    "title": "Ettin Suite: SoTA Paired Encoders and Decoders",
-    "url": "https://huggingface.co/blog/ettin",
-    "summary": "Ettin Suite: SoTA Paired Encoders and Decoders 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Finetuning olmOCR to be a faithful OCR-Engine",
+    "url": "https://huggingface.co/blog/tngtech/finetuning-olmocr-to-be-a-faithful-ocr-engine",
+    "summary": "Finetuning olmOCR to be a faithful OCR-Engine 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -234,13 +164,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-18",
+    "date": "2026-07-19",
     "score": 63
   },
   {
-    "title": "Kimina-Prover: Applying Test-time RL Search on Large Formal Reasoning Models",
-    "url": "https://huggingface.co/blog/AI-MO/kimina-prover",
-    "summary": "Kimina-Prover: Applying Test-time RL Search on Large Formal Reasoning Models 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "4M Models Scanned: Protect AI + Hugging Face 6 Months In",
+    "url": "https://huggingface.co/blog/pai-6-month",
+    "summary": "4M Models Scanned: Protect AI + Hugging Face 6 Months In 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -248,13 +178,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-18",
+    "date": "2026-07-19",
     "score": 63
   },
   {
-    "title": "Reachy Mini - The Open-Source Robot for Today&apos;s and Tomorrow&apos;s AI Builders",
-    "url": "https://huggingface.co/blog/reachy-mini",
-    "summary": "Reachy Mini - The Open-Source Robot for Today&apos;s and Tomorrow&apos;s AI Builders 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Visual Salamandra: Pushing the Boundaries of Multimodal Understanding",
+    "url": "https://huggingface.co/blog/BSC-LT/visualsalamandra7b",
+    "summary": "Visual Salamandra: Pushing the Boundaries of Multimodal Understanding 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -262,13 +192,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-18",
+    "date": "2026-07-19",
     "score": 63
   },
   {
-    "title": "Efficient MultiModal Data Pipeline",
-    "url": "https://huggingface.co/blog/mmdp",
-    "summary": "Efficient MultiModal Data Pipeline 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Training and Finetuning Reranker Models with Sentence Transformers",
+    "url": "https://huggingface.co/blog/train-reranker",
+    "summary": "Training and Finetuning Reranker Models with Sentence Transformers 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -276,13 +206,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-18",
+    "date": "2026-07-19",
     "score": 63
   },
   {
-    "title": "Announcing NeurIPS 2025 E2LM Competition: Early Training Evaluation of Language Models",
-    "url": "https://huggingface.co/blog/tiiuae/e2lm-competition",
-    "summary": "Announcing NeurIPS 2025 E2LM Competition: Early Training Evaluation of Language Models 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "AI Policy @🤗: Response to the White House AI Action Plan RFI",
+    "url": "https://huggingface.co/blog/ai-action-wh-2025",
+    "summary": "AI Policy @🤗: Response to the White House AI Action Plan RFI 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -290,7 +220,63 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-18",
+    "date": "2026-07-19",
+    "score": 63
+  },
+  {
+    "title": "NVIDIA&apos;s GTC 2025 Announcement for Physical AI Developers: New Open Models and Datasets",
+    "url": "https://huggingface.co/blog/nvidia-physical-ai",
+    "summary": "NVIDIA&apos;s GTC 2025 Announcement for Physical AI Developers: New Open Models and Datasets 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-19",
+    "score": 63
+  },
+  {
+    "title": "Welcome Gemma 3: Google&apos;s all new multimodal, multilingual, long context open LLM",
+    "url": "https://huggingface.co/blog/gemma3",
+    "summary": "Welcome Gemma 3: Google&apos;s all new multimodal, multilingual, long context open LLM 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-19",
+    "score": 63
+  },
+  {
+    "title": "Hugging Face and JFrog partner to make AI Security more transparent",
+    "url": "https://huggingface.co/blog/jfrog",
+    "summary": "Hugging Face and JFrog partner to make AI Security more transparent 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-19",
+    "score": 63
+  },
+  {
+    "title": "A Deepdive into Aya Vision: Advancing the Frontier of Multilingual Multimodality",
+    "url": "https://huggingface.co/blog/aya-vision",
+    "summary": "A Deepdive into Aya Vision: Advancing the Frontier of Multilingual Multimodality 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-19",
     "score": 63
   }
 ]
