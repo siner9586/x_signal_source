@@ -1,36 +1,8 @@
 [
   {
-    "title": "Open Source Extraction Service",
-    "url": "https://www.langchain.com/blog/open-source-extraction-service",
-    "summary": "Open Source Extraction Service 是 LangChain 当日抓取到的公开新增条目。",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-07-19",
-    "score": 65
-  },
-  {
-    "title": "Data downloaded by Vercel Sandbox is now free",
-    "url": "https://vercel.com/changelog/data-downloaded-by-vercel-sandbox-is-now-free",
-    "summary": "Vercel Sandbox no longer bills for data it downloads from the internet. Installing packages, cloning a Git repository, or pulling artifacts and datasets from an external source does not count toward Sandbox Data Transfer usage. Traffic received on a Sandbox's exposed ports is still billable, as is outbound traffic the Sandbox sends to the internet. Pricing for Active CPU, Provisioned Memory, Snapshot Storage, and Sandbox Creations is unchanged. See the pricing documentation f",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-07-19",
-    "score": 63
-  },
-  {
-    "title": "Training and Finetuning Sparse Embedding Models with Sentence Transformers",
-    "url": "https://huggingface.co/blog/train-sparse-encoder",
-    "summary": "Training and Finetuning Sparse Embedding Models with Sentence Transformers 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Introducing Three New Serverless Inference Providers: Hyperbolic, Nebius AI Studio, and Novita 🔥",
+    "url": "https://huggingface.co/blog/inference-providers-nebius-novita-hyperbolic",
+    "summary": "Introducing Three New Serverless Inference Providers: Hyperbolic, Nebius AI Studio, and Novita 🔥 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -38,13 +10,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-19",
+    "date": "2026-07-20",
     "score": 63
   },
   {
-    "title": "Gemma 3n fully available in the open-source ecosystem!",
-    "url": "https://huggingface.co/blog/gemma3n",
-    "summary": "Gemma 3n fully available in the open-source ecosystem! 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Welcome Fireworks.ai on the Hub 🎆",
+    "url": "https://huggingface.co/blog/fireworks-ai",
+    "summary": "Welcome Fireworks.ai on the Hub 🎆 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -52,13 +24,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-19",
+    "date": "2026-07-20",
     "score": 63
   },
   {
-    "title": "Featherless AI on Hugging Face Inference Providers 🔥",
-    "url": "https://huggingface.co/blog/inference-providers-featherless",
-    "summary": "Featherless AI on Hugging Face Inference Providers 🔥 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "The AI tools for Art Newsletter - Issue 1",
+    "url": "https://huggingface.co/blog/ai-art-newsletter-jan-25",
+    "summary": "The AI tools for Art Newsletter - Issue 1 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -66,13 +38,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-19",
+    "date": "2026-07-20",
     "score": 63
   },
   {
-    "title": "Post-Training Isaac GR00T N1.5 for LeRobot SO-101 Arm",
-    "url": "https://huggingface.co/blog/nvidia/gr00t-n1-5-so101-tuning",
-    "summary": "Post-Training Isaac GR00T N1.5 for LeRobot SO-101 Arm 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Open-R1: a fully open reproduction of DeepSeek-R1",
+    "url": "https://huggingface.co/blog/open-r1",
+    "summary": "Open-R1: a fully open reproduction of DeepSeek-R1 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -80,13 +52,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-19",
+    "date": "2026-07-20",
     "score": 63
   },
   {
-    "title": "Introducing Training Cluster as a Service - a new collaboration with NVIDIA",
-    "url": "https://huggingface.co/blog/nvidia-training-cluster",
-    "summary": "Introducing Training Cluster as a Service - a new collaboration with NVIDIA 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Hugging Face and FriendliAI partner to supercharge model deployment on the Hub",
+    "url": "https://huggingface.co/blog/friendliai-partnership",
+    "summary": "Hugging Face and FriendliAI partner to supercharge model deployment on the Hub 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -94,13 +66,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-19",
+    "date": "2026-07-20",
     "score": 63
   },
   {
-    "title": "Real-Time AI Sound Generation on Arm: A Personal Tool for Creative Freedom",
-    "url": "https://huggingface.co/blog/Arm/ai-sound-gen-on-arm",
-    "summary": "Real-Time AI Sound Generation on Arm: A Personal Tool for Creative Freedom 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Train 400x faster Static Embedding Models with Sentence Transformers",
+    "url": "https://huggingface.co/blog/static-embeddings",
+    "summary": "Train 400x faster Static Embedding Models with Sentence Transformers 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -108,13 +80,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-19",
+    "date": "2026-07-20",
     "score": 63
   },
   {
-    "title": "SmolVLA: Efficient Vision-Language-Action Model trained on Lerobot Community Data",
-    "url": "https://huggingface.co/blog/smolvla",
-    "summary": "SmolVLA: Efficient Vision-Language-Action Model trained on Lerobot Community Data 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Evaluating Audio Reasoning with Big Bench Audio",
+    "url": "https://huggingface.co/blog/big-bench-audio-release",
+    "summary": "Evaluating Audio Reasoning with Big Bench Audio 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -122,13 +94,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-19",
+    "date": "2026-07-20",
     "score": 63
   },
   {
-    "title": "Dell Enterprise Hub is all you need to build AI on premises",
-    "url": "https://huggingface.co/blog/dell-ai-applications",
-    "summary": "Dell Enterprise Hub is all you need to build AI on premises 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Open Source Developers Guide to the EU AI Act",
+    "url": "https://huggingface.co/blog/eu-ai-act-for-oss-developers",
+    "summary": "Open Source Developers Guide to the EU AI Act 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -136,13 +108,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-19",
+    "date": "2026-07-20",
     "score": 63
   },
   {
-    "title": "nanoVLM: The simplest repository to train your VLM in pure PyTorch",
-    "url": "https://huggingface.co/blog/nanovlm",
-    "summary": "nanoVLM: The simplest repository to train your VLM in pure PyTorch 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Introducing HUGS - Scale your AI with Open Models",
+    "url": "https://huggingface.co/blog/hugs",
+    "summary": "Introducing HUGS - Scale your AI with Open Models 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -150,13 +122,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-19",
+    "date": "2026-07-20",
     "score": 63
   },
   {
-    "title": "Finetuning olmOCR to be a faithful OCR-Engine",
-    "url": "https://huggingface.co/blog/tngtech/finetuning-olmocr-to-be-a-faithful-ocr-engine",
-    "summary": "Finetuning olmOCR to be a faithful OCR-Engine 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Hugging Face Teams Up with Protect AI: Enhancing Model Security for the ML Community",
+    "url": "https://huggingface.co/blog/protectai",
+    "summary": "Hugging Face Teams Up with Protect AI: Enhancing Model Security for the ML Community 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -164,13 +136,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-19",
+    "date": "2026-07-20",
     "score": 63
   },
   {
-    "title": "4M Models Scanned: Protect AI + Hugging Face 6 Months In",
-    "url": "https://huggingface.co/blog/pai-6-month",
-    "summary": "4M Models Scanned: Protect AI + Hugging Face 6 Months In 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Scaling AI-based Data Processing with Hugging Face + Dask",
+    "url": "https://huggingface.co/blog/dask-scaling",
+    "summary": "Scaling AI-based Data Processing with Hugging Face + Dask 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -178,13 +150,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-19",
+    "date": "2026-07-20",
     "score": 63
   },
   {
-    "title": "Visual Salamandra: Pushing the Boundaries of Multimodal Understanding",
-    "url": "https://huggingface.co/blog/BSC-LT/visualsalamandra7b",
-    "summary": "Visual Salamandra: Pushing the Boundaries of Multimodal Understanding 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "A Short Summary of Chinese AI Global Expansion",
+    "url": "https://huggingface.co/blog/chinese-ai-expansion",
+    "summary": "A Short Summary of Chinese AI Global Expansion 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -192,13 +164,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-19",
+    "date": "2026-07-20",
     "score": 63
   },
   {
-    "title": "Training and Finetuning Reranker Models with Sentence Transformers",
-    "url": "https://huggingface.co/blog/train-reranker",
-    "summary": "Training and Finetuning Reranker Models with Sentence Transformers 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Exploring the Daily Papers Page on Hugging Face",
+    "url": "https://huggingface.co/blog/daily-papers",
+    "summary": "Exploring the Daily Papers Page on Hugging Face 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -206,13 +178,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-19",
+    "date": "2026-07-20",
     "score": 63
   },
   {
-    "title": "AI Policy @🤗: Response to the White House AI Action Plan RFI",
-    "url": "https://huggingface.co/blog/ai-action-wh-2025",
-    "summary": "AI Policy @🤗: Response to the White House AI Action Plan RFI 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Optimize and deploy with Optimum-Intel and OpenVINO GenAI",
+    "url": "https://huggingface.co/blog/deploy-with-openvino",
+    "summary": "Optimize and deploy with Optimum-Intel and OpenVINO GenAI 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -220,13 +192,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-19",
+    "date": "2026-07-20",
     "score": 63
   },
   {
-    "title": "NVIDIA&apos;s GTC 2025 Announcement for Physical AI Developers: New Open Models and Datasets",
-    "url": "https://huggingface.co/blog/nvidia-physical-ai",
-    "summary": "NVIDIA&apos;s GTC 2025 Announcement for Physical AI Developers: New Open Models and Datasets 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Improving Hugging Face Training Efficiency Through Packing with Flash Attention 2",
+    "url": "https://huggingface.co/blog/packing-with-FA2",
+    "summary": "Improving Hugging Face Training Efficiency Through Packing with Flash Attention 2 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -234,13 +206,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-19",
+    "date": "2026-07-20",
     "score": 63
   },
   {
-    "title": "Welcome Gemma 3: Google&apos;s all new multimodal, multilingual, long context open LLM",
-    "url": "https://huggingface.co/blog/gemma3",
-    "summary": "Welcome Gemma 3: Google&apos;s all new multimodal, multilingual, long context open LLM 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Deploy Meta Llama 3.1 405B on Google Cloud Vertex AI",
+    "url": "https://huggingface.co/blog/llama31-on-vertex-ai",
+    "summary": "Deploy Meta Llama 3.1 405B on Google Cloud Vertex AI 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -248,13 +220,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-19",
+    "date": "2026-07-20",
     "score": 63
   },
   {
-    "title": "Hugging Face and JFrog partner to make AI Security more transparent",
-    "url": "https://huggingface.co/blog/jfrog",
-    "summary": "Hugging Face and JFrog partner to make AI Security more transparent 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "A failed experiment: Infini-Attention, and why we should keep trying?",
+    "url": "https://huggingface.co/blog/infini-attention",
+    "summary": "A failed experiment: Infini-Attention, and why we should keep trying? 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -262,13 +234,41 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-19",
+    "date": "2026-07-20",
     "score": 63
   },
   {
-    "title": "A Deepdive into Aya Vision: Advancing the Frontier of Multilingual Multimodality",
-    "url": "https://huggingface.co/blog/aya-vision",
-    "summary": "A Deepdive into Aya Vision: Advancing the Frontier of Multilingual Multimodality 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Firsthand: Seven Years Inside Applied Intuition, the Quietly Dominant Physical AI Company I joined Applied Intuition as a new-grad engineer back in early 2019, when it was just a handful of us working above a bar on Murphy Ave in Sunnyvale. Today I'm Deputy CTO of the company (that now has over 1,000 engineers). Here's why I've stayed all these years.",
+    "url": "https://review.firstround.com/firsthand-applied-intuition",
+    "summary": "First Round Review · Firsthand: Seven Years Inside Applied Intuition, the Quietly Dominant Physical AI Company I joined Applied Intuition as a new-grad engineer back in early 2019, when it was just a handful of us working above a bar on Murphy Ave in Sunnyvale. Today I'm Deputy CTO of the company (that now has over 1,000 engineers). Here's why I've stayed all these years.",
+    "tags": [
+      "playbook",
+      "product",
+      "startup"
+    ],
+    "author": "First Round Review",
+    "source": "review.firstround.com",
+    "date": "2026-07-20",
+    "score": 63
+  },
+  {
+    "title": "Anthropic found a hidden space where Claude puzzles over concepts",
+    "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts",
+    "summary": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the Jacobian lens (or&#8230;",
+    "tags": [
+      "ai",
+      "research",
+      "society"
+    ],
+    "author": "MIT Technology Review AI",
+    "source": "technologyreview.com",
+    "date": "2026-07-20",
+    "score": 63
+  },
+  {
+    "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+    "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+    "summary": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -276,7 +276,7 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-19",
-    "score": 63
+    "date": "2026-07-20",
+    "score": 62
   }
 ]

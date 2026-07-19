@@ -9066,5 +9066,205 @@
     "cluster_id": "huggingface_co_2b438fc0",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_073fdb9758735da0",
+    "canonical_url": "https://huggingface.co/blog/inference-providers-nebius-novita-hyperbolic",
+    "dedupe_key": "371e771e916c5700",
+    "title": "Introducing Three New Serverless Inference Providers: Hyperbolic, Nebius AI Studio, and Novita 🔥",
+    "issue_date": "2026-07-20",
+    "cluster_id": "huggingface_co_20b90c69",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_06a229f3dd10d3bb",
+    "canonical_url": "https://huggingface.co/blog/fireworks-ai",
+    "dedupe_key": "6bdade3c499942b6",
+    "title": "Welcome Fireworks.ai on the Hub 🎆",
+    "issue_date": "2026-07-20",
+    "cluster_id": "huggingface_co_eb9f567c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_444996db1d79d753",
+    "canonical_url": "https://huggingface.co/blog/ai-art-newsletter-jan-25",
+    "dedupe_key": "b07e8008aaa49ff2",
+    "title": "The AI tools for Art Newsletter - Issue 1",
+    "issue_date": "2026-07-20",
+    "cluster_id": "huggingface_co_7e4afc52",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_379a03606b21365e",
+    "canonical_url": "https://huggingface.co/blog/open-r1",
+    "dedupe_key": "928c64682ef37be2",
+    "title": "Open-R1: a fully open reproduction of DeepSeek-R1",
+    "issue_date": "2026-07-20",
+    "cluster_id": "huggingface_co_d9447291",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9e2085454e8b6751",
+    "canonical_url": "https://huggingface.co/blog/friendliai-partnership",
+    "dedupe_key": "cf2d02ec70a95464",
+    "title": "Hugging Face and FriendliAI partner to supercharge model deployment on the Hub",
+    "issue_date": "2026-07-20",
+    "cluster_id": "huggingface_co_634a2c1d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_81ada1007966cd78",
+    "canonical_url": "https://huggingface.co/blog/static-embeddings",
+    "dedupe_key": "807abd7a3e7bd63c",
+    "title": "Train 400x faster Static Embedding Models with Sentence Transformers",
+    "issue_date": "2026-07-20",
+    "cluster_id": "huggingface_co_0599ac53",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_45c764eef89ff5a2",
+    "canonical_url": "https://huggingface.co/blog/big-bench-audio-release",
+    "dedupe_key": "5cd3c78c85009260",
+    "title": "Evaluating Audio Reasoning with Big Bench Audio",
+    "issue_date": "2026-07-20",
+    "cluster_id": "huggingface_co_ca6a6c2e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3f640c13142db420",
+    "canonical_url": "https://huggingface.co/blog/eu-ai-act-for-oss-developers",
+    "dedupe_key": "987a25ccd035a388",
+    "title": "Open Source Developers Guide to the EU AI Act",
+    "issue_date": "2026-07-20",
+    "cluster_id": "huggingface_co_dd8c3343",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_09da1fc7601cb985",
+    "canonical_url": "https://huggingface.co/blog/hugs",
+    "dedupe_key": "d0f80935d9d0e632",
+    "title": "Introducing HUGS - Scale your AI with Open Models",
+    "issue_date": "2026-07-20",
+    "cluster_id": "huggingface_co_1e13e9fb",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_17539f8852961aac",
+    "canonical_url": "https://huggingface.co/blog/protectai",
+    "dedupe_key": "dade3a5fe66b1693",
+    "title": "Hugging Face Teams Up with Protect AI: Enhancing Model Security for the ML Community",
+    "issue_date": "2026-07-20",
+    "cluster_id": "huggingface_co_fe81b0a5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ef01a4002dec4d64",
+    "canonical_url": "https://huggingface.co/blog/dask-scaling",
+    "dedupe_key": "b22e8398e33ee72f",
+    "title": "Scaling AI-based Data Processing with Hugging Face + Dask",
+    "issue_date": "2026-07-20",
+    "cluster_id": "huggingface_co_e6c5e112",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a24516c90a323e02",
+    "canonical_url": "https://huggingface.co/blog/chinese-ai-expansion",
+    "dedupe_key": "1c55f7f1de524cf3",
+    "title": "A Short Summary of Chinese AI Global Expansion",
+    "issue_date": "2026-07-20",
+    "cluster_id": "huggingface_co_d409e4d8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_aa93b0e4c1cf79d2",
+    "canonical_url": "https://huggingface.co/blog/daily-papers",
+    "dedupe_key": "8e6e5a2b9d2bb4e1",
+    "title": "Exploring the Daily Papers Page on Hugging Face",
+    "issue_date": "2026-07-20",
+    "cluster_id": "huggingface_co_065222aa",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_bde8edd6041d4d3a",
+    "canonical_url": "https://huggingface.co/blog/deploy-with-openvino",
+    "dedupe_key": "c023fc9d9c8a7c7e",
+    "title": "Optimize and deploy with Optimum-Intel and OpenVINO GenAI",
+    "issue_date": "2026-07-20",
+    "cluster_id": "huggingface_co_0d439c0f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_aa57d8d9ef6aa5d4",
+    "canonical_url": "https://huggingface.co/blog/packing-with-FA2",
+    "dedupe_key": "8b78d7372dba6c76",
+    "title": "Improving Hugging Face Training Efficiency Through Packing with Flash Attention 2",
+    "issue_date": "2026-07-20",
+    "cluster_id": "huggingface_co_a57e38c0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_28455ba953baa030",
+    "canonical_url": "https://huggingface.co/blog/llama31-on-vertex-ai",
+    "dedupe_key": "d5881744b71dd7c9",
+    "title": "Deploy Meta Llama 3.1 405B on Google Cloud Vertex AI",
+    "issue_date": "2026-07-20",
+    "cluster_id": "huggingface_co_64279560",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_65287a2e84b2e533",
+    "canonical_url": "https://huggingface.co/blog/infini-attention",
+    "dedupe_key": "51771f13aace6c65",
+    "title": "A failed experiment: Infini-Attention, and why we should keep trying?",
+    "issue_date": "2026-07-20",
+    "cluster_id": "huggingface_co_2a727382",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3a223d053b77c80c",
+    "canonical_url": "https://review.firstround.com/firsthand-applied-intuition",
+    "dedupe_key": "82e8a73ed8bbb3ca",
+    "title": "Firsthand: Seven Years Inside Applied Intuition, the Quietly Dominant Physical AI Company I joined Applied Intuition as a new-grad engineer back in early 2019, when it was just a handful of us working above a bar on Murphy Ave in Sunnyvale. Today I'm Deputy CTO of the company (that now has over 1,000 engineers). Here's why I've stayed all these years.",
+    "issue_date": "2026-07-20",
+    "cluster_id": "review_firstround_com_c853e76e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5f9444a8c7658312",
+    "canonical_url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts",
+    "dedupe_key": "515f02fcf02c126e",
+    "title": "Anthropic found a hidden space where Claude puzzles over concepts",
+    "issue_date": "2026-07-20",
+    "cluster_id": "technologyreview_com_184ead27",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5684228e09c5ed58",
+    "canonical_url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+    "dedupe_key": "ae5d701387b7d357",
+    "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+    "issue_date": "2026-07-20",
+    "cluster_id": "huggingface_co_1f65b245",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
