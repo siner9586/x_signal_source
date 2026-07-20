@@ -1,260 +1,148 @@
 [
   {
-    "title": "Introducing Three New Serverless Inference Providers: Hyperbolic, Nebius AI Studio, and Novita 🔥",
-    "url": "https://huggingface.co/blog/inference-providers-nebius-novita-hyperbolic",
-    "summary": "Introducing Three New Serverless Inference Providers: Hyperbolic, Nebius AI Studio, and Novita 🔥 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Safety and alignment in an era of long-horizon models",
+    "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+    "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
     "tags": [
-      "open_source",
-      "papers",
-      "models"
+      "ai_models",
+      "official",
+      "research",
+      "developer"
     ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-20",
-    "score": 63
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-07-21",
+    "score": 67
   },
   {
-    "title": "Welcome Fireworks.ai on the Hub 🎆",
-    "url": "https://huggingface.co/blog/fireworks-ai",
-    "summary": "Welcome Fireworks.ai on the Hub 🎆 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "$100 million for open source: A milestone built by the community",
+    "url": "https://github.blog/open-source/maintainers/100-million-for-open-source-a-milestone-built-by-the-community",
+    "summary": "Celebrating $100 million contributed by the community to the people who build and sustain open source every day. The post $100 million for open source: A milestone built by the community appeared first on The GitHub Blog .",
     "tags": [
-      "open_source",
-      "papers",
-      "models"
+      "ai_coding",
+      "developer_tools"
     ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-20",
-    "score": 63
+    "author": "GitHub Copilot",
+    "source": "github.blog",
+    "date": "2026-07-21",
+    "score": 67
   },
   {
-    "title": "The AI tools for Art Newsletter - Issue 1",
-    "url": "https://huggingface.co/blog/ai-art-newsletter-jan-25",
-    "summary": "The AI tools for Art Newsletter - Issue 1 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "IssueBench - How We Evaluate Engine",
+    "url": "https://www.langchain.com/blog/issuebench-how-we-evaluate-engine",
+    "summary": "Learn how LangChain built IssueBench, a synthetic benchmark for evaluating how well LangSmith Engine identifies, categorizes, and groups issues in agent traces.",
     "tags": [
-      "open_source",
-      "papers",
-      "models"
+      "agents",
+      "rag",
+      "framework"
     ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-20",
-    "score": 63
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-07-21",
+    "score": 67
   },
   {
-    "title": "Open-R1: a fully open reproduction of DeepSeek-R1",
-    "url": "https://huggingface.co/blog/open-r1",
-    "summary": "Open-R1: a fully open reproduction of DeepSeek-R1 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Jul 20, 2026 Announcements Apply for Anthropic’s AI for Science rare disease research grants",
+    "url": "https://www.anthropic.com/news/rare-disease-research-grants",
+    "summary": "Newsroom \\ Anthropic · Jul 20, 2026 Announcements Apply for Anthropic’s AI for Science rare disease research grants",
     "tags": [
-      "open_source",
-      "papers",
-      "models"
+      "ai_models",
+      "safety",
+      "official"
     ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-20",
-    "score": 63
+    "author": "Anthropic",
+    "source": "anthropic.com",
+    "date": "2026-07-21",
+    "score": 66
   },
   {
-    "title": "Hugging Face and FriendliAI partner to supercharge model deployment on the Hub",
-    "url": "https://huggingface.co/blog/friendliai-partnership",
-    "summary": "Hugging Face and FriendliAI partner to supercharge model deployment on the Hub 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "NVIDIA NVLink: The Scale-Up Network for AI Factories",
+    "url": "https://developer.nvidia.com/blog/nvidia-nvlink-the-scale-up-network-for-ai-factories",
+    "summary": "NVIDIA Technical Blog · NVIDIA NVLink: The Scale-Up Network for AI Factories",
     "tags": [
-      "open_source",
-      "papers",
-      "models"
+      "gpu",
+      "inference",
+      "ai_infra"
     ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-20",
-    "score": 63
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-07-21",
+    "score": 66
   },
   {
-    "title": "Train 400x faster Static Embedding Models with Sentence Transformers",
-    "url": "https://huggingface.co/blog/static-embeddings",
-    "summary": "Train 400x faster Static Embedding Models with Sentence Transformers 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Integrate NVIDIA Omniverse RTX Sensor Simulation Into Existing Apps",
+    "url": "https://developer.nvidia.com/blog/integrate-nvidia-omniverse-rtx-sensor-simulation-into-existing-apps",
+    "summary": "NVIDIA Technical Blog · Integrate NVIDIA Omniverse RTX Sensor Simulation Into Existing Apps",
     "tags": [
-      "open_source",
-      "papers",
-      "models"
+      "gpu",
+      "inference",
+      "ai_infra"
     ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-20",
-    "score": 63
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-07-21",
+    "score": 66
   },
   {
-    "title": "Evaluating Audio Reasoning with Big Bench Audio",
-    "url": "https://huggingface.co/blog/big-bench-audio-release",
-    "summary": "Evaluating Audio Reasoning with Big Bench Audio 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Purge your Remote Cache&apos;s build and CI artifacts",
+    "url": "https://vercel.com/changelog/purge-your-remote-caches-build-and-ci-artifacts",
+    "summary": "Team Owners can now clear the team's Remote Cache of all artifacts in one click. This is useful when you believe there are poisoned artifacts in your cache. In your team's Build and Deployment settings, visit the Remote Caching section and clear the Remote Cache. Visit the docs to learn more. Read more",
     "tags": [
-      "open_source",
-      "papers",
-      "models"
+      "sdk",
+      "ai_infra",
+      "frontend"
     ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-20",
-    "score": 63
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-07-21",
+    "score": 66
   },
   {
-    "title": "Open Source Developers Guide to the EU AI Act",
-    "url": "https://huggingface.co/blog/eu-ai-act-for-oss-developers",
-    "summary": "Open Source Developers Guide to the EU AI Act 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Building Governed Agents: A Framework for Cost, Control, and Compliance",
+    "url": "https://www.langchain.com/blog/building-governed-agents-a-framework-for-cost-control-and-compliance",
+    "summary": "The gateway is the runtime control plane for enterprise AI, turning policy into enforceable decisions across every model call, tool call, and agent hop.",
     "tags": [
-      "open_source",
-      "papers",
-      "models"
+      "agents",
+      "rag",
+      "framework"
     ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-20",
-    "score": 63
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-07-21",
+    "score": 65
   },
   {
-    "title": "Introducing HUGS - Scale your AI with Open Models",
-    "url": "https://huggingface.co/blog/hugs",
-    "summary": "Introducing HUGS - Scale your AI with Open Models 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "🎙️ How I AI: How the founder of Morning Brew built a Claude content machine that never runs out of ideas",
+    "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-the-founder-of-morning",
+    "summary": "Your weekly listens from How I AI, part of the Lenny&#8217;s Podcast Network",
     "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-20",
-    "score": 63
-  },
-  {
-    "title": "Hugging Face Teams Up with Protect AI: Enhancing Model Security for the ML Community",
-    "url": "https://huggingface.co/blog/protectai",
-    "summary": "Hugging Face Teams Up with Protect AI: Enhancing Model Security for the ML Community 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-20",
-    "score": 63
-  },
-  {
-    "title": "Scaling AI-based Data Processing with Hugging Face + Dask",
-    "url": "https://huggingface.co/blog/dask-scaling",
-    "summary": "Scaling AI-based Data Processing with Hugging Face + Dask 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-20",
-    "score": 63
-  },
-  {
-    "title": "A Short Summary of Chinese AI Global Expansion",
-    "url": "https://huggingface.co/blog/chinese-ai-expansion",
-    "summary": "A Short Summary of Chinese AI Global Expansion 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-20",
-    "score": 63
-  },
-  {
-    "title": "Exploring the Daily Papers Page on Hugging Face",
-    "url": "https://huggingface.co/blog/daily-papers",
-    "summary": "Exploring the Daily Papers Page on Hugging Face 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-20",
-    "score": 63
-  },
-  {
-    "title": "Optimize and deploy with Optimum-Intel and OpenVINO GenAI",
-    "url": "https://huggingface.co/blog/deploy-with-openvino",
-    "summary": "Optimize and deploy with Optimum-Intel and OpenVINO GenAI 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-20",
-    "score": 63
-  },
-  {
-    "title": "Improving Hugging Face Training Efficiency Through Packing with Flash Attention 2",
-    "url": "https://huggingface.co/blog/packing-with-FA2",
-    "summary": "Improving Hugging Face Training Efficiency Through Packing with Flash Attention 2 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-20",
-    "score": 63
-  },
-  {
-    "title": "Deploy Meta Llama 3.1 405B on Google Cloud Vertex AI",
-    "url": "https://huggingface.co/blog/llama31-on-vertex-ai",
-    "summary": "Deploy Meta Llama 3.1 405B on Google Cloud Vertex AI 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-20",
-    "score": 63
-  },
-  {
-    "title": "A failed experiment: Infini-Attention, and why we should keep trying?",
-    "url": "https://huggingface.co/blog/infini-attention",
-    "summary": "A failed experiment: Infini-Attention, and why we should keep trying? 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-20",
-    "score": 63
-  },
-  {
-    "title": "Firsthand: Seven Years Inside Applied Intuition, the Quietly Dominant Physical AI Company I joined Applied Intuition as a new-grad engineer back in early 2019, when it was just a handful of us working above a bar on Murphy Ave in Sunnyvale. Today I'm Deputy CTO of the company (that now has over 1,000 engineers). Here's why I've stayed all these years.",
-    "url": "https://review.firstround.com/firsthand-applied-intuition",
-    "summary": "First Round Review · Firsthand: Seven Years Inside Applied Intuition, the Quietly Dominant Physical AI Company I joined Applied Intuition as a new-grad engineer back in early 2019, when it was just a handful of us working above a bar on Murphy Ave in Sunnyvale. Today I'm Deputy CTO of the company (that now has over 1,000 engineers). Here's why I've stayed all these years.",
-    "tags": [
-      "playbook",
       "product",
+      "growth",
       "startup"
     ],
-    "author": "First Round Review",
-    "source": "review.firstround.com",
-    "date": "2026-07-20",
+    "author": "Lenny's Newsletter",
+    "source": "lennysnewsletter.com",
+    "date": "2026-07-21",
+    "score": 64
+  },
+  {
+    "title": "How NuminaMath Won the 1st AIMO Progress Prize",
+    "url": "https://huggingface.co/blog/winning-aimo-progress-prize",
+    "summary": "How NuminaMath Won the 1st AIMO Progress Prize 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-21",
     "score": 63
   },
   {
-    "title": "Anthropic found a hidden space where Claude puzzles over concepts",
-    "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts",
-    "summary": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the Jacobian lens (or&#8230;",
+    "title": "AI is more likely than humans to form biases when hiring",
+    "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans",
+    "summary": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data. New research suggests that LLMs can also develop their own biases from&#8230;",
     "tags": [
       "ai",
       "research",
@@ -262,13 +150,41 @@
     ],
     "author": "MIT Technology Review AI",
     "source": "technologyreview.com",
-    "date": "2026-07-20",
+    "date": "2026-07-21",
     "score": 63
   },
   {
-    "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-    "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-    "summary": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Inviting hard questions Announcements Jul 9, 2026 We’re asking the public for their hardest questions about AI, and committing to show our work as we address them.",
+    "url": "https://www.anthropic.com/news/hard-questions",
+    "summary": "Newsroom \\ Anthropic · Inviting hard questions Announcements Jul 9, 2026 We’re asking the public for their hardest questions about AI, and committing to show our work as we address them.",
+    "tags": [
+      "ai_models",
+      "safety",
+      "official"
+    ],
+    "author": "Anthropic",
+    "source": "anthropic.com",
+    "date": "2026-07-21",
+    "score": 62
+  },
+  {
+    "title": "Jul 9, 2026 Case Study UST is bringing Claude to physical AI",
+    "url": "https://www.anthropic.com/news/ust-claude",
+    "summary": "Newsroom \\ Anthropic · Jul 9, 2026 Case Study UST is bringing Claude to physical AI",
+    "tags": [
+      "ai_models",
+      "safety",
+      "official"
+    ],
+    "author": "Anthropic",
+    "source": "anthropic.com",
+    "date": "2026-07-21",
+    "score": 62
+  },
+  {
+    "title": "Introducing Cosmos 3 Edge",
+    "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
+    "summary": "Introducing Cosmos 3 Edge 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -276,7 +192,91 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-20",
+    "date": "2026-07-21",
+    "score": 62
+  },
+  {
+    "title": "Newer Models, Same Advantage",
+    "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+    "summary": "Newer Models, Same Advantage 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-21",
+    "score": 62
+  },
+  {
+    "title": "Security incident disclosure — July 2026",
+    "url": "https://huggingface.co/blog/security-incident-july-2026",
+    "summary": "Security incident disclosure — July 2026 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-21",
+    "score": 62
+  },
+  {
+    "title": "Model Routing Is Simple. Until It Isn’t.",
+    "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+    "summary": "Model Routing Is Simple. Until It Isn’t. 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-21",
+    "score": 62
+  },
+  {
+    "title": "Welcome Inkling by Thinking Machines",
+    "url": "https://huggingface.co/blog/thinkingmachines-inkling",
+    "summary": "Welcome Inkling by Thinking Machines 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-21",
+    "score": 62
+  },
+  {
+    "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+    "url": "https://huggingface.co/blog/torch-attention-profile",
+    "summary": "Profiling in PyTorch (Part 3): Attention is all you profile 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-21",
+    "score": 62
+  },
+  {
+    "title": "Native-speed vLLM transformers modeling backend",
+    "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+    "summary": "Native-speed vLLM transformers modeling backend 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-21",
     "score": 62
   }
 ]

@@ -9266,5 +9266,205 @@
     "cluster_id": "huggingface_co_1f65b245",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5828ec30bf8fb33e",
+    "canonical_url": "https://openai.com/index/safety-alignment-long-horizon-models",
+    "dedupe_key": "f43e8d41d5d6694c",
+    "title": "Safety and alignment in an era of long-horizon models",
+    "issue_date": "2026-07-21",
+    "cluster_id": "openai_com_c0fbd5f7",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_04845ca775cc8fa6",
+    "canonical_url": "https://github.blog/open-source/maintainers/100-million-for-open-source-a-milestone-built-by-the-community",
+    "dedupe_key": "72f292cc1112b5ff",
+    "title": "$100 million for open source: A milestone built by the community",
+    "issue_date": "2026-07-21",
+    "cluster_id": "github_blog_3d09dddb",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7252e1039055406e",
+    "canonical_url": "https://www.langchain.com/blog/issuebench-how-we-evaluate-engine",
+    "dedupe_key": "8e95b2c52fd42155",
+    "title": "IssueBench - How We Evaluate Engine",
+    "issue_date": "2026-07-21",
+    "cluster_id": "langchain_com_aae47903",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_35df69fe02392e45",
+    "canonical_url": "https://www.anthropic.com/news/rare-disease-research-grants",
+    "dedupe_key": "2abb06f785f68fbe",
+    "title": "Jul 20, 2026 Announcements Apply for Anthropic’s AI for Science rare disease research grants",
+    "issue_date": "2026-07-21",
+    "cluster_id": "anthropic_com_273aeded",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_90d9ca1af6fdfcc7",
+    "canonical_url": "https://developer.nvidia.com/blog/nvidia-nvlink-the-scale-up-network-for-ai-factories",
+    "dedupe_key": "d29896d688a206d7",
+    "title": "NVIDIA NVLink: The Scale-Up Network for AI Factories",
+    "issue_date": "2026-07-21",
+    "cluster_id": "developer_nvidia_com_1c53b44d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_38a0d2b4cb33f1be",
+    "canonical_url": "https://developer.nvidia.com/blog/integrate-nvidia-omniverse-rtx-sensor-simulation-into-existing-apps",
+    "dedupe_key": "eeb968d73569bba0",
+    "title": "Integrate NVIDIA Omniverse RTX Sensor Simulation Into Existing Apps",
+    "issue_date": "2026-07-21",
+    "cluster_id": "developer_nvidia_com_2a4cb5f9",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_fcdc92855fdc0bec",
+    "canonical_url": "https://vercel.com/changelog/purge-your-remote-caches-build-and-ci-artifacts",
+    "dedupe_key": "1f6747223d46cfcb",
+    "title": "Purge your Remote Cache&apos;s build and CI artifacts",
+    "issue_date": "2026-07-21",
+    "cluster_id": "vercel_com_a301e1a0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b8b12ad72fa9dc36",
+    "canonical_url": "https://www.langchain.com/blog/building-governed-agents-a-framework-for-cost-control-and-compliance",
+    "dedupe_key": "a07c4c4f9e16864d",
+    "title": "Building Governed Agents: A Framework for Cost, Control, and Compliance",
+    "issue_date": "2026-07-21",
+    "cluster_id": "langchain_com_93240890",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_be471ba3c592c2b4",
+    "canonical_url": "https://www.lennysnewsletter.com/p/how-i-ai-how-the-founder-of-morning",
+    "dedupe_key": "4e22e0352db2120a",
+    "title": "🎙️ How I AI: How the founder of Morning Brew built a Claude content machine that never runs out of ideas",
+    "issue_date": "2026-07-21",
+    "cluster_id": "lennysnewsletter_com_a7f8a907",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_32b520f97afb4d5b",
+    "canonical_url": "https://huggingface.co/blog/winning-aimo-progress-prize",
+    "dedupe_key": "8ab254b05d5ee0a0",
+    "title": "How NuminaMath Won the 1st AIMO Progress Prize",
+    "issue_date": "2026-07-21",
+    "cluster_id": "huggingface_co_e3ee701e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d25df0d6a2a87000",
+    "canonical_url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans",
+    "dedupe_key": "ea228936635ddb2a",
+    "title": "AI is more likely than humans to form biases when hiring",
+    "issue_date": "2026-07-21",
+    "cluster_id": "technologyreview_com_3658fee7",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_eea59e97f3d12aa2",
+    "canonical_url": "https://www.anthropic.com/news/hard-questions",
+    "dedupe_key": "110a6a9da5be5a27",
+    "title": "Inviting hard questions Announcements Jul 9, 2026 We’re asking the public for their hardest questions about AI, and committing to show our work as we address them.",
+    "issue_date": "2026-07-21",
+    "cluster_id": "anthropic_com_3f198a55",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_89efa04493fba994",
+    "canonical_url": "https://www.anthropic.com/news/ust-claude",
+    "dedupe_key": "3fb4e329a1c8d9d0",
+    "title": "Jul 9, 2026 Case Study UST is bringing Claude to physical AI",
+    "issue_date": "2026-07-21",
+    "cluster_id": "anthropic_com_32b93c45",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0f0b846f0d055c3c",
+    "canonical_url": "https://huggingface.co/blog/nvidia/cosmos3edge",
+    "dedupe_key": "37354fb2121a00f5",
+    "title": "Introducing Cosmos 3 Edge",
+    "issue_date": "2026-07-21",
+    "cluster_id": "huggingface_co_76648c1c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2e40bb4e137ad28c",
+    "canonical_url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+    "dedupe_key": "a9123cac2516afa8",
+    "title": "Newer Models, Same Advantage",
+    "issue_date": "2026-07-21",
+    "cluster_id": "huggingface_co_c3128eac",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_54ff1d8f886b638c",
+    "canonical_url": "https://huggingface.co/blog/security-incident-july-2026",
+    "dedupe_key": "e8359c6b21ecfab0",
+    "title": "Security incident disclosure — July 2026",
+    "issue_date": "2026-07-21",
+    "cluster_id": "huggingface_co_238129d5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0ab02da75e815912",
+    "canonical_url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+    "dedupe_key": "6049a8f4e274a9f5",
+    "title": "Model Routing Is Simple. Until It Isn’t.",
+    "issue_date": "2026-07-21",
+    "cluster_id": "huggingface_co_0e4c625d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6b827db20016ed50",
+    "canonical_url": "https://huggingface.co/blog/thinkingmachines-inkling",
+    "dedupe_key": "57369967718598f8",
+    "title": "Welcome Inkling by Thinking Machines",
+    "issue_date": "2026-07-21",
+    "cluster_id": "huggingface_co_2d5c603f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_26da3db5bf430944",
+    "canonical_url": "https://huggingface.co/blog/torch-attention-profile",
+    "dedupe_key": "2e0d0593990d679e",
+    "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+    "issue_date": "2026-07-21",
+    "cluster_id": "huggingface_co_e890c71d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d511c02f434bc0de",
+    "canonical_url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+    "dedupe_key": "8847662adbb2f479",
+    "title": "Native-speed vLLM transformers modeling backend",
+    "issue_date": "2026-07-21",
+    "cluster_id": "huggingface_co_de98a245",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
