@@ -9666,5 +9666,235 @@
     "cluster_id": "technologyreview_com_b88bcc74",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3919a82ccebf4752",
+    "canonical_url": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program",
+    "dedupe_key": "146d57237691678e",
+    "title": "Next chapter: Restructuring GitHub&#8217;s bug bounty program",
+    "issue_date": "2026-07-23",
+    "cluster_id": "github_blog_688770e3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_904c70615abd0c4a",
+    "canonical_url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+    "dedupe_key": "027ae52c5644ebfa",
+    "title": "Building AI infrastructure with the Effingham County community",
+    "issue_date": "2026-07-23",
+    "cluster_id": "openai_com_a2e2c13c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2d1ba41c18545f85",
+    "canonical_url": "https://openai.com/index/introducing-openai-presence",
+    "dedupe_key": "bbc225fc01c5ec02",
+    "title": "Introducing OpenAI Presence",
+    "issue_date": "2026-07-23",
+    "cluster_id": "openai_com_3c029e62",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8fd687faeefbad00",
+    "canonical_url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission",
+    "dedupe_key": "c721b23a83abc2a2",
+    "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+    "issue_date": "2026-07-23",
+    "cluster_id": "deepmind_google_19c19d66",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_aebc2da34661b0d5",
+    "canonical_url": "https://openai.com/index/how-news-organizations-are-using-ai",
+    "dedupe_key": "fa8dc0014459722f",
+    "title": "How news organizations are using AI to advance their vital missions",
+    "issue_date": "2026-07-23",
+    "cluster_id": "openai_com_a44ce775",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f607faa9830db3ab",
+    "canonical_url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+    "dedupe_key": "5c302dcdc9d7fc0a",
+    "title": "Advancing the next era of national science",
+    "issue_date": "2026-07-23",
+    "cluster_id": "openai_com_ed686221",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_880308cf022c4db7",
+    "canonical_url": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for",
+    "dedupe_key": "c05e4c27820e4ce1",
+    "title": "Copilot vs. raw API access: What are you actually paying for?",
+    "issue_date": "2026-07-23",
+    "cluster_id": "github_blog_acbb2be0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_224ec9c31c8bce2f",
+    "canonical_url": "https://www.langchain.com/blog/3-years-of-graph-engineering-with-langgraph",
+    "dedupe_key": "18aecc366ee1c74a",
+    "title": "3 Years of Graph Engineering with LangGraph",
+    "issue_date": "2026-07-23",
+    "cluster_id": "langchain_com_91e88ba0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_aa9372e947dcd461",
+    "canonical_url": "https://developer.nvidia.com/blog/make-long-running-nvidia-tensorrt-engine-builds-observable-and-cancelable-in-python-or-c",
+    "dedupe_key": "1351cf0670a41bfc",
+    "title": "Make Long-Running NVIDIA TensorRT Engine Builds Observable and Cancelable in Python or C++",
+    "issue_date": "2026-07-23",
+    "cluster_id": "developer_nvidia_com_626f41ca",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3b97697744e5a939",
+    "canonical_url": "https://vercel.com/changelog/eve-extensions",
+    "dedupe_key": "f8084804d11f41b5",
+    "title": "Extend eve agents with installable extensions",
+    "issue_date": "2026-07-23",
+    "cluster_id": "vercel_com_1f9077bc",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f45748c140d72717",
+    "canonical_url": "https://www.langchain.com/blog/towards-automating-eval-engineering",
+    "dedupe_key": "00e9538536a07ec3",
+    "title": "Eval Engineering Skill: Build Evals From Repo Context and Traces",
+    "issue_date": "2026-07-23",
+    "cluster_id": "langchain_com_23d6b556",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1f750373b4a32078",
+    "canonical_url": "https://vercel.com/changelog/ai-gateway-now-supports-streaming-transcription",
+    "dedupe_key": "56fe360da7456544",
+    "title": "AI Gateway now supports streaming transcription",
+    "issue_date": "2026-07-23",
+    "cluster_id": "vercel_com_8f8f76f3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_cd89490be4b47b7e",
+    "canonical_url": "https://vercel.com/changelog/vercel-connect-preset-connectors",
+    "dedupe_key": "397f2d5b72cea511",
+    "title": "Vercel Connect adds 90+ preset connectors",
+    "issue_date": "2026-07-23",
+    "cluster_id": "vercel_com_b629feaa",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2a81b55d01ee5c26",
+    "canonical_url": "https://vercel.com/changelog/service-tiers-now-available-on-ai-gateway",
+    "dedupe_key": "aaa0d21c145e9f58",
+    "title": "Service tiers now available on AI Gateway",
+    "issue_date": "2026-07-23",
+    "cluster_id": "vercel_com_bd0285ff",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_11c10e305b3f2e6e",
+    "canonical_url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+    "dedupe_key": "b400e5e6a2501030",
+    "title": "The State of Simulation for Physical AI: An Overview",
+    "issue_date": "2026-07-23",
+    "cluster_id": "huggingface_co_6369840f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_cd24accb65b4db5f",
+    "canonical_url": "https://huggingface.co/blog/grabette",
+    "dedupe_key": "24a65403c198cf93",
+    "title": "Grabette: an open system to record robot-manipulation data",
+    "issue_date": "2026-07-23",
+    "cluster_id": "huggingface_co_65f6d62a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c783c94eff7bd1fd",
+    "canonical_url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+    "dedupe_key": "24216481ed067838",
+    "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+    "issue_date": "2026-07-23",
+    "cluster_id": "huggingface_co_fa2249d6",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d6334e151c4a0772",
+    "canonical_url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+    "dedupe_key": "40a18e3c8a725cc2",
+    "title": "Hugging Face Models on Foundry Managed Compute",
+    "issue_date": "2026-07-23",
+    "cluster_id": "huggingface_co_2a9e951e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_afa7bb8f45a47de9",
+    "canonical_url": "https://huggingface.co/blog/lerobot-release-v060",
+    "dedupe_key": "cb2135991d4a7531",
+    "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+    "issue_date": "2026-07-23",
+    "cluster_id": "huggingface_co_57539f75",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_279e286bfa45e062",
+    "canonical_url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+    "dedupe_key": "f7461a5ba8b167eb",
+    "title": "PRX Part 4: Our Data Strategy",
+    "issue_date": "2026-07-23",
+    "cluster_id": "huggingface_co_58b61104",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_770393aad17d4cf9",
+    "canonical_url": "https://huggingface.co/blog/revamped-kernels",
+    "dedupe_key": "66dbed51399e67fc",
+    "title": "🤗 Kernels: Major Updates",
+    "issue_date": "2026-07-23",
+    "cluster_id": "huggingface_co_60f90b56",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b1454213a4966717",
+    "canonical_url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+    "dedupe_key": "b4b2ddd736b34004",
+    "title": "Why Specialization Is Inevitable",
+    "issue_date": "2026-07-23",
+    "cluster_id": "huggingface_co_ce064740",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ba971bdc98fdaf00",
+    "canonical_url": "https://huggingface.co/blog/eee-community-evals",
+    "dedupe_key": "8cdaee3150e65d1c",
+    "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+    "issue_date": "2026-07-23",
+    "cluster_id": "huggingface_co_bfb20ff3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
