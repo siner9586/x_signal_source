@@ -1,109 +1,35 @@
 [
   {
-    "title": "Next chapter: Restructuring GitHub&#8217;s bug bounty program",
-    "url": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program",
-    "summary": "GitHub is making some significant changes to its bug bounty program, shifting its focus to give researchers a better experience working with the GitHub team. The post Next chapter: Restructuring GitHub&#8217;s bug bounty program appeared first on The GitHub Blog .",
+    "title": "The case for a cooldown: Why Dependabot now waits before issuing version updates",
+    "url": "https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates",
+    "summary": "A new default three-day cooldown delays version update pull requests so maintainers and security researchers can address findings in a release before it gets into your code. The post The case for a cooldown: Why Dependabot now waits before issuing version updates appeared first on The GitHub Blog .",
     "tags": [
       "ai_coding",
       "developer_tools"
     ],
     "author": "GitHub Copilot",
     "source": "github.blog",
-    "date": "2026-07-23",
-    "score": 73
+    "date": "2026-07-24",
+    "score": 74
   },
   {
-    "title": "Building AI infrastructure with the Effingham County community",
-    "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-    "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
+    "title": "GitHub tools are now an installable eve extension",
+    "url": "https://vercel.com/changelog/github-tools-eve-extension",
+    "summary": "You can now add GitHub tools to your eve agent as an extension . Add the package, drop one file in agent/extensions/ , and your agent gets all 42 tools with Vercel Connect auth, presets, and approval rules built in. Install @github-tools/eve-extension : Then register it from a file in agent/extensions/ : Connector-backed auth: Pass a Vercel Connect connector and the extension mints short-lived, scoped GitHub tokens at runtime. Presets scope the toolset: code-review , issue-tr",
     "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
+      "sdk",
+      "ai_infra",
+      "frontend"
     ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-07-23",
-    "score": 72
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-07-24",
+    "score": 69
   },
   {
-    "title": "Introducing OpenAI Presence",
-    "url": "https://openai.com/index/introducing-openai-presence",
-    "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-07-23",
-    "score": 72
-  },
-  {
-    "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
-    "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission",
-    "summary": "Google commits $40M in AI tokens and credits for the Genesis Mission",
-    "tags": [
-      "research",
-      "multimodal",
-      "science",
-      "official"
-    ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-07-23",
-    "score": 68
-  },
-  {
-    "title": "How news organizations are using AI to advance their vital missions",
-    "url": "https://openai.com/index/how-news-organizations-are-using-ai",
-    "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-07-23",
-    "score": 67
-  },
-  {
-    "title": "Advancing the next era of national science",
-    "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
-    "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-07-23",
-    "score": 67
-  },
-  {
-    "title": "Copilot vs. raw API access: What are you actually paying for?",
-    "url": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for",
-    "summary": "Copilot now bills usage at listed API rates. Compare direct model access with the coding workflow, policy, and harness work around it. The post Copilot vs. raw API access: What are you actually paying for? appeared first on The GitHub Blog .",
-    "tags": [
-      "ai_coding",
-      "developer_tools"
-    ],
-    "author": "GitHub Copilot",
-    "source": "github.blog",
-    "date": "2026-07-23",
-    "score": 67
-  },
-  {
-    "title": "3 Years of Graph Engineering with LangGraph",
-    "url": "https://www.langchain.com/blog/3-years-of-graph-engineering-with-langgraph",
-    "summary": "Graph engineering isn't a new idea. It's the latest name for a well established approach to building reliable agents. It's the same idea behind loop engineering and harness engineering: building putting model reasoning in the right places, with the right context, at each step. At LangChain, we've been helping people build agents with graphs for 3 years! Here's what we've learned.",
+    "title": "How We Benchmark Deep Agents",
+    "url": "https://www.langchain.com/blog/how-we-benchmark-deep-agents",
+    "summary": "We revamped how we benchmark Deep Agents. Here's the eval setup we run in Harbor across coding, conversation, and retrieval, and how we use it to ship changes.",
     "tags": [
       "agents",
       "rag",
@@ -111,13 +37,71 @@
     ],
     "author": "LangChain",
     "source": "langchain.com",
-    "date": "2026-07-23",
+    "date": "2026-07-24",
+    "score": 69
+  },
+  {
+    "title": "Ling 3.0 Flash is now available on AI Gateway",
+    "url": "https://vercel.com/changelog/ling-3-0-flash-is-now-available-on-ai-gateway",
+    "summary": "Ling 3.0 Flash from Ant Group is now available on AI Gateway. The model is free to use for the next three weeks, through August 3rd. Ling 3.0 Flash is a Mixture-of-Experts model with 124B total parameters and about 5.1B active per token. It has a 256K token context window and runs in thinking and non-thinking modes. Ling 3.0 Flash is built for token-efficient agentic inference at production scale, doing more work within tighter token, latency, and cost budgets across multi-st",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-07-24",
+    "score": 68
+  },
+  {
+    "title": "Launching Health in ChatGPT",
+    "url": "https://openai.com/index/health-in-chatgpt",
+    "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-07-24",
     "score": 67
   },
   {
-    "title": "Make Long-Running NVIDIA TensorRT Engine Builds Observable and Cancelable in Python or C++",
-    "url": "https://developer.nvidia.com/blog/make-long-running-nvidia-tensorrt-engine-builds-observable-and-cancelable-in-python-or-c",
-    "summary": "NVIDIA Technical Blog · Make Long-Running NVIDIA TensorRT Engine Builds Observable and Cancelable in Python or C++",
+    "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+    "url": "https://openai.com/index/ntt-data",
+    "summary": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-07-24",
+    "score": 67
+  },
+  {
+    "title": "Jul 22, 2026 Economic Research A research agenda for the Economic Futures Research Fund",
+    "url": "https://www.anthropic.com/news/economic-futures-research-fund-agenda",
+    "summary": "Newsroom \\ Anthropic · Jul 22, 2026 Economic Research A research agenda for the Economic Futures Research Fund",
+    "tags": [
+      "ai_models",
+      "safety",
+      "official"
+    ],
+    "author": "Anthropic",
+    "source": "anthropic.com",
+    "date": "2026-07-24",
+    "score": 66
+  },
+  {
+    "title": "Debugging Ray Tracing Applications Using NVIDIA OptiX Toolkit",
+    "url": "https://developer.nvidia.com/blog/debugging-ray-tracing-applications-using-nvidia-optix-toolkit",
+    "summary": "NVIDIA Technical Blog · Debugging Ray Tracing Applications Using NVIDIA OptiX Toolkit",
     "tags": [
       "gpu",
       "inference",
@@ -125,13 +109,27 @@
     ],
     "author": "NVIDIA AI",
     "source": "developer.nvidia.com",
-    "date": "2026-07-23",
+    "date": "2026-07-24",
     "score": 66
   },
   {
-    "title": "Extend eve agents with installable extensions",
-    "url": "https://vercel.com/changelog/eve-extensions",
-    "summary": "You can now package tools, connections, skills, instructions, and hooks into extensions that any eve agent can import. Extensions can be published to package registries like npm, then installed, versioned, and upgraded like any other project dependency. A browser-use extension might ship tools for navigating a site, a memory extension can capture context with hooks and recall it with tools, and a self-improvement extension pairs hooks with dynamic instructions. Scaffold a new",
+    "title": "Start Customizing NVIDIA Nemotron 3 Nano with Prime Intellect Lab in Minutes",
+    "url": "https://developer.nvidia.com/blog/start-customizing-nvidia-nemotron-3-nano-with-prime-intellect-lab-in-minutes",
+    "summary": "NVIDIA Technical Blog · Start Customizing NVIDIA Nemotron 3 Nano with Prime Intellect Lab in Minutes",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-07-24",
+    "score": 66
+  },
+  {
+    "title": "Vercel MCP can now deploy code",
+    "url": "https://vercel.com/changelog/vercel-mcp-can-now-deploy-code",
+    "summary": "The Vercel MCP server can now deploy code directly to a new or existing project. When your AI assistant finishes building something, it can ship it to Vercel and hand back a shareable URL without leaving the chat. Point the deploy_to_vercel tool at your files and Vercel creates the project, detects the framework, installs dependencies, and builds. You get a URL you can open and share while the build finishes in the background. To get started, connect the Vercel MCP server to ",
     "tags": [
       "sdk",
       "ai_infra",
@@ -139,13 +137,13 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-07-23",
+    "date": "2026-07-24",
     "score": 66
   },
   {
-    "title": "Eval Engineering Skill: Build Evals From Repo Context and Traces",
-    "url": "https://www.langchain.com/blog/towards-automating-eval-engineering",
-    "summary": "LangChain's Eval Engineering Skill inspects your agent's repo and traces, proposes evals through user interviews, and outputs runnable Harbor tasks.",
+    "title": "July 2026: LangChain Newsletter — NemoClaw Blueprint, OpenWiki Brains, and More",
+    "url": "https://www.langchain.com/blog/july-2026-langchain-newsletter",
+    "summary": "NemoClaw Deep Agents blueprint, LangSmith Sandboxes free trial, Fleet Slack integration, voice tracing, OpenWiki Brains, and RLMs in Deep Agents. See what's new at LangChain",
     "tags": [
       "agents",
       "rag",
@@ -153,13 +151,41 @@
     ],
     "author": "LangChain",
     "source": "langchain.com",
-    "date": "2026-07-23",
+    "date": "2026-07-24",
     "score": 65
   },
   {
-    "title": "AI Gateway now supports streaming transcription",
-    "url": "https://vercel.com/changelog/ai-gateway-now-supports-streaming-transcription",
-    "summary": "AI Gateway now supports streaming transcription . Previously, transcription required a complete audio file and returned the full transcript in a single response. Now you can stream audio in as it's captured and get transcript updates back as the model produces them, keeping latency low for uses like live captioning and voice input. Streaming transcription is in beta and available through the AI SDK 's streamTranscribe function with any streaming-capable transcription model. T",
+    "title": "How AI helps scientists design the next generation of medicines",
+    "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines",
+    "summary": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most possible candidates never reach the patient. For biologic medicines, therapies made from engineered proteins rather than synthetic chemistry (which are often used to&#8230;",
+    "tags": [
+      "ai",
+      "research",
+      "society"
+    ],
+    "author": "MIT Technology Review AI",
+    "source": "technologyreview.com",
+    "date": "2026-07-24",
+    "score": 64
+  },
+  {
+    "title": "Jul 22, 2026 Product Ask Claude about the Anthropic Economic Index",
+    "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
+    "summary": "Newsroom \\ Anthropic · Jul 22, 2026 Product Ask Claude about the Anthropic Economic Index",
+    "tags": [
+      "ai_models",
+      "safety",
+      "official"
+    ],
+    "author": "Anthropic",
+    "source": "anthropic.com",
+    "date": "2026-07-24",
+    "score": 63
+  },
+  {
+    "title": "Evaluation metrics for Vercel Flags",
+    "url": "https://vercel.com/changelog/evaluation-metrics-for-vercel-flags",
+    "summary": "Vercel Flags now shows a live evaluation view on each flag's detail page. You can see evaluations per minute charted over time, with each flag version marked in the chart so you can tie evaluation shifts to specific configuration changes. You can group and filter evaluations by variant, reason, environment, SDK key, client, and reporting project. Custom clients can set the new clientName property on the client initializer to show up as their own group. This makes it straightf",
     "tags": [
       "sdk",
       "ai_infra",
@@ -167,13 +193,13 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-07-23",
+    "date": "2026-07-24",
     "score": 63
   },
   {
-    "title": "Vercel Connect adds 90+ preset connectors",
-    "url": "https://vercel.com/changelog/vercel-connect-preset-connectors",
-    "summary": "Vercel Connect now includes preset connectors for 90+ services, including Shopify, Resend, Sanity, Okta, Workday, and Jira. Preset connectors are predefined configurations for supported services. They reduce manual setup by pre-populating the brand name, icon, auth type, and MCP or discovery URL. Unlike managed connectors, preset connectors don't register your app with the external service for you. Add a connector Select a preset from the connectors directory in the Vercel da",
+    "title": "Connect to and manage Sandboxes from the dashboard",
+    "url": "https://vercel.com/changelog/connect-to-and-manage-sandboxes-from-the-dashboard",
+    "summary": "You can now connect to any running Sandbox from the Vercel dashboard. Run commands, browse the filesystem, upload and download files, and inspect open ports without leaving the browser. From the same view, you can also manage the sandbox lifecycle: take snapshots, and stop or resume persistent sandboxes. Open the Connect tab on any sandbox to try it out. Learn more about Vercel Sandboxes in the documentation . Read more",
     "tags": [
       "sdk",
       "ai_infra",
@@ -181,13 +207,13 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-07-23",
+    "date": "2026-07-24",
     "score": 63
   },
   {
-    "title": "Service tiers now available on AI Gateway",
-    "url": "https://vercel.com/changelog/service-tiers-now-available-on-ai-gateway",
-    "summary": "AI Gateway now supports service tiering. Service tiers let you optimize for latency, throughput, and cost per request to match your use case. Pick a faster tier for interactive workloads (less queueing, higher token throughput), or a lower cost tier for background jobs that can tolerate more latency. At launch, service tiering is available for OpenAI and Gemini models. Service tiers work across every AI Gateway API format: AI SDK , Chat Completions API , Anthropic Messages AP",
+    "title": "Inspect feature flag history with Vercel CLI",
+    "url": "https://vercel.com/changelog/inspect-feature-flag-history-with-vercel-cli",
+    "summary": "Vercel Flags version history can now be inspected from the Vercel CLI with the new vercel flags versions command. Run vercel flags versions to print the full revision history for a flag, with each revision's author, message, timestamp, and changed environments. Filter to a specific environment with --environment , paginate with --limit and --cursor , or add --json for scripting. To compare a revision against the one before it, run vercel flags versions diff --revision . The d",
     "tags": [
       "sdk",
       "ai_infra",
@@ -195,41 +221,27 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-07-23",
+    "date": "2026-07-24",
     "score": 63
   },
   {
-    "title": "The State of Simulation for Physical AI: An Overview",
-    "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
-    "summary": "The State of Simulation for Physical AI: An Overview 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Jul 21, 2026 Announcements Anthropic is donating another $20 million to Public First Action",
+    "url": "https://www.anthropic.com/news/donation-public-first-action",
+    "summary": "Newsroom \\ Anthropic · Jul 21, 2026 Announcements Anthropic is donating another $20 million to Public First Action",
     "tags": [
-      "open_source",
-      "papers",
-      "models"
+      "ai_models",
+      "safety",
+      "official"
     ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-23",
-    "score": 63
-  },
-  {
-    "title": "Grabette: an open system to record robot-manipulation data",
-    "url": "https://huggingface.co/blog/grabette",
-    "summary": "Grabette: an open system to record robot-manipulation data 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-23",
+    "author": "Anthropic",
+    "source": "anthropic.com",
+    "date": "2026-07-24",
     "score": 62
   },
   {
-    "title": "From Hugging Face to Amazon SageMaker Studio in one click",
-    "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
-    "summary": "From Hugging Face to Amazon SageMaker Studio in one click 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+    "url": "https://huggingface.co/blog/nunchaku-diffusers",
+    "summary": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -237,13 +249,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-23",
+    "date": "2026-07-24",
     "score": 62
   },
   {
-    "title": "Hugging Face Models on Foundry Managed Compute",
-    "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-    "summary": "Hugging Face Models on Foundry Managed Compute 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "DiScoFormer: One transformer for density and score, across distributions",
+    "url": "https://huggingface.co/blog/allenai/discoformer",
+    "summary": "DiScoFormer: One transformer for density and score, across distributions 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -251,13 +263,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-23",
+    "date": "2026-07-24",
     "score": 62
   },
   {
-    "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
-    "url": "https://huggingface.co/blog/lerobot-release-v060",
-    "summary": "LeRobot v0.6.0: Imagine, Evaluate, Improve 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Run a vLLM Server on HF Jobs in One Command",
+    "url": "https://huggingface.co/blog/vllm-jobs",
+    "summary": "Run a vLLM Server on HF Jobs in One Command 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -265,13 +277,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-23",
+    "date": "2026-07-24",
     "score": 62
   },
   {
-    "title": "PRX Part 4: Our Data Strategy",
-    "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
-    "summary": "PRX Part 4: Our Data Strategy 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+    "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+    "summary": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -279,49 +291,7 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-23",
-    "score": 62
-  },
-  {
-    "title": "🤗 Kernels: Major Updates",
-    "url": "https://huggingface.co/blog/revamped-kernels",
-    "summary": "🤗 Kernels: Major Updates 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-23",
-    "score": 62
-  },
-  {
-    "title": "Why Specialization Is Inevitable",
-    "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
-    "summary": "Why Specialization Is Inevitable 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-23",
-    "score": 62
-  },
-  {
-    "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
-    "url": "https://huggingface.co/blog/eee-community-evals",
-    "summary": "Featuring Every Eval Ever Results on Hugging Face Model Pages 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-23",
+    "date": "2026-07-24",
     "score": 62
   }
 ]

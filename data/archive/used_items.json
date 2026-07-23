@@ -9896,5 +9896,215 @@
     "cluster_id": "huggingface_co_bfb20ff3",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f448c0a40d02bb3f",
+    "canonical_url": "https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates",
+    "dedupe_key": "97979ec20b07d47c",
+    "title": "The case for a cooldown: Why Dependabot now waits before issuing version updates",
+    "issue_date": "2026-07-24",
+    "cluster_id": "github_blog_ca724bb4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ea8a3d011af3df75",
+    "canonical_url": "https://vercel.com/changelog/github-tools-eve-extension",
+    "dedupe_key": "b525c88761de63ae",
+    "title": "GitHub tools are now an installable eve extension",
+    "issue_date": "2026-07-24",
+    "cluster_id": "vercel_com_92a8fc40",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_70ce92f9901342b6",
+    "canonical_url": "https://www.langchain.com/blog/how-we-benchmark-deep-agents",
+    "dedupe_key": "47e59a2b8df6085a",
+    "title": "How We Benchmark Deep Agents",
+    "issue_date": "2026-07-24",
+    "cluster_id": "langchain_com_5d783b37",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8264ae7b8bb74923",
+    "canonical_url": "https://vercel.com/changelog/ling-3-0-flash-is-now-available-on-ai-gateway",
+    "dedupe_key": "d7e13c4505b72a90",
+    "title": "Ling 3.0 Flash is now available on AI Gateway",
+    "issue_date": "2026-07-24",
+    "cluster_id": "vercel_com_6445cf3e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ee1c9956baee73e9",
+    "canonical_url": "https://openai.com/index/health-in-chatgpt",
+    "dedupe_key": "69a481072b4c480e",
+    "title": "Launching Health in ChatGPT",
+    "issue_date": "2026-07-24",
+    "cluster_id": "openai_com_31f8c100",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_af706db094021f74",
+    "canonical_url": "https://openai.com/index/ntt-data",
+    "dedupe_key": "dfe23587048d1f44",
+    "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+    "issue_date": "2026-07-24",
+    "cluster_id": "openai_com_1238142e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_16084aa83e174179",
+    "canonical_url": "https://www.anthropic.com/news/economic-futures-research-fund-agenda",
+    "dedupe_key": "334705d6927cc7d1",
+    "title": "Jul 22, 2026 Economic Research A research agenda for the Economic Futures Research Fund",
+    "issue_date": "2026-07-24",
+    "cluster_id": "anthropic_com_5312f177",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c6b2a41fd5d8eb6c",
+    "canonical_url": "https://developer.nvidia.com/blog/debugging-ray-tracing-applications-using-nvidia-optix-toolkit",
+    "dedupe_key": "667f82266edf21b3",
+    "title": "Debugging Ray Tracing Applications Using NVIDIA OptiX Toolkit",
+    "issue_date": "2026-07-24",
+    "cluster_id": "developer_nvidia_com_4e658a96",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_35e2b1ee47613bd4",
+    "canonical_url": "https://developer.nvidia.com/blog/start-customizing-nvidia-nemotron-3-nano-with-prime-intellect-lab-in-minutes",
+    "dedupe_key": "0e09ec7241efc492",
+    "title": "Start Customizing NVIDIA Nemotron 3 Nano with Prime Intellect Lab in Minutes",
+    "issue_date": "2026-07-24",
+    "cluster_id": "developer_nvidia_com_4a0f97a2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ef62b024ec641d28",
+    "canonical_url": "https://vercel.com/changelog/vercel-mcp-can-now-deploy-code",
+    "dedupe_key": "034f0ef595444a23",
+    "title": "Vercel MCP can now deploy code",
+    "issue_date": "2026-07-24",
+    "cluster_id": "vercel_com_8aa36326",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_144b9543b52f6348",
+    "canonical_url": "https://www.langchain.com/blog/july-2026-langchain-newsletter",
+    "dedupe_key": "69350d2f4780cdc3",
+    "title": "July 2026: LangChain Newsletter — NemoClaw Blueprint, OpenWiki Brains, and More",
+    "issue_date": "2026-07-24",
+    "cluster_id": "langchain_com_bbc6d660",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b8faff33c6520e1f",
+    "canonical_url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines",
+    "dedupe_key": "0ac9c204e87d66b3",
+    "title": "How AI helps scientists design the next generation of medicines",
+    "issue_date": "2026-07-24",
+    "cluster_id": "technologyreview_com_29e3ba66",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ef09f16ed7f6dbd7",
+    "canonical_url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
+    "dedupe_key": "fc925b4af3fe1318",
+    "title": "Jul 22, 2026 Product Ask Claude about the Anthropic Economic Index",
+    "issue_date": "2026-07-24",
+    "cluster_id": "anthropic_com_9c20dff1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4b7ac6525119df46",
+    "canonical_url": "https://vercel.com/changelog/evaluation-metrics-for-vercel-flags",
+    "dedupe_key": "11ee9c4f9d4b2a73",
+    "title": "Evaluation metrics for Vercel Flags",
+    "issue_date": "2026-07-24",
+    "cluster_id": "vercel_com_e07a6483",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e5d765a39a960cf3",
+    "canonical_url": "https://vercel.com/changelog/connect-to-and-manage-sandboxes-from-the-dashboard",
+    "dedupe_key": "bd1e1454329dde64",
+    "title": "Connect to and manage Sandboxes from the dashboard",
+    "issue_date": "2026-07-24",
+    "cluster_id": "vercel_com_d17ab47a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_de8e29f9384a443c",
+    "canonical_url": "https://vercel.com/changelog/inspect-feature-flag-history-with-vercel-cli",
+    "dedupe_key": "5bafa011c5a62525",
+    "title": "Inspect feature flag history with Vercel CLI",
+    "issue_date": "2026-07-24",
+    "cluster_id": "vercel_com_0cf85042",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_894d157f00538816",
+    "canonical_url": "https://www.anthropic.com/news/donation-public-first-action",
+    "dedupe_key": "95190cb75d8e3c8d",
+    "title": "Jul 21, 2026 Announcements Anthropic is donating another $20 million to Public First Action",
+    "issue_date": "2026-07-24",
+    "cluster_id": "anthropic_com_78a5c250",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7cc601b191c3b2a9",
+    "canonical_url": "https://huggingface.co/blog/nunchaku-diffusers",
+    "dedupe_key": "17cbb9a65bb880f1",
+    "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+    "issue_date": "2026-07-24",
+    "cluster_id": "huggingface_co_e11871ec",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e70bc4ab6c9c9dff",
+    "canonical_url": "https://huggingface.co/blog/allenai/discoformer",
+    "dedupe_key": "22ab669c5113cc27",
+    "title": "DiScoFormer: One transformer for density and score, across distributions",
+    "issue_date": "2026-07-24",
+    "cluster_id": "huggingface_co_9a82c42a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_dba9f159570ada70",
+    "canonical_url": "https://huggingface.co/blog/vllm-jobs",
+    "dedupe_key": "14171081f035681b",
+    "title": "Run a vLLM Server on HF Jobs in One Command",
+    "issue_date": "2026-07-24",
+    "cluster_id": "huggingface_co_0430c585",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1e41bdeabd1e57cc",
+    "canonical_url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+    "dedupe_key": "56c293ce34d97385",
+    "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+    "issue_date": "2026-07-24",
+    "cluster_id": "huggingface_co_3902f1d4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
