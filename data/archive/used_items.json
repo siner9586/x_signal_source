@@ -10106,5 +10106,205 @@
     "cluster_id": "huggingface_co_3902f1d4",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_de6d8730c842b80b",
+    "canonical_url": "https://www.anthropic.com/news/claude-opus-5",
+    "dedupe_key": "e7fbaab8686a1abf",
+    "title": "Introducing Claude Opus 5 Product Jul 24, 2026 Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.",
+    "issue_date": "2026-07-25",
+    "cluster_id": "anthropic_com_bd16b245",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_58ff500678b29008",
+    "canonical_url": "https://vercel.com/changelog/claude-opus-5-now-available-on-ai-gateway",
+    "dedupe_key": "aa0b7e42f00f67f0",
+    "title": "Claude Opus 5 now available on AI Gateway",
+    "issue_date": "2026-07-25",
+    "cluster_id": "vercel_com_dfa437e2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7bc53795c29fab40",
+    "canonical_url": "https://elevenlabs.io/blog/elections",
+    "dedupe_key": "5a5f0cd769d3ad18",
+    "title": "Strengthening and protecting elections",
+    "issue_date": "2026-07-25",
+    "cluster_id": "elevenlabs_io_1887194d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c94d79334723e53b",
+    "canonical_url": "https://openai.com/index/codex-collaborator-creative-team",
+    "dedupe_key": "d85db1d89cab55c2",
+    "title": "How Codex became a collaborator for OpenAI’s creative team",
+    "issue_date": "2026-07-25",
+    "cluster_id": "openai_com_e723558e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_49a91b18d925498a",
+    "canonical_url": "https://developer.nvidia.com/blog/modelexpress-distributing-model-artifacts-at-the-speed-of-light",
+    "dedupe_key": "d8bb39667b808c23",
+    "title": "ModelExpress: Distributing Model Artifacts at the Speed of Light",
+    "issue_date": "2026-07-25",
+    "cluster_id": "developer_nvidia_com_2c623ee5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1c0a63f8ac18eb10",
+    "canonical_url": "https://vercel.com/changelog/vercel-waf-for-blob-is-now-in-beta",
+    "dedupe_key": "1b787b6cf7253810",
+    "title": "Vercel WAF for Blob is now in beta",
+    "issue_date": "2026-07-25",
+    "cluster_id": "vercel_com_8490c7b8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_21aeda9d339a9f6d",
+    "canonical_url": "https://vercel.com/changelog/workflow-steps-now-support-extended-function-durations",
+    "dedupe_key": "607217935e358efa",
+    "title": "Workflow steps now support extended function durations",
+    "issue_date": "2026-07-25",
+    "cluster_id": "vercel_com_ff7839a0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_cb8373595062be43",
+    "canonical_url": "https://www.lennysnewsletter.com/p/claude-opus-5-review-this-model-is",
+    "dedupe_key": "da7b3277379f8f90",
+    "title": "Claude Opus 5 review: this model is brilliant (but annoying)",
+    "issue_date": "2026-07-25",
+    "cluster_id": "lennysnewsletter_com_97c9ec28",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5be489df8e83393a",
+    "canonical_url": "https://huggingface.co/blog/cross-origin-storage",
+    "dedupe_key": "efa0a96b73631582",
+    "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+    "issue_date": "2026-07-25",
+    "cluster_id": "huggingface_co_0011978e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_81c68edef5f6edd6",
+    "canonical_url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+    "dedupe_key": "5b45c2b8f62a9894",
+    "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+    "issue_date": "2026-07-25",
+    "cluster_id": "huggingface_co_7528c740",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8a935da81812c9ea",
+    "canonical_url": "https://huggingface.co/blog/local-models-pr-triage",
+    "dedupe_key": "cbad852123477c58",
+    "title": "We got local models to triage the OpenClaw repo for FREE!*",
+    "issue_date": "2026-07-25",
+    "cluster_id": "huggingface_co_d8d2ab9d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3b0d91477980195c",
+    "canonical_url": "https://huggingface.co/blog/peft-beyond-lora",
+    "dedupe_key": "c1f1cc1fb013c72e",
+    "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+    "issue_date": "2026-07-25",
+    "cluster_id": "huggingface_co_f7376dd6",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_cb4b36538c953f40",
+    "canonical_url": "https://huggingface.co/blog/zai-org/glm-52-blog",
+    "dedupe_key": "4036e8ff7448ffd6",
+    "title": "GLM-5.2: Built for Long-Horizon Tasks",
+    "issue_date": "2026-07-25",
+    "cluster_id": "huggingface_co_ac1faa9d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e0a05b24748e87b6",
+    "canonical_url": "https://huggingface.co/blog/torch-mlp-fusion",
+    "dedupe_key": "d378d529e27d4676",
+    "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+    "issue_date": "2026-07-25",
+    "cluster_id": "huggingface_co_d4201d73",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_65b2281240a1155c",
+    "canonical_url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
+    "dedupe_key": "f9b4fd0765f7bb59",
+    "title": "Direct Preference Optimization Beyond Chatbots",
+    "issue_date": "2026-07-25",
+    "cluster_id": "huggingface_co_af328793",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b0c18f41cfdc1a6a",
+    "canonical_url": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
+    "dedupe_key": "3750c220081d8371",
+    "title": "Adding MCP Tools to Reachy Mini",
+    "issue_date": "2026-07-25",
+    "cluster_id": "huggingface_co_b73db147",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f6934f9b62edee15",
+    "canonical_url": "https://huggingface.co/blog/torch-profiler",
+    "dedupe_key": "640fe97f150acbd3",
+    "title": "Profiling in PyTorch (Part 1): A Beginner&apos;s Guide to torch.profiler",
+    "issue_date": "2026-07-25",
+    "cluster_id": "huggingface_co_0e635acb",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9420074e75b05c9a",
+    "canonical_url": "https://huggingface.co/blog/local-reachy-mini-conversation",
+    "dedupe_key": "69cc60d97a3f91ca",
+    "title": "Reachy Mini goes fully local",
+    "issue_date": "2026-07-25",
+    "cluster_id": "huggingface_co_89801fac",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d44ef7bd98fb14e9",
+    "canonical_url": "https://huggingface.co/blog/delta-weight-sync",
+    "dedupe_key": "d9f12cdc6060bd6f",
+    "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
+    "issue_date": "2026-07-25",
+    "cluster_id": "huggingface_co_57bc9ab0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_44e2cc82ebf5cae5",
+    "canonical_url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
+    "dedupe_key": "91a51959bde7bced",
+    "title": "OlmoEarth v1.1: A more efficient family of Earth observation models",
+    "issue_date": "2026-07-25",
+    "cluster_id": "huggingface_co_3246c42b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]

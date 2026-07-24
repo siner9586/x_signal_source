@@ -1,21 +1,22 @@
 [
   {
-    "title": "The case for a cooldown: Why Dependabot now waits before issuing version updates",
-    "url": "https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates",
-    "summary": "A new default three-day cooldown delays version update pull requests so maintainers and security researchers can address findings in a release before it gets into your code. The post The case for a cooldown: Why Dependabot now waits before issuing version updates appeared first on The GitHub Blog .",
+    "title": "Introducing Claude Opus 5 Product Jul 24, 2026 Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.",
+    "url": "https://www.anthropic.com/news/claude-opus-5",
+    "summary": "Newsroom \\ Anthropic · Introducing Claude Opus 5 Product Jul 24, 2026 Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.",
     "tags": [
-      "ai_coding",
-      "developer_tools"
+      "ai_models",
+      "safety",
+      "official"
     ],
-    "author": "GitHub Copilot",
-    "source": "github.blog",
-    "date": "2026-07-24",
-    "score": 74
+    "author": "Anthropic",
+    "source": "anthropic.com",
+    "date": "2026-07-25",
+    "score": 69
   },
   {
-    "title": "GitHub tools are now an installable eve extension",
-    "url": "https://vercel.com/changelog/github-tools-eve-extension",
-    "summary": "You can now add GitHub tools to your eve agent as an extension . Add the package, drop one file in agent/extensions/ , and your agent gets all 42 tools with Vercel Connect auth, presets, and approval rules built in. Install @github-tools/eve-extension : Then register it from a file in agent/extensions/ : Connector-backed auth: Pass a Vercel Connect connector and the extension mints short-lived, scoped GitHub tokens at runtime. Presets scope the toolset: code-review , issue-tr",
+    "title": "Claude Opus 5 now available on AI Gateway",
+    "url": "https://vercel.com/changelog/claude-opus-5-now-available-on-ai-gateway",
+    "summary": "Claude Opus 5 from Anthropic is now available on AI Gateway. Opus 5 improves on previous Opus models for long-horizon agentic coding, handling multi-file features, larger refactors, and end-to-end feature work, and completing full tasks rather than leaving stubs or placeholders. Opus 5 is effective at low and medium effort, which produce quality at a fraction of the tokens and latency of higher settings. Vision is stronger on charts, documents, diagrams, and UI replication, a",
     "tags": [
       "sdk",
       "ai_infra",
@@ -23,41 +24,26 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-07-24",
+    "date": "2026-07-25",
     "score": 69
   },
   {
-    "title": "How We Benchmark Deep Agents",
-    "url": "https://www.langchain.com/blog/how-we-benchmark-deep-agents",
-    "summary": "We revamped how we benchmark Deep Agents. Here's the eval setup we run in Harbor across coding, conversation, and retrieval, and how we use it to ship changes.",
+    "title": "Strengthening and protecting elections",
+    "url": "https://elevenlabs.io/blog/elections",
+    "summary": "ElevenLabs Blog - Company, Research & Product Updates · Strengthening and protecting elections",
     "tags": [
-      "agents",
-      "rag",
-      "framework"
+      "voice_ai",
+      "audio"
     ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-07-24",
-    "score": 69
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-07-25",
+    "score": 67
   },
   {
-    "title": "Ling 3.0 Flash is now available on AI Gateway",
-    "url": "https://vercel.com/changelog/ling-3-0-flash-is-now-available-on-ai-gateway",
-    "summary": "Ling 3.0 Flash from Ant Group is now available on AI Gateway. The model is free to use for the next three weeks, through August 3rd. Ling 3.0 Flash is a Mixture-of-Experts model with 124B total parameters and about 5.1B active per token. It has a 256K token context window and runs in thinking and non-thinking modes. Ling 3.0 Flash is built for token-efficient agentic inference at production scale, doing more work within tighter token, latency, and cost budgets across multi-st",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-07-24",
-    "score": 68
-  },
-  {
-    "title": "Launching Health in ChatGPT",
-    "url": "https://openai.com/index/health-in-chatgpt",
-    "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
+    "title": "How Codex became a collaborator for OpenAI’s creative team",
+    "url": "https://openai.com/index/codex-collaborator-creative-team",
+    "summary": "How OpenAI’s creative team uses Codex to build custom creative tools, accelerate ideation, and prototype faster with context-aware AI.",
     "tags": [
       "ai_models",
       "official",
@@ -66,42 +52,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-07-24",
+    "date": "2026-07-25",
     "score": 67
   },
   {
-    "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
-    "url": "https://openai.com/index/ntt-data",
-    "summary": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-07-24",
-    "score": 67
-  },
-  {
-    "title": "Jul 22, 2026 Economic Research A research agenda for the Economic Futures Research Fund",
-    "url": "https://www.anthropic.com/news/economic-futures-research-fund-agenda",
-    "summary": "Newsroom \\ Anthropic · Jul 22, 2026 Economic Research A research agenda for the Economic Futures Research Fund",
-    "tags": [
-      "ai_models",
-      "safety",
-      "official"
-    ],
-    "author": "Anthropic",
-    "source": "anthropic.com",
-    "date": "2026-07-24",
-    "score": 66
-  },
-  {
-    "title": "Debugging Ray Tracing Applications Using NVIDIA OptiX Toolkit",
-    "url": "https://developer.nvidia.com/blog/debugging-ray-tracing-applications-using-nvidia-optix-toolkit",
-    "summary": "NVIDIA Technical Blog · Debugging Ray Tracing Applications Using NVIDIA OptiX Toolkit",
+    "title": "ModelExpress: Distributing Model Artifacts at the Speed of Light",
+    "url": "https://developer.nvidia.com/blog/modelexpress-distributing-model-artifacts-at-the-speed-of-light",
+    "summary": "NVIDIA Technical Blog · ModelExpress: Distributing Model Artifacts at the Speed of Light",
     "tags": [
       "gpu",
       "inference",
@@ -109,27 +66,13 @@
     ],
     "author": "NVIDIA AI",
     "source": "developer.nvidia.com",
-    "date": "2026-07-24",
+    "date": "2026-07-25",
     "score": 66
   },
   {
-    "title": "Start Customizing NVIDIA Nemotron 3 Nano with Prime Intellect Lab in Minutes",
-    "url": "https://developer.nvidia.com/blog/start-customizing-nvidia-nemotron-3-nano-with-prime-intellect-lab-in-minutes",
-    "summary": "NVIDIA Technical Blog · Start Customizing NVIDIA Nemotron 3 Nano with Prime Intellect Lab in Minutes",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-07-24",
-    "score": 66
-  },
-  {
-    "title": "Vercel MCP can now deploy code",
-    "url": "https://vercel.com/changelog/vercel-mcp-can-now-deploy-code",
-    "summary": "The Vercel MCP server can now deploy code directly to a new or existing project. When your AI assistant finishes building something, it can ship it to Vercel and hand back a shareable URL without leaving the chat. Point the deploy_to_vercel tool at your files and Vercel creates the project, detects the framework, installs dependencies, and builds. You get a URL you can open and share while the build finishes in the background. To get started, connect the Vercel MCP server to ",
+    "title": "Vercel WAF for Blob is now in beta",
+    "url": "https://vercel.com/changelog/vercel-waf-for-blob-is-now-in-beta",
+    "summary": "The Vercel WAF can now protect a Vercel Blob store. The same rules that guard your deployments (deny, challenge, rate limit) now apply to blob traffic with no changes to your code, blob URLs, or @vercel/blob . Every blob is already served through Vercel's CDN , so protection is a switch on the store, not a new proxy. Stop scrapers, geo-restrict downloads, rate limit expensive assets, or block abusive IPs before a byte is served. Rules evaluate at the edge, matching on IP, cou",
     "tags": [
       "sdk",
       "ai_infra",
@@ -137,55 +80,13 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-07-24",
-    "score": 66
-  },
-  {
-    "title": "July 2026: LangChain Newsletter — NemoClaw Blueprint, OpenWiki Brains, and More",
-    "url": "https://www.langchain.com/blog/july-2026-langchain-newsletter",
-    "summary": "NemoClaw Deep Agents blueprint, LangSmith Sandboxes free trial, Fleet Slack integration, voice tracing, OpenWiki Brains, and RLMs in Deep Agents. See what's new at LangChain",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-07-24",
-    "score": 65
-  },
-  {
-    "title": "How AI helps scientists design the next generation of medicines",
-    "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines",
-    "summary": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most possible candidates never reach the patient. For biologic medicines, therapies made from engineered proteins rather than synthetic chemistry (which are often used to&#8230;",
-    "tags": [
-      "ai",
-      "research",
-      "society"
-    ],
-    "author": "MIT Technology Review AI",
-    "source": "technologyreview.com",
-    "date": "2026-07-24",
-    "score": 64
-  },
-  {
-    "title": "Jul 22, 2026 Product Ask Claude about the Anthropic Economic Index",
-    "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
-    "summary": "Newsroom \\ Anthropic · Jul 22, 2026 Product Ask Claude about the Anthropic Economic Index",
-    "tags": [
-      "ai_models",
-      "safety",
-      "official"
-    ],
-    "author": "Anthropic",
-    "source": "anthropic.com",
-    "date": "2026-07-24",
+    "date": "2026-07-25",
     "score": 63
   },
   {
-    "title": "Evaluation metrics for Vercel Flags",
-    "url": "https://vercel.com/changelog/evaluation-metrics-for-vercel-flags",
-    "summary": "Vercel Flags now shows a live evaluation view on each flag's detail page. You can see evaluations per minute charted over time, with each flag version marked in the chart so you can tie evaluation shifts to specific configuration changes. You can group and filter evaluations by variant, reason, environment, SDK key, client, and reporting project. Custom clients can set the new clientName property on the client initializer to show up as their own group. This makes it straightf",
+    "title": "Workflow steps now support extended function durations",
+    "url": "https://vercel.com/changelog/workflow-steps-now-support-extended-function-durations",
+    "summary": "Workflow steps on Pro and Enterprise plans can now run for up to 30 minutes (1800 seconds), up from 800 seconds, using extended function durations (in beta). To opt in, set VERCEL_ENABLE_WORKFLOW_EXTENDED_MAX_DURATION to 1 in your project's Environment Variables, then redeploy. Requires Fluid compute and a supported Node.js or Python runtime. Extended durations are not available on Hobby plans, which remain limited to 5 minutes (300 seconds). See function duration limits by p",
     "tags": [
       "sdk",
       "ai_infra",
@@ -193,55 +94,27 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-07-24",
+    "date": "2026-07-25",
     "score": 63
   },
   {
-    "title": "Connect to and manage Sandboxes from the dashboard",
-    "url": "https://vercel.com/changelog/connect-to-and-manage-sandboxes-from-the-dashboard",
-    "summary": "You can now connect to any running Sandbox from the Vercel dashboard. Run commands, browse the filesystem, upload and download files, and inspect open ports without leaving the browser. From the same view, you can also manage the sandbox lifecycle: take snapshots, and stop or resume persistent sandboxes. Open the Connect tab on any sandbox to try it out. Learn more about Vercel Sandboxes in the documentation . Read more",
+    "title": "Claude Opus 5 review: this model is brilliant (but annoying)",
+    "url": "https://www.lennysnewsletter.com/p/claude-opus-5-review-this-model-is",
+    "summary": "Watch now | &#127897;&#65039; I ran Opus 5 through my seven-model benchmark, compared it with six other leading models, and came away with a verdict I genuinely didn&#8217;t expect",
     "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
+      "product",
+      "growth",
+      "startup"
     ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-07-24",
+    "author": "Lenny's Newsletter",
+    "source": "lennysnewsletter.com",
+    "date": "2026-07-25",
     "score": 63
   },
   {
-    "title": "Inspect feature flag history with Vercel CLI",
-    "url": "https://vercel.com/changelog/inspect-feature-flag-history-with-vercel-cli",
-    "summary": "Vercel Flags version history can now be inspected from the Vercel CLI with the new vercel flags versions command. Run vercel flags versions to print the full revision history for a flag, with each revision's author, message, timestamp, and changed environments. Filter to a specific environment with --environment , paginate with --limit and --cursor , or add --json for scripting. To compare a revision against the one before it, run vercel flags versions diff --revision . The d",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-07-24",
-    "score": 63
-  },
-  {
-    "title": "Jul 21, 2026 Announcements Anthropic is donating another $20 million to Public First Action",
-    "url": "https://www.anthropic.com/news/donation-public-first-action",
-    "summary": "Newsroom \\ Anthropic · Jul 21, 2026 Announcements Anthropic is donating another $20 million to Public First Action",
-    "tags": [
-      "ai_models",
-      "safety",
-      "official"
-    ],
-    "author": "Anthropic",
-    "source": "anthropic.com",
-    "date": "2026-07-24",
-    "score": 62
-  },
-  {
-    "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-    "url": "https://huggingface.co/blog/nunchaku-diffusers",
-    "summary": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+    "url": "https://huggingface.co/blog/cross-origin-storage",
+    "summary": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -249,13 +122,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-24",
+    "date": "2026-07-25",
     "score": 62
   },
   {
-    "title": "DiScoFormer: One transformer for density and score, across distributions",
-    "url": "https://huggingface.co/blog/allenai/discoformer",
-    "summary": "DiScoFormer: One transformer for density and score, across distributions 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+    "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+    "summary": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -263,13 +136,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-24",
+    "date": "2026-07-25",
     "score": 62
   },
   {
-    "title": "Run a vLLM Server on HF Jobs in One Command",
-    "url": "https://huggingface.co/blog/vllm-jobs",
-    "summary": "Run a vLLM Server on HF Jobs in One Command 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "We got local models to triage the OpenClaw repo for FREE!*",
+    "url": "https://huggingface.co/blog/local-models-pr-triage",
+    "summary": "We got local models to triage the OpenClaw repo for FREE!* 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -277,13 +150,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-24",
+    "date": "2026-07-25",
     "score": 62
   },
   {
-    "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
-    "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
-    "summary": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+    "url": "https://huggingface.co/blog/peft-beyond-lora",
+    "summary": "Beyond LoRA: Can you beat the most popular fine-tuning technique? 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -291,7 +164,119 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-24",
+    "date": "2026-07-25",
+    "score": 62
+  },
+  {
+    "title": "GLM-5.2: Built for Long-Horizon Tasks",
+    "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
+    "summary": "GLM-5.2: Built for Long-Horizon Tasks 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-25",
+    "score": 62
+  },
+  {
+    "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+    "url": "https://huggingface.co/blog/torch-mlp-fusion",
+    "summary": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-25",
+    "score": 62
+  },
+  {
+    "title": "Direct Preference Optimization Beyond Chatbots",
+    "url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
+    "summary": "Direct Preference Optimization Beyond Chatbots 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-25",
+    "score": 62
+  },
+  {
+    "title": "Adding MCP Tools to Reachy Mini",
+    "url": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
+    "summary": "Adding MCP Tools to Reachy Mini 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-25",
+    "score": 62
+  },
+  {
+    "title": "Profiling in PyTorch (Part 1): A Beginner&apos;s Guide to torch.profiler",
+    "url": "https://huggingface.co/blog/torch-profiler",
+    "summary": "Profiling in PyTorch (Part 1): A Beginner&apos;s Guide to torch.profiler 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-25",
+    "score": 62
+  },
+  {
+    "title": "Reachy Mini goes fully local",
+    "url": "https://huggingface.co/blog/local-reachy-mini-conversation",
+    "summary": "Reachy Mini goes fully local 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-25",
+    "score": 62
+  },
+  {
+    "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
+    "url": "https://huggingface.co/blog/delta-weight-sync",
+    "summary": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-25",
+    "score": 62
+  },
+  {
+    "title": "OlmoEarth v1.1: A more efficient family of Earth observation models",
+    "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
+    "summary": "OlmoEarth v1.1: A more efficient family of Earth observation models 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-25",
     "score": 62
   }
 ]
