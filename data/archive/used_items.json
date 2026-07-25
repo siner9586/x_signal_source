@@ -10306,5 +10306,205 @@
     "cluster_id": "huggingface_co_3246c42b",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_80967828facedade",
+    "canonical_url": "https://www.langchain.com/blog/own-your-intelligence",
+    "dedupe_key": "3fb7b0b146072d89",
+    "title": "Own Your Intelligence: The Key to Lasting AI Advantage",
+    "issue_date": "2026-07-26",
+    "cluster_id": "langchain_com_74d7b99b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_20d0e518ae139b2a",
+    "canonical_url": "https://huggingface.co/blog/ResterChed/kimi-k3-model-overview-mxfp4-quantization-open-wei",
+    "dedupe_key": "83b7243040a93923",
+    "title": "Kimi K3 Model Overview: 2.8T Parameters, MXFP4 Quantization, and What the Open Weights Mean for the Community ResterChed • 8 days ago • 96",
+    "issue_date": "2026-07-26",
+    "cluster_id": "huggingface_co_85ad1562",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_49b16dee19d4c734",
+    "canonical_url": "https://huggingface.co/blog/ettin-reranker",
+    "dedupe_key": "0cbf3b9e359bbc0c",
+    "title": "Introducing the Ettin Reranker Family",
+    "issue_date": "2026-07-26",
+    "cluster_id": "huggingface_co_e4ca6a76",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a62d3225a0672d68",
+    "canonical_url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+    "dedupe_key": "e9c9f78d9ee9b6aa",
+    "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
+    "issue_date": "2026-07-26",
+    "cluster_id": "huggingface_co_754fc445",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6e1f9ae5aa010456",
+    "canonical_url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
+    "dedupe_key": "b9209428db2f2c0d",
+    "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
+    "issue_date": "2026-07-26",
+    "cluster_id": "huggingface_co_e2944e87",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_792df26e50e3c982",
+    "canonical_url": "https://huggingface.co/blog/continuous_async",
+    "dedupe_key": "c38ae3ae72f1b3a2",
+    "title": "Unlocking asynchronicity in continuous batching",
+    "issue_date": "2026-07-26",
+    "cluster_id": "huggingface_co_32b28c6d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c7d85c7f1ff61a5b",
+    "canonical_url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
+    "dedupe_key": "82be93e671d6aa56",
+    "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
+    "issue_date": "2026-07-26",
+    "cluster_id": "huggingface_co_e4d014b5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f0039695e2f2676b",
+    "canonical_url": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
+    "dedupe_key": "4b8fa24304df7547",
+    "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
+    "issue_date": "2026-07-26",
+    "cluster_id": "huggingface_co_1646000e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_424555c2aa96fb12",
+    "canonical_url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
+    "dedupe_key": "5a36865a761a22ae",
+    "title": "Granite 4.1 LLMs: How They’re Built",
+    "issue_date": "2026-07-26",
+    "cluster_id": "huggingface_co_c43e3126",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_38a91a0bc7cbd0a7",
+    "canonical_url": "https://huggingface.co/blog/transformersjs-chrome-extension",
+    "dedupe_key": "b5ac1cb06eac8072",
+    "title": "How to Use Transformers.js in a Chrome Extension",
+    "issue_date": "2026-07-26",
+    "cluster_id": "huggingface_co_b71c330d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_57c2c71a22e51483",
+    "canonical_url": "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
+    "dedupe_key": "3c049ede969a0228",
+    "title": "QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard",
+    "issue_date": "2026-07-26",
+    "cluster_id": "huggingface_co_d86cd995",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_610fe4e7bb6602c1",
+    "canonical_url": "https://huggingface.co/blog/transformers-to-mlx",
+    "dedupe_key": "4c39e602d5d6931f",
+    "title": "The PR you would have opened yourself",
+    "issue_date": "2026-07-26",
+    "cluster_id": "huggingface_co_ac2b7cde",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c4fc54282d8af0ca",
+    "canonical_url": "https://huggingface.co/blog/waypoint-1-5",
+    "dedupe_key": "5f65b5917c9e6741",
+    "title": "Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs",
+    "issue_date": "2026-07-26",
+    "cluster_id": "huggingface_co_0824ad9d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_152264ad85471bae",
+    "canonical_url": "https://huggingface.co/blog/safetensors-joins-pytorch-foundation",
+    "dedupe_key": "766d6850cb129c72",
+    "title": "Safetensors is Joining the PyTorch Foundation",
+    "issue_date": "2026-07-26",
+    "cluster_id": "huggingface_co_a7ef6d97",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7ae21aa01d3b2f60",
+    "canonical_url": "https://huggingface.co/blog/tiiuae/falcon-perception",
+    "dedupe_key": "574fd3b1f0dca30f",
+    "title": "Falcon Perception",
+    "issue_date": "2026-07-26",
+    "cluster_id": "huggingface_co_27c65465",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_72afdcca4c794833",
+    "canonical_url": "https://huggingface.co/blog/introducing-gradio-server",
+    "dedupe_key": "7d9b9ea8ae2dedec",
+    "title": "Any Custom Frontend with Gradio&apos;s Backend",
+    "issue_date": "2026-07-26",
+    "cluster_id": "huggingface_co_fa6cc883",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_98c6f52fb113d6d6",
+    "canonical_url": "https://huggingface.co/blog/liberate-your-openclaw",
+    "dedupe_key": "575890bd686b077c",
+    "title": "Liberate your OpenClaw",
+    "issue_date": "2026-07-26",
+    "cluster_id": "huggingface_co_57b25959",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_fe875f41046f98a5",
+    "canonical_url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+    "dedupe_key": "b04c8ea4fe347dfa",
+    "title": "State of Open Source on Hugging Face: Spring 2026",
+    "issue_date": "2026-07-26",
+    "cluster_id": "huggingface_co_58f69ab5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_dc6946e71e61de43",
+    "canonical_url": "https://huggingface.co/blog/storage-buckets",
+    "dedupe_key": "962b479a5fcd3fdb",
+    "title": "Introducing Storage Buckets on the Hugging Face Hub",
+    "issue_date": "2026-07-26",
+    "cluster_id": "huggingface_co_9505e162",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1a50c818e1aadd72",
+    "canonical_url": "https://huggingface.co/blog/async-rl-training-landscape",
+    "dedupe_key": "a94009b7093b8173",
+    "title": "Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries",
+    "issue_date": "2026-07-26",
+    "cluster_id": "huggingface_co_43853035",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]

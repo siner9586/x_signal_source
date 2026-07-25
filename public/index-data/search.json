@@ -1,120 +1,22 @@
 [
   {
-    "title": "Introducing Claude Opus 5 Product Jul 24, 2026 Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.",
-    "url": "https://www.anthropic.com/news/claude-opus-5",
-    "summary": "Newsroom \\ Anthropic · Introducing Claude Opus 5 Product Jul 24, 2026 Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.",
+    "title": "Own Your Intelligence: The Key to Lasting AI Advantage",
+    "url": "https://www.langchain.com/blog/own-your-intelligence",
+    "summary": "Learn why companies must own their agent systems, governance, context, and feedback loops to turn generic AI into lasting business advantage.",
     "tags": [
-      "ai_models",
-      "safety",
-      "official"
+      "agents",
+      "rag",
+      "framework"
     ],
-    "author": "Anthropic",
-    "source": "anthropic.com",
-    "date": "2026-07-25",
-    "score": 69
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-07-26",
+    "score": 65
   },
   {
-    "title": "Claude Opus 5 now available on AI Gateway",
-    "url": "https://vercel.com/changelog/claude-opus-5-now-available-on-ai-gateway",
-    "summary": "Claude Opus 5 from Anthropic is now available on AI Gateway. Opus 5 improves on previous Opus models for long-horizon agentic coding, handling multi-file features, larger refactors, and end-to-end feature work, and completing full tasks rather than leaving stubs or placeholders. Opus 5 is effective at low and medium effort, which produce quality at a fraction of the tokens and latency of higher settings. Vision is stronger on charts, documents, diagrams, and UI replication, a",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-07-25",
-    "score": 69
-  },
-  {
-    "title": "Strengthening and protecting elections",
-    "url": "https://elevenlabs.io/blog/elections",
-    "summary": "ElevenLabs Blog - Company, Research & Product Updates · Strengthening and protecting elections",
-    "tags": [
-      "voice_ai",
-      "audio"
-    ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-07-25",
-    "score": 67
-  },
-  {
-    "title": "How Codex became a collaborator for OpenAI’s creative team",
-    "url": "https://openai.com/index/codex-collaborator-creative-team",
-    "summary": "How OpenAI’s creative team uses Codex to build custom creative tools, accelerate ideation, and prototype faster with context-aware AI.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-07-25",
-    "score": 67
-  },
-  {
-    "title": "ModelExpress: Distributing Model Artifacts at the Speed of Light",
-    "url": "https://developer.nvidia.com/blog/modelexpress-distributing-model-artifacts-at-the-speed-of-light",
-    "summary": "NVIDIA Technical Blog · ModelExpress: Distributing Model Artifacts at the Speed of Light",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-07-25",
-    "score": 66
-  },
-  {
-    "title": "Vercel WAF for Blob is now in beta",
-    "url": "https://vercel.com/changelog/vercel-waf-for-blob-is-now-in-beta",
-    "summary": "The Vercel WAF can now protect a Vercel Blob store. The same rules that guard your deployments (deny, challenge, rate limit) now apply to blob traffic with no changes to your code, blob URLs, or @vercel/blob . Every blob is already served through Vercel's CDN , so protection is a switch on the store, not a new proxy. Stop scrapers, geo-restrict downloads, rate limit expensive assets, or block abusive IPs before a byte is served. Rules evaluate at the edge, matching on IP, cou",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-07-25",
-    "score": 63
-  },
-  {
-    "title": "Workflow steps now support extended function durations",
-    "url": "https://vercel.com/changelog/workflow-steps-now-support-extended-function-durations",
-    "summary": "Workflow steps on Pro and Enterprise plans can now run for up to 30 minutes (1800 seconds), up from 800 seconds, using extended function durations (in beta). To opt in, set VERCEL_ENABLE_WORKFLOW_EXTENDED_MAX_DURATION to 1 in your project's Environment Variables, then redeploy. Requires Fluid compute and a supported Node.js or Python runtime. Extended durations are not available on Hobby plans, which remain limited to 5 minutes (300 seconds). See function duration limits by p",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-07-25",
-    "score": 63
-  },
-  {
-    "title": "Claude Opus 5 review: this model is brilliant (but annoying)",
-    "url": "https://www.lennysnewsletter.com/p/claude-opus-5-review-this-model-is",
-    "summary": "Watch now | &#127897;&#65039; I ran Opus 5 through my seven-model benchmark, compared it with six other leading models, and came away with a verdict I genuinely didn&#8217;t expect",
-    "tags": [
-      "product",
-      "growth",
-      "startup"
-    ],
-    "author": "Lenny's Newsletter",
-    "source": "lennysnewsletter.com",
-    "date": "2026-07-25",
-    "score": 63
-  },
-  {
-    "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
-    "url": "https://huggingface.co/blog/cross-origin-storage",
-    "summary": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Kimi K3 Model Overview: 2.8T Parameters, MXFP4 Quantization, and What the Open Weights Mean for the Community ResterChed • 8 days ago • 96",
+    "url": "https://huggingface.co/blog/ResterChed/kimi-k3-model-overview-mxfp4-quantization-open-wei",
+    "summary": "Hugging Face – Blog · Kimi K3 Model Overview: 2.8T Parameters, MXFP4 Quantization, and What the Open Weights Mean for the Community ResterChed • 8 days ago • 96",
     "tags": [
       "open_source",
       "papers",
@@ -122,13 +24,27 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-25",
+    "date": "2026-07-26",
+    "score": 64
+  },
+  {
+    "title": "Introducing the Ettin Reranker Family",
+    "url": "https://huggingface.co/blog/ettin-reranker",
+    "summary": "Introducing the Ettin Reranker Family 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-26",
     "score": 62
   },
   {
-    "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
-    "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
-    "summary": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
+    "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+    "summary": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -136,13 +52,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-25",
+    "date": "2026-07-26",
     "score": 62
   },
   {
-    "title": "We got local models to triage the OpenClaw repo for FREE!*",
-    "url": "https://huggingface.co/blog/local-models-pr-triage",
-    "summary": "We got local models to triage the OpenClaw repo for FREE!* 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
+    "summary": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -150,13 +66,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-25",
+    "date": "2026-07-26",
     "score": 62
   },
   {
-    "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
-    "url": "https://huggingface.co/blog/peft-beyond-lora",
-    "summary": "Beyond LoRA: Can you beat the most popular fine-tuning technique? 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Unlocking asynchronicity in continuous batching",
+    "url": "https://huggingface.co/blog/continuous_async",
+    "summary": "Unlocking asynchronicity in continuous batching 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -164,13 +80,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-25",
+    "date": "2026-07-26",
     "score": 62
   },
   {
-    "title": "GLM-5.2: Built for Long-Horizon Tasks",
-    "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
-    "summary": "GLM-5.2: Built for Long-Horizon Tasks 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
+    "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
+    "summary": "vLLM V0 to V1: Correctness Before Corrections in RL 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -178,13 +94,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-25",
+    "date": "2026-07-26",
     "score": 62
   },
   {
-    "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
-    "url": "https://huggingface.co/blog/torch-mlp-fusion",
-    "summary": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
+    "url": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
+    "summary": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -192,13 +108,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-25",
+    "date": "2026-07-26",
     "score": 62
   },
   {
-    "title": "Direct Preference Optimization Beyond Chatbots",
-    "url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
-    "summary": "Direct Preference Optimization Beyond Chatbots 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Granite 4.1 LLMs: How They’re Built",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
+    "summary": "Granite 4.1 LLMs: How They’re Built 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -206,13 +122,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-25",
+    "date": "2026-07-26",
     "score": 62
   },
   {
-    "title": "Adding MCP Tools to Reachy Mini",
-    "url": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
-    "summary": "Adding MCP Tools to Reachy Mini 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "How to Use Transformers.js in a Chrome Extension",
+    "url": "https://huggingface.co/blog/transformersjs-chrome-extension",
+    "summary": "How to Use Transformers.js in a Chrome Extension 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -220,13 +136,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-25",
+    "date": "2026-07-26",
     "score": 62
   },
   {
-    "title": "Profiling in PyTorch (Part 1): A Beginner&apos;s Guide to torch.profiler",
-    "url": "https://huggingface.co/blog/torch-profiler",
-    "summary": "Profiling in PyTorch (Part 1): A Beginner&apos;s Guide to torch.profiler 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard",
+    "url": "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
+    "summary": "QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -234,13 +150,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-25",
+    "date": "2026-07-26",
     "score": 62
   },
   {
-    "title": "Reachy Mini goes fully local",
-    "url": "https://huggingface.co/blog/local-reachy-mini-conversation",
-    "summary": "Reachy Mini goes fully local 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "The PR you would have opened yourself",
+    "url": "https://huggingface.co/blog/transformers-to-mlx",
+    "summary": "The PR you would have opened yourself 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -248,13 +164,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-25",
+    "date": "2026-07-26",
     "score": 62
   },
   {
-    "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
-    "url": "https://huggingface.co/blog/delta-weight-sync",
-    "summary": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs",
+    "url": "https://huggingface.co/blog/waypoint-1-5",
+    "summary": "Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -262,13 +178,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-25",
+    "date": "2026-07-26",
     "score": 62
   },
   {
-    "title": "OlmoEarth v1.1: A more efficient family of Earth observation models",
-    "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
-    "summary": "OlmoEarth v1.1: A more efficient family of Earth observation models 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Safetensors is Joining the PyTorch Foundation",
+    "url": "https://huggingface.co/blog/safetensors-joins-pytorch-foundation",
+    "summary": "Safetensors is Joining the PyTorch Foundation 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -276,7 +192,91 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-25",
+    "date": "2026-07-26",
+    "score": 62
+  },
+  {
+    "title": "Falcon Perception",
+    "url": "https://huggingface.co/blog/tiiuae/falcon-perception",
+    "summary": "Falcon Perception 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-26",
+    "score": 62
+  },
+  {
+    "title": "Any Custom Frontend with Gradio&apos;s Backend",
+    "url": "https://huggingface.co/blog/introducing-gradio-server",
+    "summary": "Any Custom Frontend with Gradio&apos;s Backend 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-26",
+    "score": 62
+  },
+  {
+    "title": "Liberate your OpenClaw",
+    "url": "https://huggingface.co/blog/liberate-your-openclaw",
+    "summary": "Liberate your OpenClaw 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-26",
+    "score": 62
+  },
+  {
+    "title": "State of Open Source on Hugging Face: Spring 2026",
+    "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+    "summary": "State of Open Source on Hugging Face: Spring 2026 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-26",
+    "score": 62
+  },
+  {
+    "title": "Introducing Storage Buckets on the Hugging Face Hub",
+    "url": "https://huggingface.co/blog/storage-buckets",
+    "summary": "Introducing Storage Buckets on the Hugging Face Hub 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-26",
+    "score": 62
+  },
+  {
+    "title": "Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries",
+    "url": "https://huggingface.co/blog/async-rl-training-landscape",
+    "summary": "Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-26",
     "score": 62
   }
 ]
