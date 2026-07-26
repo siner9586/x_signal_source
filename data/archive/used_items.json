@@ -10506,5 +10506,205 @@
     "cluster_id": "huggingface_co_43853035",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a64f301e3ee1d1d8",
+    "canonical_url": "https://www.lennysnewsletter.com/p/anthropics-first-technical-pm-on",
+    "dedupe_key": "d64827e90cecd905",
+    "title": "Anthropic’s first technical PM on token maxing, the jagged edge, and living in the future | Dianne Penn",
+    "issue_date": "2026-07-27",
+    "cluster_id": "lennysnewsletter_com_1ed9e636",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_16451a3b09419837",
+    "canonical_url": "https://huggingface.co/blog/lerobot-release-v050",
+    "dedupe_key": "195a7a7c920d1090",
+    "title": "LeRobot v0.5.0: Scaling Every Dimension",
+    "issue_date": "2026-07-27",
+    "cluster_id": "huggingface_co_3071b43e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_67bc93a3b947f3bc",
+    "canonical_url": "https://huggingface.co/blog/modular-diffusers",
+    "dedupe_key": "13ea1e5de5f92a8c",
+    "title": "Introducing Modular Diffusers - Composable Building Blocks for Diffusion Pipelines",
+    "issue_date": "2026-07-27",
+    "cluster_id": "huggingface_co_88068d8a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_55aaf8b7a83642f9",
+    "canonical_url": "https://huggingface.co/blog/moe-transformers",
+    "dedupe_key": "f7a9086cf8193a08",
+    "title": "Mixture of Experts (MoEs) in Transformers",
+    "issue_date": "2026-07-27",
+    "cluster_id": "huggingface_co_9f5fb04e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_eaee1bdd08f2d6f8",
+    "canonical_url": "https://huggingface.co/blog/gradio-html-one-shot-apps",
+    "dedupe_key": "f4072fbe79e49cf5",
+    "title": "One-Shot Any Web App with Gradio&apos;s gr.HTML",
+    "issue_date": "2026-07-27",
+    "cluster_id": "huggingface_co_673729e5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_41dddc660d7c517d",
+    "canonical_url": "https://huggingface.co/blog/custom-cuda-kernels-agent-skills",
+    "dedupe_key": "8bf4f9cc450b5ca0",
+    "title": "Custom Kernels for All from Codex and Claude",
+    "issue_date": "2026-07-27",
+    "cluster_id": "huggingface_co_b159e6cc",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_410c09c56d7a68b9",
+    "canonical_url": "https://huggingface.co/blog/ServiceNow-AI/sygra-studio",
+    "dedupe_key": "0c631ea19c3d99d8",
+    "title": "Introducing SyGra Studio",
+    "issue_date": "2026-07-27",
+    "cluster_id": "huggingface_co_1d0cc390",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4a3829394bd3edb0",
+    "canonical_url": "https://huggingface.co/blog/community-evals",
+    "dedupe_key": "3a53123d1b84b03d",
+    "title": "Community Evals: Because we&apos;re done trusting black-box leaderboards over the community",
+    "issue_date": "2026-07-27",
+    "cluster_id": "huggingface_co_24830714",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e545ba9ae0017e78",
+    "canonical_url": "https://huggingface.co/blog/Hcompany/introducing-holo2-235b-a22b",
+    "dedupe_key": "eea2e91c83165c2b",
+    "title": "H Company&apos;s new Holo2 model takes the lead in UI Localization",
+    "issue_date": "2026-07-27",
+    "cluster_id": "huggingface_co_d48f5258",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f01d82026b9ddd6b",
+    "canonical_url": "https://huggingface.co/blog/upskill",
+    "dedupe_key": "08c1f536d39c919f",
+    "title": "We Got Claude to Build CUDA Kernels and teach open models!",
+    "issue_date": "2026-07-27",
+    "cluster_id": "huggingface_co_8d57aeef",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_fdd784819b16b7fd",
+    "canonical_url": "https://huggingface.co/blog/tiiuae/emirati-benchmarks",
+    "dedupe_key": "752b4012fcfa0256",
+    "title": "Alyah ⭐️: Toward Robust Evaluation of Emirati Dialect Capabilities in Arabic LLMs",
+    "issue_date": "2026-07-27",
+    "cluster_id": "huggingface_co_7b3e147d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f88b9dea09be365d",
+    "canonical_url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment",
+    "dedupe_key": "527f0cb77ca62126",
+    "title": "One Year Since the “DeepSeek Moment”",
+    "issue_date": "2026-07-27",
+    "cluster_id": "huggingface_co_ef02f216",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d4d09cdfe5e5f332",
+    "canonical_url": "https://huggingface.co/blog/microsoft/diff-attn-v2",
+    "dedupe_key": "3efa04afc18d5e00",
+    "title": "Differential Transformer V2",
+    "issue_date": "2026-07-27",
+    "cluster_id": "huggingface_co_12c1cb20",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_40493ac14441da14",
+    "canonical_url": "https://huggingface.co/blog/waypoint-1",
+    "dedupe_key": "2f8c4bc1bd7d829a",
+    "title": "Introducing Waypoint-1: Real-time interactive video diffusion from Overworld",
+    "issue_date": "2026-07-27",
+    "cluster_id": "huggingface_co_73bd9724",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b42dc81918d1786b",
+    "canonical_url": "https://huggingface.co/blog/open-responses",
+    "dedupe_key": "f27293522afdcea7",
+    "title": "Open Responses: What you need to know",
+    "issue_date": "2026-07-27",
+    "cluster_id": "huggingface_co_3f7dd360",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0d8326dfcb76599c",
+    "canonical_url": "https://huggingface.co/blog/tokenizers",
+    "dedupe_key": "dee552b5b00f512a",
+    "title": "Tokenization in Transformers v5: Simpler, Clearer, and More Modular",
+    "issue_date": "2026-07-27",
+    "cluster_id": "huggingface_co_a614aa78",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_88ef9f2b24aa3ff3",
+    "canonical_url": "https://huggingface.co/blog/ggml-org/model-management-in-llamacpp",
+    "dedupe_key": "918cd2d893712727",
+    "title": "New in llama.cpp: Model Management",
+    "issue_date": "2026-07-27",
+    "cluster_id": "huggingface_co_90ed49a4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e5973192a904724d",
+    "canonical_url": "https://huggingface.co/blog/swift-huggingface",
+    "dedupe_key": "3e0b3aa8dd1fd434",
+    "title": "Introducing swift-huggingface: The Complete Swift Client for Hugging Face",
+    "issue_date": "2026-07-27",
+    "cluster_id": "huggingface_co_c63d59e4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_74ffa9bbe58c39b6",
+    "canonical_url": "https://huggingface.co/blog/hf-skills-training",
+    "dedupe_key": "3010f4d2caa84dc9",
+    "title": "We Got Claude to Fine-Tune an Open Source LLM",
+    "issue_date": "2026-07-27",
+    "cluster_id": "huggingface_co_68b70bb1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_da27c7d4b2c666e9",
+    "canonical_url": "https://huggingface.co/blog/flux-2",
+    "dedupe_key": "a9fb787837470acd",
+    "title": "Diffusers welcomes FLUX-2",
+    "issue_date": "2026-07-27",
+    "cluster_id": "huggingface_co_3a4cf75c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]

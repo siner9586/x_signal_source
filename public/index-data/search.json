@@ -1,36 +1,22 @@
 [
   {
-    "title": "Own Your Intelligence: The Key to Lasting AI Advantage",
-    "url": "https://www.langchain.com/blog/own-your-intelligence",
-    "summary": "Learn why companies must own their agent systems, governance, context, and feedback loops to turn generic AI into lasting business advantage.",
+    "title": "Anthropic’s first technical PM on token maxing, the jagged edge, and living in the future | Dianne Penn",
+    "url": "https://www.lennysnewsletter.com/p/anthropics-first-technical-pm-on",
+    "summary": "Listen now | Dianne Penn, Anthropic&#8217;s first PM, on the bets that made Claude dominant: the coding pivot, the eval-driven development loop, and what comes after coding is solved",
     "tags": [
-      "agents",
-      "rag",
-      "framework"
+      "product",
+      "growth",
+      "startup"
     ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-07-26",
-    "score": 65
-  },
-  {
-    "title": "Kimi K3 Model Overview: 2.8T Parameters, MXFP4 Quantization, and What the Open Weights Mean for the Community ResterChed • 8 days ago • 96",
-    "url": "https://huggingface.co/blog/ResterChed/kimi-k3-model-overview-mxfp4-quantization-open-wei",
-    "summary": "Hugging Face – Blog · Kimi K3 Model Overview: 2.8T Parameters, MXFP4 Quantization, and What the Open Weights Mean for the Community ResterChed • 8 days ago • 96",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-26",
+    "author": "Lenny's Newsletter",
+    "source": "lennysnewsletter.com",
+    "date": "2026-07-27",
     "score": 64
   },
   {
-    "title": "Introducing the Ettin Reranker Family",
-    "url": "https://huggingface.co/blog/ettin-reranker",
-    "summary": "Introducing the Ettin Reranker Family 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "LeRobot v0.5.0: Scaling Every Dimension",
+    "url": "https://huggingface.co/blog/lerobot-release-v050",
+    "summary": "LeRobot v0.5.0: Scaling Every Dimension 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -38,13 +24,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-26",
+    "date": "2026-07-27",
     "score": 62
   },
   {
-    "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
-    "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
-    "summary": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Introducing Modular Diffusers - Composable Building Blocks for Diffusion Pipelines",
+    "url": "https://huggingface.co/blog/modular-diffusers",
+    "summary": "Introducing Modular Diffusers - Composable Building Blocks for Diffusion Pipelines 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -52,13 +38,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-26",
+    "date": "2026-07-27",
     "score": 62
   },
   {
-    "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
-    "url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
-    "summary": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Mixture of Experts (MoEs) in Transformers",
+    "url": "https://huggingface.co/blog/moe-transformers",
+    "summary": "Mixture of Experts (MoEs) in Transformers 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -66,13 +52,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-26",
+    "date": "2026-07-27",
     "score": 62
   },
   {
-    "title": "Unlocking asynchronicity in continuous batching",
-    "url": "https://huggingface.co/blog/continuous_async",
-    "summary": "Unlocking asynchronicity in continuous batching 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "One-Shot Any Web App with Gradio&apos;s gr.HTML",
+    "url": "https://huggingface.co/blog/gradio-html-one-shot-apps",
+    "summary": "One-Shot Any Web App with Gradio&apos;s gr.HTML 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -80,13 +66,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-26",
+    "date": "2026-07-27",
     "score": 62
   },
   {
-    "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
-    "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
-    "summary": "vLLM V0 to V1: Correctness Before Corrections in RL 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Custom Kernels for All from Codex and Claude",
+    "url": "https://huggingface.co/blog/custom-cuda-kernels-agent-skills",
+    "summary": "Custom Kernels for All from Codex and Claude 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -94,13 +80,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-26",
+    "date": "2026-07-27",
     "score": 62
   },
   {
-    "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
-    "url": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
-    "summary": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Introducing SyGra Studio",
+    "url": "https://huggingface.co/blog/ServiceNow-AI/sygra-studio",
+    "summary": "Introducing SyGra Studio 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -108,13 +94,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-26",
+    "date": "2026-07-27",
     "score": 62
   },
   {
-    "title": "Granite 4.1 LLMs: How They’re Built",
-    "url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
-    "summary": "Granite 4.1 LLMs: How They’re Built 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Community Evals: Because we&apos;re done trusting black-box leaderboards over the community",
+    "url": "https://huggingface.co/blog/community-evals",
+    "summary": "Community Evals: Because we&apos;re done trusting black-box leaderboards over the community 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -122,13 +108,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-26",
+    "date": "2026-07-27",
     "score": 62
   },
   {
-    "title": "How to Use Transformers.js in a Chrome Extension",
-    "url": "https://huggingface.co/blog/transformersjs-chrome-extension",
-    "summary": "How to Use Transformers.js in a Chrome Extension 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "H Company&apos;s new Holo2 model takes the lead in UI Localization",
+    "url": "https://huggingface.co/blog/Hcompany/introducing-holo2-235b-a22b",
+    "summary": "H Company&apos;s new Holo2 model takes the lead in UI Localization 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -136,13 +122,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-26",
+    "date": "2026-07-27",
     "score": 62
   },
   {
-    "title": "QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard",
-    "url": "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
-    "summary": "QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "We Got Claude to Build CUDA Kernels and teach open models!",
+    "url": "https://huggingface.co/blog/upskill",
+    "summary": "We Got Claude to Build CUDA Kernels and teach open models! 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -150,13 +136,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-26",
+    "date": "2026-07-27",
     "score": 62
   },
   {
-    "title": "The PR you would have opened yourself",
-    "url": "https://huggingface.co/blog/transformers-to-mlx",
-    "summary": "The PR you would have opened yourself 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Alyah ⭐️: Toward Robust Evaluation of Emirati Dialect Capabilities in Arabic LLMs",
+    "url": "https://huggingface.co/blog/tiiuae/emirati-benchmarks",
+    "summary": "Alyah ⭐️: Toward Robust Evaluation of Emirati Dialect Capabilities in Arabic LLMs 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -164,13 +150,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-26",
+    "date": "2026-07-27",
     "score": 62
   },
   {
-    "title": "Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs",
-    "url": "https://huggingface.co/blog/waypoint-1-5",
-    "summary": "Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "One Year Since the “DeepSeek Moment”",
+    "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment",
+    "summary": "One Year Since the “DeepSeek Moment” 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -178,13 +164,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-26",
+    "date": "2026-07-27",
     "score": 62
   },
   {
-    "title": "Safetensors is Joining the PyTorch Foundation",
-    "url": "https://huggingface.co/blog/safetensors-joins-pytorch-foundation",
-    "summary": "Safetensors is Joining the PyTorch Foundation 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Differential Transformer V2",
+    "url": "https://huggingface.co/blog/microsoft/diff-attn-v2",
+    "summary": "Differential Transformer V2 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -192,13 +178,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-26",
+    "date": "2026-07-27",
     "score": 62
   },
   {
-    "title": "Falcon Perception",
-    "url": "https://huggingface.co/blog/tiiuae/falcon-perception",
-    "summary": "Falcon Perception 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Introducing Waypoint-1: Real-time interactive video diffusion from Overworld",
+    "url": "https://huggingface.co/blog/waypoint-1",
+    "summary": "Introducing Waypoint-1: Real-time interactive video diffusion from Overworld 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -206,13 +192,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-26",
+    "date": "2026-07-27",
     "score": 62
   },
   {
-    "title": "Any Custom Frontend with Gradio&apos;s Backend",
-    "url": "https://huggingface.co/blog/introducing-gradio-server",
-    "summary": "Any Custom Frontend with Gradio&apos;s Backend 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Open Responses: What you need to know",
+    "url": "https://huggingface.co/blog/open-responses",
+    "summary": "Open Responses: What you need to know 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -220,13 +206,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-26",
+    "date": "2026-07-27",
     "score": 62
   },
   {
-    "title": "Liberate your OpenClaw",
-    "url": "https://huggingface.co/blog/liberate-your-openclaw",
-    "summary": "Liberate your OpenClaw 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Tokenization in Transformers v5: Simpler, Clearer, and More Modular",
+    "url": "https://huggingface.co/blog/tokenizers",
+    "summary": "Tokenization in Transformers v5: Simpler, Clearer, and More Modular 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -234,13 +220,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-26",
+    "date": "2026-07-27",
     "score": 62
   },
   {
-    "title": "State of Open Source on Hugging Face: Spring 2026",
-    "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
-    "summary": "State of Open Source on Hugging Face: Spring 2026 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "New in llama.cpp: Model Management",
+    "url": "https://huggingface.co/blog/ggml-org/model-management-in-llamacpp",
+    "summary": "New in llama.cpp: Model Management 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -248,13 +234,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-26",
+    "date": "2026-07-27",
     "score": 62
   },
   {
-    "title": "Introducing Storage Buckets on the Hugging Face Hub",
-    "url": "https://huggingface.co/blog/storage-buckets",
-    "summary": "Introducing Storage Buckets on the Hugging Face Hub 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Introducing swift-huggingface: The Complete Swift Client for Hugging Face",
+    "url": "https://huggingface.co/blog/swift-huggingface",
+    "summary": "Introducing swift-huggingface: The Complete Swift Client for Hugging Face 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -262,13 +248,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-26",
+    "date": "2026-07-27",
     "score": 62
   },
   {
-    "title": "Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries",
-    "url": "https://huggingface.co/blog/async-rl-training-landscape",
-    "summary": "Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "We Got Claude to Fine-Tune an Open Source LLM",
+    "url": "https://huggingface.co/blog/hf-skills-training",
+    "summary": "We Got Claude to Fine-Tune an Open Source LLM 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -276,7 +262,21 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-26",
+    "date": "2026-07-27",
+    "score": 62
+  },
+  {
+    "title": "Diffusers welcomes FLUX-2",
+    "url": "https://huggingface.co/blog/flux-2",
+    "summary": "Diffusers welcomes FLUX-2 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-27",
     "score": 62
   }
 ]
