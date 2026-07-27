@@ -1,8 +1,189 @@
 [
   {
-    "title": "Anthropic’s first technical PM on token maxing, the jagged edge, and living in the future | Dianne Penn",
-    "url": "https://www.lennysnewsletter.com/p/anthropics-first-technical-pm-on",
-    "summary": "Listen now | Dianne Penn, Anthropic&#8217;s first PM, on the bets that made Claude dominant: the coding pivot, the eval-driven development loop, and what comes after coding is solved",
+    "title": "NVIDIA Nemotron 3 Ultra Leads Open Models on Accuracy and Efficiency in Agentic RTL Coding",
+    "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-leads-open-models-on-accuracy-and-efficiency-in-agentic-rtl-coding",
+    "summary": "NVIDIA Technical Blog · NVIDIA Nemotron 3 Ultra Leads Open Models on Accuracy and Efficiency in Agentic RTL Coding",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-07-28",
+    "score": 72
+  },
+  {
+    "title": "GitHub Copilot app for Beginners: Getting started",
+    "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started",
+    "summary": "New to the GitHub Copilot app? Learn how to start projects, work with AI agents, explore canvases, and streamline your development workflow. The post GitHub Copilot app for Beginners: Getting started appeared first on The GitHub Blog .",
+    "tags": [
+      "ai_coding",
+      "developer_tools"
+    ],
+    "author": "GitHub Copilot",
+    "source": "github.blog",
+    "date": "2026-07-28",
+    "score": 72
+  },
+  {
+    "title": "Run Claude Managed Agents with Chat SDK",
+    "url": "https://vercel.com/changelog/claude-managed-agents-with-chat-sdk",
+    "summary": "You can now run Claude Managed Agents with Chat SDK . Claude Managed Agents handles the agent loop server-side, including the model, tools, session state, and sandboxed web research. Chat SDK gives that agent a chat interface through a single type-safe handler, with adapters that carry it to Slack, WhatsApp, and more. What you get Token-by-token streaming : Replies render as the model writes them, over a single streamed response. Live activity feed : Tool calls and model requ",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-07-28",
+    "score": 70
+  },
+  {
+    "title": "Six Agent Harness Capabilities for Higher Model Performance",
+    "url": "https://developer.nvidia.com/blog/six-agent-harness-capabilities-for-higher-model-performance",
+    "summary": "NVIDIA Technical Blog · Six Agent Harness Capabilities for Higher Model Performance",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-07-28",
+    "score": 69
+  },
+  {
+    "title": "How AI is expanding what people do at work",
+    "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+    "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-07-28",
+    "score": 67
+  },
+  {
+    "title": "The harness is all you need (mostly)",
+    "url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly",
+    "summary": "A practical GitHub Copilot workflow for prototyping, planning, implementing, and reviewing software without chasing every new AI tool. The post The harness is all you need (mostly) appeared first on The GitHub Blog .",
+    "tags": [
+      "ai_coding",
+      "developer_tools"
+    ],
+    "author": "GitHub Copilot",
+    "source": "github.blog",
+    "date": "2026-07-28",
+    "score": 67
+  },
+  {
+    "title": "Reimagining Independence: How Meta’s AI Models Are Helping the University of Pittsburgh Transform Assistive Robotics",
+    "url": "https://ai.meta.com/blog/assistive-robotics-university-of-pittsburgh-sam-dino",
+    "summary": "AI at Meta Blog · Reimagining Independence: How Meta’s AI Models Are Helping the University of Pittsburgh Transform Assistive Robotics",
+    "tags": [
+      "open_source_model",
+      "research",
+      "llama"
+    ],
+    "author": "Meta AI",
+    "source": "ai.meta.com",
+    "date": "2026-07-28",
+    "score": 66
+  },
+  {
+    "title": "NVIDIA Ising Enables Fully Automated Quantum Computer Calibration with Enhanced In-Context Learning",
+    "url": "https://developer.nvidia.com/blog/nvidia-ising-enables-fully-automated-quantum-computer-calibration-with-enhanced-in-context-learning",
+    "summary": "NVIDIA Technical Blog · NVIDIA Ising Enables Fully Automated Quantum Computer Calibration with Enhanced In-Context Learning",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-07-28",
+    "score": 66
+  },
+  {
+    "title": "Advancing Semiconductor Innovation Across Materials Engineering and Manufacturing",
+    "url": "https://developer.nvidia.com/blog/advancing-semiconductor-innovation-across-materials-engineering-and-manufacturing",
+    "summary": "NVIDIA Technical Blog · Advancing Semiconductor Innovation Across Materials Engineering and Manufacturing",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-07-28",
+    "score": 66
+  },
+  {
+    "title": "27 July Security DeepsecBench: evaluating model performance in finding cybersecurity vulnerabilities DeepsecBench evaluates model performance in finding security vulnerabilities. Malte Ubl, Eric Dodds",
+    "url": "https://vercel.com/blog/deepsecbench-evaluating-model-performance-in-finding-cybersecurity-vulnerabilities",
+    "summary": "Blog - Vercel · 27 July Security DeepsecBench: evaluating model performance in finding cybersecurity vulnerabilities DeepsecBench evaluates model performance in finding security vulnerabilities. Malte Ubl, Eric Dodds",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-07-28",
+    "score": 66
+  },
+  {
+    "title": "eve adds new Slack event hooks and session controls",
+    "url": "https://vercel.com/changelog/eve-adds-new-slack-event-hooks-and-session-controls",
+    "summary": "eve agents on Slack can now keep replying in a thread without repeated mentions, cancel an in-progress response or reset a conversation entirely, and react to any event your Slack app subscribes to. Continue conversations without repeated mentions Mentions no longer have to carry the conversation. Once a thread has an active session, your agent can reply on its own. The new onMessage hook receives incoming Slack messages, and two helpers decide which ones to handle: ctx.isBot",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-07-28",
+    "score": 66
+  },
+  {
+    "title": "WebSocket support for OpenAI Responses API live on AI Gateway",
+    "url": "https://vercel.com/changelog/websocket-support-for-openai-responses-api-live-on-ai-gateway",
+    "summary": "AI Gateway now supports WebSocket mode for the OpenAI Responses API. You can keep a persistent connection open and continue each turn by sending only new input items plus previous_response_id , instead of re-sending the full context over a fresh HTTP request every turn. OpenAI reports up to ~40% faster end-to-end execution on WebSockets for agentic rollouts with 20 or more tool calls. Route Responses API traffic over WebSocket The Responses route opens at GET /v1/responses an",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-07-28",
+    "score": 66
+  },
+  {
+    "title": "The path to artificial superintelligence",
+    "url": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence",
+    "summary": "Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in its domain. But they all have their own distinct knowledge and objectives. Today they can exchange data, but they are not yet able to actually coordinate&#8230;",
+    "tags": [
+      "ai",
+      "research",
+      "society"
+    ],
+    "author": "MIT Technology Review AI",
+    "source": "technologyreview.com",
+    "date": "2026-07-28",
+    "score": 66
+  },
+  {
+    "title": "From zero coding background to hardware hacker: How Cursor + a Raspberry Pi makes AI fun",
+    "url": "https://www.lennysnewsletter.com/p/from-zero-coding-background-to-hardware",
+    "summary": "Watch now | &#127897;&#65039; Maddie Reese built a thermal printer anyone can message, a working Twitter pager, and a personal API using Cursor, a Raspberry Pi, and the radical idea that fun beats practical",
     "tags": [
       "product",
       "growth",
@@ -10,41 +191,97 @@
     ],
     "author": "Lenny's Newsletter",
     "source": "lennysnewsletter.com",
-    "date": "2026-07-27",
+    "date": "2026-07-28",
+    "score": 65
+  },
+  {
+    "title": "Building the enterprise environment for agentic AI",
+    "url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai",
+    "summary": "For the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end across people, business workflows, data, and systems. The platform best-suited to run agents is built with proper CPU capacity, resilient data access, policy-aware tool use, observability, memory management, and the&#8230;",
+    "tags": [
+      "ai",
+      "research",
+      "society"
+    ],
+    "author": "MIT Technology Review AI",
+    "source": "technologyreview.com",
+    "date": "2026-07-28",
     "score": 64
   },
   {
-    "title": "LeRobot v0.5.0: Scaling Every Dimension",
-    "url": "https://huggingface.co/blog/lerobot-release-v050",
-    "summary": "LeRobot v0.5.0: Scaling Every Dimension 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Regional inference now available on AI Gateway",
+    "url": "https://vercel.com/changelog/regional-inference-now-available-on-ai-gateway",
+    "summary": "AI Gateway now supports regional inference . Set inferenceRegion on a request to pin it to the US or EU. Every model provider that supports the selected region handles it the same way. Inference runs there, and any data the provider keeps is stored there. AI Gateway supports two pinned regions, plus global routing: Region Where inference runs us A US data center eu An EU data center global Any region If no model provider can serve it, the request fails rather than running som",
     "tags": [
-      "open_source",
-      "papers",
-      "models"
+      "sdk",
+      "ai_infra",
+      "frontend"
     ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-27",
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-07-28",
+    "score": 63
+  },
+  {
+    "title": "Nuxt July 2026 security advisory",
+    "url": "https://vercel.com/changelog/nuxt-july-2026-security-advisory",
+    "summary": "The Nuxt team has released Nuxt 4.5.1 and 3.21.10, along with @nuxt/devtools 3.3.1, to address eight security advisories, including a high-severity server-side remote code execution vulnerability. Vulnerabilities addressed Vulnerability Severity Advisory Server-side remote code execution via server island props High GHSA-9473-5f9j-94wq Unauthorized component instantiation via server island props Medium GHSA-48hr-524c-v5w3 Route rule authorization bypass High GHSA-hxvh-4h3w-pr",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-07-28",
+    "score": 63
+  },
+  {
+    "title": "Kimi K3 and Kimi K3 Fast with ZDR and US-based providers now on AI Gateway",
+    "url": "https://vercel.com/changelog/kimi-k3-and-kimi-k3-fast-on-ai-gateway",
+    "summary": "Kimi K3 from Moonshot AI and its faster serving path, Kimi K3 Fast , are now available from US-based providers on AI Gateway, including Baseten and Fireworks. Zero Data Retention (ZDR) is also supported for both models. Running Kimi K3 on US-based providers lets teams with data residency and compliance requirements use the model on US infrastructure. Because AI Gateway serves the models from multiple providers, it automatically routes across them for failover, higher uptime, ",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-07-28",
+    "score": 63
+  },
+  {
+    "title": "Jul 27, 2026 Announcements Our position on open-weights models",
+    "url": "https://www.anthropic.com/news/position-open-weights-models",
+    "summary": "Newsroom \\ Anthropic · Jul 27, 2026 Announcements Our position on open-weights models",
+    "tags": [
+      "ai_models",
+      "safety",
+      "official"
+    ],
+    "author": "Anthropic",
+    "source": "anthropic.com",
+    "date": "2026-07-28",
     "score": 62
   },
   {
-    "title": "Introducing Modular Diffusers - Composable Building Blocks for Diffusion Pipelines",
-    "url": "https://huggingface.co/blog/modular-diffusers",
-    "summary": "Introducing Modular Diffusers - Composable Building Blocks for Diffusion Pipelines 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Jul 27, 2026 Announcements Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
+    "url": "https://www.anthropic.com/news/cognizant-anthropic",
+    "summary": "Newsroom \\ Anthropic · Jul 27, 2026 Announcements Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
     "tags": [
-      "open_source",
-      "papers",
-      "models"
+      "ai_models",
+      "safety",
+      "official"
     ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-27",
+    "author": "Anthropic",
+    "source": "anthropic.com",
+    "date": "2026-07-28",
     "score": 62
   },
   {
-    "title": "Mixture of Experts (MoEs) in Transformers",
-    "url": "https://huggingface.co/blog/moe-transformers",
-    "summary": "Mixture of Experts (MoEs) in Transformers 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+    "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+    "summary": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -52,13 +289,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-27",
+    "date": "2026-07-28",
     "score": 62
   },
   {
-    "title": "One-Shot Any Web App with Gradio&apos;s gr.HTML",
-    "url": "https://huggingface.co/blog/gradio-html-one-shot-apps",
-    "summary": "One-Shot Any Web App with Gradio&apos;s gr.HTML 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Continuous batching from first principles",
+    "url": "https://huggingface.co/blog/continuous_batching",
+    "summary": "Continuous batching from first principles 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -66,13 +303,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-27",
+    "date": "2026-07-28",
     "score": 62
   },
   {
-    "title": "Custom Kernels for All from Codex and Claude",
-    "url": "https://huggingface.co/blog/custom-cuda-kernels-agent-skills",
-    "summary": "Custom Kernels for All from Codex and Claude 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "OVHcloud on Hugging Face Inference Providers 🔥",
+    "url": "https://huggingface.co/blog/OVHcloud/inference-providers-ovhcloud",
+    "summary": "OVHcloud on Hugging Face Inference Providers 🔥 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -80,203 +317,7 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-27",
-    "score": 62
-  },
-  {
-    "title": "Introducing SyGra Studio",
-    "url": "https://huggingface.co/blog/ServiceNow-AI/sygra-studio",
-    "summary": "Introducing SyGra Studio 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-27",
-    "score": 62
-  },
-  {
-    "title": "Community Evals: Because we&apos;re done trusting black-box leaderboards over the community",
-    "url": "https://huggingface.co/blog/community-evals",
-    "summary": "Community Evals: Because we&apos;re done trusting black-box leaderboards over the community 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-27",
-    "score": 62
-  },
-  {
-    "title": "H Company&apos;s new Holo2 model takes the lead in UI Localization",
-    "url": "https://huggingface.co/blog/Hcompany/introducing-holo2-235b-a22b",
-    "summary": "H Company&apos;s new Holo2 model takes the lead in UI Localization 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-27",
-    "score": 62
-  },
-  {
-    "title": "We Got Claude to Build CUDA Kernels and teach open models!",
-    "url": "https://huggingface.co/blog/upskill",
-    "summary": "We Got Claude to Build CUDA Kernels and teach open models! 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-27",
-    "score": 62
-  },
-  {
-    "title": "Alyah ⭐️: Toward Robust Evaluation of Emirati Dialect Capabilities in Arabic LLMs",
-    "url": "https://huggingface.co/blog/tiiuae/emirati-benchmarks",
-    "summary": "Alyah ⭐️: Toward Robust Evaluation of Emirati Dialect Capabilities in Arabic LLMs 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-27",
-    "score": 62
-  },
-  {
-    "title": "One Year Since the “DeepSeek Moment”",
-    "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment",
-    "summary": "One Year Since the “DeepSeek Moment” 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-27",
-    "score": 62
-  },
-  {
-    "title": "Differential Transformer V2",
-    "url": "https://huggingface.co/blog/microsoft/diff-attn-v2",
-    "summary": "Differential Transformer V2 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-27",
-    "score": 62
-  },
-  {
-    "title": "Introducing Waypoint-1: Real-time interactive video diffusion from Overworld",
-    "url": "https://huggingface.co/blog/waypoint-1",
-    "summary": "Introducing Waypoint-1: Real-time interactive video diffusion from Overworld 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-27",
-    "score": 62
-  },
-  {
-    "title": "Open Responses: What you need to know",
-    "url": "https://huggingface.co/blog/open-responses",
-    "summary": "Open Responses: What you need to know 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-27",
-    "score": 62
-  },
-  {
-    "title": "Tokenization in Transformers v5: Simpler, Clearer, and More Modular",
-    "url": "https://huggingface.co/blog/tokenizers",
-    "summary": "Tokenization in Transformers v5: Simpler, Clearer, and More Modular 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-27",
-    "score": 62
-  },
-  {
-    "title": "New in llama.cpp: Model Management",
-    "url": "https://huggingface.co/blog/ggml-org/model-management-in-llamacpp",
-    "summary": "New in llama.cpp: Model Management 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-27",
-    "score": 62
-  },
-  {
-    "title": "Introducing swift-huggingface: The Complete Swift Client for Hugging Face",
-    "url": "https://huggingface.co/blog/swift-huggingface",
-    "summary": "Introducing swift-huggingface: The Complete Swift Client for Hugging Face 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-27",
-    "score": 62
-  },
-  {
-    "title": "We Got Claude to Fine-Tune an Open Source LLM",
-    "url": "https://huggingface.co/blog/hf-skills-training",
-    "summary": "We Got Claude to Fine-Tune an Open Source LLM 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-27",
-    "score": 62
-  },
-  {
-    "title": "Diffusers welcomes FLUX-2",
-    "url": "https://huggingface.co/blog/flux-2",
-    "summary": "Diffusers welcomes FLUX-2 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-27",
+    "date": "2026-07-28",
     "score": 62
   }
 ]

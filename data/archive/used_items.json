@@ -10706,5 +10706,235 @@
     "cluster_id": "huggingface_co_3a4cf75c",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_aee5661014f64aa5",
+    "canonical_url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-leads-open-models-on-accuracy-and-efficiency-in-agentic-rtl-coding",
+    "dedupe_key": "82c64b9b6bd83340",
+    "title": "NVIDIA Nemotron 3 Ultra Leads Open Models on Accuracy and Efficiency in Agentic RTL Coding",
+    "issue_date": "2026-07-28",
+    "cluster_id": "developer_nvidia_com_e0d5b5fa",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e87c698b8d73aeeb",
+    "canonical_url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started",
+    "dedupe_key": "9dd7c1644001b571",
+    "title": "GitHub Copilot app for Beginners: Getting started",
+    "issue_date": "2026-07-28",
+    "cluster_id": "github_blog_cc550508",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8b6e2e7e5798c2bb",
+    "canonical_url": "https://vercel.com/changelog/claude-managed-agents-with-chat-sdk",
+    "dedupe_key": "fc15df28be5d978e",
+    "title": "Run Claude Managed Agents with Chat SDK",
+    "issue_date": "2026-07-28",
+    "cluster_id": "vercel_com_27a02764",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d77ae956acd12cf2",
+    "canonical_url": "https://developer.nvidia.com/blog/six-agent-harness-capabilities-for-higher-model-performance",
+    "dedupe_key": "0efc50d0e9b6806e",
+    "title": "Six Agent Harness Capabilities for Higher Model Performance",
+    "issue_date": "2026-07-28",
+    "cluster_id": "developer_nvidia_com_6bfec940",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d55f0d01571af0b0",
+    "canonical_url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+    "dedupe_key": "a6f34e352ff26017",
+    "title": "How AI is expanding what people do at work",
+    "issue_date": "2026-07-28",
+    "cluster_id": "openai_com_9b203b49",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_caaaf2a094daffbe",
+    "canonical_url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly",
+    "dedupe_key": "d9d6808886be73c5",
+    "title": "The harness is all you need (mostly)",
+    "issue_date": "2026-07-28",
+    "cluster_id": "github_blog_f87de147",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_cba2fbffca37cf74",
+    "canonical_url": "https://ai.meta.com/blog/assistive-robotics-university-of-pittsburgh-sam-dino",
+    "dedupe_key": "d2e7aeb39c000099",
+    "title": "Reimagining Independence: How Meta’s AI Models Are Helping the University of Pittsburgh Transform Assistive Robotics",
+    "issue_date": "2026-07-28",
+    "cluster_id": "ai_meta_com_f6ee9ea0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f49df2f413f6d1cf",
+    "canonical_url": "https://developer.nvidia.com/blog/nvidia-ising-enables-fully-automated-quantum-computer-calibration-with-enhanced-in-context-learning",
+    "dedupe_key": "0162e0dc1f11e46f",
+    "title": "NVIDIA Ising Enables Fully Automated Quantum Computer Calibration with Enhanced In-Context Learning",
+    "issue_date": "2026-07-28",
+    "cluster_id": "developer_nvidia_com_7bd9b57e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b74701244cd9d498",
+    "canonical_url": "https://developer.nvidia.com/blog/advancing-semiconductor-innovation-across-materials-engineering-and-manufacturing",
+    "dedupe_key": "835c86e987331559",
+    "title": "Advancing Semiconductor Innovation Across Materials Engineering and Manufacturing",
+    "issue_date": "2026-07-28",
+    "cluster_id": "developer_nvidia_com_a601ae9c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_fab81c74f8012518",
+    "canonical_url": "https://vercel.com/blog/deepsecbench-evaluating-model-performance-in-finding-cybersecurity-vulnerabilities",
+    "dedupe_key": "e49f59ccde9851ba",
+    "title": "27 July Security DeepsecBench: evaluating model performance in finding cybersecurity vulnerabilities DeepsecBench evaluates model performance in finding security vulnerabilities. Malte Ubl, Eric Dodds",
+    "issue_date": "2026-07-28",
+    "cluster_id": "vercel_com_94c8806d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_cf0796b8a12c82cc",
+    "canonical_url": "https://vercel.com/changelog/eve-adds-new-slack-event-hooks-and-session-controls",
+    "dedupe_key": "7fab90b37ea37a03",
+    "title": "eve adds new Slack event hooks and session controls",
+    "issue_date": "2026-07-28",
+    "cluster_id": "vercel_com_4bf0df0c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_cf403cee1a770219",
+    "canonical_url": "https://vercel.com/changelog/websocket-support-for-openai-responses-api-live-on-ai-gateway",
+    "dedupe_key": "30e936b769bad711",
+    "title": "WebSocket support for OpenAI Responses API live on AI Gateway",
+    "issue_date": "2026-07-28",
+    "cluster_id": "vercel_com_e6188a41",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_80ed876fa97cabc2",
+    "canonical_url": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence",
+    "dedupe_key": "290fc678a6f4e1c2",
+    "title": "The path to artificial superintelligence",
+    "issue_date": "2026-07-28",
+    "cluster_id": "technologyreview_com_f8b9f791",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_118c12f5ba9b4969",
+    "canonical_url": "https://www.lennysnewsletter.com/p/from-zero-coding-background-to-hardware",
+    "dedupe_key": "a4397297a4715939",
+    "title": "From zero coding background to hardware hacker: How Cursor + a Raspberry Pi makes AI fun",
+    "issue_date": "2026-07-28",
+    "cluster_id": "lennysnewsletter_com_1efeb4eb",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4ee64aeba21e4780",
+    "canonical_url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai",
+    "dedupe_key": "ac2cef6cfec357d4",
+    "title": "Building the enterprise environment for agentic AI",
+    "issue_date": "2026-07-28",
+    "cluster_id": "technologyreview_com_1938fe3b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b484e4cba236ebe2",
+    "canonical_url": "https://vercel.com/changelog/regional-inference-now-available-on-ai-gateway",
+    "dedupe_key": "1927c0c0fdc0126a",
+    "title": "Regional inference now available on AI Gateway",
+    "issue_date": "2026-07-28",
+    "cluster_id": "vercel_com_0cea0436",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_212aec97829b0f0c",
+    "canonical_url": "https://vercel.com/changelog/nuxt-july-2026-security-advisory",
+    "dedupe_key": "3f3fc9ef4e513b92",
+    "title": "Nuxt July 2026 security advisory",
+    "issue_date": "2026-07-28",
+    "cluster_id": "vercel_com_4f257932",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3da3aaa3be38db37",
+    "canonical_url": "https://vercel.com/changelog/kimi-k3-and-kimi-k3-fast-on-ai-gateway",
+    "dedupe_key": "611b84ae92f808a9",
+    "title": "Kimi K3 and Kimi K3 Fast with ZDR and US-based providers now on AI Gateway",
+    "issue_date": "2026-07-28",
+    "cluster_id": "vercel_com_3287fd91",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9758bce61e63507d",
+    "canonical_url": "https://www.anthropic.com/news/position-open-weights-models",
+    "dedupe_key": "9adde4844fc8a983",
+    "title": "Jul 27, 2026 Announcements Our position on open-weights models",
+    "issue_date": "2026-07-28",
+    "cluster_id": "anthropic_com_c548bba9",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_cbe89bee6602e555",
+    "canonical_url": "https://www.anthropic.com/news/cognizant-anthropic",
+    "dedupe_key": "f30a98bc93b10858",
+    "title": "Jul 27, 2026 Announcements Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
+    "issue_date": "2026-07-28",
+    "cluster_id": "anthropic_com_03bf936f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_25157eb5c27d5d32",
+    "canonical_url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+    "dedupe_key": "a5a3138fcc83f8b5",
+    "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+    "issue_date": "2026-07-28",
+    "cluster_id": "huggingface_co_d5b77f30",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7fb585448c3fab31",
+    "canonical_url": "https://huggingface.co/blog/continuous_batching",
+    "dedupe_key": "b308337cfecafc98",
+    "title": "Continuous batching from first principles",
+    "issue_date": "2026-07-28",
+    "cluster_id": "huggingface_co_d564d85a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7391c4700f6b03bc",
+    "canonical_url": "https://huggingface.co/blog/OVHcloud/inference-providers-ovhcloud",
+    "dedupe_key": "b622fc6301add564",
+    "title": "OVHcloud on Hugging Face Inference Providers 🔥",
+    "issue_date": "2026-07-28",
+    "cluster_id": "huggingface_co_65799f2e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
