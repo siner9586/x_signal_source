@@ -10936,5 +10936,215 @@
     "cluster_id": "huggingface_co_65799f2e",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_aed6dd78bfb951e1",
+    "canonical_url": "https://openai.com/index/scientific-computing-agentic-ai",
+    "dedupe_key": "3364e2768d941be6",
+    "title": "Scientific computing in the age of agentic AI",
+    "issue_date": "2026-07-29",
+    "cluster_id": "openai_com_110faedd",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_79c6be21aa92687d",
+    "canonical_url": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions",
+    "dedupe_key": "7bc166d04ef161a5",
+    "title": "Disrupting supply chain attacks on npm and GitHub Actions",
+    "issue_date": "2026-07-29",
+    "cluster_id": "github_blog_6b60bf6e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_932e63d20126326d",
+    "canonical_url": "https://developer.nvidia.com/blog/developing-healthcare-robotics-with-gpu-native-medical-physics-simulation",
+    "dedupe_key": "005588ea1239c6c3",
+    "title": "Developing Healthcare Robotics with GPU-Native Medical Physics Simulation",
+    "issue_date": "2026-07-29",
+    "cluster_id": "developer_nvidia_com_7eb52854",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d76697eab7411f14",
+    "canonical_url": "https://vercel.com/blog/how-sandstone-grew-40x-in-147-days-on-vercel",
+    "dedupe_key": "334f3df158f256f5",
+    "title": "How Sandstone grew 40x in 147 days on Vercel",
+    "issue_date": "2026-07-29",
+    "cluster_id": "vercel_com_2c21df3a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_cc5220f72ac871b1",
+    "canonical_url": "https://vercel.com/changelog/websocket-support-is-now-available-for-python-functions",
+    "dedupe_key": "bf713546963ab559",
+    "title": "WebSocket support is now available for Python Functions",
+    "issue_date": "2026-07-29",
+    "cluster_id": "vercel_com_e92faa8b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_149bd43ca4d10a92",
+    "canonical_url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+    "dedupe_key": "273bcf9edb81fc88",
+    "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+    "issue_date": "2026-07-29",
+    "cluster_id": "huggingface_co_4ed67ea7",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f701ecb6fabb0185",
+    "canonical_url": "https://www.langchain.com/blog/agent-data-stack",
+    "dedupe_key": "583f608828b85035",
+    "title": "How LangChain Built an Agent-First Data Stack",
+    "issue_date": "2026-07-29",
+    "cluster_id": "langchain_com_a98d8c14",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_cd411f939734089c",
+    "canonical_url": "https://x.ai/news/grok-github-copilot",
+    "dedupe_key": "9997365e11245e8f",
+    "title": "Jul 28, 2026 Grok 4.5 in GitHub Copilot",
+    "issue_date": "2026-07-29",
+    "cluster_id": "x_ai_96f8ea66",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_cb7b6beddda7f420",
+    "canonical_url": "https://vercel.com/changelog/vercel-sandbox-supports-forking",
+    "dedupe_key": "1ed2d15edf9a98dc",
+    "title": "Vercel Sandbox supports forking",
+    "issue_date": "2026-07-29",
+    "cluster_id": "vercel_com_e0b74123",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c6b0bcc7154ff1eb",
+    "canonical_url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+    "dedupe_key": "f3d667674abe3f6d",
+    "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+    "issue_date": "2026-07-29",
+    "cluster_id": "huggingface_co_a0b36647",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c94847629d9f855f",
+    "canonical_url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+    "dedupe_key": "f647e04f8318cdf8",
+    "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+    "issue_date": "2026-07-29",
+    "cluster_id": "huggingface_co_9afc5340",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5b3a672066d90458",
+    "canonical_url": "https://huggingface.co/blog/open-asr-leaderboard",
+    "dedupe_key": "b1d766c746039580",
+    "title": "Open ASR Leaderboard: Trends and Insights with New Multilingual & Long-Form Tracks",
+    "issue_date": "2026-07-29",
+    "cluster_id": "huggingface_co_cfbc1a63",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_69b7ec963d0a5829",
+    "canonical_url": "https://huggingface.co/blog/anylanguagemodel",
+    "dedupe_key": "be2c4c07d89f9f54",
+    "title": "Introducing AnyLanguageModel: One API for Local and Remote LLMs on Apple Platforms",
+    "issue_date": "2026-07-29",
+    "cluster_id": "huggingface_co_d391c2ff",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c1e491fc67e63fed",
+    "canonical_url": "https://huggingface.co/blog/build-rocm-kernels",
+    "dedupe_key": "b27b5ea0f2c443ac",
+    "title": "Easily Build and Share ROCm Kernels with Hugging Face",
+    "issue_date": "2026-07-29",
+    "cluster_id": "huggingface_co_2464a5b0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3a82ccc5fb6dfe7d",
+    "canonical_url": "https://huggingface.co/blog/amd/openroboticshackathon",
+    "dedupe_key": "5f8a56aaefba4346",
+    "title": "Join the AMD Open Robotics Hackathon",
+    "issue_date": "2026-07-29",
+    "cluster_id": "huggingface_co_2e3cd9fe",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a4f138bec5f4c0ea",
+    "canonical_url": "https://huggingface.co/blog/google-cloud",
+    "dedupe_key": "d52f83a6ac7794e3",
+    "title": "Building for an Open Future - our new partnership with Google Cloud",
+    "issue_date": "2026-07-29",
+    "cluster_id": "huggingface_co_5a107716",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_539dafce93d74100",
+    "canonical_url": "https://huggingface.co/blog/huggingface/shifting-compute-landscape",
+    "dedupe_key": "0b5f8f3654b612d0",
+    "title": "On the Shifting Global Compute Landscape",
+    "issue_date": "2026-07-29",
+    "cluster_id": "huggingface_co_ab861cbd",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_265146b9f16a6828",
+    "canonical_url": "https://huggingface.co/blog/lerobotxnvidia-healthcare",
+    "dedupe_key": "f5afd393e95c588f",
+    "title": "Building a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac",
+    "issue_date": "2026-07-29",
+    "cluster_id": "huggingface_co_bf5f9b0f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_19d1ab7724ffc0d7",
+    "canonical_url": "https://huggingface.co/blog/nvidia/nvidia-isaac-for-healthcare",
+    "dedupe_key": "bb7d83ef7566afef",
+    "title": "How to Build a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac for Healthcare",
+    "issue_date": "2026-07-29",
+    "cluster_id": "huggingface_co_bdd72645",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_92ebbd03dcc93528",
+    "canonical_url": "https://huggingface.co/blog/ibm-granite/granite-4-nano",
+    "dedupe_key": "ee9d6580ce8642e3",
+    "title": "Granite 4.0 Nano: Just how small can you go?",
+    "issue_date": "2026-07-29",
+    "cluster_id": "huggingface_co_722dda52",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3806b0f6ad2096b1",
+    "canonical_url": "https://huggingface.co/blog/voice-consent-gate",
+    "dedupe_key": "3fc5327a46c80ba7",
+    "title": "Voice Cloning with Consent",
+    "issue_date": "2026-07-29",
+    "cluster_id": "huggingface_co_3862d244",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]

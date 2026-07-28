@@ -1,63 +1,8 @@
 [
   {
-    "title": "NVIDIA Nemotron 3 Ultra Leads Open Models on Accuracy and Efficiency in Agentic RTL Coding",
-    "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-leads-open-models-on-accuracy-and-efficiency-in-agentic-rtl-coding",
-    "summary": "NVIDIA Technical Blog · NVIDIA Nemotron 3 Ultra Leads Open Models on Accuracy and Efficiency in Agentic RTL Coding",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-07-28",
-    "score": 72
-  },
-  {
-    "title": "GitHub Copilot app for Beginners: Getting started",
-    "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started",
-    "summary": "New to the GitHub Copilot app? Learn how to start projects, work with AI agents, explore canvases, and streamline your development workflow. The post GitHub Copilot app for Beginners: Getting started appeared first on The GitHub Blog .",
-    "tags": [
-      "ai_coding",
-      "developer_tools"
-    ],
-    "author": "GitHub Copilot",
-    "source": "github.blog",
-    "date": "2026-07-28",
-    "score": 72
-  },
-  {
-    "title": "Run Claude Managed Agents with Chat SDK",
-    "url": "https://vercel.com/changelog/claude-managed-agents-with-chat-sdk",
-    "summary": "You can now run Claude Managed Agents with Chat SDK . Claude Managed Agents handles the agent loop server-side, including the model, tools, session state, and sandboxed web research. Chat SDK gives that agent a chat interface through a single type-safe handler, with adapters that carry it to Slack, WhatsApp, and more. What you get Token-by-token streaming : Replies render as the model writes them, over a single streamed response. Live activity feed : Tool calls and model requ",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-07-28",
-    "score": 70
-  },
-  {
-    "title": "Six Agent Harness Capabilities for Higher Model Performance",
-    "url": "https://developer.nvidia.com/blog/six-agent-harness-capabilities-for-higher-model-performance",
-    "summary": "NVIDIA Technical Blog · Six Agent Harness Capabilities for Higher Model Performance",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-07-28",
-    "score": 69
-  },
-  {
-    "title": "How AI is expanding what people do at work",
-    "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-    "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
+    "title": "Scientific computing in the age of agentic AI",
+    "url": "https://openai.com/index/scientific-computing-agentic-ai",
+    "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
     "tags": [
       "ai_models",
       "official",
@@ -66,40 +11,26 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-07-28",
-    "score": 67
+    "date": "2026-07-29",
+    "score": 72
   },
   {
-    "title": "The harness is all you need (mostly)",
-    "url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly",
-    "summary": "A practical GitHub Copilot workflow for prototyping, planning, implementing, and reviewing software without chasing every new AI tool. The post The harness is all you need (mostly) appeared first on The GitHub Blog .",
+    "title": "Disrupting supply chain attacks on npm and GitHub Actions",
+    "url": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions",
+    "summary": "Explore the changes we've shipped across npm and GitHub Actions over the past few months to disrupt supply chain attack techniques and limit their impact. The post Disrupting supply chain attacks on npm and GitHub Actions appeared first on The GitHub Blog .",
     "tags": [
       "ai_coding",
       "developer_tools"
     ],
     "author": "GitHub Copilot",
     "source": "github.blog",
-    "date": "2026-07-28",
+    "date": "2026-07-29",
     "score": 67
   },
   {
-    "title": "Reimagining Independence: How Meta’s AI Models Are Helping the University of Pittsburgh Transform Assistive Robotics",
-    "url": "https://ai.meta.com/blog/assistive-robotics-university-of-pittsburgh-sam-dino",
-    "summary": "AI at Meta Blog · Reimagining Independence: How Meta’s AI Models Are Helping the University of Pittsburgh Transform Assistive Robotics",
-    "tags": [
-      "open_source_model",
-      "research",
-      "llama"
-    ],
-    "author": "Meta AI",
-    "source": "ai.meta.com",
-    "date": "2026-07-28",
-    "score": 66
-  },
-  {
-    "title": "NVIDIA Ising Enables Fully Automated Quantum Computer Calibration with Enhanced In-Context Learning",
-    "url": "https://developer.nvidia.com/blog/nvidia-ising-enables-fully-automated-quantum-computer-calibration-with-enhanced-in-context-learning",
-    "summary": "NVIDIA Technical Blog · NVIDIA Ising Enables Fully Automated Quantum Computer Calibration with Enhanced In-Context Learning",
+    "title": "Developing Healthcare Robotics with GPU-Native Medical Physics Simulation",
+    "url": "https://developer.nvidia.com/blog/developing-healthcare-robotics-with-gpu-native-medical-physics-simulation",
+    "summary": "NVIDIA Technical Blog · Developing Healthcare Robotics with GPU-Native Medical Physics Simulation",
     "tags": [
       "gpu",
       "inference",
@@ -107,27 +38,13 @@
     ],
     "author": "NVIDIA AI",
     "source": "developer.nvidia.com",
-    "date": "2026-07-28",
+    "date": "2026-07-29",
     "score": 66
   },
   {
-    "title": "Advancing Semiconductor Innovation Across Materials Engineering and Manufacturing",
-    "url": "https://developer.nvidia.com/blog/advancing-semiconductor-innovation-across-materials-engineering-and-manufacturing",
-    "summary": "NVIDIA Technical Blog · Advancing Semiconductor Innovation Across Materials Engineering and Manufacturing",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-07-28",
-    "score": 66
-  },
-  {
-    "title": "27 July Security DeepsecBench: evaluating model performance in finding cybersecurity vulnerabilities DeepsecBench evaluates model performance in finding security vulnerabilities. Malte Ubl, Eric Dodds",
-    "url": "https://vercel.com/blog/deepsecbench-evaluating-model-performance-in-finding-cybersecurity-vulnerabilities",
-    "summary": "Blog - Vercel · 27 July Security DeepsecBench: evaluating model performance in finding cybersecurity vulnerabilities DeepsecBench evaluates model performance in finding security vulnerabilities. Malte Ubl, Eric Dodds",
+    "title": "How Sandstone grew 40x in 147 days on Vercel",
+    "url": "https://vercel.com/blog/how-sandstone-grew-40x-in-147-days-on-vercel",
+    "summary": "Sandstone on Vercel 1,000+ legal requests managed daily across customer teams 7-app turborepo monorepo deployed seamlessly to multiple Vercel projects Multi-step agentic legal workflows built end-to-end with AI SDK When in-house legal teams get a request from their business, it kicks off a manual process of pulling data from multiple systems. In a typical workflow, lawyers will pull deal details from Salesforce, review past contracts, and chase account teams for missing conte",
     "tags": [
       "sdk",
       "ai_infra",
@@ -135,13 +52,13 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-07-28",
+    "date": "2026-07-29",
     "score": 66
   },
   {
-    "title": "eve adds new Slack event hooks and session controls",
-    "url": "https://vercel.com/changelog/eve-adds-new-slack-event-hooks-and-session-controls",
-    "summary": "eve agents on Slack can now keep replying in a thread without repeated mentions, cancel an in-progress response or reset a conversation entirely, and react to any event your Slack app subscribes to. Continue conversations without repeated mentions Mentions no longer have to carry the conversation. Once a thread has an active session, your agent can reply on its own. The new onMessage hook receives incoming Slack messages, and two helpers decide which ones to handle: ctx.isBot",
+    "title": "WebSocket support is now available for Python Functions",
+    "url": "https://vercel.com/changelog/websocket-support-is-now-available-for-python-functions",
+    "summary": "Vercel now supports WebSocket connections for Python applications. WebSockets enable bidirectional communication between client- and server-side code, powering real-time features like interactive AI streaming, real-time chat, and multiplayer live collaboration. Both ASGI and WSGI applications are supported, including frameworks like FastAPI, Django, and Flask. Explore the FastAPI AI Chat and Flask AI Chat examples, or read the WebSockets documentation to get started. Read mor",
     "tags": [
       "sdk",
       "ai_infra",
@@ -149,69 +66,54 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-07-28",
+    "date": "2026-07-29",
     "score": 66
   },
   {
-    "title": "WebSocket support for OpenAI Responses API live on AI Gateway",
-    "url": "https://vercel.com/changelog/websocket-support-for-openai-responses-api-live-on-ai-gateway",
-    "summary": "AI Gateway now supports WebSocket mode for the OpenAI Responses API. You can keep a persistent connection open and continue each turn by sending only new input items plus previous_response_id , instead of re-sending the full context over a fresh HTTP request every turn. OpenAI reports up to ~40% faster end-to-end execution on WebSockets for agentic rollouts with 20 or more tool calls. Route Responses API traffic over WebSocket The Responses route opens at GET /v1/responses an",
+    "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+    "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+    "summary": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
+      "open_source",
+      "papers",
+      "models"
     ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-07-28",
-    "score": 66
-  },
-  {
-    "title": "The path to artificial superintelligence",
-    "url": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence",
-    "summary": "Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in its domain. But they all have their own distinct knowledge and objectives. Today they can exchange data, but they are not yet able to actually coordinate&#8230;",
-    "tags": [
-      "ai",
-      "research",
-      "society"
-    ],
-    "author": "MIT Technology Review AI",
-    "source": "technologyreview.com",
-    "date": "2026-07-28",
-    "score": 66
-  },
-  {
-    "title": "From zero coding background to hardware hacker: How Cursor + a Raspberry Pi makes AI fun",
-    "url": "https://www.lennysnewsletter.com/p/from-zero-coding-background-to-hardware",
-    "summary": "Watch now | &#127897;&#65039; Maddie Reese built a thermal printer anyone can message, a working Twitter pager, and a personal API using Cursor, a Raspberry Pi, and the radical idea that fun beats practical",
-    "tags": [
-      "product",
-      "growth",
-      "startup"
-    ],
-    "author": "Lenny's Newsletter",
-    "source": "lennysnewsletter.com",
-    "date": "2026-07-28",
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-29",
     "score": 65
   },
   {
-    "title": "Building the enterprise environment for agentic AI",
-    "url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai",
-    "summary": "For the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end across people, business workflows, data, and systems. The platform best-suited to run agents is built with proper CPU capacity, resilient data access, policy-aware tool use, observability, memory management, and the&#8230;",
+    "title": "How LangChain Built an Agent-First Data Stack",
+    "url": "https://www.langchain.com/blog/agent-data-stack",
+    "summary": "Learn how LangChain used Hex, dbt, semantic models, and observability to build a trusted data agent and scale self-service analysis by 40x.",
     "tags": [
-      "ai",
-      "research",
-      "society"
+      "agents",
+      "rag",
+      "framework"
     ],
-    "author": "MIT Technology Review AI",
-    "source": "technologyreview.com",
-    "date": "2026-07-28",
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-07-29",
+    "score": 65
+  },
+  {
+    "title": "Jul 28, 2026 Grok 4.5 in GitHub Copilot",
+    "url": "https://x.ai/news/grok-github-copilot",
+    "summary": "SpaceXAI · Jul 28, 2026 Grok 4.5 in GitHub Copilot",
+    "tags": [
+      "ai_models",
+      "reasoning"
+    ],
+    "author": "xAI",
+    "source": "x.ai",
+    "date": "2026-07-29",
     "score": 64
   },
   {
-    "title": "Regional inference now available on AI Gateway",
-    "url": "https://vercel.com/changelog/regional-inference-now-available-on-ai-gateway",
-    "summary": "AI Gateway now supports regional inference . Set inferenceRegion on a request to pin it to the US or EU. Every model provider that supports the selected region handles it the same way. Inference runs there, and any data the provider keeps is stored there. AI Gateway supports two pinned regions, plus global routing: Region Where inference runs us A US data center eu An EU data center global Any region If no model provider can serve it, the request fails rather than running som",
+    "title": "Vercel Sandbox supports forking",
+    "url": "https://vercel.com/changelog/vercel-sandbox-supports-forking",
+    "summary": "Vercel Sandbox now supports forking with Sandbox.fork() . The fork starts from the source's current snapshot and inherits its config and environment variables. If the source is running, it forks the latest saved state, not the live in-memory state. If the source has no snapshot, it falls back to a fresh create, using the source's runtime and config. Any parameter you pass overrides the inherited value. A fork takes about the same time as creating a sandbox, with the same limi",
     "tags": [
       "sdk",
       "ai_infra",
@@ -219,69 +121,13 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-07-28",
+    "date": "2026-07-29",
     "score": 63
   },
   {
-    "title": "Nuxt July 2026 security advisory",
-    "url": "https://vercel.com/changelog/nuxt-july-2026-security-advisory",
-    "summary": "The Nuxt team has released Nuxt 4.5.1 and 3.21.10, along with @nuxt/devtools 3.3.1, to address eight security advisories, including a high-severity server-side remote code execution vulnerability. Vulnerabilities addressed Vulnerability Severity Advisory Server-side remote code execution via server island props High GHSA-9473-5f9j-94wq Unauthorized component instantiation via server island props Medium GHSA-48hr-524c-v5w3 Route rule authorization bypass High GHSA-hxvh-4h3w-pr",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-07-28",
-    "score": 63
-  },
-  {
-    "title": "Kimi K3 and Kimi K3 Fast with ZDR and US-based providers now on AI Gateway",
-    "url": "https://vercel.com/changelog/kimi-k3-and-kimi-k3-fast-on-ai-gateway",
-    "summary": "Kimi K3 from Moonshot AI and its faster serving path, Kimi K3 Fast , are now available from US-based providers on AI Gateway, including Baseten and Fireworks. Zero Data Retention (ZDR) is also supported for both models. Running Kimi K3 on US-based providers lets teams with data residency and compliance requirements use the model on US infrastructure. Because AI Gateway serves the models from multiple providers, it automatically routes across them for failover, higher uptime, ",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-07-28",
-    "score": 63
-  },
-  {
-    "title": "Jul 27, 2026 Announcements Our position on open-weights models",
-    "url": "https://www.anthropic.com/news/position-open-weights-models",
-    "summary": "Newsroom \\ Anthropic · Jul 27, 2026 Announcements Our position on open-weights models",
-    "tags": [
-      "ai_models",
-      "safety",
-      "official"
-    ],
-    "author": "Anthropic",
-    "source": "anthropic.com",
-    "date": "2026-07-28",
-    "score": 62
-  },
-  {
-    "title": "Jul 27, 2026 Announcements Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
-    "url": "https://www.anthropic.com/news/cognizant-anthropic",
-    "summary": "Newsroom \\ Anthropic · Jul 27, 2026 Announcements Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
-    "tags": [
-      "ai_models",
-      "safety",
-      "official"
-    ],
-    "author": "Anthropic",
-    "source": "anthropic.com",
-    "date": "2026-07-28",
-    "score": 62
-  },
-  {
-    "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-    "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
-    "summary": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+    "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+    "summary": "The OlmoEarth Platform: Geospatial inference at planetary scale 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -289,13 +135,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-28",
+    "date": "2026-07-29",
     "score": 62
   },
   {
-    "title": "Continuous batching from first principles",
-    "url": "https://huggingface.co/blog/continuous_batching",
-    "summary": "Continuous batching from first principles 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+    "summary": "LFM2.5-Encoders for Fast Long-Context Inference on CPU 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -303,13 +149,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-28",
+    "date": "2026-07-29",
     "score": 62
   },
   {
-    "title": "OVHcloud on Hugging Face Inference Providers 🔥",
-    "url": "https://huggingface.co/blog/OVHcloud/inference-providers-ovhcloud",
-    "summary": "OVHcloud on Hugging Face Inference Providers 🔥 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Open ASR Leaderboard: Trends and Insights with New Multilingual & Long-Form Tracks",
+    "url": "https://huggingface.co/blog/open-asr-leaderboard",
+    "summary": "Open ASR Leaderboard: Trends and Insights with New Multilingual & Long-Form Tracks 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -317,7 +163,133 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-28",
+    "date": "2026-07-29",
+    "score": 62
+  },
+  {
+    "title": "Introducing AnyLanguageModel: One API for Local and Remote LLMs on Apple Platforms",
+    "url": "https://huggingface.co/blog/anylanguagemodel",
+    "summary": "Introducing AnyLanguageModel: One API for Local and Remote LLMs on Apple Platforms 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-29",
+    "score": 62
+  },
+  {
+    "title": "Easily Build and Share ROCm Kernels with Hugging Face",
+    "url": "https://huggingface.co/blog/build-rocm-kernels",
+    "summary": "Easily Build and Share ROCm Kernels with Hugging Face 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-29",
+    "score": 62
+  },
+  {
+    "title": "Join the AMD Open Robotics Hackathon",
+    "url": "https://huggingface.co/blog/amd/openroboticshackathon",
+    "summary": "Join the AMD Open Robotics Hackathon 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-29",
+    "score": 62
+  },
+  {
+    "title": "Building for an Open Future - our new partnership with Google Cloud",
+    "url": "https://huggingface.co/blog/google-cloud",
+    "summary": "Building for an Open Future - our new partnership with Google Cloud 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-29",
+    "score": 62
+  },
+  {
+    "title": "On the Shifting Global Compute Landscape",
+    "url": "https://huggingface.co/blog/huggingface/shifting-compute-landscape",
+    "summary": "On the Shifting Global Compute Landscape 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-29",
+    "score": 62
+  },
+  {
+    "title": "Building a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac",
+    "url": "https://huggingface.co/blog/lerobotxnvidia-healthcare",
+    "summary": "Building a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-29",
+    "score": 62
+  },
+  {
+    "title": "How to Build a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac for Healthcare",
+    "url": "https://huggingface.co/blog/nvidia/nvidia-isaac-for-healthcare",
+    "summary": "How to Build a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac for Healthcare 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-29",
+    "score": 62
+  },
+  {
+    "title": "Granite 4.0 Nano: Just how small can you go?",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-4-nano",
+    "summary": "Granite 4.0 Nano: Just how small can you go? 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-29",
+    "score": 62
+  },
+  {
+    "title": "Voice Cloning with Consent",
+    "url": "https://huggingface.co/blog/voice-consent-gate",
+    "summary": "Voice Cloning with Consent 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-29",
     "score": 62
   }
 ]
