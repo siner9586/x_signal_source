@@ -11146,5 +11146,215 @@
     "cluster_id": "huggingface_co_3862d244",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6c9d43414f0f6e3d",
+    "canonical_url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+    "dedupe_key": "bf56143baa615084",
+    "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+    "issue_date": "2026-07-30",
+    "cluster_id": "openai_com_537ae412",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5023efdd7479ef87",
+    "canonical_url": "https://openai.com/index/chatgpt-for-academic-researchers",
+    "dedupe_key": "061ce7b6bb7d0279",
+    "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+    "issue_date": "2026-07-30",
+    "cluster_id": "openai_com_97fe4a97",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ca2900cfa72be714",
+    "canonical_url": "https://developer.nvidia.com/blog/how-to-self-host-a-validated-ai-coding-assistant-with-nvidia-nemo-guardrails",
+    "dedupe_key": "dc42c951c8cce28a",
+    "title": "How to Self-Host a Validated AI Coding Assistant with NVIDIA NeMo Guardrails",
+    "issue_date": "2026-07-30",
+    "cluster_id": "developer_nvidia_com_107a0597",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_488f0d079e7af65e",
+    "canonical_url": "https://vercel.com/changelog/discover-and-install-eve-integrations-from-the-cli",
+    "dedupe_key": "f0c0e0217864227a",
+    "title": "Discover and install eve integrations from the CLI",
+    "issue_date": "2026-07-30",
+    "cluster_id": "vercel_com_429cd20e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_193a20a7c4d32f3d",
+    "canonical_url": "https://www.langchain.com/blog/how-similarweb-evaluates-long-form-agent-research-reports-with-langsmith",
+    "dedupe_key": "c326e18168576567",
+    "title": "How Similarweb Evaluates Agent Reports with LangSmith",
+    "issue_date": "2026-07-30",
+    "cluster_id": "langchain_com_60e8642e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7d3a15e8ce78d875",
+    "canonical_url": "https://github.blog/security/supply-chain-security/tame-dependabot-group-your-updates-slow-the-cadence-keep-security-fast",
+    "dedupe_key": "009d897c8b889e33",
+    "title": "Tame Dependabot: Group your updates, slow the cadence, keep security fast",
+    "issue_date": "2026-07-30",
+    "cluster_id": "github_blog_406f9a74",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_308db50000306d46",
+    "canonical_url": "https://a16z.com/podcast/can-anyone-catch-nvidia-the-future-of-chips-and-infrastructure",
+    "dedupe_key": "2fa18f5ad8fca4d1",
+    "title": "Can Anyone Catch NVIDIA? | The Future of Chips and Infrastructure",
+    "issue_date": "2026-07-30",
+    "cluster_id": "a16z_com_69d517d9",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_75958e4f757e80ac",
+    "canonical_url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control",
+    "dedupe_key": "233beeedf0e50fbd",
+    "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+    "issue_date": "2026-07-30",
+    "cluster_id": "deepmind_google_2b7f8aff",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_358ee4edaf2f7dd0",
+    "canonical_url": "https://a16z.com/podcast/building-ai-for-creators-luma-phota-labs",
+    "dedupe_key": "217654a2a40a5e3e",
+    "title": "Building AI for Creators | Luma & Phota Labs",
+    "issue_date": "2026-07-30",
+    "cluster_id": "a16z_com_ef5823be",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_096a699db41b4609",
+    "canonical_url": "https://vercel.com/changelog/additional-custom-environments-can-now-be-purchased",
+    "dedupe_key": "3174bac4aafc6bc4",
+    "title": "Additional custom environments can now be purchased",
+    "issue_date": "2026-07-30",
+    "cluster_id": "vercel_com_7456f812",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2deaf875844b725e",
+    "canonical_url": "https://vercel.com/changelog/vercel-connect-now-supports-custom-environments",
+    "dedupe_key": "f10c099774e61705",
+    "title": "Vercel Connect now supports Custom Environments",
+    "issue_date": "2026-07-30",
+    "cluster_id": "vercel_com_cef4fb19",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5530e7d37caf37f3",
+    "canonical_url": "https://www.langchain.com/blog/deep-agents-v0-7",
+    "dedupe_key": "70908b2df6e19ee2",
+    "title": "Deep Agents v0.7",
+    "issue_date": "2026-07-30",
+    "cluster_id": "langchain_com_832127c2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6efaeddb0650bc02",
+    "canonical_url": "https://a16z.com/podcast/rick-rubin-on-ai-creativity-and-the-way-of-code",
+    "dedupe_key": "6d8bd7da1d558d3a",
+    "title": "Rick Rubin on AI, Creativity, and The Way of Code",
+    "issue_date": "2026-07-30",
+    "cluster_id": "a16z_com_600b9389",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_573f109ad3af0545",
+    "canonical_url": "https://a16z.com/podcast/beyond-pdoom-marc-andreessen-betting-on-america",
+    "dedupe_key": "691df00c845028f2",
+    "title": "Beyond P(doom): Marc Andreessen &ndash; Betting on America",
+    "issue_date": "2026-07-30",
+    "cluster_id": "a16z_com_9a6b3737",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_16a0ee2ca8a3869a",
+    "canonical_url": "https://a16z.com/podcast/ai-is-crossing-the-frontier-of-human-knowledge-kevin-weil",
+    "dedupe_key": "5b2c6ef65ce2beb5",
+    "title": "AI Is Crossing the Frontier of Human Knowledge | Kevin Weil",
+    "issue_date": "2026-07-30",
+    "cluster_id": "a16z_com_9c3449fa",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9b695c88a0a3fc52",
+    "canonical_url": "https://a16z.com/podcast/marc-andreessen-on-ai-technology-and-the-future-of-humanity",
+    "dedupe_key": "67c8f0a2a92a8b5c",
+    "title": "Marc Andreessen on AI, Technology, and the Future of Humanity",
+    "issue_date": "2026-07-30",
+    "cluster_id": "a16z_com_e620bbb4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7a7455daf0767a08",
+    "canonical_url": "https://a16z.com/podcast/what-happens-to-design-after-ai",
+    "dedupe_key": "590d4f5cb5f241ec",
+    "title": "What Happens to Design After AI?",
+    "issue_date": "2026-07-30",
+    "cluster_id": "a16z_com_41ba9ceb",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e461172fae5e164c",
+    "canonical_url": "https://vercel.com/changelog/edge-config-is-now-global-config",
+    "dedupe_key": "28332c9a390215d1",
+    "title": "Edge Config is now Global Config",
+    "issue_date": "2026-07-30",
+    "cluster_id": "vercel_com_bc31a439",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_25206929d2d74c36",
+    "canonical_url": "https://vercel.com/changelog/ai-gateway-adds-unified-fast-mode-support",
+    "dedupe_key": "6cd7b773fee5abbd",
+    "title": "AI Gateway adds unified fast mode support",
+    "issue_date": "2026-07-30",
+    "cluster_id": "vercel_com_655d9d0f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8d4b985811a37d20",
+    "canonical_url": "https://vercel.com/changelog/sign-in-with-chatgpt-is-now-available-on-vercel",
+    "dedupe_key": "b2e1fdb0e6feba79",
+    "title": "Sign in with ChatGPT is now available on Vercel",
+    "issue_date": "2026-07-30",
+    "cluster_id": "vercel_com_c220ff94",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_aa7271456dde79e3",
+    "canonical_url": "https://huggingface.co/blog/huggingface-hub-v1",
+    "dedupe_key": "4553ab6e1cff2fa9",
+    "title": "huggingface_hub v1.0: Five Years of Building the Foundation of Open Machine Learning",
+    "issue_date": "2026-07-30",
+    "cluster_id": "huggingface_co_1526242c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]

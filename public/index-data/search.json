@@ -1,8 +1,8 @@
 [
   {
-    "title": "Scientific computing in the age of agentic AI",
-    "url": "https://openai.com/index/scientific-computing-agentic-ai",
-    "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
+    "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+    "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+    "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
     "tags": [
       "ai_models",
       "official",
@@ -11,26 +11,28 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-07-29",
-    "score": 72
+    "date": "2026-07-30",
+    "score": 70
   },
   {
-    "title": "Disrupting supply chain attacks on npm and GitHub Actions",
-    "url": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions",
-    "summary": "Explore the changes we've shipped across npm and GitHub Actions over the past few months to disrupt supply chain attack techniques and limit their impact. The post Disrupting supply chain attacks on npm and GitHub Actions appeared first on The GitHub Blog .",
+    "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+    "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+    "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
     "tags": [
-      "ai_coding",
-      "developer_tools"
+      "ai_models",
+      "official",
+      "research",
+      "developer"
     ],
-    "author": "GitHub Copilot",
-    "source": "github.blog",
-    "date": "2026-07-29",
-    "score": 67
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-07-30",
+    "score": 69
   },
   {
-    "title": "Developing Healthcare Robotics with GPU-Native Medical Physics Simulation",
-    "url": "https://developer.nvidia.com/blog/developing-healthcare-robotics-with-gpu-native-medical-physics-simulation",
-    "summary": "NVIDIA Technical Blog · Developing Healthcare Robotics with GPU-Native Medical Physics Simulation",
+    "title": "How to Self-Host a Validated AI Coding Assistant with NVIDIA NeMo Guardrails",
+    "url": "https://developer.nvidia.com/blog/how-to-self-host-a-validated-ai-coding-assistant-with-nvidia-nemo-guardrails",
+    "summary": "NVIDIA Technical Blog · How to Self-Host a Validated AI Coding Assistant with NVIDIA NeMo Guardrails",
     "tags": [
       "gpu",
       "inference",
@@ -38,13 +40,13 @@
     ],
     "author": "NVIDIA AI",
     "source": "developer.nvidia.com",
-    "date": "2026-07-29",
-    "score": 66
+    "date": "2026-07-30",
+    "score": 69
   },
   {
-    "title": "How Sandstone grew 40x in 147 days on Vercel",
-    "url": "https://vercel.com/blog/how-sandstone-grew-40x-in-147-days-on-vercel",
-    "summary": "Sandstone on Vercel 1,000+ legal requests managed daily across customer teams 7-app turborepo monorepo deployed seamlessly to multiple Vercel projects Multi-step agentic legal workflows built end-to-end with AI SDK When in-house legal teams get a request from their business, it kicks off a manual process of pulling data from multiple systems. In a typical workflow, lawyers will pull deal details from Salesforce, review past contracts, and chase account teams for missing conte",
+    "title": "Discover and install eve integrations from the CLI",
+    "url": "https://vercel.com/changelog/discover-and-install-eve-integrations-from-the-cli",
+    "summary": "You can now discover and install integrations for eve agents directly from the eve CLI. Integrations come from the official eve catalog and third-party sources. Run eve add from your eve project to install an integration: Integrations write their files directly into your project and can add anything an eve agent uses, from a single tool to a channel to a full extension. Review the generated files and add any required configuration before running your agent. Find integrations ",
     "tags": [
       "sdk",
       "ai_infra",
@@ -52,41 +54,13 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-07-29",
-    "score": 66
+    "date": "2026-07-30",
+    "score": 68
   },
   {
-    "title": "WebSocket support is now available for Python Functions",
-    "url": "https://vercel.com/changelog/websocket-support-is-now-available-for-python-functions",
-    "summary": "Vercel now supports WebSocket connections for Python applications. WebSockets enable bidirectional communication between client- and server-side code, powering real-time features like interactive AI streaming, real-time chat, and multiplayer live collaboration. Both ASGI and WSGI applications are supported, including frameworks like FastAPI, Django, and Flask. Explore the FastAPI AI Chat and Flask AI Chat examples, or read the WebSockets documentation to get started. Read mor",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-07-29",
-    "score": 66
-  },
-  {
-    "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
-    "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-    "summary": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-29",
-    "score": 65
-  },
-  {
-    "title": "How LangChain Built an Agent-First Data Stack",
-    "url": "https://www.langchain.com/blog/agent-data-stack",
-    "summary": "Learn how LangChain used Hex, dbt, semantic models, and observability to build a trusted data agent and scale self-service analysis by 40x.",
+    "title": "How Similarweb Evaluates Agent Reports with LangSmith",
+    "url": "https://www.langchain.com/blog/how-similarweb-evaluates-long-form-agent-research-reports-with-langsmith",
+    "summary": "Learn how Similarweb uses LangSmith to evaluate long-form agent research reports with rubrics, faithfulness checks, traces, and baseline comparisons.",
     "tags": [
       "agents",
       "rag",
@@ -94,26 +68,69 @@
     ],
     "author": "LangChain",
     "source": "langchain.com",
-    "date": "2026-07-29",
-    "score": 65
+    "date": "2026-07-30",
+    "score": 68
   },
   {
-    "title": "Jul 28, 2026 Grok 4.5 in GitHub Copilot",
-    "url": "https://x.ai/news/grok-github-copilot",
-    "summary": "SpaceXAI · Jul 28, 2026 Grok 4.5 in GitHub Copilot",
+    "title": "Tame Dependabot: Group your updates, slow the cadence, keep security fast",
+    "url": "https://github.blog/security/supply-chain-security/tame-dependabot-group-your-updates-slow-the-cadence-keep-security-fast",
+    "summary": "Dependabot keeps your dependencies current, but its defaults can flood your repository with pull requests. Here's how grouping updates, slowing the cadence, and keeping security fixes fast cut the noise on a Microsoft open source project. The post Tame Dependabot: Group your updates, slow the cadence, keep security fast appeared first on The GitHub Blog .",
     "tags": [
-      "ai_models",
-      "reasoning"
+      "ai_coding",
+      "developer_tools"
     ],
-    "author": "xAI",
-    "source": "x.ai",
-    "date": "2026-07-29",
-    "score": 64
+    "author": "GitHub Copilot",
+    "source": "github.blog",
+    "date": "2026-07-30",
+    "score": 67
   },
   {
-    "title": "Vercel Sandbox supports forking",
-    "url": "https://vercel.com/changelog/vercel-sandbox-supports-forking",
-    "summary": "Vercel Sandbox now supports forking with Sandbox.fork() . The fork starts from the source's current snapshot and inherits its config and environment variables. If the source is running, it forks the latest saved state, not the live in-memory state. If the source has no snapshot, it falls back to a fresh create, using the source's runtime and config. Any parameter you pass overrides the inherited value. A fork takes about the same time as creating a sandbox, with the same limi",
+    "title": "Can Anyone Catch NVIDIA? | The Future of Chips and Infrastructure",
+    "url": "https://a16z.com/podcast/can-anyone-catch-nvidia-the-future-of-chips-and-infrastructure",
+    "summary": "AI a16z | Andreessen Horowitz · Can Anyone Catch NVIDIA? | The Future of Chips and Infrastructure",
+    "tags": [
+      "investment",
+      "startup",
+      "thesis"
+    ],
+    "author": "a16z AI",
+    "source": "a16z.com",
+    "date": "2026-07-30",
+    "score": 67
+  },
+  {
+    "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+    "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control",
+    "summary": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control 是 Google DeepMind 当日抓取到的公开新增条目。",
+    "tags": [
+      "research",
+      "multimodal",
+      "science",
+      "official"
+    ],
+    "author": "Google DeepMind",
+    "source": "deepmind.google",
+    "date": "2026-07-30",
+    "score": 66
+  },
+  {
+    "title": "Building AI for Creators | Luma & Phota Labs",
+    "url": "https://a16z.com/podcast/building-ai-for-creators-luma-phota-labs",
+    "summary": "AI a16z | Andreessen Horowitz · Building AI for Creators | Luma & Phota Labs",
+    "tags": [
+      "investment",
+      "startup",
+      "thesis"
+    ],
+    "author": "a16z AI",
+    "source": "a16z.com",
+    "date": "2026-07-30",
+    "score": 66
+  },
+  {
+    "title": "Additional custom environments can now be purchased",
+    "url": "https://vercel.com/changelog/additional-custom-environments-can-now-be-purchased",
+    "summary": "Pro and Enterprise teams can now purchase additional custom environment capacity without contacting sales. Custom environments let you model your team's release process on Vercel. You can add staging , qa , or any named stage between preview and production , and each environment gets its own branch tracking, environment variables, and domains. You can purchase or adjust capacity from the dashboard, API, or CLI. Dashboard Project → Settings → Environments → Custom Environments",
     "tags": [
       "sdk",
       "ai_infra",
@@ -121,41 +138,153 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-07-29",
+    "date": "2026-07-30",
+    "score": 65
+  },
+  {
+    "title": "Vercel Connect now supports Custom Environments",
+    "url": "https://vercel.com/changelog/vercel-connect-now-supports-custom-environments",
+    "summary": "Vercel Connect now lets you link a connector to a Custom Environment so deployments there can request provider tokens and receive forwarded webhooks. Custom Environments appear alongside Production, Preview, and Development when you add or edit a project on a connector in the dashboard. From the CLI, pass the environment's slug to --environment : Passing --environment replaces the default environments. Once linked, a deployment in that environment can request tokens with getT",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-07-30",
+    "score": 65
+  },
+  {
+    "title": "Deep Agents v0.7",
+    "url": "https://www.langchain.com/blog/deep-agents-v0-7",
+    "summary": "Today we're shipping deep agents v0.7. This release simplifies the base harness, resulting in 65% fewer base input tokens at comparable performance.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-07-30",
+    "score": 64
+  },
+  {
+    "title": "Rick Rubin on AI, Creativity, and The Way of Code",
+    "url": "https://a16z.com/podcast/rick-rubin-on-ai-creativity-and-the-way-of-code",
+    "summary": "AI a16z | Andreessen Horowitz · Rick Rubin on AI, Creativity, and The Way of Code",
+    "tags": [
+      "investment",
+      "startup",
+      "thesis"
+    ],
+    "author": "a16z AI",
+    "source": "a16z.com",
+    "date": "2026-07-30",
+    "score": 64
+  },
+  {
+    "title": "Beyond P(doom): Marc Andreessen &ndash; Betting on America",
+    "url": "https://a16z.com/podcast/beyond-pdoom-marc-andreessen-betting-on-america",
+    "summary": "AI a16z | Andreessen Horowitz · Beyond P(doom): Marc Andreessen &ndash; Betting on America",
+    "tags": [
+      "investment",
+      "startup",
+      "thesis"
+    ],
+    "author": "a16z AI",
+    "source": "a16z.com",
+    "date": "2026-07-30",
+    "score": 64
+  },
+  {
+    "title": "AI Is Crossing the Frontier of Human Knowledge | Kevin Weil",
+    "url": "https://a16z.com/podcast/ai-is-crossing-the-frontier-of-human-knowledge-kevin-weil",
+    "summary": "AI a16z | Andreessen Horowitz · AI Is Crossing the Frontier of Human Knowledge | Kevin Weil",
+    "tags": [
+      "investment",
+      "startup",
+      "thesis"
+    ],
+    "author": "a16z AI",
+    "source": "a16z.com",
+    "date": "2026-07-30",
+    "score": 64
+  },
+  {
+    "title": "Marc Andreessen on AI, Technology, and the Future of Humanity",
+    "url": "https://a16z.com/podcast/marc-andreessen-on-ai-technology-and-the-future-of-humanity",
+    "summary": "AI a16z | Andreessen Horowitz · Marc Andreessen on AI, Technology, and the Future of Humanity",
+    "tags": [
+      "investment",
+      "startup",
+      "thesis"
+    ],
+    "author": "a16z AI",
+    "source": "a16z.com",
+    "date": "2026-07-30",
+    "score": 64
+  },
+  {
+    "title": "What Happens to Design After AI?",
+    "url": "https://a16z.com/podcast/what-happens-to-design-after-ai",
+    "summary": "AI a16z | Andreessen Horowitz · What Happens to Design After AI?",
+    "tags": [
+      "investment",
+      "startup",
+      "thesis"
+    ],
+    "author": "a16z AI",
+    "source": "a16z.com",
+    "date": "2026-07-30",
+    "score": 64
+  },
+  {
+    "title": "Edge Config is now Global Config",
+    "url": "https://vercel.com/changelog/edge-config-is-now-global-config",
+    "summary": "Edge Config is now Global Config . This rename better reflects that it is a globally replicated data store with ~1ms reads in every region, built for the configuration that applications read at runtime, such as feature flags, redirects, and experimentation settings. Global Config stores can now hold up to 1 MB on every plan, and Pro and Enterprise teams can create unlimited stores with more writes per day. The rename also ships with a new server-side SDK, @vercel/global-confi",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-07-30",
     "score": 63
   },
   {
-    "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
-    "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
-    "summary": "The OlmoEarth Platform: Geospatial inference at planetary scale 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "AI Gateway adds unified fast mode support",
+    "url": "https://vercel.com/changelog/ai-gateway-adds-unified-fast-mode-support",
+    "summary": "AI Gateway has a unified fast mode abstraction, now in beta. You can now request fast mode the same way for every model on AI Gateway. Set speed to fast , and the gateway serves the fast tier when it's available and falls back to standard speed when it isn't. Fast mode trades a higher per-token cost for lower latency or higher throughput. You get it wherever it is available, without pinning a provider or wiring anything up yourself. Requesting fast mode Set speed to fast unde",
     "tags": [
-      "open_source",
-      "papers",
-      "models"
+      "sdk",
+      "ai_infra",
+      "frontend"
     ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-29",
-    "score": 62
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-07-30",
+    "score": 63
   },
   {
-    "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
-    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
-    "summary": "LFM2.5-Encoders for Fast Long-Context Inference on CPU 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Sign in with ChatGPT is now available on Vercel",
+    "url": "https://vercel.com/changelog/sign-in-with-chatgpt-is-now-available-on-vercel",
+    "summary": "Sign in with ChatGPT adds your ChatGPT account as an authentication option for Vercel. It is available when adding the Vercel plugin to ChatGPT and when signing in to Vercel or v0. When you add the Vercel plugin to ChatGPT, you can easily sign in to Vercel and grant team and project permissions without leaving ChatGPT. \"Continue with ChatGPT\" also appears as a sign-in option on the Vercel and v0 sign-in and sign-up pages. Team requirements like 2FA and SSO still apply. You ca",
     "tags": [
-      "open_source",
-      "papers",
-      "models"
+      "sdk",
+      "ai_infra",
+      "frontend"
     ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-29",
-    "score": 62
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-07-30",
+    "score": 63
   },
   {
-    "title": "Open ASR Leaderboard: Trends and Insights with New Multilingual & Long-Form Tracks",
-    "url": "https://huggingface.co/blog/open-asr-leaderboard",
-    "summary": "Open ASR Leaderboard: Trends and Insights with New Multilingual & Long-Form Tracks 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "huggingface_hub v1.0: Five Years of Building the Foundation of Open Machine Learning",
+    "url": "https://huggingface.co/blog/huggingface-hub-v1",
+    "summary": "huggingface_hub v1.0: Five Years of Building the Foundation of Open Machine Learning 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -163,133 +292,7 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-29",
-    "score": 62
-  },
-  {
-    "title": "Introducing AnyLanguageModel: One API for Local and Remote LLMs on Apple Platforms",
-    "url": "https://huggingface.co/blog/anylanguagemodel",
-    "summary": "Introducing AnyLanguageModel: One API for Local and Remote LLMs on Apple Platforms 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-29",
-    "score": 62
-  },
-  {
-    "title": "Easily Build and Share ROCm Kernels with Hugging Face",
-    "url": "https://huggingface.co/blog/build-rocm-kernels",
-    "summary": "Easily Build and Share ROCm Kernels with Hugging Face 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-29",
-    "score": 62
-  },
-  {
-    "title": "Join the AMD Open Robotics Hackathon",
-    "url": "https://huggingface.co/blog/amd/openroboticshackathon",
-    "summary": "Join the AMD Open Robotics Hackathon 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-29",
-    "score": 62
-  },
-  {
-    "title": "Building for an Open Future - our new partnership with Google Cloud",
-    "url": "https://huggingface.co/blog/google-cloud",
-    "summary": "Building for an Open Future - our new partnership with Google Cloud 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-29",
-    "score": 62
-  },
-  {
-    "title": "On the Shifting Global Compute Landscape",
-    "url": "https://huggingface.co/blog/huggingface/shifting-compute-landscape",
-    "summary": "On the Shifting Global Compute Landscape 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-29",
-    "score": 62
-  },
-  {
-    "title": "Building a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac",
-    "url": "https://huggingface.co/blog/lerobotxnvidia-healthcare",
-    "summary": "Building a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-29",
-    "score": 62
-  },
-  {
-    "title": "How to Build a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac for Healthcare",
-    "url": "https://huggingface.co/blog/nvidia/nvidia-isaac-for-healthcare",
-    "summary": "How to Build a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac for Healthcare 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-29",
-    "score": 62
-  },
-  {
-    "title": "Granite 4.0 Nano: Just how small can you go?",
-    "url": "https://huggingface.co/blog/ibm-granite/granite-4-nano",
-    "summary": "Granite 4.0 Nano: Just how small can you go? 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-29",
-    "score": 62
-  },
-  {
-    "title": "Voice Cloning with Consent",
-    "url": "https://huggingface.co/blog/voice-consent-gate",
-    "summary": "Voice Cloning with Consent 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-07-29",
+    "date": "2026-07-30",
     "score": 62
   }
 ]
