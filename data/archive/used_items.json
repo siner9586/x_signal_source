@@ -11356,5 +11356,235 @@
     "cluster_id": "huggingface_co_1526242c",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8fb4ebb9b6f4bbd4",
+    "canonical_url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+    "dedupe_key": "6d928f1b37e1372e",
+    "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+    "issue_date": "2026-07-31",
+    "cluster_id": "openai_com_b43eb30c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_25b0965352971fff",
+    "canonical_url": "https://developer.nvidia.com/blog/four-ways-to-deploy-more-secure-ai-agents",
+    "dedupe_key": "bada45a687355930",
+    "title": "Four Ways to Deploy More Secure AI Agents",
+    "issue_date": "2026-07-31",
+    "cluster_id": "developer_nvidia_com_f73812a6",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f1f5c666220fb6af",
+    "canonical_url": "https://vercel.com/changelog/inkling-small-now-available-on-ai-gateway",
+    "dedupe_key": "5c4b3ebf719738cb",
+    "title": "Inkling Small from Thinking Machines is now available on AI Gateway",
+    "issue_date": "2026-07-31",
+    "cluster_id": "vercel_com_0f6649d0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f25e1c7d5a759253",
+    "canonical_url": "https://vercel.com/blog/shopify-and-vercel-are-rebuilding-hydrogen-for-faster-storefronts",
+    "dedupe_key": "940549c74d9529f7",
+    "title": "Shopify and Vercel are rebuilding Hydrogen for faster storefronts",
+    "issue_date": "2026-07-31",
+    "cluster_id": "vercel_com_aa4823c9",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d981a6b6b2a41bd3",
+    "canonical_url": "https://vercel.com/changelog/grok-voice-think-fast-2-0-now-available-on-ai-gateway",
+    "dedupe_key": "3b0b6fd2420900a8",
+    "title": "Grok Voice Think Fast 2.0 now available on AI Gateway",
+    "issue_date": "2026-07-31",
+    "cluster_id": "vercel_com_79f08b45",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f1f6d23423247481",
+    "canonical_url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+    "dedupe_key": "c58310b20bdd03aa",
+    "title": "Advancing the price-performance frontier with GPT-5.6",
+    "issue_date": "2026-07-31",
+    "cluster_id": "openai_com_23ac23d5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b76f744ce2337dcd",
+    "canonical_url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app",
+    "dedupe_key": "cc19476b3c991acc",
+    "title": "Stacked sessions and pull requests in the GitHub Copilot app",
+    "issue_date": "2026-07-31",
+    "cluster_id": "github_blog_f738dbdd",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_654d5a9340e7eb39",
+    "canonical_url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration",
+    "dedupe_key": "0843d8918e032fb3",
+    "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+    "issue_date": "2026-07-31",
+    "cluster_id": "deepmind_google_130b51eb",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e92e222f110457eb",
+    "canonical_url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots",
+    "dedupe_key": "9d79ee1561f04910",
+    "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+    "issue_date": "2026-07-31",
+    "cluster_id": "deepmind_google_7570056c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f9fda98220777505",
+    "canonical_url": "https://developer.nvidia.com/blog/nvidia-exemplar-cloud-lessons-for-unlocking-full-performance-on-ai-infrastructure",
+    "dedupe_key": "c656e11f1bcb047d",
+    "title": "NVIDIA Exemplar Cloud: Lessons for Unlocking Full Performance on AI Infrastructure",
+    "issue_date": "2026-07-31",
+    "cluster_id": "developer_nvidia_com_912bdf41",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_462e6d96bd5b74fb",
+    "canonical_url": "https://vercel.com/changelog/run-multiple-isolated-agents-in-a-single-sandbox",
+    "dedupe_key": "d22ac1f939443e47",
+    "title": "Run multiple isolated agents in a single Sandbox",
+    "issue_date": "2026-07-31",
+    "cluster_id": "vercel_com_c6050650",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_da8b4b3664318a57",
+    "canonical_url": "https://vercel.com/changelog/turborepo-and-remote-cache-now-support-openid-connect-oidc",
+    "dedupe_key": "3e5073d83f0e5cbe",
+    "title": "Turborepo and Vercel Remote Cache now support OpenID Connect (OIDC)",
+    "issue_date": "2026-07-31",
+    "cluster_id": "vercel_com_77b93f75",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_af1ab185b247f70a",
+    "canonical_url": "https://vercel.com/changelog/latest-mcp-spec-now-supported-in-mcp-handler",
+    "dedupe_key": "b8afd88d557a086d",
+    "title": "Latest MCP spec now supported in mcp-handler",
+    "issue_date": "2026-07-31",
+    "cluster_id": "vercel_com_8b0286cb",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0d3bb8bfb144b5f6",
+    "canonical_url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack",
+    "dedupe_key": "c3c3e9e958b528b4",
+    "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+    "issue_date": "2026-07-31",
+    "cluster_id": "technologyreview_com_22e02bf7",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_754bc819838391d3",
+    "canonical_url": "https://vercel.com/changelog/server-timing-header",
+    "dedupe_key": "f1d054c87b94ab9a",
+    "title": "Server-Timing response headers will pass through to the client",
+    "issue_date": "2026-07-31",
+    "cluster_id": "vercel_com_d662aed2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f3e4da5bbde85fd6",
+    "canonical_url": "https://vercel.com/changelog/ai-gateway-gpt-5-6-pricing-speed-updates",
+    "dedupe_key": "be793b3919790800",
+    "title": "AI Gateway: GPT-5.6 pricing and speed updates",
+    "issue_date": "2026-07-31",
+    "cluster_id": "vercel_com_81840053",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_33c88c8451d33529",
+    "canonical_url": "https://vercel.com/changelog/deployments-are-now-up-to-7-seconds-faster",
+    "dedupe_key": "8fa1615c422e5bcf",
+    "title": "Deployments are now up to 7 seconds faster",
+    "issue_date": "2026-07-31",
+    "cluster_id": "vercel_com_26c71241",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7a07776d57489aa1",
+    "canonical_url": "https://vercel.com/changelog/introducing-enterprise-flexible-commitment-for-vercel-marketplace",
+    "dedupe_key": "1279fd7149f911c6",
+    "title": "Introducing Enterprise Flexible Commitment for Vercel Marketplace",
+    "issue_date": "2026-07-31",
+    "cluster_id": "vercel_com_b228f834",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_36d23eb3f9981256",
+    "canonical_url": "https://vercel.com/changelog/project-scoped-tokens",
+    "dedupe_key": "98d26b1ec238929b",
+    "title": "Project-scoped Tokens",
+    "issue_date": "2026-07-31",
+    "cluster_id": "vercel_com_69f7dc68",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_05dd99b26b1ea490",
+    "canonical_url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+    "dedupe_key": "cbbe4c46f0249799",
+    "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+    "issue_date": "2026-07-31",
+    "cluster_id": "huggingface_co_b6899e4b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4a82a6a6d93ea874",
+    "canonical_url": "https://huggingface.co/blog/lerobot-release-v040",
+    "dedupe_key": "de7e3bbdf12c6153",
+    "title": "LeRobot v0.4.0: Supercharging OSS Robot Learning",
+    "issue_date": "2026-07-31",
+    "cluster_id": "huggingface_co_6ebb2590",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_fcd8c333fafc9302",
+    "canonical_url": "https://huggingface.co/blog/sentence-transformers-joins-hf",
+    "dedupe_key": "73e854fce8011b19",
+    "title": "Sentence Transformers is joining Hugging Face!",
+    "issue_date": "2026-07-31",
+    "cluster_id": "huggingface_co_065be5af",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_339464f8016eb75d",
+    "canonical_url": "https://huggingface.co/blog/ocr-open-models",
+    "dedupe_key": "219c9f020a83271a",
+    "title": "Supercharge your OCR Pipelines with Open Models",
+    "issue_date": "2026-07-31",
+    "cluster_id": "huggingface_co_a02d7b3c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]

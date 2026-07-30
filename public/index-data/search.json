@@ -1,8 +1,8 @@
 [
   {
-    "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-    "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-    "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
+    "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+    "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+    "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
     "tags": [
       "ai_models",
       "official",
@@ -11,28 +11,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-07-30",
-    "score": 70
+    "date": "2026-07-31",
+    "score": 71
   },
   {
-    "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-    "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-    "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-07-30",
-    "score": 69
-  },
-  {
-    "title": "How to Self-Host a Validated AI Coding Assistant with NVIDIA NeMo Guardrails",
-    "url": "https://developer.nvidia.com/blog/how-to-self-host-a-validated-ai-coding-assistant-with-nvidia-nemo-guardrails",
-    "summary": "NVIDIA Technical Blog · How to Self-Host a Validated AI Coding Assistant with NVIDIA NeMo Guardrails",
+    "title": "Four Ways to Deploy More Secure AI Agents",
+    "url": "https://developer.nvidia.com/blog/four-ways-to-deploy-more-secure-ai-agents",
+    "summary": "NVIDIA Technical Blog · Four Ways to Deploy More Secure AI Agents",
     "tags": [
       "gpu",
       "inference",
@@ -40,13 +25,13 @@
     ],
     "author": "NVIDIA AI",
     "source": "developer.nvidia.com",
-    "date": "2026-07-30",
-    "score": 69
+    "date": "2026-07-31",
+    "score": 71
   },
   {
-    "title": "Discover and install eve integrations from the CLI",
-    "url": "https://vercel.com/changelog/discover-and-install-eve-integrations-from-the-cli",
-    "summary": "You can now discover and install integrations for eve agents directly from the eve CLI. Integrations come from the official eve catalog and third-party sources. Run eve add from your eve project to install an integration: Integrations write their files directly into your project and can add anything an eve agent uses, from a single tool to a channel to a full extension. Review the generated files and add any required configuration before running your agent. Find integrations ",
+    "title": "Inkling Small from Thinking Machines is now available on AI Gateway",
+    "url": "https://vercel.com/changelog/inkling-small-now-available-on-ai-gateway",
+    "summary": "Inkling Small from Thinking Machines is now available on AI Gateway. Inkling Small reaches performance comparable to the larger Inkling model at about a quarter of the size, using much less compute per task. It is a broad generalist with native reasoning over audio and images, and it holds up well on reasoning, agentic coding, and tool use. Controllable thinking effort lets you trade quality against cost and latency, from minimal to maximum reasoning. For visual tasks, it can",
     "tags": [
       "sdk",
       "ai_infra",
@@ -54,54 +39,69 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-07-30",
-    "score": 68
+    "date": "2026-07-31",
+    "score": 71
   },
   {
-    "title": "How Similarweb Evaluates Agent Reports with LangSmith",
-    "url": "https://www.langchain.com/blog/how-similarweb-evaluates-long-form-agent-research-reports-with-langsmith",
-    "summary": "Learn how Similarweb uses LangSmith to evaluate long-form agent research reports with rubrics, faithfulness checks, traces, and baseline comparisons.",
+    "title": "Shopify and Vercel are rebuilding Hydrogen for faster storefronts",
+    "url": "https://vercel.com/blog/shopify-and-vercel-are-rebuilding-hydrogen-for-faster-storefronts",
+    "summary": "Shopify and Vercel Open source and runtime agnostic, runs anywhere JavaScript does Standard Actions brings agentic commerce to every storefront Feature development cut from months to a week for retailers like Global Retail Brands Shopify powers commerce for millions of merchants worldwide, and Hydrogen is its framework for building headless storefronts. The Shopify team is partnering with Vercel to rebuild Hydrogen from the ground up. The new version is open source and runtim",
     "tags": [
-      "agents",
-      "rag",
-      "framework"
+      "sdk",
+      "ai_infra",
+      "frontend"
     ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-07-30",
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-07-31",
+    "score": 69
+  },
+  {
+    "title": "Grok Voice Think Fast 2.0 now available on AI Gateway",
+    "url": "https://vercel.com/changelog/grok-voice-think-fast-2-0-now-available-on-ai-gateway",
+    "summary": "Grok Voice Think Fast 2.0 from xAI is now available on AI Gateway. It is a speech-to-speech voice model that takes audio in and audio out, improving on the previous Grok Voice model in reasoning, transcription accuracy, and conversation. The model reasons in parallel with speech, so it can think through a query while talking without adding latency. It has also been trained to use fewer reasoning tokens than before, so tool calls fire sooner, often before the end of the agent'",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-07-31",
     "score": 68
   },
   {
-    "title": "Tame Dependabot: Group your updates, slow the cadence, keep security fast",
-    "url": "https://github.blog/security/supply-chain-security/tame-dependabot-group-your-updates-slow-the-cadence-keep-security-fast",
-    "summary": "Dependabot keeps your dependencies current, but its defaults can flood your repository with pull requests. Here's how grouping updates, slowing the cadence, and keeping security fixes fast cut the noise on a Microsoft open source project. The post Tame Dependabot: Group your updates, slow the cadence, keep security fast appeared first on The GitHub Blog .",
+    "title": "Advancing the price-performance frontier with GPT-5.6",
+    "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+    "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-07-31",
+    "score": 67
+  },
+  {
+    "title": "Stacked sessions and pull requests in the GitHub Copilot app",
+    "url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app",
+    "summary": "Learn how I modernized an old codebase of mine using stacked sessions and pull requests in the GitHub Copilot app. The post Stacked sessions and pull requests in the GitHub Copilot app appeared first on The GitHub Blog .",
     "tags": [
       "ai_coding",
       "developer_tools"
     ],
     "author": "GitHub Copilot",
     "source": "github.blog",
-    "date": "2026-07-30",
+    "date": "2026-07-31",
     "score": 67
   },
   {
-    "title": "Can Anyone Catch NVIDIA? | The Future of Chips and Infrastructure",
-    "url": "https://a16z.com/podcast/can-anyone-catch-nvidia-the-future-of-chips-and-infrastructure",
-    "summary": "AI a16z | Andreessen Horowitz · Can Anyone Catch NVIDIA? | The Future of Chips and Infrastructure",
-    "tags": [
-      "investment",
-      "startup",
-      "thesis"
-    ],
-    "author": "a16z AI",
-    "source": "a16z.com",
-    "date": "2026-07-30",
-    "score": 67
-  },
-  {
-    "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
-    "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control",
-    "summary": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control 是 Google DeepMind 当日抓取到的公开新增条目。",
+    "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+    "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration",
+    "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
     "tags": [
       "research",
       "multimodal",
@@ -110,27 +110,42 @@
     ],
     "author": "Google DeepMind",
     "source": "deepmind.google",
-    "date": "2026-07-30",
+    "date": "2026-07-31",
     "score": 66
   },
   {
-    "title": "Building AI for Creators | Luma & Phota Labs",
-    "url": "https://a16z.com/podcast/building-ai-for-creators-luma-phota-labs",
-    "summary": "AI a16z | Andreessen Horowitz · Building AI for Creators | Luma & Phota Labs",
+    "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+    "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots",
+    "summary": "Gemini Robotics 2 brings whole body intelligence to robots 是 Google DeepMind 当日抓取到的公开新增条目。",
     "tags": [
-      "investment",
-      "startup",
-      "thesis"
+      "research",
+      "multimodal",
+      "science",
+      "official"
     ],
-    "author": "a16z AI",
-    "source": "a16z.com",
-    "date": "2026-07-30",
+    "author": "Google DeepMind",
+    "source": "deepmind.google",
+    "date": "2026-07-31",
     "score": 66
   },
   {
-    "title": "Additional custom environments can now be purchased",
-    "url": "https://vercel.com/changelog/additional-custom-environments-can-now-be-purchased",
-    "summary": "Pro and Enterprise teams can now purchase additional custom environment capacity without contacting sales. Custom environments let you model your team's release process on Vercel. You can add staging , qa , or any named stage between preview and production , and each environment gets its own branch tracking, environment variables, and domains. You can purchase or adjust capacity from the dashboard, API, or CLI. Dashboard Project → Settings → Environments → Custom Environments",
+    "title": "NVIDIA Exemplar Cloud: Lessons for Unlocking Full Performance on AI Infrastructure",
+    "url": "https://developer.nvidia.com/blog/nvidia-exemplar-cloud-lessons-for-unlocking-full-performance-on-ai-infrastructure",
+    "summary": "NVIDIA Technical Blog · NVIDIA Exemplar Cloud: Lessons for Unlocking Full Performance on AI Infrastructure",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-07-31",
+    "score": 66
+  },
+  {
+    "title": "Run multiple isolated agents in a single Sandbox",
+    "url": "https://vercel.com/changelog/run-multiple-isolated-agents-in-a-single-sandbox",
+    "summary": "The @vercel/sandbox SDK now supports multiple Linux users and groups, so you can run agents side by side in a single Sandbox. Each agent runs as its own user with a private home directory. A group opens a shared workspace when they need to collaborate. This makes multi-agent systems easier to build. Call createUser for each agent; its commands and file operations run as that user, and users can't read, write, or list each other's files. To set up a shared directory, call crea",
     "tags": [
       "sdk",
       "ai_infra",
@@ -138,13 +153,55 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-07-30",
+    "date": "2026-07-31",
+    "score": 66
+  },
+  {
+    "title": "Turborepo and Vercel Remote Cache now support OpenID Connect (OIDC)",
+    "url": "https://vercel.com/changelog/turborepo-and-remote-cache-now-support-openid-connect-oidc",
+    "summary": "You can now exchange OIDC tokens from CI/CD workflows, including GitHub workflows , for short-lived Turborepo access tokens. These tokens grant access to Vercel's Remote Cache , and are a more secure alternative to long-lived Personal Access Tokens (PATs). OIDC tokens are short-lived, only grant access to Vercel Remote Cache, and are associated with your Vercel team, rather than a specific team member. We recommend all customers migrate their CI/CD workflows from PATs to OIDC",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-07-31",
+    "score": 66
+  },
+  {
+    "title": "Latest MCP spec now supported in mcp-handler",
+    "url": "https://vercel.com/changelog/latest-mcp-spec-now-supported-in-mcp-handler",
+    "summary": "mcp-handler@2.0.0 is now available with support for the 2026-07-28 Model Context Protocol specification and MCP TypeScript SDK v2 . We originally built mcp-handler to make it easier to spin up MCP servers on popular web frameworks including Next, Nuxt, Svelte, and more. With the new 2.0 release, the handler now supports: The stateless 2026-07-28 protocol, served natively, including per-request metadata and server/discover A stateless compatibility layer for clients using 2025",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-07-31",
+    "score": 66
+  },
+  {
+    "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+    "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack",
+    "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the safety of this technology, which&#8230;",
+    "tags": [
+      "ai",
+      "research",
+      "society"
+    ],
+    "author": "MIT Technology Review AI",
+    "source": "technologyreview.com",
+    "date": "2026-07-31",
     "score": 65
   },
   {
-    "title": "Vercel Connect now supports Custom Environments",
-    "url": "https://vercel.com/changelog/vercel-connect-now-supports-custom-environments",
-    "summary": "Vercel Connect now lets you link a connector to a Custom Environment so deployments there can request provider tokens and receive forwarded webhooks. Custom Environments appear alongside Production, Preview, and Development when you add or edit a project on a connector in the dashboard. From the CLI, pass the environment's slug to --environment : Passing --environment replaces the default environments. Once linked, a deployment in that environment can request tokens with getT",
+    "title": "Server-Timing response headers will pass through to the client",
+    "url": "https://vercel.com/changelog/server-timing-header",
+    "summary": "On August 10, 2026, Vercel's CDN will stop stripping the Server-Timing response header and begin passing it through to the client. Use Server-Timing to report backend metrics like database query time and cache hits. These values appear in the browser's network panel and as PerformanceServerTiming entries through the Performance API. If you want to keep the current behavior, where the header is stripped from every response, you can add a transform in vercel.json : Learn more a",
     "tags": [
       "sdk",
       "ai_infra",
@@ -152,111 +209,13 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-07-30",
-    "score": 65
-  },
-  {
-    "title": "Deep Agents v0.7",
-    "url": "https://www.langchain.com/blog/deep-agents-v0-7",
-    "summary": "Today we're shipping deep agents v0.7. This release simplifies the base harness, resulting in 65% fewer base input tokens at comparable performance.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-07-30",
-    "score": 64
-  },
-  {
-    "title": "Rick Rubin on AI, Creativity, and The Way of Code",
-    "url": "https://a16z.com/podcast/rick-rubin-on-ai-creativity-and-the-way-of-code",
-    "summary": "AI a16z | Andreessen Horowitz · Rick Rubin on AI, Creativity, and The Way of Code",
-    "tags": [
-      "investment",
-      "startup",
-      "thesis"
-    ],
-    "author": "a16z AI",
-    "source": "a16z.com",
-    "date": "2026-07-30",
-    "score": 64
-  },
-  {
-    "title": "Beyond P(doom): Marc Andreessen &ndash; Betting on America",
-    "url": "https://a16z.com/podcast/beyond-pdoom-marc-andreessen-betting-on-america",
-    "summary": "AI a16z | Andreessen Horowitz · Beyond P(doom): Marc Andreessen &ndash; Betting on America",
-    "tags": [
-      "investment",
-      "startup",
-      "thesis"
-    ],
-    "author": "a16z AI",
-    "source": "a16z.com",
-    "date": "2026-07-30",
-    "score": 64
-  },
-  {
-    "title": "AI Is Crossing the Frontier of Human Knowledge | Kevin Weil",
-    "url": "https://a16z.com/podcast/ai-is-crossing-the-frontier-of-human-knowledge-kevin-weil",
-    "summary": "AI a16z | Andreessen Horowitz · AI Is Crossing the Frontier of Human Knowledge | Kevin Weil",
-    "tags": [
-      "investment",
-      "startup",
-      "thesis"
-    ],
-    "author": "a16z AI",
-    "source": "a16z.com",
-    "date": "2026-07-30",
-    "score": 64
-  },
-  {
-    "title": "Marc Andreessen on AI, Technology, and the Future of Humanity",
-    "url": "https://a16z.com/podcast/marc-andreessen-on-ai-technology-and-the-future-of-humanity",
-    "summary": "AI a16z | Andreessen Horowitz · Marc Andreessen on AI, Technology, and the Future of Humanity",
-    "tags": [
-      "investment",
-      "startup",
-      "thesis"
-    ],
-    "author": "a16z AI",
-    "source": "a16z.com",
-    "date": "2026-07-30",
-    "score": 64
-  },
-  {
-    "title": "What Happens to Design After AI?",
-    "url": "https://a16z.com/podcast/what-happens-to-design-after-ai",
-    "summary": "AI a16z | Andreessen Horowitz · What Happens to Design After AI?",
-    "tags": [
-      "investment",
-      "startup",
-      "thesis"
-    ],
-    "author": "a16z AI",
-    "source": "a16z.com",
-    "date": "2026-07-30",
-    "score": 64
-  },
-  {
-    "title": "Edge Config is now Global Config",
-    "url": "https://vercel.com/changelog/edge-config-is-now-global-config",
-    "summary": "Edge Config is now Global Config . This rename better reflects that it is a globally replicated data store with ~1ms reads in every region, built for the configuration that applications read at runtime, such as feature flags, redirects, and experimentation settings. Global Config stores can now hold up to 1 MB on every plan, and Pro and Enterprise teams can create unlimited stores with more writes per day. The rename also ships with a new server-side SDK, @vercel/global-confi",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-07-30",
+    "date": "2026-07-31",
     "score": 63
   },
   {
-    "title": "AI Gateway adds unified fast mode support",
-    "url": "https://vercel.com/changelog/ai-gateway-adds-unified-fast-mode-support",
-    "summary": "AI Gateway has a unified fast mode abstraction, now in beta. You can now request fast mode the same way for every model on AI Gateway. Set speed to fast , and the gateway serves the fast tier when it's available and falls back to standard speed when it isn't. Fast mode trades a higher per-token cost for lower latency or higher throughput. You get it wherever it is available, without pinning a provider or wiring anything up yourself. Requesting fast mode Set speed to fast unde",
+    "title": "AI Gateway: GPT-5.6 pricing and speed updates",
+    "url": "https://vercel.com/changelog/ai-gateway-gpt-5-6-pricing-speed-updates",
+    "summary": "On AI Gateway , GPT-5.6 Luna and GPT-5.6 Terra are now cheaper and GPT-5.6 Sol is faster. AI Gateway adds no markup on token pricing, so these changes reach you at the upstream rate. The changes apply to both short and long context pricing. Model Change Input: Short context (per 1M tokens) Output: Short context (per 1M tokens) openai/gpt-5.6-luna 80% price reduction $0.2 $1.2 openai/gpt-5.6-terra 20% price reduction $2 $12 openai/gpt-5.6-sol Same price, fast mode now 2.5x fas",
     "tags": [
       "sdk",
       "ai_infra",
@@ -264,13 +223,13 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-07-30",
+    "date": "2026-07-31",
     "score": 63
   },
   {
-    "title": "Sign in with ChatGPT is now available on Vercel",
-    "url": "https://vercel.com/changelog/sign-in-with-chatgpt-is-now-available-on-vercel",
-    "summary": "Sign in with ChatGPT adds your ChatGPT account as an authentication option for Vercel. It is available when adding the Vercel plugin to ChatGPT and when signing in to Vercel or v0. When you add the Vercel plugin to ChatGPT, you can easily sign in to Vercel and grant team and project permissions without leaving ChatGPT. \"Continue with ChatGPT\" also appears as a sign-in option on the Vercel and v0 sign-in and sign-up pages. Team requirements like 2FA and SSO still apply. You ca",
+    "title": "Deployments are now up to 7 seconds faster",
+    "url": "https://vercel.com/changelog/deployments-are-now-up-to-7-seconds-faster",
+    "summary": "Over the past few months, we've made deployments up to 7 seconds faster end to end. We removed up to 5 seconds of fixed platform overhead from every build, and deploys from the latest Vercel CLI save up to 2 seconds more. The improvements are most noticeable on smaller builds, where orchestration represents a larger share of the total build time. The largest platform gains: ~2.2s : Internal build-process shutdown now happens outside the critical path to deployment readiness ~",
     "tags": [
       "sdk",
       "ai_infra",
@@ -278,13 +237,41 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-07-30",
+    "date": "2026-07-31",
     "score": 63
   },
   {
-    "title": "huggingface_hub v1.0: Five Years of Building the Foundation of Open Machine Learning",
-    "url": "https://huggingface.co/blog/huggingface-hub-v1",
-    "summary": "huggingface_hub v1.0: Five Years of Building the Foundation of Open Machine Learning 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Introducing Enterprise Flexible Commitment for Vercel Marketplace",
+    "url": "https://vercel.com/changelog/introducing-enterprise-flexible-commitment-for-vercel-marketplace",
+    "summary": "Enterprise customers can now apply a portion of their Flexible Commitment toward eligible resources purchased through the Vercel Marketplace. With Flex Commit support, eligible Marketplace cost can draw directly from your existing commitment making it easier to provision the infrastructure and services your applications need. We're rolling this out with an initial set of Marketplace partners, including Neon , Supabase , and Redis , with support for more providers coming. Elig",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-07-31",
+    "score": 63
+  },
+  {
+    "title": "Project-scoped Tokens",
+    "url": "https://vercel.com/changelog/project-scoped-tokens",
+    "summary": "You can now create Vercel Access Tokens that are limited to a project to authenticate and use the Vercel API . A project-scoped token can only read and write resources belonging to a project that the token is scoped to. Requests to any other project, a user-level resource, or a team-level resource will be denied. This ensures jobs, tools, or workflows only ever access the projects they are scoped to. Creating a project-scoped token Navigate to the Account Tokens page , found ",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-07-31",
+    "score": 63
+  },
+  {
+    "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+    "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+    "summary": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -292,7 +279,49 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-07-30",
+    "date": "2026-07-31",
+    "score": 63
+  },
+  {
+    "title": "LeRobot v0.4.0: Supercharging OSS Robot Learning",
+    "url": "https://huggingface.co/blog/lerobot-release-v040",
+    "summary": "LeRobot v0.4.0: Supercharging OSS Robot Learning 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-31",
+    "score": 62
+  },
+  {
+    "title": "Sentence Transformers is joining Hugging Face!",
+    "url": "https://huggingface.co/blog/sentence-transformers-joins-hf",
+    "summary": "Sentence Transformers is joining Hugging Face! 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-31",
+    "score": 62
+  },
+  {
+    "title": "Supercharge your OCR Pipelines with Open Models",
+    "url": "https://huggingface.co/blog/ocr-open-models",
+    "summary": "Supercharge your OCR Pipelines with Open Models 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-07-31",
     "score": 62
   }
 ]
