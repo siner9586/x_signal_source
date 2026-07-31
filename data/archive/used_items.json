@@ -11586,5 +11586,235 @@
     "cluster_id": "huggingface_co_a02d7b3c",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1d1065e1b24651e5",
+    "canonical_url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+    "dedupe_key": "1c156bc1e830d872",
+    "title": "Disrupting a Criminal Scam Operation",
+    "issue_date": "2026-08-01",
+    "cluster_id": "openai_com_35b71544",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c9c8b31b7bfbbe40",
+    "canonical_url": "https://openai.com/index/avatarin",
+    "dedupe_key": "dca07d972cbabcfe",
+    "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+    "issue_date": "2026-08-01",
+    "cluster_id": "openai_com_8a859626",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ca80758ee43dea8f",
+    "canonical_url": "https://openai.com/index/disrupting-malicious-uses-of-ai-data-center-bandwagon",
+    "dedupe_key": "04184cf7e13bc1bf",
+    "title": "“Data Center Bandwagon” Campaign: US-targeted influence activity",
+    "issue_date": "2026-08-01",
+    "cluster_id": "openai_com_cb360df9",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5ce0f682da069d4a",
+    "canonical_url": "https://vercel.com/changelog/10x-more-capacity-for-laguna-s-2-1-on-ai-gateway",
+    "dedupe_key": "384557c3ecae7e3f",
+    "title": "10x more capacity for Laguna S 2.1 on AI Gateway",
+    "issue_date": "2026-08-01",
+    "cluster_id": "vercel_com_bc1e85d4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e55866dac1854504",
+    "canonical_url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+    "dedupe_key": "dc2eda9f3ba9771f",
+    "title": "Advancing responsible AI across Europe",
+    "issue_date": "2026-08-01",
+    "cluster_id": "openai_com_dee45836",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2caa79d422ddb946",
+    "canonical_url": "https://openai.com/index/building-abundant-intelligence",
+    "dedupe_key": "10456f042fbc2e09",
+    "title": "Building abundant intelligence",
+    "issue_date": "2026-08-01",
+    "cluster_id": "openai_com_c10a32f6",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_41261db2bc6ed3c1",
+    "canonical_url": "https://openai.com/index/unive",
+    "dedupe_key": "9b38b40163f4099d",
+    "title": "Univé builds an AI-ready workforce",
+    "issue_date": "2026-08-01",
+    "cluster_id": "openai_com_5cea5eee",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d42ed03586de2d73",
+    "canonical_url": "https://openai.com/index/disrupting-malicious-uses-of-ai-tech-and-tariffs",
+    "dedupe_key": "14e6bee1e5bcb90f",
+    "title": "“Tech and Tariffs” Campaign: Influence activity targeting US tech policy",
+    "issue_date": "2026-08-01",
+    "cluster_id": "openai_com_63d1bbf7",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_73dd264c292e7ca2",
+    "canonical_url": "https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed",
+    "dedupe_key": "86e895a0292d4473",
+    "title": "Don&#8217;t stop early: Case-folding source code at memory speed",
+    "issue_date": "2026-08-01",
+    "cluster_id": "github_blog_1e389d50",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9fd91cf7572e684c",
+    "canonical_url": "https://www.langchain.com/blog/evaluating-code-review-agents-with-reviewbench",
+    "dedupe_key": "4732c6abf2b1c3df",
+    "title": "Evaluating code review agents with ReviewBench",
+    "issue_date": "2026-08-01",
+    "cluster_id": "langchain_com_e33e385f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_55977bda1ea14bfc",
+    "canonical_url": "https://developer.nvidia.com/blog/nvidia-video-codec-sdk-13-1-zero-copy-transcode-av1-b-frames-and-frame-accurate-seek",
+    "dedupe_key": "fbeff36e542bddc7",
+    "title": "NVIDIA Video Codec SDK 13.1: Zero-Copy Transcode, AV1 B-Frames, and Frame-Accurate Seek",
+    "issue_date": "2026-08-01",
+    "cluster_id": "developer_nvidia_com_379a64e0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_888a16418fe1588c",
+    "canonical_url": "https://developer.nvidia.com/blog/run-high-performance-core-math-at-scale-with-nvidia-nvmath-python",
+    "dedupe_key": "f350d8beb3073203",
+    "title": "Run High-Performance Core Math at Scale with NVIDIA nvmath-python",
+    "issue_date": "2026-08-01",
+    "cluster_id": "developer_nvidia_com_29654af5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ad444eae8c09854c",
+    "canonical_url": "https://vercel.com/changelog/deepseek-v4-flash-now-runs-updated-weights-on-ai-gateway",
+    "dedupe_key": "6ad7305024aab8b9",
+    "title": "DeepSeek V4 Flash now runs updated weights on AI Gateway",
+    "issue_date": "2026-08-01",
+    "cluster_id": "vercel_com_1f5d210a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_02716250f1321501",
+    "canonical_url": "https://vercel.com/changelog/vercel-mcp-now-supports-the-2026-07-28-mcp-specification",
+    "dedupe_key": "bb3614a5968372fb",
+    "title": "Vercel MCP now supports the 2026-07-28 MCP specification",
+    "issue_date": "2026-08-01",
+    "cluster_id": "vercel_com_3d6bcbe4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_fe07b8b3a8c0766c",
+    "canonical_url": "https://vercel.com/changelog/minimax-h3-now-available-on-vercel-ai-gateway",
+    "dedupe_key": "a9efa85e24c196cf",
+    "title": "MiniMax H3 now available on AI Gateway",
+    "issue_date": "2026-08-01",
+    "cluster_id": "vercel_com_fcde5e8a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_30f3a53530fe4f00",
+    "canonical_url": "https://www.ycombinator.com/blog/jobs",
+    "dedupe_key": "8f2ea6288adde912",
+    "title": "Startup Jobs",
+    "issue_date": "2026-08-01",
+    "cluster_id": "ycombinator_com_20c318d1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b9b5ecc0620142fc",
+    "canonical_url": "https://www.ycombinator.com/blog/startup-school",
+    "dedupe_key": "1dd885c1a94abd1f",
+    "title": "Startup School",
+    "issue_date": "2026-08-01",
+    "cluster_id": "ycombinator_com_0bab398e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e47bae25df764aa0",
+    "canonical_url": "https://vercel.com/changelog/ai-gateway-spend-budgets-and-alerts",
+    "dedupe_key": "c9c7a00be319e9cd",
+    "title": "AI Gateway now supports team and project spend budgets",
+    "issue_date": "2026-08-01",
+    "cluster_id": "vercel_com_9330a938",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1ad788184584dba5",
+    "canonical_url": "https://vercel.com/changelog/expanded-search-for-workflow-runs-in-vercel-observability",
+    "dedupe_key": "1a959cc36c246704",
+    "title": "Expanded search for workflow runs in Vercel Observability",
+    "issue_date": "2026-08-01",
+    "cluster_id": "vercel_com_6459f3c8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f52eb4f334ba0de6",
+    "canonical_url": "https://vercel.com/changelog/vercel-passport-generally-available",
+    "dedupe_key": "ff258aaca04906c7",
+    "title": "Vercel Passport is now generally available",
+    "issue_date": "2026-08-01",
+    "cluster_id": "vercel_com_be552b92",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_818d6f078d7544b8",
+    "canonical_url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+    "dedupe_key": "698391a2a5fa58a2",
+    "title": "Jul 30, 2026 Frontier Red Team Investigating three real-world incidents in our cybersecurity evaluations",
+    "issue_date": "2026-08-01",
+    "cluster_id": "anthropic_com_ab947554",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_80c6b58cc0ca1b3d",
+    "canonical_url": "https://huggingface.co/blog/gpt-oss-on-intel-xeon",
+    "dedupe_key": "303743d3507f56db",
+    "title": "Google Cloud C4 Brings a 70% TCO improvement on GPT OSS with Intel and Hugging Face",
+    "issue_date": "2026-08-01",
+    "cluster_id": "huggingface_co_b69363a1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0ae4cfc9c1201524",
+    "canonical_url": "https://huggingface.co/blog/openvino-vlm",
+    "dedupe_key": "2e3f862d07d67f3a",
+    "title": "Get your VLM running in 3 simple steps on Intel CPUs",
+    "issue_date": "2026-08-01",
+    "cluster_id": "huggingface_co_c1a409b1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
