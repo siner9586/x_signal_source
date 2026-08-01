@@ -1,8 +1,8 @@
 [
   {
-    "title": "Disrupting a Criminal Scam Operation",
-    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-    "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
+    "title": "Ten advances in mathematics and theoretical computer science",
+    "url": "https://openai.com/index/ten-advances-in-mathematics",
+    "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
     "tags": [
       "ai_models",
       "official",
@@ -11,144 +11,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-08-01",
-    "score": 70
-  },
-  {
-    "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
-    "url": "https://openai.com/index/avatarin",
-    "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-08-01",
-    "score": 70
-  },
-  {
-    "title": "“Data Center Bandwagon” Campaign: US-targeted influence activity",
-    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-data-center-bandwagon",
-    "summary": "OpenAI banned a likely PRC-origin cluster using AI to generate social media content criticizing US data centers and AI infrastructure.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-08-01",
-    "score": 70
-  },
-  {
-    "title": "10x more capacity for Laguna S 2.1 on AI Gateway",
-    "url": "https://vercel.com/changelog/10x-more-capacity-for-laguna-s-2-1-on-ai-gateway",
-    "summary": "Laguna S 2.1 from Poolside now has 10x more capacity on AI Gateway. The increase applies to the paid version, poolside/laguna-s-2.1 , and the free version, poolside/laguna-s-2.1-free , so you can send far more requests, good for high-volume agentic coding and long-running tasks. To use Laguna S 2.1, set model to poolside/laguna-s-2.1-free or poolside/laguna-s-2.1 in the AI SDK : To run it in a coding agent, use vercel ai-gateway coding-agents setup to connect your agents to A",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-08-01",
-    "score": 69
-  },
-  {
-    "title": "Advancing responsible AI across Europe",
-    "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
-    "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-08-01",
+    "date": "2026-08-02",
     "score": 67
   },
   {
-    "title": "Building abundant intelligence",
-    "url": "https://openai.com/index/building-abundant-intelligence",
-    "summary": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-08-01",
-    "score": 67
-  },
-  {
-    "title": "Univé builds an AI-ready workforce",
-    "url": "https://openai.com/index/unive",
-    "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-08-01",
-    "score": 67
-  },
-  {
-    "title": "“Tech and Tariffs” Campaign: Influence activity targeting US tech policy",
-    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-tech-and-tariffs",
-    "summary": "OpenAI banned likely PRC-origin accounts using AI to create comments and cartoons about US tech policy, tariffs, and trade restrictions.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-08-01",
-    "score": 67
-  },
-  {
-    "title": "Don&#8217;t stop early: Case-folding source code at memory speed",
-    "url": "https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed",
-    "summary": "How a branch-free loop and byte-space arithmetic let GitHub case-fold every byte of code search at >45 GiB/s on a single core. The post Don&#8217;t stop early: Case-folding source code at memory speed appeared first on The GitHub Blog .",
-    "tags": [
-      "ai_coding",
-      "developer_tools"
-    ],
-    "author": "GitHub Copilot",
-    "source": "github.blog",
-    "date": "2026-08-01",
-    "score": 67
-  },
-  {
-    "title": "Evaluating code review agents with ReviewBench",
-    "url": "https://www.langchain.com/blog/evaluating-code-review-agents-with-reviewbench",
-    "summary": "Learn how LangChain built ReviewBench, a benchmark for evaluating code review agents against real PR feedback from trusted reviewers.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-08-01",
-    "score": 67
-  },
-  {
-    "title": "NVIDIA Video Codec SDK 13.1: Zero-Copy Transcode, AV1 B-Frames, and Frame-Accurate Seek",
-    "url": "https://developer.nvidia.com/blog/nvidia-video-codec-sdk-13-1-zero-copy-transcode-av1-b-frames-and-frame-accurate-seek",
-    "summary": "NVIDIA Technical Blog · NVIDIA Video Codec SDK 13.1: Zero-Copy Transcode, AV1 B-Frames, and Frame-Accurate Seek",
+    "title": "Co-Designing AI Model Attention for Fast, Interactive Long-Context Inference",
+    "url": "https://developer.nvidia.com/blog/co-designing-ai-model-attention-for-fast-interactive-long-context-inference",
+    "summary": "NVIDIA Technical Blog · Co-Designing AI Model Attention for Fast, Interactive Long-Context Inference",
     "tags": [
       "gpu",
       "inference",
@@ -156,27 +25,13 @@
     ],
     "author": "NVIDIA AI",
     "source": "developer.nvidia.com",
-    "date": "2026-08-01",
+    "date": "2026-08-02",
     "score": 66
   },
   {
-    "title": "Run High-Performance Core Math at Scale with NVIDIA nvmath-python",
-    "url": "https://developer.nvidia.com/blog/run-high-performance-core-math-at-scale-with-nvidia-nvmath-python",
-    "summary": "NVIDIA Technical Blog · Run High-Performance Core Math at Scale with NVIDIA nvmath-python",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-08-01",
-    "score": 66
-  },
-  {
-    "title": "DeepSeek V4 Flash now runs updated weights on AI Gateway",
-    "url": "https://vercel.com/changelog/deepseek-v4-flash-now-runs-updated-weights-on-ai-gateway",
-    "summary": "DeepSeek V4 Flash now runs on updated weights by default on AI Gateway, with notably stronger agentic capabilities. On Terminal-Bench, it scores 82.7, up 25.8 points from 56.9 in the April preview. Requests to deepseek/deepseek-v4-flash pick up the new weights automatically, with no change to the model ID or your code. For now, DeepSeek is the only provider serving the updated weights. Other providers, including ones with Zero Data Retention, are coming next week. To use the ",
+    "title": "Chat SDK now supports reactions and ephemeral messages on Teams",
+    "url": "https://vercel.com/changelog/chat-sdk-reactions-and-ephemeral-messages-on-teams",
+    "summary": "Chat SDK's Microsoft Teams adapter now supports reactions and ephemeral messages through the same API as other adapters. Bots can add and remove reactions on Teams messages, and call thread.postEphemeral() or channel.postEphemeral() to send native, targeted messages that only the intended user sees, like permission prompts. This release also adds: Author emails: Incoming Teams messages include the author's Microsoft Graph email, with their user principal name as a fallback. C",
     "tags": [
       "sdk",
       "ai_infra",
@@ -184,83 +39,13 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-08-01",
-    "score": 66
-  },
-  {
-    "title": "Vercel MCP now supports the 2026-07-28 MCP specification",
-    "url": "https://vercel.com/changelog/vercel-mcp-now-supports-the-2026-07-28-mcp-specification",
-    "summary": "Vercel MCP now supports the 2026-07-28 MCP specification, giving newer clients a stateless request model and updated authorization behavior without any change on the client side. Clients built for the 2025 protocol keep working exactly as before, and clients that understand the new specification pick it up automatically. Both protocol versions are served from the same endpoint through the official MCP SDK v2 and mcp-handler 2.x, which added support for the latest spec , so a ",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-08-01",
-    "score": 65
-  },
-  {
-    "title": "MiniMax H3 now available on AI Gateway",
-    "url": "https://vercel.com/changelog/minimax-h3-now-available-on-vercel-ai-gateway",
-    "summary": "MiniMax H3 is now available on AI Gateway. H3 generates 2K video from a text prompt, a starting image, a pair of first and last frames, or reference material. Alongside text-to-video and first-frame image-to-video, the model supports first-to-last keyframe transitions and multimodal reference-to-video, conditioning a generation on reference images, video, or audio in a single request. Reference and keyframe modes are mutually exclusive. Output is mp4 at 2K resolution, from 5 ",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-08-01",
-    "score": 65
-  },
-  {
-    "title": "Startup Jobs",
-    "url": "https://www.ycombinator.com/blog/jobs",
-    "summary": "Y Combinator · Startup Jobs",
-    "tags": [
-      "startup",
-      "product",
-      "founder"
-    ],
-    "author": "Y Combinator",
-    "source": "ycombinator.com",
-    "date": "2026-08-01",
-    "score": 64
-  },
-  {
-    "title": "Startup School",
-    "url": "https://www.ycombinator.com/blog/startup-school",
-    "summary": "Y Combinator · Startup School",
-    "tags": [
-      "startup",
-      "product",
-      "founder"
-    ],
-    "author": "Y Combinator",
-    "source": "ycombinator.com",
-    "date": "2026-08-01",
-    "score": 64
-  },
-  {
-    "title": "AI Gateway now supports team and project spend budgets",
-    "url": "https://vercel.com/changelog/ai-gateway-spend-budgets-and-alerts",
-    "summary": "AI Gateway spend budgets can now be scoped to a team or a project, in addition to individual API keys. Set a dollar limit on a scope, and the gateway meters spend against it and stops further requests once the limit is reached, until the budget resets or you raise it. Scopes A budget attaches to one of three scopes. A request can fall under multiple budgets and has to pass all of them: if any one is over its limit, the request is rejected, even when the others have room left.",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-08-01",
+    "date": "2026-08-02",
     "score": 63
   },
   {
-    "title": "Expanded search for workflow runs in Vercel Observability",
-    "url": "https://vercel.com/changelog/expanded-search-for-workflow-runs-in-vercel-observability",
-    "summary": "The runs list for Vercel Workflows in Observability now has structured search, giving you more ways to find and investigate runs. Structured filters: Filter runs by workflow, environment, deployment ID, region , or any custom run attribute. Paste a run ID to pull up that exact run. Smarter suggestions: The search bar suggests filters and values from your project's run data as you type, and recent searches are saved per project. Editable queries: Applied filters appear as remo",
+    "title": "AI Gateway logs now have a dedicated page",
+    "url": "https://vercel.com/changelog/ai-gateway-logs",
+    "summary": "AI Gateway now has a dedicated Logs page listing every request your team sends through the gateway, newest first, with cost, token counts, duration, and the model, provider, and region that served it. Open any request to see how it was routed. It's available at the team scope and per project. Filter and search Filter by provider, model, modality, credentials, or status, or search by model, provider, or request ID to jump straight to one request. Every filter is stored in the ",
     "tags": [
       "sdk",
       "ai_infra",
@@ -268,41 +53,13 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-08-01",
+    "date": "2026-08-02",
     "score": 63
   },
   {
-    "title": "Vercel Passport is now generally available",
-    "url": "https://vercel.com/changelog/vercel-passport-generally-available",
-    "summary": "Vercel Passport is now generally available. Passport allows you to protect your Vercel deployments with your own identity provider. Visitors authenticate through Okta, Microsoft Entra ID, or any OIDC provider before viewing a protected deployment, and Vercel forwards a signed identity token to the deployment so application code can build on who the visitor is. Read visitor identity in application code The getIdentity() helper in @vercel/passport reads the Vercel request conte",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-08-01",
-    "score": 63
-  },
-  {
-    "title": "Jul 30, 2026 Frontier Red Team Investigating three real-world incidents in our cybersecurity evaluations",
-    "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-    "summary": "Newsroom \\ Anthropic · Jul 30, 2026 Frontier Red Team Investigating three real-world incidents in our cybersecurity evaluations",
-    "tags": [
-      "ai_models",
-      "safety",
-      "official"
-    ],
-    "author": "Anthropic",
-    "source": "anthropic.com",
-    "date": "2026-08-01",
-    "score": 62
-  },
-  {
-    "title": "Google Cloud C4 Brings a 70% TCO improvement on GPT OSS with Intel and Hugging Face",
-    "url": "https://huggingface.co/blog/gpt-oss-on-intel-xeon",
-    "summary": "Google Cloud C4 Brings a 70% TCO improvement on GPT OSS with Intel and Hugging Face 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Arm will be @ PyTorch Conference, Join Us!",
+    "url": "https://huggingface.co/blog/Arm/arm-at-pytorch-conference",
+    "summary": "Arm will be @ PyTorch Conference, Join Us! 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -310,13 +67,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-08-01",
+    "date": "2026-08-02",
     "score": 62
   },
   {
-    "title": "Get your VLM running in 3 simple steps on Intel CPUs",
-    "url": "https://huggingface.co/blog/openvino-vlm",
-    "summary": "Get your VLM running in 3 simple steps on Intel CPUs 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "BigCodeArena: Judging code generations end to end with code executions",
+    "url": "https://huggingface.co/blog/bigcode/arena",
+    "summary": "BigCodeArena: Judging code generations end to end with code executions 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -324,7 +81,203 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-08-01",
+    "date": "2026-08-02",
+    "score": 62
+  },
+  {
+    "title": "SOTA OCR with Core ML and dots.ocr",
+    "url": "https://huggingface.co/blog/dots-ocr-ne",
+    "summary": "SOTA OCR with Core ML and dots.ocr 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-08-02",
+    "score": 62
+  },
+  {
+    "title": "Introducing RTEB: A New Standard for Retrieval Evaluation",
+    "url": "https://huggingface.co/blog/rteb",
+    "summary": "Introducing RTEB: A New Standard for Retrieval Evaluation 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-08-02",
+    "score": 62
+  },
+  {
+    "title": "Swift Transformers Reaches 1.0 – and Looks to the Future",
+    "url": "https://huggingface.co/blog/swift-transformers",
+    "summary": "Swift Transformers Reaches 1.0 – and Looks to the Future 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-08-02",
+    "score": 62
+  },
+  {
+    "title": "Scaleway on Hugging Face Inference Providers 🔥",
+    "url": "https://huggingface.co/blog/inference-providers-scaleway",
+    "summary": "Scaleway on Hugging Face Inference Providers 🔥 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-08-02",
+    "score": 62
+  },
+  {
+    "title": "`LeRobotDataset:v3.0`: Bringing large-scale datasets to `lerobot`",
+    "url": "https://huggingface.co/blog/lerobot-datasets-v3",
+    "summary": "`LeRobotDataset:v3.0`: Bringing large-scale datasets to `lerobot` 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-08-02",
+    "score": 62
+  },
+  {
+    "title": "Visible Watermarking with Gradio",
+    "url": "https://huggingface.co/blog/watermarking-with-gradio",
+    "summary": "Visible Watermarking with Gradio 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-08-02",
+    "score": 62
+  },
+  {
+    "title": "Introducing the Palmyra-mini family: Powerful, lightweight, and ready to reason!",
+    "url": "https://huggingface.co/blog/Writer/announcing-palmyra-mini",
+    "summary": "Introducing the Palmyra-mini family: Powerful, lightweight, and ready to reason! 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-08-02",
+    "score": 62
+  },
+  {
+    "title": "mmBERT: ModernBERT goes Multilingual",
+    "url": "https://huggingface.co/blog/mmbert",
+    "summary": "mmBERT: ModernBERT goes Multilingual 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-08-02",
+    "score": 62
+  },
+  {
+    "title": "Welcome EmbeddingGemma, Google&apos;s new efficient embedding model",
+    "url": "https://huggingface.co/blog/embeddinggemma",
+    "summary": "Welcome EmbeddingGemma, Google&apos;s new efficient embedding model 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-08-02",
+    "score": 62
+  },
+  {
+    "title": "Make your ZeroGPU Spaces go brrr with ahead-of-time compilation",
+    "url": "https://huggingface.co/blog/zerogpu-aoti",
+    "summary": "Make your ZeroGPU Spaces go brrr with ahead-of-time compilation 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-08-02",
+    "score": 62
+  },
+  {
+    "title": "Generate Images with Claude and Hugging Face",
+    "url": "https://huggingface.co/blog/claude-and-mcp",
+    "summary": "Generate Images with Claude and Hugging Face 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-08-02",
+    "score": 62
+  },
+  {
+    "title": "Kimina-Prover-RL",
+    "url": "https://huggingface.co/blog/AI-MO/kimina-prover-rl",
+    "summary": "Kimina-Prover-RL 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-08-02",
+    "score": 62
+  },
+  {
+    "title": "Neural Super Sampling is here!",
+    "url": "https://huggingface.co/blog/Arm/neural-super-sampling",
+    "summary": "Neural Super Sampling is here! 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-08-02",
+    "score": 62
+  },
+  {
+    "title": "TextQuests: How Good are LLMs at Text-Based Video Games?",
+    "url": "https://huggingface.co/blog/textquests",
+    "summary": "TextQuests: How Good are LLMs at Text-Based Video Games? 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-08-02",
     "score": 62
   }
 ]

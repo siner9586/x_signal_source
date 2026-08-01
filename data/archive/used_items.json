@@ -11816,5 +11816,205 @@
     "cluster_id": "huggingface_co_c1a409b1",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f7fe6fb8485a2aba",
+    "canonical_url": "https://openai.com/index/ten-advances-in-mathematics",
+    "dedupe_key": "3be7c2b3b6f72d55",
+    "title": "Ten advances in mathematics and theoretical computer science",
+    "issue_date": "2026-08-02",
+    "cluster_id": "openai_com_111cebea",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b94c8f74a6f5d254",
+    "canonical_url": "https://developer.nvidia.com/blog/co-designing-ai-model-attention-for-fast-interactive-long-context-inference",
+    "dedupe_key": "401e152b03651423",
+    "title": "Co-Designing AI Model Attention for Fast, Interactive Long-Context Inference",
+    "issue_date": "2026-08-02",
+    "cluster_id": "developer_nvidia_com_cba3fb60",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_226251f4bdf244b1",
+    "canonical_url": "https://vercel.com/changelog/chat-sdk-reactions-and-ephemeral-messages-on-teams",
+    "dedupe_key": "61ea04397b8bf1f7",
+    "title": "Chat SDK now supports reactions and ephemeral messages on Teams",
+    "issue_date": "2026-08-02",
+    "cluster_id": "vercel_com_1899a952",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_667c37a85ba5667b",
+    "canonical_url": "https://vercel.com/changelog/ai-gateway-logs",
+    "dedupe_key": "6d6114e453439d35",
+    "title": "AI Gateway logs now have a dedicated page",
+    "issue_date": "2026-08-02",
+    "cluster_id": "vercel_com_13e4360e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c3c2624bf77d9b84",
+    "canonical_url": "https://huggingface.co/blog/Arm/arm-at-pytorch-conference",
+    "dedupe_key": "c586e3c5abb671b4",
+    "title": "Arm will be @ PyTorch Conference, Join Us!",
+    "issue_date": "2026-08-02",
+    "cluster_id": "huggingface_co_9c1b3c5e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_df4a03342e5e9bb9",
+    "canonical_url": "https://huggingface.co/blog/bigcode/arena",
+    "dedupe_key": "f59575e7f34faac1",
+    "title": "BigCodeArena: Judging code generations end to end with code executions",
+    "issue_date": "2026-08-02",
+    "cluster_id": "huggingface_co_1456fcd3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5cfcf77576875078",
+    "canonical_url": "https://huggingface.co/blog/dots-ocr-ne",
+    "dedupe_key": "efc2f0241323c9f2",
+    "title": "SOTA OCR with Core ML and dots.ocr",
+    "issue_date": "2026-08-02",
+    "cluster_id": "huggingface_co_531ec4e2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2d82b7e3fce02bb1",
+    "canonical_url": "https://huggingface.co/blog/rteb",
+    "dedupe_key": "a59c2d91f06606cd",
+    "title": "Introducing RTEB: A New Standard for Retrieval Evaluation",
+    "issue_date": "2026-08-02",
+    "cluster_id": "huggingface_co_84c528c8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9f80ada0d676695d",
+    "canonical_url": "https://huggingface.co/blog/swift-transformers",
+    "dedupe_key": "df99ee63f23b7c9e",
+    "title": "Swift Transformers Reaches 1.0 – and Looks to the Future",
+    "issue_date": "2026-08-02",
+    "cluster_id": "huggingface_co_0a3c6d36",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_28ca474a4f6be2b3",
+    "canonical_url": "https://huggingface.co/blog/inference-providers-scaleway",
+    "dedupe_key": "78689d68cba88f6f",
+    "title": "Scaleway on Hugging Face Inference Providers 🔥",
+    "issue_date": "2026-08-02",
+    "cluster_id": "huggingface_co_95927d27",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_84f2e0881e13f575",
+    "canonical_url": "https://huggingface.co/blog/lerobot-datasets-v3",
+    "dedupe_key": "9e28193a000acb36",
+    "title": "`LeRobotDataset:v3.0`: Bringing large-scale datasets to `lerobot`",
+    "issue_date": "2026-08-02",
+    "cluster_id": "huggingface_co_80a8285d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9145c210a8717af2",
+    "canonical_url": "https://huggingface.co/blog/watermarking-with-gradio",
+    "dedupe_key": "eb81971a289ae4be",
+    "title": "Visible Watermarking with Gradio",
+    "issue_date": "2026-08-02",
+    "cluster_id": "huggingface_co_490d749e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_762971467f4ad269",
+    "canonical_url": "https://huggingface.co/blog/Writer/announcing-palmyra-mini",
+    "dedupe_key": "431e1b3aed1a603d",
+    "title": "Introducing the Palmyra-mini family: Powerful, lightweight, and ready to reason!",
+    "issue_date": "2026-08-02",
+    "cluster_id": "huggingface_co_926fc4ea",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c60203dee3d0f525",
+    "canonical_url": "https://huggingface.co/blog/mmbert",
+    "dedupe_key": "97fd0a1be69a67bd",
+    "title": "mmBERT: ModernBERT goes Multilingual",
+    "issue_date": "2026-08-02",
+    "cluster_id": "huggingface_co_cedfaf1d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3f56d9df4132fd98",
+    "canonical_url": "https://huggingface.co/blog/embeddinggemma",
+    "dedupe_key": "9ef9b473661830ba",
+    "title": "Welcome EmbeddingGemma, Google&apos;s new efficient embedding model",
+    "issue_date": "2026-08-02",
+    "cluster_id": "huggingface_co_16ceee4a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2925dae9166c756f",
+    "canonical_url": "https://huggingface.co/blog/zerogpu-aoti",
+    "dedupe_key": "cb588790bdc6d15b",
+    "title": "Make your ZeroGPU Spaces go brrr with ahead-of-time compilation",
+    "issue_date": "2026-08-02",
+    "cluster_id": "huggingface_co_92f0a427",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_700c16ce2f2cf323",
+    "canonical_url": "https://huggingface.co/blog/claude-and-mcp",
+    "dedupe_key": "4b52a988f7efb9ab",
+    "title": "Generate Images with Claude and Hugging Face",
+    "issue_date": "2026-08-02",
+    "cluster_id": "huggingface_co_0fc8a0d2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3d4c34c7a8c3c70b",
+    "canonical_url": "https://huggingface.co/blog/AI-MO/kimina-prover-rl",
+    "dedupe_key": "3fda509aa75adef2",
+    "title": "Kimina-Prover-RL",
+    "issue_date": "2026-08-02",
+    "cluster_id": "huggingface_co_38d913d2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3e460dfe50500f43",
+    "canonical_url": "https://huggingface.co/blog/Arm/neural-super-sampling",
+    "dedupe_key": "bd6e3c94c637c3ef",
+    "title": "Neural Super Sampling is here!",
+    "issue_date": "2026-08-02",
+    "cluster_id": "huggingface_co_6d4053ce",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d7d190275c8b7034",
+    "canonical_url": "https://huggingface.co/blog/textquests",
+    "dedupe_key": "e4bb5170449f28bd",
+    "title": "TextQuests: How Good are LLMs at Text-Based Video Games?",
+    "issue_date": "2026-08-02",
+    "cluster_id": "huggingface_co_1ca10753",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
