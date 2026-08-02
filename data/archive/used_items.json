@@ -12016,5 +12016,205 @@
     "cluster_id": "huggingface_co_1ca10753",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2c4b3608d083b9df",
+    "canonical_url": "https://huggingface.co/blog/filbench",
+    "dedupe_key": "184cd496f89cc587",
+    "title": "🇵🇭 FilBench - Can LLMs Understand and Generate Filipino?",
+    "issue_date": "2026-08-03",
+    "cluster_id": "huggingface_co_ac0b81f6",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2704ac9f7a78b57e",
+    "canonical_url": "https://huggingface.co/blog/trl-vlm-alignment",
+    "dedupe_key": "aab57ceb5b03d221",
+    "title": "Vision Language Model Alignment in TRL ⚡️",
+    "issue_date": "2026-08-03",
+    "cluster_id": "huggingface_co_f46b29a4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f859725c0e5c6c94",
+    "canonical_url": "https://huggingface.co/blog/trackio",
+    "dedupe_key": "593dfd4c716298bd",
+    "title": "Introducing Trackio: A Lightweight Experiment Tracking Library from Hugging Face",
+    "issue_date": "2026-08-03",
+    "cluster_id": "huggingface_co_5f382a41",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_049d498bad5af002",
+    "canonical_url": "https://huggingface.co/blog/hf-cli",
+    "dedupe_key": "5b4894973c6544df",
+    "title": "Say hello to `hf`: a faster, friendlier Hugging Face CLI ✨",
+    "issue_date": "2026-08-03",
+    "cluster_id": "huggingface_co_68478280",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ad0682d78069fb8f",
+    "canonical_url": "https://huggingface.co/blog/parquet-cdc",
+    "dedupe_key": "fd41f173167067b7",
+    "title": "Parquet Content-Defined Chunking",
+    "issue_date": "2026-08-03",
+    "cluster_id": "huggingface_co_289794ab",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c655ad50cc4db5a0",
+    "canonical_url": "https://huggingface.co/blog/lora-fast",
+    "dedupe_key": "d8326c4ba205d7d6",
+    "title": "Fast LoRA inference for Flux with Diffusers and PEFT",
+    "issue_date": "2026-08-03",
+    "cluster_id": "huggingface_co_843ab913",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_907bfc996316d3de",
+    "canonical_url": "https://huggingface.co/blog/nvidia/multi-llm-nim",
+    "dedupe_key": "f30d2695c59bb20e",
+    "title": "Accelerate a World of LLMs on Hugging Face with NVIDIA NIM",
+    "issue_date": "2026-08-03",
+    "cluster_id": "huggingface_co_cd1baffb",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1e42a0b22b8ecf14",
+    "canonical_url": "https://huggingface.co/blog/virtual-cell-challenge",
+    "dedupe_key": "05b70f24326f2b29",
+    "title": "Arc Virtual Cell Challenge: A Primer",
+    "issue_date": "2026-08-03",
+    "cluster_id": "huggingface_co_a59e735c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7e0102e4e250da26",
+    "canonical_url": "https://huggingface.co/blog/consilium-multi-llm",
+    "dedupe_key": "03523966681b23aa",
+    "title": "Consilium: When Multiple LLMs Collaborate",
+    "issue_date": "2026-08-03",
+    "cluster_id": "huggingface_co_509ca2c2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c6fb9bcb2e6d391f",
+    "canonical_url": "https://huggingface.co/blog/gradio-mcp-updates",
+    "dedupe_key": "061216cabe8f38e9",
+    "title": "Five Big Improvements to Gradio MCP Servers",
+    "issue_date": "2026-08-03",
+    "cluster_id": "huggingface_co_9643b606",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_cd1cf0275e27018a",
+    "canonical_url": "https://huggingface.co/blog/migrating-the-hub-to-xet",
+    "dedupe_key": "6d598635aa2ccc89",
+    "title": "Migrating the Hub from Git LFS to Xet",
+    "issue_date": "2026-08-03",
+    "cluster_id": "huggingface_co_4149f7e9",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_08f3a2adb4e15728",
+    "canonical_url": "https://huggingface.co/blog/async-robot-inference",
+    "dedupe_key": "36c19067253a0b3f",
+    "title": "Asynchronous Robot Inference: Decoupling Action Prediction and Execution",
+    "issue_date": "2026-08-03",
+    "cluster_id": "huggingface_co_4a9c4888",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_885cd9d97dd1990e",
+    "canonical_url": "https://huggingface.co/blog/building-hf-mcp",
+    "dedupe_key": "fa5102acf2cfa083",
+    "title": "Building the Hugging Face MCP Server",
+    "issue_date": "2026-08-03",
+    "cluster_id": "huggingface_co_7aca5712",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_bf228eaa02be2026",
+    "canonical_url": "https://huggingface.co/blog/mi300kernels",
+    "dedupe_key": "fbaaee72e8dcd674",
+    "title": "Creating custom kernels for the AMD MI300",
+    "issue_date": "2026-08-03",
+    "cluster_id": "huggingface_co_585840c7",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_541c91629e3da677",
+    "canonical_url": "https://huggingface.co/blog/gradio-mcp-servers",
+    "dedupe_key": "87da7607c33265ef",
+    "title": "Upskill your LLMs With Gradio MCP Servers",
+    "issue_date": "2026-08-03",
+    "cluster_id": "huggingface_co_c4e7ef09",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_04aaba412fbbf503",
+    "canonical_url": "https://huggingface.co/blog/smollm3",
+    "dedupe_key": "b2cf86eb059e14ea",
+    "title": "SmolLM3: smol, multilingual, long-context reasoner",
+    "issue_date": "2026-08-03",
+    "cluster_id": "huggingface_co_8d4321e0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_eb2abeb66f1e6f0f",
+    "canonical_url": "https://huggingface.co/blog/nvidia/llama-nemotron-nano-vl",
+    "dedupe_key": "5e9775cdf81c52c1",
+    "title": "Welcome the NVIDIA Llama Nemotron Nano VLM to Hugging Face Hub",
+    "issue_date": "2026-08-03",
+    "cluster_id": "huggingface_co_b77bcf55",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_883546196c751aee",
+    "canonical_url": "https://huggingface.co/blog/transformers-backend-sglang",
+    "dedupe_key": "f18181f2172f6430",
+    "title": "Transformers backend integration in SGLang",
+    "issue_date": "2026-08-03",
+    "cluster_id": "huggingface_co_0958a6e3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0fefc74c39ee06be",
+    "canonical_url": "https://huggingface.co/blog/flux-qlora",
+    "dedupe_key": "c3b8237033a2bd02",
+    "title": "(LoRA) Fine-Tuning FLUX.1-dev on Consumer Hardware",
+    "issue_date": "2026-08-03",
+    "cluster_id": "huggingface_co_d96a7564",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_576302f8ce4b9b0c",
+    "canonical_url": "https://huggingface.co/blog/inference-providers-groq",
+    "dedupe_key": "4c9821a434876d19",
+    "title": "Groq on Hugging Face Inference Providers 🔥",
+    "issue_date": "2026-08-03",
+    "cluster_id": "huggingface_co_99b76520",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]

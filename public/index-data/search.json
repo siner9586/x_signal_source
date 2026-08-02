@@ -1,65 +1,8 @@
 [
   {
-    "title": "Ten advances in mathematics and theoretical computer science",
-    "url": "https://openai.com/index/ten-advances-in-mathematics",
-    "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-08-02",
-    "score": 67
-  },
-  {
-    "title": "Co-Designing AI Model Attention for Fast, Interactive Long-Context Inference",
-    "url": "https://developer.nvidia.com/blog/co-designing-ai-model-attention-for-fast-interactive-long-context-inference",
-    "summary": "NVIDIA Technical Blog · Co-Designing AI Model Attention for Fast, Interactive Long-Context Inference",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-08-02",
-    "score": 66
-  },
-  {
-    "title": "Chat SDK now supports reactions and ephemeral messages on Teams",
-    "url": "https://vercel.com/changelog/chat-sdk-reactions-and-ephemeral-messages-on-teams",
-    "summary": "Chat SDK's Microsoft Teams adapter now supports reactions and ephemeral messages through the same API as other adapters. Bots can add and remove reactions on Teams messages, and call thread.postEphemeral() or channel.postEphemeral() to send native, targeted messages that only the intended user sees, like permission prompts. This release also adds: Author emails: Incoming Teams messages include the author's Microsoft Graph email, with their user principal name as a fallback. C",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-08-02",
-    "score": 63
-  },
-  {
-    "title": "AI Gateway logs now have a dedicated page",
-    "url": "https://vercel.com/changelog/ai-gateway-logs",
-    "summary": "AI Gateway now has a dedicated Logs page listing every request your team sends through the gateway, newest first, with cost, token counts, duration, and the model, provider, and region that served it. Open any request to see how it was routed. It's available at the team scope and per project. Filter and search Filter by provider, model, modality, credentials, or status, or search by model, provider, or request ID to jump straight to one request. Every filter is stored in the ",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-08-02",
-    "score": 63
-  },
-  {
-    "title": "Arm will be @ PyTorch Conference, Join Us!",
-    "url": "https://huggingface.co/blog/Arm/arm-at-pytorch-conference",
-    "summary": "Arm will be @ PyTorch Conference, Join Us! 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "🇵🇭 FilBench - Can LLMs Understand and Generate Filipino?",
+    "url": "https://huggingface.co/blog/filbench",
+    "summary": "🇵🇭 FilBench - Can LLMs Understand and Generate Filipino? 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -67,13 +10,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-08-02",
+    "date": "2026-08-03",
     "score": 62
   },
   {
-    "title": "BigCodeArena: Judging code generations end to end with code executions",
-    "url": "https://huggingface.co/blog/bigcode/arena",
-    "summary": "BigCodeArena: Judging code generations end to end with code executions 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Vision Language Model Alignment in TRL ⚡️",
+    "url": "https://huggingface.co/blog/trl-vlm-alignment",
+    "summary": "Vision Language Model Alignment in TRL ⚡️ 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -81,13 +24,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-08-02",
+    "date": "2026-08-03",
     "score": 62
   },
   {
-    "title": "SOTA OCR with Core ML and dots.ocr",
-    "url": "https://huggingface.co/blog/dots-ocr-ne",
-    "summary": "SOTA OCR with Core ML and dots.ocr 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Introducing Trackio: A Lightweight Experiment Tracking Library from Hugging Face",
+    "url": "https://huggingface.co/blog/trackio",
+    "summary": "Introducing Trackio: A Lightweight Experiment Tracking Library from Hugging Face 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -95,13 +38,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-08-02",
+    "date": "2026-08-03",
     "score": 62
   },
   {
-    "title": "Introducing RTEB: A New Standard for Retrieval Evaluation",
-    "url": "https://huggingface.co/blog/rteb",
-    "summary": "Introducing RTEB: A New Standard for Retrieval Evaluation 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Say hello to `hf`: a faster, friendlier Hugging Face CLI ✨",
+    "url": "https://huggingface.co/blog/hf-cli",
+    "summary": "Say hello to `hf`: a faster, friendlier Hugging Face CLI ✨ 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -109,13 +52,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-08-02",
+    "date": "2026-08-03",
     "score": 62
   },
   {
-    "title": "Swift Transformers Reaches 1.0 – and Looks to the Future",
-    "url": "https://huggingface.co/blog/swift-transformers",
-    "summary": "Swift Transformers Reaches 1.0 – and Looks to the Future 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Parquet Content-Defined Chunking",
+    "url": "https://huggingface.co/blog/parquet-cdc",
+    "summary": "Parquet Content-Defined Chunking 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -123,13 +66,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-08-02",
+    "date": "2026-08-03",
     "score": 62
   },
   {
-    "title": "Scaleway on Hugging Face Inference Providers 🔥",
-    "url": "https://huggingface.co/blog/inference-providers-scaleway",
-    "summary": "Scaleway on Hugging Face Inference Providers 🔥 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Fast LoRA inference for Flux with Diffusers and PEFT",
+    "url": "https://huggingface.co/blog/lora-fast",
+    "summary": "Fast LoRA inference for Flux with Diffusers and PEFT 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -137,13 +80,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-08-02",
+    "date": "2026-08-03",
     "score": 62
   },
   {
-    "title": "`LeRobotDataset:v3.0`: Bringing large-scale datasets to `lerobot`",
-    "url": "https://huggingface.co/blog/lerobot-datasets-v3",
-    "summary": "`LeRobotDataset:v3.0`: Bringing large-scale datasets to `lerobot` 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Accelerate a World of LLMs on Hugging Face with NVIDIA NIM",
+    "url": "https://huggingface.co/blog/nvidia/multi-llm-nim",
+    "summary": "Accelerate a World of LLMs on Hugging Face with NVIDIA NIM 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -151,13 +94,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-08-02",
+    "date": "2026-08-03",
     "score": 62
   },
   {
-    "title": "Visible Watermarking with Gradio",
-    "url": "https://huggingface.co/blog/watermarking-with-gradio",
-    "summary": "Visible Watermarking with Gradio 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Arc Virtual Cell Challenge: A Primer",
+    "url": "https://huggingface.co/blog/virtual-cell-challenge",
+    "summary": "Arc Virtual Cell Challenge: A Primer 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -165,13 +108,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-08-02",
+    "date": "2026-08-03",
     "score": 62
   },
   {
-    "title": "Introducing the Palmyra-mini family: Powerful, lightweight, and ready to reason!",
-    "url": "https://huggingface.co/blog/Writer/announcing-palmyra-mini",
-    "summary": "Introducing the Palmyra-mini family: Powerful, lightweight, and ready to reason! 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Consilium: When Multiple LLMs Collaborate",
+    "url": "https://huggingface.co/blog/consilium-multi-llm",
+    "summary": "Consilium: When Multiple LLMs Collaborate 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -179,13 +122,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-08-02",
+    "date": "2026-08-03",
     "score": 62
   },
   {
-    "title": "mmBERT: ModernBERT goes Multilingual",
-    "url": "https://huggingface.co/blog/mmbert",
-    "summary": "mmBERT: ModernBERT goes Multilingual 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Five Big Improvements to Gradio MCP Servers",
+    "url": "https://huggingface.co/blog/gradio-mcp-updates",
+    "summary": "Five Big Improvements to Gradio MCP Servers 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -193,13 +136,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-08-02",
+    "date": "2026-08-03",
     "score": 62
   },
   {
-    "title": "Welcome EmbeddingGemma, Google&apos;s new efficient embedding model",
-    "url": "https://huggingface.co/blog/embeddinggemma",
-    "summary": "Welcome EmbeddingGemma, Google&apos;s new efficient embedding model 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Migrating the Hub from Git LFS to Xet",
+    "url": "https://huggingface.co/blog/migrating-the-hub-to-xet",
+    "summary": "Migrating the Hub from Git LFS to Xet 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -207,13 +150,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-08-02",
+    "date": "2026-08-03",
     "score": 62
   },
   {
-    "title": "Make your ZeroGPU Spaces go brrr with ahead-of-time compilation",
-    "url": "https://huggingface.co/blog/zerogpu-aoti",
-    "summary": "Make your ZeroGPU Spaces go brrr with ahead-of-time compilation 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Asynchronous Robot Inference: Decoupling Action Prediction and Execution",
+    "url": "https://huggingface.co/blog/async-robot-inference",
+    "summary": "Asynchronous Robot Inference: Decoupling Action Prediction and Execution 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -221,13 +164,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-08-02",
+    "date": "2026-08-03",
     "score": 62
   },
   {
-    "title": "Generate Images with Claude and Hugging Face",
-    "url": "https://huggingface.co/blog/claude-and-mcp",
-    "summary": "Generate Images with Claude and Hugging Face 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Building the Hugging Face MCP Server",
+    "url": "https://huggingface.co/blog/building-hf-mcp",
+    "summary": "Building the Hugging Face MCP Server 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -235,13 +178,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-08-02",
+    "date": "2026-08-03",
     "score": 62
   },
   {
-    "title": "Kimina-Prover-RL",
-    "url": "https://huggingface.co/blog/AI-MO/kimina-prover-rl",
-    "summary": "Kimina-Prover-RL 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Creating custom kernels for the AMD MI300",
+    "url": "https://huggingface.co/blog/mi300kernels",
+    "summary": "Creating custom kernels for the AMD MI300 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -249,13 +192,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-08-02",
+    "date": "2026-08-03",
     "score": 62
   },
   {
-    "title": "Neural Super Sampling is here!",
-    "url": "https://huggingface.co/blog/Arm/neural-super-sampling",
-    "summary": "Neural Super Sampling is here! 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Upskill your LLMs With Gradio MCP Servers",
+    "url": "https://huggingface.co/blog/gradio-mcp-servers",
+    "summary": "Upskill your LLMs With Gradio MCP Servers 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -263,13 +206,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-08-02",
+    "date": "2026-08-03",
     "score": 62
   },
   {
-    "title": "TextQuests: How Good are LLMs at Text-Based Video Games?",
-    "url": "https://huggingface.co/blog/textquests",
-    "summary": "TextQuests: How Good are LLMs at Text-Based Video Games? 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "SmolLM3: smol, multilingual, long-context reasoner",
+    "url": "https://huggingface.co/blog/smollm3",
+    "summary": "SmolLM3: smol, multilingual, long-context reasoner 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -277,7 +220,63 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-08-02",
+    "date": "2026-08-03",
+    "score": 62
+  },
+  {
+    "title": "Welcome the NVIDIA Llama Nemotron Nano VLM to Hugging Face Hub",
+    "url": "https://huggingface.co/blog/nvidia/llama-nemotron-nano-vl",
+    "summary": "Welcome the NVIDIA Llama Nemotron Nano VLM to Hugging Face Hub 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-08-03",
+    "score": 62
+  },
+  {
+    "title": "Transformers backend integration in SGLang",
+    "url": "https://huggingface.co/blog/transformers-backend-sglang",
+    "summary": "Transformers backend integration in SGLang 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-08-03",
+    "score": 62
+  },
+  {
+    "title": "(LoRA) Fine-Tuning FLUX.1-dev on Consumer Hardware",
+    "url": "https://huggingface.co/blog/flux-qlora",
+    "summary": "(LoRA) Fine-Tuning FLUX.1-dev on Consumer Hardware 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-08-03",
+    "score": 62
+  },
+  {
+    "title": "Groq on Hugging Face Inference Providers 🔥",
+    "url": "https://huggingface.co/blog/inference-providers-groq",
+    "summary": "Groq on Hugging Face Inference Providers 🔥 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-08-03",
     "score": 62
   }
 ]
