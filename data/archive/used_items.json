@@ -12216,5 +12216,205 @@
     "cluster_id": "huggingface_co_99b76520",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c8e0192551a55240",
+    "canonical_url": "https://developer.nvidia.com/blog/nvidia-vera-storage-benchmarks-faster-encryption-compression-integrity-checking-and-recovery-for-ai-native-storage",
+    "dedupe_key": "64341916eb408a6f",
+    "title": "NVIDIA Vera Storage Benchmarks: Faster Encryption, Compression, Integrity Checking, and Recovery for AI-Native Storage",
+    "issue_date": "2026-08-04",
+    "cluster_id": "developer_nvidia_com_2b01192b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6253b0016304362c",
+    "canonical_url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+    "dedupe_key": "512586efd2d874e4",
+    "title": "How we built a realtime system for responsive voice AI in six months",
+    "issue_date": "2026-08-04",
+    "cluster_id": "openai_com_adeb41b6",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3fcc05cfb7f145e7",
+    "canonical_url": "https://www.langchain.com/blog/how-stripe-built-their-knowledge-ai-platform-on-deep-agents",
+    "dedupe_key": "cf24d84aa2d133c6",
+    "title": "How Stripe Built Kai on Deep Agents in 1 Week",
+    "issue_date": "2026-08-04",
+    "cluster_id": "langchain_com_81afed47",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e99a4e19cf27ba4d",
+    "canonical_url": "https://developer.nvidia.com/blog/how-to-run-isolated-tenant-kubernetes-clusters-on-shared-gpu-infrastructure",
+    "dedupe_key": "a182a82076276058",
+    "title": "How to Run Isolated Tenant Kubernetes Clusters on Shared GPU Infrastructure",
+    "issue_date": "2026-08-04",
+    "cluster_id": "developer_nvidia_com_6c09dee5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_35657a4605961ce7",
+    "canonical_url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals",
+    "dedupe_key": "99aabb5ebd1f9e10",
+    "title": "Here’s why AI agents lie and cheat to reach their goals",
+    "issue_date": "2026-08-04",
+    "cluster_id": "technologyreview_com_ac216a09",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ed9790e9aef83fe8",
+    "canonical_url": "https://vercel.com/changelog/vercel-waf-for-blob-is-now-generally-available",
+    "dedupe_key": "49bd5873e78e46fa",
+    "title": "Vercel WAF for Blob is now generally available",
+    "issue_date": "2026-08-04",
+    "cluster_id": "vercel_com_2c9be418",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2dd5a11a5c1af291",
+    "canonical_url": "https://vercel.com/blog/how-factory-scaled-its-cloud-backend-to-tens-of-millions-of-daily-requests",
+    "dedupe_key": "59e73b1f57b28205",
+    "title": "How Factory scaled its cloud backend to tens of millions of daily requests on Vercel",
+    "issue_date": "2026-08-04",
+    "cluster_id": "vercel_com_f5ac66e3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1dd0f85238863f9a",
+    "canonical_url": "https://vercel.com/changelog/qwen-3-8-max-now-available-on-vercel-ai-gateway",
+    "dedupe_key": "11f3042dc75bdea3",
+    "title": "Qwen 3.8 Max now available on Vercel AI Gateway",
+    "issue_date": "2026-08-04",
+    "cluster_id": "vercel_com_b9df265a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d206fd79408c4e20",
+    "canonical_url": "https://vercel.com/changelog/share-vercel-container-registry-repositories-across-teams",
+    "dedupe_key": "671566d4108d3b94",
+    "title": "Share Vercel Container Registry repositories across teams",
+    "issue_date": "2026-08-04",
+    "cluster_id": "vercel_com_7f61e548",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_35794ba8445c0c21",
+    "canonical_url": "https://huggingface.co/blog/tngtech/llm-performance-blocked-by-long-prompts",
+    "dedupe_key": "a7753d03e5333da7",
+    "title": "How Long Prompts Block Other Requests - Optimizing LLM Performance",
+    "issue_date": "2026-08-04",
+    "cluster_id": "huggingface_co_3c73240f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_df939dd6ad73cbf1",
+    "canonical_url": "https://huggingface.co/blog/hello-hf-kernels",
+    "dedupe_key": "2f0c4264b9906d1f",
+    "title": "Learn the Hugging Face Kernel Hub in 5 Minutes",
+    "issue_date": "2026-08-04",
+    "cluster_id": "huggingface_co_921ad0ab",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b68b4974320afe45",
+    "canonical_url": "https://huggingface.co/blog/kv-cache",
+    "dedupe_key": "565871ae125a0111",
+    "title": "KV Cache from scratch in nanoVLM",
+    "issue_date": "2026-08-04",
+    "cluster_id": "huggingface_co_8fd4e3da",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5d5c083350f167bf",
+    "canonical_url": "https://huggingface.co/blog/vllm-colocate",
+    "dedupe_key": "56bb75f0756be85b",
+    "title": "No GPU left behind: Unlocking Efficiency with Co-located vLLM in TRL",
+    "issue_date": "2026-08-04",
+    "cluster_id": "huggingface_co_2e1cc81b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8c858ca6221edcb4",
+    "canonical_url": "https://huggingface.co/blog/liger-grpo",
+    "dedupe_key": "913e2b3b35e719d5",
+    "title": "🐯 Liger GRPO meets TRL",
+    "issue_date": "2026-08-04",
+    "cluster_id": "huggingface_co_578963e1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b82baaac14b4f67a",
+    "canonical_url": "https://huggingface.co/blog/tiiuae/falcon-h1",
+    "dedupe_key": "611900d9a84edb06",
+    "title": "Falcon-H1: A Family of Hybrid-Head Language Models Redefining Efficiency and Performance",
+    "issue_date": "2026-08-04",
+    "cluster_id": "huggingface_co_9d52a55b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_eeb85c2850c01e43",
+    "canonical_url": "https://huggingface.co/blog/tiiuae/falcon-arabic",
+    "dedupe_key": "9e04bf1c9eb9dad2",
+    "title": "Falcon-Arabic: A Breakthrough in Arabic Language Models",
+    "issue_date": "2026-08-04",
+    "cluster_id": "huggingface_co_ca90137f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ca869f546e222be4",
+    "canonical_url": "https://huggingface.co/blog/diffusers-quantization",
+    "dedupe_key": "2735e2c07999ac1e",
+    "title": "Exploring Quantization Backends in Diffusers",
+    "issue_date": "2026-08-04",
+    "cluster_id": "huggingface_co_6380e514",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c8eb8a37d7fa3376",
+    "canonical_url": "https://huggingface.co/blog/azure-ai-foundry",
+    "dedupe_key": "309a84da4f18fc57",
+    "title": "Microsoft and Hugging Face expand collaboration",
+    "issue_date": "2026-08-04",
+    "cluster_id": "huggingface_co_9306e6f7",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_84f12a7fc797f28f",
+    "canonical_url": "https://huggingface.co/blog/tiiuae/falcon-edge",
+    "dedupe_key": "04a80ab36ac4d2b4",
+    "title": "Falcon-Edge: A series of powerful, universal, fine-tunable 1.58bit language models.",
+    "issue_date": "2026-08-04",
+    "cluster_id": "huggingface_co_14ece14b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_fced8cf8a52859e3",
+    "canonical_url": "https://huggingface.co/blog/transformers-model-definition",
+    "dedupe_key": "c4e958d5dc281137",
+    "title": "The Transformers Library: standardizing model definitions",
+    "issue_date": "2026-08-04",
+    "cluster_id": "huggingface_co_aad89c1a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]

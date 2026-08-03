@@ -1,8 +1,135 @@
 [
   {
-    "title": "🇵🇭 FilBench - Can LLMs Understand and Generate Filipino?",
-    "url": "https://huggingface.co/blog/filbench",
-    "summary": "🇵🇭 FilBench - Can LLMs Understand and Generate Filipino? 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "NVIDIA Vera Storage Benchmarks: Faster Encryption, Compression, Integrity Checking, and Recovery for AI-Native Storage",
+    "url": "https://developer.nvidia.com/blog/nvidia-vera-storage-benchmarks-faster-encryption-compression-integrity-checking-and-recovery-for-ai-native-storage",
+    "summary": "NVIDIA Technical Blog · NVIDIA Vera Storage Benchmarks: Faster Encryption, Compression, Integrity Checking, and Recovery for AI-Native Storage",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-08-04",
+    "score": 68
+  },
+  {
+    "title": "How we built a realtime system for responsive voice AI in six months",
+    "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+    "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-08-04",
+    "score": 67
+  },
+  {
+    "title": "How Stripe Built Kai on Deep Agents in 1 Week",
+    "url": "https://www.langchain.com/blog/how-stripe-built-their-knowledge-ai-platform-on-deep-agents",
+    "summary": "Learn how Stripe built Kai, a company-wide AI agent on LangChain, LangGraph, and Deep Agents, reaching 5,000 users in roughly 4 weeks.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-08-04",
+    "score": 67
+  },
+  {
+    "title": "How to Run Isolated Tenant Kubernetes Clusters on Shared GPU Infrastructure",
+    "url": "https://developer.nvidia.com/blog/how-to-run-isolated-tenant-kubernetes-clusters-on-shared-gpu-infrastructure",
+    "summary": "NVIDIA Technical Blog · How to Run Isolated Tenant Kubernetes Clusters on Shared GPU Infrastructure",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-08-04",
+    "score": 66
+  },
+  {
+    "title": "Here’s why AI agents lie and cheat to reach their goals",
+    "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals",
+    "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage—they were just looking for answers&#8230;",
+    "tags": [
+      "ai",
+      "research",
+      "society"
+    ],
+    "author": "MIT Technology Review AI",
+    "source": "technologyreview.com",
+    "date": "2026-08-04",
+    "score": 66
+  },
+  {
+    "title": "Vercel WAF for Blob is now generally available",
+    "url": "https://vercel.com/changelog/vercel-waf-for-blob-is-now-generally-available",
+    "summary": "Vercel WAF for Blob is now generally available and supported for production use on all plans. If you protected a store during the beta , nothing has changed: your rules and setup carry over exactly as they are. Vercel WAF protects a Blob store with custom rules , the same kind you use to guard your deployments. Rules that match on properties like IP address, country, and path can deny, challenge, or rate limit requests to your stored objects. This requires no changes to your ",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-08-04",
+    "score": 65
+  },
+  {
+    "title": "How Factory scaled its cloud backend to tens of millions of daily requests on Vercel",
+    "url": "https://vercel.com/blog/how-factory-scaled-its-cloud-backend-to-tens-of-millions-of-daily-requests",
+    "summary": "Factory on Vercel Tens of millions of backend API requests served daily 350ms p95 response time Scaled backend, internal tooling, and security without a dedicated infrastructure team Factory's mission is to bring autonomy to every phase of the software development lifecycle, from signals to production. Not to replace engineering judgment, but to automate the repetitive work around it, giving engineers more time to focus on the decisions that matter most. To deliver this enter",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-08-04",
+    "score": 65
+  },
+  {
+    "title": "Qwen 3.8 Max now available on Vercel AI Gateway",
+    "url": "https://vercel.com/changelog/qwen-3-8-max-now-available-on-vercel-ai-gateway",
+    "summary": "Qwen 3.8 Max is now available on AI Gateway. Qwen 3.8 Max handles text-only and vision-language work in one model, with 2.4 trillion parameters and a context window of up to 1 million tokens. The model is suited for software engineering and office productivity, along with visual work like turning screenshots or design files into working pages, captioning video, and answering questions grounded in an image. To use Qwen 3.8 Max, set model to alibaba/qwen3.8-max . Try Qwen 3.8 M",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-08-04",
+    "score": 65
+  },
+  {
+    "title": "Share Vercel Container Registry repositories across teams",
+    "url": "https://vercel.com/changelog/share-vercel-container-registry-repositories-across-teams",
+    "summary": "Vercel Container Registry now lets you share a repository with other Vercel teams to grant read access to its images. Sharing is read-only and covers the whole repository. Recipients can pull and use every image, but cannot push, delete, or re-share. You can also share a repository with your own team. Each repository can be shared with up to 100 teams. Share from the project dashboard under Images → repository → Settings → Repository Sharing, or with the Vercel CLI: # Share a",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-08-04",
+    "score": 63
+  },
+  {
+    "title": "How Long Prompts Block Other Requests - Optimizing LLM Performance",
+    "url": "https://huggingface.co/blog/tngtech/llm-performance-blocked-by-long-prompts",
+    "summary": "How Long Prompts Block Other Requests - Optimizing LLM Performance 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -10,13 +137,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-08-03",
+    "date": "2026-08-04",
     "score": 62
   },
   {
-    "title": "Vision Language Model Alignment in TRL ⚡️",
-    "url": "https://huggingface.co/blog/trl-vlm-alignment",
-    "summary": "Vision Language Model Alignment in TRL ⚡️ 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Learn the Hugging Face Kernel Hub in 5 Minutes",
+    "url": "https://huggingface.co/blog/hello-hf-kernels",
+    "summary": "Learn the Hugging Face Kernel Hub in 5 Minutes 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -24,13 +151,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-08-03",
+    "date": "2026-08-04",
     "score": 62
   },
   {
-    "title": "Introducing Trackio: A Lightweight Experiment Tracking Library from Hugging Face",
-    "url": "https://huggingface.co/blog/trackio",
-    "summary": "Introducing Trackio: A Lightweight Experiment Tracking Library from Hugging Face 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "KV Cache from scratch in nanoVLM",
+    "url": "https://huggingface.co/blog/kv-cache",
+    "summary": "KV Cache from scratch in nanoVLM 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -38,13 +165,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-08-03",
+    "date": "2026-08-04",
     "score": 62
   },
   {
-    "title": "Say hello to `hf`: a faster, friendlier Hugging Face CLI ✨",
-    "url": "https://huggingface.co/blog/hf-cli",
-    "summary": "Say hello to `hf`: a faster, friendlier Hugging Face CLI ✨ 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "No GPU left behind: Unlocking Efficiency with Co-located vLLM in TRL",
+    "url": "https://huggingface.co/blog/vllm-colocate",
+    "summary": "No GPU left behind: Unlocking Efficiency with Co-located vLLM in TRL 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -52,13 +179,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-08-03",
+    "date": "2026-08-04",
     "score": 62
   },
   {
-    "title": "Parquet Content-Defined Chunking",
-    "url": "https://huggingface.co/blog/parquet-cdc",
-    "summary": "Parquet Content-Defined Chunking 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "🐯 Liger GRPO meets TRL",
+    "url": "https://huggingface.co/blog/liger-grpo",
+    "summary": "🐯 Liger GRPO meets TRL 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -66,13 +193,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-08-03",
+    "date": "2026-08-04",
     "score": 62
   },
   {
-    "title": "Fast LoRA inference for Flux with Diffusers and PEFT",
-    "url": "https://huggingface.co/blog/lora-fast",
-    "summary": "Fast LoRA inference for Flux with Diffusers and PEFT 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Falcon-H1: A Family of Hybrid-Head Language Models Redefining Efficiency and Performance",
+    "url": "https://huggingface.co/blog/tiiuae/falcon-h1",
+    "summary": "Falcon-H1: A Family of Hybrid-Head Language Models Redefining Efficiency and Performance 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -80,13 +207,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-08-03",
+    "date": "2026-08-04",
     "score": 62
   },
   {
-    "title": "Accelerate a World of LLMs on Hugging Face with NVIDIA NIM",
-    "url": "https://huggingface.co/blog/nvidia/multi-llm-nim",
-    "summary": "Accelerate a World of LLMs on Hugging Face with NVIDIA NIM 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Falcon-Arabic: A Breakthrough in Arabic Language Models",
+    "url": "https://huggingface.co/blog/tiiuae/falcon-arabic",
+    "summary": "Falcon-Arabic: A Breakthrough in Arabic Language Models 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -94,13 +221,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-08-03",
+    "date": "2026-08-04",
     "score": 62
   },
   {
-    "title": "Arc Virtual Cell Challenge: A Primer",
-    "url": "https://huggingface.co/blog/virtual-cell-challenge",
-    "summary": "Arc Virtual Cell Challenge: A Primer 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Exploring Quantization Backends in Diffusers",
+    "url": "https://huggingface.co/blog/diffusers-quantization",
+    "summary": "Exploring Quantization Backends in Diffusers 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -108,13 +235,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-08-03",
+    "date": "2026-08-04",
     "score": 62
   },
   {
-    "title": "Consilium: When Multiple LLMs Collaborate",
-    "url": "https://huggingface.co/blog/consilium-multi-llm",
-    "summary": "Consilium: When Multiple LLMs Collaborate 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Microsoft and Hugging Face expand collaboration",
+    "url": "https://huggingface.co/blog/azure-ai-foundry",
+    "summary": "Microsoft and Hugging Face expand collaboration 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -122,13 +249,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-08-03",
+    "date": "2026-08-04",
     "score": 62
   },
   {
-    "title": "Five Big Improvements to Gradio MCP Servers",
-    "url": "https://huggingface.co/blog/gradio-mcp-updates",
-    "summary": "Five Big Improvements to Gradio MCP Servers 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Falcon-Edge: A series of powerful, universal, fine-tunable 1.58bit language models.",
+    "url": "https://huggingface.co/blog/tiiuae/falcon-edge",
+    "summary": "Falcon-Edge: A series of powerful, universal, fine-tunable 1.58bit language models. 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -136,13 +263,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-08-03",
+    "date": "2026-08-04",
     "score": 62
   },
   {
-    "title": "Migrating the Hub from Git LFS to Xet",
-    "url": "https://huggingface.co/blog/migrating-the-hub-to-xet",
-    "summary": "Migrating the Hub from Git LFS to Xet 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "The Transformers Library: standardizing model definitions",
+    "url": "https://huggingface.co/blog/transformers-model-definition",
+    "summary": "The Transformers Library: standardizing model definitions 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -150,133 +277,7 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-08-03",
-    "score": 62
-  },
-  {
-    "title": "Asynchronous Robot Inference: Decoupling Action Prediction and Execution",
-    "url": "https://huggingface.co/blog/async-robot-inference",
-    "summary": "Asynchronous Robot Inference: Decoupling Action Prediction and Execution 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-08-03",
-    "score": 62
-  },
-  {
-    "title": "Building the Hugging Face MCP Server",
-    "url": "https://huggingface.co/blog/building-hf-mcp",
-    "summary": "Building the Hugging Face MCP Server 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-08-03",
-    "score": 62
-  },
-  {
-    "title": "Creating custom kernels for the AMD MI300",
-    "url": "https://huggingface.co/blog/mi300kernels",
-    "summary": "Creating custom kernels for the AMD MI300 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-08-03",
-    "score": 62
-  },
-  {
-    "title": "Upskill your LLMs With Gradio MCP Servers",
-    "url": "https://huggingface.co/blog/gradio-mcp-servers",
-    "summary": "Upskill your LLMs With Gradio MCP Servers 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-08-03",
-    "score": 62
-  },
-  {
-    "title": "SmolLM3: smol, multilingual, long-context reasoner",
-    "url": "https://huggingface.co/blog/smollm3",
-    "summary": "SmolLM3: smol, multilingual, long-context reasoner 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-08-03",
-    "score": 62
-  },
-  {
-    "title": "Welcome the NVIDIA Llama Nemotron Nano VLM to Hugging Face Hub",
-    "url": "https://huggingface.co/blog/nvidia/llama-nemotron-nano-vl",
-    "summary": "Welcome the NVIDIA Llama Nemotron Nano VLM to Hugging Face Hub 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-08-03",
-    "score": 62
-  },
-  {
-    "title": "Transformers backend integration in SGLang",
-    "url": "https://huggingface.co/blog/transformers-backend-sglang",
-    "summary": "Transformers backend integration in SGLang 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-08-03",
-    "score": 62
-  },
-  {
-    "title": "(LoRA) Fine-Tuning FLUX.1-dev on Consumer Hardware",
-    "url": "https://huggingface.co/blog/flux-qlora",
-    "summary": "(LoRA) Fine-Tuning FLUX.1-dev on Consumer Hardware 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-08-03",
-    "score": 62
-  },
-  {
-    "title": "Groq on Hugging Face Inference Providers 🔥",
-    "url": "https://huggingface.co/blog/inference-providers-groq",
-    "summary": "Groq on Hugging Face Inference Providers 🔥 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-08-03",
+    "date": "2026-08-04",
     "score": 62
   }
 ]
