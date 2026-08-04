@@ -1,8 +1,34 @@
 [
   {
-    "title": "NVIDIA Vera Storage Benchmarks: Faster Encryption, Compression, Integrity Checking, and Recovery for AI-Native Storage",
-    "url": "https://developer.nvidia.com/blog/nvidia-vera-storage-benchmarks-faster-encryption-compression-integrity-checking-and-recovery-for-ai-native-storage",
-    "summary": "NVIDIA Technical Blog · NVIDIA Vera Storage Benchmarks: Faster Encryption, Compression, Integrity Checking, and Recovery for AI-Native Storage",
+    "title": "Turn one giant AI-generated pull request to a reviewable stack",
+    "url": "https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack",
+    "summary": "Instead of one huge, un-reviewable pull request, teach coding agents to decompose work into a clean, ordered stack with GitHub stacked pull requests. The post Turn one giant AI-generated pull request to a reviewable stack appeared first on The GitHub Blog .",
+    "tags": [
+      "ai_coding",
+      "developer_tools"
+    ],
+    "author": "GitHub Copilot",
+    "source": "github.blog",
+    "date": "2026-08-05",
+    "score": 70
+  },
+  {
+    "title": "Vibe gets to work.",
+    "url": "https://mistral.ai/news/vibe-agent",
+    "summary": "The unified agent for long-horizon productivity and coding, launching with Work and Code modes. Plus, a new Vibe VS Code extension.",
+    "tags": [
+      "open_model",
+      "european_ai"
+    ],
+    "author": "Mistral AI",
+    "source": "mistral.ai",
+    "date": "2026-08-05",
+    "score": 68
+  },
+  {
+    "title": "Generate Trajectories, Reasoning Traces, and Auto-Labels with NVIDIA Alpamayo 2 Super",
+    "url": "https://developer.nvidia.com/blog/generate-trajectories-reasoning-traces-and-auto-labels-with-nvidia-alpamayo-2-super",
+    "summary": "NVIDIA Technical Blog · Generate Trajectories, Reasoning Traces, and Auto-Labels with NVIDIA Alpamayo 2 Super",
     "tags": [
       "gpu",
       "inference",
@@ -10,13 +36,13 @@
     ],
     "author": "NVIDIA AI",
     "source": "developer.nvidia.com",
-    "date": "2026-08-04",
+    "date": "2026-08-05",
     "score": 68
   },
   {
-    "title": "How we built a realtime system for responsive voice AI in six months",
-    "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-    "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
+    "title": "Third-party cyber evaluations involving OpenAI models",
+    "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+    "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
     "tags": [
       "ai_models",
       "official",
@@ -25,27 +51,84 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-08-04",
+    "date": "2026-08-05",
     "score": 67
   },
   {
-    "title": "How Stripe Built Kai on Deep Agents in 1 Week",
-    "url": "https://www.langchain.com/blog/how-stripe-built-their-knowledge-ai-platform-on-deep-agents",
-    "summary": "Learn how Stripe built Kai, a company-wide AI agent on LangChain, LangGraph, and Deep Agents, reaching 5,000 users in roughly 4 weeks.",
+    "title": "New ways to learn and teach with ChatGPT Work and Codex",
+    "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+    "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
     "tags": [
-      "agents",
-      "rag",
-      "framework"
+      "ai_models",
+      "official",
+      "research",
+      "developer"
     ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-08-04",
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-08-05",
     "score": 67
   },
   {
-    "title": "How to Run Isolated Tenant Kubernetes Clusters on Shared GPU Infrastructure",
-    "url": "https://developer.nvidia.com/blog/how-to-run-isolated-tenant-kubernetes-clusters-on-shared-gpu-infrastructure",
-    "summary": "NVIDIA Technical Blog · How to Run Isolated Tenant Kubernetes Clusters on Shared GPU Infrastructure",
+    "title": "Apple is getting this wrong",
+    "url": "https://openai.com/index/apple-is-getting-this-wrong",
+    "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-08-05",
+    "score": 67
+  },
+  {
+    "title": "Circles powers telco personalization with OpenAI technology",
+    "url": "https://openai.com/index/circles",
+    "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-08-05",
+    "score": 67
+  },
+  {
+    "title": "How the GitHub legal team used Copilot CLI to streamline their workflows",
+    "url": "https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows",
+    "summary": "Learn how to build tools to simplify how you work—without writing a single line of code. The post How the GitHub legal team used Copilot CLI to streamline their workflows appeared first on The GitHub Blog .",
+    "tags": [
+      "ai_coding",
+      "developer_tools"
+    ],
+    "author": "GitHub Copilot",
+    "source": "github.blog",
+    "date": "2026-08-05",
+    "score": 67
+  },
+  {
+    "title": "Upgrading agentic coding capabilities with the new Devstral models",
+    "url": "https://mistral.ai/news/devstral-2507",
+    "summary": "Upgrading agentic coding capabilities with the new Devstral models 是 Mistral AI 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_model",
+      "european_ai"
+    ],
+    "author": "Mistral AI",
+    "source": "mistral.ai",
+    "date": "2026-08-05",
+    "score": 66
+  },
+  {
+    "title": "Beyond VLAs: How World Action Models Reshape Robot Manipulation",
+    "url": "https://developer.nvidia.com/blog/beyond-vlas-how-world-action-models-reshape-robot-manipulation",
+    "summary": "NVIDIA Technical Blog · Beyond VLAs: How World Action Models Reshape Robot Manipulation",
     "tags": [
       "gpu",
       "inference",
@@ -53,55 +136,67 @@
     ],
     "author": "NVIDIA AI",
     "source": "developer.nvidia.com",
-    "date": "2026-08-04",
+    "date": "2026-08-05",
     "score": 66
   },
   {
-    "title": "Here’s why AI agents lie and cheat to reach their goals",
-    "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals",
-    "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage—they were just looking for answers&#8230;",
+    "title": "Give your eve agent a browser",
+    "url": "https://vercel.com/changelog/give-your-eve-agent-a-browser",
+    "summary": "Your eve agent can now navigate the web like a human with agent-browser . The @agent-browser/eve extension gives any eve agent a full set of browser tools: navigate pages, read content, click, fill forms, take screenshots, and inspect console and network activity. Everything runs inside the agent's sandbox. Install the extension: Then mount it under agent/extensions/ : Your agent gets namespaced tools like browser__navigate , browser__snapshot , browser__click , browser__fill",
     "tags": [
-      "ai",
-      "research",
-      "society"
+      "sdk",
+      "ai_infra",
+      "frontend"
     ],
-    "author": "MIT Technology Review AI",
-    "source": "technologyreview.com",
-    "date": "2026-08-04",
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-08-05",
     "score": 66
   },
   {
-    "title": "Vercel WAF for Blob is now generally available",
-    "url": "https://vercel.com/changelog/vercel-waf-for-blob-is-now-generally-available",
-    "summary": "Vercel WAF for Blob is now generally available and supported for production use on all plans. If you protected a store during the beta , nothing has changed: your rules and setup carry over exactly as they are. Vercel WAF protects a Blob store with custom rules , the same kind you use to guard your deployments. Rules that match on properties like IP address, country, and path can deny, challenge, or rate limit requests to your stored objects. This requires no changes to your ",
+    "title": "Customer Experience (CX) Agents in Production: Lessons from Lyft, Vodafone, and LATAM Airlines",
+    "url": "https://www.langchain.com/blog/customer-experience-cx-agents-in-production-lessons-from-lyft-vodafone-and-latam-airlines",
+    "summary": "Customer Experience (CX) Agents in Production: Lessons from Lyft, Vodafone, and LATAM Airlines",
     "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
+      "agents",
+      "rag",
+      "framework"
     ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-08-04",
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-08-05",
+    "score": 66
+  },
+  {
+    "title": "Build AI agents with the Mistral Agents API",
+    "url": "https://mistral.ai/news/agents-api",
+    "summary": "Build AI agents with the Mistral Agents API 是 Mistral AI 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_model",
+      "european_ai"
+    ],
+    "author": "Mistral AI",
+    "source": "mistral.ai",
+    "date": "2026-08-05",
     "score": 65
   },
   {
-    "title": "How Factory scaled its cloud backend to tens of millions of daily requests on Vercel",
-    "url": "https://vercel.com/blog/how-factory-scaled-its-cloud-backend-to-tens-of-millions-of-daily-requests",
-    "summary": "Factory on Vercel Tens of millions of backend API requests served daily 350ms p95 response time Scaled backend, internal tooling, and security without a dedicated infrastructure team Factory's mission is to bring autonomy to every phase of the software development lifecycle, from signals to production. Not to replace engineering judgment, but to automate the repetitive work around it, giving engineers more time to focus on the decisions that matter most. To deliver this enter",
+    "title": "Empowering product development with an agentic workflow",
+    "url": "https://mistral.ai/news/agentic-workflows-from-meetings-to-dev-tickets",
+    "summary": "Empowering product development with an agentic workflow 是 Mistral AI 当日抓取到的公开新增条目。",
     "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
+      "open_model",
+      "european_ai"
     ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-08-04",
+    "author": "Mistral AI",
+    "source": "mistral.ai",
+    "date": "2026-08-05",
     "score": 65
   },
   {
-    "title": "Qwen 3.8 Max now available on Vercel AI Gateway",
-    "url": "https://vercel.com/changelog/qwen-3-8-max-now-available-on-vercel-ai-gateway",
-    "summary": "Qwen 3.8 Max is now available on AI Gateway. Qwen 3.8 Max handles text-only and vision-language work in one model, with 2.4 trillion parameters and a context window of up to 1 million tokens. The model is suited for software engineering and office productivity, along with visual work like turning screenshots or design files into working pages, captioning video, and answering questions grounded in an image. To use Qwen 3.8 Max, set model to alibaba/qwen3.8-max . Try Qwen 3.8 M",
+    "title": "How Factory scaled its cloud backend to billions of monthly requests on Vercel",
+    "url": "https://vercel.com/blog/how-factory-scaled-its-cloud-backend-to-billions-of-monthly-requests-on-vercel",
+    "summary": "Factory on Vercel Billions of backend API requests served daily 350ms p95 response time Scaled backend, internal tooling, and security without a dedicated infrastructure team Factory's mission is to bring autonomy to every phase of the software development lifecycle, from signals to production. Not to replace engineering judgment, but to automate the repetitive work around it, giving engineers more time to focus on the decisions that matter most. To deliver this enterprise-gr",
     "tags": [
       "sdk",
       "ai_infra",
@@ -109,175 +204,87 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-08-04",
+    "date": "2026-08-05",
     "score": 65
   },
   {
-    "title": "Share Vercel Container Registry repositories across teams",
-    "url": "https://vercel.com/changelog/share-vercel-container-registry-repositories-across-teams",
-    "summary": "Vercel Container Registry now lets you share a repository with other Vercel teams to grant read access to its images. Sharing is read-only and covers the whole repository. Recipients can pull and use every image, but cannot push, delete, or re-share. You can also share a repository with your own team. Each repository can be shared with up to 100 teams. Share from the project dashboard under Images → repository → Settings → Repository Sharing, or with the Vercel CLI: # Share a",
+    "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+    "summary": "Deploy local agents everywhere with LFM2.5-2.6B 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
+      "open_source",
+      "papers",
+      "models"
     ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-08-04",
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-08-05",
+    "score": 65
+  },
+  {
+    "title": "Introducing Search Toolkit",
+    "url": "https://mistral.ai/news/search-toolkit",
+    "summary": "Search Toolkit is a composable framework for building production search pipelines for AI applications.",
+    "tags": [
+      "open_model",
+      "european_ai"
+    ],
+    "author": "Mistral AI",
+    "source": "mistral.ai",
+    "date": "2026-08-05",
+    "score": 64
+  },
+  {
+    "title": "Physics AI research that’s shaping the industry.",
+    "url": "https://mistral.ai/news/physics-ai-research",
+    "summary": "Published breakthroughs pushing the state of the art.",
+    "tags": [
+      "open_model",
+      "european_ai"
+    ],
+    "author": "Mistral AI",
+    "source": "mistral.ai",
+    "date": "2026-08-05",
+    "score": 64
+  },
+  {
+    "title": "How to Evaluate Voice Agents with LangSmith",
+    "url": "https://www.langchain.com/blog/how-to-evaluate-voice-agents-execution-outcomes-and-experience",
+    "summary": "Learn how to evaluate voice agents across execution, outcomes, and caller experience using LangSmith traces, code evaluators, LLM judges, and human review.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-08-05",
+    "score": 64
+  },
+  {
+    "title": "Leanstral: Open-Source foundation for trustworthy vibe-coding",
+    "url": "https://mistral.ai/news/leanstral",
+    "summary": "Leanstral: Open-Source foundation for trustworthy vibe-coding 是 Mistral AI 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_model",
+      "european_ai"
+    ],
+    "author": "Mistral AI",
+    "source": "mistral.ai",
+    "date": "2026-08-05",
     "score": 63
   },
   {
-    "title": "How Long Prompts Block Other Requests - Optimizing LLM Performance",
-    "url": "https://huggingface.co/blog/tngtech/llm-performance-blocked-by-long-prompts",
-    "summary": "How Long Prompts Block Other Requests - Optimizing LLM Performance 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Rails testing on autopilot: Building an agent that writes what developers won&apos;t",
+    "url": "https://mistral.ai/news/rails-testing-on-autopilot-building-an-agent-that-writes-what-developers-wont",
+    "summary": "Rails testing on autopilot: Building an agent that writes what developers won&apos;t 是 Mistral AI 当日抓取到的公开新增条目。",
     "tags": [
-      "open_source",
-      "papers",
-      "models"
+      "open_model",
+      "european_ai"
     ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-08-04",
-    "score": 62
-  },
-  {
-    "title": "Learn the Hugging Face Kernel Hub in 5 Minutes",
-    "url": "https://huggingface.co/blog/hello-hf-kernels",
-    "summary": "Learn the Hugging Face Kernel Hub in 5 Minutes 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-08-04",
-    "score": 62
-  },
-  {
-    "title": "KV Cache from scratch in nanoVLM",
-    "url": "https://huggingface.co/blog/kv-cache",
-    "summary": "KV Cache from scratch in nanoVLM 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-08-04",
-    "score": 62
-  },
-  {
-    "title": "No GPU left behind: Unlocking Efficiency with Co-located vLLM in TRL",
-    "url": "https://huggingface.co/blog/vllm-colocate",
-    "summary": "No GPU left behind: Unlocking Efficiency with Co-located vLLM in TRL 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-08-04",
-    "score": 62
-  },
-  {
-    "title": "🐯 Liger GRPO meets TRL",
-    "url": "https://huggingface.co/blog/liger-grpo",
-    "summary": "🐯 Liger GRPO meets TRL 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-08-04",
-    "score": 62
-  },
-  {
-    "title": "Falcon-H1: A Family of Hybrid-Head Language Models Redefining Efficiency and Performance",
-    "url": "https://huggingface.co/blog/tiiuae/falcon-h1",
-    "summary": "Falcon-H1: A Family of Hybrid-Head Language Models Redefining Efficiency and Performance 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-08-04",
-    "score": 62
-  },
-  {
-    "title": "Falcon-Arabic: A Breakthrough in Arabic Language Models",
-    "url": "https://huggingface.co/blog/tiiuae/falcon-arabic",
-    "summary": "Falcon-Arabic: A Breakthrough in Arabic Language Models 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-08-04",
-    "score": 62
-  },
-  {
-    "title": "Exploring Quantization Backends in Diffusers",
-    "url": "https://huggingface.co/blog/diffusers-quantization",
-    "summary": "Exploring Quantization Backends in Diffusers 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-08-04",
-    "score": 62
-  },
-  {
-    "title": "Microsoft and Hugging Face expand collaboration",
-    "url": "https://huggingface.co/blog/azure-ai-foundry",
-    "summary": "Microsoft and Hugging Face expand collaboration 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-08-04",
-    "score": 62
-  },
-  {
-    "title": "Falcon-Edge: A series of powerful, universal, fine-tunable 1.58bit language models.",
-    "url": "https://huggingface.co/blog/tiiuae/falcon-edge",
-    "summary": "Falcon-Edge: A series of powerful, universal, fine-tunable 1.58bit language models. 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-08-04",
-    "score": 62
-  },
-  {
-    "title": "The Transformers Library: standardizing model definitions",
-    "url": "https://huggingface.co/blog/transformers-model-definition",
-    "summary": "The Transformers Library: standardizing model definitions 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-08-04",
-    "score": 62
+    "author": "Mistral AI",
+    "source": "mistral.ai",
+    "date": "2026-08-05",
+    "score": 63
   }
 ]

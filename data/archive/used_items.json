@@ -12416,5 +12416,215 @@
     "cluster_id": "huggingface_co_aad89c1a",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6598e8f4f436933e",
+    "canonical_url": "https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack",
+    "dedupe_key": "7980e0dcc94b4140",
+    "title": "Turn one giant AI-generated pull request to a reviewable stack",
+    "issue_date": "2026-08-05",
+    "cluster_id": "github_blog_ca327b28",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_74dd7081a39a7d97",
+    "canonical_url": "https://mistral.ai/news/vibe-agent",
+    "dedupe_key": "792fb851f319c0f5",
+    "title": "Vibe gets to work.",
+    "issue_date": "2026-08-05",
+    "cluster_id": "mistral_ai_a6498333",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_807979509bb8268d",
+    "canonical_url": "https://developer.nvidia.com/blog/generate-trajectories-reasoning-traces-and-auto-labels-with-nvidia-alpamayo-2-super",
+    "dedupe_key": "0430ae17aed8157b",
+    "title": "Generate Trajectories, Reasoning Traces, and Auto-Labels with NVIDIA Alpamayo 2 Super",
+    "issue_date": "2026-08-05",
+    "cluster_id": "developer_nvidia_com_9f20f70f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d069026215fcb7ae",
+    "canonical_url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+    "dedupe_key": "59659c08a98e2c92",
+    "title": "Third-party cyber evaluations involving OpenAI models",
+    "issue_date": "2026-08-05",
+    "cluster_id": "openai_com_34737bac",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d81cd363de254fce",
+    "canonical_url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+    "dedupe_key": "a348f1908dcbc008",
+    "title": "New ways to learn and teach with ChatGPT Work and Codex",
+    "issue_date": "2026-08-05",
+    "cluster_id": "openai_com_c723b10a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4ee9884c4eb81ecf",
+    "canonical_url": "https://openai.com/index/apple-is-getting-this-wrong",
+    "dedupe_key": "a238d284afed6e2e",
+    "title": "Apple is getting this wrong",
+    "issue_date": "2026-08-05",
+    "cluster_id": "openai_com_d8637534",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_92cd9e459a40ab93",
+    "canonical_url": "https://openai.com/index/circles",
+    "dedupe_key": "2686c010f2656c45",
+    "title": "Circles powers telco personalization with OpenAI technology",
+    "issue_date": "2026-08-05",
+    "cluster_id": "openai_com_f483d765",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a08dc549a9e8db9e",
+    "canonical_url": "https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows",
+    "dedupe_key": "45f7012c92a12403",
+    "title": "How the GitHub legal team used Copilot CLI to streamline their workflows",
+    "issue_date": "2026-08-05",
+    "cluster_id": "github_blog_439aca6b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2542eb14060c1206",
+    "canonical_url": "https://mistral.ai/news/devstral-2507",
+    "dedupe_key": "8c1f552f7d7c0ed0",
+    "title": "Upgrading agentic coding capabilities with the new Devstral models",
+    "issue_date": "2026-08-05",
+    "cluster_id": "mistral_ai_3a741be9",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_513fd61e4fef6ced",
+    "canonical_url": "https://developer.nvidia.com/blog/beyond-vlas-how-world-action-models-reshape-robot-manipulation",
+    "dedupe_key": "5ff72162276fb848",
+    "title": "Beyond VLAs: How World Action Models Reshape Robot Manipulation",
+    "issue_date": "2026-08-05",
+    "cluster_id": "developer_nvidia_com_1c487e4a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4d01b0e3ea23eb6a",
+    "canonical_url": "https://vercel.com/changelog/give-your-eve-agent-a-browser",
+    "dedupe_key": "e8a67c71ecc56966",
+    "title": "Give your eve agent a browser",
+    "issue_date": "2026-08-05",
+    "cluster_id": "vercel_com_a763db7d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_38c0ee3cb95ab8f5",
+    "canonical_url": "https://www.langchain.com/blog/customer-experience-cx-agents-in-production-lessons-from-lyft-vodafone-and-latam-airlines",
+    "dedupe_key": "1abfed3c56fd81c4",
+    "title": "Customer Experience (CX) Agents in Production: Lessons from Lyft, Vodafone, and LATAM Airlines",
+    "issue_date": "2026-08-05",
+    "cluster_id": "langchain_com_2b6498fe",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d7e73faec48a7621",
+    "canonical_url": "https://mistral.ai/news/agents-api",
+    "dedupe_key": "01c069f07decef4a",
+    "title": "Build AI agents with the Mistral Agents API",
+    "issue_date": "2026-08-05",
+    "cluster_id": "mistral_ai_02efc832",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_95997752b2f772ad",
+    "canonical_url": "https://mistral.ai/news/agentic-workflows-from-meetings-to-dev-tickets",
+    "dedupe_key": "9326ab7a2a28f734",
+    "title": "Empowering product development with an agentic workflow",
+    "issue_date": "2026-08-05",
+    "cluster_id": "mistral_ai_92755ed3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_05ba77bd7a89ff64",
+    "canonical_url": "https://vercel.com/blog/how-factory-scaled-its-cloud-backend-to-billions-of-monthly-requests-on-vercel",
+    "dedupe_key": "4eb5de3b673b1222",
+    "title": "How Factory scaled its cloud backend to billions of monthly requests on Vercel",
+    "issue_date": "2026-08-05",
+    "cluster_id": "vercel_com_318104d9",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_331a091ed4992445",
+    "canonical_url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+    "dedupe_key": "ab3cbcfc6f7a581d",
+    "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+    "issue_date": "2026-08-05",
+    "cluster_id": "huggingface_co_9dddf7db",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9ab7b30027a1855f",
+    "canonical_url": "https://mistral.ai/news/search-toolkit",
+    "dedupe_key": "83b0487b6c826b54",
+    "title": "Introducing Search Toolkit",
+    "issue_date": "2026-08-05",
+    "cluster_id": "mistral_ai_a886a855",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0438f84607aed3b1",
+    "canonical_url": "https://mistral.ai/news/physics-ai-research",
+    "dedupe_key": "fed51d4bd47ff110",
+    "title": "Physics AI research that’s shaping the industry.",
+    "issue_date": "2026-08-05",
+    "cluster_id": "mistral_ai_489bfaae",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b84262bdece5d77f",
+    "canonical_url": "https://www.langchain.com/blog/how-to-evaluate-voice-agents-execution-outcomes-and-experience",
+    "dedupe_key": "3d6021576705f961",
+    "title": "How to Evaluate Voice Agents with LangSmith",
+    "issue_date": "2026-08-05",
+    "cluster_id": "langchain_com_ee46477f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4a046c231ab587f4",
+    "canonical_url": "https://mistral.ai/news/leanstral",
+    "dedupe_key": "18dfea1cbbe95db8",
+    "title": "Leanstral: Open-Source foundation for trustworthy vibe-coding",
+    "issue_date": "2026-08-05",
+    "cluster_id": "mistral_ai_0f6e4134",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_419a44d7a75414db",
+    "canonical_url": "https://mistral.ai/news/rails-testing-on-autopilot-building-an-agent-that-writes-what-developers-wont",
+    "dedupe_key": "15f53b3907f3f237",
+    "title": "Rails testing on autopilot: Building an agent that writes what developers won&apos;t",
+    "issue_date": "2026-08-05",
+    "cluster_id": "mistral_ai_77ab6aa3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
