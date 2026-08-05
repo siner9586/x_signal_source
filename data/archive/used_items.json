@@ -12626,5 +12626,205 @@
     "cluster_id": "mistral_ai_77ab6aa3",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_273c384e04b7dea0",
+    "canonical_url": "https://vercel.com/changelog/skill-packs-are-now-available",
+    "dedupe_key": "1175d082d66d20d5",
+    "title": "Skill packs are now available on skills.sh",
+    "issue_date": "2026-08-06",
+    "cluster_id": "vercel_com_7bd3a46e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2c8806eabe244f55",
+    "canonical_url": "https://vercel.com/changelog/project-avatars",
+    "dedupe_key": "3b34fd6409b9d696",
+    "title": "Set your own project avatars",
+    "issue_date": "2026-08-06",
+    "cluster_id": "vercel_com_871a074c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a6ad5bc8dbb6d0cf",
+    "canonical_url": "https://vercel.com/blog/introducing-the-new-v0-api",
+    "dedupe_key": "75b71c47e0a7cb71",
+    "title": "Introducing the new v0 API",
+    "issue_date": "2026-08-06",
+    "cluster_id": "vercel_com_93d62cf5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c796b0c0575907a4",
+    "canonical_url": "https://vercel.com/changelog/muse-spark-1-2-is-now-available-on-vercel-ai-gateway",
+    "dedupe_key": "0e607cdd55474439",
+    "title": "Muse Spark 1.2 is now available on Vercel AI Gateway",
+    "issue_date": "2026-08-06",
+    "cluster_id": "vercel_com_d27feda0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_da03b8b394aa90cf",
+    "canonical_url": "https://vercel.com/changelog/vercel-sandbox-now-supports-devin-outposts",
+    "dedupe_key": "746705c4fd0873a0",
+    "title": "Vercel Sandbox now supports Devin Outposts",
+    "issue_date": "2026-08-06",
+    "cluster_id": "vercel_com_58ba8455",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_bf4baa7f260a4608",
+    "canonical_url": "https://vercel.com/changelog/full-sandbox-egress-firewall-now-available-on-hobby-plan",
+    "dedupe_key": "9a38298692493247",
+    "title": "Full Sandbox egress firewall now available on Hobby plan",
+    "issue_date": "2026-08-06",
+    "cluster_id": "vercel_com_bf76550f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a5dbcc6cda70cc71",
+    "canonical_url": "https://vercel.com/blog/how-factory-scaled-its-cloud-backend-to-one-billion-monthly-requests-on-vercel",
+    "dedupe_key": "bebd7334c5603e2a",
+    "title": "How Factory scaled its cloud backend to one billion monthly requests on Vercel",
+    "issue_date": "2026-08-06",
+    "cluster_id": "vercel_com_f3a59cf6",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_dbe76b0cb860dfd1",
+    "canonical_url": "https://www.langchain.com/blog/how-we-build-an-autonomous-sre-agent-for-kubernetes-deployments",
+    "dedupe_key": "d851d5c7340be278",
+    "title": "How we built an autonomous SRE agent for Kubernetes",
+    "issue_date": "2026-08-06",
+    "cluster_id": "langchain_com_33382077",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_61f2effc73ee952d",
+    "canonical_url": "https://www.lennysnewsletter.com/p/build-an-ai-code-review-bot-in-30",
+    "dedupe_key": "786f81391f5589c4",
+    "title": "Build an AI code review bot in 30 minutes with Vercel Eve",
+    "issue_date": "2026-08-06",
+    "cluster_id": "lennysnewsletter_com_2f2c5b3f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_68aca403568b3db4",
+    "canonical_url": "https://a16z.com/podcast/openais-joshua-achiam-did-we-already-reach-agi",
+    "dedupe_key": "dd74ccd6eee02276",
+    "title": "OpenAI&rsquo;s Joshua Achiam: Did We Already Reach AGI?",
+    "issue_date": "2026-08-06",
+    "cluster_id": "a16z_com_faab4dec",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5906c148add5d5f1",
+    "canonical_url": "https://a16z.com/podcast/ruby-thelot-on-internet-culture-ai-and-the-future-of-taste",
+    "dedupe_key": "61a5e7c06da4a7e5",
+    "title": "Ruby Thelot on Internet Culture, AI, and the Future of Taste",
+    "issue_date": "2026-08-06",
+    "cluster_id": "a16z_com_61e2c3a5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8a80b126680886f6",
+    "canonical_url": "https://a16z.com/podcast/marc-andreessen-and-chris-dixon-whats-at-stake-in-crypto-regulation",
+    "dedupe_key": "929574b9e75cacb4",
+    "title": "Marc Andreessen and Chris Dixon: What&rsquo;s at Stake in Crypto Regulation",
+    "issue_date": "2026-08-06",
+    "cluster_id": "a16z_com_d3f9c67a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_55a8eeda735bb185",
+    "canonical_url": "https://a16z.com/podcast/fei-fei-li-on-spatial-intelligence-and-robotics",
+    "dedupe_key": "56362b6e246171de",
+    "title": "Fei-Fei Li on Spatial Intelligence and Robotics",
+    "issue_date": "2026-08-06",
+    "cluster_id": "a16z_com_ab146285",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f23b229b9ec83878",
+    "canonical_url": "https://a16z.com/podcast/steven-sinofsky-ai-doesnt-need-new-rules-yet",
+    "dedupe_key": "a82f7cc451171177",
+    "title": "Steven Sinofsky: AI Doesn&rsquo;t Need New Rules Yet",
+    "issue_date": "2026-08-06",
+    "cluster_id": "a16z_com_8dac3b54",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_21dc1cc885611e2d",
+    "canonical_url": "https://a16z.com/podcast/building-the-physical-ai-stack-travis-kalanick-on-tbpn",
+    "dedupe_key": "b0bd5e99ec635424",
+    "title": "Building the Physical AI Stack | Travis Kalanick on TBPN",
+    "issue_date": "2026-08-06",
+    "cluster_id": "a16z_com_ee063216",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ce9dd4c1780059e8",
+    "canonical_url": "https://mistral.ai/news/codestral-25-08",
+    "dedupe_key": "14077a5c2ffacfde",
+    "title": "Announcing Codestral 25.08 and the Complete Mistral Coding Stack for Enterprise",
+    "issue_date": "2026-08-06",
+    "cluster_id": "mistral_ai_468ce971",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f78b9ce4e947f34d",
+    "canonical_url": "https://vercel.com/changelog/new-setup-page-after-domain-checkout",
+    "dedupe_key": "37cb31d95ac11f86",
+    "title": "New setup page after domain checkout",
+    "issue_date": "2026-08-06",
+    "cluster_id": "vercel_com_3e84759a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_81a75110e4685102",
+    "canonical_url": "https://vercel.com/changelog/ai-gateway-is-now-available-on-aws-marketplace",
+    "dedupe_key": "639ee673019f7d0b",
+    "title": "AI Gateway is now available on AWS Marketplace",
+    "issue_date": "2026-08-06",
+    "cluster_id": "vercel_com_69c9acce",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_516340d7b91b5273",
+    "canonical_url": "https://vercel.com/changelog/vercel-sandbox-now-supports-10-000-concurrent-sandboxes-and-5-000-vcpus-per-minute",
+    "dedupe_key": "ce03bd3368521bf9",
+    "title": "Vercel Sandbox now supports 10,000 concurrent sandboxes and 5,000 vCPUs per minute",
+    "issue_date": "2026-08-06",
+    "cluster_id": "vercel_com_7218fb27",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_fa4709a0228a426a",
+    "canonical_url": "https://vercel.com/changelog/search-and-buy-domains-in-the-dashboard",
+    "dedupe_key": "1f029101ed99f1ca",
+    "title": "Search and buy domains in the dashboard",
+    "issue_date": "2026-08-06",
+    "cluster_id": "vercel_com_06d4b285",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
