@@ -12826,5 +12826,215 @@
     "cluster_id": "vercel_com_06d4b285",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_158b50b023061365",
+    "canonical_url": "https://vercel.com/blog/introducing-agent-plugins",
+    "dedupe_key": "497795ac5ec82fbf",
+    "title": "6 August General Introducing Agent Plugins Agent Plugins is an open, vendor-neutral standard for plugins that extend AI agents. Jonathan Hefner Member of Technical Staff",
+    "issue_date": "2026-08-07",
+    "cluster_id": "vercel_com_726ffdea",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4ed71fbc92d5c167",
+    "canonical_url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones",
+    "dedupe_key": "d4af6c1fcc586ff7",
+    "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+    "issue_date": "2026-08-07",
+    "cluster_id": "deepmind_google_5405c6f3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8ee12f7f900ede0e",
+    "canonical_url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+    "dedupe_key": "8bbeee5492b6abb0",
+    "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+    "issue_date": "2026-08-07",
+    "cluster_id": "openai_com_5dcc1043",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9bb6aed8ae162d1b",
+    "canonical_url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+    "dedupe_key": "5ea0b08f0fc17cee",
+    "title": "Working with the American Psychological Association on youth mental health and AI",
+    "issue_date": "2026-08-07",
+    "cluster_id": "openai_com_3bf9a19c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7f911c84e44cf155",
+    "canonical_url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+    "dedupe_key": "e51ef239507ca89d",
+    "title": "From asking to doing: How the world is putting ChatGPT to work",
+    "issue_date": "2026-08-07",
+    "cluster_id": "openai_com_2435f0bf",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e43fc6a89f04466a",
+    "canonical_url": "https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app",
+    "dedupe_key": "7f219b7011d341dc",
+    "title": "A guide to slash commands in the GitHub Copilot app",
+    "issue_date": "2026-08-07",
+    "cluster_id": "github_blog_661c1733",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_fddc1a71761b134e",
+    "canonical_url": "https://github.blog/security/supply-chain-security/how-we-took-malware-advisories-beyond-npm",
+    "dedupe_key": "6b21cd4722fc9588",
+    "title": "How we took malware advisories beyond npm",
+    "issue_date": "2026-08-07",
+    "cluster_id": "github_blog_f3cccb73",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_326f6d96ef99ba71",
+    "canonical_url": "https://vercel.com/changelog/vercel-marketplace-agent-skills",
+    "dedupe_key": "5f98e40784fbdb79",
+    "title": "Marketplace integrations now install provider skills",
+    "issue_date": "2026-08-07",
+    "cluster_id": "vercel_com_fdb055f0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_27313fb6da5acb87",
+    "canonical_url": "https://vercel.com/changelog/ling-3-0-tiny-is-now-available-on-ai-gateway",
+    "dedupe_key": "5da4c43a17fe77a1",
+    "title": "Ling 3.0 Tiny is now available on AI Gateway",
+    "issue_date": "2026-08-07",
+    "cluster_id": "vercel_com_050568cd",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_14af189a8ea04380",
+    "canonical_url": "https://vercel.com/changelog/introducing-agent-plugins-1-0-0",
+    "dedupe_key": "cc291d814abc0981",
+    "title": "Introducing Agent Plugins 1.0.0",
+    "issue_date": "2026-08-07",
+    "cluster_id": "vercel_com_02e7b12e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_04bdc56e9fe77ec6",
+    "canonical_url": "https://www.langchain.com/blog/deep-agents-vs-langchain-vs-langgraph",
+    "dedupe_key": "dbabc107d54cdb98",
+    "title": "Deep Agents vs LangChain vs LangGraph",
+    "issue_date": "2026-08-07",
+    "cluster_id": "langchain_com_fdade9fa",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_516166f8909218f4",
+    "canonical_url": "https://vercel.com/changelog/chat-sdk-durable-approvals",
+    "dedupe_key": "ebff001c75b2f94e",
+    "title": "Pause workflows for approval with Chat SDK",
+    "issue_date": "2026-08-07",
+    "cluster_id": "vercel_com_bda85a53",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4e2191fea68c03f7",
+    "canonical_url": "https://vercel.com/changelog/export-ai-gateway-traces-with-vercel-drains",
+    "dedupe_key": "ae5e574ccbf6726a",
+    "title": "Export AI Gateway traces with Vercel Drains",
+    "issue_date": "2026-08-07",
+    "cluster_id": "vercel_com_95ff87eb",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6330fc8a31ef8d37",
+    "canonical_url": "https://vercel.com/changelog/measure-time-between-steps-in-vercel-workflows",
+    "dedupe_key": "ed19ff7103bd1391",
+    "title": "Measure time between steps in Vercel Workflows",
+    "issue_date": "2026-08-07",
+    "cluster_id": "vercel_com_64563735",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7d1f27822de3542e",
+    "canonical_url": "https://vercel.com/blog/vercel-supports-next-js-16-3",
+    "dedupe_key": "b7401984524b0d4c",
+    "title": "Next.js 16.3 support on Vercel",
+    "issue_date": "2026-08-07",
+    "cluster_id": "vercel_com_83dcb150",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_19b00fa25b59852e",
+    "canonical_url": "https://vercel.com/changelog/deploys-are-now-up-to-33-faster-for-apps-with-many-isr-pages",
+    "dedupe_key": "165896822f010daa",
+    "title": "Deploys are now up to 33% faster for apps with many ISR pages",
+    "issue_date": "2026-08-07",
+    "cluster_id": "vercel_com_faedf200",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d6a830c439432023",
+    "canonical_url": "https://vercel.com/changelog/deepseek-v4-flash-is-90-off-through-novita",
+    "dedupe_key": "7d86986913cd98c2",
+    "title": "DeepSeek V4 Flash is 90% off through Novita on AI Gateway",
+    "issue_date": "2026-08-07",
+    "cluster_id": "vercel_com_302bd681",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b6902cffed37c73c",
+    "canonical_url": "https://www.anthropic.com/news/tino-cuellar",
+    "dedupe_key": "d3637cb265536576",
+    "title": "Aug 4, 2026 Announcements Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
+    "issue_date": "2026-08-07",
+    "cluster_id": "anthropic_com_7b56e848",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8f823e76f1b0d835",
+    "canonical_url": "https://mistral.ai/news/introducing-physics-ai-at-mistral",
+    "dedupe_key": "337d1ee3ebbb4440",
+    "title": "Introducing physics AI at Mistral: the foundation for engineering acceleration.",
+    "issue_date": "2026-08-07",
+    "cluster_id": "mistral_ai_ff05294e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_378da71da8a39eab",
+    "canonical_url": "https://mistral.ai/news/mistral-ai-non-production-license-mnpl",
+    "dedupe_key": "30ee8905944962cb",
+    "title": "The Mistral AI Non-Production License",
+    "issue_date": "2026-08-07",
+    "cluster_id": "mistral_ai_4fae6195",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0ee81591cdaaa946",
+    "canonical_url": "https://huggingface.co/blog/baseten",
+    "dedupe_key": "e10625a6814a17bd",
+    "title": "Baseten on Hugging Face Inference Providers 🔥",
+    "issue_date": "2026-08-07",
+    "cluster_id": "huggingface_co_cc735b2a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]

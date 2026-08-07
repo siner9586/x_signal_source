@@ -1,8 +1,8 @@
 [
   {
-    "title": "Skill packs are now available on skills.sh",
-    "url": "https://vercel.com/changelog/skill-packs-are-now-available",
-    "summary": "You can now bundle multiple agent skills into a shareable pack on skills.sh . Hand anyone a curated set via a single URL, or share it with your GitHub organization to standardize the skills your team's agents use across any project. Create a pack from community skills on skills.sh , or your own from local folders, zips, or GitHub repositories. Install any pack with one command: Run npx skills update to update a pack to its latest version. Explore and create packs at skills.sh",
+    "title": "6 August General Introducing Agent Plugins Agent Plugins is an open, vendor-neutral standard for plugins that extend AI agents. Jonathan Hefner Member of Technical Staff",
+    "url": "https://vercel.com/blog/introducing-agent-plugins",
+    "summary": "Blog - Vercel · 6 August General Introducing Agent Plugins Agent Plugins is an open, vendor-neutral standard for plugins that extend AI agents. Jonathan Hefner Member of Technical Staff",
     "tags": [
       "sdk",
       "ai_infra",
@@ -10,27 +10,99 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-08-06",
-    "score": 69
+    "date": "2026-08-07",
+    "score": 71
   },
   {
-    "title": "Set your own project avatars",
-    "url": "https://vercel.com/changelog/project-avatars",
-    "summary": "You can now set a project's avatar from its settings in the Vercel dashboard. Until now, Vercel set it automatically, using the favicon from the project's production deployment. That's still the default if you haven't set one. The avatar renders across the dashboard and on Vercel bot comments in GitHub. Microfrontend projects that share one favicon can now get distinct avatars, and backend projects with no favicon to detect can set one explicitly. You can change a project's a",
+    "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+    "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones",
+    "summary": "WeatherNext: AI model achieves breakthrough in forecasting cyclones 是 Google DeepMind 当日抓取到的公开新增条目。",
     "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
+      "research",
+      "multimodal",
+      "science",
+      "official"
     ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-08-06",
+    "author": "Google DeepMind",
+    "source": "deepmind.google",
+    "date": "2026-08-07",
+    "score": 68
+  },
+  {
+    "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+    "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+    "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-08-07",
     "score": 67
   },
   {
-    "title": "Introducing the new v0 API",
-    "url": "https://vercel.com/blog/introducing-the-new-v0-api",
-    "summary": "Today we're introducing the new v0 API : programmatic, headless access to v0's app-building agent. Send a prompt and v0 generates an app, starts a dev server in a Vercel Sandbox , and gives you a preview URL you can embed in your own UI. Each chat is an isolated workspace for one app, where v0 can read, edit, and run the files. Follow-up messages continue from the current state. v0 verifies the code running in the Sandbox, so it can catch and fix errors in your app in real ti",
+    "title": "Working with the American Psychological Association on youth mental health and AI",
+    "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+    "summary": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-08-07",
+    "score": 67
+  },
+  {
+    "title": "From asking to doing: How the world is putting ChatGPT to work",
+    "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+    "summary": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-08-07",
+    "score": 67
+  },
+  {
+    "title": "A guide to slash commands in the GitHub Copilot app",
+    "url": "https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app",
+    "summary": "Go beyond chat in the GitHub Copilot app with these slash commands. They'll help you plan, collaborate, automate, and customize your dev workflow. The post A guide to slash commands in the GitHub Copilot app appeared first on The GitHub Blog .",
+    "tags": [
+      "ai_coding",
+      "developer_tools"
+    ],
+    "author": "GitHub Copilot",
+    "source": "github.blog",
+    "date": "2026-08-07",
+    "score": 67
+  },
+  {
+    "title": "How we took malware advisories beyond npm",
+    "url": "https://github.blog/security/supply-chain-security/how-we-took-malware-advisories-beyond-npm",
+    "summary": "GitHub malware advisories no longer stop at npm. Here's how we wired OpenSSF's malicious-packages data into the Advisory Database, and why we built the pipeline paranoid. The post How we took malware advisories beyond npm appeared first on The GitHub Blog .",
+    "tags": [
+      "ai_coding",
+      "developer_tools"
+    ],
+    "author": "GitHub Copilot",
+    "source": "github.blog",
+    "date": "2026-08-07",
+    "score": 67
+  },
+  {
+    "title": "Marketplace integrations now install provider skills",
+    "url": "https://vercel.com/changelog/vercel-marketplace-agent-skills",
+    "summary": "When you install a Vercel Marketplace integration from the Vercel CLI, it now also installs that provider's agent skills from skills.sh , so your agents know how to use it: This happens automatically for any provider that publishes skills. You can also find integrations without leaving the terminal: vercel integration discover browses available providers. vercel integration categories lists all the Marketplace categories they're grouped into, like databases, AI, and observabi",
     "tags": [
       "sdk",
       "ai_infra",
@@ -38,13 +110,13 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-08-06",
+    "date": "2026-08-07",
     "score": 66
   },
   {
-    "title": "Muse Spark 1.2 is now available on Vercel AI Gateway",
-    "url": "https://vercel.com/changelog/muse-spark-1-2-is-now-available-on-vercel-ai-gateway",
-    "summary": "Muse Spark 1.2 from Meta is now available on AI Gateway. It is a coding-focused update to the previous Muse Spark model. While keeping its general capabilities, 1.2 ships with improvements in code generation, complex debugging, codebase understanding, and end-to-end developer workflows. The model is built for long-horizon work like generating whole repositories, building out large projects end to end, and sustaining iterative loops where it writes, compiles, profiles, and imp",
+    "title": "Ling 3.0 Tiny is now available on AI Gateway",
+    "url": "https://vercel.com/changelog/ling-3-0-tiny-is-now-available-on-ai-gateway",
+    "summary": "Ling 3.0 Tiny from ANT Group is now on AI Gateway, free to use till 8:00am PT on 8/14. Ling 3.0 Tiny takes the free slot from Ling 3.0 Flash . Ling 3.0 Tiny is a MOE model with 7.9B total parameters and about 1.3B active per token, a 256K token context window, and up to 32K output tokens. The model is built for responsive agents, instruction following, and multi-turn conversation, with native function calling and prompt caching. To use Ling 3.0 Tiny, set model to inclusionai/",
     "tags": [
       "sdk",
       "ai_infra",
@@ -52,13 +124,13 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-08-06",
+    "date": "2026-08-07",
     "score": 66
   },
   {
-    "title": "Vercel Sandbox now supports Devin Outposts",
-    "url": "https://vercel.com/changelog/vercel-sandbox-now-supports-devin-outposts",
-    "summary": "Vercel Sandbox now supports Devin Outposts . Each Devin session executes in its own isolated Sandbox microVM, with no local Outpost worker to keep online. The Devin control plane stays with Cognition, where the agent loop handles inference and planning. Session orchestration and command execution run in your Vercel project, and a durable workflow manages each session's lifecycle. With the integration, teams can: Preserve session state with Sandbox snapshots . Apply Devin netw",
+    "title": "Introducing Agent Plugins 1.0.0",
+    "url": "https://vercel.com/changelog/introducing-agent-plugins-1-0-0",
+    "summary": "Agent Plugins 1.0.0 is now available. It is an open, vendor-neutral standard for packaging Agent Skills and MCP servers into portable plugins. Compatible agent clients can discover and load them. Agent Plugins defines a common format: a root plugin.json manifest, plus fixed locations for portable components. Each client keeps control of installation, distribution, policy, user experience, and client-specific capabilities. At launch, Agent Plugins is supported across the follo",
     "tags": [
       "sdk",
       "ai_infra",
@@ -66,41 +138,13 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-08-06",
+    "date": "2026-08-07",
     "score": 66
   },
   {
-    "title": "Full Sandbox egress firewall now available on Hobby plan",
-    "url": "https://vercel.com/changelog/full-sandbox-egress-firewall-now-available-on-hobby-plan",
-    "summary": "All Vercel Sandbox firewall features are now available on the Hobby plan. This brings the same network isolation that protects production workloads to the free tier, giving Hobby builders control over exactly what leaves the sandbox while keeping secrets out of the code entirely. Because the firewall attaches secrets to outbound requests itself, sandboxed code can call authenticated services like AI Gateway without ever seeing the token. Define allow-all , deny-all , or custo",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-08-06",
-    "score": 65
-  },
-  {
-    "title": "How Factory scaled its cloud backend to one billion monthly requests on Vercel",
-    "url": "https://vercel.com/blog/how-factory-scaled-its-cloud-backend-to-one-billion-monthly-requests-on-vercel",
-    "summary": "Factory on Vercel One billion backend API requests served daily 350ms p95 response time Scaled backend, internal tooling, and security without a dedicated infrastructure team Factory's mission is to bring autonomy to every phase of the software development lifecycle, from signals to production. Not to replace engineering judgment, but to automate the repetitive work around it, giving engineers more time to focus on the decisions that matter most. To deliver this enterprise-gr",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-08-06",
-    "score": 65
-  },
-  {
-    "title": "How we built an autonomous SRE agent for Kubernetes",
-    "url": "https://www.langchain.com/blog/how-we-build-an-autonomous-sre-agent-for-kubernetes-deployments",
-    "summary": "Learn how LangChain built an autonomous SRE agent for Kubernetes deployments with Deep Agents, human approval for changes, LangSmith tracing, and evals.",
+    "title": "Deep Agents vs LangChain vs LangGraph",
+    "url": "https://www.langchain.com/blog/deep-agents-vs-langchain-vs-langgraph",
+    "summary": "Deep Agents, LangChain, and LangGraph each offer distinct approaches to building agents. In this post, we cover the key distinctions between our open source frameworks and when you should reach for each one.",
     "tags": [
       "agents",
       "rag",
@@ -108,174 +152,145 @@
     ],
     "author": "LangChain",
     "source": "langchain.com",
-    "date": "2026-08-06",
+    "date": "2026-08-07",
     "score": 65
   },
   {
-    "title": "Build an AI code review bot in 30 minutes with Vercel Eve",
-    "url": "https://www.lennysnewsletter.com/p/build-an-ai-code-review-bot-in-30",
-    "summary": "Watch now | &#127897;&#65039; I used Vercel Eve agents and Codex to build Merge Mommy: a PR review bot that scores risk, auto-approves the easy ones, and pings me in Slack for the rest",
+    "title": "Pause workflows for approval with Chat SDK",
+    "url": "https://vercel.com/changelog/chat-sdk-durable-approvals",
+    "summary": "You can build human-in-the-loop approvals with Chat SDK through the new chat/workflow subpath. One requestApproval call posts a card with Approve and Deny buttons and suspends a Workflow SDK workflow until someone decides. The wait can last seconds or days and survives deploys and restarts. You don't need an approvals table, an onAction handler, or a polling loop: Start the workflow from any handler, and Thread instances serialize across the workflow boundary automatically. T",
     "tags": [
-      "product",
-      "growth",
-      "startup"
+      "sdk",
+      "ai_infra",
+      "frontend"
     ],
-    "author": "Lenny's Newsletter",
-    "source": "lennysnewsletter.com",
-    "date": "2026-08-06",
-    "score": 65
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-08-07",
+    "score": 63
   },
   {
-    "title": "OpenAI&rsquo;s Joshua Achiam: Did We Already Reach AGI?",
-    "url": "https://a16z.com/podcast/openais-joshua-achiam-did-we-already-reach-agi",
-    "summary": "AI a16z | Andreessen Horowitz · OpenAI&rsquo;s Joshua Achiam: Did We Already Reach AGI?",
+    "title": "Export AI Gateway traces with Vercel Drains",
+    "url": "https://vercel.com/changelog/export-ai-gateway-traces-with-vercel-drains",
+    "summary": "AI Gateway now produces an OpenTelemetry trace for every request. Pro and Enterprise teams can send these traces through Vercel Drains to any OTLP/HTTP-compatible endpoint, including native integrations for Braintrust, Dash0, Kubiks, Sentry, and Statsig. Each trace shows the full request lifecycle, including: Model and provider routing Fallback and retry attempts Token usage and cost Time to first token, request duration, and response status Project, deployment, API key, envi",
     "tags": [
-      "investment",
-      "startup",
-      "thesis"
+      "sdk",
+      "ai_infra",
+      "frontend"
     ],
-    "author": "a16z AI",
-    "source": "a16z.com",
-    "date": "2026-08-06",
-    "score": 64
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-08-07",
+    "score": 63
   },
   {
-    "title": "Ruby Thelot on Internet Culture, AI, and the Future of Taste",
-    "url": "https://a16z.com/podcast/ruby-thelot-on-internet-culture-ai-and-the-future-of-taste",
-    "summary": "AI a16z | Andreessen Horowitz · Ruby Thelot on Internet Culture, AI, and the Future of Taste",
+    "title": "Measure time between steps in Vercel Workflows",
+    "url": "https://vercel.com/changelog/measure-time-between-steps-in-vercel-workflows",
+    "summary": "You can now measure the time between any two steps in the trace viewer for Vercel Workflows and the Workflow SDK . Select a step, hold Option on macOS or Alt on Windows and Linux, then hover another step to see a measurement line between them: Between sequential steps, the line measures from the end of the earlier step to the start of the later step. Between overlapping or nested steps, it measures the difference between their start times. With no step selected, hold the modi",
     "tags": [
-      "investment",
-      "startup",
-      "thesis"
+      "sdk",
+      "ai_infra",
+      "frontend"
     ],
-    "author": "a16z AI",
-    "source": "a16z.com",
-    "date": "2026-08-06",
-    "score": 64
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-08-07",
+    "score": 63
   },
   {
-    "title": "Marc Andreessen and Chris Dixon: What&rsquo;s at Stake in Crypto Regulation",
-    "url": "https://a16z.com/podcast/marc-andreessen-and-chris-dixon-whats-at-stake-in-crypto-regulation",
-    "summary": "AI a16z | Andreessen Horowitz · Marc Andreessen and Chris Dixon: What&rsquo;s at Stake in Crypto Regulation",
+    "title": "Next.js 16.3 support on Vercel",
+    "url": "https://vercel.com/blog/vercel-supports-next-js-16-3",
+    "summary": "Yesterday the Next.js team announced the release of Next.js 16.3 , with leaner prefetching, immutable static assets, and instant navigations. As part of this release, we worked with the Next.js team to fully support 16.3 on Vercel, including better performance and additional observability. Applications that have upgraded have seen: Fewer prefetch requests : Apps upgrading from 16.2 to 16.3 saw 45% fewer prefetch requests on average, with some seeing reductions over 70%. Lower",
     "tags": [
-      "investment",
-      "startup",
-      "thesis"
+      "sdk",
+      "ai_infra",
+      "frontend"
     ],
-    "author": "a16z AI",
-    "source": "a16z.com",
-    "date": "2026-08-06",
-    "score": 64
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-08-07",
+    "score": 63
   },
   {
-    "title": "Fei-Fei Li on Spatial Intelligence and Robotics",
-    "url": "https://a16z.com/podcast/fei-fei-li-on-spatial-intelligence-and-robotics",
-    "summary": "AI a16z | Andreessen Horowitz · Fei-Fei Li on Spatial Intelligence and Robotics",
+    "title": "Deploys are now up to 33% faster for apps with many ISR pages",
+    "url": "https://vercel.com/changelog/deploys-are-now-up-to-33-faster-for-apps-with-many-isr-pages",
+    "summary": "Deploys are now up to 33% faster for apps using Incremental Static Regeneration (ISR). The more prerendered pages you have, the more you're likely to save. ISR combines the speed of static generation with the flexibility of dynamic rendering, letting sites update content without full rebuilds. Every ISR page has routing metadata that ships alongside it. Previously, when that metadata grew too large, it split into a separate upload, adding work to every deploy. Now it always s",
     "tags": [
-      "investment",
-      "startup",
-      "thesis"
+      "sdk",
+      "ai_infra",
+      "frontend"
     ],
-    "author": "a16z AI",
-    "source": "a16z.com",
-    "date": "2026-08-06",
-    "score": 64
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-08-07",
+    "score": 63
   },
   {
-    "title": "Steven Sinofsky: AI Doesn&rsquo;t Need New Rules Yet",
-    "url": "https://a16z.com/podcast/steven-sinofsky-ai-doesnt-need-new-rules-yet",
-    "summary": "AI a16z | Andreessen Horowitz · Steven Sinofsky: AI Doesn&rsquo;t Need New Rules Yet",
+    "title": "DeepSeek V4 Flash is 90% off through Novita on AI Gateway",
+    "url": "https://vercel.com/changelog/deepseek-v4-flash-is-90-off-through-novita",
+    "summary": "DeepSeek v4 Flash is 90% off on AI Gateway when you route to Novita. The discount is available to Vercel Pro customers through August 11. To get the discounted rate, set the model to deepseek/deepseek-v4-flash or deepseek/deepseek-v4-flash-0731 and put Novita first with the order option: If Novita can't serve the request, it falls back to other providers at the standard rate. After August 11, the model stays available at standard rates with no markup. Create an API key in the",
     "tags": [
-      "investment",
-      "startup",
-      "thesis"
+      "sdk",
+      "ai_infra",
+      "frontend"
     ],
-    "author": "a16z AI",
-    "source": "a16z.com",
-    "date": "2026-08-06",
-    "score": 64
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-08-07",
+    "score": 63
   },
   {
-    "title": "Building the Physical AI Stack | Travis Kalanick on TBPN",
-    "url": "https://a16z.com/podcast/building-the-physical-ai-stack-travis-kalanick-on-tbpn",
-    "summary": "AI a16z | Andreessen Horowitz · Building the Physical AI Stack | Travis Kalanick on TBPN",
+    "title": "Aug 4, 2026 Announcements Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
+    "url": "https://www.anthropic.com/news/tino-cuellar",
+    "summary": "Newsroom \\ Anthropic · Aug 4, 2026 Announcements Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
     "tags": [
-      "investment",
-      "startup",
-      "thesis"
+      "ai_models",
+      "safety",
+      "official"
     ],
-    "author": "a16z AI",
-    "source": "a16z.com",
-    "date": "2026-08-06",
-    "score": 64
+    "author": "Anthropic",
+    "source": "anthropic.com",
+    "date": "2026-08-07",
+    "score": 62
   },
   {
-    "title": "Announcing Codestral 25.08 and the Complete Mistral Coding Stack for Enterprise",
-    "url": "https://mistral.ai/news/codestral-25-08",
-    "summary": "Announcing Codestral 25.08 and the Complete Mistral Coding Stack for Enterprise 是 Mistral AI 当日抓取到的公开新增条目。",
+    "title": "Introducing physics AI at Mistral: the foundation for engineering acceleration.",
+    "url": "https://mistral.ai/news/introducing-physics-ai-at-mistral",
+    "summary": "A new class of AI models that predict the behavior of physical systems, powering the engineers and hardware products of tomorrow.",
     "tags": [
       "open_model",
       "european_ai"
     ],
     "author": "Mistral AI",
     "source": "mistral.ai",
-    "date": "2026-08-06",
-    "score": 63
+    "date": "2026-08-07",
+    "score": 62
   },
   {
-    "title": "New setup page after domain checkout",
-    "url": "https://vercel.com/changelog/new-setup-page-after-domain-checkout",
-    "summary": "Buying a domain on Vercel now takes you to a setup page that tracks registration live, with direct paths to deploy a new project, connect an existing one, proxy or redirect a site you already run, or set up email. Registration can take a few minutes. Each setup action unlocks as soon as the domain is ready. If registration fails, the page shows what went wrong and the status of your refund. Deploy a new project or connect an existing one Deploy something opens project creatio",
+    "title": "The Mistral AI Non-Production License",
+    "url": "https://mistral.ai/news/mistral-ai-non-production-license-mnpl",
+    "summary": "The Mistral AI Non-Production License 是 Mistral AI 当日抓取到的公开新增条目。",
     "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
+      "open_model",
+      "european_ai"
     ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-08-06",
-    "score": 63
+    "author": "Mistral AI",
+    "source": "mistral.ai",
+    "date": "2026-08-07",
+    "score": 62
   },
   {
-    "title": "AI Gateway is now available on AWS Marketplace",
-    "url": "https://vercel.com/changelog/ai-gateway-is-now-available-on-aws-marketplace",
-    "summary": "AI Gateway is now available on AWS Marketplace . Teams can procure AI Gateway through their existing AWS account, consolidating inference spend onto their AWS bill and streamlining procurement. Purchases are available as private offers with annual contract terms, plus usage-based pricing beyond the contract. AI Gateway gives you one API to hundreds of models through a single endpoint. Reliability, cost controls, and governance, including automatic fallbacks, regional inferenc",
+    "title": "Baseten on Hugging Face Inference Providers 🔥",
+    "url": "https://huggingface.co/blog/baseten",
+    "summary": "Baseten on Hugging Face Inference Providers 🔥 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
+      "open_source",
+      "papers",
+      "models"
     ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-08-06",
-    "score": 63
-  },
-  {
-    "title": "Vercel Sandbox now supports 10,000 concurrent sandboxes and 5,000 vCPUs per minute",
-    "url": "https://vercel.com/changelog/vercel-sandbox-now-supports-10-000-concurrent-sandboxes-and-5-000-vcpus-per-minute",
-    "summary": "We've increased the default quotas for Vercel Sandbox on Pro and Enterprise plans: Quota Before After Concurrent sandboxes 2,000 10,000 vCPUs allocation rate 200/min (Pro), 400/min (Enterprise) Up to 5,000/min The higher vCPU allocation rate is possible thanks to a new dynamic quota: instead of a fixed limit, the allowed rate now ramps with sustained usage: it starts at 150 vCPUs per minute and increases by 500 vCPUs per minute as you continue creating sandboxes, up to 5,000 ",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-08-06",
-    "score": 63
-  },
-  {
-    "title": "Search and buy domains in the dashboard",
-    "url": "https://vercel.com/changelog/search-and-buy-domains-in-the-dashboard",
-    "summary": "You can now search for and purchase domains from the Vercel dashboard . Open the domain search panel from the Buy button in domain settings or the + button on the project overview. Nameservers are configured automatically for your project, so there are no DNS records to set. Read the working with domains documentation to get started. Read more",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-08-06",
-    "score": 63
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-08-07",
+    "score": 62
   }
 ]
