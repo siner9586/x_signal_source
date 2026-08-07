@@ -13036,5 +13036,205 @@
     "cluster_id": "huggingface_co_cc735b2a",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_21707646c8911332",
+    "canonical_url": "https://openai.com/index/hsp-gruppe",
+    "dedupe_key": "a447f7c8ee49c921",
+    "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+    "issue_date": "2026-08-08",
+    "cluster_id": "openai_com_2a2c31fb",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_16edf87625b36de1",
+    "canonical_url": "https://www.langchain.com/blog/managed-deep-agents-is-now-in-public-beta",
+    "dedupe_key": "b844b56ff056be57",
+    "title": "Managed Deep Agents is now in public beta",
+    "issue_date": "2026-08-08",
+    "cluster_id": "langchain_com_4d4fec91",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2f1a051c7053e015",
+    "canonical_url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+    "dedupe_key": "32b0c79271a3564e",
+    "title": "Responding to the next frontier of critical cyber capabilities",
+    "issue_date": "2026-08-08",
+    "cluster_id": "openai_com_fa6eb474",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ed15bd2f3393ca43",
+    "canonical_url": "https://www.langchain.com/blog/introducing-managed-deep-agents",
+    "dedupe_key": "68eacb2dd4b93560",
+    "title": "Managed Deep Agents: the fastest way to ship a production deep agent",
+    "issue_date": "2026-08-08",
+    "cluster_id": "langchain_com_acb5bfa9",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c6b6665a6df7c32b",
+    "canonical_url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+    "dedupe_key": "c606132335e803d2",
+    "title": "Aug 7, 2026 Product Improving Fable 5&#x27;s biology safeguards",
+    "issue_date": "2026-08-08",
+    "cluster_id": "anthropic_com_aca420a6",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f8552159a10f9e5a",
+    "canonical_url": "https://vercel.com/changelog/vercel-container-registry-repositories-can-now-be-made-public",
+    "dedupe_key": "863bd0e4c496de35",
+    "title": "Vercel Container Registry repositories can now be made public",
+    "issue_date": "2026-08-08",
+    "cluster_id": "vercel_com_b3201fb0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2a56520aa5a54ad4",
+    "canonical_url": "https://vercel.com/changelog/audit-log-drains-now-support-datadog-splunk-and-panther",
+    "dedupe_key": "ccfe9cb4a0676fbe",
+    "title": "Audit Log Drains now support Datadog, Splunk, and Panther",
+    "issue_date": "2026-08-08",
+    "cluster_id": "vercel_com_d1105dd8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f6ca5d3f3c60f93b",
+    "canonical_url": "https://vercel.com/changelog/free-domain-now-included-with-new-pro-subscriptions",
+    "dedupe_key": "8a2911eb9ad95712",
+    "title": "Free domain now included with new Pro subscriptions",
+    "issue_date": "2026-08-08",
+    "cluster_id": "vercel_com_31bc5d97",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d57eabd7a53636ec",
+    "canonical_url": "https://vercel.com/changelog/seedance-2-5-now-available-on-vercel-ai-gateway",
+    "dedupe_key": "ab0d552cf4bf01a6",
+    "title": "Seedance 2.5 now available on Vercel AI Gateway",
+    "issue_date": "2026-08-08",
+    "cluster_id": "vercel_com_6bb7c895",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2d596c313d45d66e",
+    "canonical_url": "https://huggingface.co/blog/allenai/tutormoments",
+    "dedupe_key": "caef556362e6a3cd",
+    "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+    "issue_date": "2026-08-08",
+    "cluster_id": "huggingface_co_fd9e1b82",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7d6a695c77b778fb",
+    "canonical_url": "https://huggingface.co/blog/kaggle-integration",
+    "dedupe_key": "9325bff5774630de",
+    "title": "Improving Hugging Face Model Access for Kaggle Users",
+    "issue_date": "2026-08-08",
+    "cluster_id": "huggingface_co_82e1e466",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_adc5508148912207",
+    "canonical_url": "https://huggingface.co/blog/fast-whisper-endpoints",
+    "dedupe_key": "aa5e219a1457c1cf",
+    "title": "Blazingly fast whisper transcriptions with Inference Endpoints",
+    "issue_date": "2026-08-08",
+    "cluster_id": "huggingface_co_2a4d28db",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6c0cfbf3d99e198c",
+    "canonical_url": "https://huggingface.co/blog/vlms-2025",
+    "dedupe_key": "4e0ecb97a2b3e8cc",
+    "title": "Vision Language Models (Better, faster, stronger)",
+    "issue_date": "2026-08-08",
+    "cluster_id": "huggingface_co_29848d0c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4285f49f2e738650",
+    "canonical_url": "https://huggingface.co/blog/lerobot-datasets",
+    "dedupe_key": "ed41abb2d6e38eb1",
+    "title": "LeRobot Community Datasets: The “ImageNet” of Robotics — When and How?",
+    "issue_date": "2026-08-08",
+    "cluster_id": "huggingface_co_2410c503",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_30886ce4a623c263",
+    "canonical_url": "https://huggingface.co/blog/gradio-mcp",
+    "dedupe_key": "d626795af3639de2",
+    "title": "How to Build an MCP Server with Gradio",
+    "issue_date": "2026-08-08",
+    "cluster_id": "huggingface_co_ac787460",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_64f2d619fb9d1170",
+    "canonical_url": "https://huggingface.co/blog/qwen-3-chat-template-deep-dive",
+    "dedupe_key": "c6085aa5f3fbfbb8",
+    "title": "The 4 Things Qwen-3’s Chat Template Teaches Us",
+    "issue_date": "2026-08-08",
+    "cluster_id": "huggingface_co_191d1d6a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c5616ff0c3fb3821",
+    "canonical_url": "https://huggingface.co/blog/llama-guard-4",
+    "dedupe_key": "41aea2c3ee8be4ac",
+    "title": "Welcoming Llama Guard 4 on Hugging Face Hub",
+    "issue_date": "2026-08-08",
+    "cluster_id": "huggingface_co_72adcf6d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c233f70fcf7542d2",
+    "canonical_url": "https://huggingface.co/blog/autoround",
+    "dedupe_key": "337113049499c6d2",
+    "title": "Introducing AutoRound: Intel’s Advanced Quantization for LLMs and VLMs",
+    "issue_date": "2026-08-08",
+    "cluster_id": "huggingface_co_ea26f334",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6e71b0eb672d9eaf",
+    "canonical_url": "https://huggingface.co/blog/ServiceNow/pipelinerl",
+    "dedupe_key": "6d2364e7062cc752",
+    "title": "PipelineRL",
+    "issue_date": "2026-08-08",
+    "cluster_id": "huggingface_co_75fb7731",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d068f773c729cb28",
+    "canonical_url": "https://huggingface.co/blog/tngtech/llm-performance-prefill-decode-concurrent-requests",
+    "dedupe_key": "3a8f79fe0f5202b0",
+    "title": "Prefill and Decode for Concurrent Requests - Optimizing LLM Performance",
+    "issue_date": "2026-08-08",
+    "cluster_id": "huggingface_co_b2fb4c01",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
