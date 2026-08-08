@@ -13236,5 +13236,205 @@
     "cluster_id": "huggingface_co_b2fb4c01",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_fbac788dcfcac152",
+    "canonical_url": "https://vercel.com/changelog/give-every-agent-in-herdr-its-own-vercel-sandbox",
+    "dedupe_key": "3c221933340e9e50",
+    "title": "Give every agent in Herdr its own Vercel Sandbox",
+    "issue_date": "2026-08-09",
+    "cluster_id": "vercel_com_d15dc294",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3664c5c220e3df79",
+    "canonical_url": "https://vercel.com/changelog/vercel-ai-gateway-and-vercel-sandbox-now-available-on-hermes-agent",
+    "dedupe_key": "3ae0a1a675a639b3",
+    "title": "Vercel AI Gateway and Vercel Sandbox now available on Hermes Agent",
+    "issue_date": "2026-08-09",
+    "cluster_id": "vercel_com_6812f81f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3c80f0be7fd8ac1c",
+    "canonical_url": "https://huggingface.co/blog/why-gradio-stands-out",
+    "dedupe_key": "1644a7cab3d8ec61",
+    "title": "17 Reasons Why Gradio Isn&apos;t Just Another UI Library",
+    "issue_date": "2026-08-09",
+    "cluster_id": "huggingface_co_8f09af25",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_773e19ca864cc238",
+    "canonical_url": "https://huggingface.co/blog/inference-providers-cohere",
+    "dedupe_key": "d22f591193ea05ed",
+    "title": "Cohere on Hugging Face Inference Providers 🔥",
+    "issue_date": "2026-08-09",
+    "cluster_id": "huggingface_co_6d24445c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d331da14dcc100bf",
+    "canonical_url": "https://huggingface.co/blog/helmet",
+    "dedupe_key": "10c8c867172c8988",
+    "title": "Introducing HELMET: Holistically Evaluating Long-context Language Models",
+    "issue_date": "2026-08-09",
+    "cluster_id": "huggingface_co_f88fb7b2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_34b3539aae5c0d3c",
+    "canonical_url": "https://huggingface.co/blog/hugging-face-pollen-robotics-acquisition",
+    "dedupe_key": "a4f68480d010a613",
+    "title": "Hugging Face to sell open-source robots thanks to Pollen Robotics acquisition 🤖",
+    "issue_date": "2026-08-09",
+    "cluster_id": "huggingface_co_8b438f11",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d77e654de302deaf",
+    "canonical_url": "https://huggingface.co/blog/fastrtc-cloudflare",
+    "dedupe_key": "3c91b063c41ebc26",
+    "title": "Hugging Face and Cloudflare Partner to Make Real-Time Speech and Video Seamless with FastRTC",
+    "issue_date": "2026-08-09",
+    "cluster_id": "huggingface_co_99e93b43",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2e70a3805e3aef88",
+    "canonical_url": "https://huggingface.co/blog/leaderboard-3c3h-aragen-ifeval",
+    "dedupe_key": "0e20ba352e2493fb",
+    "title": "Arabic Leaderboards: Introducing Arabic Instruction Following, Updating AraGen, and More",
+    "issue_date": "2026-08-09",
+    "cluster_id": "huggingface_co_c3855bb8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7cef5f0c0fe3de70",
+    "canonical_url": "https://huggingface.co/blog/llama4-release",
+    "dedupe_key": "2539f4d345fb21cf",
+    "title": "Welcome Llama 4 Maverick & Scout on Hugging Face",
+    "issue_date": "2026-08-09",
+    "cluster_id": "huggingface_co_7b836b3d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ad33539ff171a154",
+    "canonical_url": "https://huggingface.co/blog/gradio-1m",
+    "dedupe_key": "e1773f13dd4fe542",
+    "title": "Journey to 1 Million Gradio Users!",
+    "issue_date": "2026-08-09",
+    "cluster_id": "huggingface_co_9c6acb1c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4191a8c677633076",
+    "canonical_url": "https://huggingface.co/blog/llm-course",
+    "dedupe_key": "f61ed1cddb7c7ad9",
+    "title": "The NLP Course is becoming the LLM Course",
+    "issue_date": "2026-08-09",
+    "cluster_id": "huggingface_co_9389fa3c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c432a7362ed4d885",
+    "canonical_url": "https://huggingface.co/blog/tngtech/llm-performance-request-queueing",
+    "dedupe_key": "64e8d9efe34bf2d3",
+    "title": "Efficient Request Queueing – Optimizing LLM Performance",
+    "issue_date": "2026-08-09",
+    "cluster_id": "huggingface_co_fa4e9bfc",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4d375ea8c2b8a1ef",
+    "canonical_url": "https://huggingface.co/blog/intel-gaudi-backend-for-tgi",
+    "dedupe_key": "3b1ac0aee9249b24",
+    "title": "🚀 Accelerating LLM Inference with TGI on Intel Gaudi",
+    "issue_date": "2026-08-09",
+    "cluster_id": "huggingface_co_abd70025",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_adb6daa4349ab010",
+    "canonical_url": "https://huggingface.co/blog/open-r1/update-4",
+    "dedupe_key": "b2a6505bc47d4e4c",
+    "title": "Open R1: Update #4",
+    "issue_date": "2026-08-09",
+    "cluster_id": "huggingface_co_cc31aacf",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_298dcf3eca96864c",
+    "canonical_url": "https://huggingface.co/blog/gradio-dataframe-upgrade",
+    "dedupe_key": "ac112e1797a7d836",
+    "title": "Introducing Gradio&apos;s new Dataframe!",
+    "issue_date": "2026-08-09",
+    "cluster_id": "huggingface_co_8c2313cc",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_610f2d68508b5770",
+    "canonical_url": "https://huggingface.co/blog/endpoint-analytics",
+    "dedupe_key": "deb2986ff49f928c",
+    "title": "The New and Fresh analytics in Inference Endpoints",
+    "issue_date": "2026-08-09",
+    "cluster_id": "huggingface_co_e3645949",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_be971be1fa7682d0",
+    "canonical_url": "https://huggingface.co/blog/xet-on-the-hub",
+    "dedupe_key": "b86d519668ac1100",
+    "title": "Xet is on the Hub",
+    "issue_date": "2026-08-09",
+    "cluster_id": "huggingface_co_ab00d007",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9a9908b884371e0f",
+    "canonical_url": "https://huggingface.co/blog/open-r1/update-3",
+    "dedupe_key": "693e26b033aba063",
+    "title": "Open R1: Update #3",
+    "issue_date": "2026-08-09",
+    "cluster_id": "huggingface_co_8eaed4b9",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a76fef1ce0144bea",
+    "canonical_url": "https://huggingface.co/blog/lerobot-goes-to-driving-school",
+    "dedupe_key": "33001cf3d3e63e0b",
+    "title": "LeRobot goes to driving school: World’s largest open-source self-driving dataset",
+    "issue_date": "2026-08-09",
+    "cluster_id": "huggingface_co_3932e1f7",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f446460cd5a82812",
+    "canonical_url": "https://huggingface.co/blog/llm-inference-on-edge",
+    "dedupe_key": "143e7c7b141eb242",
+    "title": "LLM Inference on Edge: A Fun and Easy Guide to run LLMs via React Native on your Phone!",
+    "issue_date": "2026-08-09",
+    "cluster_id": "huggingface_co_f3f1a76b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]

@@ -1,80 +1,8 @@
 [
   {
-    "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-    "url": "https://openai.com/index/hsp-gruppe",
-    "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-08-08",
-    "score": 68
-  },
-  {
-    "title": "Managed Deep Agents is now in public beta",
-    "url": "https://www.langchain.com/blog/managed-deep-agents-is-now-in-public-beta",
-    "summary": "Deploy Deep Agents to a managed LangSmith runtime with durable execution, memory, sandboxes, channels, evals, and production-ready infrastructure.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-08-08",
-    "score": 68
-  },
-  {
-    "title": "Responding to the next frontier of critical cyber capabilities",
-    "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-    "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-08-08",
-    "score": 67
-  },
-  {
-    "title": "Managed Deep Agents: the fastest way to ship a production deep agent",
-    "url": "https://www.langchain.com/blog/introducing-managed-deep-agents",
-    "summary": "Run deep agents in production with durable execution, sandboxes, tool access, and LangSmith observability, without building the runtime yourself. Now in private beta",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-08-08",
-    "score": 65
-  },
-  {
-    "title": "Aug 7, 2026 Product Improving Fable 5&#x27;s biology safeguards",
-    "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
-    "summary": "Newsroom \\ Anthropic · Aug 7, 2026 Product Improving Fable 5&#x27;s biology safeguards",
-    "tags": [
-      "ai_models",
-      "safety",
-      "official"
-    ],
-    "author": "Anthropic",
-    "source": "anthropic.com",
-    "date": "2026-08-08",
-    "score": 63
-  },
-  {
-    "title": "Vercel Container Registry repositories can now be made public",
-    "url": "https://vercel.com/changelog/vercel-container-registry-repositories-can-now-be-made-public",
-    "summary": "Vercel Container Registry now lets you make a repository public, so anyone with a Vercel account can pull and use its images. Sharing already granted read access to up to 100 teams, and making a repository public opens that access to every Vercel team rather than a named set. Public access is read-only, so anyone can pull and use the images but cannot push, delete, or otherwise change the repository. Repositories stay private by default. Make a repository public from the proj",
+    "title": "Give every agent in Herdr its own Vercel Sandbox",
+    "url": "https://vercel.com/changelog/give-every-agent-in-herdr-its-own-vercel-sandbox",
+    "summary": "Terminal coding agents like Claude Code, Codex, and OpenCode can now each run in their own isolated Vercel Sandbox , orchestrated from Herdr , a tmux-style manager that runs them side by side in panes. Nothing an agent runs or edits touches your machine. When you start an agent, the plugin uploads your project files into a new Sandbox, installs the agent there, and opens a pane connected to it. The pane works like a local terminal; you type to the agent and watch it work. But",
     "tags": [
       "sdk",
       "ai_infra",
@@ -82,13 +10,13 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-08-08",
-    "score": 63
+    "date": "2026-08-09",
+    "score": 69
   },
   {
-    "title": "Audit Log Drains now support Datadog, Splunk, and Panther",
-    "url": "https://vercel.com/changelog/audit-log-drains-now-support-datadog-splunk-and-panther",
-    "summary": "Audit Log Drains now stream your team's audit events into Datadog , Splunk , and Panther , joining the existing custom HTTPS endpoint and Amazon S3 destinations. An Audit Log Drain forwards every event from your team's Activity Log, plus additional audit metadata, to the destination you choose. They're available on Enterprise plans. To create one, go to Drains in your team settings. Click Add Drain, choose Audit Log as the data type, and pick a destination. Audit Log Drains r",
+    "title": "Vercel AI Gateway and Vercel Sandbox now available on Hermes Agent",
+    "url": "https://vercel.com/changelog/vercel-ai-gateway-and-vercel-sandbox-now-available-on-hermes-agent",
+    "summary": "Hermes Agent can now use Vercel AI Gateway as its inference layer and run its agent commands in an isolated Vercel Sandbox microVM. Access 200+ models through AI Gateway at no markup on tokens, and every request appears in your AI Gateway dashboard with the rest of your usage and spend. Setup Install Hermes, then pick Vercel AI Gateway in the setup wizard: The picker pulls live model availability and current pricing from AI Gateway. For the full walkthrough, see Configuring H",
     "tags": [
       "sdk",
       "ai_infra",
@@ -96,41 +24,13 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-08-08",
-    "score": 63
+    "date": "2026-08-09",
+    "score": 66
   },
   {
-    "title": "Free domain now included with new Pro subscriptions",
-    "url": "https://vercel.com/changelog/free-domain-now-included-with-new-pro-subscriptions",
-    "summary": "New Pro subscriptions now include a domain free for the first year. The offer covers six TLDs: .online .site .space .store .tech .website Each team has 30 days after subscribing to claim one domain, either at checkout or later from the domain search in the dashboard. After the first year, your domain will renew automatically at the regular price shown at checkout when you claim it. See the free domain FAQ for the full terms. Read more",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-08-08",
-    "score": 63
-  },
-  {
-    "title": "Seedance 2.5 now available on Vercel AI Gateway",
-    "url": "https://vercel.com/changelog/seedance-2-5-now-available-on-vercel-ai-gateway",
-    "summary": "Seedance 2.5 from ByteDance is now available on AI Gateway. It generates up to 30 seconds in a single clip, holding camera movement and continuity without stitching shots together in post. Short clips can also be extended with character, scene, and camera movement carried over. Seedance 2.5 supports text, video, image, and audio as inputs in the same request, following a subject's appearance from one asset and the motion or camera work from another. On a finished video it edi",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-08-08",
-    "score": 63
-  },
-  {
-    "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
-    "url": "https://huggingface.co/blog/allenai/tutormoments",
-    "summary": "TutorMoments: Do AI tutors know when to help and when to hold back? 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "17 Reasons Why Gradio Isn&apos;t Just Another UI Library",
+    "url": "https://huggingface.co/blog/why-gradio-stands-out",
+    "summary": "17 Reasons Why Gradio Isn&apos;t Just Another UI Library 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -138,27 +38,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-08-08",
-    "score": 63
-  },
-  {
-    "title": "Improving Hugging Face Model Access for Kaggle Users",
-    "url": "https://huggingface.co/blog/kaggle-integration",
-    "summary": "Improving Hugging Face Model Access for Kaggle Users 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-08-08",
+    "date": "2026-08-09",
     "score": 62
   },
   {
-    "title": "Blazingly fast whisper transcriptions with Inference Endpoints",
-    "url": "https://huggingface.co/blog/fast-whisper-endpoints",
-    "summary": "Blazingly fast whisper transcriptions with Inference Endpoints 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Cohere on Hugging Face Inference Providers 🔥",
+    "url": "https://huggingface.co/blog/inference-providers-cohere",
+    "summary": "Cohere on Hugging Face Inference Providers 🔥 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -166,13 +52,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-08-08",
+    "date": "2026-08-09",
     "score": 62
   },
   {
-    "title": "Vision Language Models (Better, faster, stronger)",
-    "url": "https://huggingface.co/blog/vlms-2025",
-    "summary": "Vision Language Models (Better, faster, stronger) 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Introducing HELMET: Holistically Evaluating Long-context Language Models",
+    "url": "https://huggingface.co/blog/helmet",
+    "summary": "Introducing HELMET: Holistically Evaluating Long-context Language Models 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -180,13 +66,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-08-08",
+    "date": "2026-08-09",
     "score": 62
   },
   {
-    "title": "LeRobot Community Datasets: The “ImageNet” of Robotics — When and How?",
-    "url": "https://huggingface.co/blog/lerobot-datasets",
-    "summary": "LeRobot Community Datasets: The “ImageNet” of Robotics — When and How? 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Hugging Face to sell open-source robots thanks to Pollen Robotics acquisition 🤖",
+    "url": "https://huggingface.co/blog/hugging-face-pollen-robotics-acquisition",
+    "summary": "Hugging Face to sell open-source robots thanks to Pollen Robotics acquisition 🤖 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -194,13 +80,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-08-08",
+    "date": "2026-08-09",
     "score": 62
   },
   {
-    "title": "How to Build an MCP Server with Gradio",
-    "url": "https://huggingface.co/blog/gradio-mcp",
-    "summary": "How to Build an MCP Server with Gradio 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Hugging Face and Cloudflare Partner to Make Real-Time Speech and Video Seamless with FastRTC",
+    "url": "https://huggingface.co/blog/fastrtc-cloudflare",
+    "summary": "Hugging Face and Cloudflare Partner to Make Real-Time Speech and Video Seamless with FastRTC 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -208,13 +94,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-08-08",
+    "date": "2026-08-09",
     "score": 62
   },
   {
-    "title": "The 4 Things Qwen-3’s Chat Template Teaches Us",
-    "url": "https://huggingface.co/blog/qwen-3-chat-template-deep-dive",
-    "summary": "The 4 Things Qwen-3’s Chat Template Teaches Us 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Arabic Leaderboards: Introducing Arabic Instruction Following, Updating AraGen, and More",
+    "url": "https://huggingface.co/blog/leaderboard-3c3h-aragen-ifeval",
+    "summary": "Arabic Leaderboards: Introducing Arabic Instruction Following, Updating AraGen, and More 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -222,13 +108,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-08-08",
+    "date": "2026-08-09",
     "score": 62
   },
   {
-    "title": "Welcoming Llama Guard 4 on Hugging Face Hub",
-    "url": "https://huggingface.co/blog/llama-guard-4",
-    "summary": "Welcoming Llama Guard 4 on Hugging Face Hub 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Welcome Llama 4 Maverick & Scout on Hugging Face",
+    "url": "https://huggingface.co/blog/llama4-release",
+    "summary": "Welcome Llama 4 Maverick & Scout on Hugging Face 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -236,13 +122,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-08-08",
+    "date": "2026-08-09",
     "score": 62
   },
   {
-    "title": "Introducing AutoRound: Intel’s Advanced Quantization for LLMs and VLMs",
-    "url": "https://huggingface.co/blog/autoround",
-    "summary": "Introducing AutoRound: Intel’s Advanced Quantization for LLMs and VLMs 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Journey to 1 Million Gradio Users!",
+    "url": "https://huggingface.co/blog/gradio-1m",
+    "summary": "Journey to 1 Million Gradio Users! 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -250,13 +136,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-08-08",
+    "date": "2026-08-09",
     "score": 62
   },
   {
-    "title": "PipelineRL",
-    "url": "https://huggingface.co/blog/ServiceNow/pipelinerl",
-    "summary": "PipelineRL 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "The NLP Course is becoming the LLM Course",
+    "url": "https://huggingface.co/blog/llm-course",
+    "summary": "The NLP Course is becoming the LLM Course 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -264,13 +150,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-08-08",
+    "date": "2026-08-09",
     "score": 62
   },
   {
-    "title": "Prefill and Decode for Concurrent Requests - Optimizing LLM Performance",
-    "url": "https://huggingface.co/blog/tngtech/llm-performance-prefill-decode-concurrent-requests",
-    "summary": "Prefill and Decode for Concurrent Requests - Optimizing LLM Performance 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Efficient Request Queueing – Optimizing LLM Performance",
+    "url": "https://huggingface.co/blog/tngtech/llm-performance-request-queueing",
+    "summary": "Efficient Request Queueing – Optimizing LLM Performance 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -278,7 +164,119 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-08-08",
+    "date": "2026-08-09",
+    "score": 62
+  },
+  {
+    "title": "🚀 Accelerating LLM Inference with TGI on Intel Gaudi",
+    "url": "https://huggingface.co/blog/intel-gaudi-backend-for-tgi",
+    "summary": "🚀 Accelerating LLM Inference with TGI on Intel Gaudi 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-08-09",
+    "score": 62
+  },
+  {
+    "title": "Open R1: Update #4",
+    "url": "https://huggingface.co/blog/open-r1/update-4",
+    "summary": "Open R1: Update #4 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-08-09",
+    "score": 62
+  },
+  {
+    "title": "Introducing Gradio&apos;s new Dataframe!",
+    "url": "https://huggingface.co/blog/gradio-dataframe-upgrade",
+    "summary": "Introducing Gradio&apos;s new Dataframe! 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-08-09",
+    "score": 62
+  },
+  {
+    "title": "The New and Fresh analytics in Inference Endpoints",
+    "url": "https://huggingface.co/blog/endpoint-analytics",
+    "summary": "The New and Fresh analytics in Inference Endpoints 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-08-09",
+    "score": 62
+  },
+  {
+    "title": "Xet is on the Hub",
+    "url": "https://huggingface.co/blog/xet-on-the-hub",
+    "summary": "Xet is on the Hub 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-08-09",
+    "score": 62
+  },
+  {
+    "title": "Open R1: Update #3",
+    "url": "https://huggingface.co/blog/open-r1/update-3",
+    "summary": "Open R1: Update #3 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-08-09",
+    "score": 62
+  },
+  {
+    "title": "LeRobot goes to driving school: World’s largest open-source self-driving dataset",
+    "url": "https://huggingface.co/blog/lerobot-goes-to-driving-school",
+    "summary": "LeRobot goes to driving school: World’s largest open-source self-driving dataset 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-08-09",
+    "score": 62
+  },
+  {
+    "title": "LLM Inference on Edge: A Fun and Easy Guide to run LLMs via React Native on your Phone!",
+    "url": "https://huggingface.co/blog/llm-inference-on-edge",
+    "summary": "LLM Inference on Edge: A Fun and Easy Guide to run LLMs via React Native on your Phone! 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-08-09",
     "score": 62
   }
 ]
