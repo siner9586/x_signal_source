@@ -13436,5 +13436,205 @@
     "cluster_id": "huggingface_co_f3f1a76b",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b2ef99a62354795f",
+    "canonical_url": "https://vercel.com/changelog/grok-imagine-image-2-0-preview-now-available-on-vercel-ai-gateway",
+    "dedupe_key": "ed83a7e54969eb35",
+    "title": "Grok Imagine Image 2.0 now available on Vercel AI Gateway",
+    "issue_date": "2026-08-10",
+    "cluster_id": "vercel_com_f3e61eb3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d42489f7c29bc2ee",
+    "canonical_url": "https://huggingface.co/blog/iisc-huggingface-collab",
+    "dedupe_key": "df34b4d04d7df015",
+    "title": "HuggingFace, IISc partner to supercharge model building on India&apos;s diverse languages",
+    "issue_date": "2026-08-10",
+    "cluster_id": "huggingface_co_0e16718e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9a2067e2405e95d8",
+    "canonical_url": "https://huggingface.co/blog/fastrtc",
+    "dedupe_key": "cdc6ffabbf807931",
+    "title": "FastRTC: The Real-Time Communication Library for Python",
+    "issue_date": "2026-08-10",
+    "cluster_id": "huggingface_co_dd686661",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6be5247dc3696bd8",
+    "canonical_url": "https://huggingface.co/blog/siglip2",
+    "dedupe_key": "86da4edae7f3adf4",
+    "title": "SigLIP 2: A better multilingual vision language encoder",
+    "issue_date": "2026-08-10",
+    "cluster_id": "huggingface_co_8184acbd",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f793350ef3f9363c",
+    "canonical_url": "https://huggingface.co/blog/smolvlm2",
+    "dedupe_key": "b87d2673da7864a4",
+    "title": "SmolVLM2: Bringing Video Understanding to Every Device",
+    "issue_date": "2026-08-10",
+    "cluster_id": "huggingface_co_3cb3330b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_dd6287293153701a",
+    "canonical_url": "https://huggingface.co/blog/paligemma2mix",
+    "dedupe_key": "7872e7e1026656ab",
+    "title": "PaliGemma 2 Mix - New Instruction Vision Language Models by Google",
+    "issue_date": "2026-08-10",
+    "cluster_id": "huggingface_co_17271613",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_73e4a6cb511e5d49",
+    "canonical_url": "https://huggingface.co/blog/math_verify_leaderboard",
+    "dedupe_key": "c0b68fcf5b2f8e88",
+    "title": "Fixing Open LLM Leaderboard with Math-Verify",
+    "issue_date": "2026-08-10",
+    "cluster_id": "huggingface_co_4a6b6b32",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_dff40968a4adaf12",
+    "canonical_url": "https://huggingface.co/blog/billion-classifications",
+    "dedupe_key": "f5ac9c01cc9bc868",
+    "title": "1 Billion Classifications",
+    "issue_date": "2026-08-10",
+    "cluster_id": "huggingface_co_2306352b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2ae4cc904555f9d8",
+    "canonical_url": "https://huggingface.co/blog/from-chunks-to-blocks",
+    "dedupe_key": "58f74669df62ff81",
+    "title": "From Chunks to Blocks: Accelerating Uploads and Downloads on the Hub",
+    "issue_date": "2026-08-10",
+    "cluster_id": "huggingface_co_ae601392",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d3f0154118e48c90",
+    "canonical_url": "https://huggingface.co/blog/vid_ds_scripts",
+    "dedupe_key": "f15dd9614ce21aac",
+    "title": "Build awesome datasets for video generation",
+    "issue_date": "2026-08-10",
+    "cluster_id": "huggingface_co_01bb5034",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3d0f4c6783a1db7d",
+    "canonical_url": "https://huggingface.co/blog/open-r1/update-2",
+    "dedupe_key": "a857de3e2e4551d8",
+    "title": "Open R1: Update #2",
+    "issue_date": "2026-08-10",
+    "cluster_id": "huggingface_co_8a40c478",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_469ea8b0fb72bf07",
+    "canonical_url": "https://huggingface.co/blog/leaderboard-arabic-v2",
+    "dedupe_key": "fa72909a4852420b",
+    "title": "The Open Arabic LLM Leaderboard 2",
+    "issue_date": "2026-08-10",
+    "cluster_id": "huggingface_co_6608f555",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_acb5b734d959c7e9",
+    "canonical_url": "https://huggingface.co/blog/pi0",
+    "dedupe_key": "3ee4a829601a3d0c",
+    "title": "π0 and π0-FAST: Vision-Language-Action Models for General Robot Control",
+    "issue_date": "2026-08-10",
+    "cluster_id": "huggingface_co_0628c379",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4e7f3db2643de3d3",
+    "canonical_url": "https://huggingface.co/blog/open-r1/update-1",
+    "dedupe_key": "1d9e01f2d3a407bb",
+    "title": "Open-R1: Update #1",
+    "issue_date": "2026-08-10",
+    "cluster_id": "huggingface_co_4f406b98",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6932f91a57a86bc0",
+    "canonical_url": "https://huggingface.co/blog/open-r1/mini-r1-contdown-game",
+    "dedupe_key": "17db99ab6198606b",
+    "title": "Mini-R1: Reproduce Deepseek R1 „aha moment“ a RL tutorial",
+    "issue_date": "2026-08-10",
+    "cluster_id": "huggingface_co_9a71f067",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ad2750ba5bb2947e",
+    "canonical_url": "https://huggingface.co/blog/deepseek-r1-aws",
+    "dedupe_key": "b05b266ea3072b11",
+    "title": "How to deploy and fine-tune DeepSeek models on AWS",
+    "issue_date": "2026-08-10",
+    "cluster_id": "huggingface_co_45ad8c98",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_eac36bcb7ac91179",
+    "canonical_url": "https://huggingface.co/blog/inference-providers",
+    "dedupe_key": "c588115399204074",
+    "title": "Welcome to Inference Providers on the Hub 🔥",
+    "issue_date": "2026-08-10",
+    "cluster_id": "huggingface_co_c39ce473",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_511410a9b5b95482",
+    "canonical_url": "https://huggingface.co/blog/video_gen",
+    "dedupe_key": "eaa85aa5c9abb705",
+    "title": "State of open video generation models in Diffusers",
+    "issue_date": "2026-08-10",
+    "cluster_id": "huggingface_co_841feada",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3d765e61f47bada5",
+    "canonical_url": "https://huggingface.co/blog/nvidia/kvpress",
+    "dedupe_key": "69fef6c9e446b222",
+    "title": "Mastering Long Contexts in LLMs with KVPress",
+    "issue_date": "2026-08-10",
+    "cluster_id": "huggingface_co_6ec30180",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_25573807304ea81a",
+    "canonical_url": "https://huggingface.co/blog/smolervlm",
+    "dedupe_key": "e6d2c25e88f3ebde",
+    "title": "SmolVLM Grows Smaller – Introducing the 256M & 500M Models!",
+    "issue_date": "2026-08-10",
+    "cluster_id": "huggingface_co_9c1a9284",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
