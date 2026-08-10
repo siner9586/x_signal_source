@@ -13636,5 +13636,225 @@
     "cluster_id": "huggingface_co_9c1a9284",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8a74d2a3b8017ca0",
+    "canonical_url": "https://huggingface.co/blog/sergiopaniego/trl-openenv-harness-training",
+    "dedupe_key": "baebd2cb85f9b44e",
+    "title": "Training a coding agent using the OpenCode harness in remote HF sandboxes with TRL and OpenEnv sergiopaniego • 5 days ago • 19",
+    "issue_date": "2026-08-11",
+    "cluster_id": "huggingface_co_59675cc2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ee52d83bbdb0292b",
+    "canonical_url": "https://openai.com/index/responsible-ai-infrastructure-texas",
+    "dedupe_key": "956f282f23015e30",
+    "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+    "issue_date": "2026-08-11",
+    "cluster_id": "openai_com_c0f4d358",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b7ca928db787abc7",
+    "canonical_url": "https://developer.nvidia.com/blog/run-local-agentic-ai-workflows-with-metas-muse-glimmer-on-nvidia",
+    "dedupe_key": "ec7b2cccecbbb139",
+    "title": "Run Local Agentic AI Workflows with Meta's Muse Glimmer on NVIDIA",
+    "issue_date": "2026-08-11",
+    "cluster_id": "developer_nvidia_com_2770ae1f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b1c4d57421ecd77a",
+    "canonical_url": "https://vercel.com/changelog/vercel-sandbox-managed-images",
+    "dedupe_key": "05631e160b57ef04",
+    "title": "Vercel Sandbox now runs on Vercel Managed Images",
+    "issue_date": "2026-08-11",
+    "cluster_id": "vercel_com_b546a0a8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d0b13a1b0cd51f59",
+    "canonical_url": "https://vercel.com/blog/a-sandbox-without-a-network-boundary-is-only-half-a-sandbox",
+    "dedupe_key": "4fd05b1afdd9314a",
+    "title": "A sandbox without a network boundary is only half a sandbox",
+    "issue_date": "2026-08-11",
+    "cluster_id": "vercel_com_99eb4e1f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7e0f3c003b836837",
+    "canonical_url": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms",
+    "dedupe_key": "746e3d99dd1b0ea8",
+    "title": "These startups are chasing the next big thing in LLMs",
+    "issue_date": "2026-08-11",
+    "cluster_id": "technologyreview_com_e9d05f19",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2a5a5f63434b7ba3",
+    "canonical_url": "https://openai.com/index/model-ml",
+    "dedupe_key": "7947843df068f8b9",
+    "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+    "issue_date": "2026-08-11",
+    "cluster_id": "openai_com_11f7d405",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2113c503087b41e7",
+    "canonical_url": "https://openai.com/index/building-an-ai-native-finance-function",
+    "dedupe_key": "65ccc2b31282ed59",
+    "title": "What building an AI-native finance function taught me",
+    "issue_date": "2026-08-11",
+    "cluster_id": "openai_com_9dd7c26a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_59b65f9fdc1b8fc9",
+    "canonical_url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+    "dedupe_key": "8bd6b84dd9917cc3",
+    "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+    "issue_date": "2026-08-11",
+    "cluster_id": "openai_com_d4e749b6",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0db14b3863130f2c",
+    "canonical_url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+    "dedupe_key": "1807f401e30c906e",
+    "title": "Putting frontier cyber models in more trusted hands",
+    "issue_date": "2026-08-11",
+    "cluster_id": "openai_com_86b0ad18",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0e0352cbc3479d0f",
+    "canonical_url": "https://openai.com/index/premium-seats-chatgpt-business",
+    "dedupe_key": "a1518d1424bc0296",
+    "title": "Premium seats are coming to ChatGPT Business",
+    "issue_date": "2026-08-11",
+    "cluster_id": "openai_com_c281d7ee",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ba3a2ab62b5c70ff",
+    "canonical_url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
+    "dedupe_key": "b3b7cb83ce01c16d",
+    "title": "Using the GitHub Copilot SDK for Java",
+    "issue_date": "2026-08-11",
+    "cluster_id": "github_blog_61f6b8f9",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a74db920d772a891",
+    "canonical_url": "https://vercel.com/changelog/bun-serve-entrypoint-for-vercel-functions",
+    "dedupe_key": "663acbfa40ccfa44",
+    "title": "Bun runtime for Vercel Functions now accepts Bun.serve as an entrypoint",
+    "issue_date": "2026-08-11",
+    "cluster_id": "vercel_com_4e557c1d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7f84a080a1794933",
+    "canonical_url": "https://huggingface.co/blog/muse-glimmer",
+    "dedupe_key": "9e3c5bca152bda8e",
+    "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+    "issue_date": "2026-08-11",
+    "cluster_id": "huggingface_co_714f2a8e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ca94e0259916fc26",
+    "canonical_url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+    "dedupe_key": "58287f08679d3d03",
+    "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+    "issue_date": "2026-08-11",
+    "cluster_id": "huggingface_co_8ed2146a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_21e606ad5cc15686",
+    "canonical_url": "https://huggingface.co/blog/erikkaum/lattice-blog",
+    "dedupe_key": "85ad3b6c2dbebd16",
+    "title": "Lattice: an 8 MB static retriever that embeds Wikipedia in 7 minutes erikkaum • 3 days ago • 18",
+    "issue_date": "2026-08-11",
+    "cluster_id": "huggingface_co_28f3d535",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b18e02355eadbab5",
+    "canonical_url": "https://a16z.com/podcast/sriram-krishnan-on-open-source-ais-biggest-week-yet",
+    "dedupe_key": "2667d38fd6ed61e2",
+    "title": "Sriram Krishnan on Open Source AI&rsquo;s Biggest Week Yet",
+    "issue_date": "2026-08-11",
+    "cluster_id": "a16z_com_641b1993",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ec735c4242219ef4",
+    "canonical_url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science",
+    "dedupe_key": "a1e3cf5a3c074424",
+    "title": "AI for science needs reasoning, not just data",
+    "issue_date": "2026-08-11",
+    "cluster_id": "technologyreview_com_8e0f8c58",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b6c20ac464886cdd",
+    "canonical_url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+    "dedupe_key": "e13fb8872ad2ccbe",
+    "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+    "issue_date": "2026-08-11",
+    "cluster_id": "huggingface_co_b85f63c7",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0d3de0dbff786578",
+    "canonical_url": "https://huggingface.co/blog/timm-transformers",
+    "dedupe_key": "3eb99eb45803e05c",
+    "title": "Timm ❤️ Transformers: Use any timm model with transformers",
+    "issue_date": "2026-08-11",
+    "cluster_id": "huggingface_co_79b359b8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_805b9cccc7fb1d6f",
+    "canonical_url": "https://huggingface.co/blog/tgi-multi-backend",
+    "dedupe_key": "31dbbfa079c0c1b8",
+    "title": "Introducing multi-backends (TRT-LLM, vLLM) support for Text Generation Inference",
+    "issue_date": "2026-08-11",
+    "cluster_id": "huggingface_co_0f09af98",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9729a1df992e2fde",
+    "canonical_url": "https://huggingface.co/blog/vdr-2b-multilingual",
+    "dedupe_key": "8cabe83c2343b4a7",
+    "title": "Visual Document Retrieval Goes Multilingual",
+    "issue_date": "2026-08-11",
+    "cluster_id": "huggingface_co_7a962382",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
