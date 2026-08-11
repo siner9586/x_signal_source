@@ -13856,5 +13856,225 @@
     "cluster_id": "huggingface_co_7a962382",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0806e7326f793c57",
+    "canonical_url": "https://developer.nvidia.com/blog/route-ai-agent-workloads-across-models-with-nvidia-nemo-switchyard",
+    "dedupe_key": "b895a37a576b16ac",
+    "title": "Route AI Agent Workloads Across Models with NVIDIA NeMo Switchyard",
+    "issue_date": "2026-08-12",
+    "cluster_id": "developer_nvidia_com_2974480d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_340bd1ef99b24e0d",
+    "canonical_url": "https://github.blog/developer-skills/career-growth/from-coder-to-orchestrator-how-agents-shift-the-role-of-a-developer",
+    "dedupe_key": "c6656804e35143bf",
+    "title": "From coder to orchestrator: How agents shift the role of a developer",
+    "issue_date": "2026-08-12",
+    "cluster_id": "github_blog_cc2c061d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_358cdb0271552ae7",
+    "canonical_url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-lightning-delivers-fast-accurate-specialized-task-execution-for-long-running-agents",
+    "dedupe_key": "9f200a15788327df",
+    "title": "NVIDIA Nemotron 3.5 Lightning Delivers Fast, Accurate Specialized Task Execution for Long-Running Agents",
+    "issue_date": "2026-08-12",
+    "cluster_id": "developer_nvidia_com_cb2a8353",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a7cc4891df3061d6",
+    "canonical_url": "https://developer.nvidia.com/blog/nvidia-jetpack-7-2-1-adds-agentic-video-skills-and-t3000-emulation",
+    "dedupe_key": "3cb25a8834451616",
+    "title": "NVIDIA JetPack 7.2.1 Adds Agentic Video Skills and T3000 Emulation",
+    "issue_date": "2026-08-12",
+    "cluster_id": "developer_nvidia_com_c4fc6de1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_afc4eb7e85710dd6",
+    "canonical_url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+    "dedupe_key": "ea903aff5e6b8a81",
+    "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+    "issue_date": "2026-08-12",
+    "cluster_id": "openai_com_cd74ad96",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d244d26dd9b273ad",
+    "canonical_url": "https://www.llamaindex.ai/blog/introducing-extractbench",
+    "dedupe_key": "1cf553366c1db97f",
+    "title": "Introducing ExtractBench, the most comprehensive document extraction benchmark. Learn More →",
+    "issue_date": "2026-08-12",
+    "cluster_id": "llamaindex_ai_18f705e7",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b49e0e5201d34e59",
+    "canonical_url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+    "dedupe_key": "5a71b02c72b35a84",
+    "title": "Daybreak models are now available on AWS",
+    "issue_date": "2026-08-12",
+    "cluster_id": "openai_com_97e60434",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_084a349dc02f9729",
+    "canonical_url": "https://openai.com/index/zapier",
+    "dedupe_key": "e374a671d263288c",
+    "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+    "issue_date": "2026-08-12",
+    "cluster_id": "openai_com_6737d993",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_46b4bafb6e1f10e7",
+    "canonical_url": "https://vercel.com/blog/everything-hackable-will-get-hacked",
+    "dedupe_key": "804bb6df7bf9ce44",
+    "title": "Everything hackable will get hacked",
+    "issue_date": "2026-08-12",
+    "cluster_id": "vercel_com_d061f969",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_75a147e3a4d7aea6",
+    "canonical_url": "https://vercel.com/changelog/enterprise-managed-users",
+    "dedupe_key": "d70cde05d96082cb",
+    "title": "Enterprise Managed Users is now generally available",
+    "issue_date": "2026-08-12",
+    "cluster_id": "vercel_com_7da38a82",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_80d9d925141a6b10",
+    "canonical_url": "https://www.langchain.com/blog/switchyard-agent-routing-benchmark",
+    "dedupe_key": "cfb1a2afe45fa2bb",
+    "title": "How many of your agent's calls actually need a frontier model?",
+    "issue_date": "2026-08-12",
+    "cluster_id": "langchain_com_fea5cb55",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a00a559bdff23d31",
+    "canonical_url": "https://huggingface.co/blog/finebooks/historical-books-ocr-leaderboard",
+    "dedupe_key": "7dbb2c9727d0dc9d",
+    "title": "FineBooks: are open OCR models good enough to unlock historical knowledge? finebooks • 1 day ago • 20",
+    "issue_date": "2026-08-12",
+    "cluster_id": "huggingface_co_4e3d5ac5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a5c49f600e2d7337",
+    "canonical_url": "https://mistral.ai/news/regional-inference-open-models-new-compute",
+    "dedupe_key": "e531183ff55d0a6f",
+    "title": "In-region inference, open models, and new European infrastructure for sovereign AI.",
+    "issue_date": "2026-08-12",
+    "cluster_id": "mistral_ai_212bafa4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_838126f1623951ac",
+    "canonical_url": "https://vercel.com/changelog/vercel-connect-adds-observability-support",
+    "dedupe_key": "a54f27974e24dd6f",
+    "title": "Vercel Connect adds observability support",
+    "issue_date": "2026-08-12",
+    "cluster_id": "vercel_com_787f1ec4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_28340289a0ec6e45",
+    "canonical_url": "https://vercel.com/changelog/vercel-cli-100-services",
+    "dedupe_key": "cb5442bb06ebccec",
+    "title": "Vercel Connect now supports CLI setup for 100+ connectors",
+    "issue_date": "2026-08-12",
+    "cluster_id": "vercel_com_5ce7a64c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_afbda59eb43a2c04",
+    "canonical_url": "https://vercel.com/changelog/launchdarkly-is-now-available-on-the-vercel-marketplace",
+    "dedupe_key": "e47b5d936c785b57",
+    "title": "LaunchDarkly is now available on the Vercel Marketplace",
+    "issue_date": "2026-08-12",
+    "cluster_id": "vercel_com_d969780d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_73ee4120224c61fe",
+    "canonical_url": "https://vercel.com/changelog/simplified-onboarding-for-deepsec",
+    "dedupe_key": "0fc926e1652000f1",
+    "title": "Simplified onboarding for deepsec",
+    "issue_date": "2026-08-12",
+    "cluster_id": "vercel_com_81d64823",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c403131cacef99fa",
+    "canonical_url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+    "dedupe_key": "8c9c92dca968a1a6",
+    "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+    "issue_date": "2026-08-12",
+    "cluster_id": "huggingface_co_004e8b6b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3b37cc3f51e8ea6a",
+    "canonical_url": "https://huggingface.co/blog/leaderboard-emissions-analysis",
+    "dedupe_key": "aca3db44369a904a",
+    "title": "CO₂ Emissions and Models Performance: Insights from the Open LLM Leaderboard",
+    "issue_date": "2026-08-12",
+    "cluster_id": "huggingface_co_ac7d7620",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_46a7e3f83cf720b8",
+    "canonical_url": "https://huggingface.co/blog/train_memory",
+    "dedupe_key": "c9884029d2c4e911",
+    "title": "Visualize and understand GPU memory in PyTorch",
+    "issue_date": "2026-08-12",
+    "cluster_id": "huggingface_co_04cbe325",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e4af4c73affba569",
+    "canonical_url": "https://huggingface.co/blog/logits-processor-zoo",
+    "dedupe_key": "60ae364ab860cbc7",
+    "title": "Controlling Language Model Generation with NVIDIA&apos;s LogitsProcessorZoo",
+    "issue_date": "2026-08-12",
+    "cluster_id": "huggingface_co_7dc65603",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5aaf238aeb46316d",
+    "canonical_url": "https://huggingface.co/blog/modernbert",
+    "dedupe_key": "efcd31e902fa5f39",
+    "title": "Finally, a Replacement for BERT: Introducing ModernBERT",
+    "issue_date": "2026-08-12",
+    "cluster_id": "huggingface_co_6aafcd80",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
