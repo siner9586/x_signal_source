@@ -14076,5 +14076,235 @@
     "cluster_id": "huggingface_co_6aafcd80",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a0ad09b94b5952c0",
+    "canonical_url": "https://vercel.com/changelog/grok-4-6-now-available-on-ai-gateway",
+    "dedupe_key": "083b5bf1b6e938b1",
+    "title": "Grok 4.6 now available on AI Gateway",
+    "issue_date": "2026-08-13",
+    "cluster_id": "vercel_com_ba87f28b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_db376d9d82ccabff",
+    "canonical_url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data",
+    "dedupe_key": "84e8a37f158c37e8",
+    "title": "Scaling AI agents with trustworthy data",
+    "issue_date": "2026-08-13",
+    "cluster_id": "technologyreview_com_96a0f21c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_36607f56ae485171",
+    "canonical_url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+    "dedupe_key": "f70215d7987c02c5",
+    "title": "From assistance to execution: How enterprises put AI to work",
+    "issue_date": "2026-08-13",
+    "cluster_id": "openai_com_689c0cdb",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_820b311b228c2cb7",
+    "canonical_url": "https://vercel.com/changelog/deepseek-v4-pro-now-runs-updated-weights-on-ai-gateway",
+    "dedupe_key": "9d8b6a061bf41586",
+    "title": "DeepSeek V4 Pro now runs updated weights on AI Gateway",
+    "issue_date": "2026-08-13",
+    "cluster_id": "vercel_com_03523449",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_19dfa88dd504612c",
+    "canonical_url": "https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project",
+    "dedupe_key": "4ddf815d5da68af3",
+    "title": "Your contributors are AI-first now. Is your project?",
+    "issue_date": "2026-08-13",
+    "cluster_id": "github_blog_a3719dd6",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e0f772c13b0400a3",
+    "canonical_url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands",
+    "dedupe_key": "c4f19507b95c98d9",
+    "title": "Putting sign language AI into users’ hands",
+    "issue_date": "2026-08-13",
+    "cluster_id": "deepmind_google_35f27ee0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_07499b4d2691cbb8",
+    "canonical_url": "https://developer.nvidia.com/blog/serve-qwen3-8-2-4t-a95b-a-2-4t-parameter-model-with-configurable-reasoning-on-nvidia-gb300-nvl72",
+    "dedupe_key": "ea3bf7439f8b9a06",
+    "title": "Serve Qwen3.8-2.4T-A95B, a 2.4T-Parameter Model, with Configurable Reasoning on NVIDIA GB300 NVL72",
+    "issue_date": "2026-08-13",
+    "cluster_id": "developer_nvidia_com_739d1834",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_41f55de27c7e8d0a",
+    "canonical_url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app",
+    "dedupe_key": "c38e3fba1c1ec4ba",
+    "title": "Write your first prompt with the GitHub Copilot app",
+    "issue_date": "2026-08-13",
+    "cluster_id": "github_blog_9168f758",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_69be1f59a173c3e2",
+    "canonical_url": "https://developer.nvidia.com/blog/how-to-choose-full-stack-observability-for-nvidia-ai-factories",
+    "dedupe_key": "ef6ab1a4e7dfd114",
+    "title": "How to Choose Full-Stack Observability for NVIDIA AI Factories",
+    "issue_date": "2026-08-13",
+    "cluster_id": "developer_nvidia_com_3b61b2fc",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ed792586899d84fd",
+    "canonical_url": "https://vercel.com/blog/building-a-software-factory-for-ai-sdk",
+    "dedupe_key": "b20cb17bcb0cef56",
+    "title": "12 August Engineering Building a software factory for AI SDK We built a software factory for AI SDK that processes issues, PRs, and backports, but keeps humans in control. Lars Grammel, Eric Dodds",
+    "issue_date": "2026-08-13",
+    "cluster_id": "vercel_com_f5770c00",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_79a288a5a115f107",
+    "canonical_url": "https://vercel.com/changelog/exa-web-search-free-through-august-31-on-ai-gateway-and-eve",
+    "dedupe_key": "a2d430b10115f33e",
+    "title": "Exa web search free through August 31 on AI Gateway and eve",
+    "issue_date": "2026-08-13",
+    "cluster_id": "vercel_com_7211faa4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c38d8cb6f68e6ec8",
+    "canonical_url": "https://vercel.com/blog/deepseek-overtakes-google-on-volume-cost-per-token-falls",
+    "dedupe_key": "f7845ba4c4f35024",
+    "title": "DeepSeek overtakes Google on volume, cost per token falls 13.6%",
+    "issue_date": "2026-08-13",
+    "cluster_id": "vercel_com_ded2b68f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3a11028f55c64c06",
+    "canonical_url": "https://www.langchain.com/blog/langsmith-byoc-is-now-generally-available-on-aws",
+    "dedupe_key": "e195de6f1b249551",
+    "title": "LangSmith BYOC on AWS is generally available",
+    "issue_date": "2026-08-13",
+    "cluster_id": "langchain_com_61561ad6",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_cb16b285e53143e5",
+    "canonical_url": "https://vercel.com/changelog/free-domain-for-one-year-now-for-all-pro-teams",
+    "dedupe_key": "7c6e0848ee68ff7e",
+    "title": "Free domain for one year, now for all Pro teams",
+    "issue_date": "2026-08-13",
+    "cluster_id": "vercel_com_a3734da5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_cb63f2b7eee548d3",
+    "canonical_url": "https://vercel.com/blog/how-we-migrated-the-database-behind-every-vercel-build",
+    "dedupe_key": "83854d7186beacd6",
+    "title": "How we migrated the database behind every Vercel build",
+    "issue_date": "2026-08-13",
+    "cluster_id": "vercel_com_8f3d207f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_46477dc037f62a0e",
+    "canonical_url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+    "dedupe_key": "8e288c5131fd28d6",
+    "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+    "issue_date": "2026-08-13",
+    "cluster_id": "huggingface_co_25f2c560",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7f5c2a7890409659",
+    "canonical_url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+    "dedupe_key": "f5f2df0dc39e0b14",
+    "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+    "issue_date": "2026-08-13",
+    "cluster_id": "huggingface_co_8e4c1b54",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_bc55dc8db2bf5a3e",
+    "canonical_url": "https://huggingface.co/blog/bamba",
+    "dedupe_key": "763e5169b91d469e",
+    "title": "Bamba: Inference-Efficient Hybrid Mamba2 Model",
+    "issue_date": "2026-08-13",
+    "cluster_id": "huggingface_co_37af1655",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c71ef7002c01e3d4",
+    "canonical_url": "https://huggingface.co/blog/falcon3",
+    "dedupe_key": "76776789986bcf10",
+    "title": "Welcome to the Falcon 3 Family of Open Models!",
+    "issue_date": "2026-08-13",
+    "cluster_id": "huggingface_co_e51f4ec0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9d4f1f3da9802df5",
+    "canonical_url": "https://huggingface.co/blog/synthetic-data-generator",
+    "dedupe_key": "25159787d86febaa",
+    "title": "Introducing the Synthetic Data Generator - Build Datasets with Natural Language",
+    "issue_date": "2026-08-13",
+    "cluster_id": "huggingface_co_ae41aeb0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8386146d3bc80db9",
+    "canonical_url": "https://huggingface.co/blog/bedrock-marketplace",
+    "dedupe_key": "393f563ec212ae09",
+    "title": "Hugging Face models in Amazon Bedrock",
+    "issue_date": "2026-08-13",
+    "cluster_id": "huggingface_co_6405a075",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5f6b70520f1a8f66",
+    "canonical_url": "https://huggingface.co/blog/image-preferences",
+    "dedupe_key": "55b66be06589e5fa",
+    "title": "Open Preference Dataset for Text-to-Image Generation by the 🤗 Community",
+    "issue_date": "2026-08-13",
+    "cluster_id": "huggingface_co_0e94dd8a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0598a1fc35b1d195",
+    "canonical_url": "https://huggingface.co/blog/paligemma2",
+    "dedupe_key": "e488a90e843d3746",
+    "title": "Welcome PaliGemma 2 – New vision language models by Google",
+    "issue_date": "2026-08-13",
+    "cluster_id": "huggingface_co_c6ddc3fa",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]

@@ -1,35 +1,93 @@
 [
   {
-    "title": "Route AI Agent Workloads Across Models with NVIDIA NeMo Switchyard",
-    "url": "https://developer.nvidia.com/blog/route-ai-agent-workloads-across-models-with-nvidia-nemo-switchyard",
-    "summary": "NVIDIA Technical Blog · Route AI Agent Workloads Across Models with NVIDIA NeMo Switchyard",
+    "title": "Grok 4.6 now available on AI Gateway",
+    "url": "https://vercel.com/changelog/grok-4-6-now-available-on-ai-gateway",
+    "summary": "Grok 4.6 from SpaceXAI is now available on AI Gateway . The model has a 500K token context window and accepts text and image inputs. Grok 4.6 supports low, medium, high, and xhigh reasoning levels and defaults to high. To use Grok 4.6, set model to xai/grok-4.6 in the AI SDK : To use it in a coding agent , run vercel ai-gateway coding-agents setup to connect Claude Code, Codex, OpenCode, or Pi, then select xai/grok-4.6 inside the agent. To try Grok 4.5 with no code, try the m",
     "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
+      "sdk",
+      "ai_infra",
+      "frontend"
     ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-08-12",
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-08-13",
     "score": 71
   },
   {
-    "title": "From coder to orchestrator: How agents shift the role of a developer",
-    "url": "https://github.blog/developer-skills/career-growth/from-coder-to-orchestrator-how-agents-shift-the-role-of-a-developer",
-    "summary": "Developers are owning more of the delivery system around code, not just code itself. Join us during GitHub Universe to meet other devs, learn something new, and explore what's next. The post From coder to orchestrator: How agents shift the role of a developer appeared first on The GitHub Blog .",
+    "title": "Scaling AI agents with trustworthy data",
+    "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data",
+    "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges on having the right foundation, with inadequate infrastructure and data&#8230;",
+    "tags": [
+      "ai",
+      "research",
+      "society"
+    ],
+    "author": "MIT Technology Review AI",
+    "source": "technologyreview.com",
+    "date": "2026-08-13",
+    "score": 71
+  },
+  {
+    "title": "From assistance to execution: How enterprises put AI to work",
+    "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+    "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-08-13",
+    "score": 70
+  },
+  {
+    "title": "DeepSeek V4 Pro now runs updated weights on AI Gateway",
+    "url": "https://vercel.com/changelog/deepseek-v4-pro-now-runs-updated-weights-on-ai-gateway",
+    "summary": "DeepSeek V4 Pro now runs on updated weights on AI Gateway. They are used by default when you call deepseek/deepseek-v4-pro , so existing requests pick them up with no change to the model ID or your code. To use the updated DeepSeek V4 Pro, set model to deepseek/deepseek-v4-pro-0813 in the AI SDK . AI Gateway will route to providers with the new weights: To run V4 Pro in a coding agent, use vercel ai-gateway coding-agents setup to connect your agents to AI Gateway, then select",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-08-13",
+    "score": 69
+  },
+  {
+    "title": "Your contributors are AI-first now. Is your project?",
+    "url": "https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project",
+    "summary": "AI contributors are already in your queue. AutoGPT maintainer Nicholas Tindle shares the repo instructions, gates, and boundaries that keep maintainers in control. The post Your contributors are AI-first now. Is your project? appeared first on The GitHub Blog .",
     "tags": [
       "ai_coding",
       "developer_tools"
     ],
     "author": "GitHub Copilot",
     "source": "github.blog",
-    "date": "2026-08-12",
-    "score": 70
+    "date": "2026-08-13",
+    "score": 69
   },
   {
-    "title": "NVIDIA Nemotron 3.5 Lightning Delivers Fast, Accurate Specialized Task Execution for Long-Running Agents",
-    "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-lightning-delivers-fast-accurate-specialized-task-execution-for-long-running-agents",
-    "summary": "NVIDIA Technical Blog · NVIDIA Nemotron 3.5 Lightning Delivers Fast, Accurate Specialized Task Execution for Long-Running Agents",
+    "title": "Putting sign language AI into users’ hands",
+    "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands",
+    "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
+    "tags": [
+      "research",
+      "multimodal",
+      "science",
+      "official"
+    ],
+    "author": "Google DeepMind",
+    "source": "deepmind.google",
+    "date": "2026-08-13",
+    "score": 68
+  },
+  {
+    "title": "Serve Qwen3.8-2.4T-A95B, a 2.4T-Parameter Model, with Configurable Reasoning on NVIDIA GB300 NVL72",
+    "url": "https://developer.nvidia.com/blog/serve-qwen3-8-2-4t-a95b-a-2-4t-parameter-model-with-configurable-reasoning-on-nvidia-gb300-nvl72",
+    "summary": "NVIDIA Technical Blog · Serve Qwen3.8-2.4T-A95B, a 2.4T-Parameter Model, with Configurable Reasoning on NVIDIA GB300 NVL72",
     "tags": [
       "gpu",
       "inference",
@@ -37,13 +95,26 @@
     ],
     "author": "NVIDIA AI",
     "source": "developer.nvidia.com",
-    "date": "2026-08-12",
-    "score": 69
+    "date": "2026-08-13",
+    "score": 68
   },
   {
-    "title": "NVIDIA JetPack 7.2.1 Adds Agentic Video Skills and T3000 Emulation",
-    "url": "https://developer.nvidia.com/blog/nvidia-jetpack-7-2-1-adds-agentic-video-skills-and-t3000-emulation",
-    "summary": "NVIDIA Technical Blog · NVIDIA JetPack 7.2.1 Adds Agentic Video Skills and T3000 Emulation",
+    "title": "Write your first prompt with the GitHub Copilot app",
+    "url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app",
+    "summary": "Learn how to write your first prompt in the GitHub Copilot app, choose the right context and model, and start your first task with confidence. The post Write your first prompt with the GitHub Copilot app appeared first on The GitHub Blog .",
+    "tags": [
+      "ai_coding",
+      "developer_tools"
+    ],
+    "author": "GitHub Copilot",
+    "source": "github.blog",
+    "date": "2026-08-13",
+    "score": 67
+  },
+  {
+    "title": "How to Choose Full-Stack Observability for NVIDIA AI Factories",
+    "url": "https://developer.nvidia.com/blog/how-to-choose-full-stack-observability-for-nvidia-ai-factories",
+    "summary": "NVIDIA Technical Blog · How to Choose Full-Stack Observability for NVIDIA AI Factories",
     "tags": [
       "gpu",
       "inference",
@@ -51,100 +122,55 @@
     ],
     "author": "NVIDIA AI",
     "source": "developer.nvidia.com",
-    "date": "2026-08-12",
-    "score": 69
-  },
-  {
-    "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
-    "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
-    "summary": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-08-12",
-    "score": 68
-  },
-  {
-    "title": "Introducing ExtractBench, the most comprehensive document extraction benchmark. Learn More →",
-    "url": "https://www.llamaindex.ai/blog/introducing-extractbench",
-    "summary": "Blog · Introducing ExtractBench, the most comprehensive document extraction benchmark. Learn More →",
-    "tags": [
-      "rag",
-      "agents",
-      "framework"
-    ],
-    "author": "LlamaIndex",
-    "source": "llamaindex.ai",
-    "date": "2026-08-12",
-    "score": 68
-  },
-  {
-    "title": "Daybreak models are now available on AWS",
-    "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-    "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-08-12",
-    "score": 67
-  },
-  {
-    "title": "How Zapier transformed core marketing processes with ChatGPT Work",
-    "url": "https://openai.com/index/zapier",
-    "summary": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-08-12",
-    "score": 67
-  },
-  {
-    "title": "Everything hackable will get hacked",
-    "url": "https://vercel.com/blog/everything-hackable-will-get-hacked",
-    "summary": "Over the past year, AI models have become much more capable of performing cybersecurity work. These changes are reshaping both the threats facing the web and the tools available to defend it. Right now, defenders have an advantage because they can use stronger models for defensive work than the open-weight models broadly available for offensive research. But this advantage will not always last. The gap will soon close. I have both good news and bad news, neither of which is y",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-08-12",
-    "score": 67
-  },
-  {
-    "title": "Enterprise Managed Users is now generally available",
-    "url": "https://vercel.com/changelog/enterprise-managed-users",
-    "summary": "Enterprise Managed Users (EMU) gives organizations full control over the Vercel accounts tied to their verified domains. It makes the organization's identity provider the single source of truth for authentication and account lifecycle, so accounts on company domains are governed centrally rather than owned by individuals. Now generally available IdP-enforced sign-in: Managed users sign in through SAML SSO only. All other login methods, including email OTP, GitHub, Google, and",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-08-12",
+    "date": "2026-08-13",
     "score": 66
   },
   {
-    "title": "How many of your agent's calls actually need a frontier model?",
-    "url": "https://www.langchain.com/blog/switchyard-agent-routing-benchmark",
-    "summary": "We benchmarked NVIDIA NeMo Switchyard on 145 agent tasks. Only 7% of turns needed a frontier model, and routing cut cost 74% for six points of accuracy.",
+    "title": "12 August Engineering Building a software factory for AI SDK We built a software factory for AI SDK that processes issues, PRs, and backports, but keeps humans in control. Lars Grammel, Eric Dodds",
+    "url": "https://vercel.com/blog/building-a-software-factory-for-ai-sdk",
+    "summary": "Blog - Vercel · 12 August Engineering Building a software factory for AI SDK We built a software factory for AI SDK that processes issues, PRs, and backports, but keeps humans in control. Lars Grammel, Eric Dodds",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-08-13",
+    "score": 66
+  },
+  {
+    "title": "Exa web search free through August 31 on AI Gateway and eve",
+    "url": "https://vercel.com/changelog/exa-web-search-free-through-august-31-on-ai-gateway-and-eve",
+    "summary": "Exa web search is now free on AI Gateway through August 31, and it's now the default web search for eve agents. The tool works with any AI Gateway model, with no separate Exa API key. When the model calls it, AI Gateway routes the request to Exa's Search API, returning web results and extracted page content with support for domain filters, date filters, and token-efficient excerpts. The built-in web_search tool in eve now uses Exa by default when the model is served through A",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-08-13",
+    "score": 66
+  },
+  {
+    "title": "DeepSeek overtakes Google on volume, cost per token falls 13.6%",
+    "url": "https://vercel.com/blog/deepseek-overtakes-google-on-volume-cost-per-token-falls",
+    "summary": "AI Gateway Production Index — August 2026 Every month, AI Gateway routes tens of trillions of tokens between production applications and AI labs. That traffic gives us a view of what AI usage actually looks like in today's enterprise, and we publish it here monthly. See the Production Index reports from May , June , and July . August 2026 Summary The August index reports on AI Gateway data collected through July 2026. The average price paid per token fell 13.6% in July, after",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-08-13",
+    "score": 65
+  },
+  {
+    "title": "LangSmith BYOC on AWS is generally available",
+    "url": "https://www.langchain.com/blog/langsmith-byoc-is-now-generally-available-on-aws",
+    "summary": "LangSmith Bring Your Own Cloud is now generally available on AWS, giving Enterprise teams managed observability, evaluation, and deployment inside their own VPC.",
     "tags": [
       "agents",
       "rag",
@@ -152,40 +178,13 @@
     ],
     "author": "LangChain",
     "source": "langchain.com",
-    "date": "2026-08-12",
-    "score": 66
+    "date": "2026-08-13",
+    "score": 65
   },
   {
-    "title": "FineBooks: are open OCR models good enough to unlock historical knowledge? finebooks • 1 day ago • 20",
-    "url": "https://huggingface.co/blog/finebooks/historical-books-ocr-leaderboard",
-    "summary": "Hugging Face – Blog · FineBooks: are open OCR models good enough to unlock historical knowledge? finebooks • 1 day ago • 20",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-08-12",
-    "score": 64
-  },
-  {
-    "title": "In-region inference, open models, and new European infrastructure for sovereign AI.",
-    "url": "https://mistral.ai/news/regional-inference-open-models-new-compute",
-    "summary": "Latest news | Mistral · In-region inference, open models, and new European infrastructure for sovereign AI.",
-    "tags": [
-      "open_model",
-      "european_ai"
-    ],
-    "author": "Mistral AI",
-    "source": "mistral.ai",
-    "date": "2026-08-12",
-    "score": 63
-  },
-  {
-    "title": "Vercel Connect adds observability support",
-    "url": "https://vercel.com/changelog/vercel-connect-adds-observability-support",
-    "summary": "Vercel Connect now gives teams line-level visibility into the token lifecycle. See who created a token, what app or project used it, when, and whether it is still active. Every connector's detail page includes a new Observability tab: Runtime events : Every token request, authorization, refresh, revocation, and trigger delivery, filterable by type. Correlation IDs : Stable tokenId and authorizationId values link each token's events, so you can match Connect events to your own",
+    "title": "Free domain for one year, now for all Pro teams",
+    "url": "https://vercel.com/changelog/free-domain-for-one-year-now-for-all-pro-teams",
+    "summary": "We recently announced that new Pro teams are eligible to claim a free domain for their first year . We are now extending this offer to all Pro teams. Existing Pro teams can now also claim a free domain for one year. The offer covers one eligible domain per team across six TLDs: .online , .site , .space , .store , .tech , and .website . After the first year, your domain will renew automatically at the regular price shown at checkout when you claim it. Claim yours at vercel.com",
     "tags": [
       "sdk",
       "ai_infra",
@@ -193,13 +192,13 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-08-12",
+    "date": "2026-08-13",
     "score": 63
   },
   {
-    "title": "Vercel Connect now supports CLI setup for 100+ connectors",
-    "url": "https://vercel.com/changelog/vercel-cli-100-services",
-    "summary": "You can now integrate 100+ services through Vercel Connect from the CLI. Previously, vercel connect create completed setup in the terminal for some services, and opened the dashboard for everything else. Pass the service name to create a connector, then attach it to your project: The CLI pre-populates the brand name, icon, auth type, and MCP or discovery URL, then prompts for any credentials the service requires and creates the connector. After attaching the connector, call g",
+    "title": "How we migrated the database behind every Vercel build",
+    "url": "https://vercel.com/blog/how-we-migrated-the-database-behind-every-vercel-build",
+    "summary": "Every build on Vercel starts in the build warm pool, which is a set of standby containers that let builds begin without waiting for new compute. The pool runs on state that tracks which containers are ready, the tokens each one uses to authenticate, and the mapping that ties every running build back to the deployment that gets billed for it. When we built the pool, we put all of that in Redis, which was fast and made sense at the time. Over the years, though, that state turne",
     "tags": [
       "sdk",
       "ai_infra",
@@ -207,41 +206,13 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-08-12",
+    "date": "2026-08-13",
     "score": 63
   },
   {
-    "title": "LaunchDarkly is now available on the Vercel Marketplace",
-    "url": "https://vercel.com/changelog/launchdarkly-is-now-available-on-the-vercel-marketplace",
-    "summary": "LaunchDarkly is now available on the Vercel Marketplace , allowing you to quickly get started with feature flags without additional setup. You can: Sync flags into Global Config and evaluate them locally Target releases by user, attribute, or segment Run experiments with metrics, and roll back with a kill switch View and override flags from the Vercel Toolbar with the Flags Explorer To get started, run vercel install launchdarkly , add the @flags-sdk/launchdarkly adapter, and",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-08-12",
-    "score": 63
-  },
-  {
-    "title": "Simplified onboarding for deepsec",
-    "url": "https://vercel.com/changelog/simplified-onboarding-for-deepsec",
-    "summary": "deepsec , the open-source security review harness from Vercel, now lets you set up a repository and run its first security review with a single command. The init command now automates the standard setup process: creates the isolated .deepsec/ workspace, the only thing added to your repository, and installs its dependencies configures model access, through Vercel AI Gateway or your own provider keys generates a description of the codebase and its attack surface that every late",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-08-12",
-    "score": 63
-  },
-  {
-    "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
-    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
-    "summary": "Thinking of ACE? We Can Do It with Fewer Tokens 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+    "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+    "summary": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -249,13 +220,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-08-12",
+    "date": "2026-08-13",
     "score": 62
   },
   {
-    "title": "CO₂ Emissions and Models Performance: Insights from the Open LLM Leaderboard",
-    "url": "https://huggingface.co/blog/leaderboard-emissions-analysis",
-    "summary": "CO₂ Emissions and Models Performance: Insights from the Open LLM Leaderboard 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+    "summary": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -263,13 +234,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-08-12",
+    "date": "2026-08-13",
     "score": 62
   },
   {
-    "title": "Visualize and understand GPU memory in PyTorch",
-    "url": "https://huggingface.co/blog/train_memory",
-    "summary": "Visualize and understand GPU memory in PyTorch 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Bamba: Inference-Efficient Hybrid Mamba2 Model",
+    "url": "https://huggingface.co/blog/bamba",
+    "summary": "Bamba: Inference-Efficient Hybrid Mamba2 Model 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -277,13 +248,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-08-12",
+    "date": "2026-08-13",
     "score": 62
   },
   {
-    "title": "Controlling Language Model Generation with NVIDIA&apos;s LogitsProcessorZoo",
-    "url": "https://huggingface.co/blog/logits-processor-zoo",
-    "summary": "Controlling Language Model Generation with NVIDIA&apos;s LogitsProcessorZoo 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Welcome to the Falcon 3 Family of Open Models!",
+    "url": "https://huggingface.co/blog/falcon3",
+    "summary": "Welcome to the Falcon 3 Family of Open Models! 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -291,13 +262,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-08-12",
+    "date": "2026-08-13",
     "score": 62
   },
   {
-    "title": "Finally, a Replacement for BERT: Introducing ModernBERT",
-    "url": "https://huggingface.co/blog/modernbert",
-    "summary": "Finally, a Replacement for BERT: Introducing ModernBERT 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Introducing the Synthetic Data Generator - Build Datasets with Natural Language",
+    "url": "https://huggingface.co/blog/synthetic-data-generator",
+    "summary": "Introducing the Synthetic Data Generator - Build Datasets with Natural Language 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -305,7 +276,49 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-08-12",
+    "date": "2026-08-13",
+    "score": 62
+  },
+  {
+    "title": "Hugging Face models in Amazon Bedrock",
+    "url": "https://huggingface.co/blog/bedrock-marketplace",
+    "summary": "Hugging Face models in Amazon Bedrock 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-08-13",
+    "score": 62
+  },
+  {
+    "title": "Open Preference Dataset for Text-to-Image Generation by the 🤗 Community",
+    "url": "https://huggingface.co/blog/image-preferences",
+    "summary": "Open Preference Dataset for Text-to-Image Generation by the 🤗 Community 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-08-13",
+    "score": 62
+  },
+  {
+    "title": "Welcome PaliGemma 2 – New vision language models by Google",
+    "url": "https://huggingface.co/blog/paligemma2",
+    "summary": "Welcome PaliGemma 2 – New vision language models by Google 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-08-13",
     "score": 62
   }
 ]
