@@ -14306,5 +14306,235 @@
     "cluster_id": "huggingface_co_c6ddc3fa",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a6156ece1103513c",
+    "canonical_url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+    "dedupe_key": "e6819080523f1829",
+    "title": "The builder’s guide to GPT‑5.6",
+    "issue_date": "2026-08-14",
+    "cluster_id": "openai_com_3d7aeefc",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1d306f4e7242732d",
+    "canonical_url": "https://vercel.com/changelog/grok-build-harness-adapter",
+    "dedupe_key": "dd3d98486065b713",
+    "title": "Grok Build is now available in the AI SDK harness layer",
+    "issue_date": "2026-08-14",
+    "cluster_id": "vercel_com_54bff9e4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0a9255fb7c3af2da",
+    "canonical_url": "https://vercel.com/changelog/exa-joins-the-vercel-agent-marketplace",
+    "dedupe_key": "3170eef159e38fef",
+    "title": "Exa joins the Vercel Agent Marketplace",
+    "issue_date": "2026-08-14",
+    "cluster_id": "vercel_com_48e4e4c1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6074002eab790f47",
+    "canonical_url": "https://vercel.com/changelog/glm-5-2-free-for-eve-agents-through-august-27-via-blackbox-on-ai-gateway",
+    "dedupe_key": "0eb1dea3c0ecf31b",
+    "title": "GLM 5.2 free for eve agents through August 27 via Blackbox on AI Gateway",
+    "issue_date": "2026-08-14",
+    "cluster_id": "vercel_com_a1959ff3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6bcb03a62104cd58",
+    "canonical_url": "https://vercel.com/changelog/set-up-coding-agents-in-one-command-with-ai-gateway",
+    "dedupe_key": "04f29410926b63ce",
+    "title": "Set up coding agents in one command with AI Gateway",
+    "issue_date": "2026-08-14",
+    "cluster_id": "vercel_com_534fb1b4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6ad16c86c11be185",
+    "canonical_url": "https://github.blog/open-source/maintainers/what-50-open-source-projects-taught-us-about-security-in-the-ai-era",
+    "dedupe_key": "25a1a0d9d5dacfac",
+    "title": "What 50 open source projects taught us about security in the AI era",
+    "issue_date": "2026-08-14",
+    "cluster_id": "github_blog_80667c32",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a2083d7e32a8f26b",
+    "canonical_url": "https://openai.com/index/ringcentral",
+    "dedupe_key": "ef014e0916f7a212",
+    "title": "How RingCentral builds AI-native work from engineering to ops",
+    "issue_date": "2026-08-14",
+    "cluster_id": "openai_com_f767897e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_54f46a3ce162550c",
+    "canonical_url": "https://openai.com/index/previewing-ultrafast",
+    "dedupe_key": "98f23ccf6141809c",
+    "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+    "issue_date": "2026-08-14",
+    "cluster_id": "openai_com_1bd7e151",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b75d1f93bef629fe",
+    "canonical_url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+    "dedupe_key": "4a3a47131f03c8f6",
+    "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+    "issue_date": "2026-08-14",
+    "cluster_id": "openai_com_4d4ef687",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a1bfc59e73aad334",
+    "canonical_url": "https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex",
+    "dedupe_key": "10fdd266a95ff182",
+    "title": "How data science teams use ChatGPT Work",
+    "issue_date": "2026-08-14",
+    "cluster_id": "openai_com_47ae4e75",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_aff451680a261472",
+    "canonical_url": "https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex",
+    "dedupe_key": "3debf7b3b064a9ef",
+    "title": "How sales teams use ChatGPT Work",
+    "issue_date": "2026-08-14",
+    "cluster_id": "openai_com_d4befd50",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_802858e8ad918215",
+    "canonical_url": "https://openai.com/academy/chatgpt-work/how-business-operations-teams-use-codex",
+    "dedupe_key": "0bf62f8f387c526e",
+    "title": "How business operations teams use ChatGPT Work",
+    "issue_date": "2026-08-14",
+    "cluster_id": "openai_com_b2bb8aa6",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_97b724b2bd0e9540",
+    "canonical_url": "https://github.blog/news-insights/company-news/your-guide-to-github-universe-2026-is-here-the-schedule-just-launched",
+    "dedupe_key": "bf36180aa9932349",
+    "title": "Your guide to GitHub Universe 2026 is here: The schedule just launched!",
+    "issue_date": "2026-08-14",
+    "cluster_id": "github_blog_bf3f3bc8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_99ab2c903c46a834",
+    "canonical_url": "https://github.blog/news-insights/company-news/github-availability-report-july-2026",
+    "dedupe_key": "b5633e05dc4f3f58",
+    "title": "GitHub availability report: July 2026",
+    "issue_date": "2026-08-14",
+    "cluster_id": "github_blog_86a86135",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_eca4793391d528fc",
+    "canonical_url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
+    "dedupe_key": "252a678ee7bfbc64",
+    "title": "Introducing Gemini 3.7 Flash",
+    "issue_date": "2026-08-14",
+    "cluster_id": "deepmind_google_b447ace2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0b1df8580a5b49da",
+    "canonical_url": "https://vercel.com/changelog/gemini-3-7-flash-now-available-on-ai-gateway-for-50-off",
+    "dedupe_key": "9859f1965d619080",
+    "title": "Gemini 3.7 Flash now available on AI Gateway for 50% off",
+    "issue_date": "2026-08-14",
+    "cluster_id": "vercel_com_733ef60e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_feaacc5e94d3c3ff",
+    "canonical_url": "https://vercel.com/changelog/use-acp-compatible-harnesses-with-the-ai-sdk-harness-layer",
+    "dedupe_key": "599b816f9d4c3f89",
+    "title": "Use ACP-compatible harnesses with the AI SDK harness layer",
+    "issue_date": "2026-08-14",
+    "cluster_id": "vercel_com_edbb529f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f836bf18d1c8c7e2",
+    "canonical_url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+    "dedupe_key": "0f6d0306d51e5b5d",
+    "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+    "issue_date": "2026-08-14",
+    "cluster_id": "huggingface_co_d7d9e5c3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_66f349c292793cd5",
+    "canonical_url": "https://vercel.com/blog/inside-the-vercel-intern-experience",
+    "dedupe_key": "4e21d8d82c363abe",
+    "title": "Inside the Vercel intern experience",
+    "issue_date": "2026-08-14",
+    "cluster_id": "vercel_com_8ecd4416",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a3090db4b2635478",
+    "canonical_url": "https://huggingface.co/blog/CohereLabs/meet-north-micro-vision-instruct",
+    "dedupe_key": "d675d954832e8bf3",
+    "title": "Meet North Micro Vision: A 2.4B Native-Resolution Vision-Language Model CohereLabs • 1 day ago • 31",
+    "issue_date": "2026-08-14",
+    "cluster_id": "huggingface_co_eebe0a0b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e53891ff754cecaf",
+    "canonical_url": "https://www.langchain.com/blog/why-managed-agents-are-the-next-big-thing-in-agent-building",
+    "dedupe_key": "fad9767eb04bb137",
+    "title": "Why managed agents are the next big thing in agent building",
+    "issue_date": "2026-08-14",
+    "cluster_id": "langchain_com_5bc63136",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c0b758243434040e",
+    "canonical_url": "https://vercel.com/changelog/one-click-upgrade-for-deprecated-node-js-versions",
+    "dedupe_key": "18b88001e98f0071",
+    "title": "One-click upgrade for deprecated Node.js versions",
+    "issue_date": "2026-08-14",
+    "cluster_id": "vercel_com_9835ae16",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5b93b48e256cf1db",
+    "canonical_url": "https://huggingface.co/blog/icml-2026-open-reproductions",
+    "dedupe_key": "490dc36b923314af",
+    "title": "What We Learned by Reproducing 2,200 papers from ICML",
+    "issue_date": "2026-08-14",
+    "cluster_id": "huggingface_co_3bc0d4f8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
