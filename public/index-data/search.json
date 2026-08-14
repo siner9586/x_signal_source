@@ -1,307 +1,34 @@
 [
   {
-    "title": "The builder’s guide to GPT‑5.6",
-    "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-    "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+    "title": "How to bring your software delivery workflow into GitHub with agent apps",
+    "url": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps",
+    "summary": "See how four GitHub agent apps can help you scope, secure, roll out, and ship a feature across the SDLC–all without leaving GitHub. The post How to bring your software delivery workflow into GitHub with agent apps appeared first on The GitHub Blog .",
     "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
+      "ai_coding",
+      "developer_tools"
     ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-08-14",
-    "score": 74
-  },
-  {
-    "title": "Grok Build is now available in the AI SDK harness layer",
-    "url": "https://vercel.com/changelog/grok-build-harness-adapter",
-    "summary": "The AI SDK harness layer lets you run established coding-agent runtimes through one unified interface, so you can switch runtimes without changing your application code. Today we are adding Grok Build, which runs through the same HarnessAgent interface as every other supported harness. @ai-sdk/harness-grok-build is the official harness adapter for Grok Build, built on top of the ACP harness adapter ( @ai-sdk/harness-acp ). Read the Grok Build harness documentation to get star",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-08-14",
-    "score": 71
-  },
-  {
-    "title": "Exa joins the Vercel Agent Marketplace",
-    "url": "https://vercel.com/changelog/exa-joins-the-vercel-agent-marketplace",
-    "summary": "Exa is now available on the Vercel Agent Marketplace as a native integration. Exa's neural search engine delivers high-quality, relevant results to ground AI in fresh, current information. Add Exa to your Vercel app in seconds to power search, research agents, and context-aware features. The Vercel integration provides a single API key that works across all Exa products, with billing handled directly through your Vercel account. Install Exa from the Marketplace or deploy the ",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-08-14",
+    "author": "GitHub Copilot",
+    "source": "github.blog",
+    "date": "2026-08-15",
     "score": 70
   },
   {
-    "title": "GLM 5.2 free for eve agents through August 27 via Blackbox on AI Gateway",
-    "url": "https://vercel.com/changelog/glm-5-2-free-for-eve-agents-through-august-27-via-blackbox-on-ai-gateway",
-    "summary": "GLM 5.2 , the open-weights coding model from Z.ai with a 1M-token context window, is free for eve agents through August 27, served by Blackbox AI on AI Gateway . New eve agents come with GLM 5.2 as their default model. Use npx eve@latest init my-agent to get started. Existing agents can benefit from this as well with a one-line change in agent/agent.ts : Or run eve set from the CLI: After August 27, GLM 5.2 stays available on AI Gateway at standard provider rates. Try GLM 5.2",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-08-14",
-    "score": 69
-  },
-  {
-    "title": "Set up coding agents in one command with AI Gateway",
-    "url": "https://vercel.com/changelog/set-up-coding-agents-in-one-command-with-ai-gateway",
-    "summary": "Using coding agents means setting up multiple accounts, provisioning API keys, and scattering observability and billing. Now, you can route them through AI Gateway to centralize all of this and add controls, with set up in one command: Any of 200+ models in any agent , including models the agent has no native support for. The gateway routes the request to whichever model you picked, with automatic fallbacks. One dashboard for agent traffic : spend, performance, tokens and mor",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-08-14",
-    "score": 69
-  },
-  {
-    "title": "What 50 open source projects taught us about security in the AI era",
-    "url": "https://github.blog/open-source/maintainers/what-50-open-source-projects-taught-us-about-security-in-the-ai-era",
-    "summary": "See how the open source projects in Session 4 of the GitHub Secure Open Source Fund combined AI-assisted workflows, maintainer expertise, GitHub security tools, expert guidance, and funding to improve project security. The post What 50 open source projects taught us about security in the AI era appeared first on The GitHub Blog .",
-    "tags": [
-      "ai_coding",
-      "developer_tools"
-    ],
-    "author": "GitHub Copilot",
-    "source": "github.blog",
-    "date": "2026-08-14",
-    "score": 69
-  },
-  {
-    "title": "How RingCentral builds AI-native work from engineering to ops",
-    "url": "https://openai.com/index/ringcentral",
-    "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
+    "title": "Aug 14, 2026 Grok 4.6 in GitHub Copilot",
+    "url": "https://x.ai/news/grok-4-6-github-copilot",
+    "summary": "SpaceXAI · Aug 14, 2026 Grok 4.6 in GitHub Copilot",
     "tags": [
       "ai_models",
-      "official",
-      "research",
-      "developer"
+      "reasoning"
     ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-08-14",
-    "score": 68
-  },
-  {
-    "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-    "url": "https://openai.com/index/previewing-ultrafast",
-    "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-08-14",
-    "score": 67
-  },
-  {
-    "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-    "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-    "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-08-14",
-    "score": 67
-  },
-  {
-    "title": "How data science teams use ChatGPT Work",
-    "url": "https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex",
-    "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-08-14",
-    "score": 67
-  },
-  {
-    "title": "How sales teams use ChatGPT Work",
-    "url": "https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex",
-    "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-08-14",
-    "score": 67
-  },
-  {
-    "title": "How business operations teams use ChatGPT Work",
-    "url": "https://openai.com/academy/chatgpt-work/how-business-operations-teams-use-codex",
-    "summary": "See how business operations teams can use ChatGPT Work to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-08-14",
-    "score": 67
-  },
-  {
-    "title": "Your guide to GitHub Universe 2026 is here: The schedule just launched!",
-    "url": "https://github.blog/news-insights/company-news/your-guide-to-github-universe-2026-is-here-the-schedule-just-launched",
-    "summary": "The GitHub Universe session catalog is live. Explore interactive workshops, community talks, demos, and panels. Plus, register before August 19 to save $300. The post Your guide to GitHub Universe 2026 is here: The schedule just launched! appeared first on The GitHub Blog .",
-    "tags": [
-      "ai_coding",
-      "developer_tools"
-    ],
-    "author": "GitHub Copilot",
-    "source": "github.blog",
-    "date": "2026-08-14",
-    "score": 67
-  },
-  {
-    "title": "GitHub availability report: July 2026",
-    "url": "https://github.blog/news-insights/company-news/github-availability-report-july-2026",
-    "summary": "In July, we experienced eight incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: July 2026 appeared first on The GitHub Blog .",
-    "tags": [
-      "ai_coding",
-      "developer_tools"
-    ],
-    "author": "GitHub Copilot",
-    "source": "github.blog",
-    "date": "2026-08-14",
-    "score": 67
-  },
-  {
-    "title": "Introducing Gemini 3.7 Flash",
-    "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
-    "summary": "Introducing Gemini 3.7 Flash 是 Google DeepMind 当日抓取到的公开新增条目。",
-    "tags": [
-      "research",
-      "multimodal",
-      "science",
-      "official"
-    ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-08-14",
-    "score": 66
-  },
-  {
-    "title": "Gemini 3.7 Flash now available on AI Gateway for 50% off",
-    "url": "https://vercel.com/changelog/gemini-3-7-flash-now-available-on-ai-gateway-for-50-off",
-    "summary": "Gemini 3.7 Flash from Google is now available on AI Gateway for 50% off till December 31st, 2026. Gemini 3.7 Flash improves on prior Flash models at software engineering and agentic work. It resolves issues more reliably and spends less time stuck in failed agent loops, which matters on long tool-calling sequences where one derailment costs the rest of the run. It also generates desktop and web application code directly from design mocks, with closer adherence to the source d",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-08-14",
-    "score": 66
-  },
-  {
-    "title": "Use ACP-compatible harnesses with the AI SDK harness layer",
-    "url": "https://vercel.com/changelog/use-acp-compatible-harnesses-with-the-ai-sdk-harness-layer",
-    "summary": "The AI SDK harness layer now supports any Agent Client Protocol (ACP)-compatible harness with HarnessAgent through the new @ai-sdk/harness-acp package. Previously, every harness adapter wrapped one specific runtime (Claude Code, Codex, Pi, Deep Agents, OpenCode). @ai-sdk/harness-acp wraps the protocol instead. It is a meta adapter: rather than adapting a single harness, it lets you build an adapter for any harness that ships an ACP-compatible package. Implement a harness by p",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-08-14",
-    "score": 66
-  },
-  {
-    "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-    "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-    "summary": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-08-14",
-    "score": 66
-  },
-  {
-    "title": "Inside the Vercel intern experience",
-    "url": "https://vercel.com/blog/inside-the-vercel-intern-experience",
-    "summary": "The best way to learn is by shipping product to users in production, and that's why we don’t treat our interns as temporary guests. Every intern at Vercel is expected to operate like a core part of our engineering team from day one. This past winter, we welcomed a small cohort of those interns to our headquarters in San Francisco. Over an intense four months, they contributed to some of our most important products: the CDN, v0, financial infrastructure, AI Gateway, and more. ",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-08-14",
-    "score": 65
-  },
-  {
-    "title": "Meet North Micro Vision: A 2.4B Native-Resolution Vision-Language Model CohereLabs • 1 day ago • 31",
-    "url": "https://huggingface.co/blog/CohereLabs/meet-north-micro-vision-instruct",
-    "summary": "Hugging Face – Blog · Meet North Micro Vision: A 2.4B Native-Resolution Vision-Language Model CohereLabs • 1 day ago • 31",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-08-14",
+    "author": "xAI",
+    "source": "x.ai",
+    "date": "2026-08-15",
     "score": 64
   },
   {
-    "title": "Why managed agents are the next big thing in agent building",
-    "url": "https://www.langchain.com/blog/why-managed-agents-are-the-next-big-thing-in-agent-building",
-    "summary": "Managed Deep Agents gives developers a managed way to build, run, and deploy Deep Agents with built-in runtime, streaming, sandboxes, evals, memory, and auth.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-08-14",
-    "score": 64
-  },
-  {
-    "title": "One-click upgrade for deprecated Node.js versions",
-    "url": "https://vercel.com/changelog/one-click-upgrade-for-deprecated-node-js-versions",
-    "summary": "Team owners and members can now upgrade all projects using Node.js 20 or earlier to Node.js 24 with one click from the Vercel Dashboard. This updates the Node.js version in project settings . If your project also defines a version in package.json , you'll need to update it manually. Existing deployments are not affected. View and upgrade deprecated Node.js projects now. Read more",
+    "title": "Encrypted Client Hello (ECH) is now supported on Vercel CDN",
+    "url": "https://vercel.com/changelog/encrypted-client-hello-now-supported-on-vercel-cdn",
+    "summary": "Vercel CDN now supports Encrypted Client Hello (ECH) for domains managed by Vercel DNS. ECH encrypts the Server Name Indication (SNI) in the TLS handshake, the last part of an HTTPS connection that revealed which hostname a client was connecting to. With ECH, network observers see a connection to Vercel's shared ECH hostname, vercel-ech.com . ECH is managed at the platform level and enables automatically where supported. Recent versions of Chrome, Edge, and Firefox support En",
     "tags": [
       "sdk",
       "ai_infra",
@@ -309,13 +36,27 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-08-14",
+    "date": "2026-08-15",
     "score": 63
   },
   {
-    "title": "What We Learned by Reproducing 2,200 papers from ICML",
-    "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
-    "summary": "What We Learned by Reproducing 2,200 papers from ICML 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Aug 14, 2026 Announcements How Claude’s text watermark works",
+    "url": "https://www.anthropic.com/news/claude-text-watermark",
+    "summary": "Newsroom \\ Anthropic · Aug 14, 2026 Announcements How Claude’s text watermark works",
+    "tags": [
+      "ai_models",
+      "safety",
+      "official"
+    ],
+    "author": "Anthropic",
+    "source": "anthropic.com",
+    "date": "2026-08-15",
+    "score": 62
+  },
+  {
+    "title": "State of Open Models: Summer 2026 Observations",
+    "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+    "summary": "State of Open Models: Summer 2026 Observations 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -323,7 +64,231 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-08-14",
+    "date": "2026-08-15",
+    "score": 62
+  },
+  {
+    "title": "How good are LLMs at fixing their mistakes? A chatbot arena experiment with Keras and TPUs",
+    "url": "https://huggingface.co/blog/keras-chatbot-arena",
+    "summary": "How good are LLMs at fixing their mistakes? A chatbot arena experiment with Keras and TPUs 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-08-15",
+    "score": 62
+  },
+  {
+    "title": "Investing in Performance: Fine-tune small models with LLM insights - a CFM case study",
+    "url": "https://huggingface.co/blog/cfm-case-study",
+    "summary": "Investing in Performance: Fine-tune small models with LLM insights - a CFM case study 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-08-15",
+    "score": 62
+  },
+  {
+    "title": "Rearchitecting Hugging Face Uploads and Downloads",
+    "url": "https://huggingface.co/blog/rearchitecting-uploads-and-downloads",
+    "summary": "Rearchitecting Hugging Face Uploads and Downloads 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-08-15",
+    "score": 62
+  },
+  {
+    "title": "SmolVLM - small yet mighty Vision Language Model",
+    "url": "https://huggingface.co/blog/smolvlm",
+    "summary": "SmolVLM - small yet mighty Vision Language Model 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-08-15",
+    "score": 62
+  },
+  {
+    "title": "Letting Large Models Debate: The First Multilingual LLM Debate Competition",
+    "url": "https://huggingface.co/blog/debate",
+    "summary": "Letting Large Models Debate: The First Multilingual LLM Debate Competition 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-08-15",
+    "score": 62
+  },
+  {
+    "title": "From Files to Chunks: Improving HF Storage Efficiency",
+    "url": "https://huggingface.co/blog/from-files-to-chunks",
+    "summary": "From Files to Chunks: Improving HF Storage Efficiency 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-08-15",
+    "score": 62
+  },
+  {
+    "title": "Introducing the Open Leaderboard for Japanese LLMs!",
+    "url": "https://huggingface.co/blog/leaderboard-japanese",
+    "summary": "Introducing the Open Leaderboard for Japanese LLMs! 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-08-15",
+    "score": 62
+  },
+  {
+    "title": "Share your open ML datasets on Hugging Face Hub!",
+    "url": "https://huggingface.co/blog/researcher-dataset-sharing",
+    "summary": "Share your open ML datasets on Hugging Face Hub! 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-08-15",
+    "score": 62
+  },
+  {
+    "title": "Hugging Face + PyCharm",
+    "url": "https://huggingface.co/blog/pycharm-integration",
+    "summary": "Hugging Face + PyCharm 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-08-15",
+    "score": 62
+  },
+  {
+    "title": "Argilla 2.4: Easily Build Fine-Tuning and Evaluation Datasets on the Hub — No Code Required",
+    "url": "https://huggingface.co/blog/argilla-ui-hub",
+    "summary": "Argilla 2.4: Easily Build Fine-Tuning and Evaluation Datasets on the Hub — No Code Required 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-08-15",
+    "score": 62
+  },
+  {
+    "title": "Expert Support case study: Bolstering a RAG app with LLM-as-a-Judge",
+    "url": "https://huggingface.co/blog/digital-green-llm-judge",
+    "summary": "Expert Support case study: Bolstering a RAG app with LLM-as-a-Judge 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-08-15",
+    "score": 62
+  },
+  {
+    "title": "A Deepdive into Aya Expanse: Advancing the Frontier of Multilinguality",
+    "url": "https://huggingface.co/blog/aya-expanse",
+    "summary": "A Deepdive into Aya Expanse: Advancing the Frontier of Multilinguality 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-08-15",
+    "score": 62
+  },
+  {
+    "title": "Introducing SynthID Text",
+    "url": "https://huggingface.co/blog/synthid-text",
+    "summary": "Introducing SynthID Text 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-08-15",
+    "score": 62
+  },
+  {
+    "title": "CinePile 2.0 - making stronger datasets with adversarial refinement",
+    "url": "https://huggingface.co/blog/cinepile2",
+    "summary": "CinePile 2.0 - making stronger datasets with adversarial refinement 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-08-15",
+    "score": 62
+  },
+  {
+    "title": "Transformers.js v3: WebGPU Support, New Models & Tasks, and More…",
+    "url": "https://huggingface.co/blog/transformersjs-v3",
+    "summary": "Transformers.js v3: WebGPU Support, New Models & Tasks, and More… 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-08-15",
+    "score": 62
+  },
+  {
+    "title": "Diffusers welcomes Stable Diffusion 3.5 Large",
+    "url": "https://huggingface.co/blog/sd3-5",
+    "summary": "Diffusers welcomes Stable Diffusion 3.5 Large 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-08-15",
     "score": 62
   }
 ]

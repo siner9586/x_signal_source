@@ -14536,5 +14536,215 @@
     "cluster_id": "huggingface_co_3bc0d4f8",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a5b7e5fad5cdb75d",
+    "canonical_url": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps",
+    "dedupe_key": "30a12853992c5475",
+    "title": "How to bring your software delivery workflow into GitHub with agent apps",
+    "issue_date": "2026-08-15",
+    "cluster_id": "github_blog_7eeccf9e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7f7dbc78fce9270e",
+    "canonical_url": "https://x.ai/news/grok-4-6-github-copilot",
+    "dedupe_key": "1520b42058a1c628",
+    "title": "Aug 14, 2026 Grok 4.6 in GitHub Copilot",
+    "issue_date": "2026-08-15",
+    "cluster_id": "x_ai_20166032",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_33d2c8191ebffb46",
+    "canonical_url": "https://vercel.com/changelog/encrypted-client-hello-now-supported-on-vercel-cdn",
+    "dedupe_key": "6cd8a7ee8966dd48",
+    "title": "Encrypted Client Hello (ECH) is now supported on Vercel CDN",
+    "issue_date": "2026-08-15",
+    "cluster_id": "vercel_com_71e51d84",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2007981aaa3740fc",
+    "canonical_url": "https://www.anthropic.com/news/claude-text-watermark",
+    "dedupe_key": "8413aef214a0ac55",
+    "title": "Aug 14, 2026 Announcements How Claude’s text watermark works",
+    "issue_date": "2026-08-15",
+    "cluster_id": "anthropic_com_f7a89a81",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_186a42ed85609286",
+    "canonical_url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+    "dedupe_key": "077f6ff19275b5d0",
+    "title": "State of Open Models: Summer 2026 Observations",
+    "issue_date": "2026-08-15",
+    "cluster_id": "huggingface_co_557d3e56",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2068ff9347579c9f",
+    "canonical_url": "https://huggingface.co/blog/keras-chatbot-arena",
+    "dedupe_key": "1efea5c93776c9ca",
+    "title": "How good are LLMs at fixing their mistakes? A chatbot arena experiment with Keras and TPUs",
+    "issue_date": "2026-08-15",
+    "cluster_id": "huggingface_co_87b56aea",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_cbb827f1e9e673c2",
+    "canonical_url": "https://huggingface.co/blog/cfm-case-study",
+    "dedupe_key": "67e6ebe6ef9034d1",
+    "title": "Investing in Performance: Fine-tune small models with LLM insights - a CFM case study",
+    "issue_date": "2026-08-15",
+    "cluster_id": "huggingface_co_24804488",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b9a58dd8ecc9d306",
+    "canonical_url": "https://huggingface.co/blog/rearchitecting-uploads-and-downloads",
+    "dedupe_key": "ae1182349dd759f7",
+    "title": "Rearchitecting Hugging Face Uploads and Downloads",
+    "issue_date": "2026-08-15",
+    "cluster_id": "huggingface_co_a8484c67",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_97c25452f11f6ab8",
+    "canonical_url": "https://huggingface.co/blog/smolvlm",
+    "dedupe_key": "f406f2538da594c4",
+    "title": "SmolVLM - small yet mighty Vision Language Model",
+    "issue_date": "2026-08-15",
+    "cluster_id": "huggingface_co_20354028",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a564ec7847f5efda",
+    "canonical_url": "https://huggingface.co/blog/debate",
+    "dedupe_key": "e984fa17653293ad",
+    "title": "Letting Large Models Debate: The First Multilingual LLM Debate Competition",
+    "issue_date": "2026-08-15",
+    "cluster_id": "huggingface_co_3405444c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3b18b2ba2b7e4d8d",
+    "canonical_url": "https://huggingface.co/blog/from-files-to-chunks",
+    "dedupe_key": "932d46b248790204",
+    "title": "From Files to Chunks: Improving HF Storage Efficiency",
+    "issue_date": "2026-08-15",
+    "cluster_id": "huggingface_co_0fd9b686",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_74f48e356301f4b3",
+    "canonical_url": "https://huggingface.co/blog/leaderboard-japanese",
+    "dedupe_key": "bda5bbb926bdfe2d",
+    "title": "Introducing the Open Leaderboard for Japanese LLMs!",
+    "issue_date": "2026-08-15",
+    "cluster_id": "huggingface_co_2964091f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_595cc53fcdf9481c",
+    "canonical_url": "https://huggingface.co/blog/researcher-dataset-sharing",
+    "dedupe_key": "906f78290f404405",
+    "title": "Share your open ML datasets on Hugging Face Hub!",
+    "issue_date": "2026-08-15",
+    "cluster_id": "huggingface_co_53a1e798",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_fe3a6d54e03e8674",
+    "canonical_url": "https://huggingface.co/blog/pycharm-integration",
+    "dedupe_key": "1c7ac8d386f16559",
+    "title": "Hugging Face + PyCharm",
+    "issue_date": "2026-08-15",
+    "cluster_id": "huggingface_co_3403174d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_321e8ca33199dbe2",
+    "canonical_url": "https://huggingface.co/blog/argilla-ui-hub",
+    "dedupe_key": "115a705159dbbf7d",
+    "title": "Argilla 2.4: Easily Build Fine-Tuning and Evaluation Datasets on the Hub — No Code Required",
+    "issue_date": "2026-08-15",
+    "cluster_id": "huggingface_co_b262f637",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d1e5210e7261c45a",
+    "canonical_url": "https://huggingface.co/blog/digital-green-llm-judge",
+    "dedupe_key": "a144654d282ddc3e",
+    "title": "Expert Support case study: Bolstering a RAG app with LLM-as-a-Judge",
+    "issue_date": "2026-08-15",
+    "cluster_id": "huggingface_co_601e1175",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_722d29b81d396add",
+    "canonical_url": "https://huggingface.co/blog/aya-expanse",
+    "dedupe_key": "86c584731c21e69b",
+    "title": "A Deepdive into Aya Expanse: Advancing the Frontier of Multilinguality",
+    "issue_date": "2026-08-15",
+    "cluster_id": "huggingface_co_a50e776e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5a2fb81211ed16ca",
+    "canonical_url": "https://huggingface.co/blog/synthid-text",
+    "dedupe_key": "a6024544c631f3f0",
+    "title": "Introducing SynthID Text",
+    "issue_date": "2026-08-15",
+    "cluster_id": "huggingface_co_0cba19f5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_cab7336e97b0d078",
+    "canonical_url": "https://huggingface.co/blog/cinepile2",
+    "dedupe_key": "a27241fae35a5c24",
+    "title": "CinePile 2.0 - making stronger datasets with adversarial refinement",
+    "issue_date": "2026-08-15",
+    "cluster_id": "huggingface_co_46f1d7ea",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_314bf918bdb74edf",
+    "canonical_url": "https://huggingface.co/blog/transformersjs-v3",
+    "dedupe_key": "95e7c62106aa66b7",
+    "title": "Transformers.js v3: WebGPU Support, New Models & Tasks, and More…",
+    "issue_date": "2026-08-15",
+    "cluster_id": "huggingface_co_f2f5fb38",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c1c398e2b91e4877",
+    "canonical_url": "https://huggingface.co/blog/sd3-5",
+    "dedupe_key": "5698d11309e65d54",
+    "title": "Diffusers welcomes Stable Diffusion 3.5 Large",
+    "issue_date": "2026-08-15",
+    "cluster_id": "huggingface_co_eded39f4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
