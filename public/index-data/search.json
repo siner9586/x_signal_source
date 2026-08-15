@@ -1,62 +1,22 @@
 [
   {
-    "title": "How to bring your software delivery workflow into GitHub with agent apps",
-    "url": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps",
-    "summary": "See how four GitHub agent apps can help you scope, secure, roll out, and ship a feature across the SDLC–all without leaving GitHub. The post How to bring your software delivery workflow into GitHub with agent apps appeared first on The GitHub Blog .",
+    "title": "🧠 Community Wisdom: Recovering from burnout, what Airtable’s sale says about the ceiling on a startup, keeping architecture docs up to date, running competitor analysis, and more",
+    "url": "https://www.lennysnewsletter.com/p/community-wisdom-recovering-from",
+    "summary": "Community Wisdom 197",
     "tags": [
-      "ai_coding",
-      "developer_tools"
+      "product",
+      "growth",
+      "startup"
     ],
-    "author": "GitHub Copilot",
-    "source": "github.blog",
-    "date": "2026-08-15",
-    "score": 70
-  },
-  {
-    "title": "Aug 14, 2026 Grok 4.6 in GitHub Copilot",
-    "url": "https://x.ai/news/grok-4-6-github-copilot",
-    "summary": "SpaceXAI · Aug 14, 2026 Grok 4.6 in GitHub Copilot",
-    "tags": [
-      "ai_models",
-      "reasoning"
-    ],
-    "author": "xAI",
-    "source": "x.ai",
-    "date": "2026-08-15",
+    "author": "Lenny's Newsletter",
+    "source": "lennysnewsletter.com",
+    "date": "2026-08-16",
     "score": 64
   },
   {
-    "title": "Encrypted Client Hello (ECH) is now supported on Vercel CDN",
-    "url": "https://vercel.com/changelog/encrypted-client-hello-now-supported-on-vercel-cdn",
-    "summary": "Vercel CDN now supports Encrypted Client Hello (ECH) for domains managed by Vercel DNS. ECH encrypts the Server Name Indication (SNI) in the TLS handshake, the last part of an HTTPS connection that revealed which hostname a client was connecting to. With ECH, network observers see a connection to Vercel's shared ECH hostname, vercel-ech.com . ECH is managed at the platform level and enables automatically where supported. Recent versions of Chrome, Edge, and Firefox support En",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-08-15",
-    "score": 63
-  },
-  {
-    "title": "Aug 14, 2026 Announcements How Claude’s text watermark works",
-    "url": "https://www.anthropic.com/news/claude-text-watermark",
-    "summary": "Newsroom \\ Anthropic · Aug 14, 2026 Announcements How Claude’s text watermark works",
-    "tags": [
-      "ai_models",
-      "safety",
-      "official"
-    ],
-    "author": "Anthropic",
-    "source": "anthropic.com",
-    "date": "2026-08-15",
-    "score": 62
-  },
-  {
-    "title": "State of Open Models: Summer 2026 Observations",
-    "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-    "summary": "State of Open Models: Summer 2026 Observations 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Releasing Outlines-core 0.1.0: structured generation in Rust and Python",
+    "url": "https://huggingface.co/blog/outlines-core",
+    "summary": "Releasing Outlines-core 0.1.0: structured generation in Rust and Python 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -64,13 +24,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-08-15",
+    "date": "2026-08-16",
     "score": 62
   },
   {
-    "title": "How good are LLMs at fixing their mistakes? A chatbot arena experiment with Keras and TPUs",
-    "url": "https://huggingface.co/blog/keras-chatbot-arena",
-    "summary": "How good are LLMs at fixing their mistakes? A chatbot arena experiment with Keras and TPUs 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Deploying Speech-to-Speech on Hugging Face",
+    "url": "https://huggingface.co/blog/s2s_endpoint",
+    "summary": "Deploying Speech-to-Speech on Hugging Face 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -78,13 +38,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-08-15",
+    "date": "2026-08-16",
     "score": 62
   },
   {
-    "title": "Investing in Performance: Fine-tune small models with LLM insights - a CFM case study",
-    "url": "https://huggingface.co/blog/cfm-case-study",
-    "summary": "Investing in Performance: Fine-tune small models with LLM insights - a CFM case study 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "“Llama 3.2 in Keras”",
+    "url": "https://huggingface.co/blog/keras-llama-32",
+    "summary": "“Llama 3.2 in Keras” 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -92,13 +52,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-08-15",
+    "date": "2026-08-16",
     "score": 62
   },
   {
-    "title": "Rearchitecting Hugging Face Uploads and Downloads",
-    "url": "https://huggingface.co/blog/rearchitecting-uploads-and-downloads",
-    "summary": "Rearchitecting Hugging Face Uploads and Downloads 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Fixing Gradient Accumulation",
+    "url": "https://huggingface.co/blog/gradient_accumulation",
+    "summary": "Fixing Gradient Accumulation 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -106,13 +66,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-08-15",
+    "date": "2026-08-16",
     "score": 62
   },
   {
-    "title": "SmolVLM - small yet mighty Vision Language Model",
-    "url": "https://huggingface.co/blog/smolvlm",
-    "summary": "SmolVLM - small yet mighty Vision Language Model 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Introducing the AMD 5th Gen EPYC™ CPU",
+    "url": "https://huggingface.co/blog/huggingface-amd-turin",
+    "summary": "Introducing the AMD 5th Gen EPYC™ CPU 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -120,13 +80,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-08-15",
+    "date": "2026-08-16",
     "score": 62
   },
   {
-    "title": "Letting Large Models Debate: The First Multilingual LLM Debate Competition",
-    "url": "https://huggingface.co/blog/debate",
-    "summary": "Letting Large Models Debate: The First Multilingual LLM Debate Competition 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "A Security Review of Gradio 5",
+    "url": "https://huggingface.co/blog/gradio-5-security",
+    "summary": "A Security Review of Gradio 5 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -134,13 +94,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-08-15",
+    "date": "2026-08-16",
     "score": 62
   },
   {
-    "title": "From Files to Chunks: Improving HF Storage Efficiency",
-    "url": "https://huggingface.co/blog/from-files-to-chunks",
-    "summary": "From Files to Chunks: Improving HF Storage Efficiency 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Welcome, Gradio 5",
+    "url": "https://huggingface.co/blog/gradio-5",
+    "summary": "Welcome, Gradio 5 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -148,13 +108,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-08-15",
+    "date": "2026-08-16",
     "score": 62
   },
   {
-    "title": "Introducing the Open Leaderboard for Japanese LLMs!",
-    "url": "https://huggingface.co/blog/leaderboard-japanese",
-    "summary": "Introducing the Open Leaderboard for Japanese LLMs! 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Faster Assisted Generation with Dynamic Speculation",
+    "url": "https://huggingface.co/blog/dynamic_speculation_lookahead",
+    "summary": "Faster Assisted Generation with Dynamic Speculation 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -162,13 +122,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-08-15",
+    "date": "2026-08-16",
     "score": 62
   },
   {
-    "title": "Share your open ML datasets on Hugging Face Hub!",
-    "url": "https://huggingface.co/blog/researcher-dataset-sharing",
-    "summary": "Share your open ML datasets on Hugging Face Hub! 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Improving Parquet Dedupe on Hugging Face Hub",
+    "url": "https://huggingface.co/blog/improve_parquet_dedupe",
+    "summary": "Improving Parquet Dedupe on Hugging Face Hub 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -176,13 +136,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-08-15",
+    "date": "2026-08-16",
     "score": 62
   },
   {
-    "title": "Hugging Face + PyCharm",
-    "url": "https://huggingface.co/blog/pycharm-integration",
-    "summary": "Hugging Face + PyCharm 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Introducing the Open FinLLM Leaderboard",
+    "url": "https://huggingface.co/blog/leaderboard-finbench",
+    "summary": "Introducing the Open FinLLM Leaderboard 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -190,13 +150,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-08-15",
+    "date": "2026-08-16",
     "score": 62
   },
   {
-    "title": "Argilla 2.4: Easily Build Fine-Tuning and Evaluation Datasets on the Hub — No Code Required",
-    "url": "https://huggingface.co/blog/argilla-ui-hub",
-    "summary": "Argilla 2.4: Easily Build Fine-Tuning and Evaluation Datasets on the Hub — No Code Required 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "🇨🇿 BenCzechMark - Can your LLM Understand Czech?",
+    "url": "https://huggingface.co/blog/benczechmark",
+    "summary": "🇨🇿 BenCzechMark - Can your LLM Understand Czech? 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -204,13 +164,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-08-15",
+    "date": "2026-08-16",
     "score": 62
   },
   {
-    "title": "Expert Support case study: Bolstering a RAG app with LLM-as-a-Judge",
-    "url": "https://huggingface.co/blog/digital-green-llm-judge",
-    "summary": "Expert Support case study: Bolstering a RAG app with LLM-as-a-Judge 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Converting Vertex-Colored Meshes to Textured Meshes",
+    "url": "https://huggingface.co/blog/vertex-colored-to-textured-mesh",
+    "summary": "Converting Vertex-Colored Meshes to Textured Meshes 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -218,13 +178,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-08-15",
+    "date": "2026-08-16",
     "score": 62
   },
   {
-    "title": "A Deepdive into Aya Expanse: Advancing the Frontier of Multilinguality",
-    "url": "https://huggingface.co/blog/aya-expanse",
-    "summary": "A Deepdive into Aya Expanse: Advancing the Frontier of Multilinguality 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Llama can now see and run on your device - welcome Llama 3.2",
+    "url": "https://huggingface.co/blog/llama32",
+    "summary": "Llama can now see and run on your device - welcome Llama 3.2 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -232,13 +192,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-08-15",
+    "date": "2026-08-16",
     "score": 62
   },
   {
-    "title": "Introducing SynthID Text",
-    "url": "https://huggingface.co/blog/synthid-text",
-    "summary": "Introducing SynthID Text 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "FineVideo: behind the scenes",
+    "url": "https://huggingface.co/blog/fine-video",
+    "summary": "FineVideo: behind the scenes 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -246,13 +206,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-08-15",
+    "date": "2026-08-16",
     "score": 62
   },
   {
-    "title": "CinePile 2.0 - making stronger datasets with adversarial refinement",
-    "url": "https://huggingface.co/blog/cinepile2",
-    "summary": "CinePile 2.0 - making stronger datasets with adversarial refinement 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Fine-tuning LLMs to 1.58bit: extreme quantization made easy",
+    "url": "https://huggingface.co/blog/1_58_llm_extreme_quantization",
+    "summary": "Fine-tuning LLMs to 1.58bit: extreme quantization made easy 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -260,13 +220,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-08-15",
+    "date": "2026-08-16",
     "score": 62
   },
   {
-    "title": "Transformers.js v3: WebGPU Support, New Models & Tasks, and More…",
-    "url": "https://huggingface.co/blog/transformersjs-v3",
-    "summary": "Transformers.js v3: WebGPU Support, New Models & Tasks, and More… 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Introducing the SQL Console on Datasets",
+    "url": "https://huggingface.co/blog/sql-console",
+    "summary": "Introducing the SQL Console on Datasets 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -274,13 +234,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-08-15",
+    "date": "2026-08-16",
     "score": 62
   },
   {
-    "title": "Diffusers welcomes Stable Diffusion 3.5 Large",
-    "url": "https://huggingface.co/blog/sd3-5",
-    "summary": "Diffusers welcomes Stable Diffusion 3.5 Large 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Introducing Community Tools on HuggingChat",
+    "url": "https://huggingface.co/blog/community-tools",
+    "summary": "Introducing Community Tools on HuggingChat 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -288,7 +248,35 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-08-15",
+    "date": "2026-08-16",
+    "score": 62
+  },
+  {
+    "title": "Accelerate 1.0.0",
+    "url": "https://huggingface.co/blog/accelerate-v1",
+    "summary": "Accelerate 1.0.0 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-08-16",
+    "score": 62
+  },
+  {
+    "title": "Hugging Face partners with TruffleHog to Scan for Secrets",
+    "url": "https://huggingface.co/blog/trufflesecurity-partnership",
+    "summary": "Hugging Face partners with TruffleHog to Scan for Secrets 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-08-16",
     "score": 62
   }
 ]

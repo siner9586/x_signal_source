@@ -14746,5 +14746,205 @@
     "cluster_id": "huggingface_co_eded39f4",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4adeeffc2060149f",
+    "canonical_url": "https://www.lennysnewsletter.com/p/community-wisdom-recovering-from",
+    "dedupe_key": "f05531e91fe4c113",
+    "title": "🧠 Community Wisdom: Recovering from burnout, what Airtable’s sale says about the ceiling on a startup, keeping architecture docs up to date, running competitor analysis, and more",
+    "issue_date": "2026-08-16",
+    "cluster_id": "lennysnewsletter_com_1f7fe721",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e7561bf7b69fa32f",
+    "canonical_url": "https://huggingface.co/blog/outlines-core",
+    "dedupe_key": "bbf225770369b57c",
+    "title": "Releasing Outlines-core 0.1.0: structured generation in Rust and Python",
+    "issue_date": "2026-08-16",
+    "cluster_id": "huggingface_co_7c16fb71",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1b182da3574a57f8",
+    "canonical_url": "https://huggingface.co/blog/s2s_endpoint",
+    "dedupe_key": "cb3351f6e04da470",
+    "title": "Deploying Speech-to-Speech on Hugging Face",
+    "issue_date": "2026-08-16",
+    "cluster_id": "huggingface_co_5d7968be",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1903ad46bc68a8f2",
+    "canonical_url": "https://huggingface.co/blog/keras-llama-32",
+    "dedupe_key": "43385b345eed601b",
+    "title": "“Llama 3.2 in Keras”",
+    "issue_date": "2026-08-16",
+    "cluster_id": "huggingface_co_3ebecb83",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b86d3441c4bb0a64",
+    "canonical_url": "https://huggingface.co/blog/gradient_accumulation",
+    "dedupe_key": "05056751e8ba564b",
+    "title": "Fixing Gradient Accumulation",
+    "issue_date": "2026-08-16",
+    "cluster_id": "huggingface_co_7837ab01",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1f58ec3955fac396",
+    "canonical_url": "https://huggingface.co/blog/huggingface-amd-turin",
+    "dedupe_key": "342bb9c10b058333",
+    "title": "Introducing the AMD 5th Gen EPYC™ CPU",
+    "issue_date": "2026-08-16",
+    "cluster_id": "huggingface_co_d9cfb3e2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5c5b826fdc21361b",
+    "canonical_url": "https://huggingface.co/blog/gradio-5-security",
+    "dedupe_key": "2671cc5b48c17700",
+    "title": "A Security Review of Gradio 5",
+    "issue_date": "2026-08-16",
+    "cluster_id": "huggingface_co_75c161e8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c0dc114a68baf306",
+    "canonical_url": "https://huggingface.co/blog/gradio-5",
+    "dedupe_key": "7cd44e7a7787d0c2",
+    "title": "Welcome, Gradio 5",
+    "issue_date": "2026-08-16",
+    "cluster_id": "huggingface_co_65780145",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_01675ee8055a9c5d",
+    "canonical_url": "https://huggingface.co/blog/dynamic_speculation_lookahead",
+    "dedupe_key": "7150d8eeae6d497d",
+    "title": "Faster Assisted Generation with Dynamic Speculation",
+    "issue_date": "2026-08-16",
+    "cluster_id": "huggingface_co_9ce796a6",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d84f9e38b2806f82",
+    "canonical_url": "https://huggingface.co/blog/improve_parquet_dedupe",
+    "dedupe_key": "cbd442e451b4f9db",
+    "title": "Improving Parquet Dedupe on Hugging Face Hub",
+    "issue_date": "2026-08-16",
+    "cluster_id": "huggingface_co_751083fa",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_30f423050002d697",
+    "canonical_url": "https://huggingface.co/blog/leaderboard-finbench",
+    "dedupe_key": "c7c2ce4a83094845",
+    "title": "Introducing the Open FinLLM Leaderboard",
+    "issue_date": "2026-08-16",
+    "cluster_id": "huggingface_co_e2f1e898",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_31486734ecfd1418",
+    "canonical_url": "https://huggingface.co/blog/benczechmark",
+    "dedupe_key": "975fc0decded88b0",
+    "title": "🇨🇿 BenCzechMark - Can your LLM Understand Czech?",
+    "issue_date": "2026-08-16",
+    "cluster_id": "huggingface_co_a376e6d2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1465888815f5b4a8",
+    "canonical_url": "https://huggingface.co/blog/vertex-colored-to-textured-mesh",
+    "dedupe_key": "bcecfa0c317208d5",
+    "title": "Converting Vertex-Colored Meshes to Textured Meshes",
+    "issue_date": "2026-08-16",
+    "cluster_id": "huggingface_co_dcf23663",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_bebe631fc3f8b94f",
+    "canonical_url": "https://huggingface.co/blog/llama32",
+    "dedupe_key": "28c0514b3bf5d7e0",
+    "title": "Llama can now see and run on your device - welcome Llama 3.2",
+    "issue_date": "2026-08-16",
+    "cluster_id": "huggingface_co_0ea1a217",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_cd01f90676c7237e",
+    "canonical_url": "https://huggingface.co/blog/fine-video",
+    "dedupe_key": "4edf534bdadc3e88",
+    "title": "FineVideo: behind the scenes",
+    "issue_date": "2026-08-16",
+    "cluster_id": "huggingface_co_cb73ea7a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0dc3a6b3049fb056",
+    "canonical_url": "https://huggingface.co/blog/1_58_llm_extreme_quantization",
+    "dedupe_key": "687bb58e92f53100",
+    "title": "Fine-tuning LLMs to 1.58bit: extreme quantization made easy",
+    "issue_date": "2026-08-16",
+    "cluster_id": "huggingface_co_49a1f2bc",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2c06046bc94dc497",
+    "canonical_url": "https://huggingface.co/blog/sql-console",
+    "dedupe_key": "c96959e3c59fc9f5",
+    "title": "Introducing the SQL Console on Datasets",
+    "issue_date": "2026-08-16",
+    "cluster_id": "huggingface_co_6796e974",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_266e848c94f2fecf",
+    "canonical_url": "https://huggingface.co/blog/community-tools",
+    "dedupe_key": "85e53f87ee52de27",
+    "title": "Introducing Community Tools on HuggingChat",
+    "issue_date": "2026-08-16",
+    "cluster_id": "huggingface_co_3d53f033",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_59a945973f6d9eb9",
+    "canonical_url": "https://huggingface.co/blog/accelerate-v1",
+    "dedupe_key": "9150d7e6eae5293a",
+    "title": "Accelerate 1.0.0",
+    "issue_date": "2026-08-16",
+    "cluster_id": "huggingface_co_df9ec40e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_dc47b88c2ad22a82",
+    "canonical_url": "https://huggingface.co/blog/trufflesecurity-partnership",
+    "dedupe_key": "99fed18dff715c04",
+    "title": "Hugging Face partners with TruffleHog to Scan for Secrets",
+    "issue_date": "2026-08-16",
+    "cluster_id": "huggingface_co_c824937a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
