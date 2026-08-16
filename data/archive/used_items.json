@@ -14946,5 +14946,205 @@
     "cluster_id": "huggingface_co_c824937a",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e817f9c643da2a1a",
+    "canonical_url": "https://huggingface.co/blog/unsung-heroes",
+    "dedupe_key": "47e8523464f44a3e",
+    "title": "The 5 Most Under-Rated Tools on Hugging Face",
+    "issue_date": "2026-08-17",
+    "cluster_id": "huggingface_co_7c691ea9",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a1aa8b8cb5791e54",
+    "canonical_url": "https://huggingface.co/blog/introduction-to-ggml",
+    "dedupe_key": "27325a630d761b1b",
+    "title": "Introduction to ggml",
+    "issue_date": "2026-08-17",
+    "cluster_id": "huggingface_co_fdf1f2e3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_de701e6838ab2c00",
+    "canonical_url": "https://www.lennysnewsletter.com/p/openais-head-of-design-this-is-the",
+    "dedupe_key": "798130cf91249223",
+    "title": "OpenAI’s Head of Design: This is the best time in history to be a designer | Ian Silber",
+    "issue_date": "2026-08-17",
+    "cluster_id": "lennysnewsletter_com_2ca9c693",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ff0e62624adfb20f",
+    "canonical_url": "https://www.lennysnewsletter.com/p/how-to-make-people-care-about-your",
+    "dedupe_key": "3828ef1827862ec0",
+    "title": "How to make people care about your startup",
+    "issue_date": "2026-08-17",
+    "cluster_id": "lennysnewsletter_com_030a98c6",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f175c01bd215a67d",
+    "canonical_url": "https://x.ai/grok",
+    "dedupe_key": "8f2a15f442e21926",
+    "title": "Explain quantum entanglement simply Two particles become linked — measuring one instantly determines the other, regardless of distance. Why is the sky blue? Shorter blue wavelengths scatter more off air molecules than longer red ones. How do black holes form? Chat Explore →",
+    "issue_date": "2026-08-17",
+    "cluster_id": "x_ai_6f0432a2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e6bd5b131192fac9",
+    "canonical_url": "https://x.ai/news/grok-4-6",
+    "dedupe_key": "99c66e9ee5b12a5a",
+    "title": "Aug 12, 2026 Introducing Grok 4.6",
+    "issue_date": "2026-08-17",
+    "cluster_id": "x_ai_a6a34b15",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f0a182995c4ea55f",
+    "canonical_url": "https://x.ai/news/introducing-grok-bot",
+    "dedupe_key": "78f870e237f09385",
+    "title": "Aug 11, 2026 Introducing Grok Bot",
+    "issue_date": "2026-08-17",
+    "cluster_id": "x_ai_b2be7db2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_57df25dd8ec0047f",
+    "canonical_url": "https://x.ai/news/grok-imagine-image-2",
+    "dedupe_key": "f8495db42cae10be",
+    "title": "Aug 7, 2026 Imagine Image 2.0",
+    "issue_date": "2026-08-17",
+    "cluster_id": "x_ai_437350f0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_37c5ac3e24ed9257",
+    "canonical_url": "https://cursor.com/blog/supermaven",
+    "dedupe_key": "270adc34772cc5d7",
+    "title": "Supermaven Joins Cursor",
+    "issue_date": "2026-08-17",
+    "cluster_id": "cursor_com_06ca6b3a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_35fdcc8bf0b24571",
+    "canonical_url": "https://cursor.com/blog/series-a",
+    "dedupe_key": "22f028d08949b59e",
+    "title": "We Raised $60M",
+    "issue_date": "2026-08-17",
+    "cluster_id": "cursor_com_9503452a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2b5f863e75662f92",
+    "canonical_url": "https://cursor.com/blog/shadow-workspace",
+    "dedupe_key": "ab2155ce72eb9582",
+    "title": "Shadow Workspace: Iterating on Code in the Background",
+    "issue_date": "2026-08-17",
+    "cluster_id": "cursor_com_77ca809c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8be3c6cd742d0336",
+    "canonical_url": "https://cursor.com/blog/problems-2024",
+    "dedupe_key": "7cf27e08a0eae23f",
+    "title": "Our Problems (cont.)",
+    "issue_date": "2026-08-17",
+    "cluster_id": "cursor_com_6e3ee9f8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_fc47060dbaa5cb08",
+    "canonical_url": "https://cursor.com/blog/problems-2023",
+    "dedupe_key": "4eca97385eb878db",
+    "title": "Our Problems",
+    "issue_date": "2026-08-17",
+    "cluster_id": "cursor_com_9a65a929",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_262c5eeb88ccc032",
+    "canonical_url": "https://cursor.com/blog/openai-fund",
+    "dedupe_key": "ce05e49c480fad93",
+    "title": "We Raised $8M From OpenAI",
+    "issue_date": "2026-08-17",
+    "cluster_id": "cursor_com_c9a11442",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_751eb68ae9bbb2fa",
+    "canonical_url": "https://cursor.com/blog/llama-inference",
+    "dedupe_key": "eb90e31122c8040b",
+    "title": "Inference Characteristics of Llama-2",
+    "issue_date": "2026-08-17",
+    "cluster_id": "cursor_com_48f110d7",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_06b26baa549051ff",
+    "canonical_url": "https://cursor.com/blog/prompt-design",
+    "dedupe_key": "1989373d4b5fb6c9",
+    "title": "Prompt Design",
+    "issue_date": "2026-08-17",
+    "cluster_id": "cursor_com_5e5a7250",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b2d753beba8e3d53",
+    "canonical_url": "https://review.firstround.com/vantas-path-to-product-market-fit",
+    "dedupe_key": "70ddf43e30b577df",
+    "title": "Read article",
+    "issue_date": "2026-08-17",
+    "cluster_id": "review_firstround_com_9f06637c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e3685247c3af2fba",
+    "canonical_url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash",
+    "dedupe_key": "50fde0f4c1e63476",
+    "title": "Flock is tightening its rules in response to a growing surveillance backlash",
+    "issue_date": "2026-08-17",
+    "cluster_id": "technologyreview_com_9e81a46a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3127e5345033ef95",
+    "canonical_url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words",
+    "dedupe_key": "9c23bd641d54de6d",
+    "title": "How kids feel about AI, in their own words",
+    "issue_date": "2026-08-17",
+    "cluster_id": "technologyreview_com_b32d0013",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a109f25b6f093ac6",
+    "canonical_url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research",
+    "dedupe_key": "386bdde49028a169",
+    "title": "AI professors are negotiating the new realities of academic research",
+    "issue_date": "2026-08-17",
+    "cluster_id": "technologyreview_com_5d7dd2d0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
