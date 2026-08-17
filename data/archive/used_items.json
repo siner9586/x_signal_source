@@ -15146,5 +15146,225 @@
     "cluster_id": "technologyreview_com_5d7dd2d0",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_62aab68a11123ecb",
+    "canonical_url": "https://openai.com/index/openai-joins-ports-pike-project",
+    "dedupe_key": "203a716bc14a3ec4",
+    "title": "OpenAI joins PORTS-Pike project",
+    "issue_date": "2026-08-18",
+    "cluster_id": "openai_com_b306f606",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_49b45642de8ee964",
+    "canonical_url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient",
+    "dedupe_key": "41b90d4e379f344b",
+    "title": "How canvases make agentic workflows visible, steerable, and cost-efficient",
+    "issue_date": "2026-08-18",
+    "cluster_id": "github_blog_3f00c3f4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_48600bb6bbf6cfaa",
+    "canonical_url": "https://openai.com/index/the-defenders-window",
+    "dedupe_key": "64c8afb9f701f302",
+    "title": "The Defender’s Window",
+    "issue_date": "2026-08-18",
+    "cluster_id": "openai_com_d8f74ff4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e6d25e3cae292ed3",
+    "canonical_url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+    "dedupe_key": "c784ac017307e670",
+    "title": "New policy ideas for the Intelligence Age",
+    "issue_date": "2026-08-18",
+    "cluster_id": "openai_com_58fb9ac1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b4147ee4c4a8ee16",
+    "canonical_url": "https://huggingface.co/blog/tngtech/sleeper-agents-and-how-to-tame-them",
+    "dedupe_key": "3960a1d85154fe12",
+    "title": "Sleeper Agents and How to Tame Them tngtech • 4 days ago • 20",
+    "issue_date": "2026-08-18",
+    "cluster_id": "huggingface_co_aad67169",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f88162a28179a3e0",
+    "canonical_url": "https://developer.nvidia.com/blog/developing-nemotron-3-5-lightning-nvfp4-with-qad-using-nvidia-model-optimizer",
+    "dedupe_key": "faf0c6ddf34e1cce",
+    "title": "Developing Nemotron 3.5 Lightning NVFP4 with QAD Using NVIDIA Model Optimizer",
+    "issue_date": "2026-08-18",
+    "cluster_id": "developer_nvidia_com_5a6eccb7",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5c6baae07b87a50c",
+    "canonical_url": "https://vercel.com/changelog/deploy-cursor-origin-repositories-with-vercel-in-public-beta",
+    "dedupe_key": "e7cc7d01ea9122a6",
+    "title": "Deploy Cursor Origin repositories with Vercel in public beta",
+    "issue_date": "2026-08-18",
+    "cluster_id": "vercel_com_06777658",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_cf35d6a3dba84e7e",
+    "canonical_url": "https://www.langchain.com/blog/langchain-agentcore-payments",
+    "dedupe_key": "07dcf9e0d0321af5",
+    "title": "AgentCore Payments middleware for LangChain agents",
+    "issue_date": "2026-08-18",
+    "cluster_id": "langchain_com_8b1497a6",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1a4383ae7039bbf0",
+    "canonical_url": "https://huggingface.co/blog/tngtech/making-nvidia-nemotron-35-lightning-see",
+    "dedupe_key": "9d75a342fd0f2ed6",
+    "title": "Exploring NVIDIA Nemotron 3.5 Lightning: Making it see with little resources tngtech • 6 days ago • 14",
+    "issue_date": "2026-08-18",
+    "cluster_id": "huggingface_co_776e11f0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_eb2dfd390fe65e7f",
+    "canonical_url": "https://www.lennysnewsletter.com/p/how-i-ai-how-a-solo-founder-used",
+    "dedupe_key": "eaccedf31e56ae3b",
+    "title": "🎙️ How I AI: How a solo founder used Codex and ChatGPT to launch a fashion brand without engineers",
+    "issue_date": "2026-08-18",
+    "cluster_id": "lennysnewsletter_com_c15d318d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2fa56c8c479fdf41",
+    "canonical_url": "https://vercel.com/changelog/gpt-5-6-sol-is-50-off-on-ai-gateway-for-the-next-month",
+    "dedupe_key": "680d051c11980966",
+    "title": "GPT-5.6 Sol is 50% off on AI Gateway for the next month",
+    "issue_date": "2026-08-18",
+    "cluster_id": "vercel_com_f90a9e59",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0489b9b529a46ba7",
+    "canonical_url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+    "dedupe_key": "f3998d226d51b0b8",
+    "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+    "issue_date": "2026-08-18",
+    "cluster_id": "huggingface_co_5a36db84",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c3ff29c6bfe6b61e",
+    "canonical_url": "https://www.lennysnewsletter.com/p/how-a-solo-founder-used-codex-and",
+    "dedupe_key": "a8c47a71f7281584",
+    "title": "How a solo founder used Codex and ChatGPT to launch a fashion brand without engineers | Yana Welinder",
+    "issue_date": "2026-08-18",
+    "cluster_id": "lennysnewsletter_com_b9a8b1fb",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f880a9ea12ddba50",
+    "canonical_url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing",
+    "dedupe_key": "ad003053026996a3",
+    "title": "What Flock’s defenders are missing",
+    "issue_date": "2026-08-18",
+    "cluster_id": "technologyreview_com_1f74119b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4896f86dc191846e",
+    "canonical_url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies",
+    "dedupe_key": "c8bd630e349a61a2",
+    "title": "What happens when a kid’s robot best friend dies?",
+    "issue_date": "2026-08-18",
+    "cluster_id": "technologyreview_com_7b3ec6a8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_37976f57f3dbe5b8",
+    "canonical_url": "https://mistral.ai/news/ocr-4",
+    "dedupe_key": "4274797748fac42a",
+    "title": "Mistral OCR 4",
+    "issue_date": "2026-08-18",
+    "cluster_id": "mistral_ai_ebfc77d7",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_66681bce0c242506",
+    "canonical_url": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5",
+    "dedupe_key": "96cee8d34643ca05",
+    "title": "Mistral Medium 3.5",
+    "issue_date": "2026-08-18",
+    "cluster_id": "mistral_ai_8432e12a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_cd3efd24f1f0f83a",
+    "canonical_url": "https://mistral.ai/news/mistral-small-4",
+    "dedupe_key": "06e7c00a359cd6e0",
+    "title": "Mistral Small 4",
+    "issue_date": "2026-08-18",
+    "cluster_id": "mistral_ai_08bf8af3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5d8fc9d0934235e2",
+    "canonical_url": "https://mistral.ai/news/voxtral-tts",
+    "dedupe_key": "3a45194efacc39b0",
+    "title": "Voxtral TTS",
+    "issue_date": "2026-08-18",
+    "cluster_id": "mistral_ai_d44d7469",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_572f23fd491e6762",
+    "canonical_url": "https://mistral.ai/news/shieldstral",
+    "dedupe_key": "ef6825135b27087e",
+    "title": "Introducing Shieldstral.",
+    "issue_date": "2026-08-18",
+    "cluster_id": "mistral_ai_0bf04730",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_fda192c417afed28",
+    "canonical_url": "https://mistral.ai/news/manage-prompts-and-skills-in-studio",
+    "dedupe_key": "e2739285904b1832",
+    "title": "Your Prompts and Skills need a system of record.",
+    "issue_date": "2026-08-18",
+    "cluster_id": "mistral_ai_ee37c9b7",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8017bda8fc9e3837",
+    "canonical_url": "https://mistral.ai/news",
+    "dedupe_key": "aa1133d131b10083",
+    "title": "Read all news",
+    "issue_date": "2026-08-18",
+    "cluster_id": "mistral_ai_6457aec3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
