@@ -15366,5 +15366,225 @@
     "cluster_id": "mistral_ai_6457aec3",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_822aa959c5c97642",
+    "canonical_url": "https://developer.nvidia.com/blog/how-ai-coding-agents-can-unlock-materials-simulation-with-nvidia-alchemi-toolkit",
+    "dedupe_key": "b2f6ce4bdf1a71a5",
+    "title": "How AI Coding Agents Can Unlock Materials Simulation with NVIDIA ALCHEMI Toolkit",
+    "issue_date": "2026-08-19",
+    "cluster_id": "developer_nvidia_com_c3f9348d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2ab8ad088edf68d7",
+    "canonical_url": "https://vercel.com/changelog/cline-harness-adapter",
+    "dedupe_key": "540d67e49d1d4a12",
+    "title": "Cline is now available in the AI SDK harness layer",
+    "issue_date": "2026-08-19",
+    "cluster_id": "vercel_com_2fd1c691",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_66da6afeb9424e4f",
+    "canonical_url": "https://vercel.com/changelog/glm-5-3-now-available-on-ai-gateway",
+    "dedupe_key": "817535883e599912",
+    "title": "GLM 5.3 now available on AI Gateway",
+    "issue_date": "2026-08-19",
+    "cluster_id": "vercel_com_d951d5b5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4b153f521e05d9c7",
+    "canonical_url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+    "dedupe_key": "ac3fa6025685b2b2",
+    "title": "Strengthening democratic oversight in national security",
+    "issue_date": "2026-08-19",
+    "cluster_id": "openai_com_8b9a4e92",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2139158b28c78283",
+    "canonical_url": "https://openai.com/index/partnering-with-codeai",
+    "dedupe_key": "188356cf92736074",
+    "title": "Partnering with CodeAI to prepare the first AI generation",
+    "issue_date": "2026-08-19",
+    "cluster_id": "openai_com_b75e5b49",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9649de5c2a1db9ad",
+    "canonical_url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+    "dedupe_key": "b686ab969ad97ec8",
+    "title": "Pacing model development in an era of cyber-critical capabilities",
+    "issue_date": "2026-08-19",
+    "cluster_id": "openai_com_b689ad37",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1038e521837a9a6e",
+    "canonical_url": "https://openai.com/index/chatgpt-for-teens",
+    "dedupe_key": "d3e09bc49742d6fb",
+    "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+    "issue_date": "2026-08-19",
+    "cluster_id": "openai_com_75b69b50",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_33a8d0c3216c339f",
+    "canonical_url": "https://openai.com/index/asana",
+    "dedupe_key": "977df30b9dd03d24",
+    "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+    "issue_date": "2026-08-19",
+    "cluster_id": "openai_com_51892970",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f1d3dd07686336e5",
+    "canonical_url": "https://developer.nvidia.com/blog/run-massive-scale-umap-in-minutes-using-multiple-gpus-without-losing-accuracy",
+    "dedupe_key": "ab408e82c48f5048",
+    "title": "Run Massive-Scale UMAP in Minutes Using Multiple GPUs—Without Losing Accuracy",
+    "issue_date": "2026-08-19",
+    "cluster_id": "developer_nvidia_com_1387f2cf",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_50c72551f41cbcbc",
+    "canonical_url": "https://vercel.com/blog/one-million-dollar-hacker-challenge-for-vercel-sandbox",
+    "dedupe_key": "10782789f12a763e",
+    "title": "18 August Security $1 million hacker challenge for Vercel Sandbox Vercel is running a two-week, public HackerOne program with up to $1,000,000 in bounties for escaping a Vercel Sandbox. Andy Riancho Principal Security Engineer",
+    "issue_date": "2026-08-19",
+    "cluster_id": "vercel_com_99f97421",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ed86edc5a12f206b",
+    "canonical_url": "https://vercel.com/changelog/vercel-for-platforms-can-now-deploy-from-your-users-github-repositories",
+    "dedupe_key": "9a43c1cc5486e3f7",
+    "title": "Vercel for Platforms can now deploy from your users' GitHub repositories",
+    "issue_date": "2026-08-19",
+    "cluster_id": "vercel_com_4b37ea71",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a82e8adfd8fc4963",
+    "canonical_url": "https://vercel.com/changelog/chat-sdk-adds-instagram-adapter",
+    "dedupe_key": "b59369fd8db0b684",
+    "title": "Chat SDK adds Instagram adapter",
+    "issue_date": "2026-08-19",
+    "cluster_id": "vercel_com_1fc5ecf3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_41e7f329e01f0812",
+    "canonical_url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+    "dedupe_key": "546b52ec4e899e16",
+    "title": "How Much Memory Does Your Agent Actually Need?",
+    "issue_date": "2026-08-19",
+    "cluster_id": "huggingface_co_9635ff34",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_62a538bfaedf5250",
+    "canonical_url": "https://www.langchain.com/blog/introducing-langsmith-tuned-evaluators-starting-with-perceived-error",
+    "dedupe_key": "ef8dbe60cd52f871",
+    "title": "Introducing LangSmith Tuned Evaluators",
+    "issue_date": "2026-08-19",
+    "cluster_id": "langchain_com_d3a80e77",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_826fe3ef0c17a223",
+    "canonical_url": "https://huggingface.co/blog/FINAL-Bench/ax-ray",
+    "dedupe_key": "1f83bd5ac8827878",
+    "title": "AX-Ray, Finding Causal-Leakage Defects in Two General-Purpose Public Models FINAL-Bench • 5 days ago • 13",
+    "issue_date": "2026-08-19",
+    "cluster_id": "huggingface_co_0e9c8258",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6ffbf77715af3640",
+    "canonical_url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai",
+    "dedupe_key": "04b3aa4cf9792e86",
+    "title": "We still don’t know how people are really using AI",
+    "issue_date": "2026-08-19",
+    "cluster_id": "technologyreview_com_5a5f50c6",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_41275c4c51b3fc21",
+    "canonical_url": "https://vercel.com/changelog/sign-jwts-from-your-functions-without-managing-private-keys",
+    "dedupe_key": "f3f83cd1394569b6",
+    "title": "Sign JWTs from your Functions without managing private keys",
+    "issue_date": "2026-08-19",
+    "cluster_id": "vercel_com_f0a4cdfc",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_191d45f39e2742af",
+    "canonical_url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement",
+    "dedupe_key": "8d05ea490eceae6a",
+    "title": "AI’s recursive self-improvement might not come so quickly after all",
+    "issue_date": "2026-08-19",
+    "cluster_id": "technologyreview_com_e22be5d5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7b9828bf51721b81",
+    "canonical_url": "https://huggingface.co/blog/multi-vector-encoder",
+    "dedupe_key": "0b46857c4b791a57",
+    "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+    "issue_date": "2026-08-19",
+    "cluster_id": "huggingface_co_e2ef86e1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ba17716f1c21ad05",
+    "canonical_url": "https://www.lennysnewsletter.com/p/announcing-lennys-jobs-the-best-place",
+    "dedupe_key": "5656c178aab06566",
+    "title": "Announcing Lenny’s Jobs: The best place in the world to find, vet, and land your dream job",
+    "issue_date": "2026-08-19",
+    "cluster_id": "lennysnewsletter_com_508237fb",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9abd324578782465",
+    "canonical_url": "https://mistral.ai/news?categories=engineering",
+    "dedupe_key": "c778c3c52a6ae6ba",
+    "title": "Engineering",
+    "issue_date": "2026-08-19",
+    "cluster_id": "mistral_ai_8c85b663",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_79881da4c24a4cb7",
+    "canonical_url": "https://mistral.ai/news/robostral-navigate",
+    "dedupe_key": "ac1a4737b63393c9",
+    "title": "Introducing Robostral Navigate",
+    "issue_date": "2026-08-19",
+    "cluster_id": "mistral_ai_0659b5e5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
