@@ -15586,5 +15586,215 @@
     "cluster_id": "mistral_ai_0659b5e5",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_cecc91805840867f",
+    "canonical_url": "https://developer.nvidia.com/blog/evaluating-ai-agent-skill-performance-with-nvidia-skillevaluator",
+    "dedupe_key": "18b35cf2911dc419",
+    "title": "Evaluating AI Agent Skill Performance with NVIDIA SkillEvaluator",
+    "issue_date": "2026-08-20",
+    "cluster_id": "developer_nvidia_com_e3a2bfc5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_db30402b1c179da1",
+    "canonical_url": "https://developer.nvidia.com/blog/building-federated-multimodal-ai-workflows-with-nvidia-flare",
+    "dedupe_key": "9c106b4737645ce2",
+    "title": "Building Federated Multimodal AI Workflows with NVIDIA FLARE",
+    "issue_date": "2026-08-20",
+    "cluster_id": "developer_nvidia_com_ceb7584a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c8609608eeb21a7f",
+    "canonical_url": "https://vercel.com/changelog/vercel-connect-supports-microsoft",
+    "dedupe_key": "6e643e0b44c8f6ee",
+    "title": "Vercel Connect now supports Microsoft",
+    "issue_date": "2026-08-20",
+    "cluster_id": "vercel_com_97cf9a47",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e4f81e0d4f225bc0",
+    "canonical_url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+    "dedupe_key": "4cb6664e47306394",
+    "title": "Offering Zero Data Retention for frontier models",
+    "issue_date": "2026-08-20",
+    "cluster_id": "openai_com_f2612bdb",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3feb3441a1768dcb",
+    "canonical_url": "https://openai.com/index/replit",
+    "dedupe_key": "ae86831eef280ce3",
+    "title": "Replit expands access to software creation with GPT-5.6 Luna",
+    "issue_date": "2026-08-20",
+    "cluster_id": "openai_com_dc2b97ef",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e1be11a712ba3fd0",
+    "canonical_url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+    "dedupe_key": "4c349595dac134ea",
+    "title": "ChatGPT Ads expands across Europe",
+    "issue_date": "2026-08-20",
+    "cluster_id": "openai_com_0f8eb894",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_356b68ef9a010233",
+    "canonical_url": "https://openai.com/index/nvidia/chatgpt-work",
+    "dedupe_key": "e6e565bd9322529f",
+    "title": "How NVIDIA scales expertise with ChatGPT Work",
+    "issue_date": "2026-08-20",
+    "cluster_id": "openai_com_88a99d8e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_acf2321d5c4cdb57",
+    "canonical_url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
+    "dedupe_key": "b38ae50c881f32d2",
+    "title": "GitHub Copilot app for Beginners: Managing your work",
+    "issue_date": "2026-08-20",
+    "cluster_id": "github_blog_6dedb7b3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_cc5841ec827247cf",
+    "canonical_url": "https://developer.nvidia.com/blog/post-train-nvidia-cosmos-3-edge-for-on-device-robot-control",
+    "dedupe_key": "a131f67260e9ed76",
+    "title": "Post-Train NVIDIA Cosmos 3 Edge for On-Device Robot Control",
+    "issue_date": "2026-08-20",
+    "cluster_id": "developer_nvidia_com_8e6bf8b4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9a39301e6022099c",
+    "canonical_url": "https://vercel.com/blog/introducing-vercel-for-slack",
+    "dedupe_key": "3977f117cab39683",
+    "title": "Introducing Vercel for Slack",
+    "issue_date": "2026-08-20",
+    "cluster_id": "vercel_com_82d0eb65",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b963c865f27cbde3",
+    "canonical_url": "https://vercel.com/changelog/vercel-for-slack-now-in-public-beta",
+    "dedupe_key": "48fa4cfaeb09e3c5",
+    "title": "Vercel for Slack now in public beta",
+    "issue_date": "2026-08-20",
+    "cluster_id": "vercel_com_1e74e2d8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ef6d28552d70917e",
+    "canonical_url": "https://vercel.com/changelog/algolia-vercel-marketplace",
+    "dedupe_key": "e77753d4da6c87d4",
+    "title": "Algolia joins the Vercel Marketplace",
+    "issue_date": "2026-08-20",
+    "cluster_id": "vercel_com_14cc46de",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6d946992cb2ef8ed",
+    "canonical_url": "https://huggingface.co/blog/LiquidAI/qad",
+    "dedupe_key": "46e1ac0d6343b044",
+    "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+    "issue_date": "2026-08-20",
+    "cluster_id": "huggingface_co_812cca26",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3730067bc690abcd",
+    "canonical_url": "https://www.lennysnewsletter.com/p/i-tested-grok-bot-grok-46-and-cursor",
+    "dedupe_key": "e81bf3ebe0840e47",
+    "title": "I tested Grok Bot, Grok 4.6, and Cursor Origin - here’s my honest take",
+    "issue_date": "2026-08-20",
+    "cluster_id": "lennysnewsletter_com_ec81fdcf",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a99e913582a0a34f",
+    "canonical_url": "https://x.ai/news/grok-4-6-amazon-bedrock",
+    "dedupe_key": "eb45051a7b2c97fe",
+    "title": "Aug 19, 2026 Grok 4.6 on Amazon Bedrock",
+    "issue_date": "2026-08-20",
+    "cluster_id": "x_ai_5ec12c1a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9802ff180db4bbfd",
+    "canonical_url": "https://mistral.ai/news/leanstral-1-5",
+    "dedupe_key": "a7a881a1e23e86d9",
+    "title": "Leanstral 1.5: Proof Abundance for All",
+    "issue_date": "2026-08-20",
+    "cluster_id": "mistral_ai_b1a8cead",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b250e88c93217cae",
+    "canonical_url": "https://mistral.ai/news/more-control-over-connectors",
+    "dedupe_key": "5212498df1b36735",
+    "title": "Bringing more control over your connectors",
+    "issue_date": "2026-08-20",
+    "cluster_id": "mistral_ai_5907720e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_46e421296e096789",
+    "canonical_url": "https://mistral.ai/news/ai-now-summit-2026",
+    "dedupe_key": "fb14ece614d1c00e",
+    "title": "AI Now Summit 2026",
+    "issue_date": "2026-08-20",
+    "cluster_id": "mistral_ai_95f66541",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_96d690243c054541",
+    "canonical_url": "https://mistral.ai/news/accelerate-ai-native-industry",
+    "dedupe_key": "ba56a207706dc83f",
+    "title": "Emmi joins Mistral to accelerate the AI-native industry",
+    "issue_date": "2026-08-20",
+    "cluster_id": "mistral_ai_cf90dd69",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e00b80098dad10da",
+    "canonical_url": "https://mistral.ai/news/connectors",
+    "dedupe_key": "b0a042e8285d2dd4",
+    "title": "Connect the dots: Build with built-in and custom MCPs in Studio",
+    "issue_date": "2026-08-20",
+    "cluster_id": "mistral_ai_89e2df78",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_53f86d6547ca8e2b",
+    "canonical_url": "https://mistral.ai/news/workflows",
+    "dedupe_key": "d98dadd63994d036",
+    "title": "Workflows for work that runs the business",
+    "issue_date": "2026-08-20",
+    "cluster_id": "mistral_ai_aaf44c2a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]

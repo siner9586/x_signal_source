@@ -1,8 +1,8 @@
 [
   {
-    "title": "How AI Coding Agents Can Unlock Materials Simulation with NVIDIA ALCHEMI Toolkit",
-    "url": "https://developer.nvidia.com/blog/how-ai-coding-agents-can-unlock-materials-simulation-with-nvidia-alchemi-toolkit",
-    "summary": "NVIDIA Technical Blog · How AI Coding Agents Can Unlock Materials Simulation with NVIDIA ALCHEMI Toolkit",
+    "title": "Evaluating AI Agent Skill Performance with NVIDIA SkillEvaluator",
+    "url": "https://developer.nvidia.com/blog/evaluating-ai-agent-skill-performance-with-nvidia-skillevaluator",
+    "summary": "NVIDIA Technical Blog · Evaluating AI Agent Skill Performance with NVIDIA SkillEvaluator",
     "tags": [
       "gpu",
       "inference",
@@ -10,116 +10,13 @@
     ],
     "author": "NVIDIA AI",
     "source": "developer.nvidia.com",
-    "date": "2026-08-19",
-    "score": 72
-  },
-  {
-    "title": "Cline is now available in the AI SDK harness layer",
-    "url": "https://vercel.com/changelog/cline-harness-adapter",
-    "summary": "The AI SDK harness layer lets you run established coding-agent runtimes through one unified interface, so you can switch runtimes without changing your application code. Today we are adding Cline, which runs through the same HarnessAgent interface as other supported harness. @ai-sdk/harness-cline is the official harness adapter for Cline, implemented in collaboration with the Cline team. Cline runs fully in the host process and uses the sandbox as a remote filesystem and shel",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-08-19",
+    "date": "2026-08-20",
     "score": 71
   },
   {
-    "title": "GLM 5.3 now available on AI Gateway",
-    "url": "https://vercel.com/changelog/glm-5-3-now-available-on-ai-gateway",
-    "summary": "GLM 5.3 from Z.ai is now available on AI Gateway. GLM 5.3 has improvements vs. GLM 5.2 at complex software engineering and at agent tasks that run across many steps, and it reaches those results while producing fewer output tokens than GLM 5.2 did at the same effort level. Z.ai also reports stronger vulnerability discovery, including reasoning across the successive stages of an exploitation chain. DeepsecBench measures that work directly, scoring how reliably a model finds se",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-08-19",
-    "score": 68
-  },
-  {
-    "title": "Strengthening democratic oversight in national security",
-    "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-    "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-08-19",
-    "score": 67
-  },
-  {
-    "title": "Partnering with CodeAI to prepare the first AI generation",
-    "url": "https://openai.com/index/partnering-with-codeai",
-    "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-08-19",
-    "score": 67
-  },
-  {
-    "title": "Pacing model development in an era of cyber-critical capabilities",
-    "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-    "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-08-19",
-    "score": 67
-  },
-  {
-    "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-    "url": "https://openai.com/index/chatgpt-for-teens",
-    "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-08-19",
-    "score": 67
-  },
-  {
-    "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-    "url": "https://openai.com/index/asana",
-    "summary": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-08-19",
-    "score": 67
-  },
-  {
-    "title": "Run Massive-Scale UMAP in Minutes Using Multiple GPUs—Without Losing Accuracy",
-    "url": "https://developer.nvidia.com/blog/run-massive-scale-umap-in-minutes-using-multiple-gpus-without-losing-accuracy",
-    "summary": "NVIDIA Technical Blog · Run Massive-Scale UMAP in Minutes Using Multiple GPUs—Without Losing Accuracy",
+    "title": "Building Federated Multimodal AI Workflows with NVIDIA FLARE",
+    "url": "https://developer.nvidia.com/blog/building-federated-multimodal-ai-workflows-with-nvidia-flare",
+    "summary": "NVIDIA Technical Blog · Building Federated Multimodal AI Workflows with NVIDIA FLARE",
     "tags": [
       "gpu",
       "inference",
@@ -127,13 +24,13 @@
     ],
     "author": "NVIDIA AI",
     "source": "developer.nvidia.com",
-    "date": "2026-08-19",
-    "score": 66
+    "date": "2026-08-20",
+    "score": 68
   },
   {
-    "title": "18 August Security $1 million hacker challenge for Vercel Sandbox Vercel is running a two-week, public HackerOne program with up to $1,000,000 in bounties for escaping a Vercel Sandbox. Andy Riancho Principal Security Engineer",
-    "url": "https://vercel.com/blog/one-million-dollar-hacker-challenge-for-vercel-sandbox",
-    "summary": "Blog - Vercel · 18 August Security $1 million hacker challenge for Vercel Sandbox Vercel is running a two-week, public HackerOne program with up to $1,000,000 in bounties for escaping a Vercel Sandbox. Andy Riancho Principal Security Engineer",
+    "title": "Vercel Connect now supports Microsoft",
+    "url": "https://vercel.com/changelog/vercel-connect-supports-microsoft",
+    "summary": "Vercel Connect now includes a managed connector for Microsoft , so your apps and agents can access all Microsoft products such as Teams, OneDrive and more. As a Vercel Managed Connector , Vercel registers the Entra application and configures federated credentials for it, so you don't have to create an app registration or manage client secrets yourself. Authorize the app for your Microsoft tenant once, then attach the connector to the projects and environments it needs. Create",
     "tags": [
       "sdk",
       "ai_infra",
@@ -141,97 +38,100 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-08-19",
-    "score": 66
+    "date": "2026-08-20",
+    "score": 68
   },
   {
-    "title": "Vercel for Platforms can now deploy from your users' GitHub repositories",
-    "url": "https://vercel.com/changelog/vercel-for-platforms-can-now-deploy-from-your-users-github-repositories",
-    "summary": "Teams building on Vercel for Platforms can now create deployments directly from their users' GitHub repositories, without requiring them to install the Vercel GitHub App. When creating a deployment , pass a gitAccessToken alongside gitSource . Vercel uses the token to retrieve the source and build the deployment. Tokens should be read-only, scoped to the requested repository, and valid for 24 hours or less. Vercel temporarily stores the token in encrypted form so source retri",
+    "title": "Offering Zero Data Retention for frontier models",
+    "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+    "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
     "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-08-19",
-    "score": 66
-  },
-  {
-    "title": "Chat SDK adds Instagram adapter",
-    "url": "https://vercel.com/changelog/chat-sdk-adds-instagram-adapter",
-    "summary": "You can now build bots for Instagram with the new Instagram adapter for Chat SDK. Bots can send and receive DMs and media, render cards as quick replies and link buttons, show typing indicators, receive reactions, and handle story replies. The adapter connects through Meta's Instagram Messaging API and requires a professional Business or Creator account. Messages are buffered, so streamed responses send as one message when the stream completes. Meta enforces a 24-hour messagi",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-08-19",
-    "score": 65
-  },
-  {
-    "title": "How Much Memory Does Your Agent Actually Need?",
-    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-    "summary": "How Much Memory Does Your Agent Actually Need? 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-08-19",
-    "score": 65
-  },
-  {
-    "title": "Introducing LangSmith Tuned Evaluators",
-    "url": "https://www.langchain.com/blog/introducing-langsmith-tuned-evaluators-starting-with-perceived-error",
-    "summary": "LangSmith Tuned Evaluators attach quality feedback to production traces, starting with Perceived Error, to help teams find and fix agent mistakes.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-08-19",
-    "score": 65
-  },
-  {
-    "title": "AX-Ray, Finding Causal-Leakage Defects in Two General-Purpose Public Models FINAL-Bench • 5 days ago • 13",
-    "url": "https://huggingface.co/blog/FINAL-Bench/ax-ray",
-    "summary": "Hugging Face – Blog · AX-Ray, Finding Causal-Leakage Defects in Two General-Purpose Public Models FINAL-Bench • 5 days ago • 13",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-08-19",
-    "score": 64
-  },
-  {
-    "title": "We still don’t know how people are really using AI",
-    "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai",
-    "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.&#160; “There is no independent source to corroborate it,” says Anka Reuel, a computer science PhD candidate at the Stanford Trustworthy AI Research&#8230;",
-    "tags": [
-      "ai",
+      "ai_models",
+      "official",
       "research",
-      "society"
+      "developer"
     ],
-    "author": "MIT Technology Review AI",
-    "source": "technologyreview.com",
-    "date": "2026-08-19",
-    "score": 64
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-08-20",
+    "score": 67
   },
   {
-    "title": "Sign JWTs from your Functions without managing private keys",
-    "url": "https://vercel.com/changelog/sign-jwts-from-your-functions-without-managing-private-keys",
-    "summary": "Vercel KMS lets you sign JWTs and arbitrary messages from your Vercel Functions using managed asymmetric signing keys, so private keys never live in your code or environment variables. Your function authenticates with its Vercel OIDC token, and the private key stays inside Vercel's key management service while verifiers use only the public key. With Vercel KMS you can: Create and rotate issuers and signing keys (RSA, ECDSA, and EdDSA) from the CLI and dashboard. Sign JWTs wit",
+    "title": "Replit expands access to software creation with GPT-5.6 Luna",
+    "url": "https://openai.com/index/replit",
+    "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-08-20",
+    "score": 67
+  },
+  {
+    "title": "ChatGPT Ads expands across Europe",
+    "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+    "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-08-20",
+    "score": 67
+  },
+  {
+    "title": "How NVIDIA scales expertise with ChatGPT Work",
+    "url": "https://openai.com/index/nvidia/chatgpt-work",
+    "summary": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-08-20",
+    "score": 67
+  },
+  {
+    "title": "GitHub Copilot app for Beginners: Managing your work",
+    "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
+    "summary": "If you’re juggling multiple Copilot sessions, use the My work pane to track what's in flight, what's done, and what's next. The post GitHub Copilot app for Beginners: Managing your work appeared first on The GitHub Blog .",
+    "tags": [
+      "ai_coding",
+      "developer_tools"
+    ],
+    "author": "GitHub Copilot",
+    "source": "github.blog",
+    "date": "2026-08-20",
+    "score": 67
+  },
+  {
+    "title": "Post-Train NVIDIA Cosmos 3 Edge for On-Device Robot Control",
+    "url": "https://developer.nvidia.com/blog/post-train-nvidia-cosmos-3-edge-for-on-device-robot-control",
+    "summary": "NVIDIA Technical Blog · Post-Train NVIDIA Cosmos 3 Edge for On-Device Robot Control",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-08-20",
+    "score": 66
+  },
+  {
+    "title": "Introducing Vercel for Slack",
+    "url": "https://vercel.com/blog/introducing-vercel-for-slack",
+    "summary": "Vercel Agent now works in Slack. Mention it the way you'd pull a teammate into a thread, and it reads the discussion, answers with the context of the platform running your app, and turns the team's decisions into changes you approve. Vercel for Slack is available today in Public Beta for Pro and Enterprise teams. Work starts in conversation . An alert gets noticed in a channel, a fix gets agreed on in a thread, and then someone leaves Slack to do the work. With Vercel Agent, ",
     "tags": [
       "sdk",
       "ai_infra",
@@ -239,27 +139,41 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-08-19",
-    "score": 63
+    "date": "2026-08-20",
+    "score": 66
   },
   {
-    "title": "AI’s recursive self-improvement might not come so quickly after all",
-    "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement",
-    "summary": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict that what researchers call recursive self-improvement is on the horizon.&#160;&#8230;",
+    "title": "Vercel for Slack now in public beta",
+    "url": "https://vercel.com/changelog/vercel-for-slack-now-in-public-beta",
+    "summary": "Vercel Agent is now available in Slack. Mention @Vercel in any channel or thread, and Agent joins the conversation with relevant context from your Vercel projects, including deployments, builds, logs, metrics, configuration, and connected repos. For example, use it to: Investigate incidents: Ask why a deployment failed or what’s causing a runtime error. It investigates and explains what it found. Write and review code: Work with your team and Agent to fix build and CI failure",
     "tags": [
-      "ai",
-      "research",
-      "society"
+      "sdk",
+      "ai_infra",
+      "frontend"
     ],
-    "author": "MIT Technology Review AI",
-    "source": "technologyreview.com",
-    "date": "2026-08-19",
-    "score": 63
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-08-20",
+    "score": 66
   },
   {
-    "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-    "url": "https://huggingface.co/blog/multi-vector-encoder",
-    "summary": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Algolia joins the Vercel Marketplace",
+    "url": "https://vercel.com/changelog/algolia-vercel-marketplace",
+    "summary": "You can now provision and manage Algolia directly from the Vercel Marketplace. Algolia is a hosted search platform. You send it your content, it builds an index, and your app queries that index instead of your database. Results come back in milliseconds, with typo tolerance, synonyms, and facet counts built in. Key capabilities: Index product catalogs, documentation, or any other content Add recommendations and AI ranking to surface the most relevant results Point the Algolia",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-08-20",
+    "score": 65
+  },
+  {
+    "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+    "url": "https://huggingface.co/blog/LiquidAI/qad",
+    "summary": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -267,13 +181,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-08-19",
+    "date": "2026-08-20",
     "score": 62
   },
   {
-    "title": "Announcing Lenny’s Jobs: The best place in the world to find, vet, and land your dream job",
-    "url": "https://www.lennysnewsletter.com/p/announcing-lennys-jobs-the-best-place",
-    "summary": "Where product managers, engineers, designers, and growth/marketing professionals discover high-quality open roles at tech companies",
+    "title": "I tested Grok Bot, Grok 4.6, and Cursor Origin - here’s my honest take",
+    "url": "https://www.lennysnewsletter.com/p/i-tested-grok-bot-grok-46-and-cursor",
+    "summary": "Watch now | &#127897;&#65039; I tested Grok Bot, Cursor Origin, and Grok 4.6 head-to-head against my favorite models and ranked them on the Claire Index: here's what actually moved the needle",
     "tags": [
       "product",
       "growth",
@@ -281,33 +195,98 @@
     ],
     "author": "Lenny's Newsletter",
     "source": "lennysnewsletter.com",
-    "date": "2026-08-19",
+    "date": "2026-08-20",
+    "score": 62
+  },
+  {
+    "title": "Aug 19, 2026 Grok 4.6 on Amazon Bedrock",
+    "url": "https://x.ai/news/grok-4-6-amazon-bedrock",
+    "summary": "SpaceXAI · Aug 19, 2026 Grok 4.6 on Amazon Bedrock",
+    "tags": [
+      "ai_models",
+      "reasoning"
+    ],
+    "author": "xAI",
+    "source": "x.ai",
+    "date": "2026-08-20",
     "score": 61
   },
   {
-    "title": "Engineering",
-    "url": "https://mistral.ai/news?categories=engineering",
-    "summary": "Latest news | Mistral · Engineering",
+    "title": "Leanstral 1.5: Proof Abundance for All",
+    "url": "https://mistral.ai/news/leanstral-1-5",
+    "summary": "Leanstral 1.5: Proof Abundance for All 是 Mistral AI 当日抓取到的公开新增条目。",
     "tags": [
       "open_model",
       "european_ai"
     ],
     "author": "Mistral AI",
     "source": "mistral.ai",
-    "date": "2026-08-19",
+    "date": "2026-08-20",
     "score": 60
   },
   {
-    "title": "Introducing Robostral Navigate",
-    "url": "https://mistral.ai/news/robostral-navigate",
-    "summary": "Introducing Robostral Navigate: 8B model achieving 76.6% on R2R-CE with just a single RGB camera. No depth sensors, LiDAR, or multiple cameras needed.",
+    "title": "Bringing more control over your connectors",
+    "url": "https://mistral.ai/news/more-control-over-connectors",
+    "summary": "Bringing more control over your connectors 是 Mistral AI 当日抓取到的公开新增条目。",
     "tags": [
       "open_model",
       "european_ai"
     ],
     "author": "Mistral AI",
     "source": "mistral.ai",
-    "date": "2026-08-19",
+    "date": "2026-08-20",
+    "score": 60
+  },
+  {
+    "title": "AI Now Summit 2026",
+    "url": "https://mistral.ai/news/ai-now-summit-2026",
+    "summary": "Innovations for global enterprises solving the world’s hardest problems.",
+    "tags": [
+      "open_model",
+      "european_ai"
+    ],
+    "author": "Mistral AI",
+    "source": "mistral.ai",
+    "date": "2026-08-20",
+    "score": 60
+  },
+  {
+    "title": "Emmi joins Mistral to accelerate the AI-native industry",
+    "url": "https://mistral.ai/news/accelerate-ai-native-industry",
+    "summary": "Emmi joins Mistral to accelerate the AI-native industry 是 Mistral AI 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_model",
+      "european_ai"
+    ],
+    "author": "Mistral AI",
+    "source": "mistral.ai",
+    "date": "2026-08-20",
+    "score": 60
+  },
+  {
+    "title": "Connect the dots: Build with built-in and custom MCPs in Studio",
+    "url": "https://mistral.ai/news/connectors",
+    "summary": "Connect enterprise data to your AI applications with reusable connectors, direct tool calling, and human-in-the-loop approval controls.",
+    "tags": [
+      "open_model",
+      "european_ai"
+    ],
+    "author": "Mistral AI",
+    "source": "mistral.ai",
+    "date": "2026-08-20",
+    "score": 60
+  },
+  {
+    "title": "Workflows for work that runs the business",
+    "url": "https://mistral.ai/news/workflows",
+    "summary": "Workflows is now in public preview.",
+    "tags": [
+      "open_model",
+      "european_ai"
+    ],
+    "author": "Mistral AI",
+    "source": "mistral.ai",
+    "date": "2026-08-20",
     "score": 60
   }
 ]
