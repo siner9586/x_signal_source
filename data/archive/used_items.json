@@ -15796,5 +15796,215 @@
     "cluster_id": "mistral_ai_aaf44c2a",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_34e2d05c76df7f0c",
+    "canonical_url": "https://developer.nvidia.com/blog/developing-nvidia-holoscan-applications-with-cli-skills-and-ai-coding-agents",
+    "dedupe_key": "92f56e3fb0db15d4",
+    "title": "Developing NVIDIA Holoscan Applications with CLI, Skills, and AI Coding Agents",
+    "issue_date": "2026-08-21",
+    "cluster_id": "developer_nvidia_com_a949c593",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_edb96fd8eb9a18f1",
+    "canonical_url": "https://openai.com/index/introducing-ai-futures",
+    "dedupe_key": "46f7c9aa5a0ef0f1",
+    "title": "Introducing AI Futures",
+    "issue_date": "2026-08-21",
+    "cluster_id": "openai_com_c13d5a60",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9285970216c790fb",
+    "canonical_url": "https://openai.com/index/stampli",
+    "dedupe_key": "105508d28fe8539b",
+    "title": "How ChatGPT Work helps Stampli move ideas to market",
+    "issue_date": "2026-08-21",
+    "cluster_id": "openai_com_5f083a48",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c7878068ebc7d7d7",
+    "canonical_url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap",
+    "dedupe_key": "cbf3e19c7fe48469",
+    "title": "Debates over AI consciousness are a trap",
+    "issue_date": "2026-08-21",
+    "cluster_id": "technologyreview_com_0a962148",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_92bebe0de5dabc72",
+    "canonical_url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead",
+    "dedupe_key": "1289348c65279b3f",
+    "title": "The August 17 outage, and the work ahead",
+    "issue_date": "2026-08-21",
+    "cluster_id": "github_blog_a64a721a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7ef5661db2520c02",
+    "canonical_url": "https://developer.nvidia.com/blog/how-generative-recommenders-are-redefining-recsys-at-scale",
+    "dedupe_key": "cb3fe8c66da989a1",
+    "title": "How Generative Recommenders Are Redefining RecSys at Scale",
+    "issue_date": "2026-08-21",
+    "cluster_id": "developer_nvidia_com_9c56356b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b38c346b2e2171e3",
+    "canonical_url": "https://vercel.com/changelog/manage-vercel-toolbar-comments-from-the-cli",
+    "dedupe_key": "043aa97bc153bf18",
+    "title": "Manage Vercel Toolbar comments from the CLI",
+    "issue_date": "2026-08-21",
+    "cluster_id": "vercel_com_8fb5e196",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4ca36729138dec32",
+    "canonical_url": "https://vercel.com/changelog/bun-1-4-is-now-available-in-vercel-functions",
+    "dedupe_key": "6a29330a102eb323",
+    "title": "Bun 1.4 is now available in Vercel Functions",
+    "issue_date": "2026-08-21",
+    "cluster_id": "vercel_com_9e2aebb2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6699dfb43e6cc54a",
+    "canonical_url": "https://www.langchain.com/blog/langsmith-preview-builds-test-agent-changes-before-production",
+    "dedupe_key": "7be7befbf704ce6e",
+    "title": "Test Agent Changes with LangSmith Preview Builds",
+    "issue_date": "2026-08-21",
+    "cluster_id": "langchain_com_6c1811d0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_70a13fe5ed78a72f",
+    "canonical_url": "https://mistral.ai/news/agentic-search",
+    "dedupe_key": "50932386dd33adbc",
+    "title": "Agentic Search. More accurate and efficient results from your AI systems.",
+    "issue_date": "2026-08-21",
+    "cluster_id": "mistral_ai_9f25eaaa",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_394ec682bad21b12",
+    "canonical_url": "https://vercel.com/changelog/custom-metrics-are-now-supported-in-vercel-observability",
+    "dedupe_key": "74b94ef163e8c355",
+    "title": "Custom metrics are now supported in Vercel Observability",
+    "issue_date": "2026-08-21",
+    "cluster_id": "vercel_com_189ef1d4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1b8d8fa0058ee75e",
+    "canonical_url": "https://vercel.com/blog/how-v0-authenticates-to-snowflake-without-exposing-the-users-oauth-token",
+    "dedupe_key": "cde29705cf9ffe68",
+    "title": "How v0 authenticates to Snowflake without exposing the user's OAuth token",
+    "issue_date": "2026-08-21",
+    "cluster_id": "vercel_com_03d89a46",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9df9bcb1ad47d3de",
+    "canonical_url": "https://vercel.com/changelog/manage-vercel-container-registry-with-vercel-cli",
+    "dedupe_key": "a387b26efee3653f",
+    "title": "Manage Vercel Container Registry with Vercel CLI",
+    "issue_date": "2026-08-21",
+    "cluster_id": "vercel_com_e96ceac6",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6b466ca6b259eba5",
+    "canonical_url": "https://vercel.com/changelog/compliance-documents-are-now-available-in-team-settings",
+    "dedupe_key": "edfbf07fbebdb2b8",
+    "title": "Compliance documents are now available in Team settings",
+    "issue_date": "2026-08-21",
+    "cluster_id": "vercel_com_60241114",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9790b512eddf43dc",
+    "canonical_url": "https://vercel.com/changelog/fish-audio-models-now-available-on-ai-gateway-for-free",
+    "dedupe_key": "3788cd6534c32892",
+    "title": "Fish Audio models now available on Vercel AI Gateway for free",
+    "issue_date": "2026-08-21",
+    "cluster_id": "vercel_com_7a517f61",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_62be8b7048ba581e",
+    "canonical_url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+    "dedupe_key": "d639fe0029841b95",
+    "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+    "issue_date": "2026-08-21",
+    "cluster_id": "huggingface_co_b0be464d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a02a5043ad71017e",
+    "canonical_url": "https://x.ai/news/grok-build-for-everyone",
+    "dedupe_key": "42877f930a84726d",
+    "title": "Aug 19, 2026 Grok Build on web and mobile",
+    "issue_date": "2026-08-21",
+    "cluster_id": "x_ai_19591dd5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_896ecb82229faecb",
+    "canonical_url": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models",
+    "dedupe_key": "c40e4b880d52cf9d",
+    "title": "Unlocking hidden revenue streams with market models",
+    "issue_date": "2026-08-21",
+    "cluster_id": "technologyreview_com_81a19ca7",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_51685c6a8e9f6d6e",
+    "canonical_url": "https://mistral.ai/news/forge",
+    "dedupe_key": "56407dac7fdb896f",
+    "title": "Introducing Forge",
+    "issue_date": "2026-08-21",
+    "cluster_id": "mistral_ai_628c3db1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b80efa2e476b4f6b",
+    "canonical_url": "https://mistral.ai/news/mistral-ai-and-nvidia-partner-to-accelerate-open-frontier-models",
+    "dedupe_key": "52b3a0fa817fccf6",
+    "title": "Mistral AI partners with NVIDIA to accelerate open frontier models",
+    "issue_date": "2026-08-21",
+    "cluster_id": "mistral_ai_f9955e11",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_edf93550ec05e89f",
+    "canonical_url": "https://mistral.ai/news/voxtral-transcribe-2",
+    "dedupe_key": "77482327f91c3a31",
+    "title": "Voxtral transcribes at the speed of sound.",
+    "issue_date": "2026-08-21",
+    "cluster_id": "mistral_ai_b0726aca",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
