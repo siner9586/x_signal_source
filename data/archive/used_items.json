@@ -16006,5 +16006,235 @@
     "cluster_id": "mistral_ai_b0726aca",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c43863c7bdc0df09",
+    "canonical_url": "https://vercel.com/blog/how-ora-benchmarks-every-major-ai-agent-on-vercel",
+    "dedupe_key": "9e50f90a90359e67",
+    "title": "How Ora benchmarks every major AI agent on Vercel",
+    "issue_date": "2026-08-22",
+    "cluster_id": "vercel_com_15e633c1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d66954a4006beb3c",
+    "canonical_url": "https://huggingface.co/blog/Michael-E/bedrock-rl",
+    "dedupe_key": "7729db8e70c6cec3",
+    "title": "Bedrock-RL: a deterministic Minecraft framework for training and benchmarking VLM agents Michael-E • 3 days ago • 14",
+    "issue_date": "2026-08-22",
+    "cluster_id": "huggingface_co_1e48f301",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6b4179ed4335696e",
+    "canonical_url": "https://developer.nvidia.com/blog/where-security-fits-in-an-ai-agent-stack",
+    "dedupe_key": "04e95e2bc5c04a88",
+    "title": "Where Security Fits in an AI Agent Stack",
+    "issue_date": "2026-08-22",
+    "cluster_id": "developer_nvidia_com_a11d4539",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_325ddafab479436e",
+    "canonical_url": "https://developer.nvidia.com/blog/nvidia-avo-reaches-100-on-arc-agi-3-demonstrating-a-frontier-level-general-purpose-architecture-for-long-horizon-autonomous-agents",
+    "dedupe_key": "25b65bb258167ed5",
+    "title": "NVIDIA AVO Reaches 100% on ARC-AGI-3, Demonstrating a Frontier-Level General-Purpose Architecture for Long-Horizon Autonomous Agents",
+    "issue_date": "2026-08-22",
+    "cluster_id": "developer_nvidia_com_f3591ba5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8e7402adc0f88afd",
+    "canonical_url": "https://vercel.com/changelog/connect-v0-apps-to-slack-google-and-100-other-services",
+    "dedupe_key": "fae8eff08a01d91b",
+    "title": "Connect v0 apps to Slack, Google, and 100+ other services",
+    "issue_date": "2026-08-22",
+    "cluster_id": "vercel_com_2e1f75bc",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4a1896122cc93e89",
+    "canonical_url": "https://vercel.com/changelog/vercel-agent-is-now-available-in-slack-code-channels",
+    "dedupe_key": "26054450d24be97b",
+    "title": "Vercel Agent is now available in Slack code channels",
+    "issue_date": "2026-08-22",
+    "cluster_id": "vercel_com_bcf62b78",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_44a5831a612d93d5",
+    "canonical_url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
+    "dedupe_key": "d4815709358945bd",
+    "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+    "issue_date": "2026-08-22",
+    "cluster_id": "deepmind_google_8f506e3e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e468c40dca8219de",
+    "canonical_url": "https://developer.nvidia.com/blog/gpu-accelerated-clustering-for-financial-instruments-at-scale",
+    "dedupe_key": "5c91d5f5b11b4c8f",
+    "title": "GPU-Accelerated Clustering for Financial Instruments at Scale",
+    "issue_date": "2026-08-22",
+    "cluster_id": "developer_nvidia_com_744a6e9f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_94d814e3fb3c522c",
+    "canonical_url": "https://developer.nvidia.com/blog/maximizing-ai-factory-performance-per-watt-with-nvidia-dsx-maxlps",
+    "dedupe_key": "e9520e1683c8e2ac",
+    "title": "Maximizing AI Factory Performance per Watt with NVIDIA DSX MaxLPS",
+    "issue_date": "2026-08-22",
+    "cluster_id": "developer_nvidia_com_6bae567d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_38db4659b19acc41",
+    "canonical_url": "https://vercel.com/changelog/vercel-cli-expands-support-for-dns-domains-and-project-commands",
+    "dedupe_key": "6487258b1149c58f",
+    "title": "Vercel CLI expands support for DNS, domains, and project commands",
+    "issue_date": "2026-08-22",
+    "cluster_id": "vercel_com_0a171529",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_76d36d7aa3d14c82",
+    "canonical_url": "https://vercel.com/changelog/the-vercel-sandbox-cli-is-now-more-agent-friendly",
+    "dedupe_key": "762011d99d461c80",
+    "title": "The Vercel Sandbox CLI is now more agent-friendly",
+    "issue_date": "2026-08-22",
+    "cluster_id": "vercel_com_9bdf1a15",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ae82fa36802b0b1f",
+    "canonical_url": "https://vercel.com/changelog/deployment-storage-keeps-your-deployments-rollback-ready",
+    "dedupe_key": "670fcbfa24f55be6",
+    "title": "Deployment Storage keeps your deployments rollback-ready",
+    "issue_date": "2026-08-22",
+    "cluster_id": "vercel_com_5cea913d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_63db72bace60d2d2",
+    "canonical_url": "https://vercel.com/changelog/deepseek-v4-flash-with-vision-now-available-on-ai-gateway",
+    "dedupe_key": "ebd984619e3a921c",
+    "title": "DeepSeek V4 Flash Vision Experimental now available on AI Gateway",
+    "issue_date": "2026-08-22",
+    "cluster_id": "vercel_com_0d247f7d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1655fc499e4ad023",
+    "canonical_url": "https://vercel.com/changelog/always-on-tracing-for-production-and-preview-traffic",
+    "dedupe_key": "c8891cd194a8fd2f",
+    "title": "Always-on tracing for production and preview traffic",
+    "issue_date": "2026-08-22",
+    "cluster_id": "vercel_com_f7987f4c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4c6753a2cdfb8eb2",
+    "canonical_url": "https://huggingface.co/blog/asr-benchmark-optimization",
+    "dedupe_key": "fd2e8169000f4134",
+    "title": "Measuring benchmark optimization in speech recognition",
+    "issue_date": "2026-08-22",
+    "cluster_id": "huggingface_co_c4d05381",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0f35aba2927bb945",
+    "canonical_url": "https://vercel.com/changelog/gpt-5-6-sol-is-now-50-percent-off-a-lower-price",
+    "dedupe_key": "75c14c44aa24f83c",
+    "title": "GPT-5.6 Sol is now 50% off a lower price",
+    "issue_date": "2026-08-22",
+    "cluster_id": "vercel_com_b824a2b6",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7d66653ace09a900",
+    "canonical_url": "https://x.ai/news/grok-bot-more-plans",
+    "dedupe_key": "acd58c076f7ed92c",
+    "title": "Aug 21, 2026 Grok Bot is now included with more plans",
+    "issue_date": "2026-08-22",
+    "cluster_id": "x_ai_f7e3a148",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6dad4aca0d7d850f",
+    "canonical_url": "https://x.ai/news/grok-4-6-vertex-ai",
+    "dedupe_key": "043a96a99b2555dd",
+    "title": "Aug 21, 2026 Grok 4.6 on Vertex AI",
+    "issue_date": "2026-08-22",
+    "cluster_id": "x_ai_2c324fe2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1552a6c91c2004b2",
+    "canonical_url": "https://mistral.ai/news/mistral-vibe-2-0",
+    "dedupe_key": "67663994543ce93d",
+    "title": "Terminally online Mistral Vibe.",
+    "issue_date": "2026-08-22",
+    "cluster_id": "mistral_ai_40a9ee2f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_82ba949a1623f404",
+    "canonical_url": "https://mistral.ai/news/debugging-memory-leak-in-vllm",
+    "dedupe_key": "55fd78da4f819963",
+    "title": "Heaps do lie: debugging a memory leak in vLLM.",
+    "issue_date": "2026-08-22",
+    "cluster_id": "mistral_ai_317cefd0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_10c0f757536983e2",
+    "canonical_url": "https://mistral.ai/news/mistral-ocr-3",
+    "dedupe_key": "b6bd761b1a6f1666",
+    "title": "Introducing Mistral OCR 3",
+    "issue_date": "2026-08-22",
+    "cluster_id": "mistral_ai_0e35621d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a248e0e31ba616f2",
+    "canonical_url": "https://mistral.ai/news/devstral-2-vibe-cli",
+    "dedupe_key": "c6a85631a0ba6e68",
+    "title": "Introducing: Devstral 2 and Mistral Vibe CLI.",
+    "issue_date": "2026-08-22",
+    "cluster_id": "mistral_ai_69e897b8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9cf6b98bccdebe89",
+    "canonical_url": "https://mistral.ai/news/mistral-3",
+    "dedupe_key": "95db9b411a9ba035",
+    "title": "Introducing Mistral 3",
+    "issue_date": "2026-08-22",
+    "cluster_id": "mistral_ai_3967b694",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]

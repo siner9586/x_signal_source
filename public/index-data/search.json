@@ -1,93 +1,8 @@
 [
   {
-    "title": "Developing NVIDIA Holoscan Applications with CLI, Skills, and AI Coding Agents",
-    "url": "https://developer.nvidia.com/blog/developing-nvidia-holoscan-applications-with-cli-skills-and-ai-coding-agents",
-    "summary": "NVIDIA Technical Blog · Developing NVIDIA Holoscan Applications with CLI, Skills, and AI Coding Agents",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-08-21",
-    "score": 72
-  },
-  {
-    "title": "Introducing AI Futures",
-    "url": "https://openai.com/index/introducing-ai-futures",
-    "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-08-21",
-    "score": 69
-  },
-  {
-    "title": "How ChatGPT Work helps Stampli move ideas to market",
-    "url": "https://openai.com/index/stampli",
-    "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-08-21",
-    "score": 68
-  },
-  {
-    "title": "Debates over AI consciousness are a trap",
-    "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap",
-    "summary": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these seemingly “superhuman” systems, while a separate faction, led by policy organizations&#8230;",
-    "tags": [
-      "ai",
-      "research",
-      "society"
-    ],
-    "author": "MIT Technology Review AI",
-    "source": "technologyreview.com",
-    "date": "2026-08-21",
-    "score": 68
-  },
-  {
-    "title": "The August 17 outage, and the work ahead",
-    "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead",
-    "summary": "An update on the August 17 outage and the steps we're taking to improve reliability. The post The August 17 outage, and the work ahead appeared first on The GitHub Blog .",
-    "tags": [
-      "ai_coding",
-      "developer_tools"
-    ],
-    "author": "GitHub Copilot",
-    "source": "github.blog",
-    "date": "2026-08-21",
-    "score": 67
-  },
-  {
-    "title": "How Generative Recommenders Are Redefining RecSys at Scale",
-    "url": "https://developer.nvidia.com/blog/how-generative-recommenders-are-redefining-recsys-at-scale",
-    "summary": "NVIDIA Technical Blog · How Generative Recommenders Are Redefining RecSys at Scale",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-08-21",
-    "score": 66
-  },
-  {
-    "title": "Manage Vercel Toolbar comments from the CLI",
-    "url": "https://vercel.com/changelog/manage-vercel-toolbar-comments-from-the-cli",
-    "summary": "You can now use the Vercel CLI to manage Vercel Toolbar comments. vercel comments covers the full triage loop: List and filter unresolved comments for the linked project, scoped to your current Git branch Inspect a full thread with every message and its IDs Reply, resolve, reopen, edit, or delete from the terminal --format json output for scripts and agents Common workflow Start by listing all of the unresolved comments in the current branch: Dig deeper into a specific thread",
+    "title": "How Ora benchmarks every major AI agent on Vercel",
+    "url": "https://vercel.com/blog/how-ora-benchmarks-every-major-ai-agent-on-vercel",
+    "summary": "Ora on Vercel Front end, back end, and agent runtime on one platform Every major agent tested side by side on live sites Hundreds of commits a day from a 16-person engineering team Ora sends agents onto live websites with instructions to sign up for a product, integrate with it, and pay for it. Agents often fail, and by Ora's estimate, 99% of the web isn't agent-ready. The platform shows customers where and why agents fail, and what to change. Assaf Elovic, co-founder of Ora,",
     "tags": [
       "sdk",
       "ai_infra",
@@ -95,124 +10,13 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-08-21",
-    "score": 66
+    "date": "2026-08-22",
+    "score": 74
   },
   {
-    "title": "Bun 1.4 is now available in Vercel Functions",
-    "url": "https://vercel.com/changelog/bun-1-4-is-now-available-in-vercel-functions",
-    "summary": "Vercel Functions now support the new Bun 1.4 release , a rewrite of Bun from Zig to Rust, with over 2,900 issues resolved, more than 1,500 additional Node.js compatibility tests passing, and new features and performance improvements. Bun on Vercel Functions: Runs on Fluid compute with Active CPU pricing Supports WebSockets and Bun.serve() Supports common frameworks such as Next.js, Elysia, and Hono To update from the previous Bun version, set bunVersion to 1.4.x in vercel.jso",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-08-21",
-    "score": 66
-  },
-  {
-    "title": "Test Agent Changes with LangSmith Preview Builds",
-    "url": "https://www.langchain.com/blog/langsmith-preview-builds-test-agent-changes-before-production",
-    "summary": "Preview Builds let teams test pull request branches in temporary, production-like LangSmith deployments before merging agent changes.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-08-21",
-    "score": 65
-  },
-  {
-    "title": "Agentic Search. More accurate and efficient results from your AI systems.",
-    "url": "https://mistral.ai/news/agentic-search",
-    "summary": "Latest news | Mistral · Agentic Search. More accurate and efficient results from your AI systems.",
-    "tags": [
-      "open_model",
-      "european_ai"
-    ],
-    "author": "Mistral AI",
-    "source": "mistral.ai",
-    "date": "2026-08-21",
-    "score": 63
-  },
-  {
-    "title": "Custom metrics are now supported in Vercel Observability",
-    "url": "https://vercel.com/changelog/custom-metrics-are-now-supported-in-vercel-observability",
-    "summary": "You can now emit your own metrics directly from your Vercel Functions and analyze them alongside Vercel's built-in observability data. Use the metric() function from the @vercel/functions package to record any value you care about, like request latency or business events, and attach attributes to filter and group by: Once emitted, your custom metrics are available across Observability: • Query builder: slice and aggregate metrics on the fly. • Notebooks: build and share dashb",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-08-21",
-    "score": 63
-  },
-  {
-    "title": "How v0 authenticates to Snowflake without exposing the user's OAuth token",
-    "url": "https://vercel.com/blog/how-v0-authenticates-to-snowflake-without-exposing-the-users-oauth-token",
-    "summary": "AI-generated applications often need to authenticate to external services on behalf of their users. That creates a problem: generated code shouldn't have access to the user's credentials. We faced that decision when building the v0 Snowflake integration . It lets users connect Snowflake, inspect schemas, query data, and generate applications that run against their warehouses. That generated code has to authenticate to Snowflake, but it is written by a model and runs without h",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-08-21",
-    "score": 63
-  },
-  {
-    "title": "Manage Vercel Container Registry with Vercel CLI",
-    "url": "https://vercel.com/changelog/manage-vercel-container-registry-with-vercel-cli",
-    "summary": "You can now manage Vercel Container Registry with Vercel CLI . The new vercel vcr command group lets you: Connect your existing container tooling Build and push images in one step Create and inspect repositories, images, and tags Authenticate your container tooling, such as Docker, Podman, or Buildah, with a short-lived token scoped to your project. Then build and push: The credentials go to Docker itself, so your existing tooling can push to VCR with standard commands: Repos",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-08-21",
-    "score": 63
-  },
-  {
-    "title": "Compliance documents are now available in Team settings",
-    "url": "https://vercel.com/changelog/compliance-documents-are-now-available-in-team-settings",
-    "summary": "A new Compliance section in Team settings lets you preview and download Vercel's compliance documents directly in the dashboard. These include attestations like SOC 2 Type 2, security policies, and other security documents that are available through the Trust Center. You can select a single document, an entire attestation, or multiple documents, and download them together as a single zip archive. Every download and preview is watermarked with your user and team information. S",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-08-21",
-    "score": 63
-  },
-  {
-    "title": "Fish Audio models now available on Vercel AI Gateway for free",
-    "url": "https://vercel.com/changelog/fish-audio-models-now-available-on-ai-gateway-for-free",
-    "summary": "Fish Audio 's audio models are now available on AI Gateway. To celebrate the launch, every Fish Audio model is free on AI Gateway for the next 30 days, through September 18. Capability Regular Through September 18 Text-to-speech $15.00 per million characters Free Speech-to-text $0.36 per hour of audio Free Four models from Fish Audio are available, including their latest text-to-speech model: fish-audio/s2.1-pro (text-to-speech): Built for low-latency streaming; clones a voic",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-08-21",
-    "score": 63
-  },
-  {
-    "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-    "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-    "summary": "Up to 3.2x Faster Inference with LFM2.5-DSpark 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Bedrock-RL: a deterministic Minecraft framework for training and benchmarking VLM agents Michael-E • 3 days ago • 14",
+    "url": "https://huggingface.co/blog/Michael-E/bedrock-rl",
+    "summary": "Hugging Face – Blog · Bedrock-RL: a deterministic Minecraft framework for training and benchmarking VLM agents Michael-E • 3 days ago • 14",
     "tags": [
       "open_source",
       "papers",
@@ -220,73 +24,295 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-08-21",
-    "score": 62
+    "date": "2026-08-22",
+    "score": 73
   },
   {
-    "title": "Aug 19, 2026 Grok Build on web and mobile",
-    "url": "https://x.ai/news/grok-build-for-everyone",
-    "summary": "SpaceXAI · Aug 19, 2026 Grok Build on web and mobile",
+    "title": "Where Security Fits in an AI Agent Stack",
+    "url": "https://developer.nvidia.com/blog/where-security-fits-in-an-ai-agent-stack",
+    "summary": "NVIDIA Technical Blog · Where Security Fits in an AI Agent Stack",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-08-22",
+    "score": 71
+  },
+  {
+    "title": "NVIDIA AVO Reaches 100% on ARC-AGI-3, Demonstrating a Frontier-Level General-Purpose Architecture for Long-Horizon Autonomous Agents",
+    "url": "https://developer.nvidia.com/blog/nvidia-avo-reaches-100-on-arc-agi-3-demonstrating-a-frontier-level-general-purpose-architecture-for-long-horizon-autonomous-agents",
+    "summary": "NVIDIA Technical Blog · NVIDIA AVO Reaches 100% on ARC-AGI-3, Demonstrating a Frontier-Level General-Purpose Architecture for Long-Horizon Autonomous Agents",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-08-22",
+    "score": 69
+  },
+  {
+    "title": "Connect v0 apps to Slack, Google, and 100+ other services",
+    "url": "https://vercel.com/changelog/connect-v0-apps-to-slack-google-and-100-other-services",
+    "summary": "Apps and agents built in v0 can now securely connect to 100+ third-party services , including Slack, Google, Notion, GitHub, and Salesforce, through Vercel Connect . Prompt v0 to connect your app to a service, and it walks you through setting up a connector for it. Connectors belong to your team, so you set one up once and reuse it across apps. For some connectors like Slack and GitHub, Vercel handles the app registration, so there's nothing to set up on the provider's side. ",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-08-22",
+    "score": 69
+  },
+  {
+    "title": "Vercel Agent is now available in Slack code channels",
+    "url": "https://vercel.com/changelog/vercel-agent-is-now-available-in-slack-code-channels",
+    "summary": "Vercel Agent now works in Slack code channels, a new kind of channel launched today for working with a coding agent. Anyone in the channel can follow the work, give Agent new instructions, and review the code it writes. Choose Create a code channel from the Slack sidebar, select Vercel as the agent, and describe what you need to get started. You can also ask Agent to create one from an existing channel or thread. It brings that context with it to the new channel. Use code cha",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-08-22",
+    "score": 69
+  },
+  {
+    "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+    "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
+    "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
+    "tags": [
+      "research",
+      "multimodal",
+      "science",
+      "official"
+    ],
+    "author": "Google DeepMind",
+    "source": "deepmind.google",
+    "date": "2026-08-22",
+    "score": 68
+  },
+  {
+    "title": "GPU-Accelerated Clustering for Financial Instruments at Scale",
+    "url": "https://developer.nvidia.com/blog/gpu-accelerated-clustering-for-financial-instruments-at-scale",
+    "summary": "NVIDIA Technical Blog · GPU-Accelerated Clustering for Financial Instruments at Scale",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-08-22",
+    "score": 66
+  },
+  {
+    "title": "Maximizing AI Factory Performance per Watt with NVIDIA DSX MaxLPS",
+    "url": "https://developer.nvidia.com/blog/maximizing-ai-factory-performance-per-watt-with-nvidia-dsx-maxlps",
+    "summary": "NVIDIA Technical Blog · Maximizing AI Factory Performance per Watt with NVIDIA DSX MaxLPS",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-08-22",
+    "score": 66
+  },
+  {
+    "title": "Vercel CLI expands support for DNS, domains, and project commands",
+    "url": "https://vercel.com/changelog/vercel-cli-expands-support-for-dns-domains-and-project-commands",
+    "summary": "The Vercel CLI now provides dedicated commands for managing DNS records, domains, and projects. This brings more of the functionality available through the Vercel dashboard and API to the terminal, where it can be used interactively, in scripts, or by agents. Inspect and update DNS records Retrieve the complete configuration for a DNS record or update it in place using its record ID. vercel dns update supports changes to the record name, type, value, TTL, MX priority, and com",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-08-22",
+    "score": 66
+  },
+  {
+    "title": "The Vercel Sandbox CLI is now more agent-friendly",
+    "url": "https://vercel.com/changelog/the-vercel-sandbox-cli-is-now-more-agent-friendly",
+    "summary": "The Sandbox CLI version 4.0.1 ships four output and error improvements: New sandboxes point users towards how to connect into them. A sandbox not found error shows where to look for existing sandboxes. Common mistakes, like typing a command after sh , redirect to the command that was intended. Outdated installs show an update notice when they create a new sandbox. Each of these messages now carries the action to take next instead of leaving you to work it out. New sandboxes t",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-08-22",
+    "score": 66
+  },
+  {
+    "title": "Deployment Storage keeps your deployments rollback-ready",
+    "url": "https://vercel.com/changelog/deployment-storage-keeps-your-deployments-rollback-ready",
+    "summary": "Every deployment produces a set of files, including the pages, functions, and assets Vercel serves. Deployment Storage keeps those files available so you can inspect previous deployments and roll back when needed. Instantly roll back to previous deployments in seconds If a production deploy ships a bug or a change you want to reverse, rolling back restores the previous version in seconds. Open your project, click Instant Rollback on the Production Deployment tile, then choose",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-08-22",
+    "score": 65
+  },
+  {
+    "title": "DeepSeek V4 Flash Vision Experimental now available on AI Gateway",
+    "url": "https://vercel.com/changelog/deepseek-v4-flash-with-vision-now-available-on-ai-gateway",
+    "summary": "DeepSeek V4 Flash with vision is now available on AI Gateway. This model is an experimental version that accepts images alongside text. You can ask it to describe a picture, read text out of a screenshot, or work through a chart in the same request as your prompt. DeepSeek V4 Flash Vision Experimental now available on AI Gateway. Tool use, reasoning, and caching all work the same as before. Use deepseek/deepseek-v4-flash-vision-exp to get started: Images can be JPEG, PNG, GIF",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-08-22",
+    "score": 65
+  },
+  {
+    "title": "Always-on tracing for production and preview traffic",
+    "url": "https://vercel.com/changelog/always-on-tracing-for-production-and-preview-traffic",
+    "summary": "With always-on tracing, you can now debug your real user requests without reproducing them. Always-on tracing continuously collects traces from your production and preview traffic. Unlike session tracing , which only captures requests from your own browser, it samples your live traffic. You control what's collected with sampling rules. Each rule sets a trace rate for an environment (All, Production, or Preview), optionally scoped to a path prefix like /checkout . Nothing is c",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-08-22",
+    "score": 65
+  },
+  {
+    "title": "Measuring benchmark optimization in speech recognition",
+    "url": "https://huggingface.co/blog/asr-benchmark-optimization",
+    "summary": "Measuring benchmark optimization in speech recognition 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-08-22",
+    "score": 64
+  },
+  {
+    "title": "GPT-5.6 Sol is now 50% off a lower price",
+    "url": "https://vercel.com/changelog/gpt-5-6-sol-is-now-50-percent-off-a-lower-price",
+    "summary": "OpenAI lowered list pricing for GPT-5.6 Sol , and the 50% AI Gateway discount now applies to the new, lower price through September 18. Input drops 20%, output drops a third. The discount applies on every OpenAI service tier: Service tier You pay now (input / output) New list price (input / output) You paid before (input / output) Default $2.00 / $10.00 $4.00 / $20.00 $2.50 / $15.00 Flex $1.00 / $5.00 $2.00 / $10.00 $1.25 / $7.50 Priority (fast mode) $4.00 / $20.00 $8.00 / $4",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-08-22",
+    "score": 63
+  },
+  {
+    "title": "Aug 21, 2026 Grok Bot is now included with more plans",
+    "url": "https://x.ai/news/grok-bot-more-plans",
+    "summary": "SpaceXAI · Aug 21, 2026 Grok Bot is now included with more plans",
     "tags": [
       "ai_models",
       "reasoning"
     ],
     "author": "xAI",
     "source": "x.ai",
-    "date": "2026-08-21",
+    "date": "2026-08-22",
     "score": 61
   },
   {
-    "title": "Unlocking hidden revenue streams with market models",
-    "url": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models",
-    "summary": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider potentially hundreds of variables to price each of these journeys: demand, season, time of day, current events, global markets, and competitor airline activity to name&#8230;",
+    "title": "Aug 21, 2026 Grok 4.6 on Vertex AI",
+    "url": "https://x.ai/news/grok-4-6-vertex-ai",
+    "summary": "SpaceXAI · Aug 21, 2026 Grok 4.6 on Vertex AI",
     "tags": [
-      "ai",
-      "research",
-      "society"
+      "ai_models",
+      "reasoning"
     ],
-    "author": "MIT Technology Review AI",
-    "source": "technologyreview.com",
-    "date": "2026-08-21",
+    "author": "xAI",
+    "source": "x.ai",
+    "date": "2026-08-22",
     "score": 61
   },
   {
-    "title": "Introducing Forge",
-    "url": "https://mistral.ai/news/forge",
-    "summary": "Today, we’re introducing Forge, a system for enterprises to build frontier-grade AI models grounded in their proprietary knowledge.",
+    "title": "Terminally online Mistral Vibe.",
+    "url": "https://mistral.ai/news/mistral-vibe-2-0",
+    "summary": "Terminally online Mistral Vibe. 是 Mistral AI 当日抓取到的公开新增条目。",
     "tags": [
       "open_model",
       "european_ai"
     ],
     "author": "Mistral AI",
     "source": "mistral.ai",
-    "date": "2026-08-21",
+    "date": "2026-08-22",
     "score": 60
   },
   {
-    "title": "Mistral AI partners with NVIDIA to accelerate open frontier models",
-    "url": "https://mistral.ai/news/mistral-ai-and-nvidia-partner-to-accelerate-open-frontier-models",
-    "summary": "Mistral AI partners with NVIDIA to accelerate open frontier models 是 Mistral AI 当日抓取到的公开新增条目。",
+    "title": "Heaps do lie: debugging a memory leak in vLLM.",
+    "url": "https://mistral.ai/news/debugging-memory-leak-in-vllm",
+    "summary": "Heaps do lie: debugging a memory leak in vLLM. 是 Mistral AI 当日抓取到的公开新增条目。",
     "tags": [
       "open_model",
       "european_ai"
     ],
     "author": "Mistral AI",
     "source": "mistral.ai",
-    "date": "2026-08-21",
+    "date": "2026-08-22",
     "score": 60
   },
   {
-    "title": "Voxtral transcribes at the speed of sound.",
-    "url": "https://mistral.ai/news/voxtral-transcribe-2",
-    "summary": "Voxtral transcribes at the speed of sound. 是 Mistral AI 当日抓取到的公开新增条目。",
+    "title": "Introducing Mistral OCR 3",
+    "url": "https://mistral.ai/news/mistral-ocr-3",
+    "summary": "Introducing Mistral OCR 3 是 Mistral AI 当日抓取到的公开新增条目。",
     "tags": [
       "open_model",
       "european_ai"
     ],
     "author": "Mistral AI",
     "source": "mistral.ai",
-    "date": "2026-08-21",
+    "date": "2026-08-22",
+    "score": 60
+  },
+  {
+    "title": "Introducing: Devstral 2 and Mistral Vibe CLI.",
+    "url": "https://mistral.ai/news/devstral-2-vibe-cli",
+    "summary": "Introducing: Devstral 2 and Mistral Vibe CLI. 是 Mistral AI 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_model",
+      "european_ai"
+    ],
+    "author": "Mistral AI",
+    "source": "mistral.ai",
+    "date": "2026-08-22",
+    "score": 60
+  },
+  {
+    "title": "Introducing Mistral 3",
+    "url": "https://mistral.ai/news/mistral-3",
+    "summary": "Introducing Mistral 3 是 Mistral AI 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_model",
+      "european_ai"
+    ],
+    "author": "Mistral AI",
+    "source": "mistral.ai",
+    "date": "2026-08-22",
     "score": 60
   }
 ]
