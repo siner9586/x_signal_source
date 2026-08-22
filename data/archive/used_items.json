@@ -16236,5 +16236,205 @@
     "cluster_id": "mistral_ai_3967b694",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b8796f75fb6d1937",
+    "canonical_url": "https://www.lennysnewsletter.com/p/community-wisdom-favorite-lennys",
+    "dedupe_key": "e8392286e49ed0c5",
+    "title": "🧠 Community Wisdom: Favorite Lenny’s Product Pass tools, how AI is reshaping hiring, what to prioritize when you join a new company, and more",
+    "issue_date": "2026-08-23",
+    "cluster_id": "lennysnewsletter_com_0bb9161c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ea197b79b027f9fd",
+    "canonical_url": "https://mistral.ai/news/ki-fur-deutschland",
+    "dedupe_key": "b17f1902c4abfa87",
+    "title": "Mistral AI - KI für Deutschland",
+    "issue_date": "2026-08-23",
+    "cluster_id": "mistral_ai_c427f6fd",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f761654bbc57e77d",
+    "canonical_url": "https://mistral.ai/news/ai-studio",
+    "dedupe_key": "5e0baad7e4ee95c8",
+    "title": "Introducing Mistral AI Studio.",
+    "issue_date": "2026-08-23",
+    "cluster_id": "mistral_ai_5ad687ae",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b9e4420ba7a4216a",
+    "canonical_url": "https://mistral.ai/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai",
+    "dedupe_key": "d12d0e6735995673",
+    "title": "Mistral AI raises 1.7B€ to accelerate technological progress with AI",
+    "issue_date": "2026-08-23",
+    "cluster_id": "mistral_ai_aee095ce",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_26ce2cd0ba757b5c",
+    "canonical_url": "https://mistral.ai/news/memory",
+    "dedupe_key": "b5534d3c17e98bfd",
+    "title": "Make Memory work for you.",
+    "issue_date": "2026-08-23",
+    "cluster_id": "mistral_ai_f74f2c2d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_12e3946c4894a876",
+    "canonical_url": "https://mistral.ai/news/le-chat-mcp-connectors-memories",
+    "dedupe_key": "0a2e99202983c058",
+    "title": "Le Chat. Custom MCP connectors. Memories.",
+    "issue_date": "2026-08-23",
+    "cluster_id": "mistral_ai_cf802824",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_bbdfca58a9c795e3",
+    "canonical_url": "https://mistral.ai/news/unlocking-potential-vision-language-models-satellite-imagery-fine-tuning",
+    "dedupe_key": "29999a311e6aa1ac",
+    "title": "Unlocking the potential of vision language models on satellite imagery through fine-tuning",
+    "issue_date": "2026-08-23",
+    "cluster_id": "mistral_ai_8d59a1e3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b792d25842817433",
+    "canonical_url": "https://mistral.ai/news/our-contribution-to-a-global-environmental-standard-for-ai",
+    "dedupe_key": "2e16e0a6f99d9bcc",
+    "title": "Our contribution to a global environmental standard for AI",
+    "issue_date": "2026-08-23",
+    "cluster_id": "mistral_ai_b41f7d42",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_978ff6b92f1358d3",
+    "canonical_url": "https://mistral.ai/news/le-chat-dives-deep",
+    "dedupe_key": "a13b85cb4787dec7",
+    "title": "Le Chat dives deep.",
+    "issue_date": "2026-08-23",
+    "cluster_id": "mistral_ai_a1b41ff8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ea0174e108e9b784",
+    "canonical_url": "https://mistral.ai/news/voxtral",
+    "dedupe_key": "e553b23a816e857f",
+    "title": "Voxtral",
+    "issue_date": "2026-08-23",
+    "cluster_id": "mistral_ai_1c999506",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8bd6dc11543c97b6",
+    "canonical_url": "https://mistral.ai/news/ai-for-citizens",
+    "dedupe_key": "cd98dbfa73134a66",
+    "title": "Announcing AI for Citizens",
+    "issue_date": "2026-08-23",
+    "cluster_id": "mistral_ai_52f55935",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3f4fc25303f950e3",
+    "canonical_url": "https://mistral.ai/news/mistral-compute",
+    "dedupe_key": "6a584d71ab0c7f18",
+    "title": "Mistral Compute",
+    "issue_date": "2026-08-23",
+    "cluster_id": "mistral_ai_372f3dc0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_44e21212ac1b1e02",
+    "canonical_url": "https://mistral.ai/news/magistral",
+    "dedupe_key": "fc8d0e82a681bacf",
+    "title": "Magistral",
+    "issue_date": "2026-08-23",
+    "cluster_id": "mistral_ai_10146443",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d7f9d24dd96acc9d",
+    "canonical_url": "https://mistral.ai/news/mistral-code",
+    "dedupe_key": "d91800d21d9a3429",
+    "title": "Introducing Mistral Code",
+    "issue_date": "2026-08-23",
+    "cluster_id": "mistral_ai_8cd5174c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_aadcddc8edb3bd80",
+    "canonical_url": "https://mistral.ai/news/codestral-embed",
+    "dedupe_key": "9053d31d2a321917",
+    "title": "Codestral Embed",
+    "issue_date": "2026-08-23",
+    "cluster_id": "mistral_ai_c667a2a3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_80a9c6978a642819",
+    "canonical_url": "https://mistral.ai/news/devstral",
+    "dedupe_key": "d880a41aa12ef224",
+    "title": "Devstral",
+    "issue_date": "2026-08-23",
+    "cluster_id": "mistral_ai_756ec6d4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5af625bf22165238",
+    "canonical_url": "https://mistral.ai/news/le-chat-enterprise",
+    "dedupe_key": "0f02b7c4e8530224",
+    "title": "Introducing Le Chat Enterprise",
+    "issue_date": "2026-08-23",
+    "cluster_id": "mistral_ai_68c4f0cc",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_150c767d92d58b06",
+    "canonical_url": "https://mistral.ai/news/mistral-medium-3",
+    "dedupe_key": "56741a03d38b86b5",
+    "title": "Medium is the new large.",
+    "issue_date": "2026-08-23",
+    "cluster_id": "mistral_ai_d8405341",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_342772c13539415f",
+    "canonical_url": "https://mistral.ai/news/llm-as-rag-judge",
+    "dedupe_key": "8feb767723087578",
+    "title": "Evaluating RAG with LLM as a Judge",
+    "issue_date": "2026-08-23",
+    "cluster_id": "mistral_ai_92adaab6",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8e688ec5c8fab0f3",
+    "canonical_url": "https://mistral.ai/news/mistral-small-3-1",
+    "dedupe_key": "c2b8b2b22c96a09f",
+    "title": "Mistral Small 3.1",
+    "issue_date": "2026-08-23",
+    "cluster_id": "mistral_ai_19dcf5b2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]

@@ -1,318 +1,263 @@
 [
   {
-    "title": "How Ora benchmarks every major AI agent on Vercel",
-    "url": "https://vercel.com/blog/how-ora-benchmarks-every-major-ai-agent-on-vercel",
-    "summary": "Ora on Vercel Front end, back end, and agent runtime on one platform Every major agent tested side by side on live sites Hundreds of commits a day from a 16-person engineering team Ora sends agents onto live websites with instructions to sign up for a product, integrate with it, and pay for it. Agents often fail, and by Ora's estimate, 99% of the web isn't agent-ready. The platform shows customers where and why agents fail, and what to change. Assaf Elovic, co-founder of Ora,",
+    "title": "🧠 Community Wisdom: Favorite Lenny’s Product Pass tools, how AI is reshaping hiring, what to prioritize when you join a new company, and more",
+    "url": "https://www.lennysnewsletter.com/p/community-wisdom-favorite-lennys",
+    "summary": "Community Wisdom 198",
     "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
+      "product",
+      "growth",
+      "startup"
     ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-08-22",
-    "score": 74
+    "author": "Lenny's Newsletter",
+    "source": "lennysnewsletter.com",
+    "date": "2026-08-23",
+    "score": 62
   },
   {
-    "title": "Bedrock-RL: a deterministic Minecraft framework for training and benchmarking VLM agents Michael-E • 3 days ago • 14",
-    "url": "https://huggingface.co/blog/Michael-E/bedrock-rl",
-    "summary": "Hugging Face – Blog · Bedrock-RL: a deterministic Minecraft framework for training and benchmarking VLM agents Michael-E • 3 days ago • 14",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-08-22",
-    "score": 73
-  },
-  {
-    "title": "Where Security Fits in an AI Agent Stack",
-    "url": "https://developer.nvidia.com/blog/where-security-fits-in-an-ai-agent-stack",
-    "summary": "NVIDIA Technical Blog · Where Security Fits in an AI Agent Stack",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-08-22",
-    "score": 71
-  },
-  {
-    "title": "NVIDIA AVO Reaches 100% on ARC-AGI-3, Demonstrating a Frontier-Level General-Purpose Architecture for Long-Horizon Autonomous Agents",
-    "url": "https://developer.nvidia.com/blog/nvidia-avo-reaches-100-on-arc-agi-3-demonstrating-a-frontier-level-general-purpose-architecture-for-long-horizon-autonomous-agents",
-    "summary": "NVIDIA Technical Blog · NVIDIA AVO Reaches 100% on ARC-AGI-3, Demonstrating a Frontier-Level General-Purpose Architecture for Long-Horizon Autonomous Agents",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-08-22",
-    "score": 69
-  },
-  {
-    "title": "Connect v0 apps to Slack, Google, and 100+ other services",
-    "url": "https://vercel.com/changelog/connect-v0-apps-to-slack-google-and-100-other-services",
-    "summary": "Apps and agents built in v0 can now securely connect to 100+ third-party services , including Slack, Google, Notion, GitHub, and Salesforce, through Vercel Connect . Prompt v0 to connect your app to a service, and it walks you through setting up a connector for it. Connectors belong to your team, so you set one up once and reuse it across apps. For some connectors like Slack and GitHub, Vercel handles the app registration, so there's nothing to set up on the provider's side. ",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-08-22",
-    "score": 69
-  },
-  {
-    "title": "Vercel Agent is now available in Slack code channels",
-    "url": "https://vercel.com/changelog/vercel-agent-is-now-available-in-slack-code-channels",
-    "summary": "Vercel Agent now works in Slack code channels, a new kind of channel launched today for working with a coding agent. Anyone in the channel can follow the work, give Agent new instructions, and review the code it writes. Choose Create a code channel from the Slack sidebar, select Vercel as the agent, and describe what you need to get started. You can also ask Agent to create one from an existing channel or thread. It brings that context with it to the new channel. Use code cha",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-08-22",
-    "score": 69
-  },
-  {
-    "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-    "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
-    "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
-    "tags": [
-      "research",
-      "multimodal",
-      "science",
-      "official"
-    ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-08-22",
-    "score": 68
-  },
-  {
-    "title": "GPU-Accelerated Clustering for Financial Instruments at Scale",
-    "url": "https://developer.nvidia.com/blog/gpu-accelerated-clustering-for-financial-instruments-at-scale",
-    "summary": "NVIDIA Technical Blog · GPU-Accelerated Clustering for Financial Instruments at Scale",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-08-22",
-    "score": 66
-  },
-  {
-    "title": "Maximizing AI Factory Performance per Watt with NVIDIA DSX MaxLPS",
-    "url": "https://developer.nvidia.com/blog/maximizing-ai-factory-performance-per-watt-with-nvidia-dsx-maxlps",
-    "summary": "NVIDIA Technical Blog · Maximizing AI Factory Performance per Watt with NVIDIA DSX MaxLPS",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-08-22",
-    "score": 66
-  },
-  {
-    "title": "Vercel CLI expands support for DNS, domains, and project commands",
-    "url": "https://vercel.com/changelog/vercel-cli-expands-support-for-dns-domains-and-project-commands",
-    "summary": "The Vercel CLI now provides dedicated commands for managing DNS records, domains, and projects. This brings more of the functionality available through the Vercel dashboard and API to the terminal, where it can be used interactively, in scripts, or by agents. Inspect and update DNS records Retrieve the complete configuration for a DNS record or update it in place using its record ID. vercel dns update supports changes to the record name, type, value, TTL, MX priority, and com",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-08-22",
-    "score": 66
-  },
-  {
-    "title": "The Vercel Sandbox CLI is now more agent-friendly",
-    "url": "https://vercel.com/changelog/the-vercel-sandbox-cli-is-now-more-agent-friendly",
-    "summary": "The Sandbox CLI version 4.0.1 ships four output and error improvements: New sandboxes point users towards how to connect into them. A sandbox not found error shows where to look for existing sandboxes. Common mistakes, like typing a command after sh , redirect to the command that was intended. Outdated installs show an update notice when they create a new sandbox. Each of these messages now carries the action to take next instead of leaving you to work it out. New sandboxes t",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-08-22",
-    "score": 66
-  },
-  {
-    "title": "Deployment Storage keeps your deployments rollback-ready",
-    "url": "https://vercel.com/changelog/deployment-storage-keeps-your-deployments-rollback-ready",
-    "summary": "Every deployment produces a set of files, including the pages, functions, and assets Vercel serves. Deployment Storage keeps those files available so you can inspect previous deployments and roll back when needed. Instantly roll back to previous deployments in seconds If a production deploy ships a bug or a change you want to reverse, rolling back restores the previous version in seconds. Open your project, click Instant Rollback on the Production Deployment tile, then choose",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-08-22",
-    "score": 65
-  },
-  {
-    "title": "DeepSeek V4 Flash Vision Experimental now available on AI Gateway",
-    "url": "https://vercel.com/changelog/deepseek-v4-flash-with-vision-now-available-on-ai-gateway",
-    "summary": "DeepSeek V4 Flash with vision is now available on AI Gateway. This model is an experimental version that accepts images alongside text. You can ask it to describe a picture, read text out of a screenshot, or work through a chart in the same request as your prompt. DeepSeek V4 Flash Vision Experimental now available on AI Gateway. Tool use, reasoning, and caching all work the same as before. Use deepseek/deepseek-v4-flash-vision-exp to get started: Images can be JPEG, PNG, GIF",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-08-22",
-    "score": 65
-  },
-  {
-    "title": "Always-on tracing for production and preview traffic",
-    "url": "https://vercel.com/changelog/always-on-tracing-for-production-and-preview-traffic",
-    "summary": "With always-on tracing, you can now debug your real user requests without reproducing them. Always-on tracing continuously collects traces from your production and preview traffic. Unlike session tracing , which only captures requests from your own browser, it samples your live traffic. You control what's collected with sampling rules. Each rule sets a trace rate for an environment (All, Production, or Preview), optionally scoped to a path prefix like /checkout . Nothing is c",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-08-22",
-    "score": 65
-  },
-  {
-    "title": "Measuring benchmark optimization in speech recognition",
-    "url": "https://huggingface.co/blog/asr-benchmark-optimization",
-    "summary": "Measuring benchmark optimization in speech recognition 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-08-22",
-    "score": 64
-  },
-  {
-    "title": "GPT-5.6 Sol is now 50% off a lower price",
-    "url": "https://vercel.com/changelog/gpt-5-6-sol-is-now-50-percent-off-a-lower-price",
-    "summary": "OpenAI lowered list pricing for GPT-5.6 Sol , and the 50% AI Gateway discount now applies to the new, lower price through September 18. Input drops 20%, output drops a third. The discount applies on every OpenAI service tier: Service tier You pay now (input / output) New list price (input / output) You paid before (input / output) Default $2.00 / $10.00 $4.00 / $20.00 $2.50 / $15.00 Flex $1.00 / $5.00 $2.00 / $10.00 $1.25 / $7.50 Priority (fast mode) $4.00 / $20.00 $8.00 / $4",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-08-22",
-    "score": 63
-  },
-  {
-    "title": "Aug 21, 2026 Grok Bot is now included with more plans",
-    "url": "https://x.ai/news/grok-bot-more-plans",
-    "summary": "SpaceXAI · Aug 21, 2026 Grok Bot is now included with more plans",
-    "tags": [
-      "ai_models",
-      "reasoning"
-    ],
-    "author": "xAI",
-    "source": "x.ai",
-    "date": "2026-08-22",
-    "score": 61
-  },
-  {
-    "title": "Aug 21, 2026 Grok 4.6 on Vertex AI",
-    "url": "https://x.ai/news/grok-4-6-vertex-ai",
-    "summary": "SpaceXAI · Aug 21, 2026 Grok 4.6 on Vertex AI",
-    "tags": [
-      "ai_models",
-      "reasoning"
-    ],
-    "author": "xAI",
-    "source": "x.ai",
-    "date": "2026-08-22",
-    "score": 61
-  },
-  {
-    "title": "Terminally online Mistral Vibe.",
-    "url": "https://mistral.ai/news/mistral-vibe-2-0",
-    "summary": "Terminally online Mistral Vibe. 是 Mistral AI 当日抓取到的公开新增条目。",
+    "title": "Mistral AI - KI für Deutschland",
+    "url": "https://mistral.ai/news/ki-fur-deutschland",
+    "summary": "Mistral AI - KI für Deutschland 是 Mistral AI 当日抓取到的公开新增条目。",
     "tags": [
       "open_model",
       "european_ai"
     ],
     "author": "Mistral AI",
     "source": "mistral.ai",
-    "date": "2026-08-22",
+    "date": "2026-08-23",
     "score": 60
   },
   {
-    "title": "Heaps do lie: debugging a memory leak in vLLM.",
-    "url": "https://mistral.ai/news/debugging-memory-leak-in-vllm",
-    "summary": "Heaps do lie: debugging a memory leak in vLLM. 是 Mistral AI 当日抓取到的公开新增条目。",
+    "title": "Introducing Mistral AI Studio.",
+    "url": "https://mistral.ai/news/ai-studio",
+    "summary": "Introducing Mistral AI Studio. 是 Mistral AI 当日抓取到的公开新增条目。",
     "tags": [
       "open_model",
       "european_ai"
     ],
     "author": "Mistral AI",
     "source": "mistral.ai",
-    "date": "2026-08-22",
+    "date": "2026-08-23",
     "score": 60
   },
   {
-    "title": "Introducing Mistral OCR 3",
-    "url": "https://mistral.ai/news/mistral-ocr-3",
-    "summary": "Introducing Mistral OCR 3 是 Mistral AI 当日抓取到的公开新增条目。",
+    "title": "Mistral AI raises 1.7B€ to accelerate technological progress with AI",
+    "url": "https://mistral.ai/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai",
+    "summary": "Mistral AI raises 1.7B€ to accelerate technological progress with AI 是 Mistral AI 当日抓取到的公开新增条目。",
     "tags": [
       "open_model",
       "european_ai"
     ],
     "author": "Mistral AI",
     "source": "mistral.ai",
-    "date": "2026-08-22",
+    "date": "2026-08-23",
     "score": 60
   },
   {
-    "title": "Introducing: Devstral 2 and Mistral Vibe CLI.",
-    "url": "https://mistral.ai/news/devstral-2-vibe-cli",
-    "summary": "Introducing: Devstral 2 and Mistral Vibe CLI. 是 Mistral AI 当日抓取到的公开新增条目。",
+    "title": "Make Memory work for you.",
+    "url": "https://mistral.ai/news/memory",
+    "summary": "Make Memory work for you. 是 Mistral AI 当日抓取到的公开新增条目。",
     "tags": [
       "open_model",
       "european_ai"
     ],
     "author": "Mistral AI",
     "source": "mistral.ai",
-    "date": "2026-08-22",
+    "date": "2026-08-23",
     "score": 60
   },
   {
-    "title": "Introducing Mistral 3",
-    "url": "https://mistral.ai/news/mistral-3",
-    "summary": "Introducing Mistral 3 是 Mistral AI 当日抓取到的公开新增条目。",
+    "title": "Le Chat. Custom MCP connectors. Memories.",
+    "url": "https://mistral.ai/news/le-chat-mcp-connectors-memories",
+    "summary": "Le Chat. Custom MCP connectors. Memories. 是 Mistral AI 当日抓取到的公开新增条目。",
     "tags": [
       "open_model",
       "european_ai"
     ],
     "author": "Mistral AI",
     "source": "mistral.ai",
-    "date": "2026-08-22",
+    "date": "2026-08-23",
+    "score": 60
+  },
+  {
+    "title": "Unlocking the potential of vision language models on satellite imagery through fine-tuning",
+    "url": "https://mistral.ai/news/unlocking-potential-vision-language-models-satellite-imagery-fine-tuning",
+    "summary": "Unlocking the potential of vision language models on satellite imagery through fine-tuning 是 Mistral AI 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_model",
+      "european_ai"
+    ],
+    "author": "Mistral AI",
+    "source": "mistral.ai",
+    "date": "2026-08-23",
+    "score": 60
+  },
+  {
+    "title": "Our contribution to a global environmental standard for AI",
+    "url": "https://mistral.ai/news/our-contribution-to-a-global-environmental-standard-for-ai",
+    "summary": "Our contribution to a global environmental standard for AI 是 Mistral AI 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_model",
+      "european_ai"
+    ],
+    "author": "Mistral AI",
+    "source": "mistral.ai",
+    "date": "2026-08-23",
+    "score": 60
+  },
+  {
+    "title": "Le Chat dives deep.",
+    "url": "https://mistral.ai/news/le-chat-dives-deep",
+    "summary": "Le Chat dives deep. 是 Mistral AI 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_model",
+      "european_ai"
+    ],
+    "author": "Mistral AI",
+    "source": "mistral.ai",
+    "date": "2026-08-23",
+    "score": 60
+  },
+  {
+    "title": "Voxtral",
+    "url": "https://mistral.ai/news/voxtral",
+    "summary": "Voxtral 是 Mistral AI 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_model",
+      "european_ai"
+    ],
+    "author": "Mistral AI",
+    "source": "mistral.ai",
+    "date": "2026-08-23",
+    "score": 60
+  },
+  {
+    "title": "Announcing AI for Citizens",
+    "url": "https://mistral.ai/news/ai-for-citizens",
+    "summary": "Announcing AI for Citizens 是 Mistral AI 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_model",
+      "european_ai"
+    ],
+    "author": "Mistral AI",
+    "source": "mistral.ai",
+    "date": "2026-08-23",
+    "score": 60
+  },
+  {
+    "title": "Mistral Compute",
+    "url": "https://mistral.ai/news/mistral-compute",
+    "summary": "Mistral Compute 是 Mistral AI 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_model",
+      "european_ai"
+    ],
+    "author": "Mistral AI",
+    "source": "mistral.ai",
+    "date": "2026-08-23",
+    "score": 60
+  },
+  {
+    "title": "Magistral",
+    "url": "https://mistral.ai/news/magistral",
+    "summary": "Magistral 是 Mistral AI 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_model",
+      "european_ai"
+    ],
+    "author": "Mistral AI",
+    "source": "mistral.ai",
+    "date": "2026-08-23",
+    "score": 60
+  },
+  {
+    "title": "Introducing Mistral Code",
+    "url": "https://mistral.ai/news/mistral-code",
+    "summary": "Introducing Mistral Code 是 Mistral AI 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_model",
+      "european_ai"
+    ],
+    "author": "Mistral AI",
+    "source": "mistral.ai",
+    "date": "2026-08-23",
+    "score": 60
+  },
+  {
+    "title": "Codestral Embed",
+    "url": "https://mistral.ai/news/codestral-embed",
+    "summary": "Codestral Embed 是 Mistral AI 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_model",
+      "european_ai"
+    ],
+    "author": "Mistral AI",
+    "source": "mistral.ai",
+    "date": "2026-08-23",
+    "score": 60
+  },
+  {
+    "title": "Devstral",
+    "url": "https://mistral.ai/news/devstral",
+    "summary": "Devstral 是 Mistral AI 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_model",
+      "european_ai"
+    ],
+    "author": "Mistral AI",
+    "source": "mistral.ai",
+    "date": "2026-08-23",
+    "score": 60
+  },
+  {
+    "title": "Introducing Le Chat Enterprise",
+    "url": "https://mistral.ai/news/le-chat-enterprise",
+    "summary": "Introducing Le Chat Enterprise 是 Mistral AI 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_model",
+      "european_ai"
+    ],
+    "author": "Mistral AI",
+    "source": "mistral.ai",
+    "date": "2026-08-23",
+    "score": 60
+  },
+  {
+    "title": "Medium is the new large.",
+    "url": "https://mistral.ai/news/mistral-medium-3",
+    "summary": "Medium is the new large. 是 Mistral AI 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_model",
+      "european_ai"
+    ],
+    "author": "Mistral AI",
+    "source": "mistral.ai",
+    "date": "2026-08-23",
+    "score": 60
+  },
+  {
+    "title": "Evaluating RAG with LLM as a Judge",
+    "url": "https://mistral.ai/news/llm-as-rag-judge",
+    "summary": "Evaluating RAG with LLM as a Judge 是 Mistral AI 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_model",
+      "european_ai"
+    ],
+    "author": "Mistral AI",
+    "source": "mistral.ai",
+    "date": "2026-08-23",
+    "score": 60
+  },
+  {
+    "title": "Mistral Small 3.1",
+    "url": "https://mistral.ai/news/mistral-small-3-1",
+    "summary": "Mistral Small 3.1 是 Mistral AI 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_model",
+      "european_ai"
+    ],
+    "author": "Mistral AI",
+    "source": "mistral.ai",
+    "date": "2026-08-23",
     "score": 60
   }
 ]
