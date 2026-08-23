@@ -16436,5 +16436,205 @@
     "cluster_id": "mistral_ai_19dcf5b2",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_23bd1aa9d75a7cb7",
+    "canonical_url": "https://www.lennysnewsletter.com/p/how-to-close-100k-1m-deals-step-by",
+    "dedupe_key": "680d990690dbc63f",
+    "title": "How to close $100K+ enterprise deals, step by step | Jen Abel",
+    "issue_date": "2026-08-24",
+    "cluster_id": "lennysnewsletter_com_13c2726a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9e9d57df80dce229",
+    "canonical_url": "https://mistral.ai/news/mistral-ocr",
+    "dedupe_key": "8974d3c689d498f1",
+    "title": "Mistral OCR",
+    "issue_date": "2026-08-24",
+    "cluster_id": "mistral_ai_77957922",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ee268d3096c16988",
+    "canonical_url": "https://mistral.ai/news/mistral-saba",
+    "dedupe_key": "0a8006e2c61ae674",
+    "title": "Mistral Saba",
+    "issue_date": "2026-08-24",
+    "cluster_id": "mistral_ai_e6ae6de1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_df6a351a85474fb5",
+    "canonical_url": "https://mistral.ai/news/all-new-le-chat",
+    "dedupe_key": "10d62508784f6140",
+    "title": "The all new le Chat: Your AI assistant for life and work",
+    "issue_date": "2026-08-24",
+    "cluster_id": "mistral_ai_1bd402cb",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_56650e5ce4586207",
+    "canonical_url": "https://mistral.ai/news/mistral-small-3",
+    "dedupe_key": "ac4b9883b6c8dd9b",
+    "title": "Mistral Small 3",
+    "issue_date": "2026-08-24",
+    "cluster_id": "mistral_ai_e612e054",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6b1ed542a6f9836f",
+    "canonical_url": "https://mistral.ai/news/mistral-afp",
+    "dedupe_key": "d3e5350496a4c35b",
+    "title": "Purr-fectly informed",
+    "issue_date": "2026-08-24",
+    "cluster_id": "mistral_ai_8750f28e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ddd5be11fc2860f0",
+    "canonical_url": "https://mistral.ai/news/codestral-2501",
+    "dedupe_key": "63b385a17e9c3a4f",
+    "title": "Codestral 25.01",
+    "issue_date": "2026-08-24",
+    "cluster_id": "mistral_ai_47756225",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9fd716da5f2de779",
+    "canonical_url": "https://mistral.ai/news/mistral-chat",
+    "dedupe_key": "a20d5bc6181dfd50",
+    "title": "Mistral has entered the chat",
+    "issue_date": "2026-08-24",
+    "cluster_id": "mistral_ai_74e60782",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_30368f6d4c78f3ed",
+    "canonical_url": "https://mistral.ai/news/pixtral-large",
+    "dedupe_key": "5ff7979f29e5437c",
+    "title": "Pixtral Large",
+    "issue_date": "2026-08-24",
+    "cluster_id": "mistral_ai_a4c9a8a9",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9adecf054bb9aec7",
+    "canonical_url": "https://mistral.ai/news/batch-api",
+    "dedupe_key": "7eba1037e22409a8",
+    "title": "Mistral Batch API",
+    "issue_date": "2026-08-24",
+    "cluster_id": "mistral_ai_9a9fac3f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d4ccf741353cd224",
+    "canonical_url": "https://mistral.ai/news/mistral-moderation",
+    "dedupe_key": "f85efab620a32e0b",
+    "title": "Mistral Moderation API",
+    "issue_date": "2026-08-24",
+    "cluster_id": "mistral_ai_09032293",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_dc4990362c9f860b",
+    "canonical_url": "https://mistral.ai/news/ministraux",
+    "dedupe_key": "070d88040c69a344",
+    "title": "Un Ministral, des Ministraux",
+    "issue_date": "2026-08-24",
+    "cluster_id": "mistral_ai_340c29a7",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_34214abd4ef98b64",
+    "canonical_url": "https://mistral.ai/news/september-24-release",
+    "dedupe_key": "4d56f92f498acb1f",
+    "title": "AI in abundance",
+    "issue_date": "2026-08-24",
+    "cluster_id": "mistral_ai_395be5e9",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f683a4186a414d50",
+    "canonical_url": "https://mistral.ai/news/pixtral-12b",
+    "dedupe_key": "07d7d55f09fa4e00",
+    "title": "Announcing Pixtral 12B",
+    "issue_date": "2026-08-24",
+    "cluster_id": "mistral_ai_aa66dde7",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_063a1d15827deb48",
+    "canonical_url": "https://mistral.ai/news/build-tweak-repeat",
+    "dedupe_key": "4a1f40a01aa37241",
+    "title": "Build, tweak, repeat",
+    "issue_date": "2026-08-24",
+    "cluster_id": "mistral_ai_3f35ef01",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_bbe74aa1087540e3",
+    "canonical_url": "https://mistral.ai/news/mistral-large-2407",
+    "dedupe_key": "8c05b827b3401e85",
+    "title": "Large Enough",
+    "issue_date": "2026-08-24",
+    "cluster_id": "mistral_ai_092a5e89",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_00dfce42e8776cb4",
+    "canonical_url": "https://mistral.ai/news/mistral-nemo",
+    "dedupe_key": "da929f9d15fe48ae",
+    "title": "Mistral NeMo",
+    "issue_date": "2026-08-24",
+    "cluster_id": "mistral_ai_1137f75a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_05fb84c8e27f912a",
+    "canonical_url": "https://mistral.ai/news/mathstral",
+    "dedupe_key": "167b96deda88195f",
+    "title": "MathΣtral",
+    "issue_date": "2026-08-24",
+    "cluster_id": "mistral_ai_bfcd07b8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6576400bb2aa365d",
+    "canonical_url": "https://mistral.ai/news/codestral-mamba",
+    "dedupe_key": "f42674d27a84bf10",
+    "title": "Codestral Mamba",
+    "issue_date": "2026-08-24",
+    "cluster_id": "mistral_ai_7fa97d3c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c80604c514fbe34a",
+    "canonical_url": "https://mistral.ai/news/customization",
+    "dedupe_key": "73e99d75e594c7a2",
+    "title": "My Tailor is Mistral",
+    "issue_date": "2026-08-24",
+    "cluster_id": "mistral_ai_1dc44ddf",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
