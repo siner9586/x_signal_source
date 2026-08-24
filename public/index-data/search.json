@@ -1,8 +1,92 @@
 [
   {
-    "title": "How to close $100K+ enterprise deals, step by step | Jen Abel",
-    "url": "https://www.lennysnewsletter.com/p/how-to-close-100k-1m-deals-step-by",
-    "summary": "Listen now | Jen Abel returns for a third time to walk us through every step of the enterprise sales cycle&#8212;from the first cold outreach to the final contract signature",
+    "title": "Exa joins the Vercel AI Gateway and Agent Marketplace",
+    "url": "https://vercel.com/changelog/exa-joins-vercel-ai-gateway-agent-marketplace",
+    "summary": "Exa is now available on the Vercel AI Gateway and Agent Marketplace as a native integration. Exa's neural search engine grounds models in current information. Exa search is now a built-in tool on AI Gateway , which runs the search for you without an Exa account of your own. You can also add Exa to a Vercel project from the Agent Marketplace to power search or a research agent, with a single API key that works across every Exa product and billing through your Vercel account. E",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-08-25",
+    "score": 70
+  },
+  {
+    "title": "NVIDIA BlueField-4 Powers New Scale-In Network Infrastructure for Agentic AI Factories",
+    "url": "https://developer.nvidia.com/blog/nvidia-bluefield-4-powers-new-scale-in-network-infrastructure-for-agentic-ai-factories",
+    "summary": "NVIDIA Technical Blog · NVIDIA BlueField-4 Powers New Scale-In Network Infrastructure for Agentic AI Factories",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-08-25",
+    "score": 69
+  },
+  {
+    "title": "Solving Agentic AI Fleet Challenges with NVIDIA Vera CPU",
+    "url": "https://developer.nvidia.com/blog/solving-agentic-ai-fleet-challenges-with-nvidia-vera-cpu",
+    "summary": "NVIDIA Technical Blog · Solving Agentic AI Fleet Challenges with NVIDIA Vera CPU",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-08-25",
+    "score": 69
+  },
+  {
+    "title": "NVIDIA Vera Rubin and Blackwell Set a New Standard for Agentic AI Performance per Watt",
+    "url": "https://developer.nvidia.com/blog/nvidia-vera-rubin-and-blackwell-set-a-new-standard-for-agentic-ai-performance-per-watt",
+    "summary": "NVIDIA Technical Blog · NVIDIA Vera Rubin and Blackwell Set a New Standard for Agentic AI Performance per Watt",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-08-25",
+    "score": 69
+  },
+  {
+    "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+    "url": "https://openai.com/index/gpt-5-6-in-kiro",
+    "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-08-25",
+    "score": 67
+  },
+  {
+    "title": "Your alt text passes automated checks. That doesn&#8217;t mean it&#8217;s any good.",
+    "url": "https://github.blog/engineering/user-experience/your-alt-text-passes-automated-checks-that-doesnt-mean-its-any-good",
+    "summary": "We built a plugin for the GitHub Accessibility Scanner to make sure your alt text is actually accessible. Here's how it works. The post Your alt text passes automated checks. That doesn&#8217;t mean it&#8217;s any good. appeared first on The GitHub Blog .",
+    "tags": [
+      "ai_coding",
+      "developer_tools"
+    ],
+    "author": "GitHub Copilot",
+    "source": "github.blog",
+    "date": "2026-08-25",
+    "score": 67
+  },
+  {
+    "title": "I spent $20,000 on Devin in a month. Here’s what I learned | Ryan Carson (solo founder)",
+    "url": "https://www.lennysnewsletter.com/p/i-spent-20000-on-devin-in-a-month",
+    "summary": "Watch now | &#127897;&#65039; Solo founder Ryan Carson runs 15 concurrent Devin agents to handle engineering, customer success, and investor updates, and he uses a handwritten list to keep it all straight",
     "tags": [
       "product",
       "growth",
@@ -10,254 +94,200 @@
     ],
     "author": "Lenny's Newsletter",
     "source": "lennysnewsletter.com",
-    "date": "2026-08-24",
+    "date": "2026-08-25",
+    "score": 67
+  },
+  {
+    "title": "Giga-Scale AI and the Ethernet Evolution: How Spectrum-X Ethernet Rewrites the Rules",
+    "url": "https://developer.nvidia.com/blog/giga-scale-ai-ethernet-evolution-spectrum-x-ethernet-rewrites-rules",
+    "summary": "NVIDIA Technical Blog · Giga-Scale AI and the Ethernet Evolution: How Spectrum-X Ethernet Rewrites the Rules",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-08-25",
+    "score": 66
+  },
+  {
+    "title": "How NVIDIA Groq 3 LPX Unlocks Ultrafast Interactivity at Long Context on NVIDIA Vera Rubin",
+    "url": "https://developer.nvidia.com/blog/how-nvidia-groq-3-lpx-unlocks-ultrafast-interactivity-at-long-context-on-nvidia-vera-rubin",
+    "summary": "NVIDIA Technical Blog · How NVIDIA Groq 3 LPX Unlocks Ultrafast Interactivity at Long Context on NVIDIA Vera Rubin",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-08-25",
+    "score": 66
+  },
+  {
+    "title": "Environment variables now use Config and Secret types",
+    "url": "https://vercel.com/changelog/environment-variables-now-use-config-and-secret-types",
+    "summary": "When you add or edit an environment variable in Vercel, you now choose Config or Secret instead of using the Sensitive toggle. Config: The value remains readable after saving for members with access. Use Config for non-sensitive values you may need to inspect later, such as variables with a public framework prefix. Secret: The value remains available to your deployments and can be replaced, but members cannot view or retrieve it after saving. Use Secret for passwords, API key",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-08-25",
+    "score": 66
+  },
+  {
+    "title": "Toyota Scales Enterprise AI with Deep Agents and LangSmith",
+    "url": "https://www.langchain.com/blog/how-toyota-north-america-put-enterprise-ai-on-the-balance-sheet-with-deep-agents-and-langsmith",
+    "summary": "See how Toyota North America uses Deep Agents and LangSmith to run 50+ production agents, cut delivery from 6 months to 4 days, and track AI ROI.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-08-25",
+    "score": 66
+  },
+  {
+    "title": "Vercel Sandbox is now globally available",
+    "url": "https://vercel.com/changelog/vercel-sandbox-is-now-globally-available",
+    "summary": "Vercel Sandbox now runs globally, starting with four regions: iad1 (Washington, D.C.), sfo1 (San Francisco), cle1 (Cleveland), and cdg1 (Paris). iad1 remains the default. Support for all Vercel regions is coming soon. Choose a region close to the databases, object storage, and other services your sandboxes access to reduce latency. Region selection is available on all plans. Pro and Enterprise teams can also configure failover regions. If the primary region is unavailable, ne",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-08-25",
+    "score": 63
+  },
+  {
+    "title": "Bun runtime now supports large functions and extended max duration",
+    "url": "https://vercel.com/changelog/bun-runtime-now-supports-large-functions-and-extended-max-duration",
+    "summary": "The Bun runtime on Vercel Functions now supports larger package sizes up to 5GB uncompressed and extended max duration for up to 30 minutes, two betas that previously ran on Node.js and Python only. Large functions raise the standard 250MB package size limit to 5GB, and extended max duration raises the generally available 800-second ceiling to 1800 seconds for Pro and Enterprise teams. Both features require Fluid compute to be enabled. New projects are enrolled in the large f",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-08-25",
+    "score": 63
+  },
+  {
+    "title": "Vercel Python Queues SDK is now available in beta",
+    "url": "https://vercel.com/changelog/vercel-python-queues-sdk-is-now-available-in-beta",
+    "summary": "The Python SDK for Vercel Queues is now available in beta, bringing first-class Python support for running background workloads on Vercel. You publish messages to topics, and independent consumer groups process them in parallel with automatic retries, sharding, and delivery guarantees. Messages can be enqueued or consumed from either JavaScript or Python, meaning a Next.js producer can fan out to both Next.js and Python queue consumers. Publish a message from your Python API:",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-08-25",
+    "score": 63
+  },
+  {
+    "title": "Autonomy and Innovation",
+    "url": "https://stratechery.com/2026/autonomy-and-innovation",
+    "summary": "Incentives favor offense when it comes to agentic cybersecurity; it's the same dynamic that will limit incumbents and fuel startups in the long run.",
+    "tags": [
+      "strategy",
+      "tech",
+      "business"
+    ],
+    "author": "Stratechery",
+    "source": "stratechery.com",
+    "date": "2026-08-25",
+    "score": 62
+  },
+  {
+    "title": "🎙️ How I AI: Grok Bot + Grok 4.6—what’s great (and what’s still hype) & Lessons from spending $20,000 on Devin in one month",
+    "url": "https://www.lennysnewsletter.com/p/how-i-ai-grok-bot-grok-46whats-great",
+    "summary": "Your weekly listens from How I AI, part of the Lenny&#8217;s Podcast Network",
+    "tags": [
+      "product",
+      "growth",
+      "startup"
+    ],
+    "author": "Lenny's Newsletter",
+    "source": "lennysnewsletter.com",
+    "date": "2026-08-25",
+    "score": 62
+  },
+  {
+    "title": "How to encourage smarter AI use in the classroom",
+    "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies",
+    "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. Suddenly, students carried an app in their phones that could magically answer almost any&#8230;",
+    "tags": [
+      "ai",
+      "research",
+      "society"
+    ],
+    "author": "MIT Technology Review AI",
+    "source": "technologyreview.com",
+    "date": "2026-08-25",
     "score": 61
   },
   {
-    "title": "Mistral OCR",
-    "url": "https://mistral.ai/news/mistral-ocr",
-    "summary": "Mistral OCR 是 Mistral AI 当日抓取到的公开新增条目。",
+    "title": "Kids outlearn AI—and we still don&#8217;t know why",
+    "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning",
+    "summary": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child.&#160; Now there are two.&#160; Four short years after the release of ChatGPT,&#8230;",
+    "tags": [
+      "ai",
+      "research",
+      "society"
+    ],
+    "author": "MIT Technology Review AI",
+    "source": "technologyreview.com",
+    "date": "2026-08-25",
+    "score": 61
+  },
+  {
+    "title": "Mistral x HUMAIN",
+    "url": "https://mistral.ai/news/mistral-x-humain",
+    "summary": "Latest news | Mistral · Mistral x HUMAIN",
     "tags": [
       "open_model",
       "european_ai"
     ],
     "author": "Mistral AI",
     "source": "mistral.ai",
-    "date": "2026-08-24",
+    "date": "2026-08-25",
     "score": 60
   },
   {
-    "title": "Mistral Saba",
-    "url": "https://mistral.ai/news/mistral-saba",
-    "summary": "Mistral Saba 是 Mistral AI 当日抓取到的公开新增条目。",
+    "title": "Mistral AI Fine-tuning Hackathon",
+    "url": "https://mistral.ai/news/2024-ft-hackathon",
+    "summary": "We are thrilled to announce the Mistral AI fine-tuning hackathon, a virtual experience taking place from June 5 - 30, 2024.",
     "tags": [
       "open_model",
       "european_ai"
     ],
     "author": "Mistral AI",
     "source": "mistral.ai",
-    "date": "2026-08-24",
+    "date": "2026-08-25",
     "score": 60
   },
   {
-    "title": "The all new le Chat: Your AI assistant for life and work",
-    "url": "https://mistral.ai/news/all-new-le-chat",
-    "summary": "The all new le Chat: Your AI assistant for life and work 是 Mistral AI 当日抓取到的公开新增条目。",
+    "title": "Codestral",
+    "url": "https://mistral.ai/news/codestral",
+    "summary": "Codestral 是 Mistral AI 当日抓取到的公开新增条目。",
     "tags": [
       "open_model",
       "european_ai"
     ],
     "author": "Mistral AI",
     "source": "mistral.ai",
-    "date": "2026-08-24",
-    "score": 60
-  },
-  {
-    "title": "Mistral Small 3",
-    "url": "https://mistral.ai/news/mistral-small-3",
-    "summary": "Mistral Small 3 是 Mistral AI 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_model",
-      "european_ai"
-    ],
-    "author": "Mistral AI",
-    "source": "mistral.ai",
-    "date": "2026-08-24",
-    "score": 60
-  },
-  {
-    "title": "Purr-fectly informed",
-    "url": "https://mistral.ai/news/mistral-afp",
-    "summary": "Purr-fectly informed 是 Mistral AI 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_model",
-      "european_ai"
-    ],
-    "author": "Mistral AI",
-    "source": "mistral.ai",
-    "date": "2026-08-24",
-    "score": 60
-  },
-  {
-    "title": "Codestral 25.01",
-    "url": "https://mistral.ai/news/codestral-2501",
-    "summary": "Codestral 25.01 是 Mistral AI 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_model",
-      "european_ai"
-    ],
-    "author": "Mistral AI",
-    "source": "mistral.ai",
-    "date": "2026-08-24",
-    "score": 60
-  },
-  {
-    "title": "Mistral has entered the chat",
-    "url": "https://mistral.ai/news/mistral-chat",
-    "summary": "Mistral has entered the chat 是 Mistral AI 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_model",
-      "european_ai"
-    ],
-    "author": "Mistral AI",
-    "source": "mistral.ai",
-    "date": "2026-08-24",
-    "score": 60
-  },
-  {
-    "title": "Pixtral Large",
-    "url": "https://mistral.ai/news/pixtral-large",
-    "summary": "Pixtral Large is deprecated. Discover Mistral AI’s latest vision models and capabilities in our updated documentation.",
-    "tags": [
-      "open_model",
-      "european_ai"
-    ],
-    "author": "Mistral AI",
-    "source": "mistral.ai",
-    "date": "2026-08-24",
-    "score": 60
-  },
-  {
-    "title": "Mistral Batch API",
-    "url": "https://mistral.ai/news/batch-api",
-    "summary": "Lower cost API for AI builders.",
-    "tags": [
-      "open_model",
-      "european_ai"
-    ],
-    "author": "Mistral AI",
-    "source": "mistral.ai",
-    "date": "2026-08-24",
-    "score": 60
-  },
-  {
-    "title": "Mistral Moderation API",
-    "url": "https://mistral.ai/news/mistral-moderation",
-    "summary": "Mistral Moderation API 是 Mistral AI 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_model",
-      "european_ai"
-    ],
-    "author": "Mistral AI",
-    "source": "mistral.ai",
-    "date": "2026-08-24",
-    "score": 60
-  },
-  {
-    "title": "Un Ministral, des Ministraux",
-    "url": "https://mistral.ai/news/ministraux",
-    "summary": "Un Ministral, des Ministraux 是 Mistral AI 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_model",
-      "european_ai"
-    ],
-    "author": "Mistral AI",
-    "source": "mistral.ai",
-    "date": "2026-08-24",
-    "score": 60
-  },
-  {
-    "title": "AI in abundance",
-    "url": "https://mistral.ai/news/september-24-release",
-    "summary": "AI in abundance 是 Mistral AI 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_model",
-      "european_ai"
-    ],
-    "author": "Mistral AI",
-    "source": "mistral.ai",
-    "date": "2026-08-24",
-    "score": 60
-  },
-  {
-    "title": "Announcing Pixtral 12B",
-    "url": "https://mistral.ai/news/pixtral-12b",
-    "summary": "Pixtral 12B is deprecated. Discover Mistral AI’s latest vision models and capabilities in our updated documentation.",
-    "tags": [
-      "open_model",
-      "european_ai"
-    ],
-    "author": "Mistral AI",
-    "source": "mistral.ai",
-    "date": "2026-08-24",
-    "score": 60
-  },
-  {
-    "title": "Build, tweak, repeat",
-    "url": "https://mistral.ai/news/build-tweak-repeat",
-    "summary": "Build, tweak, repeat 是 Mistral AI 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_model",
-      "european_ai"
-    ],
-    "author": "Mistral AI",
-    "source": "mistral.ai",
-    "date": "2026-08-24",
-    "score": 60
-  },
-  {
-    "title": "Large Enough",
-    "url": "https://mistral.ai/news/mistral-large-2407",
-    "summary": "Large Enough 是 Mistral AI 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_model",
-      "european_ai"
-    ],
-    "author": "Mistral AI",
-    "source": "mistral.ai",
-    "date": "2026-08-24",
-    "score": 60
-  },
-  {
-    "title": "Mistral NeMo",
-    "url": "https://mistral.ai/news/mistral-nemo",
-    "summary": "Mistral NeMo 是 Mistral AI 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_model",
-      "european_ai"
-    ],
-    "author": "Mistral AI",
-    "source": "mistral.ai",
-    "date": "2026-08-24",
-    "score": 60
-  },
-  {
-    "title": "MathΣtral",
-    "url": "https://mistral.ai/news/mathstral",
-    "summary": "MathΣtral 是 Mistral AI 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_model",
-      "european_ai"
-    ],
-    "author": "Mistral AI",
-    "source": "mistral.ai",
-    "date": "2026-08-24",
-    "score": 60
-  },
-  {
-    "title": "Codestral Mamba",
-    "url": "https://mistral.ai/news/codestral-mamba",
-    "summary": "Codestral Mamba 是 Mistral AI 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_model",
-      "european_ai"
-    ],
-    "author": "Mistral AI",
-    "source": "mistral.ai",
-    "date": "2026-08-24",
-    "score": 60
-  },
-  {
-    "title": "My Tailor is Mistral",
-    "url": "https://mistral.ai/news/customization",
-    "summary": "My Tailor is Mistral 是 Mistral AI 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_model",
-      "european_ai"
-    ],
-    "author": "Mistral AI",
-    "source": "mistral.ai",
-    "date": "2026-08-24",
+    "date": "2026-08-25",
     "score": 60
   }
 ]

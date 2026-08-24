@@ -16636,5 +16636,215 @@
     "cluster_id": "mistral_ai_1dc44ddf",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_bf7095233b627d57",
+    "canonical_url": "https://vercel.com/changelog/exa-joins-vercel-ai-gateway-agent-marketplace",
+    "dedupe_key": "be57a196a2c1cc69",
+    "title": "Exa joins the Vercel AI Gateway and Agent Marketplace",
+    "issue_date": "2026-08-25",
+    "cluster_id": "vercel_com_3243cc89",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5394500fb64ba629",
+    "canonical_url": "https://developer.nvidia.com/blog/nvidia-bluefield-4-powers-new-scale-in-network-infrastructure-for-agentic-ai-factories",
+    "dedupe_key": "e078468084a0713b",
+    "title": "NVIDIA BlueField-4 Powers New Scale-In Network Infrastructure for Agentic AI Factories",
+    "issue_date": "2026-08-25",
+    "cluster_id": "developer_nvidia_com_3c4a16fb",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_554622d530a13b47",
+    "canonical_url": "https://developer.nvidia.com/blog/solving-agentic-ai-fleet-challenges-with-nvidia-vera-cpu",
+    "dedupe_key": "b0a127f9465eb301",
+    "title": "Solving Agentic AI Fleet Challenges with NVIDIA Vera CPU",
+    "issue_date": "2026-08-25",
+    "cluster_id": "developer_nvidia_com_44a23c98",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c252cd11df3e8996",
+    "canonical_url": "https://developer.nvidia.com/blog/nvidia-vera-rubin-and-blackwell-set-a-new-standard-for-agentic-ai-performance-per-watt",
+    "dedupe_key": "2ef39b898226483d",
+    "title": "NVIDIA Vera Rubin and Blackwell Set a New Standard for Agentic AI Performance per Watt",
+    "issue_date": "2026-08-25",
+    "cluster_id": "developer_nvidia_com_72f3409f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5233c68da73391ef",
+    "canonical_url": "https://openai.com/index/gpt-5-6-in-kiro",
+    "dedupe_key": "4e35a98a123f4827",
+    "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+    "issue_date": "2026-08-25",
+    "cluster_id": "openai_com_916d3719",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_eac71fe630e0bd88",
+    "canonical_url": "https://github.blog/engineering/user-experience/your-alt-text-passes-automated-checks-that-doesnt-mean-its-any-good",
+    "dedupe_key": "5a1082a3c79c90be",
+    "title": "Your alt text passes automated checks. That doesn&#8217;t mean it&#8217;s any good.",
+    "issue_date": "2026-08-25",
+    "cluster_id": "github_blog_c0d21a75",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e34eb2fd2c66e946",
+    "canonical_url": "https://www.lennysnewsletter.com/p/i-spent-20000-on-devin-in-a-month",
+    "dedupe_key": "05606bcb09e276bb",
+    "title": "I spent $20,000 on Devin in a month. Here’s what I learned | Ryan Carson (solo founder)",
+    "issue_date": "2026-08-25",
+    "cluster_id": "lennysnewsletter_com_0d5f2503",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_80e874ace1f309eb",
+    "canonical_url": "https://developer.nvidia.com/blog/giga-scale-ai-ethernet-evolution-spectrum-x-ethernet-rewrites-rules",
+    "dedupe_key": "a7570a1edaf0010f",
+    "title": "Giga-Scale AI and the Ethernet Evolution: How Spectrum-X Ethernet Rewrites the Rules",
+    "issue_date": "2026-08-25",
+    "cluster_id": "developer_nvidia_com_deead2e7",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6a262ca96250e08f",
+    "canonical_url": "https://developer.nvidia.com/blog/how-nvidia-groq-3-lpx-unlocks-ultrafast-interactivity-at-long-context-on-nvidia-vera-rubin",
+    "dedupe_key": "1b1420ccdc274cba",
+    "title": "How NVIDIA Groq 3 LPX Unlocks Ultrafast Interactivity at Long Context on NVIDIA Vera Rubin",
+    "issue_date": "2026-08-25",
+    "cluster_id": "developer_nvidia_com_713e7c19",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_49b2cf57b3d8cc81",
+    "canonical_url": "https://vercel.com/changelog/environment-variables-now-use-config-and-secret-types",
+    "dedupe_key": "fbbc7615105e1ed1",
+    "title": "Environment variables now use Config and Secret types",
+    "issue_date": "2026-08-25",
+    "cluster_id": "vercel_com_661f54c0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_25d9e9fa91aabe3f",
+    "canonical_url": "https://www.langchain.com/blog/how-toyota-north-america-put-enterprise-ai-on-the-balance-sheet-with-deep-agents-and-langsmith",
+    "dedupe_key": "78d652997c2bd751",
+    "title": "Toyota Scales Enterprise AI with Deep Agents and LangSmith",
+    "issue_date": "2026-08-25",
+    "cluster_id": "langchain_com_dd2e30ce",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_834cf8392f22a449",
+    "canonical_url": "https://vercel.com/changelog/vercel-sandbox-is-now-globally-available",
+    "dedupe_key": "c42fa62c7b2170a7",
+    "title": "Vercel Sandbox is now globally available",
+    "issue_date": "2026-08-25",
+    "cluster_id": "vercel_com_532304f5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e434eca3b9e9abf4",
+    "canonical_url": "https://vercel.com/changelog/bun-runtime-now-supports-large-functions-and-extended-max-duration",
+    "dedupe_key": "f81919ab49c924d5",
+    "title": "Bun runtime now supports large functions and extended max duration",
+    "issue_date": "2026-08-25",
+    "cluster_id": "vercel_com_937e9522",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c33b02f4252d7fc8",
+    "canonical_url": "https://vercel.com/changelog/vercel-python-queues-sdk-is-now-available-in-beta",
+    "dedupe_key": "7285e8d63bb7d8f5",
+    "title": "Vercel Python Queues SDK is now available in beta",
+    "issue_date": "2026-08-25",
+    "cluster_id": "vercel_com_b9e8ddc5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f4ca42e6507f84b6",
+    "canonical_url": "https://stratechery.com/2026/autonomy-and-innovation",
+    "dedupe_key": "eeb0c5467872fee1",
+    "title": "Autonomy and Innovation",
+    "issue_date": "2026-08-25",
+    "cluster_id": "stratechery_com_598f9984",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3c7b576282419770",
+    "canonical_url": "https://www.lennysnewsletter.com/p/how-i-ai-grok-bot-grok-46whats-great",
+    "dedupe_key": "3642b9a3758332ad",
+    "title": "🎙️ How I AI: Grok Bot + Grok 4.6—what’s great (and what’s still hype) & Lessons from spending $20,000 on Devin in one month",
+    "issue_date": "2026-08-25",
+    "cluster_id": "lennysnewsletter_com_51e2e27d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5b05beee7b9fce12",
+    "canonical_url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies",
+    "dedupe_key": "451c4f764be96089",
+    "title": "How to encourage smarter AI use in the classroom",
+    "issue_date": "2026-08-25",
+    "cluster_id": "technologyreview_com_2186349e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_59d2f19dfdce1e4a",
+    "canonical_url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning",
+    "dedupe_key": "de126a80a0ab42cd",
+    "title": "Kids outlearn AI—and we still don&#8217;t know why",
+    "issue_date": "2026-08-25",
+    "cluster_id": "technologyreview_com_4f6a310b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e3ffc69bd28bf155",
+    "canonical_url": "https://mistral.ai/news/mistral-x-humain",
+    "dedupe_key": "0ce701027189c3ce",
+    "title": "Mistral x HUMAIN",
+    "issue_date": "2026-08-25",
+    "cluster_id": "mistral_ai_b0bd5402",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_33da1ca40b7d0c30",
+    "canonical_url": "https://mistral.ai/news/2024-ft-hackathon",
+    "dedupe_key": "6b5175125a702bd7",
+    "title": "Mistral AI Fine-tuning Hackathon",
+    "issue_date": "2026-08-25",
+    "cluster_id": "mistral_ai_fd0e769a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3b1f157a56cba8b4",
+    "canonical_url": "https://mistral.ai/news/codestral",
+    "dedupe_key": "7ce329435fdf95b2",
+    "title": "Codestral",
+    "issue_date": "2026-08-25",
+    "cluster_id": "mistral_ai_1c33f1f4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
