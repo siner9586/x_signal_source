@@ -16846,5 +16846,215 @@
     "cluster_id": "mistral_ai_1c33f1f4",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4c5d3b75c8a8d70f",
+    "canonical_url": "https://vercel.com/blog/the-end-of-credential-sprawl-for-agents",
+    "dedupe_key": "53fa83d7fbfb0f63",
+    "title": "25 August Engineering The end of credential sprawl for agents Vercel Connect, the secure connectivity layer for AI agents and apps, is now generally available. Hedi Zandi, Ben Sabic, and 1 other",
+    "issue_date": "2026-08-26",
+    "cluster_id": "vercel_com_1eeb9565",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d978829a82f2f9ab",
+    "canonical_url": "https://vercel.com/changelog/notion-chat-sdk",
+    "dedupe_key": "55fbcd44d07db1bc",
+    "title": "Bring your agent to Notion with Chat SDK",
+    "issue_date": "2026-08-26",
+    "cluster_id": "vercel_com_1264960f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f5d8c7a13ad5613e",
+    "canonical_url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+    "dedupe_key": "b63b6fb271997ea8",
+    "title": "The full stack behind abundant intelligence",
+    "issue_date": "2026-08-26",
+    "cluster_id": "openai_com_a47e2c10",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_608df27117a28bcf",
+    "canonical_url": "https://www.langchain.com/blog/automating-web-research",
+    "dedupe_key": "bec85051cb18498c",
+    "title": "Automating Web Research",
+    "issue_date": "2026-08-26",
+    "cluster_id": "langchain_com_b78ec5b3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_138e23edab534941",
+    "canonical_url": "https://openai.com/index/jalapeno-first-results",
+    "dedupe_key": "2a458e1f61b8cf3a",
+    "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+    "issue_date": "2026-08-26",
+    "cluster_id": "openai_com_de6836fe",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_126562b793c2acdf",
+    "canonical_url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+    "dedupe_key": "c2f1cd7d501af3c8",
+    "title": "Disrupting a new covert influence campaign from Russia",
+    "issue_date": "2026-08-26",
+    "cluster_id": "openai_com_0757c9b2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ef4dc3bf6d1cc728",
+    "canonical_url": "https://openai.com/index/introducing-admin-plugin",
+    "dedupe_key": "cca59166834e0c3a",
+    "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+    "issue_date": "2026-08-26",
+    "cluster_id": "openai_com_4e2fa6b8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_447847c372594d63",
+    "canonical_url": "https://www.langchain.com/blog/benchmarking-question-answering-over-csv-data",
+    "dedupe_key": "00ce56c82b6f5332",
+    "title": "Benchmarking Question/Answering Over CSV Data",
+    "issue_date": "2026-08-26",
+    "cluster_id": "langchain_com_c0e3210a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_29fb8c4a3530732e",
+    "canonical_url": "https://www.langchain.com/blog/announcing-our-10m-seed-round-led-by-benchmark",
+    "dedupe_key": "becd7d88cf945f33",
+    "title": "Announcing our $10M seed round led by Benchmark",
+    "issue_date": "2026-08-26",
+    "cluster_id": "langchain_com_afccd996",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0bd673e1768cc345",
+    "canonical_url": "https://www.langchain.com/blog/plan-and-execute-agents",
+    "dedupe_key": "657c83cf5ddeca2b",
+    "title": "Plan-and-Execute Agents",
+    "issue_date": "2026-08-26",
+    "cluster_id": "langchain_com_1feb6762",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f16f1b0f655896cc",
+    "canonical_url": "https://www.langchain.com/blog/multi-modal-rag-template",
+    "dedupe_key": "7a6f6299dccb3ead",
+    "title": "Multi-modal RAG on slide decks",
+    "issue_date": "2026-08-26",
+    "cluster_id": "langchain_com_228f6dd2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3dff2ccc3a9e8933",
+    "canonical_url": "https://www.langchain.com/blog/structured-tools",
+    "dedupe_key": "47d43b6ed556f2d6",
+    "title": "Structured Tools",
+    "issue_date": "2026-08-26",
+    "cluster_id": "langchain_com_9ac68350",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6fa57738ec8f8009",
+    "canonical_url": "https://www.langchain.com/blog/using-skills-with-deep-agents",
+    "dedupe_key": "22db3ec963f69104",
+    "title": "Using skills with Deep Agents",
+    "issue_date": "2026-08-26",
+    "cluster_id": "langchain_com_d5e6ab89",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f525ef198f88f25a",
+    "canonical_url": "https://developer.nvidia.com/blog/restore-llm-inference-capacity-in-seconds-with-shadow-engine-recovery-in-nvidia-dynamo",
+    "dedupe_key": "00b7e3315163c2aa",
+    "title": "Restore LLM Inference Capacity in Seconds with Shadow Engine Recovery in NVIDIA Dynamo",
+    "issue_date": "2026-08-26",
+    "cluster_id": "developer_nvidia_com_a80645e9",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_de2d292b5becde3a",
+    "canonical_url": "https://developer.nvidia.com/blog/cuda-python-1-0-stable-apis-one-foundation-full-platform-access",
+    "dedupe_key": "f2f49105de25b472",
+    "title": "CUDA Python 1.0: Stable APIs, One Foundation, Full Platform Access",
+    "issue_date": "2026-08-26",
+    "cluster_id": "developer_nvidia_com_7d5f6916",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1c34fbb879c8a72f",
+    "canonical_url": "https://vercel.com/blog/introducing-run",
+    "dedupe_key": "99bcca5e1290770d",
+    "title": "Introducing Run SDK: secure eval for your agents",
+    "issue_date": "2026-08-26",
+    "cluster_id": "vercel_com_ac6706db",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2f8f2bc70f393439",
+    "canonical_url": "https://vercel.com/changelog/vercel-connect-now-supports-linq",
+    "dedupe_key": "cc90ebf5546226e7",
+    "title": "Vercel Connect now supports Linq",
+    "issue_date": "2026-08-26",
+    "cluster_id": "vercel_com_9585cc7c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_759f1334beb3e1bb",
+    "canonical_url": "https://www.langchain.com/blog/making-data-ingestion-production-ready-a-langchain-powered-airbyte-destination",
+    "dedupe_key": "f09a7c4d3b9f0cfa",
+    "title": "Making Data Ingestion Production Ready: a LangChain-Powered Airbyte Destination",
+    "issue_date": "2026-08-26",
+    "cluster_id": "langchain_com_6f9f0092",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4ebf19727b583366",
+    "canonical_url": "https://vercel.com/changelog/speed-insights-free-tier",
+    "dedupe_key": "ace75b4f1f16c120",
+    "title": "Speed Insights now has a free tier",
+    "issue_date": "2026-08-26",
+    "cluster_id": "vercel_com_17b3e7c2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7fe76bd9ccada902",
+    "canonical_url": "https://www.langchain.com/blog/timescale-vector-x-langchain-making-postgresql-a-better-vector-database-for-ai-applications",
+    "dedupe_key": "9a519bddcd2cfc0e",
+    "title": "Timescale Vector x LangChain: Making PostgreSQL A Better Vector Database for AI Applications",
+    "issue_date": "2026-08-26",
+    "cluster_id": "langchain_com_e6369ca1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_cbf529414607e65d",
+    "canonical_url": "https://www.langchain.com/blog/langserve-playground-and-configurability",
+    "dedupe_key": "f6d113dfda02176e",
+    "title": "LangServe Playground and Configurability",
+    "issue_date": "2026-08-26",
+    "cluster_id": "langchain_com_14c90a87",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "title": "Exa joins the Vercel AI Gateway and Agent Marketplace",
-    "url": "https://vercel.com/changelog/exa-joins-vercel-ai-gateway-agent-marketplace",
-    "summary": "Exa is now available on the Vercel AI Gateway and Agent Marketplace as a native integration. Exa's neural search engine grounds models in current information. Exa search is now a built-in tool on AI Gateway , which runs the search for you without an Exa account of your own. You can also add Exa to a Vercel project from the Agent Marketplace to power search or a research agent, with a single API key that works across every Exa product and billing through your Vercel account. E",
+    "title": "25 August Engineering The end of credential sprawl for agents Vercel Connect, the secure connectivity layer for AI agents and apps, is now generally available. Hedi Zandi, Ben Sabic, and 1 other",
+    "url": "https://vercel.com/blog/the-end-of-credential-sprawl-for-agents",
+    "summary": "Blog - Vercel · 25 August Engineering The end of credential sprawl for agents Vercel Connect, the secure connectivity layer for AI agents and apps, is now generally available. Hedi Zandi, Ben Sabic, and 1 other",
     "tags": [
       "sdk",
       "ai_infra",
@@ -10,55 +10,27 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-08-25",
-    "score": 70
+    "date": "2026-08-26",
+    "score": 71
   },
   {
-    "title": "NVIDIA BlueField-4 Powers New Scale-In Network Infrastructure for Agentic AI Factories",
-    "url": "https://developer.nvidia.com/blog/nvidia-bluefield-4-powers-new-scale-in-network-infrastructure-for-agentic-ai-factories",
-    "summary": "NVIDIA Technical Blog · NVIDIA BlueField-4 Powers New Scale-In Network Infrastructure for Agentic AI Factories",
+    "title": "Bring your agent to Notion with Chat SDK",
+    "url": "https://vercel.com/changelog/notion-chat-sdk",
+    "summary": "Your team already works in Notion. Now your agent can too. With the new Notion adapter for Chat SDK, the same agent you run on Slack, Discord, GitHub, Teams, or WhatsApp can join comment discussions on your Notion pages, no separate codebase required. Each Notion page maps to a channel and each comment thread to a thread, so replies stay threaded automatically. The adapter supports mentions, message editing, conversation history, and up to three file attachments. By default, ",
     "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
+      "sdk",
+      "ai_infra",
+      "frontend"
     ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-08-25",
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-08-26",
     "score": 69
   },
   {
-    "title": "Solving Agentic AI Fleet Challenges with NVIDIA Vera CPU",
-    "url": "https://developer.nvidia.com/blog/solving-agentic-ai-fleet-challenges-with-nvidia-vera-cpu",
-    "summary": "NVIDIA Technical Blog · Solving Agentic AI Fleet Challenges with NVIDIA Vera CPU",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-08-25",
-    "score": 69
-  },
-  {
-    "title": "NVIDIA Vera Rubin and Blackwell Set a New Standard for Agentic AI Performance per Watt",
-    "url": "https://developer.nvidia.com/blog/nvidia-vera-rubin-and-blackwell-set-a-new-standard-for-agentic-ai-performance-per-watt",
-    "summary": "NVIDIA Technical Blog · NVIDIA Vera Rubin and Blackwell Set a New Standard for Agentic AI Performance per Watt",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-08-25",
-    "score": 69
-  },
-  {
-    "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
-    "url": "https://openai.com/index/gpt-5-6-in-kiro",
-    "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+    "title": "The full stack behind abundant intelligence",
+    "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+    "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
     "tags": [
       "ai_models",
       "official",
@@ -67,82 +39,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-08-25",
-    "score": 67
+    "date": "2026-08-26",
+    "score": 68
   },
   {
-    "title": "Your alt text passes automated checks. That doesn&#8217;t mean it&#8217;s any good.",
-    "url": "https://github.blog/engineering/user-experience/your-alt-text-passes-automated-checks-that-doesnt-mean-its-any-good",
-    "summary": "We built a plugin for the GitHub Accessibility Scanner to make sure your alt text is actually accessible. Here's how it works. The post Your alt text passes automated checks. That doesn&#8217;t mean it&#8217;s any good. appeared first on The GitHub Blog .",
-    "tags": [
-      "ai_coding",
-      "developer_tools"
-    ],
-    "author": "GitHub Copilot",
-    "source": "github.blog",
-    "date": "2026-08-25",
-    "score": 67
-  },
-  {
-    "title": "I spent $20,000 on Devin in a month. Here’s what I learned | Ryan Carson (solo founder)",
-    "url": "https://www.lennysnewsletter.com/p/i-spent-20000-on-devin-in-a-month",
-    "summary": "Watch now | &#127897;&#65039; Solo founder Ryan Carson runs 15 concurrent Devin agents to handle engineering, customer success, and investor updates, and he uses a handwritten list to keep it all straight",
-    "tags": [
-      "product",
-      "growth",
-      "startup"
-    ],
-    "author": "Lenny's Newsletter",
-    "source": "lennysnewsletter.com",
-    "date": "2026-08-25",
-    "score": 67
-  },
-  {
-    "title": "Giga-Scale AI and the Ethernet Evolution: How Spectrum-X Ethernet Rewrites the Rules",
-    "url": "https://developer.nvidia.com/blog/giga-scale-ai-ethernet-evolution-spectrum-x-ethernet-rewrites-rules",
-    "summary": "NVIDIA Technical Blog · Giga-Scale AI and the Ethernet Evolution: How Spectrum-X Ethernet Rewrites the Rules",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-08-25",
-    "score": 66
-  },
-  {
-    "title": "How NVIDIA Groq 3 LPX Unlocks Ultrafast Interactivity at Long Context on NVIDIA Vera Rubin",
-    "url": "https://developer.nvidia.com/blog/how-nvidia-groq-3-lpx-unlocks-ultrafast-interactivity-at-long-context-on-nvidia-vera-rubin",
-    "summary": "NVIDIA Technical Blog · How NVIDIA Groq 3 LPX Unlocks Ultrafast Interactivity at Long Context on NVIDIA Vera Rubin",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-08-25",
-    "score": 66
-  },
-  {
-    "title": "Environment variables now use Config and Secret types",
-    "url": "https://vercel.com/changelog/environment-variables-now-use-config-and-secret-types",
-    "summary": "When you add or edit an environment variable in Vercel, you now choose Config or Secret instead of using the Sensitive toggle. Config: The value remains readable after saving for members with access. Use Config for non-sensitive values you may need to inspect later, such as variables with a public framework prefix. Secret: The value remains available to your deployments and can be replaced, but members cannot view or retrieve it after saving. Use Secret for passwords, API key",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-08-25",
-    "score": 66
-  },
-  {
-    "title": "Toyota Scales Enterprise AI with Deep Agents and LangSmith",
-    "url": "https://www.langchain.com/blog/how-toyota-north-america-put-enterprise-ai-on-the-balance-sheet-with-deep-agents-and-langsmith",
-    "summary": "See how Toyota North America uses Deep Agents and LangSmith to run 50+ production agents, cut delivery from 6 months to 4 days, and track AI ROI.",
+    "title": "Automating Web Research",
+    "url": "https://www.langchain.com/blog/automating-web-research",
+    "summary": "Automate web research with LangChain's retriever. Run parallel searches, scrape pages, and synthesize information with LLMs—locally or in the cloud.",
     "tags": [
       "agents",
       "rag",
@@ -150,13 +53,170 @@
     ],
     "author": "LangChain",
     "source": "langchain.com",
-    "date": "2026-08-25",
+    "date": "2026-08-26",
+    "score": 68
+  },
+  {
+    "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+    "url": "https://openai.com/index/jalapeno-first-results",
+    "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-08-26",
+    "score": 67
+  },
+  {
+    "title": "Disrupting a new covert influence campaign from Russia",
+    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+    "summary": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-08-26",
+    "score": 67
+  },
+  {
+    "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+    "url": "https://openai.com/index/introducing-admin-plugin",
+    "summary": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-08-26",
+    "score": 67
+  },
+  {
+    "title": "Benchmarking Question/Answering Over CSV Data",
+    "url": "https://www.langchain.com/blog/benchmarking-question-answering-over-csv-data",
+    "summary": "Build better Q&A systems for CSV data using LangChain agents, retrieval, and LLM evaluation. Includes benchmarks, debugging insights, and open-source code.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-08-26",
+    "score": 67
+  },
+  {
+    "title": "Announcing our $10M seed round led by Benchmark",
+    "url": "https://www.langchain.com/blog/announcing-our-10m-seed-round-led-by-benchmark",
+    "summary": "LangChain secures $10M seed round from Benchmark to empower developers building AI apps with our open-source framework for data-aware, agentic LLMs.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-08-26",
+    "score": 67
+  },
+  {
+    "title": "Plan-and-Execute Agents",
+    "url": "https://www.langchain.com/blog/plan-and-execute-agents",
+    "summary": "Build reliable AI agents with Plan-and-Execute framework. Separate planning from execution for complex tasks with fewer errors.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-08-26",
+    "score": 67
+  },
+  {
+    "title": "Multi-modal RAG on slide decks",
+    "url": "https://www.langchain.com/blog/multi-modal-rag-template",
+    "summary": "Build multi-modal RAG apps for slide decks using GPT-4V. Compare approaches, evaluate with benchmarks, and deploy with LangChain templates for visual Q&A.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-08-26",
+    "score": 67
+  },
+  {
+    "title": "Structured Tools",
+    "url": "https://www.langchain.com/blog/structured-tools",
+    "summary": "Build powerful LangChain agents with Structured Tools. Accept multiple inputs, create complex tool schemas, and unlock advanced AI agent capabilities.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-08-26",
+    "score": 67
+  },
+  {
+    "title": "Using skills with Deep Agents",
+    "url": "https://www.langchain.com/blog/using-skills-with-deep-agents",
+    "summary": "Learn how to use agent skills with Deep Agents CLI to build token-efficient AI agents. Discover, load, and execute skills dynamically.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-08-26",
+    "score": 67
+  },
+  {
+    "title": "Restore LLM Inference Capacity in Seconds with Shadow Engine Recovery in NVIDIA Dynamo",
+    "url": "https://developer.nvidia.com/blog/restore-llm-inference-capacity-in-seconds-with-shadow-engine-recovery-in-nvidia-dynamo",
+    "summary": "NVIDIA Technical Blog · Restore LLM Inference Capacity in Seconds with Shadow Engine Recovery in NVIDIA Dynamo",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-08-26",
     "score": 66
   },
   {
-    "title": "Vercel Sandbox is now globally available",
-    "url": "https://vercel.com/changelog/vercel-sandbox-is-now-globally-available",
-    "summary": "Vercel Sandbox now runs globally, starting with four regions: iad1 (Washington, D.C.), sfo1 (San Francisco), cle1 (Cleveland), and cdg1 (Paris). iad1 remains the default. Support for all Vercel regions is coming soon. Choose a region close to the databases, object storage, and other services your sandboxes access to reduce latency. Region selection is available on all plans. Pro and Enterprise teams can also configure failover regions. If the primary region is unavailable, ne",
+    "title": "CUDA Python 1.0: Stable APIs, One Foundation, Full Platform Access",
+    "url": "https://developer.nvidia.com/blog/cuda-python-1-0-stable-apis-one-foundation-full-platform-access",
+    "summary": "NVIDIA Technical Blog · CUDA Python 1.0: Stable APIs, One Foundation, Full Platform Access",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-08-26",
+    "score": 66
+  },
+  {
+    "title": "Introducing Run SDK: secure eval for your agents",
+    "url": "https://vercel.com/blog/introducing-run",
+    "summary": "Agents increasingly write TypeScript programs to coordinate tools and process their results. Once those programs touch real applications, some steps require authentication, while others need human approval. Executing that code with eval gives it the same access as the application around it, including its secrets and internal services, and leaves no durable way to pause at those boundaries. Today, we're releasing the Run SDK , a package for executing untrusted JavaScript and T",
     "tags": [
       "sdk",
       "ai_infra",
@@ -164,13 +224,13 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-08-25",
-    "score": 63
+    "date": "2026-08-26",
+    "score": 66
   },
   {
-    "title": "Bun runtime now supports large functions and extended max duration",
-    "url": "https://vercel.com/changelog/bun-runtime-now-supports-large-functions-and-extended-max-duration",
-    "summary": "The Bun runtime on Vercel Functions now supports larger package sizes up to 5GB uncompressed and extended max duration for up to 30 minutes, two betas that previously ran on Node.js and Python only. Large functions raise the standard 250MB package size limit to 5GB, and extended max duration raises the generally available 800-second ceiling to 1800 seconds for Pro and Enterprise teams. Both features require Fluid compute to be enabled. New projects are enrolled in the large f",
+    "title": "Vercel Connect now supports Linq",
+    "url": "https://vercel.com/changelog/vercel-connect-now-supports-linq",
+    "summary": "Vercel Connect now includes a managed connector for Linq , so your apps and agents can send and receive messages over iMessage, RCS, and SMS. As a Vercel Managed Connector , Vercel can create a Linq account and phone number for you, or link an existing account. You never manage credentials yourself. Create a connector from the dashboard or Vercel CLI : Give your eve agent a phone number The connector powers the new Linq channel in eve . Run eve add channel/linq , choose Verce",
     "tags": [
       "sdk",
       "ai_infra",
@@ -178,13 +238,27 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-08-25",
-    "score": 63
+    "date": "2026-08-26",
+    "score": 66
   },
   {
-    "title": "Vercel Python Queues SDK is now available in beta",
-    "url": "https://vercel.com/changelog/vercel-python-queues-sdk-is-now-available-in-beta",
-    "summary": "The Python SDK for Vercel Queues is now available in beta, bringing first-class Python support for running background workloads on Vercel. You publish messages to topics, and independent consumer groups process them in parallel with automatic retries, sharding, and delivery guarantees. Messages can be enqueued or consumed from either JavaScript or Python, meaning a Next.js producer can fan out to both Next.js and Python queue consumers. Publish a message from your Python API:",
+    "title": "Making Data Ingestion Production Ready: a LangChain-Powered Airbyte Destination",
+    "url": "https://www.langchain.com/blog/making-data-ingestion-production-ready-a-langchain-powered-airbyte-destination",
+    "summary": "Scale retrieval apps to production with LangChain's Airbyte integration. Automate data ingestion with scheduling, text splitting, and 50+ embeddings.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-08-26",
+    "score": 66
+  },
+  {
+    "title": "Speed Insights now has a free tier",
+    "url": "https://vercel.com/changelog/speed-insights-free-tier",
+    "summary": "Speed Insights now has a free tier that gives you a high-level performance overview from your real users. The new free tier: Is available on every plan, for any number of projects Includes 10,000 events per team, every 30 days Install Speed Insights: Previously, free Speed Insights was limited to a single project on Hobby, and upgrading to Pro meant losing access unless you paid for the add-on. Now your free tier carries over, and you only pay if you upgrade. The paid product",
     "tags": [
       "sdk",
       "ai_infra",
@@ -192,102 +266,35 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-08-25",
-    "score": 63
+    "date": "2026-08-26",
+    "score": 65
   },
   {
-    "title": "Autonomy and Innovation",
-    "url": "https://stratechery.com/2026/autonomy-and-innovation",
-    "summary": "Incentives favor offense when it comes to agentic cybersecurity; it's the same dynamic that will limit incumbents and fuel startups in the long run.",
+    "title": "Timescale Vector x LangChain: Making PostgreSQL A Better Vector Database for AI Applications",
+    "url": "https://www.langchain.com/blog/timescale-vector-x-langchain-making-postgresql-a-better-vector-database-for-ai-applications",
+    "summary": "Build faster AI apps with Timescale Vector for LangChain. Get 243% faster similarity search, time-based RAG, and PostgreSQL simplicity. Free 90-day trial.",
     "tags": [
-      "strategy",
-      "tech",
-      "business"
+      "agents",
+      "rag",
+      "framework"
     ],
-    "author": "Stratechery",
-    "source": "stratechery.com",
-    "date": "2026-08-25",
-    "score": 62
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-08-26",
+    "score": 65
   },
   {
-    "title": "🎙️ How I AI: Grok Bot + Grok 4.6—what’s great (and what’s still hype) & Lessons from spending $20,000 on Devin in one month",
-    "url": "https://www.lennysnewsletter.com/p/how-i-ai-grok-bot-grok-46whats-great",
-    "summary": "Your weekly listens from How I AI, part of the Lenny&#8217;s Podcast Network",
+    "title": "LangServe Playground and Configurability",
+    "url": "https://www.langchain.com/blog/langserve-playground-and-configurability",
+    "summary": "Deploy LangChain apps with LangServe's playground UI and configurable parameters. Experiment with models, share with teams, stream in real-time.",
     "tags": [
-      "product",
-      "growth",
-      "startup"
+      "agents",
+      "rag",
+      "framework"
     ],
-    "author": "Lenny's Newsletter",
-    "source": "lennysnewsletter.com",
-    "date": "2026-08-25",
-    "score": 62
-  },
-  {
-    "title": "How to encourage smarter AI use in the classroom",
-    "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies",
-    "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. Suddenly, students carried an app in their phones that could magically answer almost any&#8230;",
-    "tags": [
-      "ai",
-      "research",
-      "society"
-    ],
-    "author": "MIT Technology Review AI",
-    "source": "technologyreview.com",
-    "date": "2026-08-25",
-    "score": 61
-  },
-  {
-    "title": "Kids outlearn AI—and we still don&#8217;t know why",
-    "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning",
-    "summary": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child.&#160; Now there are two.&#160; Four short years after the release of ChatGPT,&#8230;",
-    "tags": [
-      "ai",
-      "research",
-      "society"
-    ],
-    "author": "MIT Technology Review AI",
-    "source": "technologyreview.com",
-    "date": "2026-08-25",
-    "score": 61
-  },
-  {
-    "title": "Mistral x HUMAIN",
-    "url": "https://mistral.ai/news/mistral-x-humain",
-    "summary": "Latest news | Mistral · Mistral x HUMAIN",
-    "tags": [
-      "open_model",
-      "european_ai"
-    ],
-    "author": "Mistral AI",
-    "source": "mistral.ai",
-    "date": "2026-08-25",
-    "score": 60
-  },
-  {
-    "title": "Mistral AI Fine-tuning Hackathon",
-    "url": "https://mistral.ai/news/2024-ft-hackathon",
-    "summary": "We are thrilled to announce the Mistral AI fine-tuning hackathon, a virtual experience taking place from June 5 - 30, 2024.",
-    "tags": [
-      "open_model",
-      "european_ai"
-    ],
-    "author": "Mistral AI",
-    "source": "mistral.ai",
-    "date": "2026-08-25",
-    "score": 60
-  },
-  {
-    "title": "Codestral",
-    "url": "https://mistral.ai/news/codestral",
-    "summary": "Codestral 是 Mistral AI 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_model",
-      "european_ai"
-    ],
-    "author": "Mistral AI",
-    "source": "mistral.ai",
-    "date": "2026-08-25",
-    "score": 60
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-08-26",
+    "score": 65
   }
 ]
