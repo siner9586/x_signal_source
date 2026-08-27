@@ -17306,5 +17306,215 @@
     "cluster_id": "developer_nvidia_com_7209c868",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_170e4497138038a8",
+    "canonical_url": "https://developer.nvidia.com/blog/experiment-with-qwen3-8-flash-next-on-nvidia-gb300-nvl72-for-agentic-coding",
+    "dedupe_key": "f43e68315eefb446",
+    "title": "Experiment with Qwen3.8-Flash-Next on NVIDIA GB300 NVL72 for Agentic Coding",
+    "issue_date": "2026-08-28",
+    "cluster_id": "developer_nvidia_com_2437d36a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2e04baadca542137",
+    "canonical_url": "https://github.blog/open-source/maintainers/openclaw-went-viral-meet-the-maintainers-building-and-securing-it",
+    "dedupe_key": "c61361737d003341",
+    "title": "OpenClaw went viral. Meet the maintainers building and securing it.",
+    "issue_date": "2026-08-28",
+    "cluster_id": "github_blog_0b64c868",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_41d5aab30dd86c86",
+    "canonical_url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations",
+    "dedupe_key": "935924b0c975d141",
+    "title": "Piloting the world's first double-blind AI evaluations",
+    "issue_date": "2026-08-28",
+    "cluster_id": "deepmind_google_91d0de1d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c718d401c46b5fb4",
+    "canonical_url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+    "dedupe_key": "27b1c0ef741210f2",
+    "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+    "issue_date": "2026-08-28",
+    "cluster_id": "openai_com_9272bccd",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a0004a6f134a0586",
+    "canonical_url": "https://openai.com/index/expanding-our-presence-in-brazil",
+    "dedupe_key": "ae493acff8ec1b49",
+    "title": "Expanding OpenAI’s presence in Brazil",
+    "issue_date": "2026-08-28",
+    "cluster_id": "openai_com_4df73568",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4264fb2ac74cbd9b",
+    "canonical_url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control",
+    "dedupe_key": "5cc5a72afd507bbf",
+    "title": "Gemini Omni 1.1 Flash lets you build with more control",
+    "issue_date": "2026-08-28",
+    "cluster_id": "deepmind_google_572157be",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5f360626ede1817a",
+    "canonical_url": "https://huggingface.co/blog/FINAL-Bench/leadboard-drug",
+    "dedupe_key": "4097a44d16025dec",
+    "title": "We changed one line and the benchmark score moved 0.21 AUROC FINAL-Bench • 5 days ago • 11",
+    "issue_date": "2026-08-28",
+    "cluster_id": "huggingface_co_088f46d7",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b54b08ea1e3263da",
+    "canonical_url": "https://www.langchain.com/blog/langchain-second-birthday",
+    "dedupe_key": "70d49391ebfb6dcf",
+    "title": "LangChain's Second Birthday",
+    "issue_date": "2026-08-28",
+    "cluster_id": "langchain_com_dc4bd6af",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_79191d0f79473c31",
+    "canonical_url": "https://www.langchain.com/blog/langchain-state-of-ai-2024",
+    "dedupe_key": "82cd5f341f8bb880",
+    "title": "LangChain State of AI 2024 Report",
+    "issue_date": "2026-08-28",
+    "cluster_id": "langchain_com_c3d34ab9",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_030a3bb07db9c404",
+    "canonical_url": "https://www.langchain.com/blog/january-2026-langchain-newsletter",
+    "dedupe_key": "262e59a2561709b7",
+    "title": "January 2026: LangChain Newsletter",
+    "issue_date": "2026-08-28",
+    "cluster_id": "langchain_com_7ac244f7",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_52e6c7bb2dbba6c2",
+    "canonical_url": "https://www.langchain.com/blog/qdrant-x-langchain-endgame-performance",
+    "dedupe_key": "9fb56c0f6a77736f",
+    "title": "Qdrant x LangChain: Endgame Performance",
+    "issue_date": "2026-08-28",
+    "cluster_id": "langchain_com_8d4d89aa",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f51108795b0d4504",
+    "canonical_url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face",
+    "dedupe_key": "50bb3104b5ed7f37",
+    "title": "The inside story on why OpenAI agents hacked Hugging Face",
+    "issue_date": "2026-08-28",
+    "cluster_id": "technologyreview_com_da02a3e1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_db0734a9306db29c",
+    "canonical_url": "https://www.langchain.com/blog/august-2026-langchain-newsletter",
+    "dedupe_key": "2de786de05db1fe2",
+    "title": "August 2026: LangChain Newsletter — Managed Deep Agents, LLM Gateway, and More",
+    "issue_date": "2026-08-28",
+    "cluster_id": "langchain_com_0f2da7d9",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_58dd49b8fd7f36e6",
+    "canonical_url": "https://www.langchain.com/blog/langsmith-llm-gateway-runtime-controls-for-production-agents",
+    "dedupe_key": "c51508009faa8760",
+    "title": "LangSmith LLM Gateway: Runtime Controls for Agents",
+    "issue_date": "2026-08-28",
+    "cluster_id": "langchain_com_9b3b2e89",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0d7858dbe4ab6c8e",
+    "canonical_url": "https://www.langchain.com/blog/customers-podium",
+    "dedupe_key": "7b1add21ad174cdc",
+    "title": "How Podium optimized agent behavior and reduced engineering intervention by 90% with LangSmith",
+    "issue_date": "2026-08-28",
+    "cluster_id": "langchain_com_e4c76cb8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_24f8ab97629dd992",
+    "canonical_url": "https://www.langchain.com/blog/three-years-langchain",
+    "dedupe_key": "41be3ea05f642419",
+    "title": "Reflections on Three Years of Building LangChain",
+    "issue_date": "2026-08-28",
+    "cluster_id": "langchain_com_b892b698",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_10d5cdf5d08ba6a2",
+    "canonical_url": "https://www.langchain.com/blog/rebuilding-chat-langchain",
+    "dedupe_key": "95de53f399ff8a9a",
+    "title": "Why We Rebuilt LangChain’s Chatbot and What We Learned",
+    "issue_date": "2026-08-28",
+    "cluster_id": "langchain_com_94c909ef",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_652655acad4e2de8",
+    "canonical_url": "https://www.langchain.com/blog/series-b",
+    "dedupe_key": "7d71e3396ba20138",
+    "title": "LangChain raises $125M to build the platform for agent engineering",
+    "issue_date": "2026-08-28",
+    "cluster_id": "langchain_com_01b63142",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f6d4731d53c7ab27",
+    "canonical_url": "https://www.langchain.com/blog/proving-the-roi-of-agentic-ai-in-financial-services",
+    "dedupe_key": "1c14cb7f2c1a2e55",
+    "title": "Proving Agentic AI ROI in Financial Services | LangChain",
+    "issue_date": "2026-08-28",
+    "cluster_id": "langchain_com_a644196a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5fe9a9328bfd367b",
+    "canonical_url": "https://www.langchain.com/blog/how-candidly-built-state-aware-agent-harnesses-with-langsmith",
+    "dedupe_key": "904b0f0c7eafa5ee",
+    "title": "How Candidly Built State-Aware Agent Harnesses in LangSmith",
+    "issue_date": "2026-08-28",
+    "cluster_id": "langchain_com_9d3cea3d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b6c728b7b5ccbc3b",
+    "canonical_url": "https://www.langchain.com/blog/how-we-built-langsmith-engine-our-agent-for-improving-agents",
+    "dedupe_key": "2c105ee9cf96fe4c",
+    "title": "LangSmith Engine: How We Built an Agent for Improving Agents",
+    "issue_date": "2026-08-28",
+    "cluster_id": "langchain_com_3a5f5513",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]

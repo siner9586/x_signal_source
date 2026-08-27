@@ -1,8 +1,8 @@
 [
   {
-    "title": "Experiment with Qwen3.8-Flash-Next 176B Model on NVIDIA GB300 NVL72 for Agentic Coding",
-    "url": "https://developer.nvidia.com/blog/experiment-with-qwen3-8-flash-next-176b-model-on-nvidia-gb300-nvl72-for-agentic-coding",
-    "summary": "NVIDIA Technical Blog · Experiment with Qwen3.8-Flash-Next 176B Model on NVIDIA GB300 NVL72 for Agentic Coding",
+    "title": "Experiment with Qwen3.8-Flash-Next on NVIDIA GB300 NVL72 for Agentic Coding",
+    "url": "https://developer.nvidia.com/blog/experiment-with-qwen3-8-flash-next-on-nvidia-gb300-nvl72-for-agentic-coding",
+    "summary": "NVIDIA Technical Blog · Experiment with Qwen3.8-Flash-Next on NVIDIA GB300 NVL72 for Agentic Coding",
     "tags": [
       "gpu",
       "inference",
@@ -10,324 +10,26 @@
     ],
     "author": "NVIDIA AI",
     "source": "developer.nvidia.com",
-    "date": "2026-08-27",
+    "date": "2026-08-28",
     "score": 72
   },
   {
-    "title": "How to Train a Cross-Embodiment Robot Navigation Policy with AI Agents",
-    "url": "https://developer.nvidia.com/blog/how-to-train-a-cross-embodiment-robot-navigation-policy-with-ai-agents",
-    "summary": "NVIDIA Technical Blog · How to Train a Cross-Embodiment Robot Navigation Policy with AI Agents",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-08-27",
-    "score": 71
-  },
-  {
-    "title": "GLM 5.3 Flash now available on AI Gateway",
-    "url": "https://vercel.com/changelog/glm-5-3-flash-now-available-on-ai-gateway",
-    "summary": "GLM 5.3 Flash from Z.ai is now available on AI Gateway. GLM-5.3 Flash is a multimodal model that supports text and vision input, with a 1M token context window. It supports function calling, structured output, and streaming. To use GLM-5.3 Flash, set model to zai/glm-5.3-flash : You can also pass images alongside text in a message. URLs and Base64 data URLs both work, and a request can include multiple images: To use it in a coding agent , run vercel ai-gateway coding-agents ",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-08-27",
-    "score": 71
-  },
-  {
-    "title": "Build an Auditable VC Research Agent with Perplexity",
-    "url": "https://www.langchain.com/blog/build-an-auditable-vc-research-agent-with-the-perplexity-agent-api-langgraph-and-langsmith",
-    "summary": "Build a VC research agent that drafts a cited investment memo in about 90 seconds for $0.40, using the Perplexity Agent API, LangGraph, and LangSmith evals.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-08-27",
-    "score": 70
-  },
-  {
-    "title": "Meet Connery: An Open-Source Plugin Infrastructure for OpenGPTs and LLM apps",
-    "url": "https://www.langchain.com/blog/meet-connery-an-open-source-plugin-infrastructure-for-opengpts-and-llm-apps",
-    "summary": "Discover Connery: open-source plugin infrastructure for LLM apps. Secure integrations, personalization, and human-in-the-loop control for AI agents.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-08-27",
-    "score": 70
-  },
-  {
-    "title": "Introducing Intelligence Age",
-    "url": "https://openai.com/index/introducing-intelligence-age",
-    "summary": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-08-27",
-    "score": 69
-  },
-  {
-    "title": "Qwen 3.8 Flash now available on AI Gateway",
-    "url": "https://vercel.com/changelog/qwen-3-8-flash-now-available-on-ai-gateway",
-    "summary": "Qwen 3.8 Flash from Alibaba is now available on AI Gateway. It takes text and images as input, serves a context window of 1 million tokens, and can return up to 65k tokens in a response. Alibaba recommends it for coding, tool use, and multi-step agent workflows. To use Qwen3.8-Flash, set model to alibaba/qwen3.8-flash in the AI SDK : To use it in a coding agent, see the coding agents guide , then run vercel ai-gateway coding-agents setup to connect agents like Claude Code, Co",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-08-27",
-    "score": 69
-  },
-  {
-    "title": "Vercel Security Dashboard is now generally available",
-    "url": "https://vercel.com/changelog/vercel-security-dashboard-is-now-generally-available",
-    "summary": "The Vercel Security Dashboard is now generally available on all plans, giving you one place to see your security posture across every account and project. You can access the Security Dashboard in the UI or run vercel security check in the Vercel CLI. As teams grow and coding agents make it faster to spin up projects, small misconfigurations add up quietly. The Security Dashboard automatically flags issues like: Team members without 2FA Long-lived credentials that can be repla",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-08-27",
-    "score": 69
-  },
-  {
-    "title": "How loveholidays is making everyone a builder with Codex",
-    "url": "https://openai.com/index/loveholidays",
-    "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-08-27",
-    "score": 68
-  },
-  {
-    "title": "How to evaluate LLMs before production",
-    "url": "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production",
-    "summary": "These are the lessons we learned evaluating LLMs for real-world secret scanning. The post How to evaluate LLMs before production appeared first on The GitHub Blog .",
+    "title": "OpenClaw went viral. Meet the maintainers building and securing it.",
+    "url": "https://github.blog/open-source/maintainers/openclaw-went-viral-meet-the-maintainers-building-and-securing-it",
+    "summary": "OpenClaw is the fastest-growing project in GitHub history. Peter Steinberger and several maintainers share what they learned in the project's first six months. The post OpenClaw went viral. Meet the maintainers building and securing it. appeared first on The GitHub Blog .",
     "tags": [
       "ai_coding",
       "developer_tools"
     ],
     "author": "GitHub Copilot",
     "source": "github.blog",
-    "date": "2026-08-27",
-    "score": 68
+    "date": "2026-08-28",
+    "score": 69
   },
   {
-    "title": "Announcing LangGraph v0.1 & LangGraph Cloud: Running agents at scale, reliably",
-    "url": "https://www.langchain.com/blog/langgraph-cloud",
-    "summary": "Our new infrastructure for running agents at scale, LangGraph Cloud, is available in beta. We also have a new stable release of LangGraph.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-08-27",
-    "score": 68
-  },
-  {
-    "title": "Evaluating OpenWiki with WikiBench",
-    "url": "https://www.langchain.com/blog/evaluating-openwiki-with-wikibench",
-    "summary": "We built WikiBench to test whether generated wikis help coding agents. Pairing a wiki with source code scored higher than source alone, at lower cost.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-08-27",
-    "score": 68
-  },
-  {
-    "title": "LangChain Announces Enterprise Agentic AI Platform Built with NVIDIA",
-    "url": "https://www.langchain.com/blog/nvidia-enterprise",
-    "summary": "Build, deploy, and monitor production-grade AI agents at scale with LangChain's enterprise agentic AI platform integrated with NVIDIA.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-08-27",
-    "score": 68
-  },
-  {
-    "title": "How to design an Agent for Production",
-    "url": "https://www.langchain.com/blog/how-to-design-an-agent-for-production",
-    "summary": "Build production-ready AI agents with LangChain. Technical guide covering OpenAI functions, tools, prompts, and architecture for Cal.ai's scheduling assistant.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-08-27",
-    "score": 68
-  },
-  {
-    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-    "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-    "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-08-27",
-    "score": 67
-  },
-  {
-    "title": "Learning never stops: How AI makes learning continuous",
-    "url": "https://openai.com/index/learning-never-stops",
-    "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-08-27",
-    "score": 67
-  },
-  {
-    "title": "The Hugging Face incident and the road ahead",
-    "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
-    "summary": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-08-27",
-    "score": 67
-  },
-  {
-    "title": "GitHub Copilot app for Beginners: Automate Dependabot pull request triage",
-    "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage",
-    "summary": "Managing library updates can be tedious at times. Learn how the GitHub Copilot app can handle this type of repetitive task. The post GitHub Copilot app for Beginners: Automate Dependabot pull request triage appeared first on The GitHub Blog .",
-    "tags": [
-      "ai_coding",
-      "developer_tools"
-    ],
-    "author": "GitHub Copilot",
-    "source": "github.blog",
-    "date": "2026-08-27",
-    "score": 67
-  },
-  {
-    "title": "Introducing Interrupt: The AI Agent Conference by LangChain",
-    "url": "https://www.langchain.com/blog/introducing-interrupt-langchain-conference",
-    "summary": "Join us this May at Interrupt, LangChain’s inaugural conference where the future of AI agents takes center stage.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-08-27",
-    "score": 67
-  },
-  {
-    "title": "AI Agent Latency 101: How do I speed up my AI agent?",
-    "url": "https://www.langchain.com/blog/how-do-i-speed-up-my-agent",
-    "summary": "Learn proven strategies to speed up your AI agent: reduce latency, optimize LLM calls, enable parallelism, and improve UX. Expert tips from LangChain.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-08-27",
-    "score": 67
-  },
-  {
-    "title": "Wiki Memory: File-Based Memory for AI Agents | LangChain",
-    "url": "https://www.langchain.com/blog/wiki-memory",
-    "summary": "Wiki memory uses an agent to compress raw data into a persistent, file-based knowledge base. How it differs from RAG, real examples, and when to use it.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-08-27",
-    "score": 67
-  },
-  {
-    "title": "EU Macroeconomic Analysis with Deep Agents and You.com",
-    "url": "https://www.langchain.com/blog/financial-ai-that-investigates-macro-trends-eu-economic-analysis-with-you-com-and-langchain",
-    "summary": "A Deep Agents research agent analyzes GDP across all 27 EU states, flags outliers like Ireland and Germany, and writes a cited briefing in about 45 minutes.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-08-27",
-    "score": 67
-  },
-  {
-    "title": "Building a company due diligence Agent with Deep Agents",
-    "url": "https://www.langchain.com/blog/building-a-company-due-diligence-agent-with-deep-agents-langsmith-and-parallel",
-    "summary": "A cookbook for automating company due diligence: Deep Agents orchestrates five research subagents and Parallel's Task API returns cited, sourced findings.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-08-27",
-    "score": 67
-  },
-  {
-    "title": "Intelligent transcription with Gemini 3.5 Transcribe",
-    "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe",
-    "summary": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
+    "title": "Piloting the world's first double-blind AI evaluations",
+    "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations",
+    "summary": "Piloting the world's first double-blind AI evaluations",
     "tags": [
       "research",
       "multimodal",
@@ -336,21 +38,262 @@
     ],
     "author": "Google DeepMind",
     "source": "deepmind.google",
-    "date": "2026-08-27",
+    "date": "2026-08-28",
+    "score": 68
+  },
+  {
+    "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+    "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+    "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-08-28",
+    "score": 67
+  },
+  {
+    "title": "Expanding OpenAI’s presence in Brazil",
+    "url": "https://openai.com/index/expanding-our-presence-in-brazil",
+    "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-08-28",
+    "score": 67
+  },
+  {
+    "title": "Gemini Omni 1.1 Flash lets you build with more control",
+    "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control",
+    "summary": "Gemini Omni 1.1 Flash lets you build with more control 是 Google DeepMind 当日抓取到的公开新增条目。",
+    "tags": [
+      "research",
+      "multimodal",
+      "science",
+      "official"
+    ],
+    "author": "Google DeepMind",
+    "source": "deepmind.google",
+    "date": "2026-08-28",
     "score": 66
   },
   {
-    "title": "NVIDIA NVLink Fusion Brings NVHBM to Next-Generation AI Infrastructure",
-    "url": "https://developer.nvidia.com/blog/nvidia-nvlink-fusion-brings-nvhbm-to-next-generation-ai-infrastructure",
-    "summary": "NVIDIA Technical Blog · NVIDIA NVLink Fusion Brings NVHBM to Next-Generation AI Infrastructure",
+    "title": "We changed one line and the benchmark score moved 0.21 AUROC FINAL-Bench • 5 days ago • 11",
+    "url": "https://huggingface.co/blog/FINAL-Bench/leadboard-drug",
+    "summary": "Hugging Face – Blog · We changed one line and the benchmark score moved 0.21 AUROC FINAL-Bench • 5 days ago • 11",
     "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
+      "open_source",
+      "papers",
+      "models"
     ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-08-27",
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-08-28",
     "score": 66
+  },
+  {
+    "title": "LangChain's Second Birthday",
+    "url": "https://www.langchain.com/blog/langchain-second-birthday",
+    "summary": "Reflections on how LangChain has evolved — including our products, ecosystem, and community — over the past two years, and where we're headed next.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-08-28",
+    "score": 66
+  },
+  {
+    "title": "LangChain State of AI 2024 Report",
+    "url": "https://www.langchain.com/blog/langchain-state-of-ai-2024",
+    "summary": "Dive into LangSmith product usage patterns that show how the AI ecosystem and the way people are building LLM apps is evolving.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-08-28",
+    "score": 66
+  },
+  {
+    "title": "January 2026: LangChain Newsletter",
+    "url": "https://www.langchain.com/blog/january-2026-langchain-newsletter",
+    "summary": "Read about the latest product updates, events, and content from the LangChain team",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-08-28",
+    "score": 66
+  },
+  {
+    "title": "Qdrant x LangChain: Endgame Performance",
+    "url": "https://www.langchain.com/blog/qdrant-x-langchain-endgame-performance",
+    "summary": "Qdrant and LangChain deliver production-ready RAG performance with async support, optimized resource usage, and scalable vector search for LLM apps.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-08-28",
+    "score": 66
+  },
+  {
+    "title": "The inside story on why OpenAI agents hacked Hugging Face",
+    "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face",
+    "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were stuck on, has confirmed some experts’&#8230;",
+    "tags": [
+      "ai",
+      "research",
+      "society"
+    ],
+    "author": "MIT Technology Review AI",
+    "source": "technologyreview.com",
+    "date": "2026-08-28",
+    "score": 66
+  },
+  {
+    "title": "August 2026: LangChain Newsletter — Managed Deep Agents, LLM Gateway, and More",
+    "url": "https://www.langchain.com/blog/august-2026-langchain-newsletter",
+    "summary": "Managed Deep Agents and LLM Gateway hit public beta, plus Deep Agents v0.7, Tuned Evaluators, Bring Your Own Cloud on AWS, and LangSmith Engine upgrades.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-08-28",
+    "score": 65
+  },
+  {
+    "title": "LangSmith LLM Gateway: Runtime Controls for Agents",
+    "url": "https://www.langchain.com/blog/langsmith-llm-gateway-runtime-controls-for-production-agents",
+    "summary": "LangSmith LLM Gateway is in public beta: spend caps, rate limits, model fallbacks and PII redaction for production agents, without provider lock-in.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-08-28",
+    "score": 65
+  },
+  {
+    "title": "How Podium optimized agent behavior and reduced engineering intervention by 90% with LangSmith",
+    "url": "https://www.langchain.com/blog/customers-podium",
+    "summary": "See how Podium tests across the lifecycle development of their AI employee agent, using LangSmith for dataset curation and finetuning. They improved agent F1 response quality to 98% and reduced the need for engineering intervention by 90%.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-08-28",
+    "score": 65
+  },
+  {
+    "title": "Reflections on Three Years of Building LangChain",
+    "url": "https://www.langchain.com/blog/three-years-langchain",
+    "summary": "Harrison Chase on LangChain's 3-year journey from open source to $1.25B company, announcing LangChain 1.0, LangSmith expansion, and $125M funding.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-08-28",
+    "score": 65
+  },
+  {
+    "title": "Why We Rebuilt LangChain’s Chatbot and What We Learned",
+    "url": "https://www.langchain.com/blog/rebuilding-chat-langchain",
+    "summary": "Learn how LangChain rebuilt their chatbot using Deep Agents and subgraphs for sub-15-second responses with precise citations—and what you can apply.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-08-28",
+    "score": 65
+  },
+  {
+    "title": "LangChain raises $125M to build the platform for agent engineering",
+    "url": "https://www.langchain.com/blog/series-b",
+    "summary": "We raised $125M at a $1.25B valuation to build the platform for agent engineering.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-08-28",
+    "score": 65
+  },
+  {
+    "title": "Proving Agentic AI ROI in Financial Services | LangChain",
+    "url": "https://www.langchain.com/blog/proving-the-roi-of-agentic-ai-in-financial-services",
+    "summary": "How to prove agentic AI ROI in financial services: business KPIs, cost tracking and governance for RFP and AML use cases, using LangSmith and Pay-i together.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-08-28",
+    "score": 65
+  },
+  {
+    "title": "How Candidly Built State-Aware Agent Harnesses in LangSmith",
+    "url": "https://www.langchain.com/blog/how-candidly-built-state-aware-agent-harnesses-with-langsmith",
+    "summary": "Candidly's agent Cait reads partial traces to infer user state mid-conversation and steer replies, using a LangSmith labeling pipeline at 92.3% human agreement.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-08-28",
+    "score": 65
+  },
+  {
+    "title": "LangSmith Engine: How We Built an Agent for Improving Agents",
+    "url": "https://www.langchain.com/blog/how-we-built-langsmith-engine-our-agent-for-improving-agents",
+    "summary": "A technical look at LangSmith Engine: how it analyzes traces at scale, turns recurring failures into actionable issues, and proposes evaluators and fixes.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-08-28",
+    "score": 65
   }
 ]
