@@ -1,8 +1,79 @@
 [
   {
-    "title": "Experiment with Qwen3.8-Flash-Next on NVIDIA GB300 NVL72 for Agentic Coding",
-    "url": "https://developer.nvidia.com/blog/experiment-with-qwen3-8-flash-next-on-nvidia-gb300-nvl72-for-agentic-coding",
-    "summary": "NVIDIA Technical Blog · Experiment with Qwen3.8-Flash-Next on NVIDIA GB300 NVL72 for Agentic Coding",
+    "title": "Previewing the Model Hardware Standard Announcements Aug 27, 2026 We’re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers.",
+    "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+    "summary": "Newsroom \\ Anthropic · Previewing the Model Hardware Standard Announcements Aug 27, 2026 We’re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers.",
+    "tags": [
+      "ai_models",
+      "safety",
+      "official"
+    ],
+    "author": "Anthropic",
+    "source": "anthropic.com",
+    "date": "2026-08-29",
+    "score": 71
+  },
+  {
+    "title": "Hy4 Preview now available on AI Gateway",
+    "url": "https://vercel.com/changelog/hy4-preview-now-available-on-ai-gateway",
+    "summary": "Hy4 Preview from Tencent is now available on AI Gateway. Hy4 Preview is an open-source Mixture-of-Experts model with 770B total parameters and 49B active per token, aimed at long-horizon coding, document analysis, game development, and scientific reasoning. It serves a context window of 1M tokens. To use Hy4 Preview, set model to tencent/hy4-preview in the AI SDK : To use it in a coding agent, see the coding agents guide , then run vercel ai-gateway coding-agents setup to con",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-08-29",
+    "score": 71
+  },
+  {
+    "title": "Cursor is now available in the AI SDK harness layer",
+    "url": "https://vercel.com/changelog/cursor-ai-sdk-harness-adapter",
+    "summary": "The AI SDK harness layer now supports Cursor through the official @ai-sdk/harness-cursor adapter. The harness layer lets your application run different coding agents through the same HarnessAgent interface, so you can switch agents without changing your application code. Pass cursor to HarnessAgent : Under the hood, the adapter uses @ai-sdk/harness-acp to connect Cursor to HarnessAgent through the Agent Client Protocol (ACP). Supported harnesses now include, in addition to Cu",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-08-29",
+    "score": 71
+  },
+  {
+    "title": "Supporting Thailand’s next generation of AI startups",
+    "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+    "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-08-29",
+    "score": 70
+  },
+  {
+    "title": "Ling 3.0 Flash Fin now available on AI Gateway for free",
+    "url": "https://vercel.com/changelog/ling-3-0-flash-fin-now-available-on-ai-gateway-for-free",
+    "summary": "Ling 3.0 Flash Fin from Inclusion AI is now available on AI Gateway and free to use through September 25. Ling 3.0 Flash Fin is a finance-focused version of Ling 3.0 Flash . It has a 256K-token context window, produces up to 32K output tokens, and supports reasoning and function calling. The model is designed for financial research and analysis, including multi-step workflows that user multiple tool calls before producing an answer. Choose a model ID based on what should happ",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-08-29",
+    "score": 69
+  },
+  {
+    "title": "Deploy an Open Model from Checkpoint to Inference in Two Commands with NVIDIA TensorRT Model Connect",
+    "url": "https://developer.nvidia.com/blog/deploy-an-open-model-from-checkpoint-to-inference-in-two-commands-with-nvidia-tensorrt-model-connect",
+    "summary": "NVIDIA Technical Blog · Deploy an Open Model from Checkpoint to Inference in Two Commands with NVIDIA TensorRT Model Connect",
     "tags": [
       "gpu",
       "inference",
@@ -10,86 +81,223 @@
     ],
     "author": "NVIDIA AI",
     "source": "developer.nvidia.com",
-    "date": "2026-08-28",
-    "score": 72
-  },
-  {
-    "title": "OpenClaw went viral. Meet the maintainers building and securing it.",
-    "url": "https://github.blog/open-source/maintainers/openclaw-went-viral-meet-the-maintainers-building-and-securing-it",
-    "summary": "OpenClaw is the fastest-growing project in GitHub history. Peter Steinberger and several maintainers share what they learned in the project's first six months. The post OpenClaw went viral. Meet the maintainers building and securing it. appeared first on The GitHub Blog .",
-    "tags": [
-      "ai_coding",
-      "developer_tools"
-    ],
-    "author": "GitHub Copilot",
-    "source": "github.blog",
-    "date": "2026-08-28",
-    "score": 69
-  },
-  {
-    "title": "Piloting the world's first double-blind AI evaluations",
-    "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations",
-    "summary": "Piloting the world's first double-blind AI evaluations",
-    "tags": [
-      "research",
-      "multimodal",
-      "science",
-      "official"
-    ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-08-28",
-    "score": 68
-  },
-  {
-    "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-    "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
-    "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-08-28",
-    "score": 67
-  },
-  {
-    "title": "Expanding OpenAI’s presence in Brazil",
-    "url": "https://openai.com/index/expanding-our-presence-in-brazil",
-    "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-08-28",
-    "score": 67
-  },
-  {
-    "title": "Gemini Omni 1.1 Flash lets you build with more control",
-    "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control",
-    "summary": "Gemini Omni 1.1 Flash lets you build with more control 是 Google DeepMind 当日抓取到的公开新增条目。",
-    "tags": [
-      "research",
-      "multimodal",
-      "science",
-      "official"
-    ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-08-28",
+    "date": "2026-08-29",
     "score": 66
   },
   {
-    "title": "We changed one line and the benchmark score moved 0.21 AUROC FINAL-Bench • 5 days ago • 11",
-    "url": "https://huggingface.co/blog/FINAL-Bench/leadboard-drug",
-    "summary": "Hugging Face – Blog · We changed one line and the benchmark score moved 0.21 AUROC FINAL-Bench • 5 days ago • 11",
+    "title": "Build and deploy eve agents from the Vercel dashboard",
+    "url": "https://vercel.com/changelog/build-and-deploy-eve-agents-from-the-vercel-dashboard",
+    "summary": "You can now create eve agents directly from the Vercel dashboard, giving you a deployed agent that you can chat with right away. The builder scaffolds the agent, creates a private Git repository with its files, and deploys it as a new Vercel project on your team. In a few clicks, you get a working agent, backed by a repo with code you can use to customize it. From the builder you can: Write the instructions that define the agent's identity Pick any model available through AI ",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-08-29",
+    "score": 66
+  },
+  {
+    "title": "Applying OpenAI's RAG Strategies",
+    "url": "https://www.langchain.com/blog/applying-openai-rag",
+    "summary": "Implement OpenAI's proven RAG strategies with LangChain. Explore query transformations, routing, post-processing, and evaluation methods for optimal retrieval.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-08-29",
+    "score": 65
+  },
+  {
+    "title": "Auto-Evaluator Opportunities",
+    "url": "https://www.langchain.com/blog/auto-evaluator-opportunities",
+    "summary": "Auto-evaluate LLM question-answer chains with LangChain's free tool. Generate test sets, grade answers, and optimize chain performance.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-08-29",
+    "score": 65
+  },
+  {
+    "title": "Introducing Airbyte sources within LangChain",
+    "url": "https://www.langchain.com/blog/introducing-airbyte-sources-within-langchain",
+    "summary": "Connect 300+ data sources to LangChain with Airbyte document loaders. Load from Stripe, Salesforce, Hubspot & more directly in Python.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-08-29",
+    "score": 65
+  },
+  {
+    "title": "Xata x LangChain: new vector store and memory store integrations",
+    "url": "https://www.langchain.com/blog/xata-x-langchain-new-vector-store-and-memory-store-integrations",
+    "summary": "Integrate Xata with LangChain for vector and memory storage. Build AI apps with PostgreSQL-powered data, hybrid search, and chat history.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-08-29",
+    "score": 65
+  },
+  {
+    "title": "Eden AI x LangChain: Harnessing LLMs, Embeddings, and AI",
+    "url": "https://www.langchain.com/blog/eden-ai-x-langchain",
+    "summary": "Access multiple LLMs, embeddings, and AI tools through Eden AI's LangChain integration. Unified API for text generation, OCR, speech-to-text, and more.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-08-29",
+    "score": 65
+  },
+  {
+    "title": "Kay x Cybersyn x LangChain: Embedding SEC Filings for RAG",
+    "url": "https://www.langchain.com/blog/kay-x-cybersyn-x-langchain",
+    "summary": "Retrieve context from SEC filings for RAG with Kay and Cybersyn's SEC Retriever on LangChain. Pre-embedded data, optimized retrieval, no setup required.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-08-29",
+    "score": 65
+  },
+  {
+    "title": "OpenAI's Bet on a Cognitive Architecture",
+    "url": "https://www.langchain.com/blog/openais-bet-on-a-cognitive-architecture",
+    "summary": "Why LangChain believes in open, customizable cognitive architectures over closed systems. Build reliable LLM agents with OpenGPTs and LangSmith.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-08-29",
+    "score": 65
+  },
+  {
+    "title": "LangChain State of AI 2023",
+    "url": "https://www.langchain.com/blog/langchain-state-of-ai-2023",
+    "summary": "Discover how developers build LLM applications in 2023. Insights on popular models, vectorstores, retrieval strategies, and testing methods from LangSmith.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-08-29",
+    "score": 65
+  },
+  {
+    "title": "Autonomous Agents & Agent Simulations",
+    "url": "https://www.langchain.com/blog/agents-round",
+    "summary": "Explore how LangChain implements autonomous agents like AutoGPT and BabyAGI. Learn about planning techniques, memory systems, and agent simulations.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-08-29",
+    "score": 65
+  },
+  {
+    "title": "Retrieval",
+    "url": "https://www.langchain.com/blog/retrieval",
+    "summary": "Build better AI apps with flexible retrieval methods in LangChain. Use any retriever—from semantic to hybrid—to create personalized ChatGPT for your data.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-08-29",
+    "score": 65
+  },
+  {
+    "title": "Cube x LangChain: Building AI experiences with LLMs and the semantic layer",
+    "url": "https://www.langchain.com/blog/cube-x-langchain-building-ai-experiences-with-llms-and-the-semantic-layer",
+    "summary": "Build AI-powered data experiences with Cube's semantic layer and LangChain. Prevent hallucinations, query in natural language, create conversational interfaces.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-08-29",
+    "score": 65
+  },
+  {
+    "title": "LangSmith Engine Improves Agent Issue Detection by 2x",
+    "url": "https://www.langchain.com/blog/new-in-langsmith-engine-2x-better-issue-detection",
+    "summary": "LangSmith Engine now detects agent issues over 2x better, proposes stronger fixes, supports Slack and Linear workflows, and is available for self-hosted deployments.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-08-29",
+    "score": 65
+  },
+  {
+    "title": "Building Self-Correcting Memory in OpenWiki",
+    "url": "https://www.langchain.com/blog/self-correcting-memory-openwiki",
+    "summary": "Learn how OpenWiki uses evidence-backed claims to detect stale knowledge, reduce hallucinations, and build self-correcting memory for evolving codebases.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-08-29",
+    "score": 65
+  },
+  {
+    "title": "LLMs and SQL",
+    "url": "https://www.langchain.com/blog/llms-and-sql",
+    "summary": "Query SQL databases using natural language with LLMs. Learn techniques to reduce hallucinations and build reliable text-to-SQL solutions with LangChain.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-08-29",
+    "score": 65
+  },
+  {
+    "title": "Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC ibm-granite • 3 days ago • 29",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5-0-470m-turboctc",
+    "summary": "Hugging Face – Blog · Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC ibm-granite • 3 days ago • 29",
     "tags": [
       "open_source",
       "papers",
@@ -97,203 +305,35 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-08-28",
-    "score": 66
+    "date": "2026-08-29",
+    "score": 64
   },
   {
-    "title": "LangChain's Second Birthday",
-    "url": "https://www.langchain.com/blog/langchain-second-birthday",
-    "summary": "Reflections on how LangChain has evolved — including our products, ecosystem, and community — over the past two years, and where we're headed next.",
+    "title": "Writing Down the Line Between Luck and Skill FINAL-Bench • 5 days ago • 14",
+    "url": "https://huggingface.co/blog/FINAL-Bench/financial-forecast-challenge",
+    "summary": "Hugging Face – Blog · Writing Down the Line Between Luck and Skill FINAL-Bench • 5 days ago • 14",
     "tags": [
-      "agents",
-      "rag",
-      "framework"
+      "open_source",
+      "papers",
+      "models"
     ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-08-28",
-    "score": 66
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-08-29",
+    "score": 64
   },
   {
-    "title": "LangChain State of AI 2024 Report",
-    "url": "https://www.langchain.com/blog/langchain-state-of-ai-2024",
-    "summary": "Dive into LangSmith product usage patterns that show how the AI ecosystem and the way people are building LLM apps is evolving.",
+    "title": "Modern LLMs: What the FLIP is an Engram!? Blackroot • 2 days ago • 9",
+    "url": "https://huggingface.co/blog/Blackroot/what-the-engram",
+    "summary": "Hugging Face – Blog · Modern LLMs: What the FLIP is an Engram!? Blackroot • 2 days ago • 9",
     "tags": [
-      "agents",
-      "rag",
-      "framework"
+      "open_source",
+      "papers",
+      "models"
     ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-08-28",
-    "score": 66
-  },
-  {
-    "title": "January 2026: LangChain Newsletter",
-    "url": "https://www.langchain.com/blog/january-2026-langchain-newsletter",
-    "summary": "Read about the latest product updates, events, and content from the LangChain team",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-08-28",
-    "score": 66
-  },
-  {
-    "title": "Qdrant x LangChain: Endgame Performance",
-    "url": "https://www.langchain.com/blog/qdrant-x-langchain-endgame-performance",
-    "summary": "Qdrant and LangChain deliver production-ready RAG performance with async support, optimized resource usage, and scalable vector search for LLM apps.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-08-28",
-    "score": 66
-  },
-  {
-    "title": "The inside story on why OpenAI agents hacked Hugging Face",
-    "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face",
-    "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were stuck on, has confirmed some experts’&#8230;",
-    "tags": [
-      "ai",
-      "research",
-      "society"
-    ],
-    "author": "MIT Technology Review AI",
-    "source": "technologyreview.com",
-    "date": "2026-08-28",
-    "score": 66
-  },
-  {
-    "title": "August 2026: LangChain Newsletter — Managed Deep Agents, LLM Gateway, and More",
-    "url": "https://www.langchain.com/blog/august-2026-langchain-newsletter",
-    "summary": "Managed Deep Agents and LLM Gateway hit public beta, plus Deep Agents v0.7, Tuned Evaluators, Bring Your Own Cloud on AWS, and LangSmith Engine upgrades.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-08-28",
-    "score": 65
-  },
-  {
-    "title": "LangSmith LLM Gateway: Runtime Controls for Agents",
-    "url": "https://www.langchain.com/blog/langsmith-llm-gateway-runtime-controls-for-production-agents",
-    "summary": "LangSmith LLM Gateway is in public beta: spend caps, rate limits, model fallbacks and PII redaction for production agents, without provider lock-in.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-08-28",
-    "score": 65
-  },
-  {
-    "title": "How Podium optimized agent behavior and reduced engineering intervention by 90% with LangSmith",
-    "url": "https://www.langchain.com/blog/customers-podium",
-    "summary": "See how Podium tests across the lifecycle development of their AI employee agent, using LangSmith for dataset curation and finetuning. They improved agent F1 response quality to 98% and reduced the need for engineering intervention by 90%.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-08-28",
-    "score": 65
-  },
-  {
-    "title": "Reflections on Three Years of Building LangChain",
-    "url": "https://www.langchain.com/blog/three-years-langchain",
-    "summary": "Harrison Chase on LangChain's 3-year journey from open source to $1.25B company, announcing LangChain 1.0, LangSmith expansion, and $125M funding.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-08-28",
-    "score": 65
-  },
-  {
-    "title": "Why We Rebuilt LangChain’s Chatbot and What We Learned",
-    "url": "https://www.langchain.com/blog/rebuilding-chat-langchain",
-    "summary": "Learn how LangChain rebuilt their chatbot using Deep Agents and subgraphs for sub-15-second responses with precise citations—and what you can apply.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-08-28",
-    "score": 65
-  },
-  {
-    "title": "LangChain raises $125M to build the platform for agent engineering",
-    "url": "https://www.langchain.com/blog/series-b",
-    "summary": "We raised $125M at a $1.25B valuation to build the platform for agent engineering.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-08-28",
-    "score": 65
-  },
-  {
-    "title": "Proving Agentic AI ROI in Financial Services | LangChain",
-    "url": "https://www.langchain.com/blog/proving-the-roi-of-agentic-ai-in-financial-services",
-    "summary": "How to prove agentic AI ROI in financial services: business KPIs, cost tracking and governance for RFP and AML use cases, using LangSmith and Pay-i together.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-08-28",
-    "score": 65
-  },
-  {
-    "title": "How Candidly Built State-Aware Agent Harnesses in LangSmith",
-    "url": "https://www.langchain.com/blog/how-candidly-built-state-aware-agent-harnesses-with-langsmith",
-    "summary": "Candidly's agent Cait reads partial traces to infer user state mid-conversation and steer replies, using a LangSmith labeling pipeline at 92.3% human agreement.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-08-28",
-    "score": 65
-  },
-  {
-    "title": "LangSmith Engine: How We Built an Agent for Improving Agents",
-    "url": "https://www.langchain.com/blog/how-we-built-langsmith-engine-our-agent-for-improving-agents",
-    "summary": "A technical look at LangSmith Engine: how it analyzes traces at scale, turns recurring failures into actionable issues, and proposes evaluators and fixes.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-08-28",
-    "score": 65
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-08-29",
+    "score": 64
   }
 ]

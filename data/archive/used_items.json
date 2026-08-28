@@ -17516,5 +17516,245 @@
     "cluster_id": "langchain_com_3a5f5513",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_20be0455ef2b3672",
+    "canonical_url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+    "dedupe_key": "d610873573b6b492",
+    "title": "Previewing the Model Hardware Standard Announcements Aug 27, 2026 We’re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers.",
+    "issue_date": "2026-08-29",
+    "cluster_id": "anthropic_com_872655f6",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_384dee5fd7a42548",
+    "canonical_url": "https://vercel.com/changelog/hy4-preview-now-available-on-ai-gateway",
+    "dedupe_key": "9afe5e71456b9a60",
+    "title": "Hy4 Preview now available on AI Gateway",
+    "issue_date": "2026-08-29",
+    "cluster_id": "vercel_com_f67072f7",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ecea0aec8408e34b",
+    "canonical_url": "https://vercel.com/changelog/cursor-ai-sdk-harness-adapter",
+    "dedupe_key": "9fb35b363238c06d",
+    "title": "Cursor is now available in the AI SDK harness layer",
+    "issue_date": "2026-08-29",
+    "cluster_id": "vercel_com_eb2c0d1e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a7f627eaab98d2ce",
+    "canonical_url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+    "dedupe_key": "cd9bb5e0eb091f92",
+    "title": "Supporting Thailand’s next generation of AI startups",
+    "issue_date": "2026-08-29",
+    "cluster_id": "openai_com_0454edbf",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_91d4f9794c54d68a",
+    "canonical_url": "https://vercel.com/changelog/ling-3-0-flash-fin-now-available-on-ai-gateway-for-free",
+    "dedupe_key": "d1a0078b9ddefec7",
+    "title": "Ling 3.0 Flash Fin now available on AI Gateway for free",
+    "issue_date": "2026-08-29",
+    "cluster_id": "vercel_com_b06eabfb",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_dcf9c36b343938f7",
+    "canonical_url": "https://developer.nvidia.com/blog/deploy-an-open-model-from-checkpoint-to-inference-in-two-commands-with-nvidia-tensorrt-model-connect",
+    "dedupe_key": "98b73d523e649524",
+    "title": "Deploy an Open Model from Checkpoint to Inference in Two Commands with NVIDIA TensorRT Model Connect",
+    "issue_date": "2026-08-29",
+    "cluster_id": "developer_nvidia_com_19624e31",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_46e4b69119d07bf2",
+    "canonical_url": "https://vercel.com/changelog/build-and-deploy-eve-agents-from-the-vercel-dashboard",
+    "dedupe_key": "4c5c3b39b287ebce",
+    "title": "Build and deploy eve agents from the Vercel dashboard",
+    "issue_date": "2026-08-29",
+    "cluster_id": "vercel_com_28a753cc",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_cac8d1ddcc6031ec",
+    "canonical_url": "https://www.langchain.com/blog/applying-openai-rag",
+    "dedupe_key": "c5f1103cc9eb4e08",
+    "title": "Applying OpenAI's RAG Strategies",
+    "issue_date": "2026-08-29",
+    "cluster_id": "langchain_com_4489a7ce",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f70d82d621118594",
+    "canonical_url": "https://www.langchain.com/blog/auto-evaluator-opportunities",
+    "dedupe_key": "fdd354bc995bf150",
+    "title": "Auto-Evaluator Opportunities",
+    "issue_date": "2026-08-29",
+    "cluster_id": "langchain_com_a0d978d2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9cf5d96ecf64983d",
+    "canonical_url": "https://www.langchain.com/blog/introducing-airbyte-sources-within-langchain",
+    "dedupe_key": "6288a474f600ae76",
+    "title": "Introducing Airbyte sources within LangChain",
+    "issue_date": "2026-08-29",
+    "cluster_id": "langchain_com_7cb27748",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2502e94b9d850ce2",
+    "canonical_url": "https://www.langchain.com/blog/xata-x-langchain-new-vector-store-and-memory-store-integrations",
+    "dedupe_key": "0d42946f0e0a51ad",
+    "title": "Xata x LangChain: new vector store and memory store integrations",
+    "issue_date": "2026-08-29",
+    "cluster_id": "langchain_com_cd675347",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7cf0bbbe0622dc6c",
+    "canonical_url": "https://www.langchain.com/blog/eden-ai-x-langchain",
+    "dedupe_key": "e000de2cc5e8ae66",
+    "title": "Eden AI x LangChain: Harnessing LLMs, Embeddings, and AI",
+    "issue_date": "2026-08-29",
+    "cluster_id": "langchain_com_85148e79",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a9211ebe73eec307",
+    "canonical_url": "https://www.langchain.com/blog/kay-x-cybersyn-x-langchain",
+    "dedupe_key": "2646f3e44fdba6a9",
+    "title": "Kay x Cybersyn x LangChain: Embedding SEC Filings for RAG",
+    "issue_date": "2026-08-29",
+    "cluster_id": "langchain_com_7ac525ac",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8cfdd8dfe7a9f236",
+    "canonical_url": "https://www.langchain.com/blog/openais-bet-on-a-cognitive-architecture",
+    "dedupe_key": "07f5601072161b9d",
+    "title": "OpenAI's Bet on a Cognitive Architecture",
+    "issue_date": "2026-08-29",
+    "cluster_id": "langchain_com_d6705624",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8b464be85536519b",
+    "canonical_url": "https://www.langchain.com/blog/langchain-state-of-ai-2023",
+    "dedupe_key": "7353cc8088dc9a20",
+    "title": "LangChain State of AI 2023",
+    "issue_date": "2026-08-29",
+    "cluster_id": "langchain_com_554eb2c2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_051788f76d112fdf",
+    "canonical_url": "https://www.langchain.com/blog/agents-round",
+    "dedupe_key": "c015035330572378",
+    "title": "Autonomous Agents & Agent Simulations",
+    "issue_date": "2026-08-29",
+    "cluster_id": "langchain_com_d2bc11e0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7d12988a21dde03d",
+    "canonical_url": "https://www.langchain.com/blog/retrieval",
+    "dedupe_key": "ae850f3a8d92b413",
+    "title": "Retrieval",
+    "issue_date": "2026-08-29",
+    "cluster_id": "langchain_com_6e51d6a3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_671927a4a99e6b8a",
+    "canonical_url": "https://www.langchain.com/blog/cube-x-langchain-building-ai-experiences-with-llms-and-the-semantic-layer",
+    "dedupe_key": "298a2715d671c433",
+    "title": "Cube x LangChain: Building AI experiences with LLMs and the semantic layer",
+    "issue_date": "2026-08-29",
+    "cluster_id": "langchain_com_c23eb80e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5d7a25f0c8d55fde",
+    "canonical_url": "https://www.langchain.com/blog/new-in-langsmith-engine-2x-better-issue-detection",
+    "dedupe_key": "5154d3899a7df7da",
+    "title": "LangSmith Engine Improves Agent Issue Detection by 2x",
+    "issue_date": "2026-08-29",
+    "cluster_id": "langchain_com_d34ef895",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_21eb67a50fe2cdf5",
+    "canonical_url": "https://www.langchain.com/blog/self-correcting-memory-openwiki",
+    "dedupe_key": "f3c350bc01d792b4",
+    "title": "Building Self-Correcting Memory in OpenWiki",
+    "issue_date": "2026-08-29",
+    "cluster_id": "langchain_com_5fdfe65d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_df46e4863c236ed8",
+    "canonical_url": "https://www.langchain.com/blog/llms-and-sql",
+    "dedupe_key": "c6567c67567d8898",
+    "title": "LLMs and SQL",
+    "issue_date": "2026-08-29",
+    "cluster_id": "langchain_com_ca9d13a2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_06447549f82847ab",
+    "canonical_url": "https://huggingface.co/blog/ibm-granite/granite-speech-5-0-470m-turboctc",
+    "dedupe_key": "867c7c02b6a1b6e0",
+    "title": "Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC ibm-granite • 3 days ago • 29",
+    "issue_date": "2026-08-29",
+    "cluster_id": "huggingface_co_49fcd543",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1ea0d8c0e30b4445",
+    "canonical_url": "https://huggingface.co/blog/FINAL-Bench/financial-forecast-challenge",
+    "dedupe_key": "5af1b699f59b7995",
+    "title": "Writing Down the Line Between Luck and Skill FINAL-Bench • 5 days ago • 14",
+    "issue_date": "2026-08-29",
+    "cluster_id": "huggingface_co_30a87190",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_906d8b9c25b650f6",
+    "canonical_url": "https://huggingface.co/blog/Blackroot/what-the-engram",
+    "dedupe_key": "e800353e9823a46a",
+    "title": "Modern LLMs: What the FLIP is an Engram!? Blackroot • 2 days ago • 9",
+    "issue_date": "2026-08-29",
+    "cluster_id": "huggingface_co_3b6a8d63",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
