@@ -17756,5 +17756,215 @@
     "cluster_id": "huggingface_co_3b6a8d63",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2e2c5d1b19f184b8",
+    "canonical_url": "https://huggingface.co/blog/three-ws/building-3d-ai-agents-end-to-end",
+    "dedupe_key": "741ccc8d05966c41",
+    "title": "Inside three.ws: The Open-Source Stack That Gives AI Agents a Body, a Brain, a Wallet, and a Job three-ws • about 7 hours ago • 37",
+    "issue_date": "2026-08-30",
+    "cluster_id": "huggingface_co_79859fe9",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_df1d76aa985ebd52",
+    "canonical_url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+    "dedupe_key": "8be9bfed8f83c9e2",
+    "title": "Our decision on Cursor following its acquisition by SpaceX",
+    "issue_date": "2026-08-30",
+    "cluster_id": "openai_com_8ec14984",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_38f588612f9c5b2e",
+    "canonical_url": "https://vercel.com/changelog/vercel-cli-expands-commands-for-dns-domains-and-projects",
+    "dedupe_key": "d1a60ef653e44d15",
+    "title": "Vercel CLI expands commands for DNS, domains, and projects",
+    "issue_date": "2026-08-30",
+    "cluster_id": "vercel_com_824fa29d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8ce147f55dc10c56",
+    "canonical_url": "https://www.langchain.com/blog/how-harmonic-rebuilt-scout-on-deep-agents-and-4xd-retention-with-langsmith",
+    "dedupe_key": "b2b1d3bfc92703f9",
+    "title": "How Harmonic Rebuilt Scout on Deep Agents and 4x'd Retention",
+    "issue_date": "2026-08-30",
+    "cluster_id": "langchain_com_5b91ed1c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_012ffb7a712e6732",
+    "canonical_url": "https://www.langchain.com/blog/agent-observability-needs-feedback-to-power-learning",
+    "dedupe_key": "e8d62f5d41398202",
+    "title": "Agent observability needs feedback to power learning",
+    "issue_date": "2026-08-30",
+    "cluster_id": "langchain_com_620406a1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1ffc0c689315a313",
+    "canonical_url": "https://www.langchain.com/blog/data-driven-characters",
+    "dedupe_key": "4b4af83218025199",
+    "title": "Data-Driven Characters",
+    "issue_date": "2026-08-30",
+    "cluster_id": "langchain_com_281fe32f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_199b876de4330849",
+    "canonical_url": "https://www.langchain.com/blog/using-langsmith-to-support-fine-tuning-of-open-source-llms",
+    "dedupe_key": "08b60b277702c80f",
+    "title": "Using LangSmith to Support Fine-tuning",
+    "issue_date": "2026-08-30",
+    "cluster_id": "langchain_com_0d3747d8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_04595a06aa884f51",
+    "canonical_url": "https://www.langchain.com/blog/access-control-updates-for-langsmith",
+    "dedupe_key": "ab58f72225ec79b5",
+    "title": "Role Based Access Control (RBAC) for LangSmith",
+    "issue_date": "2026-08-30",
+    "cluster_id": "langchain_com_4062dea4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d2ce065f76746b83",
+    "canonical_url": "https://www.langchain.com/blog/pytest-and-vitest-for-langsmith-evals",
+    "dedupe_key": "f860dff78ba86144",
+    "title": "Introducing Pytest and Vitest integrations for LangSmith Evaluations",
+    "issue_date": "2026-08-30",
+    "cluster_id": "langchain_com_018e7935",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_303e2bef57d1dcb7",
+    "canonical_url": "https://www.langchain.com/blog/building-agent-environments-and-tasks",
+    "dedupe_key": "957ff5426a6ccdc9",
+    "title": "How We Build Agent Environments & Tasks",
+    "issue_date": "2026-08-30",
+    "cluster_id": "langchain_com_bbb53bf0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8a12f9faa754375d",
+    "canonical_url": "https://www.langchain.com/blog/semi-structured-multi-modal-rag",
+    "dedupe_key": "cc0dbb32708023fc",
+    "title": "Multi-Vector Retriever for RAG on tables, text, and images",
+    "issue_date": "2026-08-30",
+    "cluster_id": "langchain_com_3c19c9bd",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_11408872199b87da",
+    "canonical_url": "https://www.langchain.com/blog/workspaces-in-langsmith",
+    "dedupe_key": "33e1f558d3568477",
+    "title": "Workspaces in LangSmith for improved collaboration and organization",
+    "issue_date": "2026-08-30",
+    "cluster_id": "langchain_com_7c59c9e1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_79b4d9bfa4c6fe20",
+    "canonical_url": "https://www.langchain.com/blog/the-rise-of-context-engineering",
+    "dedupe_key": "185ecfb80e4d5a52",
+    "title": "The rise of \"context engineering\"",
+    "issue_date": "2026-08-30",
+    "cluster_id": "langchain_com_2e0cce58",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_05b191167a6a4b6a",
+    "canonical_url": "https://www.langchain.com/blog/debugging-deep-agents-with-langsmith",
+    "dedupe_key": "e970ad3c99a8a968",
+    "title": "Debugging Deep Agents with LangSmith",
+    "issue_date": "2026-08-30",
+    "cluster_id": "langchain_com_0b75b96d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4017393828a5e8d2",
+    "canonical_url": "https://vercel.com/changelog/find-deployments-faster-with-redesigned-filters",
+    "dedupe_key": "03c458462d323243",
+    "title": "Find deployments faster with redesigned filters",
+    "issue_date": "2026-08-30",
+    "cluster_id": "vercel_com_94c64726",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_58732c05c04b8821",
+    "canonical_url": "https://vercel.com/blog/the-best-workflow-engine-is-a-programming-language",
+    "dedupe_key": "0917c0dda69373a0",
+    "title": "The best workflow engine is a programming language",
+    "issue_date": "2026-08-30",
+    "cluster_id": "vercel_com_91324c28",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4cd27989db3c7b32",
+    "canonical_url": "https://vercel.com/changelog/muse-image-now-available-on-ai-gateway",
+    "dedupe_key": "786e004447f23d8f",
+    "title": "Muse Image now available on AI Gateway",
+    "issue_date": "2026-08-30",
+    "cluster_id": "vercel_com_d02c69cd",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_716c79f083090d1e",
+    "canonical_url": "https://vercel.com/changelog/gemini-3-5-transcribe-now-available-on-ai-gateway",
+    "dedupe_key": "fdcfe65a19f952dc",
+    "title": "Gemini 3.5 Transcribe now available on AI Gateway",
+    "issue_date": "2026-08-30",
+    "cluster_id": "vercel_com_99b669d2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_24768363c90a1571",
+    "canonical_url": "https://vercel.com/changelog/python-projects-now-support-routing-rules",
+    "dedupe_key": "ef9823fd75b3618c",
+    "title": "Python projects now support routing rules",
+    "issue_date": "2026-08-30",
+    "cluster_id": "vercel_com_831e47c1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_aac07a7b7c7bfe33",
+    "canonical_url": "https://vercel.com/changelog/nextjs-august-2026-security-release",
+    "dedupe_key": "76ea40d27bbd0d2e",
+    "title": "Vercel applications are protected from Next.js August 2026 security vulnerabilities",
+    "issue_date": "2026-08-30",
+    "cluster_id": "vercel_com_e99a4c88",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9670a14e4ee6e7a3",
+    "canonical_url": "https://vercel.com/changelog/minimax-m3-and-m2-7-are-free-on-ai-gateway",
+    "dedupe_key": "dd215cbda17b262f",
+    "title": "MiniMax M3 and M2.7 are free on AI Gateway",
+    "issue_date": "2026-08-30",
+    "cluster_id": "vercel_com_94091844",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
