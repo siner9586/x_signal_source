@@ -1,8 +1,106 @@
 [
   {
-    "title": "Inside three.ws: The Open-Source Stack That Gives AI Agents a Body, a Brain, a Wallet, and a Job three-ws • about 7 hours ago • 37",
-    "url": "https://huggingface.co/blog/three-ws/building-3d-ai-agents-end-to-end",
-    "summary": "Hugging Face – Blog · Inside three.ws: The Open-Source Stack That Gives AI Agents a Body, a Brain, a Wallet, and a Job three-ws • about 7 hours ago • 37",
+    "title": "MiniMax H3 and H3 Max are 50% off on AI Gateway",
+    "url": "https://vercel.com/changelog/minimax-h3-and-h3-max-are-50-off-on-ai-gateway",
+    "summary": "MiniMax H3 and H3 Max are 50% off on AI Gateway from August 30 through September 13, in partnership with MiniMax. The discount covers requests billed through AI Gateway, at every duration and in every aspect ratio the model supports. H3 generates 2K video from a text prompt, a starting image, a pair of first and last frames, or reference images, video, and audio. H3 Max trades resolution for speed: it renders faster at 480p and 768p, and it takes a text prompt or a starting i",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-08-31",
+    "score": 63
+  },
+  {
+    "title": "Wan 3.0 now available on AI Gateway",
+    "url": "https://vercel.com/changelog/wan-3-0-now-available-on-ai-gateway",
+    "summary": "Wan 3.0 from Alibaba is now available on AI Gateway as alibaba/wan-v3.0-video . Wan 3.0 combines text-to-video, image-to-video, first- and last-frame conditioning, and reference-based generation in one model. References can include images, video, and audio. It generates clips up to 30 seconds at 30 fps in 480p, 720p, or 1080p, with synchronized audio. Previously, Wan 2.7 required separate -t2v and -r2v model IDs and was limited to 15-second clips at 24 fps. Generate a video W",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-08-31",
+    "score": 63
+  },
+  {
+    "title": "AI Gateway now supports asynchronous video generation",
+    "url": "https://vercel.com/changelog/ai-gateway-now-supports-asynchronous-video-generation",
+    "summary": "Video generation on AI Gateway can now run asynchronously. By default, generateVideo keeps one HTTP request to AI Gateway open until the result is ready. Because video generation can take seconds or minutes, that request can exceed request timeouts. With asynchronous generation, your application can receive a webhook, poll for completion, or start a generation and retrieve the result in a later request. Choose an option based on whether your process can keep running and wheth",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-08-31",
+    "score": 63
+  },
+  {
+    "title": "Vercel Connect is now generally available",
+    "url": "https://vercel.com/changelog/vercel-connect-ga",
+    "summary": "Vercel Connect is now generally available on all plans and in v0 . Instead of storing long-lived provider secrets, your code requests short-lived, scoped tokens at runtime. Deployments authenticate with their existing Vercel OIDC identity. Each token is scoped to the task, refreshed automatically, and expires on its own. Any service with one command Register a connector once from the CLI . Pass the service name and the CLI pre-populates the brand name, icon, auth type, and MC",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-08-31",
+    "score": 63
+  },
+  {
+    "title": "Chat SDK now supports Slack Enterprise Grid",
+    "url": "https://vercel.com/changelog/chat-sdk-slack-enterprise-grid",
+    "summary": "Chat SDK's Slack adapter now supports Slack Enterprise Grid . Bots installed org-wide work across every workspace, with correct token resolution, tenant-scoped caches, and event retry deduplication. The adapter now stores org-wide installations by enterprise ID. This matches how tokens are resolved for incoming events, slash commands, and interactive payloads. SlackInstallation records the new identity fields: Token resolution behaves the same over HTTP webhooks and Socket Mo",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-08-31",
+    "score": 63
+  },
+  {
+    "title": "Chat SDK now supports XChat",
+    "url": "https://vercel.com/changelog/chat-sdk-now-supports-xchat",
+    "summary": "You can now build bots that hold end-to-end encrypted 1:1 and group conversations on XChat with the new XChat adapter for Chat SDK. The adapter handles all encryption, key management, and signature verification automatically. Bots can also message users first, as long as the user has encrypted chat set up and follows the bot. XChat has no markdown rendering, so the adapter falls back automatically: URLs and @mentions render as tappable links, tables as ASCII code blocks, and ",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-08-31",
+    "score": 63
+  },
+  {
+    "title": "Elastic build machines now use Turborepo cache hits to prevent downgrades",
+    "url": "https://vercel.com/changelog/elastic-build-machines-now-use-turborepo-cache-hits-to-prevent-downgrades",
+    "summary": "Elastic build machines now consider Turborepo cache hits when deciding whether to use a smaller build machine. A warm-cache build no longer triggers a downgrade. A warm-cache build can use less CPU and memory than the same build with a cold cache. Downgrading based on that lower usage could leave a later cold-cache build without enough resources to complete successfully. This change applies automatically to all builds using Elastic build machines. No action is required. Learn",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-08-31",
+    "score": 63
+  },
+  {
+    "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+    "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+    "summary": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -10,288 +108,173 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-08-30",
-    "score": 70
+    "date": "2026-08-31",
+    "score": 63
   },
   {
-    "title": "Our decision on Cursor following its acquisition by SpaceX",
-    "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-    "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
+    "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+    "url": "https://huggingface.co/blog/gradio-workflow-guide",
+    "summary": "Wire It, Run It, Deploy It: AI Workflows in Gradio 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-08-31",
+    "score": 63
+  },
+  {
+    "title": "Aug 27, 2026 Announcements Expanding our support for scientists",
+    "url": "https://www.anthropic.com/news/expanding-support-for-scientists",
+    "summary": "Newsroom \\ Anthropic · Aug 27, 2026 Announcements Expanding our support for scientists",
     "tags": [
       "ai_models",
-      "official",
+      "safety",
+      "official"
+    ],
+    "author": "Anthropic",
+    "source": "anthropic.com",
+    "date": "2026-08-31",
+    "score": 62
+  },
+  {
+    "title": "Aug 25, 2026 Announcements Funding better evaluations of AI’s impact on wellbeing",
+    "url": "https://www.anthropic.com/news/wellbeing-research-grants",
+    "summary": "Newsroom \\ Anthropic · Aug 25, 2026 Announcements Funding better evaluations of AI’s impact on wellbeing",
+    "tags": [
+      "ai_models",
+      "safety",
+      "official"
+    ],
+    "author": "Anthropic",
+    "source": "anthropic.com",
+    "date": "2026-08-31",
+    "score": 62
+  },
+  {
+    "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+    "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+    "summary": "The Open ASR Leaderboard Adds Its First Global South Language 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-08-31",
+    "score": 62
+  },
+  {
+    "title": "Granite 4.2 LLMs: How They&apos;re Built",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+    "summary": "Granite 4.2 LLMs: How They&apos;re Built 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-08-31",
+    "score": 62
+  },
+  {
+    "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+    "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+    "summary": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-08-31",
+    "score": 62
+  },
+  {
+    "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
+    "url": "https://huggingface.co/blog/pwc-search",
+    "summary": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-08-31",
+    "score": 62
+  },
+  {
+    "title": "AI’s third era: the rise of persistent AI coworkers | Tara Seshan (OpenAI’s product lead)",
+    "url": "https://www.lennysnewsletter.com/p/ais-third-era-the-rise-of-persistent",
+    "summary": "Listen now | Tara Seshan, head of Codex and ChatGPT Work at OpenAI, on why ambition is now the differentiator, steering vs. rowing, and why you need to build for where the models will be in two to three months",
+    "tags": [
+      "product",
+      "growth",
+      "startup"
+    ],
+    "author": "Lenny's Newsletter",
+    "source": "lennysnewsletter.com",
+    "date": "2026-08-31",
+    "score": 62
+  },
+  {
+    "title": "Aug 29, 2026 Grok Bot now works with X",
+    "url": "https://x.ai/news/grok-bot-and-x",
+    "summary": "SpaceXAI · Aug 29, 2026 Grok Bot now works with X",
+    "tags": [
+      "ai_models",
+      "reasoning"
+    ],
+    "author": "xAI",
+    "source": "x.ai",
+    "date": "2026-08-31",
+    "score": 61
+  },
+  {
+    "title": "Aug 26, 2026 Grok 4.6 on Microsoft Foundry",
+    "url": "https://x.ai/news/grok-4-6-microsoft-foundry",
+    "summary": "SpaceXAI · Aug 26, 2026 Grok 4.6 on Microsoft Foundry",
+    "tags": [
+      "ai_models",
+      "reasoning"
+    ],
+    "author": "xAI",
+    "source": "x.ai",
+    "date": "2026-08-31",
+    "score": 61
+  },
+  {
+    "title": "Raised on AI",
+    "url": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026",
+    "summary": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In short, I began creating her digital footprint long before she could stand on her own two feet.&#160; Fast-forward a couple&#8230;",
+    "tags": [
+      "ai",
       "research",
-      "developer"
+      "society"
     ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-08-30",
-    "score": 67
+    "author": "MIT Technology Review AI",
+    "source": "technologyreview.com",
+    "date": "2026-08-31",
+    "score": 61
   },
   {
-    "title": "Vercel CLI expands commands for DNS, domains, and projects",
-    "url": "https://vercel.com/changelog/vercel-cli-expands-commands-for-dns-domains-and-projects",
-    "summary": "The Vercel CLI now provides dedicated commands for managing DNS records, domains, and projects. This brings more of the functionality available through the Vercel dashboard and API to the terminal, where it can be used interactively, in scripts, or by agents. Inspect and update DNS records Retrieve the complete configuration for a DNS record or update it in place using its record ID. vercel dns update supports changes to the record name, type, value, TTL, MX priority, and com",
+    "title": "AI models flub these intelligence tests. Can you fare any better?",
+    "url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests",
+    "summary": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have advanced with a gaming gauntlet. The term “machine learning” was popularized in a 1959 article by the IBM computer scientist Arthur&#8230;",
     "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
+      "ai",
+      "research",
+      "society"
     ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-08-30",
-    "score": 66
-  },
-  {
-    "title": "How Harmonic Rebuilt Scout on Deep Agents and 4x'd Retention",
-    "url": "https://www.langchain.com/blog/how-harmonic-rebuilt-scout-on-deep-agents-and-4xd-retention-with-langsmith",
-    "summary": "Harmonic rebuilt Scout on Deep Agents and LangSmith: iteration went from months to days, week-four retention rose 4x, and session duration increased 10x.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-08-30",
-    "score": 64
-  },
-  {
-    "title": "Agent observability needs feedback to power learning",
-    "url": "https://www.langchain.com/blog/agent-observability-needs-feedback-to-power-learning",
-    "summary": "Traces show what an agent did; feedback shows what it meant. How explicit, implicit, LLM-as-judge and rule-based feedback turn observability into learning.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-08-30",
-    "score": 64
-  },
-  {
-    "title": "Data-Driven Characters",
-    "url": "https://www.langchain.com/blog/data-driven-characters",
-    "summary": "Data-driven-characters is a repo for creating, debugging, and interacting your own chatbots conditioned on your own story corpora.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-08-30",
-    "score": 64
-  },
-  {
-    "title": "Using LangSmith to Support Fine-tuning",
-    "url": "https://www.langchain.com/blog/using-langsmith-to-support-fine-tuning-of-open-source-llms",
-    "summary": "Learn how to fine-tune and evaluate LLMs with LangSmith for dataset management. Complete guide covers LLaMA2 and GPT-3.5 fine-tuning with practical examples.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-08-30",
-    "score": 64
-  },
-  {
-    "title": "Role Based Access Control (RBAC) for LangSmith",
-    "url": "https://www.langchain.com/blog/access-control-updates-for-langsmith",
-    "summary": "LangSmith's Role Based Access Control (RBAC) helps enterprises manage resource access with custom roles and API keys.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-08-30",
-    "score": 64
-  },
-  {
-    "title": "Introducing Pytest and Vitest integrations for LangSmith Evaluations",
-    "url": "https://www.langchain.com/blog/pytest-and-vitest-for-langsmith-evals",
-    "summary": "Introducing a new way to run evals using LangSmith’s Pytest and Vitest/Jest integrations.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-08-30",
-    "score": 64
-  },
-  {
-    "title": "How We Build Agent Environments & Tasks",
-    "url": "https://www.langchain.com/blog/building-agent-environments-and-tasks",
-    "summary": "How we create synthetic agent environments and tasks: a spec generation step, a spec-to-task step, and a world spec that holds shared knowledge.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-08-30",
-    "score": 64
-  },
-  {
-    "title": "Multi-Vector Retriever for RAG on tables, text, and images",
-    "url": "https://www.langchain.com/blog/semi-structured-multi-modal-rag",
-    "summary": "Learn how to implement multi-vector retriever for RAG across tables, text, and images. Explore cookbooks for semi-structured and multi-modal data retrieval.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-08-30",
-    "score": 64
-  },
-  {
-    "title": "Workspaces in LangSmith for improved collaboration and organization",
-    "url": "https://www.langchain.com/blog/workspaces-in-langsmith",
-    "summary": "Workspaces in LangSmith lets enterprises separate resources between different teams, business units, or deployment environments.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-08-30",
-    "score": 64
-  },
-  {
-    "title": "The rise of \"context engineering\"",
-    "url": "https://www.langchain.com/blog/the-rise-of-context-engineering",
-    "summary": "Learn context engineering: building dynamic systems that provide LLMs the right information, tools, and format to reliably accomplish tasks.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-08-30",
-    "score": 64
-  },
-  {
-    "title": "Debugging Deep Agents with LangSmith",
-    "url": "https://www.langchain.com/blog/debugging-deep-agents-with-langsmith",
-    "summary": "Debug deep agents with LangSmith's tracing and analysis. Analyze complex traces, optimize prompts with Polly, and improve performance.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-08-30",
-    "score": 64
-  },
-  {
-    "title": "Find deployments faster with redesigned filters",
-    "url": "https://vercel.com/changelog/find-deployments-faster-with-redesigned-filters",
-    "summary": "The Deployments page now has redesigned filters that make it faster to find a specific deployment. You can: Apply suggested filters for common searches. Type to find an option instead of scrolling through the list. Describe what you’re looking for in natural language, and Vercel automatically applies the matching filters. Open any project's Deployments page to try the new filters. Read more",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-08-30",
-    "score": 63
-  },
-  {
-    "title": "The best workflow engine is a programming language",
-    "url": "https://vercel.com/blog/the-best-workflow-engine-is-a-programming-language",
-    "summary": "The idea of orchestrating long-running, stateful logic on top of unreliable, stateless infrastructure isn't new. We've had message queues, job runners, microservice choreographies, and full-blown workflow engines for a long time. What we never had was a version of it that felt good to write. I'd spent about six months working on a fork of Temporal, mostly on weekends, trying to turn it into a serverless answer with DX that felt more Vercel-native. Eventually it dawned on me t",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-08-30",
-    "score": 63
-  },
-  {
-    "title": "Muse Image now available on AI Gateway",
-    "url": "https://vercel.com/changelog/muse-image-now-available-on-ai-gateway",
-    "summary": "Muse Image from Meta Superintelligence Labs is now available on AI Gateway. It is their first image model and a separate family from Muse Spark, returning images rather than text. Send a prompt and get an image back, or send an image with an instruction and get it changed. One model does both, so you don't switch models to move from generating to editing. To use Muse Image, set model to meta/muse-image-1.0 and call generateImage from the AI SDK : To steer the result toward ar",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-08-30",
-    "score": 63
-  },
-  {
-    "title": "Gemini 3.5 Transcribe now available on AI Gateway",
-    "url": "https://vercel.com/changelog/gemini-3-5-transcribe-now-available-on-ai-gateway",
-    "summary": "Gemini 3.5 Transcribe from Google is now available on AI Gateway for recorded and live audio: google/gemini-3.5-transcribe transcribes a complete audio file in one request. google/gemini-3.5-transcribe-live transcribes audio over a WebSocket and returns text as the audio arrives. Both models automatically detect more than 85 languages, including when a speaker switches languages. You can also provide custom vocabulary to improve the transcription of names, technical terms, an",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-08-30",
-    "score": 63
-  },
-  {
-    "title": "Python projects now support routing rules",
-    "url": "https://vercel.com/changelog/python-projects-now-support-routing-rules",
-    "summary": "Python projects can now use routing rules to set response headers or rewrite requests to internal paths, including apps built with FastAPI, Django, and Flask. The Vercel CDN evaluates rules before requests reach your application, so changes apply without a new deployment. For example, this FastAPI app serves a /new route: To send requests for /old to that route, create a rewrite from the CDN tab in your project dashboard or with the Vercel CLI : Published rules take effect im",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-08-30",
-    "score": 63
-  },
-  {
-    "title": "Vercel applications are protected from Next.js August 2026 security vulnerabilities",
-    "url": "https://vercel.com/changelog/nextjs-august-2026-security-release",
-    "summary": "Summary Two vulnerabilities affecting Next.js were disclosed in the August 2026 Security Release. Next.js applications hosted on Vercel are protected and require no customer action. Next.js August 2026 vulnerabilities Next.js disclosed the following critical vulnerabilities: GHSA-2xp9-vwfh-vxw4 originates in the upstream libheif dependency and can lead to unauthenticated remote code execution when Image Optimization processes a crafted AVIF input. CVE-2026-75604 ( GHSA-p293-q",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-08-30",
-    "score": 63
-  },
-  {
-    "title": "MiniMax M3 and M2.7 are free on AI Gateway",
-    "url": "https://vercel.com/changelog/minimax-m3-and-m2-7-are-free-on-ai-gateway",
-    "summary": "MiniMax M3 and M2.7 are free on AI Gateway via GMI Cloud through Sunday, September 6. Use minimax/minimax-m3-free or minimax/minimax-m2.7-free to route requests to GMI Cloud. These model IDs will return an error after the free period ends. To keep requests working after the free period, use the standard model ID without the -free suffix and place GMI Cloud first in the provider order: AI Gateway tries GMI Cloud first and can fall back to another provider if GMI Cloud can't se",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-08-30",
-    "score": 63
+    "author": "MIT Technology Review AI",
+    "source": "technologyreview.com",
+    "date": "2026-08-31",
+    "score": 61
   }
 ]

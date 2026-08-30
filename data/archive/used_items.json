@@ -17966,5 +17966,205 @@
     "cluster_id": "vercel_com_94091844",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a20e8f4bff3c4036",
+    "canonical_url": "https://vercel.com/changelog/minimax-h3-and-h3-max-are-50-off-on-ai-gateway",
+    "dedupe_key": "822ff4112ee929db",
+    "title": "MiniMax H3 and H3 Max are 50% off on AI Gateway",
+    "issue_date": "2026-08-31",
+    "cluster_id": "vercel_com_e002d16e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0ce56b9c9fb3d037",
+    "canonical_url": "https://vercel.com/changelog/wan-3-0-now-available-on-ai-gateway",
+    "dedupe_key": "e8c293ab81315e99",
+    "title": "Wan 3.0 now available on AI Gateway",
+    "issue_date": "2026-08-31",
+    "cluster_id": "vercel_com_d0bb9ac5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b9f750824798b868",
+    "canonical_url": "https://vercel.com/changelog/ai-gateway-now-supports-asynchronous-video-generation",
+    "dedupe_key": "838b6626de889dc2",
+    "title": "AI Gateway now supports asynchronous video generation",
+    "issue_date": "2026-08-31",
+    "cluster_id": "vercel_com_cef082c4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4c16c34a9f7ac5d6",
+    "canonical_url": "https://vercel.com/changelog/vercel-connect-ga",
+    "dedupe_key": "e2d41079ffe60f16",
+    "title": "Vercel Connect is now generally available",
+    "issue_date": "2026-08-31",
+    "cluster_id": "vercel_com_bf8dda00",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_decb3d7d6c5ef045",
+    "canonical_url": "https://vercel.com/changelog/chat-sdk-slack-enterprise-grid",
+    "dedupe_key": "674a24e8e756eb15",
+    "title": "Chat SDK now supports Slack Enterprise Grid",
+    "issue_date": "2026-08-31",
+    "cluster_id": "vercel_com_e689e5b3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7af4815ad685d560",
+    "canonical_url": "https://vercel.com/changelog/chat-sdk-now-supports-xchat",
+    "dedupe_key": "3d0c34e179a4099a",
+    "title": "Chat SDK now supports XChat",
+    "issue_date": "2026-08-31",
+    "cluster_id": "vercel_com_9c707187",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_385906044e1b84a7",
+    "canonical_url": "https://vercel.com/changelog/elastic-build-machines-now-use-turborepo-cache-hits-to-prevent-downgrades",
+    "dedupe_key": "ab0c56e1d4540135",
+    "title": "Elastic build machines now use Turborepo cache hits to prevent downgrades",
+    "issue_date": "2026-08-31",
+    "cluster_id": "vercel_com_9d57904a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9f810e88a22d0291",
+    "canonical_url": "https://huggingface.co/blog/train-multi-vector-encoder",
+    "dedupe_key": "04b7c43b816214ce",
+    "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+    "issue_date": "2026-08-31",
+    "cluster_id": "huggingface_co_d5e153b3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_380399e36c4f890d",
+    "canonical_url": "https://huggingface.co/blog/gradio-workflow-guide",
+    "dedupe_key": "3baef32dcba0d672",
+    "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+    "issue_date": "2026-08-31",
+    "cluster_id": "huggingface_co_691a49cc",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c0a883ce053ca711",
+    "canonical_url": "https://www.anthropic.com/news/expanding-support-for-scientists",
+    "dedupe_key": "3f06d07c256a04b4",
+    "title": "Aug 27, 2026 Announcements Expanding our support for scientists",
+    "issue_date": "2026-08-31",
+    "cluster_id": "anthropic_com_9cb26ed2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_efa10ddbab53baed",
+    "canonical_url": "https://www.anthropic.com/news/wellbeing-research-grants",
+    "dedupe_key": "867ed6e073253dd4",
+    "title": "Aug 25, 2026 Announcements Funding better evaluations of AI’s impact on wellbeing",
+    "issue_date": "2026-08-31",
+    "cluster_id": "anthropic_com_959cbf2f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_803339c6696d2e47",
+    "canonical_url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+    "dedupe_key": "a7b1f1b1ace611a0",
+    "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+    "issue_date": "2026-08-31",
+    "cluster_id": "huggingface_co_7a1b9cab",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2b02e8af9957faf1",
+    "canonical_url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+    "dedupe_key": "82ae5ef43d304678",
+    "title": "Granite 4.2 LLMs: How They&apos;re Built",
+    "issue_date": "2026-08-31",
+    "cluster_id": "huggingface_co_1afc0cb1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ed0a87c58cf286b1",
+    "canonical_url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+    "dedupe_key": "9ef5c512c142bb2c",
+    "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+    "issue_date": "2026-08-31",
+    "cluster_id": "huggingface_co_ce0dbf34",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b4007b345357ae6a",
+    "canonical_url": "https://huggingface.co/blog/pwc-search",
+    "dedupe_key": "c1d82858533f25e8",
+    "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
+    "issue_date": "2026-08-31",
+    "cluster_id": "huggingface_co_48c772fc",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b2d36b03d72a49ec",
+    "canonical_url": "https://www.lennysnewsletter.com/p/ais-third-era-the-rise-of-persistent",
+    "dedupe_key": "3465d4111e309760",
+    "title": "AI’s third era: the rise of persistent AI coworkers | Tara Seshan (OpenAI’s product lead)",
+    "issue_date": "2026-08-31",
+    "cluster_id": "lennysnewsletter_com_1d9350b7",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2374eb55632f19d5",
+    "canonical_url": "https://x.ai/news/grok-bot-and-x",
+    "dedupe_key": "8521b6f5a57de79c",
+    "title": "Aug 29, 2026 Grok Bot now works with X",
+    "issue_date": "2026-08-31",
+    "cluster_id": "x_ai_3902be94",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a9e8fc2fec47b051",
+    "canonical_url": "https://x.ai/news/grok-4-6-microsoft-foundry",
+    "dedupe_key": "34fe70f63f6693b7",
+    "title": "Aug 26, 2026 Grok 4.6 on Microsoft Foundry",
+    "issue_date": "2026-08-31",
+    "cluster_id": "x_ai_b6c0f098",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a307709c689793f3",
+    "canonical_url": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026",
+    "dedupe_key": "3ca95847bf1a5efc",
+    "title": "Raised on AI",
+    "issue_date": "2026-08-31",
+    "cluster_id": "technologyreview_com_5e341f15",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2398e740c8d37bc4",
+    "canonical_url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests",
+    "dedupe_key": "53e25de694e72be0",
+    "title": "AI models flub these intelligence tests. Can you fare any better?",
+    "issue_date": "2026-08-31",
+    "cluster_id": "technologyreview_com_42f14a2a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
