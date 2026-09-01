@@ -1,8 +1,8 @@
 [
   {
-    "title": "MiniMax H3 and H3 Max are 50% off on AI Gateway",
-    "url": "https://vercel.com/changelog/minimax-h3-and-h3-max-are-50-off-on-ai-gateway",
-    "summary": "MiniMax H3 and H3 Max are 50% off on AI Gateway from August 30 through September 13, in partnership with MiniMax. The discount covers requests billed through AI Gateway, at every duration and in every aspect ratio the model supports. H3 generates 2K video from a text prompt, a starting image, a pair of first and last frames, or reference images, video, and audio. H3 Max trades resolution for speed: it renders faster at 480p and 768p, and it takes a text prompt or a starting i",
+    "title": "fx is now available in the AI SDK harness layer",
+    "url": "https://vercel.com/changelog/fx-ai-sdk-harness-adapter",
+    "summary": "The AI SDK harness layer now supports fx , Vercel's lightweight, open-source coding agent. The harness layer provides one API for running coding agents in your application, so you can add fx without building a separate integration. Configure HarnessAgent with the official @ai-sdk/harness-fx adapter: The @ai-sdk/harness-fx adapter connects to fx over the Agent Client Protocol (ACP) using @ai-sdk/harness-acp . fx joins Claude Code, Cline, Codex, Cursor, Deep Agents, Grok Build,",
     "tags": [
       "sdk",
       "ai_infra",
@@ -10,13 +10,28 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-08-31",
-    "score": 63
+    "date": "2026-09-01",
+    "score": 71
   },
   {
-    "title": "Wan 3.0 now available on AI Gateway",
-    "url": "https://vercel.com/changelog/wan-3-0-now-available-on-ai-gateway",
-    "summary": "Wan 3.0 from Alibaba is now available on AI Gateway as alibaba/wan-v3.0-video . Wan 3.0 combines text-to-video, image-to-video, first- and last-frame conditioning, and reference-based generation in one model. References can include images, video, and audio. It generates clips up to 30 seconds at 30 fps in 480p, 720p, or 1080p, with synchronized audio. Previously, Wan 2.7 required separate -t2v and -r2v model IDs and was limited to 15-second clips at 24 fps. Generate a video W",
+    "title": "Polimill builds Japan's next-generation public AI infrastructure",
+    "url": "https://openai.com/index/polimill",
+    "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-09-01",
+    "score": 70
+  },
+  {
+    "title": "How our agents build on-brand pages with design.md",
+    "url": "https://vercel.com/blog/how-our-agents-build-on-brand-pages-with-design-md",
+    "summary": "Across Vercel, we use coding agents to design and build pages that have to look and feel like Vercel. The typography, color, and composition all need to carry the same judgment that we put into the pages we already ship ourselves. We recently wrote about product-design , our skill that teaches agents how we design when they work in our codebases. The skill lives in each repository alongside the code that it governs, explaining how agents can find and understand our design sys",
     "tags": [
       "sdk",
       "ai_infra",
@@ -24,13 +39,13 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-08-31",
-    "score": 63
+    "date": "2026-09-01",
+    "score": 70
   },
   {
-    "title": "AI Gateway now supports asynchronous video generation",
-    "url": "https://vercel.com/changelog/ai-gateway-now-supports-asynchronous-video-generation",
-    "summary": "Video generation on AI Gateway can now run asynchronously. By default, generateVideo keeps one HTTP request to AI Gateway open until the result is ready. Because video generation can take seconds or minutes, that request can exceed request timeouts. With asynchronous generation, your application can receive a webhook, poll for completion, or start a generation and retrieve the result in a later request. Choose an option based on whether your process can keep running and wheth",
+    "title": "Set per-user budgets on AI Gateway",
+    "url": "https://vercel.com/changelog/set-per-user-budgets-on-ai-gateway",
+    "summary": "You can now use AI Gateway budgets to set a dollar spending limit for each user on your team. The limit covers spend from every API key attributed to the user, along with their app tokens. After it's reached, AI Gateway rejects new requests until the budget resets or is increased. This is useful for controlling spend from coding agents and other workloads that run without supervision, and prevents one user from consuming all of the team's shared budget. Set user budgets Open ",
     "tags": [
       "sdk",
       "ai_infra",
@@ -38,13 +53,70 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-08-31",
-    "score": 63
+    "date": "2026-09-01",
+    "score": 69
   },
   {
-    "title": "Vercel Connect is now generally available",
-    "url": "https://vercel.com/changelog/vercel-connect-ga",
-    "summary": "Vercel Connect is now generally available on all plans and in v0 . Instead of storing long-lived provider secrets, your code requests short-lived, scoped tokens at runtime. Deployments authenticate with their existing Vercel OIDC identity. Each token is scoped to the task, refreshed automatically, and expires on its own. Any service with one command Register a connector once from the CLI . Pass the service name and the CLI pre-populates the brand name, icon, auth type, and MC",
+    "title": "A milestone in expanding access to AI",
+    "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+    "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-09-01",
+    "score": 67
+  },
+  {
+    "title": "Run NVIDIA BioNeMo NIM Microservices for Protein Structure Prediction in Claude Science",
+    "url": "https://developer.nvidia.com/blog/run-nvidia-bionemo-nim-microservices-for-protein-structure-prediction-in-claude-science",
+    "summary": "NVIDIA Technical Blog · Run NVIDIA BioNeMo NIM Microservices for Protein Structure Prediction in Claude Science",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-09-01",
+    "score": 66
+  },
+  {
+    "title": "Scale AV Perception Across Vehicle Platforms with NVIDIA Omniverse NuRec",
+    "url": "https://developer.nvidia.com/blog/scale-av-perception-across-vehicle-platforms-with-nvidia-omniverse-nurec",
+    "summary": "NVIDIA Technical Blog · Scale AV Perception Across Vehicle Platforms with NVIDIA Omniverse NuRec",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-09-01",
+    "score": 66
+  },
+  {
+    "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
+    "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging Face while trying to cheat on&#8230;",
+    "tags": [
+      "ai",
+      "research",
+      "society"
+    ],
+    "author": "MIT Technology Review AI",
+    "source": "technologyreview.com",
+    "date": "2026-09-01",
+    "score": 66
+  },
+  {
+    "title": "Vercel Sandbox now calculates snapshot storage costs daily",
+    "url": "https://vercel.com/changelog/vercel-sandbox-now-calculates-snapshot-storage-costs-daily",
+    "summary": "Vercel now calculates charges for Sandbox snapshot storage from each day’s average usage and adds them to your monthly invoice. Previously, billing used one average across the entire monthly billing period. You can track these daily charges on the team’s Usage page and see how changes in storage affect your cost. The rate remains $0.08 per GB-month; only how usage is calculated has changed. The update takes effect automatically at the start of the next billing period for Pro ",
     "tags": [
       "sdk",
       "ai_infra",
@@ -52,83 +124,13 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-08-31",
+    "date": "2026-09-01",
     "score": 63
   },
   {
-    "title": "Chat SDK now supports Slack Enterprise Grid",
-    "url": "https://vercel.com/changelog/chat-sdk-slack-enterprise-grid",
-    "summary": "Chat SDK's Slack adapter now supports Slack Enterprise Grid . Bots installed org-wide work across every workspace, with correct token resolution, tenant-scoped caches, and event retry deduplication. The adapter now stores org-wide installations by enterprise ID. This matches how tokens are resolved for incoming events, slash commands, and interactive payloads. SlackInstallation records the new identity fields: Token resolution behaves the same over HTTP webhooks and Socket Mo",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-08-31",
-    "score": 63
-  },
-  {
-    "title": "Chat SDK now supports XChat",
-    "url": "https://vercel.com/changelog/chat-sdk-now-supports-xchat",
-    "summary": "You can now build bots that hold end-to-end encrypted 1:1 and group conversations on XChat with the new XChat adapter for Chat SDK. The adapter handles all encryption, key management, and signature verification automatically. Bots can also message users first, as long as the user has encrypted chat set up and follows the bot. XChat has no markdown rendering, so the adapter falls back automatically: URLs and @mentions render as tappable links, tables as ASCII code blocks, and ",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-08-31",
-    "score": 63
-  },
-  {
-    "title": "Elastic build machines now use Turborepo cache hits to prevent downgrades",
-    "url": "https://vercel.com/changelog/elastic-build-machines-now-use-turborepo-cache-hits-to-prevent-downgrades",
-    "summary": "Elastic build machines now consider Turborepo cache hits when deciding whether to use a smaller build machine. A warm-cache build no longer triggers a downgrade. A warm-cache build can use less CPU and memory than the same build with a cold cache. Downgrading based on that lower usage could leave a later cold-cache build without enough resources to complete successfully. This change applies automatically to all builds using Elastic build machines. No action is required. Learn",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-08-31",
-    "score": 63
-  },
-  {
-    "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
-    "url": "https://huggingface.co/blog/train-multi-vector-encoder",
-    "summary": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-08-31",
-    "score": 63
-  },
-  {
-    "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-    "url": "https://huggingface.co/blog/gradio-workflow-guide",
-    "summary": "Wire It, Run It, Deploy It: AI Workflows in Gradio 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-08-31",
-    "score": 63
-  },
-  {
-    "title": "Aug 27, 2026 Announcements Expanding our support for scientists",
-    "url": "https://www.anthropic.com/news/expanding-support-for-scientists",
-    "summary": "Newsroom \\ Anthropic · Aug 27, 2026 Announcements Expanding our support for scientists",
+    "title": "Aug 31, 2026 Improving our alignment and security efforts",
+    "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+    "summary": "Newsroom \\ Anthropic · Aug 31, 2026 Improving our alignment and security efforts",
     "tags": [
       "ai_models",
       "safety",
@@ -136,83 +138,13 @@
     ],
     "author": "Anthropic",
     "source": "anthropic.com",
-    "date": "2026-08-31",
+    "date": "2026-09-01",
     "score": 62
   },
   {
-    "title": "Aug 25, 2026 Announcements Funding better evaluations of AI’s impact on wellbeing",
-    "url": "https://www.anthropic.com/news/wellbeing-research-grants",
-    "summary": "Newsroom \\ Anthropic · Aug 25, 2026 Announcements Funding better evaluations of AI’s impact on wellbeing",
-    "tags": [
-      "ai_models",
-      "safety",
-      "official"
-    ],
-    "author": "Anthropic",
-    "source": "anthropic.com",
-    "date": "2026-08-31",
-    "score": 62
-  },
-  {
-    "title": "The Open ASR Leaderboard Adds Its First Global South Language",
-    "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
-    "summary": "The Open ASR Leaderboard Adds Its First Global South Language 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-08-31",
-    "score": 62
-  },
-  {
-    "title": "Granite 4.2 LLMs: How They&apos;re Built",
-    "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-    "summary": "Granite 4.2 LLMs: How They&apos;re Built 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-08-31",
-    "score": 62
-  },
-  {
-    "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-    "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-    "summary": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-08-31",
-    "score": 62
-  },
-  {
-    "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
-    "url": "https://huggingface.co/blog/pwc-search",
-    "summary": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-08-31",
-    "score": 62
-  },
-  {
-    "title": "AI’s third era: the rise of persistent AI coworkers | Tara Seshan (OpenAI’s product lead)",
-    "url": "https://www.lennysnewsletter.com/p/ais-third-era-the-rise-of-persistent",
-    "summary": "Listen now | Tara Seshan, head of Codex and ChatGPT Work at OpenAI, on why ambition is now the differentiator, steering vs. rowing, and why you need to build for where the models will be in two to three months",
+    "title": "🎙️ How I AI: How this PM uses Claude to handle 70% to 80% of his workday",
+    "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-this-pm-uses-claude",
+    "summary": "Your weekly listens from How I AI, part of the Lenny&#8217;s Podcast Network",
     "tags": [
       "product",
       "growth",
@@ -220,39 +152,27 @@
     ],
     "author": "Lenny's Newsletter",
     "source": "lennysnewsletter.com",
-    "date": "2026-08-31",
+    "date": "2026-09-01",
     "score": 62
   },
   {
-    "title": "Aug 29, 2026 Grok Bot now works with X",
-    "url": "https://x.ai/news/grok-bot-and-x",
-    "summary": "SpaceXAI · Aug 29, 2026 Grok Bot now works with X",
+    "title": "How I turned Claude into a self-improving PM assistant | Daniel Blum (PM, Melio)",
+    "url": "https://www.lennysnewsletter.com/p/how-i-turned-claude-into-a-self-improving",
+    "summary": "Listen now | &#127897;&#65039; PM Daniel Blum walks through the exact Cowork and Claude setup that manages his Notion, tracks his tasks across Slack and email, and self-improves every week without him lifting a finger",
     "tags": [
-      "ai_models",
-      "reasoning"
+      "product",
+      "growth",
+      "startup"
     ],
-    "author": "xAI",
-    "source": "x.ai",
-    "date": "2026-08-31",
-    "score": 61
+    "author": "Lenny's Newsletter",
+    "source": "lennysnewsletter.com",
+    "date": "2026-09-01",
+    "score": 62
   },
   {
-    "title": "Aug 26, 2026 Grok 4.6 on Microsoft Foundry",
-    "url": "https://x.ai/news/grok-4-6-microsoft-foundry",
-    "summary": "SpaceXAI · Aug 26, 2026 Grok 4.6 on Microsoft Foundry",
-    "tags": [
-      "ai_models",
-      "reasoning"
-    ],
-    "author": "xAI",
-    "source": "x.ai",
-    "date": "2026-08-31",
-    "score": 61
-  },
-  {
-    "title": "Raised on AI",
-    "url": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026",
-    "summary": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In short, I began creating her digital footprint long before she could stand on her own two feet.&#160; Fast-forward a couple&#8230;",
+    "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
+    "url": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold",
+    "summary": "It’s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, and the sky is incapable of being any more blue. The view from the Gates Ventures conference room overlooks the Carillon Point Marina, where a flotilla of expensive boats bob in&#8230;",
     "tags": [
       "ai",
       "research",
@@ -260,13 +180,13 @@
     ],
     "author": "MIT Technology Review AI",
     "source": "technologyreview.com",
-    "date": "2026-08-31",
+    "date": "2026-09-01",
     "score": 61
   },
   {
-    "title": "AI models flub these intelligence tests. Can you fare any better?",
-    "url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests",
-    "summary": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have advanced with a gaming gauntlet. The term “machine learning” was popularized in a 1959 article by the IBM computer scientist Arthur&#8230;",
+    "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
+    "url": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival",
+    "summary": "Humanoid robots are having a moment in China. The popular machines are part of the country’s strategy to bring artificial intelligence into daily life. Embedding the technology into physical systems—an idea called embodied AI—was a key facet of China’s latest five-year plan, and companies here are already world leaders in humanoids. Nearly 90% of the&#8230;",
     "tags": [
       "ai",
       "research",
@@ -274,7 +194,126 @@
     ],
     "author": "MIT Technology Review AI",
     "source": "technologyreview.com",
-    "date": "2026-08-31",
+    "date": "2026-09-01",
     "score": 61
+  },
+  {
+    "title": "🧠 Community Wisdom: Building without clear PM requirements, selling a product before building it, pricing fast-moving B2B SaaS, a year of job hunting, and more",
+    "url": "https://www.lennysnewsletter.com/p/community-wisdom-building-without",
+    "summary": "Community Wisdom 199",
+    "tags": [
+      "product",
+      "growth",
+      "startup"
+    ],
+    "author": "Lenny's Newsletter",
+    "source": "lennysnewsletter.com",
+    "date": "2026-09-01",
+    "score": 61
+  },
+  {
+    "title": "How to figure out your next career move",
+    "url": "https://www.lennysnewsletter.com/p/how-to-figure-out-your-next-career",
+    "summary": "Six essential questions to help you navigate change",
+    "tags": [
+      "product",
+      "growth",
+      "startup"
+    ],
+    "author": "Lenny's Newsletter",
+    "source": "lennysnewsletter.com",
+    "date": "2026-09-01",
+    "score": 61
+  },
+  {
+    "title": "Cheaper, Better, Faster, Stronger",
+    "url": "https://mistral.ai/news/mixtral-8x22b",
+    "summary": "Cheaper, Better, Faster, Stronger 是 Mistral AI 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_model",
+      "european_ai"
+    ],
+    "author": "Mistral AI",
+    "source": "mistral.ai",
+    "date": "2026-09-01",
+    "score": 60
+  },
+  {
+    "title": "Au Large",
+    "url": "https://mistral.ai/news/mistral-large",
+    "summary": "Au Large 是 Mistral AI 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_model",
+      "european_ai"
+    ],
+    "author": "Mistral AI",
+    "source": "mistral.ai",
+    "date": "2026-09-01",
+    "score": 60
+  },
+  {
+    "title": "Le Chat",
+    "url": "https://mistral.ai/news/le-chat-mistral",
+    "summary": "Le Chat 是 Mistral AI 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_model",
+      "european_ai"
+    ],
+    "author": "Mistral AI",
+    "source": "mistral.ai",
+    "date": "2026-09-01",
+    "score": 60
+  },
+  {
+    "title": "Mixtral of experts",
+    "url": "https://mistral.ai/news/mixtral-of-experts",
+    "summary": "Mixtral of experts 是 Mistral AI 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_model",
+      "european_ai"
+    ],
+    "author": "Mistral AI",
+    "source": "mistral.ai",
+    "date": "2026-09-01",
+    "score": 60
+  },
+  {
+    "title": "La Plateforme",
+    "url": "https://mistral.ai/news/la-plateforme",
+    "summary": "La Plateforme 是 Mistral AI 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_model",
+      "european_ai"
+    ],
+    "author": "Mistral AI",
+    "source": "mistral.ai",
+    "date": "2026-09-01",
+    "score": 60
+  },
+  {
+    "title": "Mistral 7B",
+    "url": "https://mistral.ai/news/announcing-mistral-7b",
+    "summary": "The best 7B model to date, Apache 2.0",
+    "tags": [
+      "open_model",
+      "european_ai"
+    ],
+    "author": "Mistral AI",
+    "source": "mistral.ai",
+    "date": "2026-09-01",
+    "score": 60
+  },
+  {
+    "title": "Bringing open AI models to the frontier",
+    "url": "https://mistral.ai/news/about-mistral-ai",
+    "summary": "Why we&apos;re building Mistral AI.",
+    "tags": [
+      "open_model",
+      "european_ai"
+    ],
+    "author": "Mistral AI",
+    "source": "mistral.ai",
+    "date": "2026-09-01",
+    "score": 60
   }
 ]

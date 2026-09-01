@@ -18166,5 +18166,235 @@
     "cluster_id": "technologyreview_com_42f14a2a",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_cbcf60fd42dd32ea",
+    "canonical_url": "https://vercel.com/changelog/fx-ai-sdk-harness-adapter",
+    "dedupe_key": "99028563316a384f",
+    "title": "fx is now available in the AI SDK harness layer",
+    "issue_date": "2026-09-01",
+    "cluster_id": "vercel_com_ff7747c0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d10899346b96ec07",
+    "canonical_url": "https://openai.com/index/polimill",
+    "dedupe_key": "eb9753eec2e55600",
+    "title": "Polimill builds Japan's next-generation public AI infrastructure",
+    "issue_date": "2026-09-01",
+    "cluster_id": "openai_com_9d35f729",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5d03fa08564c1a94",
+    "canonical_url": "https://vercel.com/blog/how-our-agents-build-on-brand-pages-with-design-md",
+    "dedupe_key": "b8d1d431674d0a84",
+    "title": "How our agents build on-brand pages with design.md",
+    "issue_date": "2026-09-01",
+    "cluster_id": "vercel_com_b516feb7",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ccc2cec23cecac8f",
+    "canonical_url": "https://vercel.com/changelog/set-per-user-budgets-on-ai-gateway",
+    "dedupe_key": "be97230bfcd0b4cd",
+    "title": "Set per-user budgets on AI Gateway",
+    "issue_date": "2026-09-01",
+    "cluster_id": "vercel_com_f6d3b855",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7a781f6d51def9c7",
+    "canonical_url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+    "dedupe_key": "b8dfff13c6c42878",
+    "title": "A milestone in expanding access to AI",
+    "issue_date": "2026-09-01",
+    "cluster_id": "openai_com_68e04a11",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5a9e138abb8285e6",
+    "canonical_url": "https://developer.nvidia.com/blog/run-nvidia-bionemo-nim-microservices-for-protein-structure-prediction-in-claude-science",
+    "dedupe_key": "f5c91f6f08fea91e",
+    "title": "Run NVIDIA BioNeMo NIM Microservices for Protein Structure Prediction in Claude Science",
+    "issue_date": "2026-09-01",
+    "cluster_id": "developer_nvidia_com_56c75e76",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_59ce70beb1cfa6b6",
+    "canonical_url": "https://developer.nvidia.com/blog/scale-av-perception-across-vehicle-platforms-with-nvidia-omniverse-nurec",
+    "dedupe_key": "1965f3f7eb13872d",
+    "title": "Scale AV Perception Across Vehicle Platforms with NVIDIA Omniverse NuRec",
+    "issue_date": "2026-09-01",
+    "cluster_id": "developer_nvidia_com_42d67995",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_bb6edc269146e232",
+    "canonical_url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai",
+    "dedupe_key": "6c8e72e4ef1822ba",
+    "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
+    "issue_date": "2026-09-01",
+    "cluster_id": "technologyreview_com_06175e49",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b377f346de860b19",
+    "canonical_url": "https://vercel.com/changelog/vercel-sandbox-now-calculates-snapshot-storage-costs-daily",
+    "dedupe_key": "09d1ebc091117673",
+    "title": "Vercel Sandbox now calculates snapshot storage costs daily",
+    "issue_date": "2026-09-01",
+    "cluster_id": "vercel_com_f73224b7",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_547236404c11ea3f",
+    "canonical_url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+    "dedupe_key": "226a8dc7a8bf9103",
+    "title": "Aug 31, 2026 Improving our alignment and security efforts",
+    "issue_date": "2026-09-01",
+    "cluster_id": "anthropic_com_df4dc9e8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b4d33942b407d1ac",
+    "canonical_url": "https://www.lennysnewsletter.com/p/how-i-ai-how-this-pm-uses-claude",
+    "dedupe_key": "050d7b2a60995730",
+    "title": "🎙️ How I AI: How this PM uses Claude to handle 70% to 80% of his workday",
+    "issue_date": "2026-09-01",
+    "cluster_id": "lennysnewsletter_com_a0e63f80",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e49983b5d204ff63",
+    "canonical_url": "https://www.lennysnewsletter.com/p/how-i-turned-claude-into-a-self-improving",
+    "dedupe_key": "137012f656d0cdc0",
+    "title": "How I turned Claude into a self-improving PM assistant | Daniel Blum (PM, Melio)",
+    "issue_date": "2026-09-01",
+    "cluster_id": "lennysnewsletter_com_40bde881",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_487102e242a74d9f",
+    "canonical_url": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold",
+    "dedupe_key": "c499bfa58af5c0cb",
+    "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
+    "issue_date": "2026-09-01",
+    "cluster_id": "technologyreview_com_faf63b2e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a881337f2d741184",
+    "canonical_url": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival",
+    "dedupe_key": "3f2bdc29691264ad",
+    "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
+    "issue_date": "2026-09-01",
+    "cluster_id": "technologyreview_com_9f803e21",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d5a66056605ad7c1",
+    "canonical_url": "https://www.lennysnewsletter.com/p/community-wisdom-building-without",
+    "dedupe_key": "9b5d195852a184f2",
+    "title": "🧠 Community Wisdom: Building without clear PM requirements, selling a product before building it, pricing fast-moving B2B SaaS, a year of job hunting, and more",
+    "issue_date": "2026-09-01",
+    "cluster_id": "lennysnewsletter_com_cd770768",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8b6ed4203a8b39e3",
+    "canonical_url": "https://www.lennysnewsletter.com/p/how-to-figure-out-your-next-career",
+    "dedupe_key": "4043ca46c9e03594",
+    "title": "How to figure out your next career move",
+    "issue_date": "2026-09-01",
+    "cluster_id": "lennysnewsletter_com_e4f4bc74",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_36b621d72a2a697a",
+    "canonical_url": "https://mistral.ai/news/mixtral-8x22b",
+    "dedupe_key": "abf7a73d72bee086",
+    "title": "Cheaper, Better, Faster, Stronger",
+    "issue_date": "2026-09-01",
+    "cluster_id": "mistral_ai_5e0d71f2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ebb263b0c2f49e40",
+    "canonical_url": "https://mistral.ai/news/mistral-large",
+    "dedupe_key": "fcb183a262eb3940",
+    "title": "Au Large",
+    "issue_date": "2026-09-01",
+    "cluster_id": "mistral_ai_a2d4f34d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1707fc292da598c7",
+    "canonical_url": "https://mistral.ai/news/le-chat-mistral",
+    "dedupe_key": "758bd1c28ec573d2",
+    "title": "Le Chat",
+    "issue_date": "2026-09-01",
+    "cluster_id": "mistral_ai_d6a9b244",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7ae32fa246b6b481",
+    "canonical_url": "https://mistral.ai/news/mixtral-of-experts",
+    "dedupe_key": "a1d6003fd95778f6",
+    "title": "Mixtral of experts",
+    "issue_date": "2026-09-01",
+    "cluster_id": "mistral_ai_70214dd5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_18c198fda6655dd9",
+    "canonical_url": "https://mistral.ai/news/la-plateforme",
+    "dedupe_key": "ca3d3764de8e2de2",
+    "title": "La Plateforme",
+    "issue_date": "2026-09-01",
+    "cluster_id": "mistral_ai_b05e340c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_162e57b86d4e516c",
+    "canonical_url": "https://mistral.ai/news/announcing-mistral-7b",
+    "dedupe_key": "d3db3dce052734e7",
+    "title": "Mistral 7B",
+    "issue_date": "2026-09-01",
+    "cluster_id": "mistral_ai_7f833636",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_cdc7792b82c48ae2",
+    "canonical_url": "https://mistral.ai/news/about-mistral-ai",
+    "dedupe_key": "775c4b967bb121e5",
+    "title": "Bringing open AI models to the frontier",
+    "issue_date": "2026-09-01",
+    "cluster_id": "mistral_ai_476fd66c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
