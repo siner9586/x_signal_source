@@ -18396,5 +18396,225 @@
     "cluster_id": "mistral_ai_476fd66c",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b4316bc676f0e6bd",
+    "canonical_url": "https://openai.com/index/ai-native-company-workflows",
+    "dedupe_key": "0bea4c3f2ce1ff30",
+    "title": "How AI-native companies turn workflows into operating capability",
+    "issue_date": "2026-09-02",
+    "cluster_id": "openai_com_08c75b11",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ab3ff19eb7625d60",
+    "canonical_url": "https://vercel.com/changelog/claude-fable-5-1-now-available-on-ai-gateway",
+    "dedupe_key": "cf7d26e95723dab5",
+    "title": "Claude Fable 5.1 now available on AI Gateway",
+    "issue_date": "2026-09-02",
+    "cluster_id": "vercel_com_b387cb05",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_56dafe3be4cb8a7b",
+    "canonical_url": "https://openai.com/index/path-to-astra",
+    "dedupe_key": "ab2b980707b1177f",
+    "title": "Path to Astra: critical capabilities and frontier safeguards",
+    "issue_date": "2026-09-02",
+    "cluster_id": "openai_com_0a177f2c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7ef6ef0536b3ff19",
+    "canonical_url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+    "dedupe_key": "9a304a318a2db8db",
+    "title": "Introducing Claude Fable 5.1 and Claude Mythos 5.1 Announcements Sep 1, 2026 Our most advanced models for coding and knowledge work. Their research capabilities also offer an early glimpse of how AI models will contribute to scientific progress.",
+    "issue_date": "2026-09-02",
+    "cluster_id": "anthropic_com_3884aa3e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b996503947dba08c",
+    "canonical_url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini",
+    "dedupe_key": "106be4003a2e1cbb",
+    "title": "Introducing agentic video understanding with Gemini",
+    "issue_date": "2026-09-02",
+    "cluster_id": "deepmind_google_2f5451b7",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f7c3f2b7cf21b395",
+    "canonical_url": "https://developer.nvidia.com/blog/building-an-adaptive-agentic-cybersecurity-system-with-nvidia-nemotron",
+    "dedupe_key": "242344a37b8b77ca",
+    "title": "Building an Adaptive Agentic Cybersecurity System with NVIDIA Nemotron",
+    "issue_date": "2026-09-02",
+    "cluster_id": "developer_nvidia_com_8fa8c9ac",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1d5a5cb6acf134d7",
+    "canonical_url": "https://elevenlabs.io/blog/elevenlabs-cli-v1",
+    "dedupe_key": "3f37040753c1e8e1",
+    "title": "Introducing the ElevenLabs CLI v1",
+    "issue_date": "2026-09-02",
+    "cluster_id": "elevenlabs_io_daf93c1e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_71da9aa986386430",
+    "canonical_url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+    "dedupe_key": "030f3215317913ef",
+    "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+    "issue_date": "2026-09-02",
+    "cluster_id": "openai_com_394a38e0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_da4928ac873c629c",
+    "canonical_url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+    "dedupe_key": "e1b2364efc345e8c",
+    "title": "OpenAI supports California’s bill to advance youth AI safety",
+    "issue_date": "2026-09-02",
+    "cluster_id": "openai_com_1fe7e9bb",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e18f82d01d369d2c",
+    "canonical_url": "https://developer.nvidia.com/blog/how-to-size-gpus-for-ai-inference-and-tco-without-overspending",
+    "dedupe_key": "0702a80dc912c22d",
+    "title": "How to Size GPUs for AI Inference and TCO Without Overspending",
+    "issue_date": "2026-09-02",
+    "cluster_id": "developer_nvidia_com_77dd98e3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_59179c34cb7fefc6",
+    "canonical_url": "https://vercel.com/blog/fluid-compute-takes-any-shape",
+    "dedupe_key": "3ce488f2fe75860f",
+    "title": "Compute that takes any shape",
+    "issue_date": "2026-09-02",
+    "cluster_id": "vercel_com_deca6366",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_96b0bffdd9fb8b3b",
+    "canonical_url": "https://huggingface.co/blog/allenai/benchmirt",
+    "dedupe_key": "488334184c598797",
+    "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+    "issue_date": "2026-09-02",
+    "cluster_id": "huggingface_co_06b4134d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_875c3c6c185c3697",
+    "canonical_url": "https://vercel.com/changelog/aws-privatelink-is-now-available-on-pro-and-enterprise",
+    "dedupe_key": "5a4bd3ba7af4e97e",
+    "title": "AWS PrivateLink is now available on Pro and Enterprise",
+    "issue_date": "2026-09-02",
+    "cluster_id": "vercel_com_32e8f40c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_43a75c0d3860fcc0",
+    "canonical_url": "https://huggingface.co/blog/webgpu-kernels",
+    "dedupe_key": "bad568fac9c0b238",
+    "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+    "issue_date": "2026-09-02",
+    "cluster_id": "huggingface_co_8fc175ac",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6156f9f11ed969ef",
+    "canonical_url": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
+    "dedupe_key": "7320c75c6d99cc35",
+    "title": "Sep 1, 2026 Announcements Developing Enterprise Frontier Safeguards with our customers",
+    "issue_date": "2026-09-02",
+    "cluster_id": "anthropic_com_6fac7f83",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e1dae3532fc51b6d",
+    "canonical_url": "https://x.ai/news/biosafety-at-the-frontier",
+    "dedupe_key": "1726bee795b2add4",
+    "title": "Sep 1, 2026 Biosecurity at the frontier",
+    "issue_date": "2026-09-02",
+    "cluster_id": "x_ai_38b8928b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f3c2c1e1ae205181",
+    "canonical_url": "https://arxiv.org/list/cs.AI/recent?skip=0&amp%3Bshow=50",
+    "dedupe_key": "7ba63375cd3fd2c1",
+    "title": "Tue, 1 Sep 2026",
+    "issue_date": "2026-09-02",
+    "cluster_id": "arxiv_org_be7e3c99",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7eec43dfc2f36c9b",
+    "canonical_url": "https://arxiv.org/list/cs.AI/recent?skip=424&amp%3Bshow=50",
+    "dedupe_key": "e043531421b87215",
+    "title": "Mon, 31 Aug 2026",
+    "issue_date": "2026-09-02",
+    "cluster_id": "arxiv_org_020a2a1a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_eba4bab8f0688b39",
+    "canonical_url": "https://arxiv.org/list/cs.AI/recent?skip=614&amp%3Bshow=50",
+    "dedupe_key": "a6636ac7e675e2d8",
+    "title": "Fri, 28 Aug 2026",
+    "issue_date": "2026-09-02",
+    "cluster_id": "arxiv_org_33a80876",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_585504b1c8d9a9d2",
+    "canonical_url": "https://arxiv.org/list/cs.AI/recent?skip=810&amp%3Bshow=50",
+    "dedupe_key": "3646b811a160300e",
+    "title": "Thu, 27 Aug 2026",
+    "issue_date": "2026-09-02",
+    "cluster_id": "arxiv_org_82f26c1b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a927c19f7016334c",
+    "canonical_url": "https://arxiv.org/list/cs.AI/recent?skip=1019&amp%3Bshow=50",
+    "dedupe_key": "eca990fba23c871b",
+    "title": "Wed, 26 Aug 2026",
+    "issue_date": "2026-09-02",
+    "cluster_id": "arxiv_org_bc33a9e1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_091a8692360bc3aa",
+    "canonical_url": "https://arxiv.org/abs/2607.05177",
+    "dedupe_key": "69e1b467fac210e3",
+    "title": "arXiv:2607.05177",
+    "issue_date": "2026-09-02",
+    "cluster_id": "arxiv_org_dc7c8945",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]

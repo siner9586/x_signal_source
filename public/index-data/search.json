@@ -1,22 +1,8 @@
 [
   {
-    "title": "fx is now available in the AI SDK harness layer",
-    "url": "https://vercel.com/changelog/fx-ai-sdk-harness-adapter",
-    "summary": "The AI SDK harness layer now supports fx , Vercel's lightweight, open-source coding agent. The harness layer provides one API for running coding agents in your application, so you can add fx without building a separate integration. Configure HarnessAgent with the official @ai-sdk/harness-fx adapter: The @ai-sdk/harness-fx adapter connects to fx over the Agent Client Protocol (ACP) using @ai-sdk/harness-acp . fx joins Claude Code, Cline, Codex, Cursor, Deep Agents, Grok Build,",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-09-01",
-    "score": 71
-  },
-  {
-    "title": "Polimill builds Japan's next-generation public AI infrastructure",
-    "url": "https://openai.com/index/polimill",
-    "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
+    "title": "How AI-native companies turn workflows into operating capability",
+    "url": "https://openai.com/index/ai-native-company-workflows",
+    "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
     "tags": [
       "ai_models",
       "official",
@@ -25,13 +11,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-09-01",
-    "score": 70
+    "date": "2026-09-02",
+    "score": 72
   },
   {
-    "title": "How our agents build on-brand pages with design.md",
-    "url": "https://vercel.com/blog/how-our-agents-build-on-brand-pages-with-design-md",
-    "summary": "Across Vercel, we use coding agents to design and build pages that have to look and feel like Vercel. The typography, color, and composition all need to carry the same judgment that we put into the pages we already ship ourselves. We recently wrote about product-design , our skill that teaches agents how we design when they work in our codebases. The skill lives in each repository alongside the code that it governs, explaining how agents can find and understand our design sys",
+    "title": "Claude Fable 5.1 now available on AI Gateway",
+    "url": "https://vercel.com/changelog/claude-fable-5-1-now-available-on-ai-gateway",
+    "summary": "Claude Fable 5.1 from Anthropic is now available on AI Gateway. Fable 5.1 improvements compared to previous Claude models are concentrated in long, multi-stage work like agentic coding, knowledge work, and research that takes several rounds of searching and following up. Anthropic ships Fable 5.1 with cybersecurity and biology safety classifiers enabled. Finding vulnerabilities in source code is allowed, but some routine coding and debugging may still be refused. To ensure re",
     "tags": [
       "sdk",
       "ai_infra",
@@ -39,98 +25,28 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-09-01",
-    "score": 70
+    "date": "2026-09-02",
+    "score": 72
   },
   {
-    "title": "Set per-user budgets on AI Gateway",
-    "url": "https://vercel.com/changelog/set-per-user-budgets-on-ai-gateway",
-    "summary": "You can now use AI Gateway budgets to set a dollar spending limit for each user on your team. The limit covers spend from every API key attributed to the user, along with their app tokens. After it's reached, AI Gateway rejects new requests until the budget resets or is increased. This is useful for controlling spend from coding agents and other workloads that run without supervision, and prevents one user from consuming all of the team's shared budget. Set user budgets Open ",
+    "title": "Path to Astra: critical capabilities and frontier safeguards",
+    "url": "https://openai.com/index/path-to-astra",
+    "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
     "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
+      "ai_models",
+      "official",
+      "research",
+      "developer"
     ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-09-01",
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-09-02",
     "score": 69
   },
   {
-    "title": "A milestone in expanding access to AI",
-    "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-    "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-09-01",
-    "score": 67
-  },
-  {
-    "title": "Run NVIDIA BioNeMo NIM Microservices for Protein Structure Prediction in Claude Science",
-    "url": "https://developer.nvidia.com/blog/run-nvidia-bionemo-nim-microservices-for-protein-structure-prediction-in-claude-science",
-    "summary": "NVIDIA Technical Blog · Run NVIDIA BioNeMo NIM Microservices for Protein Structure Prediction in Claude Science",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-09-01",
-    "score": 66
-  },
-  {
-    "title": "Scale AV Perception Across Vehicle Platforms with NVIDIA Omniverse NuRec",
-    "url": "https://developer.nvidia.com/blog/scale-av-perception-across-vehicle-platforms-with-nvidia-omniverse-nurec",
-    "summary": "NVIDIA Technical Blog · Scale AV Perception Across Vehicle Platforms with NVIDIA Omniverse NuRec",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-09-01",
-    "score": 66
-  },
-  {
-    "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
-    "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging Face while trying to cheat on&#8230;",
-    "tags": [
-      "ai",
-      "research",
-      "society"
-    ],
-    "author": "MIT Technology Review AI",
-    "source": "technologyreview.com",
-    "date": "2026-09-01",
-    "score": 66
-  },
-  {
-    "title": "Vercel Sandbox now calculates snapshot storage costs daily",
-    "url": "https://vercel.com/changelog/vercel-sandbox-now-calculates-snapshot-storage-costs-daily",
-    "summary": "Vercel now calculates charges for Sandbox snapshot storage from each day’s average usage and adds them to your monthly invoice. Previously, billing used one average across the entire monthly billing period. You can track these daily charges on the team’s Usage page and see how changes in storage affect your cost. The rate remains $0.08 per GB-month; only how usage is calculated has changed. The update takes effect automatically at the start of the next billing period for Pro ",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-09-01",
-    "score": 63
-  },
-  {
-    "title": "Aug 31, 2026 Improving our alignment and security efforts",
-    "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
-    "summary": "Newsroom \\ Anthropic · Aug 31, 2026 Improving our alignment and security efforts",
+    "title": "Introducing Claude Fable 5.1 and Claude Mythos 5.1 Announcements Sep 1, 2026 Our most advanced models for coding and knowledge work. Their research capabilities also offer an early glimpse of how AI models will contribute to scientific progress.",
+    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+    "summary": "Newsroom \\ Anthropic · Introducing Claude Fable 5.1 and Claude Mythos 5.1 Announcements Sep 1, 2026 Our most advanced models for coding and knowledge work. Their research capabilities also offer an early glimpse of how AI models will contribute to scientific progress.",
     "tags": [
       "ai_models",
       "safety",
@@ -138,182 +54,260 @@
     ],
     "author": "Anthropic",
     "source": "anthropic.com",
-    "date": "2026-09-01",
-    "score": 62
+    "date": "2026-09-02",
+    "score": 69
   },
   {
-    "title": "🎙️ How I AI: How this PM uses Claude to handle 70% to 80% of his workday",
-    "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-this-pm-uses-claude",
-    "summary": "Your weekly listens from How I AI, part of the Lenny&#8217;s Podcast Network",
+    "title": "Introducing agentic video understanding with Gemini",
+    "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini",
+    "summary": "Introducing agentic video understanding with Gemini 是 Google DeepMind 当日抓取到的公开新增条目。",
     "tags": [
-      "product",
-      "growth",
-      "startup"
-    ],
-    "author": "Lenny's Newsletter",
-    "source": "lennysnewsletter.com",
-    "date": "2026-09-01",
-    "score": 62
-  },
-  {
-    "title": "How I turned Claude into a self-improving PM assistant | Daniel Blum (PM, Melio)",
-    "url": "https://www.lennysnewsletter.com/p/how-i-turned-claude-into-a-self-improving",
-    "summary": "Listen now | &#127897;&#65039; PM Daniel Blum walks through the exact Cowork and Claude setup that manages his Notion, tracks his tasks across Slack and email, and self-improves every week without him lifting a finger",
-    "tags": [
-      "product",
-      "growth",
-      "startup"
-    ],
-    "author": "Lenny's Newsletter",
-    "source": "lennysnewsletter.com",
-    "date": "2026-09-01",
-    "score": 62
-  },
-  {
-    "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
-    "url": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold",
-    "summary": "It’s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, and the sky is incapable of being any more blue. The view from the Gates Ventures conference room overlooks the Carillon Point Marina, where a flotilla of expensive boats bob in&#8230;",
-    "tags": [
-      "ai",
       "research",
-      "society"
+      "multimodal",
+      "science",
+      "official"
     ],
-    "author": "MIT Technology Review AI",
-    "source": "technologyreview.com",
-    "date": "2026-09-01",
-    "score": 61
+    "author": "Google DeepMind",
+    "source": "deepmind.google",
+    "date": "2026-09-02",
+    "score": 69
   },
   {
-    "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
-    "url": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival",
-    "summary": "Humanoid robots are having a moment in China. The popular machines are part of the country’s strategy to bring artificial intelligence into daily life. Embedding the technology into physical systems—an idea called embodied AI—was a key facet of China’s latest five-year plan, and companies here are already world leaders in humanoids. Nearly 90% of the&#8230;",
+    "title": "Building an Adaptive Agentic Cybersecurity System with NVIDIA Nemotron",
+    "url": "https://developer.nvidia.com/blog/building-an-adaptive-agentic-cybersecurity-system-with-nvidia-nemotron",
+    "summary": "NVIDIA Technical Blog · Building an Adaptive Agentic Cybersecurity System with NVIDIA Nemotron",
     "tags": [
-      "ai",
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-09-02",
+    "score": 69
+  },
+  {
+    "title": "Introducing the ElevenLabs CLI v1",
+    "url": "https://elevenlabs.io/blog/elevenlabs-cli-v1",
+    "summary": "ElevenLabs Blog - Company, Research & Product Updates · Introducing the ElevenLabs CLI v1",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-09-02",
+    "score": 67
+  },
+  {
+    "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+    "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+    "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
+    "tags": [
+      "ai_models",
+      "official",
       "research",
-      "society"
+      "developer"
     ],
-    "author": "MIT Technology Review AI",
-    "source": "technologyreview.com",
-    "date": "2026-09-01",
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-09-02",
+    "score": 67
+  },
+  {
+    "title": "OpenAI supports California’s bill to advance youth AI safety",
+    "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+    "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-09-02",
+    "score": 67
+  },
+  {
+    "title": "How to Size GPUs for AI Inference and TCO Without Overspending",
+    "url": "https://developer.nvidia.com/blog/how-to-size-gpus-for-ai-inference-and-tco-without-overspending",
+    "summary": "NVIDIA Technical Blog · How to Size GPUs for AI Inference and TCO Without Overspending",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-09-02",
+    "score": 66
+  },
+  {
+    "title": "Compute that takes any shape",
+    "url": "https://vercel.com/blog/fluid-compute-takes-any-shape",
+    "summary": "Workloads differ in how long they run, how much memory they take, and how much of the environment they control. That previously meant a different compute primitive for each job, so product iterations required provisioning infrastructure, not just working on a feature. We built Vercel so that none of this has to be your problem. The compute layer is a single system with a simple job. Take any workload, assemble the machine it needs, swap configuration on the fly, and absorb bu",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-09-02",
+    "score": 65
+  },
+  {
+    "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+    "url": "https://huggingface.co/blog/allenai/benchmirt",
+    "summary": "BenchMIRT: What are LLM benchmarks actually measuring? 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-09-02",
+    "score": 64
+  },
+  {
+    "title": "AWS PrivateLink is now available on Pro and Enterprise",
+    "url": "https://vercel.com/changelog/aws-privatelink-is-now-available-on-pro-and-enterprise",
+    "summary": "AWS PrivateLink is now available for Pro and Enterprise teams as part of Advanced Networking. It allows Vercel Functions and builds to connect to AWS-hosted services without sending traffic over the public internet. Use it to reach AWS-hosted databases such as RDS, Aurora, and Neon; SaaS services such as Snowflake and MongoDB Atlas; internal services behind an AWS Network Load Balancer; and S3 or DynamoDB through gateway endpoints. To configure PrivateLink, open your project'",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-09-02",
+    "score": 63
+  },
+  {
+    "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+    "url": "https://huggingface.co/blog/webgpu-kernels",
+    "summary": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-09-02",
+    "score": 63
+  },
+  {
+    "title": "Sep 1, 2026 Announcements Developing Enterprise Frontier Safeguards with our customers",
+    "url": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
+    "summary": "Newsroom \\ Anthropic · Sep 1, 2026 Announcements Developing Enterprise Frontier Safeguards with our customers",
+    "tags": [
+      "ai_models",
+      "safety",
+      "official"
+    ],
+    "author": "Anthropic",
+    "source": "anthropic.com",
+    "date": "2026-09-02",
+    "score": 62
+  },
+  {
+    "title": "Sep 1, 2026 Biosecurity at the frontier",
+    "url": "https://x.ai/news/biosafety-at-the-frontier",
+    "summary": "SpaceXAI · Sep 1, 2026 Biosecurity at the frontier",
+    "tags": [
+      "ai_models",
+      "reasoning"
+    ],
+    "author": "xAI",
+    "source": "x.ai",
+    "date": "2026-09-02",
     "score": 61
   },
   {
-    "title": "🧠 Community Wisdom: Building without clear PM requirements, selling a product before building it, pricing fast-moving B2B SaaS, a year of job hunting, and more",
-    "url": "https://www.lennysnewsletter.com/p/community-wisdom-building-without",
-    "summary": "Community Wisdom 199",
+    "title": "Tue, 1 Sep 2026",
+    "url": "https://arxiv.org/list/cs.AI/recent?skip=0&amp%3Bshow=50",
+    "summary": "Artificial Intelligence · Tue, 1 Sep 2026",
     "tags": [
-      "product",
-      "growth",
-      "startup"
+      "paper",
+      "ai",
+      "arxiv"
     ],
-    "author": "Lenny's Newsletter",
-    "source": "lennysnewsletter.com",
-    "date": "2026-09-01",
-    "score": 61
-  },
-  {
-    "title": "How to figure out your next career move",
-    "url": "https://www.lennysnewsletter.com/p/how-to-figure-out-your-next-career",
-    "summary": "Six essential questions to help you navigate change",
-    "tags": [
-      "product",
-      "growth",
-      "startup"
-    ],
-    "author": "Lenny's Newsletter",
-    "source": "lennysnewsletter.com",
-    "date": "2026-09-01",
-    "score": 61
-  },
-  {
-    "title": "Cheaper, Better, Faster, Stronger",
-    "url": "https://mistral.ai/news/mixtral-8x22b",
-    "summary": "Cheaper, Better, Faster, Stronger 是 Mistral AI 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_model",
-      "european_ai"
-    ],
-    "author": "Mistral AI",
-    "source": "mistral.ai",
-    "date": "2026-09-01",
+    "author": "arXiv CS AI",
+    "source": "arxiv.org",
+    "date": "2026-09-02",
     "score": 60
   },
   {
-    "title": "Au Large",
-    "url": "https://mistral.ai/news/mistral-large",
-    "summary": "Au Large 是 Mistral AI 当日抓取到的公开新增条目。",
+    "title": "Mon, 31 Aug 2026",
+    "url": "https://arxiv.org/list/cs.AI/recent?skip=424&amp%3Bshow=50",
+    "summary": "Artificial Intelligence · Mon, 31 Aug 2026",
     "tags": [
-      "open_model",
-      "european_ai"
+      "paper",
+      "ai",
+      "arxiv"
     ],
-    "author": "Mistral AI",
-    "source": "mistral.ai",
-    "date": "2026-09-01",
+    "author": "arXiv CS AI",
+    "source": "arxiv.org",
+    "date": "2026-09-02",
     "score": 60
   },
   {
-    "title": "Le Chat",
-    "url": "https://mistral.ai/news/le-chat-mistral",
-    "summary": "Le Chat 是 Mistral AI 当日抓取到的公开新增条目。",
+    "title": "Fri, 28 Aug 2026",
+    "url": "https://arxiv.org/list/cs.AI/recent?skip=614&amp%3Bshow=50",
+    "summary": "Artificial Intelligence · Fri, 28 Aug 2026",
     "tags": [
-      "open_model",
-      "european_ai"
+      "paper",
+      "ai",
+      "arxiv"
     ],
-    "author": "Mistral AI",
-    "source": "mistral.ai",
-    "date": "2026-09-01",
+    "author": "arXiv CS AI",
+    "source": "arxiv.org",
+    "date": "2026-09-02",
     "score": 60
   },
   {
-    "title": "Mixtral of experts",
-    "url": "https://mistral.ai/news/mixtral-of-experts",
-    "summary": "Mixtral of experts 是 Mistral AI 当日抓取到的公开新增条目。",
+    "title": "Thu, 27 Aug 2026",
+    "url": "https://arxiv.org/list/cs.AI/recent?skip=810&amp%3Bshow=50",
+    "summary": "Artificial Intelligence · Thu, 27 Aug 2026",
     "tags": [
-      "open_model",
-      "european_ai"
+      "paper",
+      "ai",
+      "arxiv"
     ],
-    "author": "Mistral AI",
-    "source": "mistral.ai",
-    "date": "2026-09-01",
+    "author": "arXiv CS AI",
+    "source": "arxiv.org",
+    "date": "2026-09-02",
     "score": 60
   },
   {
-    "title": "La Plateforme",
-    "url": "https://mistral.ai/news/la-plateforme",
-    "summary": "La Plateforme 是 Mistral AI 当日抓取到的公开新增条目。",
+    "title": "Wed, 26 Aug 2026",
+    "url": "https://arxiv.org/list/cs.AI/recent?skip=1019&amp%3Bshow=50",
+    "summary": "Artificial Intelligence · Wed, 26 Aug 2026",
     "tags": [
-      "open_model",
-      "european_ai"
+      "paper",
+      "ai",
+      "arxiv"
     ],
-    "author": "Mistral AI",
-    "source": "mistral.ai",
-    "date": "2026-09-01",
+    "author": "arXiv CS AI",
+    "source": "arxiv.org",
+    "date": "2026-09-02",
     "score": 60
   },
   {
-    "title": "Mistral 7B",
-    "url": "https://mistral.ai/news/announcing-mistral-7b",
-    "summary": "The best 7B model to date, Apache 2.0",
+    "title": "arXiv:2607.05177",
+    "url": "https://arxiv.org/abs/2607.05177",
+    "summary": "Artificial Intelligence · arXiv:2607.05177",
     "tags": [
-      "open_model",
-      "european_ai"
+      "paper",
+      "ai",
+      "arxiv"
     ],
-    "author": "Mistral AI",
-    "source": "mistral.ai",
-    "date": "2026-09-01",
-    "score": 60
-  },
-  {
-    "title": "Bringing open AI models to the frontier",
-    "url": "https://mistral.ai/news/about-mistral-ai",
-    "summary": "Why we&apos;re building Mistral AI.",
-    "tags": [
-      "open_model",
-      "european_ai"
-    ],
-    "author": "Mistral AI",
-    "source": "mistral.ai",
-    "date": "2026-09-01",
+    "author": "arXiv CS AI",
+    "source": "arxiv.org",
+    "date": "2026-09-02",
     "score": 60
   }
 ]
