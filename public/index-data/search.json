@@ -1,23 +1,22 @@
 [
   {
-    "title": "How AI-native companies turn workflows into operating capability",
-    "url": "https://openai.com/index/ai-native-company-workflows",
-    "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
+    "title": "Co-Designing AI Models Using Speculative Decoding for Faster LLM Inference",
+    "url": "https://developer.nvidia.com/blog/co-designing-ai-models-using-speculative-decoding-for-faster-llm-inference",
+    "summary": "NVIDIA Technical Blog · Co-Designing AI Models Using Speculative Decoding for Faster LLM Inference",
     "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
+      "gpu",
+      "inference",
+      "ai_infra"
     ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-09-02",
-    "score": 72
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-09-03",
+    "score": 69
   },
   {
-    "title": "Claude Fable 5.1 now available on AI Gateway",
-    "url": "https://vercel.com/changelog/claude-fable-5-1-now-available-on-ai-gateway",
-    "summary": "Claude Fable 5.1 from Anthropic is now available on AI Gateway. Fable 5.1 improvements compared to previous Claude models are concentrated in long, multi-stage work like agentic coding, knowledge work, and research that takes several rounds of searching and following up. Anthropic ships Fable 5.1 with cybersecurity and biology safety classifiers enabled. Finding vulnerabilities in source code is allowed, but some routine coding and debugging may still be refused. To ensure re",
+    "title": "Muse Spark 1.3 now available on AI Gateway",
+    "url": "https://vercel.com/changelog/muse-spark-1-3-now-available-on-ai-gateway",
+    "summary": "Muse Spark 1.3 from Meta is now available on AI Gateway, in both the standard and contributor pricing tiers. This model improves on prior Muse Spark models at agent work and coding, with a 1M token context window and text, image, and PDF input. On coding it takes fewer turns and writes less filler than the previous release. To use Muse Spark 1.3, set model to meta/muse-spark-1.3 : Contributor tier Muse Spark 1.3 Contributor is a pricing tier on the same model rather than a se",
     "tags": [
       "sdk",
       "ai_infra",
@@ -25,13 +24,68 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-09-02",
-    "score": 72
+    "date": "2026-09-03",
+    "score": 69
   },
   {
-    "title": "Path to Astra: critical capabilities and frontier safeguards",
-    "url": "https://openai.com/index/path-to-astra",
-    "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
+    "title": "Qwen 3.8 Max 0902 now available on AI Gateway",
+    "url": "https://vercel.com/changelog/qwen-3-8-max-0902-now-available-on-ai-gateway",
+    "summary": "Qwen 3.8 Max 0902 from Alibaba is now available on AI Gateway. This is a new snapshot of Qwen 3.8 Max, with the gains concentrated in coding on larger projects, long-horizon work that runs without supervision, and agent runs. Vision handling is more accurate on charts and dense documents. To use Qwen 3.8 Max 0902, set model to alibaba/qwen3.8-max-0902 : The dated ID pins this snapshot, so a later release will not change what your requests run against. To move existing traffic",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-09-03",
+    "score": 69
+  },
+  {
+    "title": "Gemini 3.8 Flash now available on AI Gateway",
+    "url": "https://vercel.com/changelog/gemini-3-8-flash-now-available-on-ai-gateway",
+    "summary": "Gemini 3.8 Flash from Google is now available on AI Gateway. The model is 50% off through December 31st. It has a 1M token context window, accepts text, image, PDF, and video input, returns text, and supports tool calling and web search. Maximum output is 65,536 tokens. Gemini 3.8 Flash improves on prior Flash models at software engineering, agent work, and multi-step reasoning, at the same speed and cost as the previous release. Thinking is on by default. To use Gemini 3.8 F",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-09-03",
+    "score": 68
+  },
+  {
+    "title": "VLANeXt: A Simple and Research-Oriented Codebase for Robotics Research cavanloy • 3 days ago • 19",
+    "url": "https://huggingface.co/blog/cavanloy/vlanext",
+    "summary": "Hugging Face – Blog · VLANeXt: A Simple and Research-Oriented Codebase for Robotics Research cavanloy • 3 days ago • 19",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-09-03",
+    "score": 68
+  },
+  {
+    "title": "Ashley Kramer joins ElevenLabs as Chief Revenue Officer",
+    "url": "https://elevenlabs.io/blog/cro",
+    "summary": "ElevenLabs Blog - Company, Research & Product Updates · Ashley Kramer joins ElevenLabs as Chief Revenue Officer",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-09-03",
+    "score": 67
+  },
+  {
+    "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+    "url": "https://openai.com/index/gilbert-tobin",
+    "summary": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
     "tags": [
       "ai_models",
       "official",
@@ -40,27 +94,39 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-09-02",
-    "score": 69
+    "date": "2026-09-03",
+    "score": 67
   },
   {
-    "title": "Introducing Claude Fable 5.1 and Claude Mythos 5.1 Announcements Sep 1, 2026 Our most advanced models for coding and knowledge work. Their research capabilities also offer an early glimpse of how AI models will contribute to scientific progress.",
-    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-    "summary": "Newsroom \\ Anthropic · Introducing Claude Fable 5.1 and Claude Mythos 5.1 Announcements Sep 1, 2026 Our most advanced models for coding and knowledge work. Their research capabilities also offer an early glimpse of how AI models will contribute to scientific progress.",
+    "title": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing&#8230; oh my!",
+    "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my",
+    "summary": "From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations. The post Decoding the new AI lingo: Loops, harnesses, squads, hill climbing&#8230; oh my! appeared first on The GitHub Blog .",
     "tags": [
-      "ai_models",
-      "safety",
-      "official"
+      "ai_coding",
+      "developer_tools"
     ],
-    "author": "Anthropic",
-    "source": "anthropic.com",
-    "date": "2026-09-02",
-    "score": 69
+    "author": "GitHub Copilot",
+    "source": "github.blog",
+    "date": "2026-09-03",
+    "score": 67
   },
   {
-    "title": "Introducing agentic video understanding with Gemini",
-    "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini",
-    "summary": "Introducing agentic video understanding with Gemini 是 Google DeepMind 当日抓取到的公开新增条目。",
+    "title": "How we make AI coding more cost efficient without sacrificing task quality",
+    "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality",
+    "summary": "Why shorter outputs can cost more, and how GitHub Copilot reduces wasted work across the complete coding task. The post How we make AI coding more cost efficient without sacrificing task quality appeared first on The GitHub Blog .",
+    "tags": [
+      "ai_coding",
+      "developer_tools"
+    ],
+    "author": "GitHub Copilot",
+    "source": "github.blog",
+    "date": "2026-09-03",
+    "score": 67
+  },
+  {
+    "title": "Proactive cyber defense for governments and enterprises",
+    "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises",
+    "summary": "Proactive cyber defense for governments and enterprises 是 Google DeepMind 当日抓取到的公开新增条目。",
     "tags": [
       "research",
       "multimodal",
@@ -69,112 +135,56 @@
     ],
     "author": "Google DeepMind",
     "source": "deepmind.google",
-    "date": "2026-09-02",
-    "score": 69
-  },
-  {
-    "title": "Building an Adaptive Agentic Cybersecurity System with NVIDIA Nemotron",
-    "url": "https://developer.nvidia.com/blog/building-an-adaptive-agentic-cybersecurity-system-with-nvidia-nemotron",
-    "summary": "NVIDIA Technical Blog · Building an Adaptive Agentic Cybersecurity System with NVIDIA Nemotron",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-09-02",
-    "score": 69
-  },
-  {
-    "title": "Introducing the ElevenLabs CLI v1",
-    "url": "https://elevenlabs.io/blog/elevenlabs-cli-v1",
-    "summary": "ElevenLabs Blog - Company, Research & Product Updates · Introducing the ElevenLabs CLI v1",
-    "tags": [
-      "voice_ai",
-      "audio"
-    ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-09-02",
-    "score": 67
-  },
-  {
-    "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-    "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-    "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-09-02",
-    "score": 67
-  },
-  {
-    "title": "OpenAI supports California’s bill to advance youth AI safety",
-    "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-    "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-09-02",
-    "score": 67
-  },
-  {
-    "title": "How to Size GPUs for AI Inference and TCO Without Overspending",
-    "url": "https://developer.nvidia.com/blog/how-to-size-gpus-for-ai-inference-and-tco-without-overspending",
-    "summary": "NVIDIA Technical Blog · How to Size GPUs for AI Inference and TCO Without Overspending",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-09-02",
+    "date": "2026-09-03",
     "score": 66
   },
   {
-    "title": "Compute that takes any shape",
-    "url": "https://vercel.com/blog/fluid-compute-takes-any-shape",
-    "summary": "Workloads differ in how long they run, how much memory they take, and how much of the environment they control. That previously meant a different compute primitive for each job, so product iterations required provisioning infrastructure, not just working on a feature. We built Vercel so that none of this has to be your problem. The compute layer is a single system with a simple job. Take any workload, assemble the machine it needs, swap configuration on the fly, and absorb bu",
+    "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber",
+    "summary": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber 是 Google DeepMind 当日抓取到的公开新增条目。",
     "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
+      "research",
+      "multimodal",
+      "science",
+      "official"
     ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-09-02",
-    "score": 65
+    "author": "Google DeepMind",
+    "source": "deepmind.google",
+    "date": "2026-09-03",
+    "score": 66
   },
   {
-    "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-    "url": "https://huggingface.co/blog/allenai/benchmirt",
-    "summary": "BenchMIRT: What are LLM benchmarks actually measuring? 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "The Modern CUDA Toolbox in Practice: A Step-by-Step Optimization Walkthrough",
+    "url": "https://developer.nvidia.com/blog/the-modern-cuda-toolbox-in-practice-a-step-by-step-optimization-walkthrough",
+    "summary": "NVIDIA Technical Blog · The Modern CUDA Toolbox in Practice: A Step-by-Step Optimization Walkthrough",
     "tags": [
-      "open_source",
-      "papers",
-      "models"
+      "gpu",
+      "inference",
+      "ai_infra"
     ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-09-02",
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-09-03",
+    "score": 66
+  },
+  {
+    "title": "Grok Bot vs. OpenClaw: How I replaced my entire agent stack",
+    "url": "https://www.lennysnewsletter.com/p/grok-bot-vs-openclaw-how-i-replaced",
+    "summary": "Watch now | &#127897;&#65039; I&#8217;ve been running Grok Bot for several weeks, and I&#8217;ve killed every OpenClaw I had. Here are the nine bots doing real work across my inbox, my kids&#8217; school pickups, my PR queue, and my wardrobe",
+    "tags": [
+      "product",
+      "growth",
+      "startup"
+    ],
+    "author": "Lenny's Newsletter",
+    "source": "lennysnewsletter.com",
+    "date": "2026-09-03",
     "score": 64
   },
   {
-    "title": "AWS PrivateLink is now available on Pro and Enterprise",
-    "url": "https://vercel.com/changelog/aws-privatelink-is-now-available-on-pro-and-enterprise",
-    "summary": "AWS PrivateLink is now available for Pro and Enterprise teams as part of Advanced Networking. It allows Vercel Functions and builds to connect to AWS-hosted services without sending traffic over the public internet. Use it to reach AWS-hosted databases such as RDS, Aurora, and Neon; SaaS services such as Snowflake and MongoDB Atlas; internal services behind an AWS Network Load Balancer; and S3 or DynamoDB through gateway endpoints. To configure PrivateLink, open your project'",
+    "title": "Free domain with Pro offer now includes .app and .dev",
+    "url": "https://vercel.com/changelog/app-and-dev-domains-included-with-free-domain-for-pro",
+    "summary": "We recently announced that all Pro teams can claim a free domain for one year . That offer now includes .app and .dev , bringing the eligible TLDs to eight: .app .dev .online .site .space .store .tech .website The offer still covers one domain per team, and premium domains are not eligible. After the first year, your domain will renew automatically at the regular price shown at checkout when you claim it. Claim yours at vercel.com/domains , and see the free domain FAQ for ful",
     "tags": [
       "sdk",
       "ai_infra",
@@ -182,13 +192,27 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-09-02",
+    "date": "2026-09-03",
     "score": 63
   },
   {
-    "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-    "url": "https://huggingface.co/blog/webgpu-kernels",
-    "summary": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "GLM-5.3 is 50% off through DigitalOcean on AI Gateway",
+    "url": "https://vercel.com/changelog/glm-5-3-is-50-off-through-digitalocean-on-ai-gateway",
+    "summary": "GLM-5.3 is 50% off on AI Gateway through Tuesday, September 8, in partnership with DigitalOcean. How to use the model during the offer period Using the promo name ( zai/glm-5.3-promo-50 ) gets the discounted rate. It routes only to DigitalOcean, with no fallback to another provider, and it stops serving when the offer ends. Using the standard name (i.e., zai/glm-5.3 ) with provider options to sort DigitalOcean as the preferred provider keeps working after September 8 and rout",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-09-03",
+    "score": 63
+  },
+  {
+    "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+    "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+    "summary": "Real-Time Intelligence with IBM Time Series Models on Confluent 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -196,118 +220,63 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-09-02",
-    "score": 63
-  },
-  {
-    "title": "Sep 1, 2026 Announcements Developing Enterprise Frontier Safeguards with our customers",
-    "url": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
-    "summary": "Newsroom \\ Anthropic · Sep 1, 2026 Announcements Developing Enterprise Frontier Safeguards with our customers",
-    "tags": [
-      "ai_models",
-      "safety",
-      "official"
-    ],
-    "author": "Anthropic",
-    "source": "anthropic.com",
-    "date": "2026-09-02",
+    "date": "2026-09-03",
     "score": 62
   },
   {
-    "title": "Sep 1, 2026 Biosecurity at the frontier",
-    "url": "https://x.ai/news/biosafety-at-the-frontier",
-    "summary": "SpaceXAI · Sep 1, 2026 Biosecurity at the frontier",
+    "title": "Facilitating AI integration with simplicity at scale",
+    "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale",
+    "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate responses, and make decisions with confidence. For Jabil, a global manufacturing company with more than&#8230;",
     "tags": [
-      "ai_models",
-      "reasoning"
+      "ai",
+      "research",
+      "society"
     ],
-    "author": "xAI",
-    "source": "x.ai",
-    "date": "2026-09-02",
+    "author": "MIT Technology Review AI",
+    "source": "technologyreview.com",
+    "date": "2026-09-03",
     "score": 61
   },
   {
-    "title": "Tue, 1 Sep 2026",
-    "url": "https://arxiv.org/list/cs.AI/recent?skip=0&amp%3Bshow=50",
-    "summary": "Artificial Intelligence · Tue, 1 Sep 2026",
+    "title": "Meta Settles, A Framework For Regulating Content, The Rest of Big Tech",
+    "url": "https://stratechery.com/2026/meta-settles-a-framework-for-regulating-content-the-rest-of-big-tech",
+    "summary": "Meta's settlement makes sense for all parties, but the entire sage highlights why any solution to regulating technology feels off.",
     "tags": [
-      "paper",
-      "ai",
-      "arxiv"
+      "strategy",
+      "tech",
+      "business"
     ],
-    "author": "arXiv CS AI",
-    "source": "arxiv.org",
-    "date": "2026-09-02",
-    "score": 60
+    "author": "Stratechery",
+    "source": "stratechery.com",
+    "date": "2026-09-03",
+    "score": 59
   },
   {
-    "title": "Mon, 31 Aug 2026",
-    "url": "https://arxiv.org/list/cs.AI/recent?skip=424&amp%3Bshow=50",
-    "summary": "Artificial Intelligence · Mon, 31 Aug 2026",
+    "title": "Wed, 2 Sep 2026",
+    "url": "https://arxiv.org/list/cs.CL/recent?skip=0&amp%3Bshow=50",
+    "summary": "Computation and Language · Wed, 2 Sep 2026",
     "tags": [
       "paper",
-      "ai",
+      "nlp",
       "arxiv"
     ],
-    "author": "arXiv CS AI",
+    "author": "arXiv CS CL",
     "source": "arxiv.org",
-    "date": "2026-09-02",
-    "score": 60
+    "date": "2026-09-03",
+    "score": 59
   },
   {
-    "title": "Fri, 28 Aug 2026",
-    "url": "https://arxiv.org/list/cs.AI/recent?skip=614&amp%3Bshow=50",
-    "summary": "Artificial Intelligence · Fri, 28 Aug 2026",
+    "title": "Apple Updates Mini and Studio, AI Computers, OpenAI Jalapeño",
+    "url": "https://stratechery.com/2026/apple-updates-mini-and-studio-ai-computers-openai-jalapeno",
+    "summary": "Apple and OpenAI have two completely different hardware announcements; both represent pressure on Nvidia.",
     "tags": [
-      "paper",
-      "ai",
-      "arxiv"
+      "strategy",
+      "tech",
+      "business"
     ],
-    "author": "arXiv CS AI",
-    "source": "arxiv.org",
-    "date": "2026-09-02",
-    "score": 60
-  },
-  {
-    "title": "Thu, 27 Aug 2026",
-    "url": "https://arxiv.org/list/cs.AI/recent?skip=810&amp%3Bshow=50",
-    "summary": "Artificial Intelligence · Thu, 27 Aug 2026",
-    "tags": [
-      "paper",
-      "ai",
-      "arxiv"
-    ],
-    "author": "arXiv CS AI",
-    "source": "arxiv.org",
-    "date": "2026-09-02",
-    "score": 60
-  },
-  {
-    "title": "Wed, 26 Aug 2026",
-    "url": "https://arxiv.org/list/cs.AI/recent?skip=1019&amp%3Bshow=50",
-    "summary": "Artificial Intelligence · Wed, 26 Aug 2026",
-    "tags": [
-      "paper",
-      "ai",
-      "arxiv"
-    ],
-    "author": "arXiv CS AI",
-    "source": "arxiv.org",
-    "date": "2026-09-02",
-    "score": 60
-  },
-  {
-    "title": "arXiv:2607.05177",
-    "url": "https://arxiv.org/abs/2607.05177",
-    "summary": "Artificial Intelligence · arXiv:2607.05177",
-    "tags": [
-      "paper",
-      "ai",
-      "arxiv"
-    ],
-    "author": "arXiv CS AI",
-    "source": "arxiv.org",
-    "date": "2026-09-02",
-    "score": 60
+    "author": "Stratechery",
+    "source": "stratechery.com",
+    "date": "2026-09-03",
+    "score": 58
   }
 ]

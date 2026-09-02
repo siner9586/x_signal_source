@@ -18616,5 +18616,205 @@
     "cluster_id": "arxiv_org_dc7c8945",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_13fde74427c9ecf7",
+    "canonical_url": "https://developer.nvidia.com/blog/co-designing-ai-models-using-speculative-decoding-for-faster-llm-inference",
+    "dedupe_key": "1f1aa28e468848ba",
+    "title": "Co-Designing AI Models Using Speculative Decoding for Faster LLM Inference",
+    "issue_date": "2026-09-03",
+    "cluster_id": "developer_nvidia_com_25908cd5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2e69f010b7bc8fe5",
+    "canonical_url": "https://vercel.com/changelog/muse-spark-1-3-now-available-on-ai-gateway",
+    "dedupe_key": "c9ea307e1789ab9d",
+    "title": "Muse Spark 1.3 now available on AI Gateway",
+    "issue_date": "2026-09-03",
+    "cluster_id": "vercel_com_f042861e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_db18d64f804781d9",
+    "canonical_url": "https://vercel.com/changelog/qwen-3-8-max-0902-now-available-on-ai-gateway",
+    "dedupe_key": "245c4124a575c531",
+    "title": "Qwen 3.8 Max 0902 now available on AI Gateway",
+    "issue_date": "2026-09-03",
+    "cluster_id": "vercel_com_680b608b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_00849c847606b11d",
+    "canonical_url": "https://vercel.com/changelog/gemini-3-8-flash-now-available-on-ai-gateway",
+    "dedupe_key": "ec37ea321e5f7795",
+    "title": "Gemini 3.8 Flash now available on AI Gateway",
+    "issue_date": "2026-09-03",
+    "cluster_id": "vercel_com_81a5e28e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_18b513961757a149",
+    "canonical_url": "https://huggingface.co/blog/cavanloy/vlanext",
+    "dedupe_key": "edf96cb4436523f0",
+    "title": "VLANeXt: A Simple and Research-Oriented Codebase for Robotics Research cavanloy • 3 days ago • 19",
+    "issue_date": "2026-09-03",
+    "cluster_id": "huggingface_co_6aa90cb4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5be8c4296dead13c",
+    "canonical_url": "https://elevenlabs.io/blog/cro",
+    "dedupe_key": "8d72435c5a2eee19",
+    "title": "Ashley Kramer joins ElevenLabs as Chief Revenue Officer",
+    "issue_date": "2026-09-03",
+    "cluster_id": "elevenlabs_io_b51c5cd3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_599420ec3e9887ac",
+    "canonical_url": "https://openai.com/index/gilbert-tobin",
+    "dedupe_key": "b9465951dc258d9d",
+    "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+    "issue_date": "2026-09-03",
+    "cluster_id": "openai_com_f4039722",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3e6ecf53479a3743",
+    "canonical_url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my",
+    "dedupe_key": "fae7c4cabaaee4c4",
+    "title": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing&#8230; oh my!",
+    "issue_date": "2026-09-03",
+    "cluster_id": "github_blog_b35e66ec",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3e1e61d4a3c780b4",
+    "canonical_url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality",
+    "dedupe_key": "4236156631f0f820",
+    "title": "How we make AI coding more cost efficient without sacrificing task quality",
+    "issue_date": "2026-09-03",
+    "cluster_id": "github_blog_6fb69a79",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6a9c7916fd12cf68",
+    "canonical_url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises",
+    "dedupe_key": "b634ac373a581722",
+    "title": "Proactive cyber defense for governments and enterprises",
+    "issue_date": "2026-09-03",
+    "cluster_id": "deepmind_google_dd2f2d11",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e2bff8ff0a85e920",
+    "canonical_url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber",
+    "dedupe_key": "17706b50304a053b",
+    "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+    "issue_date": "2026-09-03",
+    "cluster_id": "deepmind_google_d125ab04",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7c287a880ea959e2",
+    "canonical_url": "https://developer.nvidia.com/blog/the-modern-cuda-toolbox-in-practice-a-step-by-step-optimization-walkthrough",
+    "dedupe_key": "07bb77c8b357734e",
+    "title": "The Modern CUDA Toolbox in Practice: A Step-by-Step Optimization Walkthrough",
+    "issue_date": "2026-09-03",
+    "cluster_id": "developer_nvidia_com_0a56d88c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f9255add358497bc",
+    "canonical_url": "https://www.lennysnewsletter.com/p/grok-bot-vs-openclaw-how-i-replaced",
+    "dedupe_key": "f4e7cb4c1bbfabb0",
+    "title": "Grok Bot vs. OpenClaw: How I replaced my entire agent stack",
+    "issue_date": "2026-09-03",
+    "cluster_id": "lennysnewsletter_com_e16c0d01",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_fbe0bc56efe73619",
+    "canonical_url": "https://vercel.com/changelog/app-and-dev-domains-included-with-free-domain-for-pro",
+    "dedupe_key": "5f3767d38bb9545b",
+    "title": "Free domain with Pro offer now includes .app and .dev",
+    "issue_date": "2026-09-03",
+    "cluster_id": "vercel_com_59532642",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_255492daaa25a148",
+    "canonical_url": "https://vercel.com/changelog/glm-5-3-is-50-off-through-digitalocean-on-ai-gateway",
+    "dedupe_key": "7b6c1a37c88f0be2",
+    "title": "GLM-5.3 is 50% off through DigitalOcean on AI Gateway",
+    "issue_date": "2026-09-03",
+    "cluster_id": "vercel_com_46c9a79d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_afb790fa565a6dfb",
+    "canonical_url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+    "dedupe_key": "1c5ed30c737e36bc",
+    "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+    "issue_date": "2026-09-03",
+    "cluster_id": "huggingface_co_f1acc259",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8ad1cf7e0ef9bad8",
+    "canonical_url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale",
+    "dedupe_key": "c01a48ca1cc65b74",
+    "title": "Facilitating AI integration with simplicity at scale",
+    "issue_date": "2026-09-03",
+    "cluster_id": "technologyreview_com_768846be",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_cb8f92ad2c1dec03",
+    "canonical_url": "https://stratechery.com/2026/meta-settles-a-framework-for-regulating-content-the-rest-of-big-tech",
+    "dedupe_key": "ef9c145b83ed84f4",
+    "title": "Meta Settles, A Framework For Regulating Content, The Rest of Big Tech",
+    "issue_date": "2026-09-03",
+    "cluster_id": "stratechery_com_ac7d3fb0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_30eee1bd77c99317",
+    "canonical_url": "https://arxiv.org/list/cs.CL/recent?skip=0&amp%3Bshow=50",
+    "dedupe_key": "3c9d329bb26db2f1",
+    "title": "Wed, 2 Sep 2026",
+    "issue_date": "2026-09-03",
+    "cluster_id": "arxiv_org_00345260",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f9e3a6b8b30c4327",
+    "canonical_url": "https://stratechery.com/2026/apple-updates-mini-and-studio-ai-computers-openai-jalapeno",
+    "dedupe_key": "bc0dac4ad1f8bd24",
+    "title": "Apple Updates Mini and Studio, AI Computers, OpenAI Jalapeño",
+    "issue_date": "2026-09-03",
+    "cluster_id": "stratechery_com_9b3950a6",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
