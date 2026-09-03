@@ -1,91 +1,21 @@
 [
   {
-    "title": "Co-Designing AI Models Using Speculative Decoding for Faster LLM Inference",
-    "url": "https://developer.nvidia.com/blog/co-designing-ai-models-using-speculative-decoding-for-faster-llm-inference",
-    "summary": "NVIDIA Technical Blog · Co-Designing AI Models Using Speculative Decoding for Faster LLM Inference",
+    "title": "GitHub Copilot app for Beginners: Run several agents at once",
+    "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once",
+    "summary": "Learn how to run parallel agents in the GitHub Copilot app, and experience the moment it stops feeling scary and starts feeling powerful. The post GitHub Copilot app for Beginners: Run several agents at once appeared first on The GitHub Blog .",
     "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
+      "ai_coding",
+      "developer_tools"
     ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-09-03",
-    "score": 69
+    "author": "GitHub Copilot",
+    "source": "github.blog",
+    "date": "2026-09-04",
+    "score": 70
   },
   {
-    "title": "Muse Spark 1.3 now available on AI Gateway",
-    "url": "https://vercel.com/changelog/muse-spark-1-3-now-available-on-ai-gateway",
-    "summary": "Muse Spark 1.3 from Meta is now available on AI Gateway, in both the standard and contributor pricing tiers. This model improves on prior Muse Spark models at agent work and coding, with a 1M token context window and text, image, and PDF input. On coding it takes fewer turns and writes less filler than the previous release. To use Muse Spark 1.3, set model to meta/muse-spark-1.3 : Contributor tier Muse Spark 1.3 Contributor is a pricing tier on the same model rather than a se",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-09-03",
-    "score": 69
-  },
-  {
-    "title": "Qwen 3.8 Max 0902 now available on AI Gateway",
-    "url": "https://vercel.com/changelog/qwen-3-8-max-0902-now-available-on-ai-gateway",
-    "summary": "Qwen 3.8 Max 0902 from Alibaba is now available on AI Gateway. This is a new snapshot of Qwen 3.8 Max, with the gains concentrated in coding on larger projects, long-horizon work that runs without supervision, and agent runs. Vision handling is more accurate on charts and dense documents. To use Qwen 3.8 Max 0902, set model to alibaba/qwen3.8-max-0902 : The dated ID pins this snapshot, so a later release will not change what your requests run against. To move existing traffic",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-09-03",
-    "score": 69
-  },
-  {
-    "title": "Gemini 3.8 Flash now available on AI Gateway",
-    "url": "https://vercel.com/changelog/gemini-3-8-flash-now-available-on-ai-gateway",
-    "summary": "Gemini 3.8 Flash from Google is now available on AI Gateway. The model is 50% off through December 31st. It has a 1M token context window, accepts text, image, PDF, and video input, returns text, and supports tool calling and web search. Maximum output is 65,536 tokens. Gemini 3.8 Flash improves on prior Flash models at software engineering, agent work, and multi-step reasoning, at the same speed and cost as the previous release. Thinking is on by default. To use Gemini 3.8 F",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-09-03",
-    "score": 68
-  },
-  {
-    "title": "VLANeXt: A Simple and Research-Oriented Codebase for Robotics Research cavanloy • 3 days ago • 19",
-    "url": "https://huggingface.co/blog/cavanloy/vlanext",
-    "summary": "Hugging Face – Blog · VLANeXt: A Simple and Research-Oriented Codebase for Robotics Research cavanloy • 3 days ago • 19",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-09-03",
-    "score": 68
-  },
-  {
-    "title": "Ashley Kramer joins ElevenLabs as Chief Revenue Officer",
-    "url": "https://elevenlabs.io/blog/cro",
-    "summary": "ElevenLabs Blog - Company, Research & Product Updates · Ashley Kramer joins ElevenLabs as Chief Revenue Officer",
-    "tags": [
-      "voice_ai",
-      "audio"
-    ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-09-03",
-    "score": 67
-  },
-  {
-    "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
-    "url": "https://openai.com/index/gilbert-tobin",
-    "summary": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
+    "title": "Safety overview: GPT-6 Astra",
+    "url": "https://openai.com/index/safety-overview-gpt-6-astra",
+    "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
     "tags": [
       "ai_models",
       "official",
@@ -94,39 +24,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-09-03",
-    "score": 67
+    "date": "2026-09-04",
+    "score": 69
   },
   {
-    "title": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing&#8230; oh my!",
-    "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my",
-    "summary": "From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations. The post Decoding the new AI lingo: Loops, harnesses, squads, hill climbing&#8230; oh my! appeared first on The GitHub Blog .",
-    "tags": [
-      "ai_coding",
-      "developer_tools"
-    ],
-    "author": "GitHub Copilot",
-    "source": "github.blog",
-    "date": "2026-09-03",
-    "score": 67
-  },
-  {
-    "title": "How we make AI coding more cost efficient without sacrificing task quality",
-    "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality",
-    "summary": "Why shorter outputs can cost more, and how GitHub Copilot reduces wasted work across the complete coding task. The post How we make AI coding more cost efficient without sacrificing task quality appeared first on The GitHub Blog .",
-    "tags": [
-      "ai_coding",
-      "developer_tools"
-    ],
-    "author": "GitHub Copilot",
-    "source": "github.blog",
-    "date": "2026-09-03",
-    "score": 67
-  },
-  {
-    "title": "Proactive cyber defense for governments and enterprises",
-    "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises",
-    "summary": "Proactive cyber defense for governments and enterprises 是 Google DeepMind 当日抓取到的公开新增条目。",
+    "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+    "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model",
+    "summary": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model 是 Google DeepMind 当日抓取到的公开新增条目。",
     "tags": [
       "research",
       "multimodal",
@@ -135,28 +39,13 @@
     ],
     "author": "Google DeepMind",
     "source": "deepmind.google",
-    "date": "2026-09-03",
-    "score": 66
+    "date": "2026-09-04",
+    "score": 68
   },
   {
-    "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-    "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber",
-    "summary": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber 是 Google DeepMind 当日抓取到的公开新增条目。",
-    "tags": [
-      "research",
-      "multimodal",
-      "science",
-      "official"
-    ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-09-03",
-    "score": 66
-  },
-  {
-    "title": "The Modern CUDA Toolbox in Practice: A Step-by-Step Optimization Walkthrough",
-    "url": "https://developer.nvidia.com/blog/the-modern-cuda-toolbox-in-practice-a-step-by-step-optimization-walkthrough",
-    "summary": "NVIDIA Technical Blog · The Modern CUDA Toolbox in Practice: A Step-by-Step Optimization Walkthrough",
+    "title": "NVIDIA PAIR Virtual Inference Router Expands Available Compute on Your Local Network",
+    "url": "https://developer.nvidia.com/blog/nvidia-pair-virtual-inference-router-expands-available-compute-on-your-local-network",
+    "summary": "AI agents are learning to do more by working together. A lead agent can break a complex task into smaller jobs and assign those jobs to specialized subagents....",
     "tags": [
       "gpu",
       "inference",
@@ -164,55 +53,13 @@
     ],
     "author": "NVIDIA AI",
     "source": "developer.nvidia.com",
-    "date": "2026-09-03",
-    "score": 66
+    "date": "2026-09-04",
+    "score": 68
   },
   {
-    "title": "Grok Bot vs. OpenClaw: How I replaced my entire agent stack",
-    "url": "https://www.lennysnewsletter.com/p/grok-bot-vs-openclaw-how-i-replaced",
-    "summary": "Watch now | &#127897;&#65039; I&#8217;ve been running Grok Bot for several weeks, and I&#8217;ve killed every OpenClaw I had. Here are the nine bots doing real work across my inbox, my kids&#8217; school pickups, my PR queue, and my wardrobe",
-    "tags": [
-      "product",
-      "growth",
-      "startup"
-    ],
-    "author": "Lenny's Newsletter",
-    "source": "lennysnewsletter.com",
-    "date": "2026-09-03",
-    "score": 64
-  },
-  {
-    "title": "Free domain with Pro offer now includes .app and .dev",
-    "url": "https://vercel.com/changelog/app-and-dev-domains-included-with-free-domain-for-pro",
-    "summary": "We recently announced that all Pro teams can claim a free domain for one year . That offer now includes .app and .dev , bringing the eligible TLDs to eight: .app .dev .online .site .space .store .tech .website The offer still covers one domain per team, and premium domains are not eligible. After the first year, your domain will renew automatically at the regular price shown at checkout when you claim it. Claim yours at vercel.com/domains , and see the free domain FAQ for ful",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-09-03",
-    "score": 63
-  },
-  {
-    "title": "GLM-5.3 is 50% off through DigitalOcean on AI Gateway",
-    "url": "https://vercel.com/changelog/glm-5-3-is-50-off-through-digitalocean-on-ai-gateway",
-    "summary": "GLM-5.3 is 50% off on AI Gateway through Tuesday, September 8, in partnership with DigitalOcean. How to use the model during the offer period Using the promo name ( zai/glm-5.3-promo-50 ) gets the discounted rate. It routes only to DigitalOcean, with no fallback to another provider, and it stops serving when the offer ends. Using the standard name (i.e., zai/glm-5.3 ) with provider options to sort DigitalOcean as the preferred provider keeps working after September 8 and rout",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-09-03",
-    "score": 63
-  },
-  {
-    "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-    "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-    "summary": "Real-Time Intelligence with IBM Time Series Models on Confluent 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Give Your Coding Agents a Memory You Own",
+    "url": "https://huggingface.co/blog/funes",
+    "summary": "Give Your Coding Agents a Memory You Own 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -220,63 +67,234 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-09-03",
-    "score": 62
+    "date": "2026-09-04",
+    "score": 68
   },
   {
-    "title": "Facilitating AI integration with simplicity at scale",
-    "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale",
-    "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate responses, and make decisions with confidence. For Jabil, a global manufacturing company with more than&#8230;",
+    "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+    "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+    "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
     "tags": [
-      "ai",
+      "ai_models",
+      "official",
       "research",
-      "society"
+      "developer"
     ],
-    "author": "MIT Technology Review AI",
-    "source": "technologyreview.com",
-    "date": "2026-09-03",
-    "score": 61
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-09-04",
+    "score": 67
   },
   {
-    "title": "Meta Settles, A Framework For Regulating Content, The Rest of Big Tech",
-    "url": "https://stratechery.com/2026/meta-settles-a-framework-for-regulating-content-the-rest-of-big-tech",
-    "summary": "Meta's settlement makes sense for all parties, but the entire sage highlights why any solution to regulating technology feels off.",
+    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+    "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+    "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
     "tags": [
-      "strategy",
-      "tech",
-      "business"
+      "ai_models",
+      "official",
+      "research",
+      "developer"
     ],
-    "author": "Stratechery",
-    "source": "stratechery.com",
-    "date": "2026-09-03",
-    "score": 59
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-09-04",
+    "score": 67
   },
   {
-    "title": "Wed, 2 Sep 2026",
-    "url": "https://arxiv.org/list/cs.CL/recent?skip=0&amp%3Bshow=50",
-    "summary": "Computation and Language · Wed, 2 Sep 2026",
+    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+    "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+    "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
     "tags": [
-      "paper",
-      "nlp",
-      "arxiv"
+      "ai_models",
+      "official",
+      "research",
+      "developer"
     ],
-    "author": "arXiv CS CL",
-    "source": "arxiv.org",
-    "date": "2026-09-03",
-    "score": 59
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-09-04",
+    "score": 67
   },
   {
-    "title": "Apple Updates Mini and Studio, AI Computers, OpenAI Jalapeño",
-    "url": "https://stratechery.com/2026/apple-updates-mini-and-studio-ai-computers-openai-jalapeno",
-    "summary": "Apple and OpenAI have two completely different hardware announcements; both represent pressure on Nvidia.",
+    "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+    "url": "https://openai.com/index/atv-big-air-tour",
+    "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
     "tags": [
-      "strategy",
-      "tech",
-      "business"
+      "ai_models",
+      "official",
+      "research",
+      "developer"
     ],
-    "author": "Stratechery",
-    "source": "stratechery.com",
-    "date": "2026-09-03",
-    "score": 58
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-09-04",
+    "score": 67
+  },
+  {
+    "title": "Cursor Cloud Agents can now run in Vercel Sandbox",
+    "url": "https://vercel.com/changelog/run-cursor-cloud-agents-vercel-sandbox",
+    "summary": "Cursor Cloud Agents can now run in Vercel Sandbox instead of Cursor's hosted machines. Cursor manages the agent harness and inference loop. Its Self-Hosted Machines APIs let you supply the execution environment where agents clone repositories, edit files, and run commands and tests. Self-Hosted Machines requires a Cursor Enterprise plan. Vercel Sandbox provides that execution environment as an isolated Firecracker microVM for each agent request. Vercel Functions and Vercel Wo",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-09-04",
+    "score": 66
+  },
+  {
+    "title": "Basic build machines are now available on Pro and Enterprise",
+    "url": "https://vercel.com/changelog/basic-build-machines",
+    "summary": "Pro and Enterprise teams can now select Basic build machines. Basic build machines have 2 vCPUs and 8 GB of memory, offering a more cost-efficient option for smaller apps or agents that build with fewer resources. New Pro and Enterprise projects still default to Elastic build machines , which scale automatically and are recommended for most use cases. To use Basic build machines, update your project configuration in team settings , project settings , or with Vercel CLI 59.6.0",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-09-04",
+    "score": 66
+  },
+  {
+    "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+    "url": "https://huggingface.co/blog/train-to-paint-with-code",
+    "summary": "Training a coding model to paint watercolours with TRL and OpenEnv 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-09-04",
+    "score": 66
+  },
+  {
+    "title": "Scaling Agents in Europe & The Middle East: Lessons from Schneider Electric, Vodafone, and monday.com",
+    "url": "https://www.langchain.com/blog/scaling-agents-in-europe-the-middle-east-lessons-from-schneider-electric-vodafone-and-monday-com",
+    "summary": "A guide on scaling agents in Europe & the Middle East to see how Schneider Electric, Vodafone, and monday.com are approaching production AI at scale, from establishing shared agent platforms and LLMOps practices to designing multi-agent architectures with stronger observability, evaluation, and control.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-09-04",
+    "score": 66
+  },
+  {
+    "title": "MCP in LangChain: Stateless Protocol, Elicitation, and More!",
+    "url": "https://www.langchain.com/blog/mcp-in-langchain-stateless-protocol-elicitation-and-more",
+    "summary": "MCP support now lives in langchain.mcp, built on FastMCP for the 2026-07-28 spec, with elicitation handled as a LangGraph interrupt and tool lists cached.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-09-04",
+    "score": 65
+  },
+  {
+    "title": "Introducing GWM Worlds 2",
+    "url": "https://research.runwayml.com/research/introducing-gwm-worlds-2",
+    "summary": "AI Video Research & Innovation | Runway AI · Introducing GWM Worlds 2",
+    "tags": [
+      "video_ai",
+      "multimodal",
+      "research"
+    ],
+    "author": "Runway",
+    "source": "research.runwayml.com",
+    "date": "2026-09-04",
+    "score": 64
+  },
+  {
+    "title": "Sep 3, 2026 Designing Grok Bot for a world of persistent agents",
+    "url": "https://x.ai/news/designing-grok-bot",
+    "summary": "SpaceXAI · Sep 3, 2026 Designing Grok Bot for a world of persistent agents",
+    "tags": [
+      "ai_models",
+      "reasoning"
+    ],
+    "author": "xAI",
+    "source": "x.ai",
+    "date": "2026-09-04",
+    "score": 64
+  },
+  {
+    "title": "Daniel Litt: The Mathematician&rsquo;s Guide to AI",
+    "url": "https://a16z.com/podcast/daniel-litt-the-mathematicians-guide-to-ai",
+    "summary": "AI a16z | Andreessen Horowitz · Daniel Litt: The Mathematician&rsquo;s Guide to AI",
+    "tags": [
+      "investment",
+      "startup",
+      "thesis"
+    ],
+    "author": "a16z AI",
+    "source": "a16z.com",
+    "date": "2026-09-04",
+    "score": 64
+  },
+  {
+    "title": "GPT-6 Astra is a banger - here’s everything I’ve built",
+    "url": "https://www.lennysnewsletter.com/p/gpt-6-astra-is-a-banger-heres-everything",
+    "summary": "Watch now | &#127897;&#65039; My hands-on GPT-6 Astra review covers real production work in Figma, Flora, and Adio, one-shot coding wins 5.6 and Fable couldn&#8217;t match, and a hardware hack I&#8217;ve chased for months",
+    "tags": [
+      "product",
+      "growth",
+      "startup"
+    ],
+    "author": "Lenny's Newsletter",
+    "source": "lennysnewsletter.com",
+    "date": "2026-09-04",
+    "score": 64
+  },
+  {
+    "title": "How to Carry User Identity Across Federated Kubernetes and AI Platforms",
+    "url": "https://developer.nvidia.com/blog/how-to-carry-user-identity-across-federated-kubernetes-and-ai-platforms",
+    "summary": "Modern AI platforms are no longer a single application behind one login screen. A user may start in a central portal, open a governed dataset, launch a notebook...",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-09-04",
+    "score": 63
+  },
+  {
+    "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+    "url": "https://huggingface.co/blog/Hcompany/neomme",
+    "summary": "NeoMME: an efficient Multimodal-native and Multilingual Encoder 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-09-04",
+    "score": 63
+  },
+  {
+    "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+    "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+    "summary": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-09-04",
+    "score": 62
   }
 ]

@@ -18816,5 +18816,215 @@
     "cluster_id": "stratechery_com_9b3950a6",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c1a57fd3a18a9fde",
+    "canonical_url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once",
+    "dedupe_key": "6cd25bd4106f605a",
+    "title": "GitHub Copilot app for Beginners: Run several agents at once",
+    "issue_date": "2026-09-04",
+    "cluster_id": "github_blog_e775fb05",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9f169967b356df1c",
+    "canonical_url": "https://openai.com/index/safety-overview-gpt-6-astra",
+    "dedupe_key": "b693b4efd0fde07e",
+    "title": "Safety overview: GPT-6 Astra",
+    "issue_date": "2026-09-04",
+    "cluster_id": "openai_com_1abcd51d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d85017e6f65bdd02",
+    "canonical_url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model",
+    "dedupe_key": "05b436106e8c7c2d",
+    "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+    "issue_date": "2026-09-04",
+    "cluster_id": "deepmind_google_a26eafdd",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b48b52164a4ab25b",
+    "canonical_url": "https://developer.nvidia.com/blog/nvidia-pair-virtual-inference-router-expands-available-compute-on-your-local-network",
+    "dedupe_key": "a77c923bc3ea7444",
+    "title": "NVIDIA PAIR Virtual Inference Router Expands Available Compute on Your Local Network",
+    "issue_date": "2026-09-04",
+    "cluster_id": "developer_nvidia_com_08072dda",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_42c7da74f1255835",
+    "canonical_url": "https://huggingface.co/blog/funes",
+    "dedupe_key": "92dbd28673ba255c",
+    "title": "Give Your Coding Agents a Memory You Own",
+    "issue_date": "2026-09-04",
+    "cluster_id": "huggingface_co_fb52ec6e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f9c16470ceb781b9",
+    "canonical_url": "https://openai.com/index/daybreak-for-frontline-defenders",
+    "dedupe_key": "5a920cbc08809a50",
+    "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+    "issue_date": "2026-09-04",
+    "cluster_id": "openai_com_1882ae0a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2564d177acb4ab3a",
+    "canonical_url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+    "dedupe_key": "7b75fd9064bcdfbb",
+    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+    "issue_date": "2026-09-04",
+    "cluster_id": "openai_com_0b50601b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e710df0dae980e49",
+    "canonical_url": "https://openai.com/index/playco-game-prototyping-with-astra",
+    "dedupe_key": "bf00a3b786eca974",
+    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+    "issue_date": "2026-09-04",
+    "cluster_id": "openai_com_924e3606",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_74b084aa3e272d30",
+    "canonical_url": "https://openai.com/index/atv-big-air-tour",
+    "dedupe_key": "5036c25faa1d1fa4",
+    "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+    "issue_date": "2026-09-04",
+    "cluster_id": "openai_com_10c8cdee",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e0221250cf3b7827",
+    "canonical_url": "https://vercel.com/changelog/run-cursor-cloud-agents-vercel-sandbox",
+    "dedupe_key": "5c601a3e46521000",
+    "title": "Cursor Cloud Agents can now run in Vercel Sandbox",
+    "issue_date": "2026-09-04",
+    "cluster_id": "vercel_com_e157ab24",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_bee543530dcf4422",
+    "canonical_url": "https://vercel.com/changelog/basic-build-machines",
+    "dedupe_key": "485b0cbf1cb88f6d",
+    "title": "Basic build machines are now available on Pro and Enterprise",
+    "issue_date": "2026-09-04",
+    "cluster_id": "vercel_com_bd1e6663",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_949138768db14beb",
+    "canonical_url": "https://huggingface.co/blog/train-to-paint-with-code",
+    "dedupe_key": "46e5c8a72ea30274",
+    "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+    "issue_date": "2026-09-04",
+    "cluster_id": "huggingface_co_74c5fc09",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ef8d7ed0d565c681",
+    "canonical_url": "https://www.langchain.com/blog/scaling-agents-in-europe-the-middle-east-lessons-from-schneider-electric-vodafone-and-monday-com",
+    "dedupe_key": "7be62ea8e2e68f2b",
+    "title": "Scaling Agents in Europe & The Middle East: Lessons from Schneider Electric, Vodafone, and monday.com",
+    "issue_date": "2026-09-04",
+    "cluster_id": "langchain_com_fcb05cef",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_20928117b5a1df13",
+    "canonical_url": "https://www.langchain.com/blog/mcp-in-langchain-stateless-protocol-elicitation-and-more",
+    "dedupe_key": "092434a5c1055665",
+    "title": "MCP in LangChain: Stateless Protocol, Elicitation, and More!",
+    "issue_date": "2026-09-04",
+    "cluster_id": "langchain_com_33388a2d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5788a9040bcb21f2",
+    "canonical_url": "https://research.runwayml.com/research/introducing-gwm-worlds-2",
+    "dedupe_key": "28dddefc8003e033",
+    "title": "Introducing GWM Worlds 2",
+    "issue_date": "2026-09-04",
+    "cluster_id": "research_runwayml_com_7053bb68",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_54688fceabdd9fc1",
+    "canonical_url": "https://x.ai/news/designing-grok-bot",
+    "dedupe_key": "836e58172d8895ba",
+    "title": "Sep 3, 2026 Designing Grok Bot for a world of persistent agents",
+    "issue_date": "2026-09-04",
+    "cluster_id": "x_ai_d6a70ca0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2fc5dc4538bd20dc",
+    "canonical_url": "https://a16z.com/podcast/daniel-litt-the-mathematicians-guide-to-ai",
+    "dedupe_key": "a9ad06a8ee120f86",
+    "title": "Daniel Litt: The Mathematician&rsquo;s Guide to AI",
+    "issue_date": "2026-09-04",
+    "cluster_id": "a16z_com_7f5a5883",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0f250c24848c437f",
+    "canonical_url": "https://www.lennysnewsletter.com/p/gpt-6-astra-is-a-banger-heres-everything",
+    "dedupe_key": "3ebfc3cf42554950",
+    "title": "GPT-6 Astra is a banger - here’s everything I’ve built",
+    "issue_date": "2026-09-04",
+    "cluster_id": "lennysnewsletter_com_1f2e476f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9afd35c117e4df99",
+    "canonical_url": "https://developer.nvidia.com/blog/how-to-carry-user-identity-across-federated-kubernetes-and-ai-platforms",
+    "dedupe_key": "f795123a0350aa3d",
+    "title": "How to Carry User Identity Across Federated Kubernetes and AI Platforms",
+    "issue_date": "2026-09-04",
+    "cluster_id": "developer_nvidia_com_53d5d23d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1c1f841a1cf6b62e",
+    "canonical_url": "https://huggingface.co/blog/Hcompany/neomme",
+    "dedupe_key": "cc13b2614b9578d2",
+    "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+    "issue_date": "2026-09-04",
+    "cluster_id": "huggingface_co_913fb795",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_cdd31030c11def09",
+    "canonical_url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+    "dedupe_key": "98843e4fbdb3b26b",
+    "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+    "issue_date": "2026-09-04",
+    "cluster_id": "huggingface_co_0fea5fc9",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
