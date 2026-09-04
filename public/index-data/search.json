@@ -1,51 +1,22 @@
 [
   {
-    "title": "GitHub Copilot app for Beginners: Run several agents at once",
-    "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once",
-    "summary": "Learn how to run parallel agents in the GitHub Copilot app, and experience the moment it stops feeling scary and starts feeling powerful. The post GitHub Copilot app for Beginners: Run several agents at once appeared first on The GitHub Blog .",
+    "title": "GPT 6 Astra now available on Vercel AI Gateway",
+    "url": "https://vercel.com/changelog/gpt-6-astra-now-available-on-vercel-ai-gateway",
+    "summary": "GPT 6 Astra from OpenAI is now available on AI Gateway. It is designed for long-running agentic work across software engineering, computer and browser use, scientific research, and professional workflows. Astra can navigate software, complete forms, organize records, analyze data, run simulations, and build and test websites. It also improves instruction following during evolving tasks. It can incorporate new requirements without losing earlier constraints, continue independe",
     "tags": [
-      "ai_coding",
-      "developer_tools"
+      "sdk",
+      "ai_infra",
+      "frontend"
     ],
-    "author": "GitHub Copilot",
-    "source": "github.blog",
-    "date": "2026-09-04",
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-09-05",
     "score": 70
   },
   {
-    "title": "Safety overview: GPT-6 Astra",
-    "url": "https://openai.com/index/safety-overview-gpt-6-astra",
-    "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-09-04",
-    "score": 69
-  },
-  {
-    "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-    "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model",
-    "summary": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model 是 Google DeepMind 当日抓取到的公开新增条目。",
-    "tags": [
-      "research",
-      "multimodal",
-      "science",
-      "official"
-    ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-09-04",
-    "score": 68
-  },
-  {
-    "title": "NVIDIA PAIR Virtual Inference Router Expands Available Compute on Your Local Network",
-    "url": "https://developer.nvidia.com/blog/nvidia-pair-virtual-inference-router-expands-available-compute-on-your-local-network",
-    "summary": "AI agents are learning to do more by working together. A lead agent can break a complex task into smaller jobs and assign those jobs to specialized subagents....",
+    "title": "Building a Memory-Driven Agent with NVIDIA NemoClaw",
+    "url": "https://developer.nvidia.com/blog/building-a-memory-driven-agent-with-nvidia-nemoclaw",
+    "summary": "NVIDIA Technical Blog · Building a Memory-Driven Agent with NVIDIA NemoClaw",
     "tags": [
       "gpu",
       "inference",
@@ -53,87 +24,13 @@
     ],
     "author": "NVIDIA AI",
     "source": "developer.nvidia.com",
-    "date": "2026-09-04",
-    "score": 68
+    "date": "2026-09-05",
+    "score": 69
   },
   {
-    "title": "Give Your Coding Agents a Memory You Own",
-    "url": "https://huggingface.co/blog/funes",
-    "summary": "Give Your Coding Agents a Memory You Own 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-09-04",
-    "score": 68
-  },
-  {
-    "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-    "url": "https://openai.com/index/daybreak-for-frontline-defenders",
-    "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-09-04",
-    "score": 67
-  },
-  {
-    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-    "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-    "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-09-04",
-    "score": 67
-  },
-  {
-    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-    "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-    "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-09-04",
-    "score": 67
-  },
-  {
-    "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-    "url": "https://openai.com/index/atv-big-air-tour",
-    "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-09-04",
-    "score": 67
-  },
-  {
-    "title": "Cursor Cloud Agents can now run in Vercel Sandbox",
-    "url": "https://vercel.com/changelog/run-cursor-cloud-agents-vercel-sandbox",
-    "summary": "Cursor Cloud Agents can now run in Vercel Sandbox instead of Cursor's hosted machines. Cursor manages the agent harness and inference loop. Its Self-Hosted Machines APIs let you supply the execution environment where agents clone repositories, edit files, and run commands and tests. Self-Hosted Machines requires a Cursor Enterprise plan. Vercel Sandbox provides that execution environment as an isolated Firecracker microVM for each agent request. Vercel Functions and Vercel Wo",
+    "title": "Ling 3.0 Flash Sante is now available on AI Gateway for free",
+    "url": "https://vercel.com/changelog/ling-3-0-flash-sante-is-now-available-on-ai-gateway-for-free",
+    "summary": "Ling 3.0 Flash Sante from inclusionAI is now available on AI Gateway, free to use through October 4. Ling 3.0 Flash Sante is a health and medicine-focused version of Ling 3.0 Flash . It is a Mixture-of-Experts model with 124B total parameters and about 5.1B active per token, a 256K token context window, and function calling. The model is built for medical reasoning, professional healthcare tasks, deep research, evidence-based retrieval, and multi-step medical workflows. It re",
     "tags": [
       "sdk",
       "ai_infra",
@@ -141,160 +38,229 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-09-04",
-    "score": 66
+    "date": "2026-09-05",
+    "score": 69
   },
   {
-    "title": "Basic build machines are now available on Pro and Enterprise",
-    "url": "https://vercel.com/changelog/basic-build-machines",
-    "summary": "Pro and Enterprise teams can now select Basic build machines. Basic build machines have 2 vCPUs and 8 GB of memory, offering a more cost-efficient option for smaller apps or agents that build with fewer resources. New Pro and Enterprise projects still default to Elastic build machines , which scale automatically and are recommended for most use cases. To use Basic build machines, update your project configuration in team settings , project settings , or with Vercel CLI 59.6.0",
+    "title": "Frontier Reasoning Reaches the Edge: How to Deploy and Optimize Models on NVIDIA Jetson",
+    "url": "https://developer.nvidia.com/blog/frontier-reasoning-reaches-the-edge-how-to-deploy-and-optimize-models-on-nvidia-jetson",
+    "summary": "NVIDIA Technical Blog · Frontier Reasoning Reaches the Edge: How to Deploy and Optimize Models on NVIDIA Jetson",
     "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
+      "gpu",
+      "inference",
+      "ai_infra"
     ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-09-04",
-    "score": 66
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-09-05",
+    "score": 68
   },
   {
-    "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
-    "url": "https://huggingface.co/blog/train-to-paint-with-code",
-    "summary": "Training a coding model to paint watercolours with TRL and OpenEnv 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Architecting memory and storage in the AI era",
+    "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era",
+    "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting as the engine of continuous intelligence, powering real-time services while&#8230;",
     "tags": [
-      "open_source",
-      "papers",
-      "models"
+      "ai",
+      "research",
+      "society"
     ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-09-04",
-    "score": 66
-  },
-  {
-    "title": "Scaling Agents in Europe & The Middle East: Lessons from Schneider Electric, Vodafone, and monday.com",
-    "url": "https://www.langchain.com/blog/scaling-agents-in-europe-the-middle-east-lessons-from-schneider-electric-vodafone-and-monday-com",
-    "summary": "A guide on scaling agents in Europe & the Middle East to see how Schneider Electric, Vodafone, and monday.com are approaching production AI at scale, from establishing shared agent platforms and LLMOps practices to designing multi-agent architectures with stronger observability, evaluation, and control.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-09-04",
-    "score": 66
-  },
-  {
-    "title": "MCP in LangChain: Stateless Protocol, Elicitation, and More!",
-    "url": "https://www.langchain.com/blog/mcp-in-langchain-stateless-protocol-elicitation-and-more",
-    "summary": "MCP support now lives in langchain.mcp, built on FastMCP for the 2026-07-28 spec, with elicitation handled as a LangGraph interrupt and tool lists cached.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-09-04",
-    "score": 65
-  },
-  {
-    "title": "Introducing GWM Worlds 2",
-    "url": "https://research.runwayml.com/research/introducing-gwm-worlds-2",
-    "summary": "AI Video Research & Innovation | Runway AI · Introducing GWM Worlds 2",
-    "tags": [
-      "video_ai",
-      "multimodal",
-      "research"
-    ],
-    "author": "Runway",
-    "source": "research.runwayml.com",
-    "date": "2026-09-04",
+    "author": "MIT Technology Review AI",
+    "source": "technologyreview.com",
+    "date": "2026-09-05",
     "score": 64
   },
   {
-    "title": "Sep 3, 2026 Designing Grok Bot for a world of persistent agents",
-    "url": "https://x.ai/news/designing-grok-bot",
-    "summary": "SpaceXAI · Sep 3, 2026 Designing Grok Bot for a world of persistent agents",
+    "title": "Sep 3, 2026 Grok Bot for Enterprise",
+    "url": "https://x.ai/news/grok-bot-for-enterprise",
+    "summary": "SpaceXAI · Sep 3, 2026 Grok Bot for Enterprise",
     "tags": [
       "ai_models",
       "reasoning"
     ],
     "author": "xAI",
     "source": "x.ai",
-    "date": "2026-09-04",
-    "score": 64
+    "date": "2026-09-05",
+    "score": 61
   },
   {
-    "title": "Daniel Litt: The Mathematician&rsquo;s Guide to AI",
-    "url": "https://a16z.com/podcast/daniel-litt-the-mathematicians-guide-to-ai",
-    "summary": "AI a16z | Andreessen Horowitz · Daniel Litt: The Mathematician&rsquo;s Guide to AI",
+    "title": "Sep 4, 2026 Setting Grok Bot loose on procurement",
+    "url": "https://x.ai/news/grok-bot-procurement",
+    "summary": "SpaceXAI · Sep 4, 2026 Setting Grok Bot loose on procurement",
     "tags": [
-      "investment",
-      "startup",
-      "thesis"
+      "ai_models",
+      "reasoning"
     ],
-    "author": "a16z AI",
-    "source": "a16z.com",
-    "date": "2026-09-04",
-    "score": 64
+    "author": "xAI",
+    "source": "x.ai",
+    "date": "2026-09-05",
+    "score": 61
   },
   {
-    "title": "GPT-6 Astra is a banger - here’s everything I’ve built",
-    "url": "https://www.lennysnewsletter.com/p/gpt-6-astra-is-a-banger-heres-everything",
-    "summary": "Watch now | &#127897;&#65039; My hands-on GPT-6 Astra review covers real production work in Figma, Flora, and Adio, one-shot coding wins 5.6 and Fable couldn&#8217;t match, and a hardware hack I&#8217;ve chased for months",
+    "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+    "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west",
+    "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight, increasingly becoming part&#8230;",
     "tags": [
-      "product",
-      "growth",
-      "startup"
+      "ai",
+      "research",
+      "society"
     ],
-    "author": "Lenny's Newsletter",
-    "source": "lennysnewsletter.com",
-    "date": "2026-09-04",
-    "score": 64
+    "author": "MIT Technology Review AI",
+    "source": "technologyreview.com",
+    "date": "2026-09-05",
+    "score": 61
   },
   {
-    "title": "How to Carry User Identity Across Federated Kubernetes and AI Platforms",
-    "url": "https://developer.nvidia.com/blog/how-to-carry-user-identity-across-federated-kubernetes-and-ai-platforms",
-    "summary": "Modern AI platforms are no longer a single application behind one login screen. A user may start in a central portal, open a governed dataset, launch a notebook...",
+    "title": "Thu, 3 Sep 2026",
+    "url": "https://arxiv.org/list/cs.AI/recent?skip=165&amp%3Bshow=50",
+    "summary": "Artificial Intelligence · Thu, 3 Sep 2026",
     "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
+      "paper",
+      "ai",
+      "arxiv"
     ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-09-04",
-    "score": 63
+    "author": "arXiv CS AI",
+    "source": "arxiv.org",
+    "date": "2026-09-05",
+    "score": 60
   },
   {
-    "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-    "url": "https://huggingface.co/blog/Hcompany/neomme",
-    "summary": "NeoMME: an efficient Multimodal-native and Multilingual Encoder 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "An Interview with OpenAI President Greg Brockman About Astra and Alignment",
+    "url": "https://stratechery.com/2026/an-interview-with-openai-president-greg-brockman-about-astra-and-alignment",
+    "summary": "An interview with OpenAI President and Co-Founder Greg Brockman about the history of OpenAI, Astra and alignment, and the weight of building the future.",
     "tags": [
-      "open_source",
-      "papers",
-      "models"
+      "strategy",
+      "tech",
+      "business"
     ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-09-04",
-    "score": 63
+    "author": "Stratechery",
+    "source": "stratechery.com",
+    "date": "2026-09-05",
+    "score": 59
   },
   {
-    "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-    "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-    "summary": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Fri, 4 Sep 2026",
+    "url": "https://arxiv.org/list/cs.LG/recent?skip=0&amp%3Bshow=50",
+    "summary": "Machine Learning · Fri, 4 Sep 2026",
     "tags": [
-      "open_source",
-      "papers",
-      "models"
+      "paper",
+      "machine_learning",
+      "arxiv"
     ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-09-04",
-    "score": 62
+    "author": "arXiv CS LG",
+    "source": "arxiv.org",
+    "date": "2026-09-05",
+    "score": 59
+  },
+  {
+    "title": "AI, tools and transformation",
+    "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+    "summary": "Benedict Evans · AI, tools and transformation",
+    "tags": [
+      "strategy",
+      "mobile",
+      "ai"
+    ],
+    "author": "Benedict Evans",
+    "source": "ben-evans.com",
+    "date": "2026-09-05",
+    "score": 58
+  },
+  {
+    "title": "Ways to think about token pricing",
+    "url": "https://www.ben-evans.com/benedictevans/2026/7/9/ways-to-think-about-token-pricing",
+    "summary": "Benedict Evans · Ways to think about token pricing",
+    "tags": [
+      "strategy",
+      "mobile",
+      "ai"
+    ],
+    "author": "Benedict Evans",
+    "source": "ben-evans.com",
+    "date": "2026-09-05",
+    "score": 58
+  },
+  {
+    "title": "Predicting AI job exposure",
+    "url": "https://www.ben-evans.com/benedictevans/2026/5/24/ai-job-exposure",
+    "summary": "Benedict Evans · Predicting AI job exposure",
+    "tags": [
+      "strategy",
+      "mobile",
+      "ai"
+    ],
+    "author": "Benedict Evans",
+    "source": "ben-evans.com",
+    "date": "2026-09-05",
+    "score": 58
+  },
+  {
+    "title": "2026.36: Friction and Feedback",
+    "url": "https://stratechery.com/2026/friction-and-feedback",
+    "summary": "The best Stratechery content from the week of August 31, 2026, including the market speaking, Apple finding religion, and society losing friction.",
+    "tags": [
+      "strategy",
+      "tech",
+      "business"
+    ],
+    "author": "Stratechery",
+    "source": "stratechery.com",
+    "date": "2026-09-05",
+    "score": 56
+  },
+  {
+    "title": "Fable 5.1, Enterprise Frontier Safeguards",
+    "url": "https://stratechery.com/2026/fable-5-1-enterprise-frontier-safeguards",
+    "summary": "Fable 5.1 is out, and the hated Fable data retention policy is not just being altered, but entirely removed in the meantime. Plus, why increased caching is a win-win.",
+    "tags": [
+      "strategy",
+      "tech",
+      "business"
+    ],
+    "author": "Stratechery",
+    "source": "stratechery.com",
+    "date": "2026-09-05",
+    "score": 56
+  },
+  {
+    "title": "Nvidia Earnings, Dollars Per Gigawatt, Open and Hugging Face",
+    "url": "https://stratechery.com/2026/nvidia-earnings-dollars-per-gigawatt-open-and-hugging-face",
+    "summary": "Nvidia's earnings were remarking and boring — two sides of the same coin. Everything the company does is about avoiding a consolidated world.",
+    "tags": [
+      "strategy",
+      "tech",
+      "business"
+    ],
+    "author": "Stratechery",
+    "source": "stratechery.com",
+    "date": "2026-09-05",
+    "score": 56
+  },
+  {
+    "title": "2026.35: Internet Hype and Real World Change",
+    "url": "https://stratechery.com/2026/internet-hype-and-real-world-change",
+    "summary": "The best Stratechery content from the week of August 24, 2026 including the breaker's advantage, the new battle for HDMI1, and how data center discourse ends.",
+    "tags": [
+      "strategy",
+      "tech",
+      "business"
+    ],
+    "author": "Stratechery",
+    "source": "stratechery.com",
+    "date": "2026-09-05",
+    "score": 56
+  },
+  {
+    "title": "Netflix to Sell Streaming Services?, Streamers as Aggregators, Revisiting Roku",
+    "url": "https://stratechery.com/2026/netflix-to-sell-streaming-services-streamers-as-aggregators-revisiting-roku",
+    "summary": "Netflix is considering selling other streaming services, and I think it's a good idea; it's also a let-down for Netflix's original goals and potential pivots.",
+    "tags": [
+      "strategy",
+      "tech",
+      "business"
+    ],
+    "author": "Stratechery",
+    "source": "stratechery.com",
+    "date": "2026-09-05",
+    "score": 56
   }
 ]

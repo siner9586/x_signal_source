@@ -19026,5 +19026,195 @@
     "cluster_id": "huggingface_co_0fea5fc9",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_60c5db3ecaa92e42",
+    "canonical_url": "https://vercel.com/changelog/gpt-6-astra-now-available-on-vercel-ai-gateway",
+    "dedupe_key": "1e9381b9a1040d7e",
+    "title": "GPT 6 Astra now available on Vercel AI Gateway",
+    "issue_date": "2026-09-05",
+    "cluster_id": "vercel_com_1f607da5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_80c97035a8fd0d8e",
+    "canonical_url": "https://developer.nvidia.com/blog/building-a-memory-driven-agent-with-nvidia-nemoclaw",
+    "dedupe_key": "8371e765d77db9b4",
+    "title": "Building a Memory-Driven Agent with NVIDIA NemoClaw",
+    "issue_date": "2026-09-05",
+    "cluster_id": "developer_nvidia_com_c9b8658f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8d223fa9cba3e9ee",
+    "canonical_url": "https://vercel.com/changelog/ling-3-0-flash-sante-is-now-available-on-ai-gateway-for-free",
+    "dedupe_key": "60f88dc2243a4ea7",
+    "title": "Ling 3.0 Flash Sante is now available on AI Gateway for free",
+    "issue_date": "2026-09-05",
+    "cluster_id": "vercel_com_18db6015",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_aee8c94e151194b9",
+    "canonical_url": "https://developer.nvidia.com/blog/frontier-reasoning-reaches-the-edge-how-to-deploy-and-optimize-models-on-nvidia-jetson",
+    "dedupe_key": "96eab406452d3a71",
+    "title": "Frontier Reasoning Reaches the Edge: How to Deploy and Optimize Models on NVIDIA Jetson",
+    "issue_date": "2026-09-05",
+    "cluster_id": "developer_nvidia_com_0b4c1437",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9c3b8a5b18ca53aa",
+    "canonical_url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era",
+    "dedupe_key": "81ef7acc83c1b269",
+    "title": "Architecting memory and storage in the AI era",
+    "issue_date": "2026-09-05",
+    "cluster_id": "technologyreview_com_2487ece8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5f15f5fcc8b0ddac",
+    "canonical_url": "https://x.ai/news/grok-bot-for-enterprise",
+    "dedupe_key": "cf70d18818786944",
+    "title": "Sep 3, 2026 Grok Bot for Enterprise",
+    "issue_date": "2026-09-05",
+    "cluster_id": "x_ai_cc9dd023",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e4589c3930392e6c",
+    "canonical_url": "https://x.ai/news/grok-bot-procurement",
+    "dedupe_key": "bbb9e51fad2e2f99",
+    "title": "Sep 4, 2026 Setting Grok Bot loose on procurement",
+    "issue_date": "2026-09-05",
+    "cluster_id": "x_ai_485fd2f4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6de44ab4a82a4373",
+    "canonical_url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west",
+    "dedupe_key": "1da01826ad5045c6",
+    "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+    "issue_date": "2026-09-05",
+    "cluster_id": "technologyreview_com_7648a032",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a7d8c3cce591630f",
+    "canonical_url": "https://arxiv.org/list/cs.AI/recent?skip=165&amp%3Bshow=50",
+    "dedupe_key": "ced3a758c41328ac",
+    "title": "Thu, 3 Sep 2026",
+    "issue_date": "2026-09-05",
+    "cluster_id": "arxiv_org_815501d3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3c42781e2ad5f530",
+    "canonical_url": "https://stratechery.com/2026/an-interview-with-openai-president-greg-brockman-about-astra-and-alignment",
+    "dedupe_key": "3c94fb39bd592877",
+    "title": "An Interview with OpenAI President Greg Brockman About Astra and Alignment",
+    "issue_date": "2026-09-05",
+    "cluster_id": "stratechery_com_648eece9",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_064bf06bfc08c331",
+    "canonical_url": "https://arxiv.org/list/cs.LG/recent?skip=0&amp%3Bshow=50",
+    "dedupe_key": "ace0eaec9d552b49",
+    "title": "Fri, 4 Sep 2026",
+    "issue_date": "2026-09-05",
+    "cluster_id": "arxiv_org_655dc059",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_203c522656c75b01",
+    "canonical_url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+    "dedupe_key": "e127442ae2f52e02",
+    "title": "AI, tools and transformation",
+    "issue_date": "2026-09-05",
+    "cluster_id": "ben_evans_com_d68826ec",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_dec1ef4d47c92503",
+    "canonical_url": "https://www.ben-evans.com/benedictevans/2026/7/9/ways-to-think-about-token-pricing",
+    "dedupe_key": "cdbf3704e248e5f2",
+    "title": "Ways to think about token pricing",
+    "issue_date": "2026-09-05",
+    "cluster_id": "ben_evans_com_f0d98903",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_14c99e7b4fc902e3",
+    "canonical_url": "https://www.ben-evans.com/benedictevans/2026/5/24/ai-job-exposure",
+    "dedupe_key": "cdce2f96e27e365a",
+    "title": "Predicting AI job exposure",
+    "issue_date": "2026-09-05",
+    "cluster_id": "ben_evans_com_d0a18579",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_66173cb8312e7703",
+    "canonical_url": "https://stratechery.com/2026/friction-and-feedback",
+    "dedupe_key": "d1632b880e6b3cb6",
+    "title": "2026.36: Friction and Feedback",
+    "issue_date": "2026-09-05",
+    "cluster_id": "stratechery_com_6255e37a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_20c1d3bcffd1964e",
+    "canonical_url": "https://stratechery.com/2026/fable-5-1-enterprise-frontier-safeguards",
+    "dedupe_key": "dc9b8cf709712199",
+    "title": "Fable 5.1, Enterprise Frontier Safeguards",
+    "issue_date": "2026-09-05",
+    "cluster_id": "stratechery_com_c3876598",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_44a78a7f3144e015",
+    "canonical_url": "https://stratechery.com/2026/nvidia-earnings-dollars-per-gigawatt-open-and-hugging-face",
+    "dedupe_key": "cb9b14016659a1b4",
+    "title": "Nvidia Earnings, Dollars Per Gigawatt, Open and Hugging Face",
+    "issue_date": "2026-09-05",
+    "cluster_id": "stratechery_com_757a14e2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_54cf18295610bd58",
+    "canonical_url": "https://stratechery.com/2026/internet-hype-and-real-world-change",
+    "dedupe_key": "8bd8634b5d2e302c",
+    "title": "2026.35: Internet Hype and Real World Change",
+    "issue_date": "2026-09-05",
+    "cluster_id": "stratechery_com_e9674c49",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_df150b11c8cc274c",
+    "canonical_url": "https://stratechery.com/2026/netflix-to-sell-streaming-services-streamers-as-aggregators-revisiting-roku",
+    "dedupe_key": "8e4ed221f9781cc6",
+    "title": "Netflix to Sell Streaming Services?, Streamers as Aggregators, Revisiting Roku",
+    "issue_date": "2026-09-05",
+    "cluster_id": "stratechery_com_e8957937",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
