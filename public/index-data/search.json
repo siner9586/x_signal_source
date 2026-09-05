@@ -1,266 +1,45 @@
 [
   {
-    "title": "GPT 6 Astra now available on Vercel AI Gateway",
-    "url": "https://vercel.com/changelog/gpt-6-astra-now-available-on-vercel-ai-gateway",
-    "summary": "GPT 6 Astra from OpenAI is now available on AI Gateway. It is designed for long-running agentic work across software engineering, computer and browser use, scientific research, and professional workflows. Astra can navigate software, complete forms, organize records, analyze data, run simulations, and build and test websites. It also improves instruction following during evolving tasks. It can incorporate new requirements without losing earlier constraints, continue independe",
+    "title": "GPT-6 Astra: A new generation of intelligence",
+    "url": "https://openai.com/index/gpt-6-astra",
+    "summary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
     "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
+      "ai_models",
+      "official",
+      "research",
+      "developer"
     ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-09-05",
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-09-06",
     "score": 70
   },
   {
-    "title": "Building a Memory-Driven Agent with NVIDIA NemoClaw",
-    "url": "https://developer.nvidia.com/blog/building-a-memory-driven-agent-with-nvidia-nemoclaw",
-    "summary": "NVIDIA Technical Blog · Building a Memory-Driven Agent with NVIDIA NemoClaw",
+    "title": "Puffin-World: Scaling a Unified Multimodal Model with Native 3D World States KangLiao • 3 days ago • 21",
+    "url": "https://huggingface.co/blog/KangLiao/puffin-world",
+    "summary": "Hugging Face – Blog · Puffin-World: Scaling a Unified Multimodal Model with Native 3D World States KangLiao • 3 days ago • 21",
     "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
+      "open_source",
+      "papers",
+      "models"
     ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-09-05",
-    "score": 69
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-09-06",
+    "score": 66
   },
   {
-    "title": "Ling 3.0 Flash Sante is now available on AI Gateway for free",
-    "url": "https://vercel.com/changelog/ling-3-0-flash-sante-is-now-available-on-ai-gateway-for-free",
-    "summary": "Ling 3.0 Flash Sante from inclusionAI is now available on AI Gateway, free to use through October 4. Ling 3.0 Flash Sante is a health and medicine-focused version of Ling 3.0 Flash . It is a Mixture-of-Experts model with 124B total parameters and about 5.1B active per token, a 256K token context window, and function calling. The model is built for medical reasoning, professional healthcare tasks, deep research, evidence-based retrieval, and multi-step medical workflows. It re",
+    "title": "🧠 Community Wisdom: Driving AI adoption when habits are the bottleneck, leveling up from APM to a mid-level PM role, converting a wave of new users to subscription, and more",
+    "url": "https://www.lennysnewsletter.com/p/community-wisdom-driving-ai-adoption",
+    "summary": "Community Wisdom 200",
     "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
+      "product",
+      "growth",
+      "startup"
     ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-09-05",
-    "score": 69
-  },
-  {
-    "title": "Frontier Reasoning Reaches the Edge: How to Deploy and Optimize Models on NVIDIA Jetson",
-    "url": "https://developer.nvidia.com/blog/frontier-reasoning-reaches-the-edge-how-to-deploy-and-optimize-models-on-nvidia-jetson",
-    "summary": "NVIDIA Technical Blog · Frontier Reasoning Reaches the Edge: How to Deploy and Optimize Models on NVIDIA Jetson",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-09-05",
-    "score": 68
-  },
-  {
-    "title": "Architecting memory and storage in the AI era",
-    "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era",
-    "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting as the engine of continuous intelligence, powering real-time services while&#8230;",
-    "tags": [
-      "ai",
-      "research",
-      "society"
-    ],
-    "author": "MIT Technology Review AI",
-    "source": "technologyreview.com",
-    "date": "2026-09-05",
-    "score": 64
-  },
-  {
-    "title": "Sep 3, 2026 Grok Bot for Enterprise",
-    "url": "https://x.ai/news/grok-bot-for-enterprise",
-    "summary": "SpaceXAI · Sep 3, 2026 Grok Bot for Enterprise",
-    "tags": [
-      "ai_models",
-      "reasoning"
-    ],
-    "author": "xAI",
-    "source": "x.ai",
-    "date": "2026-09-05",
-    "score": 61
-  },
-  {
-    "title": "Sep 4, 2026 Setting Grok Bot loose on procurement",
-    "url": "https://x.ai/news/grok-bot-procurement",
-    "summary": "SpaceXAI · Sep 4, 2026 Setting Grok Bot loose on procurement",
-    "tags": [
-      "ai_models",
-      "reasoning"
-    ],
-    "author": "xAI",
-    "source": "x.ai",
-    "date": "2026-09-05",
-    "score": 61
-  },
-  {
-    "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
-    "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west",
-    "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight, increasingly becoming part&#8230;",
-    "tags": [
-      "ai",
-      "research",
-      "society"
-    ],
-    "author": "MIT Technology Review AI",
-    "source": "technologyreview.com",
-    "date": "2026-09-05",
-    "score": 61
-  },
-  {
-    "title": "Thu, 3 Sep 2026",
-    "url": "https://arxiv.org/list/cs.AI/recent?skip=165&amp%3Bshow=50",
-    "summary": "Artificial Intelligence · Thu, 3 Sep 2026",
-    "tags": [
-      "paper",
-      "ai",
-      "arxiv"
-    ],
-    "author": "arXiv CS AI",
-    "source": "arxiv.org",
-    "date": "2026-09-05",
-    "score": 60
-  },
-  {
-    "title": "An Interview with OpenAI President Greg Brockman About Astra and Alignment",
-    "url": "https://stratechery.com/2026/an-interview-with-openai-president-greg-brockman-about-astra-and-alignment",
-    "summary": "An interview with OpenAI President and Co-Founder Greg Brockman about the history of OpenAI, Astra and alignment, and the weight of building the future.",
-    "tags": [
-      "strategy",
-      "tech",
-      "business"
-    ],
-    "author": "Stratechery",
-    "source": "stratechery.com",
-    "date": "2026-09-05",
-    "score": 59
-  },
-  {
-    "title": "Fri, 4 Sep 2026",
-    "url": "https://arxiv.org/list/cs.LG/recent?skip=0&amp%3Bshow=50",
-    "summary": "Machine Learning · Fri, 4 Sep 2026",
-    "tags": [
-      "paper",
-      "machine_learning",
-      "arxiv"
-    ],
-    "author": "arXiv CS LG",
-    "source": "arxiv.org",
-    "date": "2026-09-05",
-    "score": 59
-  },
-  {
-    "title": "AI, tools and transformation",
-    "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
-    "summary": "Benedict Evans · AI, tools and transformation",
-    "tags": [
-      "strategy",
-      "mobile",
-      "ai"
-    ],
-    "author": "Benedict Evans",
-    "source": "ben-evans.com",
-    "date": "2026-09-05",
-    "score": 58
-  },
-  {
-    "title": "Ways to think about token pricing",
-    "url": "https://www.ben-evans.com/benedictevans/2026/7/9/ways-to-think-about-token-pricing",
-    "summary": "Benedict Evans · Ways to think about token pricing",
-    "tags": [
-      "strategy",
-      "mobile",
-      "ai"
-    ],
-    "author": "Benedict Evans",
-    "source": "ben-evans.com",
-    "date": "2026-09-05",
-    "score": 58
-  },
-  {
-    "title": "Predicting AI job exposure",
-    "url": "https://www.ben-evans.com/benedictevans/2026/5/24/ai-job-exposure",
-    "summary": "Benedict Evans · Predicting AI job exposure",
-    "tags": [
-      "strategy",
-      "mobile",
-      "ai"
-    ],
-    "author": "Benedict Evans",
-    "source": "ben-evans.com",
-    "date": "2026-09-05",
-    "score": 58
-  },
-  {
-    "title": "2026.36: Friction and Feedback",
-    "url": "https://stratechery.com/2026/friction-and-feedback",
-    "summary": "The best Stratechery content from the week of August 31, 2026, including the market speaking, Apple finding religion, and society losing friction.",
-    "tags": [
-      "strategy",
-      "tech",
-      "business"
-    ],
-    "author": "Stratechery",
-    "source": "stratechery.com",
-    "date": "2026-09-05",
-    "score": 56
-  },
-  {
-    "title": "Fable 5.1, Enterprise Frontier Safeguards",
-    "url": "https://stratechery.com/2026/fable-5-1-enterprise-frontier-safeguards",
-    "summary": "Fable 5.1 is out, and the hated Fable data retention policy is not just being altered, but entirely removed in the meantime. Plus, why increased caching is a win-win.",
-    "tags": [
-      "strategy",
-      "tech",
-      "business"
-    ],
-    "author": "Stratechery",
-    "source": "stratechery.com",
-    "date": "2026-09-05",
-    "score": 56
-  },
-  {
-    "title": "Nvidia Earnings, Dollars Per Gigawatt, Open and Hugging Face",
-    "url": "https://stratechery.com/2026/nvidia-earnings-dollars-per-gigawatt-open-and-hugging-face",
-    "summary": "Nvidia's earnings were remarking and boring — two sides of the same coin. Everything the company does is about avoiding a consolidated world.",
-    "tags": [
-      "strategy",
-      "tech",
-      "business"
-    ],
-    "author": "Stratechery",
-    "source": "stratechery.com",
-    "date": "2026-09-05",
-    "score": 56
-  },
-  {
-    "title": "2026.35: Internet Hype and Real World Change",
-    "url": "https://stratechery.com/2026/internet-hype-and-real-world-change",
-    "summary": "The best Stratechery content from the week of August 24, 2026 including the breaker's advantage, the new battle for HDMI1, and how data center discourse ends.",
-    "tags": [
-      "strategy",
-      "tech",
-      "business"
-    ],
-    "author": "Stratechery",
-    "source": "stratechery.com",
-    "date": "2026-09-05",
-    "score": 56
-  },
-  {
-    "title": "Netflix to Sell Streaming Services?, Streamers as Aggregators, Revisiting Roku",
-    "url": "https://stratechery.com/2026/netflix-to-sell-streaming-services-streamers-as-aggregators-revisiting-roku",
-    "summary": "Netflix is considering selling other streaming services, and I think it's a good idea; it's also a let-down for Netflix's original goals and potential pivots.",
-    "tags": [
-      "strategy",
-      "tech",
-      "business"
-    ],
-    "author": "Stratechery",
-    "source": "stratechery.com",
-    "date": "2026-09-05",
-    "score": 56
+    "author": "Lenny's Newsletter",
+    "source": "lennysnewsletter.com",
+    "date": "2026-09-06",
+    "score": 62
   }
 ]

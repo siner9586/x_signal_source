@@ -19216,5 +19216,35 @@
     "cluster_id": "stratechery_com_e8957937",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7877aec461edd944",
+    "canonical_url": "https://openai.com/index/gpt-6-astra",
+    "dedupe_key": "bef76aa5a9f72572",
+    "title": "GPT-6 Astra: A new generation of intelligence",
+    "issue_date": "2026-09-06",
+    "cluster_id": "openai_com_b06d66d2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9c7adf80f64fc148",
+    "canonical_url": "https://huggingface.co/blog/KangLiao/puffin-world",
+    "dedupe_key": "014746f2c21a9e53",
+    "title": "Puffin-World: Scaling a Unified Multimodal Model with Native 3D World States KangLiao • 3 days ago • 21",
+    "issue_date": "2026-09-06",
+    "cluster_id": "huggingface_co_4f4a5f4c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_627739522d629881",
+    "canonical_url": "https://www.lennysnewsletter.com/p/community-wisdom-driving-ai-adoption",
+    "dedupe_key": "34b0295caa63e69f",
+    "title": "🧠 Community Wisdom: Driving AI adoption when habits are the bottleneck, leveling up from APM to a mid-level PM role, converting a wave of new users to subscription, and more",
+    "issue_date": "2026-09-06",
+    "cluster_id": "lennysnewsletter_com_a18f3806",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
