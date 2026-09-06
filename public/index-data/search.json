@@ -1,8 +1,8 @@
 [
   {
-    "title": "GPT-6 Astra: A new generation of intelligence",
-    "url": "https://openai.com/index/gpt-6-astra",
-    "summary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
+    "title": "Research acceleration: The view inside OpenAI",
+    "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+    "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
     "tags": [
       "ai_models",
       "official",
@@ -11,27 +11,28 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-09-06",
-    "score": 70
+    "date": "2026-09-07",
+    "score": 72
   },
   {
-    "title": "Puffin-World: Scaling a Unified Multimodal Model with Native 3D World States KangLiao • 3 days ago • 21",
-    "url": "https://huggingface.co/blog/KangLiao/puffin-world",
-    "summary": "Hugging Face – Blog · Puffin-World: Scaling a Unified Multimodal Model with Native 3D World States KangLiao • 3 days ago • 21",
+    "title": "An Alien Mind",
+    "url": "https://openai.com/index/an-alien-mind",
+    "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
     "tags": [
-      "open_source",
-      "papers",
-      "models"
+      "ai_models",
+      "official",
+      "research",
+      "developer"
     ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-09-06",
-    "score": 66
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-09-07",
+    "score": 67
   },
   {
-    "title": "🧠 Community Wisdom: Driving AI adoption when habits are the bottleneck, leveling up from APM to a mid-level PM role, converting a wave of new users to subscription, and more",
-    "url": "https://www.lennysnewsletter.com/p/community-wisdom-driving-ai-adoption",
-    "summary": "Community Wisdom 200",
+    "title": "Why companies are becoming a series of loops | Anish Acharya (a16z)",
+    "url": "https://www.lennysnewsletter.com/p/why-companies-are-becoming-a-series",
+    "summary": "Anish Acharya on why the permanent-underclass fear is wrong, how every job function becomes a loop, and where consumer AI is headed",
     "tags": [
       "product",
       "growth",
@@ -39,7 +40,7 @@
     ],
     "author": "Lenny's Newsletter",
     "source": "lennysnewsletter.com",
-    "date": "2026-09-06",
+    "date": "2026-09-07",
     "score": 62
   }
 ]

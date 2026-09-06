@@ -19246,5 +19246,35 @@
     "cluster_id": "lennysnewsletter_com_a18f3806",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a970928309eb651d",
+    "canonical_url": "https://openai.com/index/research-acceleration-view-inside-openai",
+    "dedupe_key": "4b2b21e6f645c538",
+    "title": "Research acceleration: The view inside OpenAI",
+    "issue_date": "2026-09-07",
+    "cluster_id": "openai_com_260b7030",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_be9688642ab2cb8e",
+    "canonical_url": "https://openai.com/index/an-alien-mind",
+    "dedupe_key": "59cf524311d8c4a9",
+    "title": "An Alien Mind",
+    "issue_date": "2026-09-07",
+    "cluster_id": "openai_com_70561be8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_95cef0b2ef2180ab",
+    "canonical_url": "https://www.lennysnewsletter.com/p/why-companies-are-becoming-a-series",
+    "dedupe_key": "86ee791bc794c547",
+    "title": "Why companies are becoming a series of loops | Anish Acharya (a16z)",
+    "issue_date": "2026-09-07",
+    "cluster_id": "lennysnewsletter_com_69ed4a5c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
