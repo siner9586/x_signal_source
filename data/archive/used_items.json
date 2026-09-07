@@ -19276,5 +19276,65 @@
     "cluster_id": "lennysnewsletter_com_69ed4a5c",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8260d1f1b37d4c2b",
+    "canonical_url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+    "dedupe_key": "02ae24fd17843a23",
+    "title": "Supporting independent journalism in Ukraine",
+    "issue_date": "2026-09-08",
+    "cluster_id": "openai_com_cde00c28",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4bbed75677e7f286",
+    "canonical_url": "https://www.lennysnewsletter.com/p/how-i-ai-gpt-6-astra-is-a-banger",
+    "dedupe_key": "555b51440a9e7317",
+    "title": "🎙️ How I AI: GPT-6 Astra is a banger + Stripe’s AI playbook + Grok Bot vs. OpenClaw: why I replaced my entire agent stack",
+    "issue_date": "2026-09-08",
+    "cluster_id": "lennysnewsletter_com_534cde34",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8696912dee50a4ac",
+    "canonical_url": "https://www.lennysnewsletter.com/p/build-your-own-company-brain-the",
+    "dedupe_key": "8273fa1bf300bb5b",
+    "title": "Build your own company brain: the enterprise AI playbook from Stripe’s engineering team | Sharadh Krishnamurthy",
+    "issue_date": "2026-09-08",
+    "cluster_id": "lennysnewsletter_com_d43612b0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a82bccf408a97524",
+    "canonical_url": "https://huggingface.co/blog/Qdrant/fineweb-10b-release",
+    "dedupe_key": "725bc2e3782dbb6e",
+    "title": "Internet-Scale Knowledge Retrieval: A Novel Vector Search Dataset at 10B Scale Qdrant • 6 days ago • 13",
+    "issue_date": "2026-09-08",
+    "cluster_id": "huggingface_co_22469657",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5cdd7680569c4f61",
+    "canonical_url": "https://arxiv.org/abs/2608.24067",
+    "dedupe_key": "aafce4b87de8beaa",
+    "title": "arXiv:2608.24067",
+    "issue_date": "2026-09-08",
+    "cluster_id": "arxiv_org_820186f0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c5891da1b710cdcc",
+    "canonical_url": "https://arxiv.org/list/cs.CV/recent?skip=0&amp%3Bshow=50",
+    "dedupe_key": "ab1f753ee32c75bc",
+    "title": "Mon, 7 Sep 2026",
+    "issue_date": "2026-09-08",
+    "cluster_id": "arxiv_org_e7376352",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]

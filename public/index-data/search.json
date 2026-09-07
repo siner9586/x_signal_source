@@ -1,8 +1,8 @@
 [
   {
-    "title": "Research acceleration: The view inside OpenAI",
-    "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-    "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+    "title": "Supporting independent journalism in Ukraine",
+    "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+    "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
     "tags": [
       "ai_models",
       "official",
@@ -11,28 +11,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-09-07",
-    "score": 72
-  },
-  {
-    "title": "An Alien Mind",
-    "url": "https://openai.com/index/an-alien-mind",
-    "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-09-07",
+    "date": "2026-09-08",
     "score": 67
   },
   {
-    "title": "Why companies are becoming a series of loops | Anish Acharya (a16z)",
-    "url": "https://www.lennysnewsletter.com/p/why-companies-are-becoming-a-series",
-    "summary": "Anish Acharya on why the permanent-underclass fear is wrong, how every job function becomes a loop, and where consumer AI is headed",
+    "title": "🎙️ How I AI: GPT-6 Astra is a banger + Stripe’s AI playbook + Grok Bot vs. OpenClaw: why I replaced my entire agent stack",
+    "url": "https://www.lennysnewsletter.com/p/how-i-ai-gpt-6-astra-is-a-banger",
+    "summary": "Your weekly listens from How I AI, part of the Lenny&#8217;s Podcast Network",
     "tags": [
       "product",
       "growth",
@@ -40,7 +25,63 @@
     ],
     "author": "Lenny's Newsletter",
     "source": "lennysnewsletter.com",
-    "date": "2026-09-07",
-    "score": 62
+    "date": "2026-09-08",
+    "score": 65
+  },
+  {
+    "title": "Build your own company brain: the enterprise AI playbook from Stripe’s engineering team | Sharadh Krishnamurthy",
+    "url": "https://www.lennysnewsletter.com/p/build-your-own-company-brain-the",
+    "summary": "Watch now | &#127897;&#65039; Learn how Stripe scaled AI to everyone at a complex global company by building context, governance, and a shared skills platform directly into their internal agent",
+    "tags": [
+      "product",
+      "growth",
+      "startup"
+    ],
+    "author": "Lenny's Newsletter",
+    "source": "lennysnewsletter.com",
+    "date": "2026-09-08",
+    "score": 65
+  },
+  {
+    "title": "Internet-Scale Knowledge Retrieval: A Novel Vector Search Dataset at 10B Scale Qdrant • 6 days ago • 13",
+    "url": "https://huggingface.co/blog/Qdrant/fineweb-10b-release",
+    "summary": "Hugging Face – Blog · Internet-Scale Knowledge Retrieval: A Novel Vector Search Dataset at 10B Scale Qdrant • 6 days ago • 13",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-09-08",
+    "score": 64
+  },
+  {
+    "title": "arXiv:2608.24067",
+    "url": "https://arxiv.org/abs/2608.24067",
+    "summary": "Machine Learning · arXiv:2608.24067",
+    "tags": [
+      "paper",
+      "machine_learning",
+      "arxiv"
+    ],
+    "author": "arXiv CS LG",
+    "source": "arxiv.org",
+    "date": "2026-09-08",
+    "score": 59
+  },
+  {
+    "title": "Mon, 7 Sep 2026",
+    "url": "https://arxiv.org/list/cs.CV/recent?skip=0&amp%3Bshow=50",
+    "summary": "Computer Vision and Pattern Recognition · Mon, 7 Sep 2026",
+    "tags": [
+      "paper",
+      "vision",
+      "arxiv"
+    ],
+    "author": "arXiv CS CV",
+    "source": "arxiv.org",
+    "date": "2026-09-08",
+    "score": 59
   }
 ]
