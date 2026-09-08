@@ -19336,5 +19336,205 @@
     "cluster_id": "arxiv_org_e7376352",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7e2690288a32c2f3",
+    "canonical_url": "https://openai.com/index/codex-quantum-computing-experiments",
+    "dedupe_key": "a63ecbe0b30e264e",
+    "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+    "issue_date": "2026-09-09",
+    "cluster_id": "openai_com_ef1d3c24",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6303b365825bd793",
+    "canonical_url": "https://openai.com/index/1password",
+    "dedupe_key": "2524a3ec777e24db",
+    "title": "1Password increases engineering productivity 21% with Codex",
+    "issue_date": "2026-09-09",
+    "cluster_id": "openai_com_67f23e13",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5540a5383f55861c",
+    "canonical_url": "https://elevenlabs.io/blog/cfo",
+    "dedupe_key": "0a922938fc15c3fa",
+    "title": "Ethan Tandowsky joins ElevenLabs as Chief Financial Officer",
+    "issue_date": "2026-09-09",
+    "cluster_id": "elevenlabs_io_7c2f6d15",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_79a6c36aaa776206",
+    "canonical_url": "https://openai.com/index/the-work-now-within-reach",
+    "dedupe_key": "7782d07258c2df68",
+    "title": "The Work Now Within Reach",
+    "issue_date": "2026-09-09",
+    "cluster_id": "openai_com_8e601c0b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f1a17c3891a6acd8",
+    "canonical_url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+    "dedupe_key": "be80959aaa67a9c5",
+    "title": "Introducing ChatGPT Images 2.5",
+    "issue_date": "2026-09-09",
+    "cluster_id": "openai_com_29a54e36",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7ed8fdf0acdd51fe",
+    "canonical_url": "https://openai.com/index/navier-stokes-solution",
+    "dedupe_key": "2424153b95124626",
+    "title": "On the Navier–Stokes Millennium Prize Problem",
+    "issue_date": "2026-09-09",
+    "cluster_id": "openai_com_a276acd9",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a55d13039dfad553",
+    "canonical_url": "https://openai.com/index/teen-development-research-grants",
+    "dedupe_key": "a781c3a7bcbe981c",
+    "title": "Funding grants for new research into AI and teen development",
+    "issue_date": "2026-09-09",
+    "cluster_id": "openai_com_b69d61f8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_451a6fd124435214",
+    "canonical_url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+    "dedupe_key": "a8db3a301c84caa1",
+    "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+    "issue_date": "2026-09-09",
+    "cluster_id": "openai_com_605715ab",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2a1f5b49aedb3009",
+    "canonical_url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents",
+    "dedupe_key": "b287250c69f2a318",
+    "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+    "issue_date": "2026-09-09",
+    "cluster_id": "technologyreview_com_9da6b965",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a6aa92a9ddfca4d3",
+    "canonical_url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
+    "dedupe_key": "d9ddb5929049d3ec",
+    "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+    "issue_date": "2026-09-09",
+    "cluster_id": "deepmind_google_c02c27df",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9a24f9cb0fba7540",
+    "canonical_url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels",
+    "dedupe_key": "c51031b83685a0eb",
+    "title": "Introducing CUDA Rust: Two Tracks for Writing GPU Kernels",
+    "issue_date": "2026-09-09",
+    "cluster_id": "developer_nvidia_com_dcff5c00",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d21ace0f7c971b3f",
+    "canonical_url": "https://vercel.com/blog/introducing-flat-rate-cdn",
+    "dedupe_key": "47dd53c86883a681",
+    "title": "8 September General Introducing Flat Rate CDN Flat Rate CDN is an alternative to usage-based CDN billing that provides Pro teams a predictable monthly bill. Jas Garcha, Eric Dodds",
+    "issue_date": "2026-09-09",
+    "cluster_id": "vercel_com_83d631c1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3adc43076286debc",
+    "canonical_url": "https://huggingface.co/blog/hugging-science/earthmover-hf",
+    "dedupe_key": "9f825e8cbf42710b",
+    "title": "Making open-source AI weather forecasting models easy to run hugging-science • about 9 hours ago • 14",
+    "issue_date": "2026-09-09",
+    "cluster_id": "huggingface_co_d1034d3e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5f10d70757c24139",
+    "canonical_url": "https://www.langchain.com/blog/organizing-context-in-a-multi-agent-harness",
+    "dedupe_key": "0ae21f12d1c05d9d",
+    "title": "Organizing Context in a Multi-Agent Harness",
+    "issue_date": "2026-09-09",
+    "cluster_id": "langchain_com_0e14924d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_516f8972ad714aaa",
+    "canonical_url": "https://vercel.com/changelog/vercel-sandbox-routing-is-now-18x-faster-globally",
+    "dedupe_key": "ffb8b2c99b08a63a",
+    "title": "Vercel Sandbox routing is now 18x faster globally",
+    "issue_date": "2026-09-09",
+    "cluster_id": "vercel_com_0cefc7ec",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c1c289aae59325e7",
+    "canonical_url": "https://vercel.com/changelog/flat-rate-cdn-is-now-ga-for-pro-teams",
+    "dedupe_key": "a8eab76bb4754c66",
+    "title": "Flat Rate CDN is now GA for Pro teams",
+    "issue_date": "2026-09-09",
+    "cluster_id": "vercel_com_13d1f8e5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_969976da6f898876",
+    "canonical_url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+    "dedupe_key": "e07017620ca58297",
+    "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+    "issue_date": "2026-09-09",
+    "cluster_id": "huggingface_co_2a5ff226",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1c1bfcfa0ffd1f34",
+    "canonical_url": "https://www.lennysnewsletter.com/p/how-we-built-grok-bot-in-a-month",
+    "dedupe_key": "7d4fc90d4174a205",
+    "title": "How we built Grok Bot in a month | Roman Ugarte (SpaceXAI)",
+    "issue_date": "2026-09-09",
+    "cluster_id": "lennysnewsletter_com_f44154b4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ff2f0039e5b4a918",
+    "canonical_url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
+    "dedupe_key": "0c797a2c9a9133f2",
+    "title": "Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
+    "issue_date": "2026-09-09",
+    "cluster_id": "mistral_ai_44c56c8b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1968b936c7d379ec",
+    "canonical_url": "https://stratechery.com/2026/write-things-down",
+    "dedupe_key": "b380b9c77754df49",
+    "title": "Write Things Down",
+    "issue_date": "2026-09-09",
+    "cluster_id": "stratechery_com_87fe891c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]

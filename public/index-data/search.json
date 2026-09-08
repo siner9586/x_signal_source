@@ -1,8 +1,8 @@
 [
   {
-    "title": "Supporting independent journalism in Ukraine",
-    "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
-    "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
+    "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+    "url": "https://openai.com/index/codex-quantum-computing-experiments",
+    "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
     "tags": [
       "ai_models",
       "official",
@@ -11,41 +11,173 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-09-08",
+    "date": "2026-09-09",
+    "score": 69
+  },
+  {
+    "title": "1Password increases engineering productivity 21% with Codex",
+    "url": "https://openai.com/index/1password",
+    "summary": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-09-09",
+    "score": 68
+  },
+  {
+    "title": "Ethan Tandowsky joins ElevenLabs as Chief Financial Officer",
+    "url": "https://elevenlabs.io/blog/cfo",
+    "summary": "ElevenLabs Blog - Company, Research & Product Updates · Ethan Tandowsky joins ElevenLabs as Chief Financial Officer",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-09-09",
     "score": 67
   },
   {
-    "title": "🎙️ How I AI: GPT-6 Astra is a banger + Stripe’s AI playbook + Grok Bot vs. OpenClaw: why I replaced my entire agent stack",
-    "url": "https://www.lennysnewsletter.com/p/how-i-ai-gpt-6-astra-is-a-banger",
-    "summary": "Your weekly listens from How I AI, part of the Lenny&#8217;s Podcast Network",
+    "title": "The Work Now Within Reach",
+    "url": "https://openai.com/index/the-work-now-within-reach",
+    "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
     "tags": [
-      "product",
-      "growth",
-      "startup"
+      "ai_models",
+      "official",
+      "research",
+      "developer"
     ],
-    "author": "Lenny's Newsletter",
-    "source": "lennysnewsletter.com",
-    "date": "2026-09-08",
-    "score": 65
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-09-09",
+    "score": 67
   },
   {
-    "title": "Build your own company brain: the enterprise AI playbook from Stripe’s engineering team | Sharadh Krishnamurthy",
-    "url": "https://www.lennysnewsletter.com/p/build-your-own-company-brain-the",
-    "summary": "Watch now | &#127897;&#65039; Learn how Stripe scaled AI to everyone at a complex global company by building context, governance, and a shared skills platform directly into their internal agent",
+    "title": "Introducing ChatGPT Images 2.5",
+    "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+    "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
     "tags": [
-      "product",
-      "growth",
-      "startup"
+      "ai_models",
+      "official",
+      "research",
+      "developer"
     ],
-    "author": "Lenny's Newsletter",
-    "source": "lennysnewsletter.com",
-    "date": "2026-09-08",
-    "score": 65
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-09-09",
+    "score": 67
   },
   {
-    "title": "Internet-Scale Knowledge Retrieval: A Novel Vector Search Dataset at 10B Scale Qdrant • 6 days ago • 13",
-    "url": "https://huggingface.co/blog/Qdrant/fineweb-10b-release",
-    "summary": "Hugging Face – Blog · Internet-Scale Knowledge Retrieval: A Novel Vector Search Dataset at 10B Scale Qdrant • 6 days ago • 13",
+    "title": "On the Navier–Stokes Millennium Prize Problem",
+    "url": "https://openai.com/index/navier-stokes-solution",
+    "summary": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-09-09",
+    "score": 67
+  },
+  {
+    "title": "Funding grants for new research into AI and teen development",
+    "url": "https://openai.com/index/teen-development-research-grants",
+    "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-09-09",
+    "score": 67
+  },
+  {
+    "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+    "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+    "summary": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-09-09",
+    "score": 67
+  },
+  {
+    "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+    "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents",
+    "summary": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only one other person there, and little in the way of furniture. But what it lacks in decor, it makes up&#8230;",
+    "tags": [
+      "ai",
+      "research",
+      "society"
+    ],
+    "author": "MIT Technology Review AI",
+    "source": "technologyreview.com",
+    "date": "2026-09-09",
+    "score": 67
+  },
+  {
+    "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+    "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
+    "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+    "tags": [
+      "research",
+      "multimodal",
+      "science",
+      "official"
+    ],
+    "author": "Google DeepMind",
+    "source": "deepmind.google",
+    "date": "2026-09-09",
+    "score": 66
+  },
+  {
+    "title": "Introducing CUDA Rust: Two Tracks for Writing GPU Kernels",
+    "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels",
+    "summary": "NVIDIA Technical Blog · Introducing CUDA Rust: Two Tracks for Writing GPU Kernels",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-09-09",
+    "score": 66
+  },
+  {
+    "title": "8 September General Introducing Flat Rate CDN Flat Rate CDN is an alternative to usage-based CDN billing that provides Pro teams a predictable monthly bill. Jas Garcha, Eric Dodds",
+    "url": "https://vercel.com/blog/introducing-flat-rate-cdn",
+    "summary": "Blog - Vercel · 8 September General Introducing Flat Rate CDN Flat Rate CDN is an alternative to usage-based CDN billing that provides Pro teams a predictable monthly bill. Jas Garcha, Eric Dodds",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-09-09",
+    "score": 66
+  },
+  {
+    "title": "Making open-source AI weather forecasting models easy to run hugging-science • about 9 hours ago • 14",
+    "url": "https://huggingface.co/blog/hugging-science/earthmover-hf",
+    "summary": "Hugging Face – Blog · Making open-source AI weather forecasting models easy to run hugging-science • about 9 hours ago • 14",
     "tags": [
       "open_source",
       "papers",
@@ -53,35 +185,104 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-09-08",
+    "date": "2026-09-09",
+    "score": 65
+  },
+  {
+    "title": "Organizing Context in a Multi-Agent Harness",
+    "url": "https://www.langchain.com/blog/organizing-context-in-a-multi-agent-harness",
+    "summary": "Learn how context modes in deepagents help subagents fork a supervisor's context or start isolated — for faster, cheaper, more focused multi-agent work.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-09-09",
     "score": 64
   },
   {
-    "title": "arXiv:2608.24067",
-    "url": "https://arxiv.org/abs/2608.24067",
-    "summary": "Machine Learning · arXiv:2608.24067",
+    "title": "Vercel Sandbox routing is now 18x faster globally",
+    "url": "https://vercel.com/changelog/vercel-sandbox-routing-is-now-18x-faster-globally",
+    "summary": "Requests to Vercel Sandbox public domains are now routed 18x faster. Domains created with the sandbox.domain() SDK call are now resolved from the nearest regional replica, instead of a single centralized store. Incoming requests reach the process running in the sandbox with less latency. Median domain lookup latency dropped from 62ms to 3.4ms (18x faster). The improvement is largest in regions farthest from the previous store: lookups are now up to 112x faster in Sydney (syd1",
     "tags": [
-      "paper",
-      "machine_learning",
-      "arxiv"
+      "sdk",
+      "ai_infra",
+      "frontend"
     ],
-    "author": "arXiv CS LG",
-    "source": "arxiv.org",
-    "date": "2026-09-08",
-    "score": 59
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-09-09",
+    "score": 63
   },
   {
-    "title": "Mon, 7 Sep 2026",
-    "url": "https://arxiv.org/list/cs.CV/recent?skip=0&amp%3Bshow=50",
-    "summary": "Computer Vision and Pattern Recognition · Mon, 7 Sep 2026",
+    "title": "Flat Rate CDN is now GA for Pro teams",
+    "url": "https://vercel.com/changelog/flat-rate-cdn-is-now-ga-for-pro-teams",
+    "summary": "Flat Rate CDN is now generally available for Pro teams. Flat Rate CDN is an alternative to usage-based CDN billing that provides you with a fixed monthly bill. Monthly Flat Rate CDN capacity includes: Fast Data Transfer Blob Data Transfer CDN Requests Observability events generated by CDN requests Capacity is set at the team level, not the project level, so a spike on a single project draws on the team-level allowance. Spike protection is on by default. With spike protection,",
     "tags": [
-      "paper",
-      "vision",
-      "arxiv"
+      "sdk",
+      "ai_infra",
+      "frontend"
     ],
-    "author": "arXiv CS CV",
-    "source": "arxiv.org",
-    "date": "2026-09-08",
-    "score": 59
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-09-09",
+    "score": 63
+  },
+  {
+    "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+    "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+    "summary": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-09-09",
+    "score": 62
+  },
+  {
+    "title": "How we built Grok Bot in a month | Roman Ugarte (SpaceXAI)",
+    "url": "https://www.lennysnewsletter.com/p/how-we-built-grok-bot-in-a-month",
+    "summary": "Listen now | Roman Ugarte of SpaceXAI on going from first line of code to the world&#8217;s hottest AI product in seven weeks, and what it really takes to win in the most competitive market ever",
+    "tags": [
+      "product",
+      "growth",
+      "startup"
+    ],
+    "author": "Lenny's Newsletter",
+    "source": "lennysnewsletter.com",
+    "date": "2026-09-09",
+    "score": 62
+  },
+  {
+    "title": "Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
+    "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
+    "summary": "Latest news | Mistral · Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
+    "tags": [
+      "open_model",
+      "european_ai"
+    ],
+    "author": "Mistral AI",
+    "source": "mistral.ai",
+    "date": "2026-09-09",
+    "score": 60
+  },
+  {
+    "title": "Write Things Down",
+    "url": "https://stratechery.com/2026/write-things-down",
+    "summary": "Writing things down is powerful, for humans and for AI; what comes first, however, is what to write, why to do it, and actually getting things done.",
+    "tags": [
+      "strategy",
+      "tech",
+      "business"
+    ],
+    "author": "Stratechery",
+    "source": "stratechery.com",
+    "date": "2026-09-09",
+    "score": 58
   }
 ]
