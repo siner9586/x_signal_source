@@ -19536,5 +19536,175 @@
     "cluster_id": "stratechery_com_87fe891c",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_26c33875ed5c3acb",
+    "canonical_url": "https://vercel.com/changelog/you-can-now-read-and-search-changelogs-from-the-cli",
+    "dedupe_key": "8382c4a15069949d",
+    "title": "You can now read and search changelogs from the CLI",
+    "issue_date": "2026-09-10",
+    "cluster_id": "vercel_com_376cf408",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d0400e705baca8fc",
+    "canonical_url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+    "dedupe_key": "b1ab7ac3ec00b7c6",
+    "title": "GPT-6 Astra: The next generation in intelligence for work",
+    "issue_date": "2026-09-10",
+    "cluster_id": "openai_com_fef9fee2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0a37295829739b0e",
+    "canonical_url": "https://developer.nvidia.com/blog/when-to-use-encode-prefill-decode-disaggregation-to-accelerate-multimodal-model-serving",
+    "dedupe_key": "9ee7a44cd93b78df",
+    "title": "When to Use Encode-Prefill-Decode Disaggregation to Accelerate Multimodal Model Serving",
+    "issue_date": "2026-09-10",
+    "cluster_id": "developer_nvidia_com_4ec7faba",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c9bfc5e31df7ee8d",
+    "canonical_url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+    "dedupe_key": "553fa41ede7a729a",
+    "title": "Paul Christiano joins OpenAI Foundation Board",
+    "issue_date": "2026-09-10",
+    "cluster_id": "openai_com_f56a9e75",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_982dc19ed943ea80",
+    "canonical_url": "https://developer.nvidia.com/blog/cuda-toolkit-13-4-adds-windows-on-arm-support-and-greater-control-over-shared-gpus",
+    "dedupe_key": "9dbac11d5e6463ab",
+    "title": "CUDA Toolkit 13.4 Adds Windows on Arm Support and Greater Control over Shared GPUs",
+    "issue_date": "2026-09-10",
+    "cluster_id": "developer_nvidia_com_bb25e7d5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ac9e7b51ce550c8a",
+    "canonical_url": "https://vercel.com/changelog/persistent-memory-for-eve-agents",
+    "dedupe_key": "6586e20310ae80a0",
+    "title": "Persistent memory for eve agents",
+    "issue_date": "2026-09-10",
+    "cluster_id": "vercel_com_52ed450a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_bf5e794d99d3dd98",
+    "canonical_url": "https://mistral.ai/news/legacy-code-modernization",
+    "dedupe_key": "a2d5a3f3acef8423",
+    "title": "Modernizing complex legacy code with AI agents.",
+    "issue_date": "2026-09-10",
+    "cluster_id": "mistral_ai_e0e88e03",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_fefed0585ba7cb78",
+    "canonical_url": "https://vercel.com/changelog/protect-production-deployments-for-free-on-every-plan",
+    "dedupe_key": "d5ff4f254976d07a",
+    "title": "Protect production deployments for free on every plan",
+    "issue_date": "2026-09-10",
+    "cluster_id": "vercel_com_62814f25",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e8cdbaf01ff93ff5",
+    "canonical_url": "https://www.langchain.com/blog/connections-managed-credentials-and-per-caller-identity-for-managed-deep-agents",
+    "dedupe_key": "3f7078863cd52f54",
+    "title": "Connections: managed credentials and per-caller identity for Managed Deep Agents",
+    "issue_date": "2026-09-10",
+    "cluster_id": "langchain_com_0d1b27db",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5be32cae4b56573a",
+    "canonical_url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math",
+    "dedupe_key": "54da9bed0741d76d",
+    "title": "What OpenAI’s latest controversy tells us about the future of math",
+    "issue_date": "2026-09-10",
+    "cluster_id": "technologyreview_com_7ef93fd6",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_71441dabd184535f",
+    "canonical_url": "https://vercel.com/changelog/password-protection-now-costs-20-per-project-per-month-on-pro",
+    "dedupe_key": "5775027131dfeb0a",
+    "title": "Password Protection is now available per project on Pro",
+    "issue_date": "2026-09-10",
+    "cluster_id": "vercel_com_b854e33b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9e6d8f43d8f0e84b",
+    "canonical_url": "https://vercel.com/changelog/v0-adds-one-click-integrations-for-email-auth-search-and-databases",
+    "dedupe_key": "ec18ec96bf10b881",
+    "title": "v0 adds one-click integrations for email, auth, search, and databases",
+    "issue_date": "2026-09-10",
+    "cluster_id": "vercel_com_1c30bae5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b41bcf4a4c08cd58",
+    "canonical_url": "https://vercel.com/changelog/deployment-step-now-10-faster",
+    "dedupe_key": "bbdc181ba6ac8531",
+    "title": "Deployment step now 10% faster",
+    "issue_date": "2026-09-10",
+    "cluster_id": "vercel_com_0604f7d9",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a4a519acddf1d21f",
+    "canonical_url": "https://vercel.com/changelog/gpt-image-2-5-flare-and-sunburst-now-available-on-ai-gateway",
+    "dedupe_key": "4e0a2baeb4633ec3",
+    "title": "GPT Image 2.5 Flare and Sunburst now available on AI Gateway",
+    "issue_date": "2026-09-10",
+    "cluster_id": "vercel_com_0dcc1bdd",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4271a17ad7c3ba25",
+    "canonical_url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+    "dedupe_key": "c60bd77a6d9ee8fe",
+    "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+    "issue_date": "2026-09-10",
+    "cluster_id": "huggingface_co_73f40b5c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_96a37c9b723aec87",
+    "canonical_url": "https://stratechery.com/2026/openai-does-math-reward-hacking-meta-launches-personal-agent",
+    "dedupe_key": "068d55fe89d35236",
+    "title": "OpenAI Does Math, Reward-Hacking, Meta Launches Personal Agent",
+    "issue_date": "2026-09-10",
+    "cluster_id": "stratechery_com_e012ed5f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7433455f9b746f71",
+    "canonical_url": "https://arxiv.org/abs/2606.16307",
+    "dedupe_key": "c1573cf48d173900",
+    "title": "arXiv:2606.16307",
+    "issue_date": "2026-09-10",
+    "cluster_id": "arxiv_org_df37bacd",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]

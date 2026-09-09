@@ -1,8 +1,22 @@
 [
   {
-    "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-    "url": "https://openai.com/index/codex-quantum-computing-experiments",
-    "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+    "title": "You can now read and search changelogs from the CLI",
+    "url": "https://vercel.com/changelog/you-can-now-read-and-search-changelogs-from-the-cli",
+    "summary": "You and your agents can now read and search the Vercel changelog feed from your terminal using vercel changelog . Coding agents can use this command to discover new Vercel products and features, find updates relevant to your project, and read full announcements to inform their recommendations. vercel changelog returns the latest five changelogs with full Markdown content. You can also set the number of results, search all changelogs using a keyword, and access JSON output for",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-09-10",
+    "score": 70
+  },
+  {
+    "title": "GPT-6 Astra: The next generation in intelligence for work",
+    "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+    "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
     "tags": [
       "ai_models",
       "official",
@@ -11,145 +25,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-09-09",
+    "date": "2026-09-10",
     "score": 69
   },
   {
-    "title": "1Password increases engineering productivity 21% with Codex",
-    "url": "https://openai.com/index/1password",
-    "summary": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-09-09",
-    "score": 68
-  },
-  {
-    "title": "Ethan Tandowsky joins ElevenLabs as Chief Financial Officer",
-    "url": "https://elevenlabs.io/blog/cfo",
-    "summary": "ElevenLabs Blog - Company, Research & Product Updates · Ethan Tandowsky joins ElevenLabs as Chief Financial Officer",
-    "tags": [
-      "voice_ai",
-      "audio"
-    ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-09-09",
-    "score": 67
-  },
-  {
-    "title": "The Work Now Within Reach",
-    "url": "https://openai.com/index/the-work-now-within-reach",
-    "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-09-09",
-    "score": 67
-  },
-  {
-    "title": "Introducing ChatGPT Images 2.5",
-    "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
-    "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-09-09",
-    "score": 67
-  },
-  {
-    "title": "On the Navier–Stokes Millennium Prize Problem",
-    "url": "https://openai.com/index/navier-stokes-solution",
-    "summary": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-09-09",
-    "score": 67
-  },
-  {
-    "title": "Funding grants for new research into AI and teen development",
-    "url": "https://openai.com/index/teen-development-research-grants",
-    "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-09-09",
-    "score": 67
-  },
-  {
-    "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
-    "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
-    "summary": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-09-09",
-    "score": 67
-  },
-  {
-    "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
-    "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents",
-    "summary": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only one other person there, and little in the way of furniture. But what it lacks in decor, it makes up&#8230;",
-    "tags": [
-      "ai",
-      "research",
-      "society"
-    ],
-    "author": "MIT Technology Review AI",
-    "source": "technologyreview.com",
-    "date": "2026-09-09",
-    "score": 67
-  },
-  {
-    "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-    "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
-    "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
-    "tags": [
-      "research",
-      "multimodal",
-      "science",
-      "official"
-    ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-09-09",
-    "score": 66
-  },
-  {
-    "title": "Introducing CUDA Rust: Two Tracks for Writing GPU Kernels",
-    "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels",
-    "summary": "NVIDIA Technical Blog · Introducing CUDA Rust: Two Tracks for Writing GPU Kernels",
+    "title": "When to Use Encode-Prefill-Decode Disaggregation to Accelerate Multimodal Model Serving",
+    "url": "https://developer.nvidia.com/blog/when-to-use-encode-prefill-decode-disaggregation-to-accelerate-multimodal-model-serving",
+    "summary": "NVIDIA Technical Blog · When to Use Encode-Prefill-Decode Disaggregation to Accelerate Multimodal Model Serving",
     "tags": [
       "gpu",
       "inference",
@@ -157,13 +39,42 @@
     ],
     "author": "NVIDIA AI",
     "source": "developer.nvidia.com",
-    "date": "2026-09-09",
+    "date": "2026-09-10",
+    "score": 68
+  },
+  {
+    "title": "Paul Christiano joins OpenAI Foundation Board",
+    "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+    "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-09-10",
+    "score": 67
+  },
+  {
+    "title": "CUDA Toolkit 13.4 Adds Windows on Arm Support and Greater Control over Shared GPUs",
+    "url": "https://developer.nvidia.com/blog/cuda-toolkit-13-4-adds-windows-on-arm-support-and-greater-control-over-shared-gpus",
+    "summary": "NVIDIA Technical Blog · CUDA Toolkit 13.4 Adds Windows on Arm Support and Greater Control over Shared GPUs",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-09-10",
     "score": 66
   },
   {
-    "title": "8 September General Introducing Flat Rate CDN Flat Rate CDN is an alternative to usage-based CDN billing that provides Pro teams a predictable monthly bill. Jas Garcha, Eric Dodds",
-    "url": "https://vercel.com/blog/introducing-flat-rate-cdn",
-    "summary": "Blog - Vercel · 8 September General Introducing Flat Rate CDN Flat Rate CDN is an alternative to usage-based CDN billing that provides Pro teams a predictable monthly bill. Jas Garcha, Eric Dodds",
+    "title": "Persistent memory for eve agents",
+    "url": "https://vercel.com/changelog/persistent-memory-for-eve-agents",
+    "summary": "eve agents can now retain context across sessions and use it in future conversations. Persistent memory is organized into slots. You can define named slots in files under agent/memory/ . Each slot specifies a provider, which stores and retrieves the memory, and a scope, which determines who or what shares it. For example, you can keep separate memory for each authenticated user. Before each turn, eve retrieves relevant memory and adds it to the model's context. Depending on t",
     "tags": [
       "sdk",
       "ai_infra",
@@ -171,27 +82,40 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-09-09",
+    "date": "2026-09-10",
     "score": 66
   },
   {
-    "title": "Making open-source AI weather forecasting models easy to run hugging-science • about 9 hours ago • 14",
-    "url": "https://huggingface.co/blog/hugging-science/earthmover-hf",
-    "summary": "Hugging Face – Blog · Making open-source AI weather forecasting models easy to run hugging-science • about 9 hours ago • 14",
+    "title": "Modernizing complex legacy code with AI agents.",
+    "url": "https://mistral.ai/news/legacy-code-modernization",
+    "summary": "Latest news | Mistral · Modernizing complex legacy code with AI agents.",
     "tags": [
-      "open_source",
-      "papers",
-      "models"
+      "open_model",
+      "european_ai"
     ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-09-09",
+    "author": "Mistral AI",
+    "source": "mistral.ai",
+    "date": "2026-09-10",
     "score": 65
   },
   {
-    "title": "Organizing Context in a Multi-Agent Harness",
-    "url": "https://www.langchain.com/blog/organizing-context-in-a-multi-agent-harness",
-    "summary": "Learn how context modes in deepagents help subagents fork a supervisor's context or start isolated — for faster, cheaper, more focused multi-agent work.",
+    "title": "Protect production deployments for free on every plan",
+    "url": "https://vercel.com/changelog/protect-production-deployments-for-free-on-every-plan",
+    "summary": "Vercel Authentication can now protect all deployments in a project, including production, at no additional cost on every plan. Previously, protecting production domains required the $150-per-month Advanced Deployment Protection add-on. When enabled, visitors must sign in with a Vercel account that has access to the project. This makes it useful for internal tools, private dashboards, and sites that aren’t yet ready to launch. From your project, open Security in the sidebar, s",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-09-10",
+    "score": 65
+  },
+  {
+    "title": "Connections: managed credentials and per-caller identity for Managed Deep Agents",
+    "url": "https://www.langchain.com/blog/connections-managed-credentials-and-per-caller-identity-for-managed-deep-agents",
+    "summary": "Learn how Connections in Managed Deep Agents securely manage credentials, support per-user OAuth, and let agents act with each caller’s identity.",
     "tags": [
       "agents",
       "rag",
@@ -199,13 +123,27 @@
     ],
     "author": "LangChain",
     "source": "langchain.com",
-    "date": "2026-09-09",
+    "date": "2026-09-10",
     "score": 64
   },
   {
-    "title": "Vercel Sandbox routing is now 18x faster globally",
-    "url": "https://vercel.com/changelog/vercel-sandbox-routing-is-now-18x-faster-globally",
-    "summary": "Requests to Vercel Sandbox public domains are now routed 18x faster. Domains created with the sandbox.domain() SDK call are now resolved from the nearest regional replica, instead of a single centralized store. Incoming requests reach the process running in the sandbox with less latency. Median domain lookup latency dropped from 62ms to 3.4ms (18x faster). The improvement is largest in regions farthest from the previous store: lookups are now up to 112x faster in Sydney (syd1",
+    "title": "What OpenAI’s latest controversy tells us about the future of math",
+    "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math",
+    "summary": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would be a huge feather in OpenAI’s cap. But the announcement has been overshadowed by accusations&#8230;",
+    "tags": [
+      "ai",
+      "research",
+      "society"
+    ],
+    "author": "MIT Technology Review AI",
+    "source": "technologyreview.com",
+    "date": "2026-09-10",
+    "score": 64
+  },
+  {
+    "title": "Password Protection is now available per project on Pro",
+    "url": "https://vercel.com/changelog/password-protection-now-costs-20-per-project-per-month-on-pro",
+    "summary": "Pro teams can now enable Password Protection for individual projects at $20 per project per month. When enabled, Password Protection requires visitors to enter a password you set before they can view the project’s deployments. Open Security in the sidebar, select Deployment Protection , and turn it on. Disable it to stop future charges for that project. Previously, Password Protection was available only through a $150-per-month team-level add-on that covered every project. Le",
     "tags": [
       "sdk",
       "ai_infra",
@@ -213,13 +151,13 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-09-09",
+    "date": "2026-09-10",
     "score": 63
   },
   {
-    "title": "Flat Rate CDN is now GA for Pro teams",
-    "url": "https://vercel.com/changelog/flat-rate-cdn-is-now-ga-for-pro-teams",
-    "summary": "Flat Rate CDN is now generally available for Pro teams. Flat Rate CDN is an alternative to usage-based CDN billing that provides you with a fixed monthly bill. Monthly Flat Rate CDN capacity includes: Fast Data Transfer Blob Data Transfer CDN Requests Observability events generated by CDN requests Capacity is set at the team level, not the project level, so a spike on a single project draws on the team-level allowance. Spike protection is on by default. With spike protection,",
+    "title": "v0 adds one-click integrations for email, auth, search, and databases",
+    "url": "https://vercel.com/changelog/v0-adds-one-click-integrations-for-email-auth-search-and-databases",
+    "summary": "We're working toward bringing parity across Vercel integration and v0 , starting with Resend , Amazon OpenSearch , MongoDB Atlas , Algolia and Clerk . Prompt v0 with what you want to build, and when your prompt requires a provider, v0 renders a connect card in the chat. With Marketplace integrations in v0, you get: Connect as you build: Prompt v0 with what you want to create, and connect the required provider inline. Automatic setup: Once connected, v0 handles the required en",
     "tags": [
       "sdk",
       "ai_infra",
@@ -227,13 +165,41 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-09-09",
+    "date": "2026-09-10",
     "score": 63
   },
   {
-    "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-    "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
-    "summary": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Deployment step now 10% faster",
+    "url": "https://vercel.com/changelog/deployment-step-now-10-faster",
+    "summary": "The deployment step is now about 10% faster, saving one second on average. Large applications can save up to 12 seconds. Previously, Vercel uploaded a separate routing metadata file for each function path. That metadata is now combined into a single manifest and uploaded once. This improvement applies automatically to all builds. No changes are required. Learn more about builds in the documentation. Read more",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-09-10",
+    "score": 63
+  },
+  {
+    "title": "GPT Image 2.5 Flare and Sunburst now available on AI Gateway",
+    "url": "https://vercel.com/changelog/gpt-image-2-5-flare-and-sunburst-now-available-on-ai-gateway",
+    "summary": "GPT Image 2.5 Flare and GPT Image 2.5 Sunburst from OpenAI are now available on AI Gateway as openai/gpt-image-2.5-flare and openai/gpt-image-2.5-sunburst . Both models generate and edit images with more natural lighting and textures, follow complex visual instructions, and handle detailed layouts and transparent backgrounds. They accept reference images for targeted edits while preserving surrounding elements. Flare is optimized for faster generation and iteration. Sunburst ",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-09-10",
+    "score": 63
+  },
+  {
+    "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+    "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+    "summary": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -241,40 +207,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-09-09",
+    "date": "2026-09-10",
     "score": 62
   },
   {
-    "title": "How we built Grok Bot in a month | Roman Ugarte (SpaceXAI)",
-    "url": "https://www.lennysnewsletter.com/p/how-we-built-grok-bot-in-a-month",
-    "summary": "Listen now | Roman Ugarte of SpaceXAI on going from first line of code to the world&#8217;s hottest AI product in seven weeks, and what it really takes to win in the most competitive market ever",
-    "tags": [
-      "product",
-      "growth",
-      "startup"
-    ],
-    "author": "Lenny's Newsletter",
-    "source": "lennysnewsletter.com",
-    "date": "2026-09-09",
-    "score": 62
-  },
-  {
-    "title": "Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
-    "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
-    "summary": "Latest news | Mistral · Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
-    "tags": [
-      "open_model",
-      "european_ai"
-    ],
-    "author": "Mistral AI",
-    "source": "mistral.ai",
-    "date": "2026-09-09",
-    "score": 60
-  },
-  {
-    "title": "Write Things Down",
-    "url": "https://stratechery.com/2026/write-things-down",
-    "summary": "Writing things down is powerful, for humans and for AI; what comes first, however, is what to write, why to do it, and actually getting things done.",
+    "title": "OpenAI Does Math, Reward-Hacking, Meta Launches Personal Agent",
+    "url": "https://stratechery.com/2026/openai-does-math-reward-hacking-meta-launches-personal-agent",
+    "summary": "OpenAI solving one of the most famous math problems is extremely impressive, and of little impact to most people's lives; Meta's Muse agent launch has the potential to be the exact opposite.",
     "tags": [
       "strategy",
       "tech",
@@ -282,7 +221,21 @@
     ],
     "author": "Stratechery",
     "source": "stratechery.com",
-    "date": "2026-09-09",
-    "score": 58
+    "date": "2026-09-10",
+    "score": 61
+  },
+  {
+    "title": "arXiv:2606.16307",
+    "url": "https://arxiv.org/abs/2606.16307",
+    "summary": "Artificial Intelligence · arXiv:2606.16307",
+    "tags": [
+      "paper",
+      "ai",
+      "arxiv"
+    ],
+    "author": "arXiv CS AI",
+    "source": "arxiv.org",
+    "date": "2026-09-10",
+    "score": 60
   }
 ]
