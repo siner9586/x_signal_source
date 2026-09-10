@@ -19706,5 +19706,245 @@
     "cluster_id": "arxiv_org_df37bacd",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b9d2c05724276fa9",
+    "canonical_url": "https://vercel.com/changelog/github-copilot-ai-sdk-harness-adapter",
+    "dedupe_key": "d2bdb166308be12a",
+    "title": "GitHub Copilot is now available in the AI SDK harness layer",
+    "issue_date": "2026-09-11",
+    "cluster_id": "vercel_com_37cc1f73",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_39fc4a8d9c0aa126",
+    "canonical_url": "https://openai.com/index/put-data-to-work",
+    "dedupe_key": "cb99d9d504771053",
+    "title": "Now everyone can put data to work",
+    "issue_date": "2026-09-11",
+    "cluster_id": "openai_com_7d41b939",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_608ef68b46fc5032",
+    "canonical_url": "https://openai.com/index/introducing-the-agents-api",
+    "dedupe_key": "866bafb2d06b4335",
+    "title": "Introducing the Agents API",
+    "issue_date": "2026-09-11",
+    "cluster_id": "openai_com_a0d303da",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2dd91b42b607a06c",
+    "canonical_url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser",
+    "dedupe_key": "f9622352e8b59663",
+    "title": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
+    "issue_date": "2026-09-11",
+    "cluster_id": "github_blog_2393e003",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ee939a6cf979141f",
+    "canonical_url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+    "dedupe_key": "71c58d89cac7dd47",
+    "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+    "issue_date": "2026-09-11",
+    "cluster_id": "openai_com_7627b3a0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_badf48f6e9bca870",
+    "canonical_url": "https://www.langchain.com/blog/how-credit-genie-uses-openwiki-to-keep-codebase-knowledge-fresh-searchable-and-automated",
+    "dedupe_key": "85ba3ff9cbf13fd6",
+    "title": "How Credit Genie keeps codebase docs fresh with OpenWiki",
+    "issue_date": "2026-09-11",
+    "cluster_id": "langchain_com_6e08ed6b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a910131cb46fb57c",
+    "canonical_url": "https://vercel.com/changelog/build-with-openai-agents-api-on-vercel",
+    "dedupe_key": "55622701d35b9bd5",
+    "title": "Build with OpenAI Agents API on Vercel",
+    "issue_date": "2026-09-11",
+    "cluster_id": "vercel_com_9c25f1c1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_af2b1019629454cd",
+    "canonical_url": "https://elevenlabs.io/blog/umg",
+    "dedupe_key": "147ae256d9ff6e11",
+    "title": "Universal Music Group and ElevenLabs announce multi-year strategic agreement",
+    "issue_date": "2026-09-11",
+    "cluster_id": "elevenlabs_io_35304cb1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e04e38733f3c55bb",
+    "canonical_url": "https://openai.com/index/introducing-chatgpt-financial-services",
+    "dedupe_key": "6a34627c5afac0a3",
+    "title": "Introducing ChatGPT for Financial Services",
+    "issue_date": "2026-09-11",
+    "cluster_id": "openai_com_16bfd6e9",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0de35e04f449bd59",
+    "canonical_url": "https://openai.com/index/expanding-ai-access-us-government",
+    "dedupe_key": "11e3bd5556e99fee",
+    "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+    "issue_date": "2026-09-11",
+    "cluster_id": "openai_com_93e59b79",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a0225beb5dad4968",
+    "canonical_url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+    "dedupe_key": "41cf8103a3ddef17",
+    "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+    "issue_date": "2026-09-11",
+    "cluster_id": "openai_com_ac4b6c99",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a4a03aa0d1b35698",
+    "canonical_url": "https://openai.com/index/ai-policy-window",
+    "dedupe_key": "2136c47120543b98",
+    "title": "The AI policy window is open. We need to act.",
+    "issue_date": "2026-09-11",
+    "cluster_id": "openai_com_59e6617e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b8ddba305cc79c9b",
+    "canonical_url": "https://github.blog/news-insights/company-news/github-availability-report-august-2026",
+    "dedupe_key": "9b481d7769005868",
+    "title": "GitHub availability report: August 2026",
+    "issue_date": "2026-09-11",
+    "cluster_id": "github_blog_b6de35e3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_88c77970cf533915",
+    "canonical_url": "https://developer.nvidia.com/blog/how-full-stack-nim-optimizations-deliver-2-5x-more-users-on-nemotron-3-ultra",
+    "dedupe_key": "2c96f754965553f4",
+    "title": "How Full-Stack NIM Optimizations Deliver 2.5x More Users on Nemotron 3 Ultra",
+    "issue_date": "2026-09-11",
+    "cluster_id": "developer_nvidia_com_3916c113",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1234d2ac9f49743c",
+    "canonical_url": "https://developer.nvidia.com/blog/high-throughput-structure-prediction-with-bionemo-inference-runtime",
+    "dedupe_key": "f929fb886f4e94b5",
+    "title": "High-Throughput Structure Prediction with BioNeMo Inference Runtime",
+    "issue_date": "2026-09-11",
+    "cluster_id": "developer_nvidia_com_098a4433",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_171ffb38e3b396b0",
+    "canonical_url": "https://developer.nvidia.com/blog/from-wafer-out-to-first-token-codifying-supply-chain-expertise-with-nemotron-and-palantir-foundry",
+    "dedupe_key": "be117cb4fd0800b3",
+    "title": "From Wafer-Out to First Token: Codifying Supply Chain Expertise with Nemotron and Palantir Foundry",
+    "issue_date": "2026-09-11",
+    "cluster_id": "developer_nvidia_com_14822872",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_de9e4fe0d5abee86",
+    "canonical_url": "https://vercel.com/changelog/vercel-sandbox-64-gb-storage",
+    "dedupe_key": "78073b6fe2b54f44",
+    "title": "Vercel Sandbox now provides 64 GB of storage",
+    "issue_date": "2026-09-11",
+    "cluster_id": "vercel_com_250dda25",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_180d363fa0c4fa0d",
+    "canonical_url": "https://vercel.com/changelog/deepseek-v4-1-flash-now-available-on-ai-gateway",
+    "dedupe_key": "b6fe4297c91e00b1",
+    "title": "DeepSeek V4.1 Flash now available on AI Gateway",
+    "issue_date": "2026-09-11",
+    "cluster_id": "vercel_com_6c650b5c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e2e271e5844a010f",
+    "canonical_url": "https://mistral.ai/news/spaces",
+    "dedupe_key": "9e294237a590b451",
+    "title": "Spaces: A CLI Built for Humans and Agents",
+    "issue_date": "2026-09-11",
+    "cluster_id": "mistral_ai_7fd7b1d3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_91fdbe2758a0ce91",
+    "canonical_url": "https://vercel.com/changelog/fastapi-frontends-and-static-files-served-from-the-cdn",
+    "dedupe_key": "4f8e95f71bc0b122",
+    "title": "FastAPI frontends and static files served from the CDN",
+    "issue_date": "2026-09-11",
+    "cluster_id": "vercel_com_a5216d8c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_95bb9b4f5f9085fb",
+    "canonical_url": "https://vercel.com/blog/how-we-cut-cdn-metadata-lookup-latency-by-91-percent",
+    "dedupe_key": "f657fa2a485d2072",
+    "title": "How we cut CDN metadata lookup latency by 91%",
+    "issue_date": "2026-09-11",
+    "cluster_id": "vercel_com_d79d7298",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d09ca347b339cb36",
+    "canonical_url": "https://vercel.com/changelog/tako-search-is-free-on-ai-gateway-through-september-30th",
+    "dedupe_key": "179e5fc5208261fb",
+    "title": "Tako Search is free on AI Gateway through September 30",
+    "issue_date": "2026-09-11",
+    "cluster_id": "vercel_com_a50004c0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9f6e816fc83e6e68",
+    "canonical_url": "https://vercel.com/changelog/vercel-sandbox-is-now-available-in-all-regions",
+    "dedupe_key": "0ae13b8be4e78506",
+    "title": "Vercel Sandbox is now available in all regions",
+    "issue_date": "2026-09-11",
+    "cluster_id": "vercel_com_07e9bc17",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_88a5a599b0661b85",
+    "canonical_url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+    "dedupe_key": "b76cd1db0e90aba4",
+    "title": "Announcements Sep 10, 2026 Detecting and countering misuse of AI: September 2026 Over the past eight months, our Threat Intelligence team identified and disrupted operations in which threat actors tried to use Claude for malicious activity. In this report, we share case studies from those operations and describe how malicious use of Claude has evolved since our previous threat reports in 2025.",
+    "issue_date": "2026-09-11",
+    "cluster_id": "anthropic_com_02b351a1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]

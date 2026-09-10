@@ -1,8 +1,8 @@
 [
   {
-    "title": "You can now read and search changelogs from the CLI",
-    "url": "https://vercel.com/changelog/you-can-now-read-and-search-changelogs-from-the-cli",
-    "summary": "You and your agents can now read and search the Vercel changelog feed from your terminal using vercel changelog . Coding agents can use this command to discover new Vercel products and features, find updates relevant to your project, and read full announcements to inform their recommendations. vercel changelog returns the latest five changelogs with full Markdown content. You can also set the number of results, search all changelogs using a keyword, and access JSON output for",
+    "title": "GitHub Copilot is now available in the AI SDK harness layer",
+    "url": "https://vercel.com/changelog/github-copilot-ai-sdk-harness-adapter",
+    "summary": "The AI SDK harness layer now supports GitHub Copilot through the official @ai-sdk/harness-github-copilot adapter. The harness layer lets your application run different coding agents through the same HarnessAgent interface, so you can switch agents without changing your application code. Pass githubCopilot to HarnessAgent : Under the hood, the adapter uses @ai-sdk/harness-acp to connect GitHub Copilot to HarnessAgent through the Agent Client Protocol (ACP). Supported harnesses",
     "tags": [
       "sdk",
       "ai_infra",
@@ -10,13 +10,28 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-09-10",
+    "date": "2026-09-11",
+    "score": 74
+  },
+  {
+    "title": "Now everyone can put data to work",
+    "url": "https://openai.com/index/put-data-to-work",
+    "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-09-11",
     "score": 70
   },
   {
-    "title": "GPT-6 Astra: The next generation in intelligence for work",
-    "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
-    "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+    "title": "Introducing the Agents API",
+    "url": "https://openai.com/index/introducing-the-agents-api",
+    "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
     "tags": [
       "ai_models",
       "official",
@@ -25,97 +40,41 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-09-10",
+    "date": "2026-09-11",
+    "score": 70
+  },
+  {
+    "title": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
+    "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser",
+    "summary": "Checking agent-generated code usually means hopping between tabs. Learn how to view diffs, run terminal commands, and preview web apps side by side in the GitHub Copilot app. The post GitHub Copilot app for Beginners: Using the diff, terminal, and browser appeared first on The GitHub Blog .",
+    "tags": [
+      "ai_coding",
+      "developer_tools"
+    ],
+    "author": "GitHub Copilot",
+    "source": "github.blog",
+    "date": "2026-09-11",
+    "score": 70
+  },
+  {
+    "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+    "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+    "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-09-11",
     "score": 69
   },
   {
-    "title": "When to Use Encode-Prefill-Decode Disaggregation to Accelerate Multimodal Model Serving",
-    "url": "https://developer.nvidia.com/blog/when-to-use-encode-prefill-decode-disaggregation-to-accelerate-multimodal-model-serving",
-    "summary": "NVIDIA Technical Blog · When to Use Encode-Prefill-Decode Disaggregation to Accelerate Multimodal Model Serving",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-09-10",
-    "score": 68
-  },
-  {
-    "title": "Paul Christiano joins OpenAI Foundation Board",
-    "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-    "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-09-10",
-    "score": 67
-  },
-  {
-    "title": "CUDA Toolkit 13.4 Adds Windows on Arm Support and Greater Control over Shared GPUs",
-    "url": "https://developer.nvidia.com/blog/cuda-toolkit-13-4-adds-windows-on-arm-support-and-greater-control-over-shared-gpus",
-    "summary": "NVIDIA Technical Blog · CUDA Toolkit 13.4 Adds Windows on Arm Support and Greater Control over Shared GPUs",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-09-10",
-    "score": 66
-  },
-  {
-    "title": "Persistent memory for eve agents",
-    "url": "https://vercel.com/changelog/persistent-memory-for-eve-agents",
-    "summary": "eve agents can now retain context across sessions and use it in future conversations. Persistent memory is organized into slots. You can define named slots in files under agent/memory/ . Each slot specifies a provider, which stores and retrieves the memory, and a scope, which determines who or what shares it. For example, you can keep separate memory for each authenticated user. Before each turn, eve retrieves relevant memory and adds it to the model's context. Depending on t",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-09-10",
-    "score": 66
-  },
-  {
-    "title": "Modernizing complex legacy code with AI agents.",
-    "url": "https://mistral.ai/news/legacy-code-modernization",
-    "summary": "Latest news | Mistral · Modernizing complex legacy code with AI agents.",
-    "tags": [
-      "open_model",
-      "european_ai"
-    ],
-    "author": "Mistral AI",
-    "source": "mistral.ai",
-    "date": "2026-09-10",
-    "score": 65
-  },
-  {
-    "title": "Protect production deployments for free on every plan",
-    "url": "https://vercel.com/changelog/protect-production-deployments-for-free-on-every-plan",
-    "summary": "Vercel Authentication can now protect all deployments in a project, including production, at no additional cost on every plan. Previously, protecting production domains required the $150-per-month Advanced Deployment Protection add-on. When enabled, visitors must sign in with a Vercel account that has access to the project. This makes it useful for internal tools, private dashboards, and sites that aren’t yet ready to launch. From your project, open Security in the sidebar, s",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-09-10",
-    "score": 65
-  },
-  {
-    "title": "Connections: managed credentials and per-caller identity for Managed Deep Agents",
-    "url": "https://www.langchain.com/blog/connections-managed-credentials-and-per-caller-identity-for-managed-deep-agents",
-    "summary": "Learn how Connections in Managed Deep Agents securely manage credentials, support per-user OAuth, and let agents act with each caller’s identity.",
+    "title": "How Credit Genie keeps codebase docs fresh with OpenWiki",
+    "url": "https://www.langchain.com/blog/how-credit-genie-uses-openwiki-to-keep-codebase-knowledge-fresh-searchable-and-automated",
+    "summary": "See how Credit Genie uses OpenWiki to automate repo documentation, reduce tribal knowledge, and give engineers and coding agents searchable codebase context.",
     "tags": [
       "agents",
       "rag",
@@ -123,27 +82,155 @@
     ],
     "author": "LangChain",
     "source": "langchain.com",
-    "date": "2026-09-10",
-    "score": 64
+    "date": "2026-09-11",
+    "score": 69
   },
   {
-    "title": "What OpenAI’s latest controversy tells us about the future of math",
-    "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math",
-    "summary": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would be a huge feather in OpenAI’s cap. But the announcement has been overshadowed by accusations&#8230;",
+    "title": "Build with OpenAI Agents API on Vercel",
+    "url": "https://vercel.com/changelog/build-with-openai-agents-api-on-vercel",
+    "summary": "OpenAI Agents API provides an OpenAI-hosted agent harness for long-running, tool-using workflows. You can host the agent experience on Vercel and connect each session to Vercel Sandbox for code execution and file access. OpenAI runs the agent loop and maintains session state. Signed OpenAI webhooks are processed through Vercel Queues , while Vercel Sandbox provides an isolated, persistent execution environment for each agent session. With this integration, you get: An OpenAI-",
     "tags": [
-      "ai",
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-09-11",
+    "score": 68
+  },
+  {
+    "title": "Universal Music Group and ElevenLabs announce multi-year strategic agreement",
+    "url": "https://elevenlabs.io/blog/umg",
+    "summary": "ElevenLabs Blog - Company, Research & Product Updates · Universal Music Group and ElevenLabs announce multi-year strategic agreement",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-09-11",
+    "score": 67
+  },
+  {
+    "title": "Introducing ChatGPT for Financial Services",
+    "url": "https://openai.com/index/introducing-chatgpt-financial-services",
+    "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
+    "tags": [
+      "ai_models",
+      "official",
       "research",
-      "society"
+      "developer"
     ],
-    "author": "MIT Technology Review AI",
-    "source": "technologyreview.com",
-    "date": "2026-09-10",
-    "score": 64
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-09-11",
+    "score": 67
   },
   {
-    "title": "Password Protection is now available per project on Pro",
-    "url": "https://vercel.com/changelog/password-protection-now-costs-20-per-project-per-month-on-pro",
-    "summary": "Pro teams can now enable Password Protection for individual projects at $20 per project per month. When enabled, Password Protection requires visitors to enter a password you set before they can view the project’s deployments. Open Security in the sidebar, select Deployment Protection , and turn it on. Disable it to stop future charges for that project. Previously, Password Protection was available only through a $150-per-month team-level add-on that covered every project. Le",
+    "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+    "url": "https://openai.com/index/expanding-ai-access-us-government",
+    "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-09-11",
+    "score": 67
+  },
+  {
+    "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+    "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+    "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-09-11",
+    "score": 67
+  },
+  {
+    "title": "The AI policy window is open. We need to act.",
+    "url": "https://openai.com/index/ai-policy-window",
+    "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-09-11",
+    "score": 67
+  },
+  {
+    "title": "GitHub availability report: August 2026",
+    "url": "https://github.blog/news-insights/company-news/github-availability-report-august-2026",
+    "summary": "In August, we experienced five incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: August 2026 appeared first on The GitHub Blog .",
+    "tags": [
+      "ai_coding",
+      "developer_tools"
+    ],
+    "author": "GitHub Copilot",
+    "source": "github.blog",
+    "date": "2026-09-11",
+    "score": 67
+  },
+  {
+    "title": "How Full-Stack NIM Optimizations Deliver 2.5x More Users on Nemotron 3 Ultra",
+    "url": "https://developer.nvidia.com/blog/how-full-stack-nim-optimizations-deliver-2-5x-more-users-on-nemotron-3-ultra",
+    "summary": "NVIDIA Technical Blog · How Full-Stack NIM Optimizations Deliver 2.5x More Users on Nemotron 3 Ultra",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-09-11",
+    "score": 66
+  },
+  {
+    "title": "High-Throughput Structure Prediction with BioNeMo Inference Runtime",
+    "url": "https://developer.nvidia.com/blog/high-throughput-structure-prediction-with-bionemo-inference-runtime",
+    "summary": "NVIDIA Technical Blog · High-Throughput Structure Prediction with BioNeMo Inference Runtime",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-09-11",
+    "score": 66
+  },
+  {
+    "title": "From Wafer-Out to First Token: Codifying Supply Chain Expertise with Nemotron and Palantir Foundry",
+    "url": "https://developer.nvidia.com/blog/from-wafer-out-to-first-token-codifying-supply-chain-expertise-with-nemotron-and-palantir-foundry",
+    "summary": "NVIDIA Technical Blog · From Wafer-Out to First Token: Codifying Supply Chain Expertise with Nemotron and Palantir Foundry",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-09-11",
+    "score": 66
+  },
+  {
+    "title": "Vercel Sandbox now provides 64 GB of storage",
+    "url": "https://vercel.com/changelog/vercel-sandbox-64-gb-storage",
+    "summary": "Every Vercel Sandbox now includes 64 GB of storage, up from 32 GB. This includes sandboxes created from a Vercel Managed Image or custom image, as well as those configured with the deprecated runtime property. The additional space provides more room for large repositories, dependencies, build artifacts, data workloads that spill to disk, and storage-intensive agent tasks. Learn more about Sandbox images in the documentation. Read more",
     "tags": [
       "sdk",
       "ai_infra",
@@ -151,13 +238,13 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-09-10",
-    "score": 63
+    "date": "2026-09-11",
+    "score": 66
   },
   {
-    "title": "v0 adds one-click integrations for email, auth, search, and databases",
-    "url": "https://vercel.com/changelog/v0-adds-one-click-integrations-for-email-auth-search-and-databases",
-    "summary": "We're working toward bringing parity across Vercel integration and v0 , starting with Resend , Amazon OpenSearch , MongoDB Atlas , Algolia and Clerk . Prompt v0 with what you want to build, and when your prompt requires a provider, v0 renders a connect card in the chat. With Marketplace integrations in v0, you get: Connect as you build: Prompt v0 with what you want to create, and connect the required provider inline. Automatic setup: Once connected, v0 handles the required en",
+    "title": "DeepSeek V4.1 Flash now available on AI Gateway",
+    "url": "https://vercel.com/changelog/deepseek-v4-1-flash-now-available-on-ai-gateway",
+    "summary": "DeepSeek V4.1 Flash is now available on AI Gateway with native image understanding. V4.1 Flash has vision support and accepts text and images in the same request, so you can ask questions about screenshots, read charts, and extract information from visual content. The model has a 1 million token context window and supports responses up to 384,000 tokens, along with reasoning, tool use, and prompt caching. Its new architecture processes input and generates output with separate",
     "tags": [
       "sdk",
       "ai_infra",
@@ -165,13 +252,26 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-09-10",
+    "date": "2026-09-11",
+    "score": 65
+  },
+  {
+    "title": "Spaces: A CLI Built for Humans and Agents",
+    "url": "https://mistral.ai/news/spaces",
+    "summary": "Spaces: A CLI Built for Humans and Agents 是 Mistral AI 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_model",
+      "european_ai"
+    ],
+    "author": "Mistral AI",
+    "source": "mistral.ai",
+    "date": "2026-09-11",
     "score": 63
   },
   {
-    "title": "Deployment step now 10% faster",
-    "url": "https://vercel.com/changelog/deployment-step-now-10-faster",
-    "summary": "The deployment step is now about 10% faster, saving one second on average. Large applications can save up to 12 seconds. Previously, Vercel uploaded a separate routing metadata file for each function path. That metadata is now combined into a single manifest and uploaded once. This improvement applies automatically to all builds. No changes are required. Learn more about builds in the documentation. Read more",
+    "title": "FastAPI frontends and static files served from the CDN",
+    "url": "https://vercel.com/changelog/fastapi-frontends-and-static-files-served-from-the-cdn",
+    "summary": "FastAPI frontends and static files, served with app.frontend() or StaticFiles , are now promoted to the Vercel CDN at build time. Requests for those paths are served directly from the CDN, without invoking your Vercel Function. FastAPI evaluates routes in declaration order. A route declared before a StaticFiles mount takes priority over any CDN file at that path. This precedence is preserved. Promoted source directories remain in the function bundle so the app can read from t",
     "tags": [
       "sdk",
       "ai_infra",
@@ -179,13 +279,13 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-09-10",
+    "date": "2026-09-11",
     "score": 63
   },
   {
-    "title": "GPT Image 2.5 Flare and Sunburst now available on AI Gateway",
-    "url": "https://vercel.com/changelog/gpt-image-2-5-flare-and-sunburst-now-available-on-ai-gateway",
-    "summary": "GPT Image 2.5 Flare and GPT Image 2.5 Sunburst from OpenAI are now available on AI Gateway as openai/gpt-image-2.5-flare and openai/gpt-image-2.5-sunburst . Both models generate and edit images with more natural lighting and textures, follow complex visual instructions, and handle detailed layouts and transparent backgrounds. They accept reference images for targeted edits while preserving surrounding elements. Flare is optimized for faster generation and iteration. Sunburst ",
+    "title": "How we cut CDN metadata lookup latency by 91%",
+    "url": "https://vercel.com/blog/how-we-cut-cdn-metadata-lookup-latency-by-91-percent",
+    "summary": "Every request to Vercel passes through our CDN , which executes on average over 80 million routing instructions per second. Part of that work is looking up metadata to determine which paths exist and how to serve them. When that metadata isn’t cached, the CDN has to fetch it before it can serve the response. We used to fetch and cache metadata one path at a time, retrieving only what each lookup needed. That seemed efficient at the time, but large deployments can contain hund",
     "tags": [
       "sdk",
       "ai_infra",
@@ -193,49 +293,49 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-09-10",
+    "date": "2026-09-11",
     "score": 63
   },
   {
-    "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-    "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-    "summary": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Tako Search is free on AI Gateway through September 30",
+    "url": "https://vercel.com/changelog/tako-search-is-free-on-ai-gateway-through-september-30th",
+    "summary": "Tako Search is free exclusively on AI Gateway through September 30. It lets AI models search Tako's curated data and the live web, filter web results by domain or publication date, and use the results to answer questions with current information, citations, and visualizations. After September 30, searches are billed at standard rates. The same integration works with any model on AI Gateway, so you can switch models without changing your search setup. You also don't need a sep",
     "tags": [
-      "open_source",
-      "papers",
-      "models"
+      "sdk",
+      "ai_infra",
+      "frontend"
     ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-09-10",
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-09-11",
+    "score": 63
+  },
+  {
+    "title": "Vercel Sandbox is now available in all regions",
+    "url": "https://vercel.com/changelog/vercel-sandbox-is-now-available-in-all-regions",
+    "summary": "Vercel Sandbox can now run in all 20 Vercel compute regions , up from four. Running sandboxes closer to the databases, storage, and other services they access reduces latency. Teams can also keep sandbox workloads in approved regions to support data residency and regional processing requirements. iad1 remains the default region. Region selection is available on every plan. Pro and Enterprise teams can also configure failover regions. If Vercel can't create a sandbox in the pr",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-09-11",
+    "score": 63
+  },
+  {
+    "title": "Announcements Sep 10, 2026 Detecting and countering misuse of AI: September 2026 Over the past eight months, our Threat Intelligence team identified and disrupted operations in which threat actors tried to use Claude for malicious activity. In this report, we share case studies from those operations and describe how malicious use of Claude has evolved since our previous threat reports in 2025.",
+    "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+    "summary": "Newsroom \\ Anthropic · Announcements Sep 10, 2026 Detecting and countering misuse of AI: September 2026 Over the past eight months, our Threat Intelligence team identified and disrupted operations in which threat actors tried to use Claude for malicious activity. In this report, we share case studies from those operations and describe how malicious use of Claude has evolved since our previous threat reports in 2025.",
+    "tags": [
+      "ai_models",
+      "safety",
+      "official"
+    ],
+    "author": "Anthropic",
+    "source": "anthropic.com",
+    "date": "2026-09-11",
     "score": 62
-  },
-  {
-    "title": "OpenAI Does Math, Reward-Hacking, Meta Launches Personal Agent",
-    "url": "https://stratechery.com/2026/openai-does-math-reward-hacking-meta-launches-personal-agent",
-    "summary": "OpenAI solving one of the most famous math problems is extremely impressive, and of little impact to most people's lives; Meta's Muse agent launch has the potential to be the exact opposite.",
-    "tags": [
-      "strategy",
-      "tech",
-      "business"
-    ],
-    "author": "Stratechery",
-    "source": "stratechery.com",
-    "date": "2026-09-10",
-    "score": 61
-  },
-  {
-    "title": "arXiv:2606.16307",
-    "url": "https://arxiv.org/abs/2606.16307",
-    "summary": "Artificial Intelligence · arXiv:2606.16307",
-    "tags": [
-      "paper",
-      "ai",
-      "arxiv"
-    ],
-    "author": "arXiv CS AI",
-    "source": "arxiv.org",
-    "date": "2026-09-10",
-    "score": 60
   }
 ]
