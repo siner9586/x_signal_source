@@ -19946,5 +19946,205 @@
     "cluster_id": "anthropic_com_02b351a1",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_17465eecd7ae8e6c",
+    "canonical_url": "https://openai.com/news/intelligence-age",
+    "dedupe_key": "4bf82622524455f5",
+    "title": "Intelligence Age",
+    "issue_date": "2026-09-12",
+    "cluster_id": "openai_com_796c989d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_313f8aa25495d827",
+    "canonical_url": "https://openai.com/news/global-affairs",
+    "dedupe_key": "fceab3cc26ec6cd9",
+    "title": "Global Affairs",
+    "issue_date": "2026-09-12",
+    "cluster_id": "openai_com_8943b5bd",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_fe03c4e2ac952939",
+    "canonical_url": "https://openai.com/news/ai-adoption",
+    "dedupe_key": "83553488d5bc2abd",
+    "title": "AI Adoption",
+    "issue_date": "2026-09-12",
+    "cluster_id": "openai_com_d3b4b017",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a786c0cc308bc32b",
+    "canonical_url": "https://openai.com/news/applied-ai",
+    "dedupe_key": "3207de4ec065fc33",
+    "title": "Applied AI",
+    "issue_date": "2026-09-12",
+    "cluster_id": "openai_com_59e7344d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8a7bd925ca1ed695",
+    "canonical_url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+    "dedupe_key": "691c5c5de84173f9",
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users Engineering Sep 11, 2026",
+    "issue_date": "2026-09-12",
+    "cluster_id": "openai_com_57aa92a1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_137238fbbb2e8961",
+    "canonical_url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
+    "dedupe_key": "daade5501cd868ac",
+    "title": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
+    "issue_date": "2026-09-12",
+    "cluster_id": "github_blog_0f5e7aed",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_57ae38ca1b50313f",
+    "canonical_url": "https://vercel.com/blog/how-featureds-users-make-100k-media-pitches-per-month-on-vercel",
+    "dedupe_key": "c3393147b6f9d9a7",
+    "title": "How Featured's users make 100K media pitches per month on Vercel",
+    "issue_date": "2026-09-12",
+    "cluster_id": "vercel_com_91eab03c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b14b703429b35f79",
+    "canonical_url": "https://vercel.com/changelog/control-who-can-manage-connectors-in-vercel-connect",
+    "dedupe_key": "1b4e97985337383e",
+    "title": "Control who can manage connectors in Vercel Connect",
+    "issue_date": "2026-09-12",
+    "cluster_id": "vercel_com_7736d007",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f13d17b3c72268a8",
+    "canonical_url": "https://vercel.com/blog/how-tailscale-built-a-customer-facing-model-router-on-ai-gateway",
+    "dedupe_key": "1a0cf99e979960e8",
+    "title": "How Tailscale built a customer-facing model router on AI Gateway",
+    "issue_date": "2026-09-12",
+    "cluster_id": "vercel_com_e7688e28",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2387693259edffa9",
+    "canonical_url": "https://huggingface.co/blog/bartowski/per-tensor-layout-maps-for-gguf-quantization",
+    "dedupe_key": "9960ba4a94c7c962",
+    "title": "Per-tensor layout maps for GGUF quantization bartowski • 1 day ago • 21",
+    "issue_date": "2026-09-12",
+    "cluster_id": "huggingface_co_5dc74585",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e13c51ddc0650535",
+    "canonical_url": "https://huggingface.co/blog/gradio-workflow-1111",
+    "dedupe_key": "49ee73996a5e9286",
+    "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+    "issue_date": "2026-09-12",
+    "cluster_id": "huggingface_co_e821563e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0880ae8d7e4e568b",
+    "canonical_url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all",
+    "dedupe_key": "7c9a5f98e99082ef",
+    "title": "Roundtables: AI’s apocalypse crisis",
+    "issue_date": "2026-09-12",
+    "cluster_id": "technologyreview_com_7f88ac72",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e6ef660ba3b66912",
+    "canonical_url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem",
+    "dedupe_key": "80e545f9ddb007a0",
+    "title": "Powering AI is an architecture problem",
+    "issue_date": "2026-09-12",
+    "cluster_id": "technologyreview_com_efaa7fbb",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_129275218422a9c4",
+    "canonical_url": "https://mistral.ai/news/mistral-x-cloudera",
+    "dedupe_key": "6dcc52c0a78d6446",
+    "title": "Cloudera and Mistral Partner to Bring Specialized, Sovereign Intelligence to Enterprise Data",
+    "issue_date": "2026-09-12",
+    "cluster_id": "mistral_ai_4b665022",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_aa33702f1c4e5391",
+    "canonical_url": "https://arxiv.org/list/cs.AI/recent?skip=171&amp%3Bshow=50",
+    "dedupe_key": "da7b481738be018b",
+    "title": "Thu, 10 Sep 2026",
+    "issue_date": "2026-09-12",
+    "cluster_id": "arxiv_org_a509b2b1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_017a8567d64c947a",
+    "canonical_url": "https://arxiv.org/list/cs.AI/recent?skip=321&amp%3Bshow=50",
+    "dedupe_key": "cb209b98cbb65837",
+    "title": "Wed, 9 Sep 2026",
+    "issue_date": "2026-09-12",
+    "cluster_id": "arxiv_org_9d66a7c2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_aafbc8188a1cc281",
+    "canonical_url": "https://arxiv.org/abs/2609.08901",
+    "dedupe_key": "40e7ae064ae56c87",
+    "title": "arXiv:2609.08901",
+    "issue_date": "2026-09-12",
+    "cluster_id": "arxiv_org_6c4c869e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e278c78fef0ee38d",
+    "canonical_url": "https://arxiv.org/abs/2608.20054",
+    "dedupe_key": "e554eb4bb62ff0b8",
+    "title": "arXiv:2608.20054",
+    "issue_date": "2026-09-12",
+    "cluster_id": "arxiv_org_7abf994a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_418a5945ba2d8938",
+    "canonical_url": "https://stratechery.com/2026/duo-threats",
+    "dedupe_key": "2e59531d137dc9d0",
+    "title": "2026.37: Duo Threats",
+    "issue_date": "2026-09-12",
+    "cluster_id": "stratechery_com_1e93994c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7c31f172fc68858e",
+    "canonical_url": "https://stratechery.com/2026/the-iphone-duo-the-intelligent-personal-hub-apple-watch-audio-intelligence",
+    "dedupe_key": "cbbb1602968abe53",
+    "title": "The iPhone Duo, The Intelligent Personal Hub, Apple Watch Audio Intelligence",
+    "issue_date": "2026-09-12",
+    "cluster_id": "stratechery_com_dd28b608",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]

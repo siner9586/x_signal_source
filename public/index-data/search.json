@@ -1,22 +1,8 @@
 [
   {
-    "title": "GitHub Copilot is now available in the AI SDK harness layer",
-    "url": "https://vercel.com/changelog/github-copilot-ai-sdk-harness-adapter",
-    "summary": "The AI SDK harness layer now supports GitHub Copilot through the official @ai-sdk/harness-github-copilot adapter. The harness layer lets your application run different coding agents through the same HarnessAgent interface, so you can switch agents without changing your application code. Pass githubCopilot to HarnessAgent : Under the hood, the adapter uses @ai-sdk/harness-acp to connect GitHub Copilot to HarnessAgent through the Agent Client Protocol (ACP). Supported harnesses",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-09-11",
-    "score": 74
-  },
-  {
-    "title": "Now everyone can put data to work",
-    "url": "https://openai.com/index/put-data-to-work",
-    "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
+    "title": "Intelligence Age",
+    "url": "https://openai.com/news/intelligence-age",
+    "summary": "OpenAI News | OpenAI · Intelligence Age",
     "tags": [
       "ai_models",
       "official",
@@ -25,13 +11,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-09-11",
-    "score": 70
+    "date": "2026-09-12",
+    "score": 67
   },
   {
-    "title": "Introducing the Agents API",
-    "url": "https://openai.com/index/introducing-the-agents-api",
-    "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+    "title": "Global Affairs",
+    "url": "https://openai.com/news/global-affairs",
+    "summary": "OpenAI News | OpenAI · Global Affairs",
     "tags": [
       "ai_models",
       "official",
@@ -40,55 +26,71 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-09-11",
-    "score": 70
+    "date": "2026-09-12",
+    "score": 67
   },
   {
-    "title": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
-    "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser",
-    "summary": "Checking agent-generated code usually means hopping between tabs. Learn how to view diffs, run terminal commands, and preview web apps side by side in the GitHub Copilot app. The post GitHub Copilot app for Beginners: Using the diff, terminal, and browser appeared first on The GitHub Blog .",
+    "title": "AI Adoption",
+    "url": "https://openai.com/news/ai-adoption",
+    "summary": "OpenAI News | OpenAI · AI Adoption",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-09-12",
+    "score": 67
+  },
+  {
+    "title": "Applied AI",
+    "url": "https://openai.com/news/applied-ai",
+    "summary": "OpenAI News | OpenAI · Applied AI",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-09-12",
+    "score": 67
+  },
+  {
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users Engineering Sep 11, 2026",
+    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+    "summary": "OpenAI News | OpenAI · Rapidly scaling online storage to serve over 1 billion ChatGPT users Engineering Sep 11, 2026",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-09-12",
+    "score": 67
+  },
+  {
+    "title": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
+    "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
+    "summary": "If you can write down how you do your work, you can automate it. Here's what I did to support GitHub's APAC marketing team. The post Marketing ops as code: Automating events from planning to follow-up on GitHub appeared first on The GitHub Blog .",
     "tags": [
       "ai_coding",
       "developer_tools"
     ],
     "author": "GitHub Copilot",
     "source": "github.blog",
-    "date": "2026-09-11",
-    "score": 70
+    "date": "2026-09-12",
+    "score": 67
   },
   {
-    "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-    "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-    "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-09-11",
-    "score": 69
-  },
-  {
-    "title": "How Credit Genie keeps codebase docs fresh with OpenWiki",
-    "url": "https://www.langchain.com/blog/how-credit-genie-uses-openwiki-to-keep-codebase-knowledge-fresh-searchable-and-automated",
-    "summary": "See how Credit Genie uses OpenWiki to automate repo documentation, reduce tribal knowledge, and give engineers and coding agents searchable codebase context.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-09-11",
-    "score": 69
-  },
-  {
-    "title": "Build with OpenAI Agents API on Vercel",
-    "url": "https://vercel.com/changelog/build-with-openai-agents-api-on-vercel",
-    "summary": "OpenAI Agents API provides an OpenAI-hosted agent harness for long-running, tool-using workflows. You can host the agent experience on Vercel and connect each session to Vercel Sandbox for code execution and file access. OpenAI runs the agent loop and maintains session state. Signed OpenAI webhooks are processed through Vercel Queues , while Vercel Sandbox provides an isolated, persistent execution environment for each agent session. With this integration, you get: An OpenAI-",
+    "title": "How Featured's users make 100K media pitches per month on Vercel",
+    "url": "https://vercel.com/blog/how-featureds-users-make-100k-media-pitches-per-month-on-vercel",
+    "summary": "Featured on Vercel 3 engineers supporting 3 brands and 100,000+ users on Vercel Migrated 374 Sanity sites from AWS Elastic Beanstalk to Vercel AI SDK and AI Gateway power Featured's chat bot across 17 models Workflow SDK replaced custom long-running job infrastructure Featured is a co-pilot for public relations (PR) that subject matter experts and PR teams use to find media opportunities. Tell Featured's agents what you know, and it surfaces opportunities across journalist re",
     "tags": [
       "sdk",
       "ai_infra",
@@ -96,141 +98,13 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-09-11",
-    "score": 68
-  },
-  {
-    "title": "Universal Music Group and ElevenLabs announce multi-year strategic agreement",
-    "url": "https://elevenlabs.io/blog/umg",
-    "summary": "ElevenLabs Blog - Company, Research & Product Updates · Universal Music Group and ElevenLabs announce multi-year strategic agreement",
-    "tags": [
-      "voice_ai",
-      "audio"
-    ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-09-11",
-    "score": 67
-  },
-  {
-    "title": "Introducing ChatGPT for Financial Services",
-    "url": "https://openai.com/index/introducing-chatgpt-financial-services",
-    "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-09-11",
-    "score": 67
-  },
-  {
-    "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-    "url": "https://openai.com/index/expanding-ai-access-us-government",
-    "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-09-11",
-    "score": 67
-  },
-  {
-    "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-    "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-    "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-09-11",
-    "score": 67
-  },
-  {
-    "title": "The AI policy window is open. We need to act.",
-    "url": "https://openai.com/index/ai-policy-window",
-    "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-09-11",
-    "score": 67
-  },
-  {
-    "title": "GitHub availability report: August 2026",
-    "url": "https://github.blog/news-insights/company-news/github-availability-report-august-2026",
-    "summary": "In August, we experienced five incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: August 2026 appeared first on The GitHub Blog .",
-    "tags": [
-      "ai_coding",
-      "developer_tools"
-    ],
-    "author": "GitHub Copilot",
-    "source": "github.blog",
-    "date": "2026-09-11",
-    "score": 67
-  },
-  {
-    "title": "How Full-Stack NIM Optimizations Deliver 2.5x More Users on Nemotron 3 Ultra",
-    "url": "https://developer.nvidia.com/blog/how-full-stack-nim-optimizations-deliver-2-5x-more-users-on-nemotron-3-ultra",
-    "summary": "NVIDIA Technical Blog · How Full-Stack NIM Optimizations Deliver 2.5x More Users on Nemotron 3 Ultra",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-09-11",
+    "date": "2026-09-12",
     "score": 66
   },
   {
-    "title": "High-Throughput Structure Prediction with BioNeMo Inference Runtime",
-    "url": "https://developer.nvidia.com/blog/high-throughput-structure-prediction-with-bionemo-inference-runtime",
-    "summary": "NVIDIA Technical Blog · High-Throughput Structure Prediction with BioNeMo Inference Runtime",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-09-11",
-    "score": 66
-  },
-  {
-    "title": "From Wafer-Out to First Token: Codifying Supply Chain Expertise with Nemotron and Palantir Foundry",
-    "url": "https://developer.nvidia.com/blog/from-wafer-out-to-first-token-codifying-supply-chain-expertise-with-nemotron-and-palantir-foundry",
-    "summary": "NVIDIA Technical Blog · From Wafer-Out to First Token: Codifying Supply Chain Expertise with Nemotron and Palantir Foundry",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-09-11",
-    "score": 66
-  },
-  {
-    "title": "Vercel Sandbox now provides 64 GB of storage",
-    "url": "https://vercel.com/changelog/vercel-sandbox-64-gb-storage",
-    "summary": "Every Vercel Sandbox now includes 64 GB of storage, up from 32 GB. This includes sandboxes created from a Vercel Managed Image or custom image, as well as those configured with the deprecated runtime property. The additional space provides more room for large repositories, dependencies, build artifacts, data workloads that spill to disk, and storage-intensive agent tasks. Learn more about Sandbox images in the documentation. Read more",
+    "title": "Control who can manage connectors in Vercel Connect",
+    "url": "https://vercel.com/changelog/control-who-can-manage-connectors-in-vercel-connect",
+    "summary": "Pro and Enterprise teams can now control who can create and manage Vercel Connect connectors. Connectors let applications and agents access external services using credentials managed by your team. Owners can enable this restriction under Connector Permissions in Team Settings . Once enabled, only people with the Owner role or Connector Manager extended permission can create or manage connectors. Browse all connectors , or learn more in the Vercel Connect documentation . Read",
     "tags": [
       "sdk",
       "ai_infra",
@@ -238,13 +112,13 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-09-11",
+    "date": "2026-09-12",
     "score": 66
   },
   {
-    "title": "DeepSeek V4.1 Flash now available on AI Gateway",
-    "url": "https://vercel.com/changelog/deepseek-v4-1-flash-now-available-on-ai-gateway",
-    "summary": "DeepSeek V4.1 Flash is now available on AI Gateway with native image understanding. V4.1 Flash has vision support and accepts text and images in the same request, so you can ask questions about screenshots, read charts, and extract information from visual content. The model has a 1 million token context window and supports responses up to 384,000 tokens, along with reasoning, tool use, and prompt caching. Its new architecture processes input and generates output with separate",
+    "title": "How Tailscale built a customer-facing model router on AI Gateway",
+    "url": "https://vercel.com/blog/how-tailscale-built-a-customer-facing-model-router-on-ai-gateway",
+    "summary": "Tailscale on Vercel Hundreds of AI models shipped to customers in-product Model access granted and revoked by tailnet network identity Went from model routing prototype to paying customers in months Tailscale connects a company's laptops, servers, cloud instances, and personal devices into one private network called a tailnet. Remy Guercio, who leads product for Aperture by Tailscale, describes it simply: \"It's basically like a VPC that can span any cloud, on-prem, your house",
     "tags": [
       "sdk",
       "ai_infra",
@@ -252,90 +126,160 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-09-11",
+    "date": "2026-09-12",
     "score": 65
   },
   {
-    "title": "Spaces: A CLI Built for Humans and Agents",
-    "url": "https://mistral.ai/news/spaces",
-    "summary": "Spaces: A CLI Built for Humans and Agents 是 Mistral AI 当日抓取到的公开新增条目。",
+    "title": "Per-tensor layout maps for GGUF quantization bartowski • 1 day ago • 21",
+    "url": "https://huggingface.co/blog/bartowski/per-tensor-layout-maps-for-gguf-quantization",
+    "summary": "Hugging Face – Blog · Per-tensor layout maps for GGUF quantization bartowski • 1 day ago • 21",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-09-12",
+    "score": 64
+  },
+  {
+    "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+    "url": "https://huggingface.co/blog/gradio-workflow-1111",
+    "summary": "Rebuilding AUTOMATIC1111 with Gradio Workflow 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-09-12",
+    "score": 62
+  },
+  {
+    "title": "Roundtables: AI’s apocalypse crisis",
+    "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all",
+    "summary": "Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas Heaven and AI reporter Grace Huckins unpacking AI extinction&#8230;",
+    "tags": [
+      "ai",
+      "research",
+      "society"
+    ],
+    "author": "MIT Technology Review AI",
+    "source": "technologyreview.com",
+    "date": "2026-09-12",
+    "score": 61
+  },
+  {
+    "title": "Powering AI is an architecture problem",
+    "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem",
+    "summary": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world&#8217;s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn&#8217;t the first time. Two years earlier, a single failed surge arrester dropped roughly 60 Virginia facilities and 1,500 megawatts at once. No&#8230;",
+    "tags": [
+      "ai",
+      "research",
+      "society"
+    ],
+    "author": "MIT Technology Review AI",
+    "source": "technologyreview.com",
+    "date": "2026-09-12",
+    "score": 61
+  },
+  {
+    "title": "Cloudera and Mistral Partner to Bring Specialized, Sovereign Intelligence to Enterprise Data",
+    "url": "https://mistral.ai/news/mistral-x-cloudera",
+    "summary": "Latest news | Mistral · Cloudera and Mistral Partner to Bring Specialized, Sovereign Intelligence to Enterprise Data",
     "tags": [
       "open_model",
       "european_ai"
     ],
     "author": "Mistral AI",
     "source": "mistral.ai",
-    "date": "2026-09-11",
-    "score": 63
+    "date": "2026-09-12",
+    "score": 60
   },
   {
-    "title": "FastAPI frontends and static files served from the CDN",
-    "url": "https://vercel.com/changelog/fastapi-frontends-and-static-files-served-from-the-cdn",
-    "summary": "FastAPI frontends and static files, served with app.frontend() or StaticFiles , are now promoted to the Vercel CDN at build time. Requests for those paths are served directly from the CDN, without invoking your Vercel Function. FastAPI evaluates routes in declaration order. A route declared before a StaticFiles mount takes priority over any CDN file at that path. This precedence is preserved. Promoted source directories remain in the function bundle so the app can read from t",
+    "title": "Thu, 10 Sep 2026",
+    "url": "https://arxiv.org/list/cs.AI/recent?skip=171&amp%3Bshow=50",
+    "summary": "Artificial Intelligence · Thu, 10 Sep 2026",
     "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
+      "paper",
+      "ai",
+      "arxiv"
     ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-09-11",
-    "score": 63
+    "author": "arXiv CS AI",
+    "source": "arxiv.org",
+    "date": "2026-09-12",
+    "score": 60
   },
   {
-    "title": "How we cut CDN metadata lookup latency by 91%",
-    "url": "https://vercel.com/blog/how-we-cut-cdn-metadata-lookup-latency-by-91-percent",
-    "summary": "Every request to Vercel passes through our CDN , which executes on average over 80 million routing instructions per second. Part of that work is looking up metadata to determine which paths exist and how to serve them. When that metadata isn’t cached, the CDN has to fetch it before it can serve the response. We used to fetch and cache metadata one path at a time, retrieving only what each lookup needed. That seemed efficient at the time, but large deployments can contain hund",
+    "title": "Wed, 9 Sep 2026",
+    "url": "https://arxiv.org/list/cs.AI/recent?skip=321&amp%3Bshow=50",
+    "summary": "Artificial Intelligence · Wed, 9 Sep 2026",
     "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
+      "paper",
+      "ai",
+      "arxiv"
     ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-09-11",
-    "score": 63
+    "author": "arXiv CS AI",
+    "source": "arxiv.org",
+    "date": "2026-09-12",
+    "score": 60
   },
   {
-    "title": "Tako Search is free on AI Gateway through September 30",
-    "url": "https://vercel.com/changelog/tako-search-is-free-on-ai-gateway-through-september-30th",
-    "summary": "Tako Search is free exclusively on AI Gateway through September 30. It lets AI models search Tako's curated data and the live web, filter web results by domain or publication date, and use the results to answer questions with current information, citations, and visualizations. After September 30, searches are billed at standard rates. The same integration works with any model on AI Gateway, so you can switch models without changing your search setup. You also don't need a sep",
+    "title": "arXiv:2609.08901",
+    "url": "https://arxiv.org/abs/2609.08901",
+    "summary": "Artificial Intelligence · arXiv:2609.08901",
     "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
+      "paper",
+      "ai",
+      "arxiv"
     ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-09-11",
-    "score": 63
+    "author": "arXiv CS AI",
+    "source": "arxiv.org",
+    "date": "2026-09-12",
+    "score": 60
   },
   {
-    "title": "Vercel Sandbox is now available in all regions",
-    "url": "https://vercel.com/changelog/vercel-sandbox-is-now-available-in-all-regions",
-    "summary": "Vercel Sandbox can now run in all 20 Vercel compute regions , up from four. Running sandboxes closer to the databases, storage, and other services they access reduces latency. Teams can also keep sandbox workloads in approved regions to support data residency and regional processing requirements. iad1 remains the default region. Region selection is available on every plan. Pro and Enterprise teams can also configure failover regions. If Vercel can't create a sandbox in the pr",
+    "title": "arXiv:2608.20054",
+    "url": "https://arxiv.org/abs/2608.20054",
+    "summary": "Artificial Intelligence · arXiv:2608.20054",
     "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
+      "paper",
+      "ai",
+      "arxiv"
     ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-09-11",
-    "score": 63
+    "author": "arXiv CS AI",
+    "source": "arxiv.org",
+    "date": "2026-09-12",
+    "score": 60
   },
   {
-    "title": "Announcements Sep 10, 2026 Detecting and countering misuse of AI: September 2026 Over the past eight months, our Threat Intelligence team identified and disrupted operations in which threat actors tried to use Claude for malicious activity. In this report, we share case studies from those operations and describe how malicious use of Claude has evolved since our previous threat reports in 2025.",
-    "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
-    "summary": "Newsroom \\ Anthropic · Announcements Sep 10, 2026 Detecting and countering misuse of AI: September 2026 Over the past eight months, our Threat Intelligence team identified and disrupted operations in which threat actors tried to use Claude for malicious activity. In this report, we share case studies from those operations and describe how malicious use of Claude has evolved since our previous threat reports in 2025.",
+    "title": "2026.37: Duo Threats",
+    "url": "https://stratechery.com/2026/duo-threats",
+    "summary": "The best Stratechery content from the week of September 7, 2026, including the arrival of the Duo, AI that benefits humanity, and closing the book on a catastrophe.",
     "tags": [
-      "ai_models",
-      "safety",
-      "official"
+      "strategy",
+      "tech",
+      "business"
     ],
-    "author": "Anthropic",
-    "source": "anthropic.com",
-    "date": "2026-09-11",
-    "score": 62
+    "author": "Stratechery",
+    "source": "stratechery.com",
+    "date": "2026-09-12",
+    "score": 58
+  },
+  {
+    "title": "The iPhone Duo, The Intelligent Personal Hub, Apple Watch Audio Intelligence",
+    "url": "https://stratechery.com/2026/the-iphone-duo-the-intelligent-personal-hub-apple-watch-audio-intelligence",
+    "summary": "Apple once again demonstrated the power of integrating hardware and software, but it's biggest AI blindspot might be its belief in the primacy of apps.",
+    "tags": [
+      "strategy",
+      "tech",
+      "business"
+    ],
+    "author": "Stratechery",
+    "source": "stratechery.com",
+    "date": "2026-09-12",
+    "score": 58
   }
 ]
