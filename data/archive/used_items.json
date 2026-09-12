@@ -20146,5 +20146,35 @@
     "cluster_id": "stratechery_com_dd28b608",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0403404dceb8045f",
+    "canonical_url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+    "dedupe_key": "5cb06f3d5ce8cd84",
+    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+    "issue_date": "2026-09-13",
+    "cluster_id": "openai_com_b1928a60",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c52cadfb73a36efc",
+    "canonical_url": "https://openai.com/index/cognition-devin-testing-with-astra",
+    "dedupe_key": "dc124b3de4c6d69b",
+    "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+    "issue_date": "2026-09-13",
+    "cluster_id": "openai_com_1550b62f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_800cef03870cc9d8",
+    "canonical_url": "https://www.lennysnewsletter.com/p/community-wisdom-ai-basketball-coaching",
+    "dedupe_key": "cafc4bc177303868",
+    "title": "🧠 Community Wisdom: AI basketball coaching, Jira vs. Linear, building a business case for platform teams, favorite AI use cases, and more",
+    "issue_date": "2026-09-13",
+    "cluster_id": "lennysnewsletter_com_35be76f8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]

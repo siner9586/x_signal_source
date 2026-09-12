@@ -1,8 +1,8 @@
 [
   {
-    "title": "Intelligence Age",
-    "url": "https://openai.com/news/intelligence-age",
-    "summary": "OpenAI News | OpenAI · Intelligence Age",
+    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+    "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+    "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
     "tags": [
       "ai_models",
       "official",
@@ -11,13 +11,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-09-12",
-    "score": 67
+    "date": "2026-09-13",
+    "score": 68
   },
   {
-    "title": "Global Affairs",
-    "url": "https://openai.com/news/global-affairs",
-    "summary": "OpenAI News | OpenAI · Global Affairs",
+    "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+    "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+    "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
     "tags": [
       "ai_models",
       "official",
@@ -26,260 +26,21 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-09-12",
+    "date": "2026-09-13",
     "score": 67
   },
   {
-    "title": "AI Adoption",
-    "url": "https://openai.com/news/ai-adoption",
-    "summary": "OpenAI News | OpenAI · AI Adoption",
+    "title": "🧠 Community Wisdom: AI basketball coaching, Jira vs. Linear, building a business case for platform teams, favorite AI use cases, and more",
+    "url": "https://www.lennysnewsletter.com/p/community-wisdom-ai-basketball-coaching",
+    "summary": "Community Wisdom 298",
     "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
+      "product",
+      "growth",
+      "startup"
     ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-09-12",
-    "score": 67
-  },
-  {
-    "title": "Applied AI",
-    "url": "https://openai.com/news/applied-ai",
-    "summary": "OpenAI News | OpenAI · Applied AI",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-09-12",
-    "score": 67
-  },
-  {
-    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users Engineering Sep 11, 2026",
-    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-    "summary": "OpenAI News | OpenAI · Rapidly scaling online storage to serve over 1 billion ChatGPT users Engineering Sep 11, 2026",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-09-12",
-    "score": 67
-  },
-  {
-    "title": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
-    "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
-    "summary": "If you can write down how you do your work, you can automate it. Here's what I did to support GitHub's APAC marketing team. The post Marketing ops as code: Automating events from planning to follow-up on GitHub appeared first on The GitHub Blog .",
-    "tags": [
-      "ai_coding",
-      "developer_tools"
-    ],
-    "author": "GitHub Copilot",
-    "source": "github.blog",
-    "date": "2026-09-12",
-    "score": 67
-  },
-  {
-    "title": "How Featured's users make 100K media pitches per month on Vercel",
-    "url": "https://vercel.com/blog/how-featureds-users-make-100k-media-pitches-per-month-on-vercel",
-    "summary": "Featured on Vercel 3 engineers supporting 3 brands and 100,000+ users on Vercel Migrated 374 Sanity sites from AWS Elastic Beanstalk to Vercel AI SDK and AI Gateway power Featured's chat bot across 17 models Workflow SDK replaced custom long-running job infrastructure Featured is a co-pilot for public relations (PR) that subject matter experts and PR teams use to find media opportunities. Tell Featured's agents what you know, and it surfaces opportunities across journalist re",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-09-12",
-    "score": 66
-  },
-  {
-    "title": "Control who can manage connectors in Vercel Connect",
-    "url": "https://vercel.com/changelog/control-who-can-manage-connectors-in-vercel-connect",
-    "summary": "Pro and Enterprise teams can now control who can create and manage Vercel Connect connectors. Connectors let applications and agents access external services using credentials managed by your team. Owners can enable this restriction under Connector Permissions in Team Settings . Once enabled, only people with the Owner role or Connector Manager extended permission can create or manage connectors. Browse all connectors , or learn more in the Vercel Connect documentation . Read",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-09-12",
-    "score": 66
-  },
-  {
-    "title": "How Tailscale built a customer-facing model router on AI Gateway",
-    "url": "https://vercel.com/blog/how-tailscale-built-a-customer-facing-model-router-on-ai-gateway",
-    "summary": "Tailscale on Vercel Hundreds of AI models shipped to customers in-product Model access granted and revoked by tailnet network identity Went from model routing prototype to paying customers in months Tailscale connects a company's laptops, servers, cloud instances, and personal devices into one private network called a tailnet. Remy Guercio, who leads product for Aperture by Tailscale, describes it simply: \"It's basically like a VPC that can span any cloud, on-prem, your house",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-09-12",
-    "score": 65
-  },
-  {
-    "title": "Per-tensor layout maps for GGUF quantization bartowski • 1 day ago • 21",
-    "url": "https://huggingface.co/blog/bartowski/per-tensor-layout-maps-for-gguf-quantization",
-    "summary": "Hugging Face – Blog · Per-tensor layout maps for GGUF quantization bartowski • 1 day ago • 21",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-09-12",
-    "score": 64
-  },
-  {
-    "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-    "url": "https://huggingface.co/blog/gradio-workflow-1111",
-    "summary": "Rebuilding AUTOMATIC1111 with Gradio Workflow 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-09-12",
+    "author": "Lenny's Newsletter",
+    "source": "lennysnewsletter.com",
+    "date": "2026-09-13",
     "score": 62
-  },
-  {
-    "title": "Roundtables: AI’s apocalypse crisis",
-    "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all",
-    "summary": "Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas Heaven and AI reporter Grace Huckins unpacking AI extinction&#8230;",
-    "tags": [
-      "ai",
-      "research",
-      "society"
-    ],
-    "author": "MIT Technology Review AI",
-    "source": "technologyreview.com",
-    "date": "2026-09-12",
-    "score": 61
-  },
-  {
-    "title": "Powering AI is an architecture problem",
-    "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem",
-    "summary": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world&#8217;s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn&#8217;t the first time. Two years earlier, a single failed surge arrester dropped roughly 60 Virginia facilities and 1,500 megawatts at once. No&#8230;",
-    "tags": [
-      "ai",
-      "research",
-      "society"
-    ],
-    "author": "MIT Technology Review AI",
-    "source": "technologyreview.com",
-    "date": "2026-09-12",
-    "score": 61
-  },
-  {
-    "title": "Cloudera and Mistral Partner to Bring Specialized, Sovereign Intelligence to Enterprise Data",
-    "url": "https://mistral.ai/news/mistral-x-cloudera",
-    "summary": "Latest news | Mistral · Cloudera and Mistral Partner to Bring Specialized, Sovereign Intelligence to Enterprise Data",
-    "tags": [
-      "open_model",
-      "european_ai"
-    ],
-    "author": "Mistral AI",
-    "source": "mistral.ai",
-    "date": "2026-09-12",
-    "score": 60
-  },
-  {
-    "title": "Thu, 10 Sep 2026",
-    "url": "https://arxiv.org/list/cs.AI/recent?skip=171&amp%3Bshow=50",
-    "summary": "Artificial Intelligence · Thu, 10 Sep 2026",
-    "tags": [
-      "paper",
-      "ai",
-      "arxiv"
-    ],
-    "author": "arXiv CS AI",
-    "source": "arxiv.org",
-    "date": "2026-09-12",
-    "score": 60
-  },
-  {
-    "title": "Wed, 9 Sep 2026",
-    "url": "https://arxiv.org/list/cs.AI/recent?skip=321&amp%3Bshow=50",
-    "summary": "Artificial Intelligence · Wed, 9 Sep 2026",
-    "tags": [
-      "paper",
-      "ai",
-      "arxiv"
-    ],
-    "author": "arXiv CS AI",
-    "source": "arxiv.org",
-    "date": "2026-09-12",
-    "score": 60
-  },
-  {
-    "title": "arXiv:2609.08901",
-    "url": "https://arxiv.org/abs/2609.08901",
-    "summary": "Artificial Intelligence · arXiv:2609.08901",
-    "tags": [
-      "paper",
-      "ai",
-      "arxiv"
-    ],
-    "author": "arXiv CS AI",
-    "source": "arxiv.org",
-    "date": "2026-09-12",
-    "score": 60
-  },
-  {
-    "title": "arXiv:2608.20054",
-    "url": "https://arxiv.org/abs/2608.20054",
-    "summary": "Artificial Intelligence · arXiv:2608.20054",
-    "tags": [
-      "paper",
-      "ai",
-      "arxiv"
-    ],
-    "author": "arXiv CS AI",
-    "source": "arxiv.org",
-    "date": "2026-09-12",
-    "score": 60
-  },
-  {
-    "title": "2026.37: Duo Threats",
-    "url": "https://stratechery.com/2026/duo-threats",
-    "summary": "The best Stratechery content from the week of September 7, 2026, including the arrival of the Duo, AI that benefits humanity, and closing the book on a catastrophe.",
-    "tags": [
-      "strategy",
-      "tech",
-      "business"
-    ],
-    "author": "Stratechery",
-    "source": "stratechery.com",
-    "date": "2026-09-12",
-    "score": 58
-  },
-  {
-    "title": "The iPhone Duo, The Intelligent Personal Hub, Apple Watch Audio Intelligence",
-    "url": "https://stratechery.com/2026/the-iphone-duo-the-intelligent-personal-hub-apple-watch-audio-intelligence",
-    "summary": "Apple once again demonstrated the power of integrating hardware and software, but it's biggest AI blindspot might be its belief in the primacy of apps.",
-    "tags": [
-      "strategy",
-      "tech",
-      "business"
-    ],
-    "author": "Stratechery",
-    "source": "stratechery.com",
-    "date": "2026-09-12",
-    "score": 58
   }
 ]
