@@ -1,46 +1,16 @@
 [
   {
-    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-    "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-    "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+    "title": "TranslatePsy-AfriSLM: Optimized Machine Translation for African Languages qvac • 17 days ago • 14",
+    "url": "https://huggingface.co/blog/qvac/translate-psy-afrislm",
+    "summary": "Hugging Face – Blog · TranslatePsy-AfriSLM: Optimized Machine Translation for African Languages qvac • 17 days ago • 14",
     "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
+      "open_source",
+      "papers",
+      "models"
     ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-09-13",
-    "score": 68
-  },
-  {
-    "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-    "url": "https://openai.com/index/cognition-devin-testing-with-astra",
-    "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-09-13",
-    "score": 67
-  },
-  {
-    "title": "🧠 Community Wisdom: AI basketball coaching, Jira vs. Linear, building a business case for platform teams, favorite AI use cases, and more",
-    "url": "https://www.lennysnewsletter.com/p/community-wisdom-ai-basketball-coaching",
-    "summary": "Community Wisdom 298",
-    "tags": [
-      "product",
-      "growth",
-      "startup"
-    ],
-    "author": "Lenny's Newsletter",
-    "source": "lennysnewsletter.com",
-    "date": "2026-09-13",
-    "score": 62
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-09-14",
+    "score": 64
   }
 ]

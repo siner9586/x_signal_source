@@ -20176,5 +20176,15 @@
     "cluster_id": "lennysnewsletter_com_35be76f8",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_10c6dc5e2f6274a4",
+    "canonical_url": "https://huggingface.co/blog/qvac/translate-psy-afrislm",
+    "dedupe_key": "2f404c4231c3e7eb",
+    "title": "TranslatePsy-AfriSLM: Optimized Machine Translation for African Languages qvac • 17 days ago • 14",
+    "issue_date": "2026-09-14",
+    "cluster_id": "huggingface_co_d16ea1bd",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
