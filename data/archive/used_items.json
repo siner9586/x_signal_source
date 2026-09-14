@@ -20186,5 +20186,115 @@
     "cluster_id": "huggingface_co_d16ea1bd",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_589a58f6c6a36ccf",
+    "canonical_url": "https://vercel.com/changelog/ai-sdk-harness-native-subscription-authentication",
+    "dedupe_key": "654d56fc1a679c14",
+    "title": "AI SDK harness layer now supports native subscription authentication",
+    "issue_date": "2026-09-15",
+    "cluster_id": "vercel_com_a9802383",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f5f1a4e534aa052c",
+    "canonical_url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues",
+    "dedupe_key": "3731232dd4a34dba",
+    "title": "AI agents blew the whistle on their cheating colleagues",
+    "issue_date": "2026-09-15",
+    "cluster_id": "technologyreview_com_e71ab75a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_df272e40dbec996c",
+    "canonical_url": "https://openai.com/index/fyxer",
+    "dedupe_key": "e552076a56d7dd9a",
+    "title": "How Fyxer built an AI executive assistant people trust",
+    "issue_date": "2026-09-15",
+    "cluster_id": "openai_com_8d3d486d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_bdcc5ede1461a83b",
+    "canonical_url": "https://www.lennysnewsletter.com/p/how-grok-bot-designers-use-ai-agents",
+    "dedupe_key": "68c3b799b6485ca9",
+    "title": "How Grok Bot designers use AI agents to build personal sites and product prototypes | John Bai & Peng Zheng",
+    "issue_date": "2026-09-15",
+    "cluster_id": "lennysnewsletter_com_9fbfffe4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0992f0fba15f3708",
+    "canonical_url": "https://developer.nvidia.com/blog/accelerating-dropless-moe-training-in-jax-with-nvidia-transformer-engine",
+    "dedupe_key": "38355196f6e36c2f",
+    "title": "Accelerating Dropless MoE Training in JAX with NVIDIA Transformer Engine",
+    "issue_date": "2026-09-15",
+    "cluster_id": "developer_nvidia_com_efeff081",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_fa6684166081e20a",
+    "canonical_url": "https://www.langchain.com/blog/paid-media-agent",
+    "dedupe_key": "99bb12388372c4f4",
+    "title": "How We Built LangChain’s Paid Media Agent",
+    "issue_date": "2026-09-15",
+    "cluster_id": "langchain_com_65090baa",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_671338909d24cfff",
+    "canonical_url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+    "dedupe_key": "6fa5fcb50644c0d2",
+    "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+    "issue_date": "2026-09-15",
+    "cluster_id": "huggingface_co_5d14c02d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7bcc7d3d7502ffff",
+    "canonical_url": "https://www.lennysnewsletter.com/p/how-i-ai-how-two-spacexai-designers",
+    "dedupe_key": "5d940376b441b468",
+    "title": "🎙️ How I AI: How two SpaceXAI designers use Grok Bot to do their jobs",
+    "issue_date": "2026-09-15",
+    "cluster_id": "lennysnewsletter_com_fdb8bf87",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_067e6952c3fd5247",
+    "canonical_url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now",
+    "dedupe_key": "1dbb977bfbcaf023",
+    "title": "The AI industry has taken a doomer turn. What now?",
+    "issue_date": "2026-09-15",
+    "cluster_id": "technologyreview_com_1b521620",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c3f44e9d14ef142e",
+    "canonical_url": "https://arxiv.org/list/cs.AI/recent?skip=167&amp%3Bshow=50",
+    "dedupe_key": "ed961d8f548204a6",
+    "title": "Fri, 11 Sep 2026",
+    "issue_date": "2026-09-15",
+    "cluster_id": "arxiv_org_447369d3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a226c3a9a5d66814",
+    "canonical_url": "https://stratechery.com/2026/pacing-the-frontier-ais-digital-limits-ai-commissars",
+    "dedupe_key": "f117e341fcad4031",
+    "title": "Pacing the Frontier, AI&#8217;s Digital Limits, AI Commissars",
+    "issue_date": "2026-09-15",
+    "cluster_id": "stratechery_com_5095a88d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]

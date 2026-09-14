@@ -1,8 +1,93 @@
 [
   {
-    "title": "TranslatePsy-AfriSLM: Optimized Machine Translation for African Languages qvac • 17 days ago • 14",
-    "url": "https://huggingface.co/blog/qvac/translate-psy-afrislm",
-    "summary": "Hugging Face – Blog · TranslatePsy-AfriSLM: Optimized Machine Translation for African Languages qvac • 17 days ago • 14",
+    "title": "AI SDK harness layer now supports native subscription authentication",
+    "url": "https://vercel.com/changelog/ai-sdk-harness-native-subscription-authentication",
+    "summary": "The AI SDK harness layer now supports authenticating harnesses through their native subscriptions, where the underlying harness supports them. The harness layer runs different coding agents through the same HarnessAgent interface, so you can switch agents without changing your application code. No code changes or new settings are required. The direct authentication mode uses explicit provider environment credentials when they are present, and otherwise a native subscription f",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-09-15",
+    "score": 69
+  },
+  {
+    "title": "AI agents blew the whistle on their cheating colleagues",
+    "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues",
+    "summary": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent experiment run by Google DeepMind, could have implications for alignment researchers trying to keep swarms of autonomous AI agents in&#8230;",
+    "tags": [
+      "ai",
+      "research",
+      "society"
+    ],
+    "author": "MIT Technology Review AI",
+    "source": "technologyreview.com",
+    "date": "2026-09-15",
+    "score": 68
+  },
+  {
+    "title": "How Fyxer built an AI executive assistant people trust",
+    "url": "https://openai.com/index/fyxer",
+    "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-09-15",
+    "score": 67
+  },
+  {
+    "title": "How Grok Bot designers use AI agents to build personal sites and product prototypes | John Bai & Peng Zheng",
+    "url": "https://www.lennysnewsletter.com/p/how-grok-bot-designers-use-ai-agents",
+    "summary": "Watch now (42 mins) | &#127897;&#65039; Two designers at SpaceXAI show me how they use Grok Bot to run Figma from the gym, update a portfolio with one photo, and turn shower thoughts into working prototypes",
+    "tags": [
+      "product",
+      "growth",
+      "startup"
+    ],
+    "author": "Lenny's Newsletter",
+    "source": "lennysnewsletter.com",
+    "date": "2026-09-15",
+    "score": 67
+  },
+  {
+    "title": "Accelerating Dropless MoE Training in JAX with NVIDIA Transformer Engine",
+    "url": "https://developer.nvidia.com/blog/accelerating-dropless-moe-training-in-jax-with-nvidia-transformer-engine",
+    "summary": "NVIDIA Technical Blog · Accelerating Dropless MoE Training in JAX with NVIDIA Transformer Engine",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-09-15",
+    "score": 66
+  },
+  {
+    "title": "How We Built LangChain’s Paid Media Agent",
+    "url": "https://www.langchain.com/blog/paid-media-agent",
+    "summary": "How LangChain built a paid media agent to analyze campaign performance, optimize ads, propose changes, and turn marketing data into action.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-09-15",
+    "score": 65
+  },
+  {
+    "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+    "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+    "summary": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -10,7 +95,63 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-09-14",
-    "score": 64
+    "date": "2026-09-15",
+    "score": 62
+  },
+  {
+    "title": "🎙️ How I AI: How two SpaceXAI designers use Grok Bot to do their jobs",
+    "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-two-spacexai-designers",
+    "summary": "Your weekly listens from How I AI, part of the Lenny&#8217;s Podcast Network",
+    "tags": [
+      "product",
+      "growth",
+      "startup"
+    ],
+    "author": "Lenny's Newsletter",
+    "source": "lennysnewsletter.com",
+    "date": "2026-09-15",
+    "score": 62
+  },
+  {
+    "title": "The AI industry has taken a doomer turn. What now?",
+    "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now",
+    "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs. Amodei cites the looming dangers he sees from the technology, from its&#8230;",
+    "tags": [
+      "ai",
+      "research",
+      "society"
+    ],
+    "author": "MIT Technology Review AI",
+    "source": "technologyreview.com",
+    "date": "2026-09-15",
+    "score": 61
+  },
+  {
+    "title": "Fri, 11 Sep 2026",
+    "url": "https://arxiv.org/list/cs.AI/recent?skip=167&amp%3Bshow=50",
+    "summary": "Artificial Intelligence · Fri, 11 Sep 2026",
+    "tags": [
+      "paper",
+      "ai",
+      "arxiv"
+    ],
+    "author": "arXiv CS AI",
+    "source": "arxiv.org",
+    "date": "2026-09-15",
+    "score": 60
+  },
+  {
+    "title": "Pacing the Frontier, AI&#8217;s Digital Limits, AI Commissars",
+    "url": "https://stratechery.com/2026/pacing-the-frontier-ais-digital-limits-ai-commissars",
+    "summary": "Dario Amodei wants to pace the frontier; it's an unrealistic proposal that seems mostly geared to political control of AI.",
+    "tags": [
+      "strategy",
+      "tech",
+      "business"
+    ],
+    "author": "Stratechery",
+    "source": "stratechery.com",
+    "date": "2026-09-15",
+    "score": 58
   }
 ]
