@@ -1,65 +1,23 @@
 [
   {
-    "title": "AI SDK harness layer now supports native subscription authentication",
-    "url": "https://vercel.com/changelog/ai-sdk-harness-native-subscription-authentication",
-    "summary": "The AI SDK harness layer now supports authenticating harnesses through their native subscriptions, where the underlying harness supports them. The harness layer runs different coding agents through the same HarnessAgent interface, so you can switch agents without changing your application code. No code changes or new settings are required. The direct authentication mode uses explicit provider environment credentials when they are present, and otherwise a native subscription f",
+    "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking",
+    "summary": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking 是 Google DeepMind 当日抓取到的公开新增条目。",
     "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-09-15",
-    "score": 69
-  },
-  {
-    "title": "AI agents blew the whistle on their cheating colleagues",
-    "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues",
-    "summary": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent experiment run by Google DeepMind, could have implications for alignment researchers trying to keep swarms of autonomous AI agents in&#8230;",
-    "tags": [
-      "ai",
       "research",
-      "society"
+      "multimodal",
+      "science",
+      "official"
     ],
-    "author": "MIT Technology Review AI",
-    "source": "technologyreview.com",
-    "date": "2026-09-15",
-    "score": 68
+    "author": "Google DeepMind",
+    "source": "deepmind.google",
+    "date": "2026-09-16",
+    "score": 66
   },
   {
-    "title": "How Fyxer built an AI executive assistant people trust",
-    "url": "https://openai.com/index/fyxer",
-    "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-09-15",
-    "score": 67
-  },
-  {
-    "title": "How Grok Bot designers use AI agents to build personal sites and product prototypes | John Bai & Peng Zheng",
-    "url": "https://www.lennysnewsletter.com/p/how-grok-bot-designers-use-ai-agents",
-    "summary": "Watch now (42 mins) | &#127897;&#65039; Two designers at SpaceXAI show me how they use Grok Bot to run Figma from the gym, update a portfolio with one photo, and turn shower thoughts into working prototypes",
-    "tags": [
-      "product",
-      "growth",
-      "startup"
-    ],
-    "author": "Lenny's Newsletter",
-    "source": "lennysnewsletter.com",
-    "date": "2026-09-15",
-    "score": 67
-  },
-  {
-    "title": "Accelerating Dropless MoE Training in JAX with NVIDIA Transformer Engine",
-    "url": "https://developer.nvidia.com/blog/accelerating-dropless-moe-training-in-jax-with-nvidia-transformer-engine",
-    "summary": "NVIDIA Technical Blog · Accelerating Dropless MoE Training in JAX with NVIDIA Transformer Engine",
+    "title": "Dense vs. MoE Models: Active Parameters, Throughput, and When to Choose Each",
+    "url": "https://developer.nvidia.com/blog/dense-vs-moe-models-active-parameters-throughput-and-when-to-choose-each",
+    "summary": "NVIDIA Technical Blog · Dense vs. MoE Models: Active Parameters, Throughput, and When to Choose Each",
     "tags": [
       "gpu",
       "inference",
@@ -67,27 +25,55 @@
     ],
     "author": "NVIDIA AI",
     "source": "developer.nvidia.com",
-    "date": "2026-09-15",
+    "date": "2026-09-16",
     "score": 66
   },
   {
-    "title": "How We Built LangChain’s Paid Media Agent",
-    "url": "https://www.langchain.com/blog/paid-media-agent",
-    "summary": "How LangChain built a paid media agent to analyze campaign performance, optimize ads, propose changes, and turn marketing data into action.",
+    "title": "How NVIDIA Groq 3 LPX Deterministic Execution Drives Power-Efficient High-Interactivity Inference on NVIDIA Vera Rubin",
+    "url": "https://developer.nvidia.com/blog/how-nvidia-groq-3-lpx-deterministic-execution-drives-power-efficient-high-interactivity-inference-on-nvidia-vera-rubin",
+    "summary": "NVIDIA Technical Blog · How NVIDIA Groq 3 LPX Deterministic Execution Drives Power-Efficient High-Interactivity Inference on NVIDIA Vera Rubin",
     "tags": [
-      "agents",
-      "rag",
-      "framework"
+      "gpu",
+      "inference",
+      "ai_infra"
     ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-09-15",
-    "score": 65
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-09-16",
+    "score": 66
   },
   {
-    "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
-    "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
-    "summary": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "How NVIDIA NVLink 6 Delivers Multi-Layer Resiliency for AI Factories",
+    "url": "https://developer.nvidia.com/blog/how-nvidia-nvlink-6-delivers-multi-layer-resiliency-for-ai-factories",
+    "summary": "NVIDIA Technical Blog · How NVIDIA NVLink 6 Delivers Multi-Layer Resiliency for AI Factories",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-09-16",
+    "score": 66
+  },
+  {
+    "title": "Scaling Federated Learning Across Docker, Kubernetes, and Slurm with NVIDIA FLARE",
+    "url": "https://developer.nvidia.com/blog/scaling-federated-learning-across-docker-kubernetes-and-slurm-with-nvidia-flare",
+    "summary": "NVIDIA Technical Blog · Scaling Federated Learning Across Docker, Kubernetes, and Slurm with NVIDIA FLARE",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-09-16",
+    "score": 66
+  },
+  {
+    "title": "Your Agent Aced the Task. Will It Do It Again?",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+    "summary": "Your Agent Aced the Task. Will It Do It Again? 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -95,27 +81,55 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-09-15",
-    "score": 62
+    "date": "2026-09-16",
+    "score": 66
   },
   {
-    "title": "🎙️ How I AI: How two SpaceXAI designers use Grok Bot to do their jobs",
-    "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-two-spacexai-designers",
-    "summary": "Your weekly listens from How I AI, part of the Lenny&#8217;s Podcast Network",
+    "title": "How Delphi ships 100 times a day with its Python backend on Vercel",
+    "url": "https://vercel.com/blog/how-delphi-ships-100-times-a-day-with-its-python-backend-on-vercel",
+    "summary": "Delphi on Vercel 10 engineers with no dedicated infrastructure role Everyone ships code, including product and design 100+ production deploys a day behind feature flags Delphi builds digital minds. They capture what someone has written, recorded, and taught, so anyone can tap that expertise on demand. Delphi is “a destination where you can find and interact with interesting minds,” says founding engineer Spencer Schoeben. Nobody has built a digital mind network before, so Del",
     "tags": [
-      "product",
-      "growth",
-      "startup"
+      "sdk",
+      "ai_infra",
+      "frontend"
     ],
-    "author": "Lenny's Newsletter",
-    "source": "lennysnewsletter.com",
-    "date": "2026-09-15",
-    "score": 62
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-09-16",
+    "score": 65
   },
   {
-    "title": "The AI industry has taken a doomer turn. What now?",
-    "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now",
-    "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs. Amodei cites the looming dangers he sees from the technology, from its&#8230;",
+    "title": "Gemini 3.8 Live models now available on AI Gateway",
+    "url": "https://vercel.com/changelog/gemini-3-8-live-models-now-available-on-ai-gateway",
+    "summary": "Gemini 3.8 Live and Gemini 3.8 Live Extended Thinking from Google are now available on AI Gateway. Both models support real-time spoken interactions for voice assistants, conversational experiences, and applications that respond through audio. google/gemini-3.8-live supports real-time audio, visual grounding, automatic switching across 97 languages, and background tool calls while the conversation continues. google/gemini-3.8-live-extended-thinking adds multi-step reasoning t",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-09-16",
+    "score": 65
+  },
+  {
+    "title": "Scaling Agents in Healthcare & Life Sciences: Lessons from Madrigal Pharmaceuticals, Abridge, and Vizient",
+    "url": "https://www.langchain.com/blog/scaling-agents-in-healthcare-life-sciences-lessons-from-madrigal-pharmaceuticals-abridge-and-vizient",
+    "summary": "Agent programs in healthcare and life sciences are being built under a different set of constraints than those in most industries. There’s plenty of upside if the constraints can be resolved. Success can mean hours of manual review compressed into minutes, data spread across a dozen systems finally queryable in one place, and clinicians getting time back from documentation. At the same time, the cost of a wrong answer can be higher here than almost anywhere else, which change",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-09-16",
+    "score": 65
+  },
+  {
+    "title": "Roundtables: Could AI really kill us all?",
+    "url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all",
+    "summary": "Listen to the session or watch below Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch a conversation unpacking AI extinction fears: where they come from, whether they hold any water, and, if so,&#8230;",
     "tags": [
       "ai",
       "research",
@@ -123,13 +137,41 @@
     ],
     "author": "MIT Technology Review AI",
     "source": "technologyreview.com",
-    "date": "2026-09-15",
+    "date": "2026-09-16",
     "score": 61
   },
   {
-    "title": "Fri, 11 Sep 2026",
-    "url": "https://arxiv.org/list/cs.AI/recent?skip=167&amp%3Bshow=50",
-    "summary": "Artificial Intelligence · Fri, 11 Sep 2026",
+    "title": "What&#8217;s at stake in AI’s trillion-dollar gamble",
+    "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk",
+    "summary": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and technical uncertainties. So she started with what she calls a “remarkable fact” that is not in question: A handful of so-called&#8230;",
+    "tags": [
+      "ai",
+      "research",
+      "society"
+    ],
+    "author": "MIT Technology Review AI",
+    "source": "technologyreview.com",
+    "date": "2026-09-16",
+    "score": 61
+  },
+  {
+    "title": "60+ new creative growth ideas",
+    "url": "https://www.lennysnewsletter.com/p/60-creative-growth-ideas",
+    "summary": "How to stand out when everyone is running the same playbook",
+    "tags": [
+      "product",
+      "growth",
+      "startup"
+    ],
+    "author": "Lenny's Newsletter",
+    "source": "lennysnewsletter.com",
+    "date": "2026-09-16",
+    "score": 61
+  },
+  {
+    "title": "Mon, 14 Sep 2026",
+    "url": "https://arxiv.org/list/cs.AI/recent?skip=408&amp%3Bshow=50",
+    "summary": "Artificial Intelligence · Mon, 14 Sep 2026",
     "tags": [
       "paper",
       "ai",
@@ -137,13 +179,13 @@
     ],
     "author": "arXiv CS AI",
     "source": "arxiv.org",
-    "date": "2026-09-15",
+    "date": "2026-09-16",
     "score": 60
   },
   {
-    "title": "Pacing the Frontier, AI&#8217;s Digital Limits, AI Commissars",
-    "url": "https://stratechery.com/2026/pacing-the-frontier-ais-digital-limits-ai-commissars",
-    "summary": "Dario Amodei wants to pace the frontier; it's an unrealistic proposal that seems mostly geared to political control of AI.",
+    "title": "OpenAI Ads, Amazon Ads in ChatGPT, Walmart to Accept Apple Pay",
+    "url": "https://stratechery.com/2026/openai-ads-amazon-ads-in-chatgpt-walmart-to-accept-apple-pay",
+    "summary": "ChatGPT ads are working, and solve Amazon's biggest problem with chatbots. Then, Walmart finally gives in to Apple Pay, because fighting the status quo is hard.",
     "tags": [
       "strategy",
       "tech",
@@ -151,7 +193,7 @@
     ],
     "author": "Stratechery",
     "source": "stratechery.com",
-    "date": "2026-09-15",
+    "date": "2026-09-16",
     "score": 58
   }
 ]

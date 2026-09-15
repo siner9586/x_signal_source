@@ -20296,5 +20296,145 @@
     "cluster_id": "stratechery_com_5095a88d",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_cb334d4f8d9cbb24",
+    "canonical_url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking",
+    "dedupe_key": "f487a3bd852e2185",
+    "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+    "issue_date": "2026-09-16",
+    "cluster_id": "deepmind_google_799610de",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_eaae312009751373",
+    "canonical_url": "https://developer.nvidia.com/blog/dense-vs-moe-models-active-parameters-throughput-and-when-to-choose-each",
+    "dedupe_key": "a291fc0ae8fe24ef",
+    "title": "Dense vs. MoE Models: Active Parameters, Throughput, and When to Choose Each",
+    "issue_date": "2026-09-16",
+    "cluster_id": "developer_nvidia_com_fb7cae22",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7a47c499de69e09f",
+    "canonical_url": "https://developer.nvidia.com/blog/how-nvidia-groq-3-lpx-deterministic-execution-drives-power-efficient-high-interactivity-inference-on-nvidia-vera-rubin",
+    "dedupe_key": "1a7d0a184450071e",
+    "title": "How NVIDIA Groq 3 LPX Deterministic Execution Drives Power-Efficient High-Interactivity Inference on NVIDIA Vera Rubin",
+    "issue_date": "2026-09-16",
+    "cluster_id": "developer_nvidia_com_a13119e1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_74bcb13d679cd822",
+    "canonical_url": "https://developer.nvidia.com/blog/how-nvidia-nvlink-6-delivers-multi-layer-resiliency-for-ai-factories",
+    "dedupe_key": "77e6bbdbd1d659f1",
+    "title": "How NVIDIA NVLink 6 Delivers Multi-Layer Resiliency for AI Factories",
+    "issue_date": "2026-09-16",
+    "cluster_id": "developer_nvidia_com_70ff48bf",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5b40f7de0f7f6c63",
+    "canonical_url": "https://developer.nvidia.com/blog/scaling-federated-learning-across-docker-kubernetes-and-slurm-with-nvidia-flare",
+    "dedupe_key": "969c6d4bea33ac5c",
+    "title": "Scaling Federated Learning Across Docker, Kubernetes, and Slurm with NVIDIA FLARE",
+    "issue_date": "2026-09-16",
+    "cluster_id": "developer_nvidia_com_79d7fa2e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2182868c44fb73aa",
+    "canonical_url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+    "dedupe_key": "31f248b14f9b3e82",
+    "title": "Your Agent Aced the Task. Will It Do It Again?",
+    "issue_date": "2026-09-16",
+    "cluster_id": "huggingface_co_1e3b84d1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c5351ab818f628bd",
+    "canonical_url": "https://vercel.com/blog/how-delphi-ships-100-times-a-day-with-its-python-backend-on-vercel",
+    "dedupe_key": "6f6d8868c0e9d177",
+    "title": "How Delphi ships 100 times a day with its Python backend on Vercel",
+    "issue_date": "2026-09-16",
+    "cluster_id": "vercel_com_c8b89d50",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e215a95ea3c4294a",
+    "canonical_url": "https://vercel.com/changelog/gemini-3-8-live-models-now-available-on-ai-gateway",
+    "dedupe_key": "f027a94d3e541424",
+    "title": "Gemini 3.8 Live models now available on AI Gateway",
+    "issue_date": "2026-09-16",
+    "cluster_id": "vercel_com_c910b095",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7167f3c10e1f4804",
+    "canonical_url": "https://www.langchain.com/blog/scaling-agents-in-healthcare-life-sciences-lessons-from-madrigal-pharmaceuticals-abridge-and-vizient",
+    "dedupe_key": "de9cc49dc868379a",
+    "title": "Scaling Agents in Healthcare & Life Sciences: Lessons from Madrigal Pharmaceuticals, Abridge, and Vizient",
+    "issue_date": "2026-09-16",
+    "cluster_id": "langchain_com_857ed1a7",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_56c5aba363a6862d",
+    "canonical_url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all",
+    "dedupe_key": "62b4958d32bd4b0a",
+    "title": "Roundtables: Could AI really kill us all?",
+    "issue_date": "2026-09-16",
+    "cluster_id": "technologyreview_com_e914ecec",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_cd9eb783d8c4ca77",
+    "canonical_url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk",
+    "dedupe_key": "1e1d6ddeeba23094",
+    "title": "What&#8217;s at stake in AI’s trillion-dollar gamble",
+    "issue_date": "2026-09-16",
+    "cluster_id": "technologyreview_com_68c9e615",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ddd02f7e191f5884",
+    "canonical_url": "https://www.lennysnewsletter.com/p/60-creative-growth-ideas",
+    "dedupe_key": "5c28d08bb472e8d1",
+    "title": "60+ new creative growth ideas",
+    "issue_date": "2026-09-16",
+    "cluster_id": "lennysnewsletter_com_d79d8a71",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d73bf53e0fb4aa8d",
+    "canonical_url": "https://arxiv.org/list/cs.AI/recent?skip=408&amp%3Bshow=50",
+    "dedupe_key": "e5fab54d6654a4ea",
+    "title": "Mon, 14 Sep 2026",
+    "issue_date": "2026-09-16",
+    "cluster_id": "arxiv_org_4acfbe13",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b963b23b9e162511",
+    "canonical_url": "https://stratechery.com/2026/openai-ads-amazon-ads-in-chatgpt-walmart-to-accept-apple-pay",
+    "dedupe_key": "d6d044f778647604",
+    "title": "OpenAI Ads, Amazon Ads in ChatGPT, Walmart to Accept Apple Pay",
+    "issue_date": "2026-09-16",
+    "cluster_id": "stratechery_com_87310cbd",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
