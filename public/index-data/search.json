@@ -1,23 +1,66 @@
 [
   {
-    "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-    "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking",
-    "summary": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking 是 Google DeepMind 当日抓取到的公开新增条目。",
+    "title": "How to Use AI Agents to Prepare 3D Scenes for Simulation",
+    "url": "https://developer.nvidia.com/blog/how-to-use-ai-agents-to-prepare-3d-scenes-for-simulation",
+    "summary": "NVIDIA Technical Blog · How to Use AI Agents to Prepare 3D Scenes for Simulation",
     "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-09-17",
+    "score": 71
+  },
+  {
+    "title": "TensorRT Edge-LLM Completes the MLPerf Edge Agentic Benchmark 6.4x Faster on Jetson AGX Thor",
+    "url": "https://developer.nvidia.com/blog/tensorrt-edge-llm-completes-the-mlperf-edge-agentic-benchmark-6-4x-faster-on-jetson-agx-thor",
+    "summary": "NVIDIA Technical Blog · TensorRT Edge-LLM Completes the MLPerf Edge Agentic Benchmark 6.4x Faster on Jetson AGX Thor",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-09-17",
+    "score": 71
+  },
+  {
+    "title": "Reimagining advertising with AI",
+    "url": "https://openai.com/index/reimagining-advertising-with-ai",
+    "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+    "tags": [
+      "ai_models",
+      "official",
       "research",
-      "multimodal",
-      "science",
-      "official"
+      "developer"
     ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-09-16",
-    "score": 66
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-09-17",
+    "score": 70
   },
   {
-    "title": "Dense vs. MoE Models: Active Parameters, Throughput, and When to Choose Each",
-    "url": "https://developer.nvidia.com/blog/dense-vs-moe-models-active-parameters-throughput-and-when-to-choose-each",
-    "summary": "NVIDIA Technical Blog · Dense vs. MoE Models: Active Parameters, Throughput, and When to Choose Each",
+    "title": "Our framework for reporting model misalignment",
+    "url": "https://openai.com/index/model-misalignment-reporting-framework",
+    "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-09-17",
+    "score": 69
+  },
+  {
+    "title": "Translating CUDA Tile Operations from Python to Rust Using Agentic AI",
+    "url": "https://developer.nvidia.com/blog/translating-cuda-tile-operations-from-python-to-rust-using-agentic-ai",
+    "summary": "NVIDIA Technical Blog · Translating CUDA Tile Operations from Python to Rust Using Agentic AI",
     "tags": [
       "gpu",
       "inference",
@@ -25,69 +68,13 @@
     ],
     "author": "NVIDIA AI",
     "source": "developer.nvidia.com",
-    "date": "2026-09-16",
-    "score": 66
+    "date": "2026-09-17",
+    "score": 69
   },
   {
-    "title": "How NVIDIA Groq 3 LPX Deterministic Execution Drives Power-Efficient High-Interactivity Inference on NVIDIA Vera Rubin",
-    "url": "https://developer.nvidia.com/blog/how-nvidia-groq-3-lpx-deterministic-execution-drives-power-efficient-high-interactivity-inference-on-nvidia-vera-rubin",
-    "summary": "NVIDIA Technical Blog · How NVIDIA Groq 3 LPX Deterministic Execution Drives Power-Efficient High-Interactivity Inference on NVIDIA Vera Rubin",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-09-16",
-    "score": 66
-  },
-  {
-    "title": "How NVIDIA NVLink 6 Delivers Multi-Layer Resiliency for AI Factories",
-    "url": "https://developer.nvidia.com/blog/how-nvidia-nvlink-6-delivers-multi-layer-resiliency-for-ai-factories",
-    "summary": "NVIDIA Technical Blog · How NVIDIA NVLink 6 Delivers Multi-Layer Resiliency for AI Factories",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-09-16",
-    "score": 66
-  },
-  {
-    "title": "Scaling Federated Learning Across Docker, Kubernetes, and Slurm with NVIDIA FLARE",
-    "url": "https://developer.nvidia.com/blog/scaling-federated-learning-across-docker-kubernetes-and-slurm-with-nvidia-flare",
-    "summary": "NVIDIA Technical Blog · Scaling Federated Learning Across Docker, Kubernetes, and Slurm with NVIDIA FLARE",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-09-16",
-    "score": 66
-  },
-  {
-    "title": "Your Agent Aced the Task. Will It Do It Again?",
-    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-    "summary": "Your Agent Aced the Task. Will It Do It Again? 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-09-16",
-    "score": 66
-  },
-  {
-    "title": "How Delphi ships 100 times a day with its Python backend on Vercel",
-    "url": "https://vercel.com/blog/how-delphi-ships-100-times-a-day-with-its-python-backend-on-vercel",
-    "summary": "Delphi on Vercel 10 engineers with no dedicated infrastructure role Everyone ships code, including product and design 100+ production deploys a day behind feature flags Delphi builds digital minds. They capture what someone has written, recorded, and taught, so anyone can tap that expertise on demand. Delphi is “a destination where you can find and interact with interesting minds,” says founding engineer Spencer Schoeben. Nobody has built a digital mind network before, so Del",
+    "title": "Is Agentic now tailors its audit by site type",
+    "url": "https://vercel.com/changelog/is-agentic-report-categories",
+    "summary": "Is Agentic reports now let you view your checks through one of four site types: Docs & content, Business, App, or Commerce. For example, the Commerce view highlights payment and checkout standards like x402, UCP, and ACP, while the App view highlights API discovery, authentication, error handling, and SDK support. Your score stays the same in every view, and you can change views on an existing report without rescanning. Only the highlighted checks change, so you can focus on ",
     "tags": [
       "sdk",
       "ai_infra",
@@ -95,13 +82,13 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-09-16",
-    "score": 65
+    "date": "2026-09-17",
+    "score": 69
   },
   {
-    "title": "Gemini 3.8 Live models now available on AI Gateway",
-    "url": "https://vercel.com/changelog/gemini-3-8-live-models-now-available-on-ai-gateway",
-    "summary": "Gemini 3.8 Live and Gemini 3.8 Live Extended Thinking from Google are now available on AI Gateway. Both models support real-time spoken interactions for voice assistants, conversational experiences, and applications that respond through audio. google/gemini-3.8-live supports real-time audio, visual grounding, automatic switching across 97 languages, and background tool calls while the conversation continues. google/gemini-3.8-live-extended-thinking adds multi-step reasoning t",
+    "title": "Mem0 joins the Vercel Marketplace",
+    "url": "https://vercel.com/changelog/mem0-joins-the-vercel-marketplace",
+    "summary": "Mem0 is now available as a native integration on the Vercel Marketplace , giving your AI agents and apps long-term memory. Mem0 remembers user preferences, facts, and context across sessions, so your app stops starting from scratch. Install from the Marketplace with integrated billing on your Vercel invoice, no separate account or key management. A scoped Mem0 project and API key are provisioned automatically and added to your project as environment variables, including MEM0_",
     "tags": [
       "sdk",
       "ai_infra",
@@ -109,55 +96,58 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-09-16",
-    "score": 65
+    "date": "2026-09-17",
+    "score": 68
   },
   {
-    "title": "Scaling Agents in Healthcare & Life Sciences: Lessons from Madrigal Pharmaceuticals, Abridge, and Vizient",
-    "url": "https://www.langchain.com/blog/scaling-agents-in-healthcare-life-sciences-lessons-from-madrigal-pharmaceuticals-abridge-and-vizient",
-    "summary": "Agent programs in healthcare and life sciences are being built under a different set of constraints than those in most industries. There’s plenty of upside if the constraints can be resolved. Success can mean hours of manual review compressed into minutes, data spread across a dozen systems finally queryable in one place, and clinicians getting time back from documentation. At the same time, the cost of a wrong answer can be higher here than almost anywhere else, which change",
+    "title": "Helping older adults use AI in everyday life",
+    "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+    "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
     "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-09-16",
-    "score": 65
-  },
-  {
-    "title": "Roundtables: Could AI really kill us all?",
-    "url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all",
-    "summary": "Listen to the session or watch below Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch a conversation unpacking AI extinction fears: where they come from, whether they hold any water, and, if so,&#8230;",
-    "tags": [
-      "ai",
+      "ai_models",
+      "official",
       "research",
-      "society"
+      "developer"
     ],
-    "author": "MIT Technology Review AI",
-    "source": "technologyreview.com",
-    "date": "2026-09-16",
-    "score": 61
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-09-17",
+    "score": 67
   },
   {
-    "title": "What&#8217;s at stake in AI’s trillion-dollar gamble",
-    "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk",
-    "summary": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and technical uncertainties. So she started with what she calls a “remarkable fact” that is not in question: A handful of so-called&#8230;",
+    "title": "How to connect AI usage to business value",
+    "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+    "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
     "tags": [
-      "ai",
+      "ai_models",
+      "official",
       "research",
-      "society"
+      "developer"
     ],
-    "author": "MIT Technology Review AI",
-    "source": "technologyreview.com",
-    "date": "2026-09-16",
-    "score": 61
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-09-17",
+    "score": 67
   },
   {
-    "title": "60+ new creative growth ideas",
-    "url": "https://www.lennysnewsletter.com/p/60-creative-growth-ideas",
-    "summary": "How to stand out when everyone is running the same playbook",
+    "title": "How workers are unlocking new ways of working",
+    "url": "https://openai.com/index/unlocking-new-ways-of-working",
+    "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-09-17",
+    "score": 67
+  },
+  {
+    "title": "Muse review: The personal AI agent that gets consumer UX right",
+    "url": "https://www.lennysnewsletter.com/p/muse-review-the-personal-ai-agent",
+    "summary": "Watch now (38 mins) | &#127897;&#65039; I gave Meta&#8217;s Muse my calendar, my email, and my kids&#8217; chaotic schedule, and it produced a one-shot family PDF more beautiful than anything I&#8217;ve ever made with Claude or Codex",
     "tags": [
       "product",
       "growth",
@@ -165,27 +155,110 @@
     ],
     "author": "Lenny's Newsletter",
     "source": "lennysnewsletter.com",
-    "date": "2026-09-16",
-    "score": 61
+    "date": "2026-09-17",
+    "score": 67
   },
   {
-    "title": "Mon, 14 Sep 2026",
-    "url": "https://arxiv.org/list/cs.AI/recent?skip=408&amp%3Bshow=50",
-    "summary": "Artificial Intelligence · Mon, 14 Sep 2026",
+    "title": "Open Source",
+    "url": "https://www.llamaindex.ai/blog?tag=Open+Source",
+    "summary": "Blog · Open Source",
     "tags": [
-      "paper",
-      "ai",
-      "arxiv"
+      "rag",
+      "agents",
+      "framework"
     ],
-    "author": "arXiv CS AI",
-    "source": "arxiv.org",
-    "date": "2026-09-16",
-    "score": 60
+    "author": "LlamaIndex",
+    "source": "llamaindex.ai",
+    "date": "2026-09-17",
+    "score": 66
   },
   {
-    "title": "OpenAI Ads, Amazon Ads in ChatGPT, Walmart to Accept Apple Pay",
-    "url": "https://stratechery.com/2026/openai-ads-amazon-ads-in-chatgpt-walmart-to-accept-apple-pay",
-    "summary": "ChatGPT ads are working, and solve Amazon's biggest problem with chatbots. Then, Walmart finally gives in to Apple Pay, because fighting the status quo is hard.",
+    "title": "Data Processing",
+    "url": "https://www.llamaindex.ai/blog?tag=Data+Processing",
+    "summary": "Blog · Data Processing",
+    "tags": [
+      "rag",
+      "agents",
+      "framework"
+    ],
+    "author": "LlamaIndex",
+    "source": "llamaindex.ai",
+    "date": "2026-09-17",
+    "score": 66
+  },
+  {
+    "title": "Structured Data Extraction",
+    "url": "https://www.llamaindex.ai/blog?tag=Structured+Data+Extraction",
+    "summary": "Blog · Structured Data Extraction",
+    "tags": [
+      "rag",
+      "agents",
+      "framework"
+    ],
+    "author": "LlamaIndex",
+    "source": "llamaindex.ai",
+    "date": "2026-09-17",
+    "score": 66
+  },
+  {
+    "title": "Hobby projects now retain fewer deployments to free up storage",
+    "url": "https://vercel.com/changelog/hobby-projects-now-retain-fewer-deployments-to-free-up-storage",
+    "summary": "Hobby projects now retain fewer deployments past the 30-day retention window. Hobby teams get 10GB of Deployment Storage . Every deployment you keep uses some of it, and going over the limit can block you from deploying until you free some up. Deployment Retention for Hobby teams now deletes old deployments sooner, so dormant projects stop holding storage that your active projects need. Each Hobby project now keeps its 3 most recent production deployments, plus its 3 most rec",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-09-17",
+    "score": 65
+  },
+  {
+    "title": "Building the materials foundation for AI",
+    "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai",
+    "summary": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data centers are approaching physical limits around performance, thermal management, electrical efficiency, and reliability, creating new demands for materials that can do&#8230;",
+    "tags": [
+      "ai",
+      "research",
+      "society"
+    ],
+    "author": "MIT Technology Review AI",
+    "source": "technologyreview.com",
+    "date": "2026-09-17",
+    "score": 64
+  },
+  {
+    "title": "Secure Compute and Static IP builds start 64% faster",
+    "url": "https://vercel.com/changelog/secure-compute-and-static-ip-builds-start-64-faster",
+    "summary": "Builds using Secure Compute or Static IPs now start 64% faster, with the average time from deployment creation to build start dropping from 6.7 seconds to 2.4 seconds. Previously, each build waited for a new build container to boot with its network configuration. These builds now use prewarmed build containers, with your network configuration attached when the build starts. The improvement is applied automatically to builds using Secure Compute or Static IPs, with no configur",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-09-17",
+    "score": 63
+  },
+  {
+    "title": "Product · Sep 16, 2026 Memory in Grok Build",
+    "url": "https://x.ai/news/grok-build-memory",
+    "summary": "SpaceXAI · Product · Sep 16, 2026 Memory in Grok Build",
+    "tags": [
+      "ai_models",
+      "reasoning"
+    ],
+    "author": "xAI",
+    "source": "x.ai",
+    "date": "2026-09-17",
+    "score": 62
+  },
+  {
+    "title": "Salesforce AI Force, Agents as UI, The Race to Headless",
+    "url": "https://stratechery.com/2026/salesforce-ai-force-agents-as-ui-the-race-to-headless",
+    "summary": "Salesforce is abandoning UI as a moat, which is a very smart move because it's disappearing for everyone.",
     "tags": [
       "strategy",
       "tech",
@@ -193,7 +266,48 @@
     ],
     "author": "Stratechery",
     "source": "stratechery.com",
-    "date": "2026-09-16",
-    "score": 58
+    "date": "2026-09-17",
+    "score": 61
+  },
+  {
+    "title": "Mistral and Mozilla are bringing open, private and multilingual AI to your web browser",
+    "url": "https://mistral.ai/news/mistral-x-mozilla",
+    "summary": "Latest news | Mistral · Mistral and Mozilla are bringing open, private and multilingual AI to your web browser",
+    "tags": [
+      "open_model",
+      "european_ai"
+    ],
+    "author": "Mistral AI",
+    "source": "mistral.ai",
+    "date": "2026-09-17",
+    "score": 60
+  },
+  {
+    "title": "Tue, 15 Sep 2026",
+    "url": "https://arxiv.org/list/cs.AI/recent?skip=195&amp%3Bshow=50",
+    "summary": "Artificial Intelligence · Tue, 15 Sep 2026",
+    "tags": [
+      "paper",
+      "ai",
+      "arxiv"
+    ],
+    "author": "arXiv CS AI",
+    "source": "arxiv.org",
+    "date": "2026-09-17",
+    "score": 60
+  },
+  {
+    "title": "arXiv:2606.03992",
+    "url": "https://arxiv.org/abs/2606.03992",
+    "summary": "Computer Vision and Pattern Recognition · arXiv:2606.03992",
+    "tags": [
+      "paper",
+      "vision",
+      "arxiv"
+    ],
+    "author": "arXiv CS CV",
+    "source": "arxiv.org",
+    "date": "2026-09-17",
+    "score": 59
   }
 ]

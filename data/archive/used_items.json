@@ -20436,5 +20436,225 @@
     "cluster_id": "stratechery_com_87310cbd",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_df3bddd2715dcfb0",
+    "canonical_url": "https://developer.nvidia.com/blog/how-to-use-ai-agents-to-prepare-3d-scenes-for-simulation",
+    "dedupe_key": "67992d8528439c22",
+    "title": "How to Use AI Agents to Prepare 3D Scenes for Simulation",
+    "issue_date": "2026-09-17",
+    "cluster_id": "developer_nvidia_com_01806e9d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_92667adad666e906",
+    "canonical_url": "https://developer.nvidia.com/blog/tensorrt-edge-llm-completes-the-mlperf-edge-agentic-benchmark-6-4x-faster-on-jetson-agx-thor",
+    "dedupe_key": "c442f2716225139b",
+    "title": "TensorRT Edge-LLM Completes the MLPerf Edge Agentic Benchmark 6.4x Faster on Jetson AGX Thor",
+    "issue_date": "2026-09-17",
+    "cluster_id": "developer_nvidia_com_dee1340d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2d10bbc15de1ef62",
+    "canonical_url": "https://openai.com/index/reimagining-advertising-with-ai",
+    "dedupe_key": "0b207f40c31214a1",
+    "title": "Reimagining advertising with AI",
+    "issue_date": "2026-09-17",
+    "cluster_id": "openai_com_e11123d7",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a77a700166e10a13",
+    "canonical_url": "https://openai.com/index/model-misalignment-reporting-framework",
+    "dedupe_key": "9aa064aa0865337c",
+    "title": "Our framework for reporting model misalignment",
+    "issue_date": "2026-09-17",
+    "cluster_id": "openai_com_d26eb37b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7727c3605c49add3",
+    "canonical_url": "https://developer.nvidia.com/blog/translating-cuda-tile-operations-from-python-to-rust-using-agentic-ai",
+    "dedupe_key": "beee3451add7a8f2",
+    "title": "Translating CUDA Tile Operations from Python to Rust Using Agentic AI",
+    "issue_date": "2026-09-17",
+    "cluster_id": "developer_nvidia_com_ba952f73",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_08955b0ebdbedaad",
+    "canonical_url": "https://vercel.com/changelog/is-agentic-report-categories",
+    "dedupe_key": "3324ac36eadda88b",
+    "title": "Is Agentic now tailors its audit by site type",
+    "issue_date": "2026-09-17",
+    "cluster_id": "vercel_com_1cc84689",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_dc7eee66674d66c4",
+    "canonical_url": "https://vercel.com/changelog/mem0-joins-the-vercel-marketplace",
+    "dedupe_key": "184ff9c2b0409f5b",
+    "title": "Mem0 joins the Vercel Marketplace",
+    "issue_date": "2026-09-17",
+    "cluster_id": "vercel_com_19940068",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7ba12c32dc8e7215",
+    "canonical_url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+    "dedupe_key": "a834b14525e1bd43",
+    "title": "Helping older adults use AI in everyday life",
+    "issue_date": "2026-09-17",
+    "cluster_id": "openai_com_505e1e04",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_bc843edc75ebcf3c",
+    "canonical_url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+    "dedupe_key": "b8cd5cd10bd00727",
+    "title": "How to connect AI usage to business value",
+    "issue_date": "2026-09-17",
+    "cluster_id": "openai_com_b52b0256",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7797cfd82f74ce99",
+    "canonical_url": "https://openai.com/index/unlocking-new-ways-of-working",
+    "dedupe_key": "1251846bbbd0b571",
+    "title": "How workers are unlocking new ways of working",
+    "issue_date": "2026-09-17",
+    "cluster_id": "openai_com_77f80e74",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f0a3615dc22c52a8",
+    "canonical_url": "https://www.lennysnewsletter.com/p/muse-review-the-personal-ai-agent",
+    "dedupe_key": "aa84659349eb6eb1",
+    "title": "Muse review: The personal AI agent that gets consumer UX right",
+    "issue_date": "2026-09-17",
+    "cluster_id": "lennysnewsletter_com_9dbc6600",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7d8601650e539f17",
+    "canonical_url": "https://www.llamaindex.ai/blog?tag=Open+Source",
+    "dedupe_key": "d860cd5e1a410f09",
+    "title": "Open Source",
+    "issue_date": "2026-09-17",
+    "cluster_id": "llamaindex_ai_1ae64990",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e6d56f0f16db4d39",
+    "canonical_url": "https://www.llamaindex.ai/blog?tag=Data+Processing",
+    "dedupe_key": "8397f6d7aeec1b05",
+    "title": "Data Processing",
+    "issue_date": "2026-09-17",
+    "cluster_id": "llamaindex_ai_1f44aab9",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b1bad2317da872a8",
+    "canonical_url": "https://www.llamaindex.ai/blog?tag=Structured+Data+Extraction",
+    "dedupe_key": "d8cf55df7c0d65de",
+    "title": "Structured Data Extraction",
+    "issue_date": "2026-09-17",
+    "cluster_id": "llamaindex_ai_c1b61fce",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_772c2d5336177361",
+    "canonical_url": "https://vercel.com/changelog/hobby-projects-now-retain-fewer-deployments-to-free-up-storage",
+    "dedupe_key": "5872c225d17465bd",
+    "title": "Hobby projects now retain fewer deployments to free up storage",
+    "issue_date": "2026-09-17",
+    "cluster_id": "vercel_com_514cd412",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f7b5897ecd4f6491",
+    "canonical_url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai",
+    "dedupe_key": "99bc1f694c077958",
+    "title": "Building the materials foundation for AI",
+    "issue_date": "2026-09-17",
+    "cluster_id": "technologyreview_com_9fe2db55",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c364c7724a7fba38",
+    "canonical_url": "https://vercel.com/changelog/secure-compute-and-static-ip-builds-start-64-faster",
+    "dedupe_key": "1da3867976af8187",
+    "title": "Secure Compute and Static IP builds start 64% faster",
+    "issue_date": "2026-09-17",
+    "cluster_id": "vercel_com_68be03ae",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_68a6553b1dd12f0b",
+    "canonical_url": "https://x.ai/news/grok-build-memory",
+    "dedupe_key": "6341ee046ef77984",
+    "title": "Product · Sep 16, 2026 Memory in Grok Build",
+    "issue_date": "2026-09-17",
+    "cluster_id": "x_ai_31354294",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_72258c2f5e71aac4",
+    "canonical_url": "https://stratechery.com/2026/salesforce-ai-force-agents-as-ui-the-race-to-headless",
+    "dedupe_key": "4804766c48e20508",
+    "title": "Salesforce AI Force, Agents as UI, The Race to Headless",
+    "issue_date": "2026-09-17",
+    "cluster_id": "stratechery_com_97470d71",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4b3f2ba05e7ff459",
+    "canonical_url": "https://mistral.ai/news/mistral-x-mozilla",
+    "dedupe_key": "be065dbc59d7fd7a",
+    "title": "Mistral and Mozilla are bringing open, private and multilingual AI to your web browser",
+    "issue_date": "2026-09-17",
+    "cluster_id": "mistral_ai_00331d1b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5cff87ba7a7bfa8c",
+    "canonical_url": "https://arxiv.org/list/cs.AI/recent?skip=195&amp%3Bshow=50",
+    "dedupe_key": "72948c267f8f5e38",
+    "title": "Tue, 15 Sep 2026",
+    "issue_date": "2026-09-17",
+    "cluster_id": "arxiv_org_2cb43768",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7e577491f92638a3",
+    "canonical_url": "https://arxiv.org/abs/2606.03992",
+    "dedupe_key": "be02ccd83ad85e3a",
+    "title": "arXiv:2606.03992",
+    "issue_date": "2026-09-17",
+    "cluster_id": "arxiv_org_278f188b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
