@@ -20656,5 +20656,145 @@
     "cluster_id": "arxiv_org_278f188b",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2098149c4b74972b",
+    "canonical_url": "https://vercel.com/changelog/sub-second-artifact-deployments-are-now-supported-in-vercel-cli",
+    "dedupe_key": "a5b0987782b3da7e",
+    "title": "Sub-second artifact deployments are now supported in Vercel CLI",
+    "issue_date": "2026-09-18",
+    "cluster_id": "vercel_com_a73c7768",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_27013225766d5f89",
+    "canonical_url": "https://openai.com/index/astra-for-law",
+    "dedupe_key": "78cc214899d327f4",
+    "title": "Introducing Astra for Law",
+    "issue_date": "2026-09-18",
+    "cluster_id": "openai_com_ad657a34",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0c9b4bab1849b789",
+    "canonical_url": "https://vercel.com/changelog/turbo-build-machines-can-now-be-enabled-per-deployment",
+    "dedupe_key": "519e4db50d49e5b9",
+    "title": "Turbo build machines can now be enabled per deployment",
+    "issue_date": "2026-09-18",
+    "cluster_id": "vercel_com_e33d7a82",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_bdcaa40a871f8d8c",
+    "canonical_url": "https://vercel.com/changelog/run-terminal-bench-and-other-harbor-evals-on-vercel-sandbox",
+    "dedupe_key": "87c96291ad7d63b7",
+    "title": "Run Terminal-Bench and other Harbor evals on Vercel Sandbox",
+    "issue_date": "2026-09-18",
+    "cluster_id": "vercel_com_5f942dc4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_548f9dd2454b91bd",
+    "canonical_url": "https://vercel.com/changelog/skills-cli-notion-skills",
+    "dedupe_key": "c41d2b8f33312f64",
+    "title": "The skills CLI now supports Notion hosted skills",
+    "issue_date": "2026-09-18",
+    "cluster_id": "vercel_com_81f3e610",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b842930d0d053783",
+    "canonical_url": "https://vercel.com/changelog/custom-environments-support-for-marketplace-integrations",
+    "dedupe_key": "5376cfe60006104d",
+    "title": "Native Marketplace integrations now support custom environments",
+    "issue_date": "2026-09-18",
+    "cluster_id": "vercel_com_21fc1666",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7e665987b4a90722",
+    "canonical_url": "https://www.langchain.com/blog/agent-harness-life-sciences",
+    "dedupe_key": "77cced867374dcca",
+    "title": "Building an Agent Harness for Life Sciences: Introducing Deep Life Sci",
+    "issue_date": "2026-09-18",
+    "cluster_id": "langchain_com_d3036774",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1c0b184a510939d8",
+    "canonical_url": "https://www.langchain.com/blog/how-included-health-built-federated-agents-for-healthcare-navigation-with-deep-agents-and-langgraph",
+    "dedupe_key": "2034b8f36fd86a5c",
+    "title": "How Included Health Built Federated Healthcare Agents with LangGraph and Deep Agents",
+    "issue_date": "2026-09-18",
+    "cluster_id": "langchain_com_e9401877",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c8832bf5c39eb6d1",
+    "canonical_url": "https://vercel.com/changelog/typesafe-ai-jev-now-available-on-ai-gateway",
+    "dedupe_key": "69f2ed9caca30a79",
+    "title": "TypeSafe AI's Jev now available on AI Gateway",
+    "issue_date": "2026-09-18",
+    "cluster_id": "vercel_com_0e1206de",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_da286f5b62296874",
+    "canonical_url": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
+    "dedupe_key": "36e49ceb267cb0d0",
+    "title": "Sep 17, 2026 Measurements for understanding the pace of AI development inside frontier labs Today, the world can’t see what’s going on inside AI labs. Anthropic is proposing new metrics that would give the public visibility into frontier AI development.",
+    "issue_date": "2026-09-18",
+    "cluster_id": "anthropic_com_cedba60f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5acf08cd063c2171",
+    "canonical_url": "https://www.anthropic.com/news/life-sciences-verification-program",
+    "dedupe_key": "4e94ab6a9044b6ea",
+    "title": "Sep 17, 2026 Announcements Introducing the Life Sciences Verification Program",
+    "issue_date": "2026-09-18",
+    "cluster_id": "anthropic_com_ce304abd",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f67dc1897d3433b5",
+    "canonical_url": "https://arxiv.org/list/cs.AI/recent?skip=204&amp%3Bshow=50",
+    "dedupe_key": "1685c6701875ebb0",
+    "title": "Wed, 16 Sep 2026",
+    "issue_date": "2026-09-18",
+    "cluster_id": "arxiv_org_0febfe4e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_05926245a3bad28b",
+    "canonical_url": "https://arxiv.org/abs/2505.17936",
+    "dedupe_key": "10ae3c4cb848b8c3",
+    "title": "arXiv:2505.17936",
+    "issue_date": "2026-09-18",
+    "cluster_id": "arxiv_org_25829a50",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_366c44e8981cbb83",
+    "canonical_url": "https://stratechery.com/2026/an-interview-with-joanna-stern-about-the-iphone-duo-and-ai-for-normal-people",
+    "dedupe_key": "6a64487c677f1bba",
+    "title": "An Interview with Joanna Stern About the iPhone Duo and AI for Normal People",
+    "issue_date": "2026-09-18",
+    "cluster_id": "stratechery_com_b5274c07",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]

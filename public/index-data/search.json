@@ -1,80 +1,8 @@
 [
   {
-    "title": "How to Use AI Agents to Prepare 3D Scenes for Simulation",
-    "url": "https://developer.nvidia.com/blog/how-to-use-ai-agents-to-prepare-3d-scenes-for-simulation",
-    "summary": "NVIDIA Technical Blog · How to Use AI Agents to Prepare 3D Scenes for Simulation",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-09-17",
-    "score": 71
-  },
-  {
-    "title": "TensorRT Edge-LLM Completes the MLPerf Edge Agentic Benchmark 6.4x Faster on Jetson AGX Thor",
-    "url": "https://developer.nvidia.com/blog/tensorrt-edge-llm-completes-the-mlperf-edge-agentic-benchmark-6-4x-faster-on-jetson-agx-thor",
-    "summary": "NVIDIA Technical Blog · TensorRT Edge-LLM Completes the MLPerf Edge Agentic Benchmark 6.4x Faster on Jetson AGX Thor",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-09-17",
-    "score": 71
-  },
-  {
-    "title": "Reimagining advertising with AI",
-    "url": "https://openai.com/index/reimagining-advertising-with-ai",
-    "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-09-17",
-    "score": 70
-  },
-  {
-    "title": "Our framework for reporting model misalignment",
-    "url": "https://openai.com/index/model-misalignment-reporting-framework",
-    "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-09-17",
-    "score": 69
-  },
-  {
-    "title": "Translating CUDA Tile Operations from Python to Rust Using Agentic AI",
-    "url": "https://developer.nvidia.com/blog/translating-cuda-tile-operations-from-python-to-rust-using-agentic-ai",
-    "summary": "NVIDIA Technical Blog · Translating CUDA Tile Operations from Python to Rust Using Agentic AI",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-09-17",
-    "score": 69
-  },
-  {
-    "title": "Is Agentic now tailors its audit by site type",
-    "url": "https://vercel.com/changelog/is-agentic-report-categories",
-    "summary": "Is Agentic reports now let you view your checks through one of four site types: Docs & content, Business, App, or Commerce. For example, the Commerce view highlights payment and checkout standards like x402, UCP, and ACP, while the App view highlights API discovery, authentication, error handling, and SDK support. Your score stays the same in every view, and you can change views on an existing report without rescanning. Only the highlighted checks change, so you can focus on ",
+    "title": "Sub-second artifact deployments are now supported in Vercel CLI",
+    "url": "https://vercel.com/changelog/sub-second-artifact-deployments-are-now-supported-in-vercel-cli",
+    "summary": "You and your agents can now deploy static artifacts to Vercel in under one second through Vercel CLI. Run vercel deploy to share a prototype, publish an HTML report, or preview a page created by your coding agent. Vercel automatically detects eligible deployments, and valid artifacts will skip the build step, immediately returning a live URL. Instant deployments support directories with: Up to 10 HTML or Markdown files A total size of 5 MB or less Supported file extension inc",
     "tags": [
       "sdk",
       "ai_infra",
@@ -82,13 +10,28 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-09-17",
+    "date": "2026-09-18",
     "score": 69
   },
   {
-    "title": "Mem0 joins the Vercel Marketplace",
-    "url": "https://vercel.com/changelog/mem0-joins-the-vercel-marketplace",
-    "summary": "Mem0 is now available as a native integration on the Vercel Marketplace , giving your AI agents and apps long-term memory. Mem0 remembers user preferences, facts, and context across sessions, so your app stops starting from scratch. Install from the Marketplace with integrated billing on your Vercel invoice, no separate account or key management. A scoped Mem0 project and API key are provisioned automatically and added to your project as environment variables, including MEM0_",
+    "title": "Introducing Astra for Law",
+    "url": "https://openai.com/index/astra-for-law",
+    "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-09-18",
+    "score": 67
+  },
+  {
+    "title": "Turbo build machines can now be enabled per deployment",
+    "url": "https://vercel.com/changelog/turbo-build-machines-can-now-be-enabled-per-deployment",
+    "summary": "You can now opt into Turbo build machines on any individual deployment. This is useful when you need to increase resources temporarily without changing project settings. You can do this in three ways: Include #VERCEL_BUILD_MACHINE=TURBO in your Git commit message before pushing to GitHub Use vc deploy --turbo (Vercel CLI 59.20.0 or later) Set buildMachine to turbo when creating a deployment with the REST API Learn more in the managing builds documentation . Read more",
     "tags": [
       "sdk",
       "ai_infra",
@@ -96,114 +39,13 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-09-17",
-    "score": 68
-  },
-  {
-    "title": "Helping older adults use AI in everyday life",
-    "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-    "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-09-17",
-    "score": 67
-  },
-  {
-    "title": "How to connect AI usage to business value",
-    "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-    "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-09-17",
-    "score": 67
-  },
-  {
-    "title": "How workers are unlocking new ways of working",
-    "url": "https://openai.com/index/unlocking-new-ways-of-working",
-    "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-09-17",
-    "score": 67
-  },
-  {
-    "title": "Muse review: The personal AI agent that gets consumer UX right",
-    "url": "https://www.lennysnewsletter.com/p/muse-review-the-personal-ai-agent",
-    "summary": "Watch now (38 mins) | &#127897;&#65039; I gave Meta&#8217;s Muse my calendar, my email, and my kids&#8217; chaotic schedule, and it produced a one-shot family PDF more beautiful than anything I&#8217;ve ever made with Claude or Codex",
-    "tags": [
-      "product",
-      "growth",
-      "startup"
-    ],
-    "author": "Lenny's Newsletter",
-    "source": "lennysnewsletter.com",
-    "date": "2026-09-17",
-    "score": 67
-  },
-  {
-    "title": "Open Source",
-    "url": "https://www.llamaindex.ai/blog?tag=Open+Source",
-    "summary": "Blog · Open Source",
-    "tags": [
-      "rag",
-      "agents",
-      "framework"
-    ],
-    "author": "LlamaIndex",
-    "source": "llamaindex.ai",
-    "date": "2026-09-17",
+    "date": "2026-09-18",
     "score": 66
   },
   {
-    "title": "Data Processing",
-    "url": "https://www.llamaindex.ai/blog?tag=Data+Processing",
-    "summary": "Blog · Data Processing",
-    "tags": [
-      "rag",
-      "agents",
-      "framework"
-    ],
-    "author": "LlamaIndex",
-    "source": "llamaindex.ai",
-    "date": "2026-09-17",
-    "score": 66
-  },
-  {
-    "title": "Structured Data Extraction",
-    "url": "https://www.llamaindex.ai/blog?tag=Structured+Data+Extraction",
-    "summary": "Blog · Structured Data Extraction",
-    "tags": [
-      "rag",
-      "agents",
-      "framework"
-    ],
-    "author": "LlamaIndex",
-    "source": "llamaindex.ai",
-    "date": "2026-09-17",
-    "score": 66
-  },
-  {
-    "title": "Hobby projects now retain fewer deployments to free up storage",
-    "url": "https://vercel.com/changelog/hobby-projects-now-retain-fewer-deployments-to-free-up-storage",
-    "summary": "Hobby projects now retain fewer deployments past the 30-day retention window. Hobby teams get 10GB of Deployment Storage . Every deployment you keep uses some of it, and going over the limit can block you from deploying until you free some up. Deployment Retention for Hobby teams now deletes old deployments sooner, so dormant projects stop holding storage that your active projects need. Each Hobby project now keeps its 3 most recent production deployments, plus its 3 most rec",
+    "title": "Run Terminal-Bench and other Harbor evals on Vercel Sandbox",
+    "url": "https://vercel.com/changelog/run-terminal-bench-and-other-harbor-evals-on-vercel-sandbox",
+    "summary": "You can now run Harbor evals on Vercel Sandbox. Harbor is the open-source harness behind Terminal-Bench , whose registry includes many other benchmarks such as SWE-bench, tau3-bench and OSWorld. Pass --env vercel to harbor run and each trial executes in its own isolated Firecracker microVM, so you can parallelize far beyond what your local machine is capable of. A task's network policy is enforced at the sandbox firewall, outside the VM. Optional credential injection attaches",
     "tags": [
       "sdk",
       "ai_infra",
@@ -211,27 +53,69 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-09-17",
+    "date": "2026-09-18",
+    "score": 66
+  },
+  {
+    "title": "The skills CLI now supports Notion hosted skills",
+    "url": "https://vercel.com/changelog/skills-cli-notion-skills",
+    "summary": "skills@1.7.0 adds Notion skills databases as an install source for agent skills . Notion skills are reusable agent skills written as Notion pages. Teams author, review, and update them in the workspace they already use, then install them into any agent the skills CLI supports. No Git repository required. To browse your Notion workspace's skills, run: The CLI lists the skill packs shared with you and installs every skill in the packs you select. To install a single skill, pass",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-09-18",
+    "score": 66
+  },
+  {
+    "title": "Native Marketplace integrations now support custom environments",
+    "url": "https://vercel.com/changelog/custom-environments-support-for-marketplace-integrations",
+    "summary": "You can now connect native Marketplace resources to custom environments . Previously, resource connections could only target production, preview, and development environments. Choose custom environments when connecting a resource from the Vercel dashboard, Vercel CLI, or REST API. Vercel scopes the environment variables created by the connection to the selected environments. For example, from the CLI: Existing deployments do not change. Create a new deployment after connectin",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-09-18",
     "score": 65
   },
   {
-    "title": "Building the materials foundation for AI",
-    "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai",
-    "summary": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data centers are approaching physical limits around performance, thermal management, electrical efficiency, and reliability, creating new demands for materials that can do&#8230;",
+    "title": "Building an Agent Harness for Life Sciences: Introducing Deep Life Sci",
+    "url": "https://www.langchain.com/blog/agent-harness-life-sciences",
+    "summary": "Deep Life Sci is LangChain's open source agentic assistant for clinical and lab scientists. It pulls from 600K+ ClinicalTrials.gov studies, 29M PubMed abstracts, and 12M PubMed Central full-text articles, with sandboxed sub-agents for real data analysis.",
     "tags": [
-      "ai",
-      "research",
-      "society"
+      "agents",
+      "rag",
+      "framework"
     ],
-    "author": "MIT Technology Review AI",
-    "source": "technologyreview.com",
-    "date": "2026-09-17",
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-09-18",
+    "score": 65
+  },
+  {
+    "title": "How Included Health Built Federated Healthcare Agents with LangGraph and Deep Agents",
+    "url": "https://www.langchain.com/blog/how-included-health-built-federated-agents-for-healthcare-navigation-with-deep-agents-and-langgraph",
+    "summary": "See how Included Health used Deep Agents, LangGraph, and LangSmith to build Dot, a federated healthcare navigation agent with human handoff and clinical oversight.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-09-18",
     "score": 64
   },
   {
-    "title": "Secure Compute and Static IP builds start 64% faster",
-    "url": "https://vercel.com/changelog/secure-compute-and-static-ip-builds-start-64-faster",
-    "summary": "Builds using Secure Compute or Static IPs now start 64% faster, with the average time from deployment creation to build start dropping from 6.7 seconds to 2.4 seconds. Previously, each build waited for a new build container to boot with its network configuration. These builds now use prewarmed build containers, with your network configuration attached when the build starts. The improvement is applied automatically to builds using Secure Compute or Static IPs, with no configur",
+    "title": "TypeSafe AI's Jev now available on AI Gateway",
+    "url": "https://vercel.com/changelog/typesafe-ai-jev-now-available-on-ai-gateway",
+    "summary": "Jev from TypeSafe AI is now available on AI Gateway . Jev is a probabilistic decision model for software: state goes in, typed Choice, Score, and Boolean answers come out. Regular language models generate text one token at a time, which the application then parses and validates. Jev evaluates all declared questions in parallel and returns typed answers plus probabilities directly. That removes unnecessary text generation and makes it straightforward to automate clear cases wh",
     "tags": [
       "sdk",
       "ai_infra",
@@ -239,53 +123,41 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-09-17",
+    "date": "2026-09-18",
     "score": 63
   },
   {
-    "title": "Product · Sep 16, 2026 Memory in Grok Build",
-    "url": "https://x.ai/news/grok-build-memory",
-    "summary": "SpaceXAI · Product · Sep 16, 2026 Memory in Grok Build",
+    "title": "Sep 17, 2026 Measurements for understanding the pace of AI development inside frontier labs Today, the world can’t see what’s going on inside AI labs. Anthropic is proposing new metrics that would give the public visibility into frontier AI development.",
+    "url": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
+    "summary": "Newsroom \\ Anthropic · Sep 17, 2026 Measurements for understanding the pace of AI development inside frontier labs Today, the world can’t see what’s going on inside AI labs. Anthropic is proposing new metrics that would give the public visibility into frontier AI development.",
     "tags": [
       "ai_models",
-      "reasoning"
+      "safety",
+      "official"
     ],
-    "author": "xAI",
-    "source": "x.ai",
-    "date": "2026-09-17",
+    "author": "Anthropic",
+    "source": "anthropic.com",
+    "date": "2026-09-18",
     "score": 62
   },
   {
-    "title": "Salesforce AI Force, Agents as UI, The Race to Headless",
-    "url": "https://stratechery.com/2026/salesforce-ai-force-agents-as-ui-the-race-to-headless",
-    "summary": "Salesforce is abandoning UI as a moat, which is a very smart move because it's disappearing for everyone.",
+    "title": "Sep 17, 2026 Announcements Introducing the Life Sciences Verification Program",
+    "url": "https://www.anthropic.com/news/life-sciences-verification-program",
+    "summary": "Newsroom \\ Anthropic · Sep 17, 2026 Announcements Introducing the Life Sciences Verification Program",
     "tags": [
-      "strategy",
-      "tech",
-      "business"
+      "ai_models",
+      "safety",
+      "official"
     ],
-    "author": "Stratechery",
-    "source": "stratechery.com",
-    "date": "2026-09-17",
-    "score": 61
+    "author": "Anthropic",
+    "source": "anthropic.com",
+    "date": "2026-09-18",
+    "score": 62
   },
   {
-    "title": "Mistral and Mozilla are bringing open, private and multilingual AI to your web browser",
-    "url": "https://mistral.ai/news/mistral-x-mozilla",
-    "summary": "Latest news | Mistral · Mistral and Mozilla are bringing open, private and multilingual AI to your web browser",
-    "tags": [
-      "open_model",
-      "european_ai"
-    ],
-    "author": "Mistral AI",
-    "source": "mistral.ai",
-    "date": "2026-09-17",
-    "score": 60
-  },
-  {
-    "title": "Tue, 15 Sep 2026",
-    "url": "https://arxiv.org/list/cs.AI/recent?skip=195&amp%3Bshow=50",
-    "summary": "Artificial Intelligence · Tue, 15 Sep 2026",
+    "title": "Wed, 16 Sep 2026",
+    "url": "https://arxiv.org/list/cs.AI/recent?skip=204&amp%3Bshow=50",
+    "summary": "Artificial Intelligence · Wed, 16 Sep 2026",
     "tags": [
       "paper",
       "ai",
@@ -293,21 +165,35 @@
     ],
     "author": "arXiv CS AI",
     "source": "arxiv.org",
-    "date": "2026-09-17",
+    "date": "2026-09-18",
     "score": 60
   },
   {
-    "title": "arXiv:2606.03992",
-    "url": "https://arxiv.org/abs/2606.03992",
-    "summary": "Computer Vision and Pattern Recognition · arXiv:2606.03992",
+    "title": "arXiv:2505.17936",
+    "url": "https://arxiv.org/abs/2505.17936",
+    "summary": "Machine Learning · arXiv:2505.17936",
     "tags": [
       "paper",
-      "vision",
+      "machine_learning",
       "arxiv"
     ],
-    "author": "arXiv CS CV",
+    "author": "arXiv CS LG",
     "source": "arxiv.org",
-    "date": "2026-09-17",
+    "date": "2026-09-18",
     "score": 59
+  },
+  {
+    "title": "An Interview with Joanna Stern About the iPhone Duo and AI for Normal People",
+    "url": "https://stratechery.com/2026/an-interview-with-joanna-stern-about-the-iphone-duo-and-ai-for-normal-people",
+    "summary": "An Interview with Joanna Stern About the iPhone Duo and AI for Normal People",
+    "tags": [
+      "strategy",
+      "tech",
+      "business"
+    ],
+    "author": "Stratechery",
+    "source": "stratechery.com",
+    "date": "2026-09-18",
+    "score": 58
   }
 ]
