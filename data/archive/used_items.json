@@ -20986,5 +20986,35 @@
     "cluster_id": "stratechery_com_05f00589",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4975a0cd926a0323",
+    "canonical_url": "https://openai.com/index/australian-youth-safety-blueprint",
+    "dedupe_key": "bcded670dafbb7a3",
+    "title": "Introducing the Australian Youth Safety Blueprint",
+    "issue_date": "2026-09-20",
+    "cluster_id": "openai_com_772c6a90",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a54f2477929315f6",
+    "canonical_url": "https://huggingface.co/blog/shadow-llm/shadowpeft-peft-cn",
+    "dedupe_key": "9c956c008e637488",
+    "title": "适配器即模型 —— ShadowPEFT 现已集成到 🤗 PEFT 库 shadow-llm • 5 days ago • 16",
+    "issue_date": "2026-09-20",
+    "cluster_id": "huggingface_co_64cb0c36",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_673d6f598999fa6a",
+    "canonical_url": "https://www.lennysnewsletter.com/p/community-wisdom-finding-your-first",
+    "dedupe_key": "e8af0b4ea8303461",
+    "title": "🧠 Community Wisdom: Finding your first users before the product exists, debriefing your own interviews, what to optimize for in the early years of your career, and more",
+    "issue_date": "2026-09-20",
+    "cluster_id": "lennysnewsletter_com_59425e89",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]

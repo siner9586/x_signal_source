@@ -1,22 +1,8 @@
 [
   {
-    "title": "GLM 5.3 FlashX now available on AI Gateway",
-    "url": "https://vercel.com/changelog/glm-5-3-flashx-now-available-on-ai-gateway",
-    "summary": "GLM 5.3 FlashX is now available on AI Gateway. GLM 5.3 FlashX is a high-speed serving option for Z.ai's multimodal coding model, delivering inference at ~200 tokens per second for faster streamed responses. The higher serving speed is useful for coding agents, tool loops, and interactive applications where users wait on generated output. Use zai/glm-5.3-flashx across API formats and in coding agents: To use it in a coding agent, see the coding agents guide , then run vercel a",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-09-19",
-    "score": 71
-  },
-  {
-    "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
-    "url": "https://openai.com/index/hex-gpt-6-astra",
-    "summary": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.",
+    "title": "Introducing the Australian Youth Safety Blueprint",
+    "url": "https://openai.com/index/australian-youth-safety-blueprint",
+    "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
     "tags": [
       "ai_models",
       "official",
@@ -25,125 +11,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-09-19",
-    "score": 70
-  },
-  {
-    "title": "Benchmarking LLM Inference at Scale with AIPerf",
-    "url": "https://developer.nvidia.com/blog/benchmarking-llm-inference-at-scale-with-aiperf",
-    "summary": "NVIDIA Technical Blog · Benchmarking LLM Inference at Scale with AIPerf",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-09-19",
-    "score": 68
-  },
-  {
-    "title": "How Cooley is accelerating IPO work with ChatGPT",
-    "url": "https://openai.com/index/cooley-gopublic",
-    "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-09-19",
+    "date": "2026-09-20",
     "score": 67
   },
   {
-    "title": "Should you read the code, is RAG dead, and did Skills kill MCP?",
-    "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp",
-    "summary": "We dive into these questions and other AI hot takes on the latest episode of the GitHub Podcast. The post Should you read the code, is RAG dead, and did Skills kill MCP? appeared first on The GitHub Blog .",
-    "tags": [
-      "ai_coding",
-      "developer_tools"
-    ],
-    "author": "GitHub Copilot",
-    "source": "github.blog",
-    "date": "2026-09-19",
-    "score": 67
-  },
-  {
-    "title": "WebMCP support now available in mcp-handler",
-    "url": "https://vercel.com/changelog/webmcp-mcp-handler",
-    "summary": "mcp-handler now has experimental support for WebMCP , the proposed web standard for exposing tools to in-browser agents. Add a single script tag to your site, and your existing MCP tools become available there too. Opt tools in by adding them to the experimental_webMcp object: Then load the script from your MCP endpoint with the ?webmcp-script parameter: The script registers those tools with the page and proxies each call back to your MCP server as the signed-in user, so auth",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-09-19",
-    "score": 66
-  },
-  {
-    "title": "Spend Management expands to Enterprise Flexible Commitment plans",
-    "url": "https://vercel.com/changelog/spend-management-enterprise-flex",
-    "summary": "Enterprise teams on Flexible Commitment plans can now use Spend Management , already available on Pro , at no additional cost. You can set a budget at any time in Spend Management settings . Set a budget per billing cycle, and when your team's metered usage approaches or crosses it, Spend Management can send email notifications, trigger a webhook, or pause the production deployments of all projects. The amount governs the metered usage that draws down from your prepaid balanc",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-09-19",
-    "score": 65
-  },
-  {
-    "title": "Reproducing, disclosing, and fixing the libheif vulnerability with Hacktron and the maintainers",
-    "url": "https://vercel.com/blog/reproducing-disclosing-and-fixing-the-libheif-vulnerability-with-hacktron-and-the-maintainers",
-    "summary": "In August 2026, Hacktron reported what looked like a remote code execution (RCE) vulnerability in Next.js image optimization. Their investigation found that the vulnerable code was not in Next.js itself, but upstream in libheif, an AVIF image decoder used by Next.js, ImageMagick , WordPress , sharp , and much of the web. Shortly after Hacktron notified us, we worked with them to reproduce the RCE against a current Next.js build and disclose it to the maintainers of sharp, lib",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-09-19",
-    "score": 65
-  },
-  {
-    "title": "Open-weight models take 56% of token volume, Astra doubles Fable 5.1 spend",
-    "url": "https://vercel.com/blog/ai-gateway-production-index-september-2026",
-    "summary": "AI Gateway Production Index — September 2026 Every month, AI Gateway routes tens of trillions of tokens between production applications and AI labs. That traffic gives us a view of what AI usage actually looks like in today's enterprise, and we publish it here monthly. See the Production Index reports from June , July , and August . September 2026 summary The September index reports on AI Gateway data collected through August 2026. Open-weight models ran the majority of gatew",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-09-19",
-    "score": 65
-  },
-  {
-    "title": "What Is Jev? A Guide to TypeSafe AI’s System One Model",
-    "url": "https://www.langchain.com/blog/building-a-harness-with-jev",
-    "summary": "What is Jev? Learn how TypeSafe AI’s System One model makes fast, structured decisions, where it fits in the agent loop, and how to use Jev with LangChain",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-09-19",
-    "score": 65
-  },
-  {
-    "title": "What If the Adaptation Were a Model? ShadowPEFT in 🤗 PEFT library shadow-llm • 4 days ago • 21",
-    "url": "https://huggingface.co/blog/shadow-llm/shadowpeft-peft",
-    "summary": "Hugging Face – Blog · What If the Adaptation Were a Model? ShadowPEFT in 🤗 PEFT library shadow-llm • 4 days ago • 21",
+    "title": "适配器即模型 —— ShadowPEFT 现已集成到 🤗 PEFT 库 shadow-llm • 5 days ago • 16",
+    "url": "https://huggingface.co/blog/shadow-llm/shadowpeft-peft-cn",
+    "summary": "Hugging Face – Blog · 适配器即模型 —— ShadowPEFT 现已集成到 🤗 PEFT 库 shadow-llm • 5 days ago • 16",
     "tags": [
       "open_source",
       "papers",
@@ -151,118 +25,21 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-09-19",
-    "score": 64
+    "date": "2026-09-20",
+    "score": 65
   },
   {
-    "title": "v0 now reads npm credentials from shared environment variables",
-    "url": "https://vercel.com/changelog/v0-now-reads-npm-credentials-from-shared-environment-variables",
-    "summary": "v0 now installs private packages from npm and custom registries using credentials stored as shared environment variables on Vercel. This makes it easier for teams to build with their existing design systems, component libraries, and internal packages directly in v0. To get started, add one of the following as a shared environment variable on Vercel, scoped to Development and/or Preview: Use NPM_TOKEN for private packages hosted on registry.npmjs.org . Use NPM_RC to configure ",
+    "title": "🧠 Community Wisdom: Finding your first users before the product exists, debriefing your own interviews, what to optimize for in the early years of your career, and more",
+    "url": "https://www.lennysnewsletter.com/p/community-wisdom-finding-your-first",
+    "summary": "Community Wisdom 299",
     "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
+      "product",
+      "growth",
+      "startup"
     ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-09-19",
-    "score": 63
-  },
-  {
-    "title": "Jev is the fastest-adopted model in AI Gateway history",
-    "url": "https://vercel.com/blog/ai-gateway-jev-model-launch",
-    "summary": "Within 24 hours of launching on AI Gateway, Jev from TypeSafe AI reached more than twice as many paid teams as any previous model launch, making it the fastest-adopted model in gateway history. Jev passed every other comparison model in its first twelve hours and continued to widen its lead for the rest of the day. By hour 24, it was being used by nearly 13% of paid teams. That’s 2x as many as the GPT-5.6 family and over 6x as many as Fable 5.1. Jev’s launch shows how quickly",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-09-19",
-    "score": 63
-  },
-  {
-    "title": "GPT-Live 1 now available on AI Gateway",
-    "url": "https://vercel.com/changelog/gpt-live-1-now-available-on-ai-gateway",
-    "summary": "GPT-Live 1 from OpenAI is now available on AI Gateway. GPT-Live 1 is a full-duplex voice model and can listen and speak at the same time. Many voice models use turn detection to respond. Full duplex removes that boundary, so a user can pause, interrupt, or add detail while GPT-Live is speaking. GPT-Live 1 also supports client delegation. Client delegation lets you choose the background model independently from GPT-Live 1. A basic session runs only the voice model. When deeper",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-09-19",
-    "score": 63
-  },
-  {
-    "title": "Sep 18, 2026 Announcements Partnering with Accenture on embedded evaluation",
-    "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
-    "summary": "Newsroom \\ Anthropic · Sep 18, 2026 Announcements Partnering with Accenture on embedded evaluation",
-    "tags": [
-      "ai_models",
-      "safety",
-      "official"
-    ],
-    "author": "Anthropic",
-    "source": "anthropic.com",
-    "date": "2026-09-19",
-    "score": 62
-  },
-  {
-    "title": "Sep 18, 2026 Introducing Grok Voice Transcribe 2.0",
-    "url": "https://x.ai/news/grok-voice-transcribe-2",
-    "summary": "SpaceXAI · Sep 18, 2026 Introducing Grok Voice Transcribe 2.0",
-    "tags": [
-      "ai_models",
-      "reasoning"
-    ],
-    "author": "xAI",
-    "source": "x.ai",
-    "date": "2026-09-19",
+    "author": "Lenny's Newsletter",
+    "source": "lennysnewsletter.com",
+    "date": "2026-09-20",
     "score": 61
-  },
-  {
-    "title": "Could AI really kill us all? Your questions, answered.",
-    "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered",
-    "summary": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session. So we asked our senior AI editor Will Douglas Heaven and&#8230;",
-    "tags": [
-      "ai",
-      "research",
-      "society"
-    ],
-    "author": "MIT Technology Review AI",
-    "source": "technologyreview.com",
-    "date": "2026-09-19",
-    "score": 61
-  },
-  {
-    "title": "Thu, 17 Sep 2026",
-    "url": "https://arxiv.org/list/cs.AI/recent?skip=215&amp%3Bshow=50",
-    "summary": "Artificial Intelligence · Thu, 17 Sep 2026",
-    "tags": [
-      "paper",
-      "ai",
-      "arxiv"
-    ],
-    "author": "arXiv CS AI",
-    "source": "arxiv.org",
-    "date": "2026-09-19",
-    "score": 60
-  },
-  {
-    "title": "2026.38: Doomforce",
-    "url": "https://stratechery.com/2026/doomforce",
-    "summary": "The best Stratechery content from the week of September 14, 2026, including the view from anywhere but San Francisco, the limited potential for a pacing deal, and the Salesforce zag.",
-    "tags": [
-      "strategy",
-      "tech",
-      "business"
-    ],
-    "author": "Stratechery",
-    "source": "stratechery.com",
-    "date": "2026-09-19",
-    "score": 56
   }
 ]
