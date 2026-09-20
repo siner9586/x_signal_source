@@ -21016,5 +21016,25 @@
     "cluster_id": "lennysnewsletter_com_59425e89",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_bc99bea5911d5732",
+    "canonical_url": "https://www.langchain.com/blog/jev-agent-evals-langsmith",
+    "dedupe_key": "82c416ece9406ead",
+    "title": "Can Jev Be a Better Agent Evaluator?",
+    "issue_date": "2026-09-21",
+    "cluster_id": "langchain_com_cae9d872",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_aa67ef0390d0a815",
+    "canonical_url": "https://www.lennysnewsletter.com/p/90-minutes-of-unfiltered-product",
+    "dedupe_key": "46d754cc289345a3",
+    "title": "90 minutes of unfiltered product advice from Snap and Discord’s product chief | Peter Sellis",
+    "issue_date": "2026-09-21",
+    "cluster_id": "lennysnewsletter_com_4d449320",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]

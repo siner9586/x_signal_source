@@ -1,37 +1,22 @@
 [
   {
-    "title": "Introducing the Australian Youth Safety Blueprint",
-    "url": "https://openai.com/index/australian-youth-safety-blueprint",
-    "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+    "title": "Can Jev Be a Better Agent Evaluator?",
+    "url": "https://www.langchain.com/blog/jev-agent-evals-langsmith",
+    "summary": "We tested using Jev-as-a-Judge against LLM judges on accuracy, repeatability, latency, and cost to see whether System One models could offer a new approach to agent evaluation.",
     "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
+      "agents",
+      "rag",
+      "framework"
     ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-09-20",
-    "score": 67
-  },
-  {
-    "title": "适配器即模型 —— ShadowPEFT 现已集成到 🤗 PEFT 库 shadow-llm • 5 days ago • 16",
-    "url": "https://huggingface.co/blog/shadow-llm/shadowpeft-peft-cn",
-    "summary": "Hugging Face – Blog · 适配器即模型 —— ShadowPEFT 现已集成到 🤗 PEFT 库 shadow-llm • 5 days ago • 16",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-09-20",
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-09-21",
     "score": 65
   },
   {
-    "title": "🧠 Community Wisdom: Finding your first users before the product exists, debriefing your own interviews, what to optimize for in the early years of your career, and more",
-    "url": "https://www.lennysnewsletter.com/p/community-wisdom-finding-your-first",
-    "summary": "Community Wisdom 299",
+    "title": "90 minutes of unfiltered product advice from Snap and Discord’s product chief | Peter Sellis",
+    "url": "https://www.lennysnewsletter.com/p/90-minutes-of-unfiltered-product",
+    "summary": "Peter Sellis on designing teams like terrorist organizations, riding your best people hard, and the three oxymorons of a truly great PM",
     "tags": [
       "product",
       "growth",
@@ -39,7 +24,7 @@
     ],
     "author": "Lenny's Newsletter",
     "source": "lennysnewsletter.com",
-    "date": "2026-09-20",
+    "date": "2026-09-21",
     "score": 61
   }
 ]
