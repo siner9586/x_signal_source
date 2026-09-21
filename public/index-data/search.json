@@ -1,8 +1,167 @@
 [
   {
-    "title": "Can Jev Be a Better Agent Evaluator?",
-    "url": "https://www.langchain.com/blog/jev-agent-evals-langsmith",
-    "summary": "We tested using Jev-as-a-Judge against LLM judges on accuracy, repeatability, latency, and cost to see whether System One models could offer a new approach to agent evaluation.",
+    "title": "How V7 gives AI agents institutional memory",
+    "url": "https://openai.com/index/v7",
+    "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-09-22",
+    "score": 72
+  },
+  {
+    "title": "How to Evaluate AI Agents From Tool Calls to Task Completion",
+    "url": "https://developer.nvidia.com/blog/how-to-evaluate-ai-agents-from-tool-calls-to-task-completion",
+    "summary": "NVIDIA Technical Blog · How to Evaluate AI Agents From Tool Calls to Task Completion",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-09-22",
+    "score": 71
+  },
+  {
+    "title": "Grok 4.7 now available and 40% off on AI Gateway, fx, and eve",
+    "url": "https://vercel.com/changelog/grok-4-7-now-available-and-40-off-on-ai-gateway-fx-eve",
+    "summary": "Grok 4.7 from SpaceXAI is now available on AI Gateway and 40% off through September 27. The discount applies automatically when you call spacexai/grok-4.7 . Grok 4.7 has a 500K token context window and supports low, medium, high, and xhigh reasoning levels, giving you control over the tradeoff between latency and depth. Use spacexai/grok-4.7 everywhere you call the model. The same ID works with the AI SDK , the OpenAI-compatible Chat Completions API , and coding agents connec",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-09-22",
+    "score": 71
+  },
+  {
+    "title": "Advisory Group on Mathematics and Artificial Intelligence",
+    "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+    "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-09-22",
+    "score": 67
+  },
+  {
+    "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+    "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+    "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-09-22",
+    "score": 67
+  },
+  {
+    "title": "Building standards for the next phase of AI",
+    "url": "https://openai.com/index/building-standards-next-phase-ai",
+    "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-09-22",
+    "score": 67
+  },
+  {
+    "title": "Expanding OpenAI Academy with new learning paths",
+    "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+    "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-09-22",
+    "score": 67
+  },
+  {
+    "title": "Simplifying Model Serving Across Multiple GPUs with NVIDIA TensorRT Multi-Device Integration in NVIDIA Dynamo-Triton",
+    "url": "https://developer.nvidia.com/blog/simplifying-model-serving-across-multiple-gpus-with-nvidia-tensorrt-multi-device-integration-in-nvidia-dynamo-triton",
+    "summary": "NVIDIA Technical Blog · Simplifying Model Serving Across Multiple GPUs with NVIDIA TensorRT Multi-Device Integration in NVIDIA Dynamo-Triton",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-09-22",
+    "score": 66
+  },
+  {
+    "title": "Turn Your Latest Observations Into Timely Weather Decisions With NVIDIA Earth-2",
+    "url": "https://developer.nvidia.com/blog/turn-your-latest-observations-into-timely-weather-decisions-with-nvidia-earth-2",
+    "summary": "NVIDIA Technical Blog · Turn Your Latest Observations Into Timely Weather Decisions With NVIDIA Earth-2",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-09-22",
+    "score": 66
+  },
+  {
+    "title": "Vercel Connect now supports Microsoft Teams",
+    "url": "https://vercel.com/changelog/vercel-connect-microsoft-teams",
+    "summary": "Vercel Connect now includes a managed connector for Microsoft Teams . Creating one gives your organization a Teams bot that your apps and agents run. People can @mention it in channels or message it directly, and your code receives the message and replies as the bot. As a Vercel Managed Connector , Vercel registers the Entra app and Azure Bot resource in your tenant, so there's no client secret to store. A tenant administrator with an Azure subscription completes setup once. ",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-09-22",
+    "score": 66
+  },
+  {
+    "title": "AI Gateway now supports TypeSafe clients and an HTTP API for Jev",
+    "url": "https://vercel.com/changelog/ai-gateway-now-supports-typesafe-clients-and-http-api-for-jev",
+    "summary": "You can now call Jev from TypeSafe AI through AI Gateway using an existing TypeSafe client or the HTTP API, in addition to the AI SDK. TypeSafe client: Point an existing TypeSafe client at AI Gateway without changing its evaluation calls. HTTP API: Call Jev directly from any language or framework. AI SDK: Call Jev from a TypeScript application using AI SDK. Jev is a probabilistic decision model for software. State goes in, and typed answers come out with probabilities attache",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-09-22",
+    "score": 66
+  },
+  {
+    "title": "Jev is now available in LangSmith Evals",
+    "url": "https://www.langchain.com/blog/jev-is-now-available-in-langsmith-evals",
+    "summary": "Use Jev as a judge for LangSmith evals to evaluate agent traces with faster, cheaper structured feedback across production runs, datasets, and regression tests.",
     "tags": [
       "agents",
       "rag",
@@ -10,13 +169,13 @@
     ],
     "author": "LangChain",
     "source": "langchain.com",
-    "date": "2026-09-21",
-    "score": 65
+    "date": "2026-09-22",
+    "score": 66
   },
   {
-    "title": "90 minutes of unfiltered product advice from Snap and Discord’s product chief | Peter Sellis",
-    "url": "https://www.lennysnewsletter.com/p/90-minutes-of-unfiltered-product",
-    "summary": "Peter Sellis on designing teams like terrorist organizations, riding your best people hard, and the three oxymorons of a truly great PM",
+    "title": "How Warp ships 2,000 PRs a month with AI factories | Zach Lloyd (CEO, Warp)",
+    "url": "https://www.lennysnewsletter.com/p/how-warp-ships-2000-prs-a-month-with",
+    "summary": "Watch now (47 mins) | &#127897;&#65039; Warp CEO Zach Lloyd shows how his team turns requests from Slack, Linear, and GitHub into tracked, tested pull requests, then measures and improves its cloud-based AI software factory over time",
     "tags": [
       "product",
       "growth",
@@ -24,7 +183,132 @@
     ],
     "author": "Lenny's Newsletter",
     "source": "lennysnewsletter.com",
-    "date": "2026-09-21",
+    "date": "2026-09-22",
+    "score": 64
+  },
+  {
+    "title": "Deployments now show billable duration and CPU minutes",
+    "url": "https://vercel.com/changelog/deployments-now-show-billable-duration-and-cpu-minutes",
+    "summary": "Deployments now show their billable duration and CPU minutes in the dashboard, vc inspect , and the REST API . Use it to understand how each build contributes to your usage. Billable duration is the build and post-build time combined, rounded up to the next whole minute. CPU minutes are that figure multiplied by the machine's vCPUs. To see the same breakdown from the CLI, update to version 59.23.1 or later with npm i -g vercel@latest , then run vc inspect : Learn more about b",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-09-22",
+    "score": 63
+  },
+  {
+    "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+    "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+    "summary": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-09-22",
+    "score": 62
+  },
+  {
+    "title": "tokenizers v1: encode, decode and scaling, measured",
+    "url": "https://huggingface.co/blog/tokenizers-v1",
+    "summary": "tokenizers v1: encode, decode and scaling, measured 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-09-22",
+    "score": 62
+  },
+  {
+    "title": "🎙️ How I AI: Meta’s Muse review + How Warp ships 2,000 PRs a month with AI factories",
+    "url": "https://www.lennysnewsletter.com/p/how-i-ai-metas-muse-review-how-warp",
+    "summary": "Your weekly listens from How I AI, part of the Lenny&#8217;s Podcast Network",
+    "tags": [
+      "product",
+      "growth",
+      "startup"
+    ],
+    "author": "Lenny's Newsletter",
+    "source": "lennysnewsletter.com",
+    "date": "2026-09-22",
+    "score": 62
+  },
+  {
+    "title": "New Meet Grok 4.7 · Our new model",
+    "url": "https://x.ai/news/grok-4-7",
+    "summary": "SpaceXAI · New Meet Grok 4.7 · Our new model",
+    "tags": [
+      "ai_models",
+      "reasoning"
+    ],
+    "author": "xAI",
+    "source": "x.ai",
+    "date": "2026-09-22",
     "score": 61
+  },
+  {
+    "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
+    "url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology",
+    "summary": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and apprehend them? This story is part of&#160;Dying on Camera, a collaboration between&#160;MIT Technology Review&#160;and&#160;Times of San Diego. Journalists in both newsrooms spent the past&#8230;",
+    "tags": [
+      "ai",
+      "research",
+      "society"
+    ],
+    "author": "MIT Technology Review AI",
+    "source": "technologyreview.com",
+    "date": "2026-09-22",
+    "score": 61
+  },
+  {
+    "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
+    "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations",
+    "summary": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border. We found cases of people who walked undetected through areas surveilled by advanced, AI-enabled towers and later died nearby, where their bodies remained unnoticed for&#8230;",
+    "tags": [
+      "ai",
+      "research",
+      "society"
+    ],
+    "author": "MIT Technology Review AI",
+    "source": "technologyreview.com",
+    "date": "2026-09-22",
+    "score": 61
+  },
+  {
+    "title": "Fri, 18 Sep 2026",
+    "url": "https://arxiv.org/list/cs.AI/recent?skip=125&amp%3Bshow=50",
+    "summary": "Artificial Intelligence · Fri, 18 Sep 2026",
+    "tags": [
+      "paper",
+      "ai",
+      "arxiv"
+    ],
+    "author": "arXiv CS AI",
+    "source": "arxiv.org",
+    "date": "2026-09-22",
+    "score": 60
+  },
+  {
+    "title": "Frontier Overhangs",
+    "url": "https://stratechery.com/2026/frontier-overhangs",
+    "summary": "Pacing the frontier may be sincere, but it would also be strategically useful for the frontier labs to have time to reduce overhangs caused by model advancement.",
+    "tags": [
+      "strategy",
+      "tech",
+      "business"
+    ],
+    "author": "Stratechery",
+    "source": "stratechery.com",
+    "date": "2026-09-22",
+    "score": 56
   }
 ]

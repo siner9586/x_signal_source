@@ -21036,5 +21036,225 @@
     "cluster_id": "lennysnewsletter_com_4d449320",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_eaa79258a56b0153",
+    "canonical_url": "https://openai.com/index/v7",
+    "dedupe_key": "69c2d9917c35fa8c",
+    "title": "How V7 gives AI agents institutional memory",
+    "issue_date": "2026-09-22",
+    "cluster_id": "openai_com_98244cb3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_619e8405f5732a7d",
+    "canonical_url": "https://developer.nvidia.com/blog/how-to-evaluate-ai-agents-from-tool-calls-to-task-completion",
+    "dedupe_key": "6396adac5811738e",
+    "title": "How to Evaluate AI Agents From Tool Calls to Task Completion",
+    "issue_date": "2026-09-22",
+    "cluster_id": "developer_nvidia_com_bf421aba",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b526f817b74335cd",
+    "canonical_url": "https://vercel.com/changelog/grok-4-7-now-available-and-40-off-on-ai-gateway-fx-eve",
+    "dedupe_key": "411a784ab49589ca",
+    "title": "Grok 4.7 now available and 40% off on AI Gateway, fx, and eve",
+    "issue_date": "2026-09-22",
+    "cluster_id": "vercel_com_afa8a531",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_fd5711fdeb79cdd2",
+    "canonical_url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+    "dedupe_key": "6ea43577efa78b96",
+    "title": "Advisory Group on Mathematics and Artificial Intelligence",
+    "issue_date": "2026-09-22",
+    "cluster_id": "openai_com_fccfc443",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a71a9fb3e2cf5d74",
+    "canonical_url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+    "dedupe_key": "47df10b9fbc1e1c0",
+    "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+    "issue_date": "2026-09-22",
+    "cluster_id": "openai_com_9fd77487",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a059f6092f81321d",
+    "canonical_url": "https://openai.com/index/building-standards-next-phase-ai",
+    "dedupe_key": "2b73335cb806c6ff",
+    "title": "Building standards for the next phase of AI",
+    "issue_date": "2026-09-22",
+    "cluster_id": "openai_com_741c9ece",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_af421c4ddba95d29",
+    "canonical_url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+    "dedupe_key": "61f3ca9af4e6dad0",
+    "title": "Expanding OpenAI Academy with new learning paths",
+    "issue_date": "2026-09-22",
+    "cluster_id": "openai_com_32fbb96e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_580633e8327743c5",
+    "canonical_url": "https://developer.nvidia.com/blog/simplifying-model-serving-across-multiple-gpus-with-nvidia-tensorrt-multi-device-integration-in-nvidia-dynamo-triton",
+    "dedupe_key": "e42cc8ba7f60d586",
+    "title": "Simplifying Model Serving Across Multiple GPUs with NVIDIA TensorRT Multi-Device Integration in NVIDIA Dynamo-Triton",
+    "issue_date": "2026-09-22",
+    "cluster_id": "developer_nvidia_com_4fe5adaa",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d8684067dee6d37a",
+    "canonical_url": "https://developer.nvidia.com/blog/turn-your-latest-observations-into-timely-weather-decisions-with-nvidia-earth-2",
+    "dedupe_key": "d09408ec30179e11",
+    "title": "Turn Your Latest Observations Into Timely Weather Decisions With NVIDIA Earth-2",
+    "issue_date": "2026-09-22",
+    "cluster_id": "developer_nvidia_com_67cdf237",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_25065f1bb8e6521b",
+    "canonical_url": "https://vercel.com/changelog/vercel-connect-microsoft-teams",
+    "dedupe_key": "df243ee7166fd28b",
+    "title": "Vercel Connect now supports Microsoft Teams",
+    "issue_date": "2026-09-22",
+    "cluster_id": "vercel_com_ef10c6d3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2aa8c8630e1c79c5",
+    "canonical_url": "https://vercel.com/changelog/ai-gateway-now-supports-typesafe-clients-and-http-api-for-jev",
+    "dedupe_key": "0e7ea605fe566f49",
+    "title": "AI Gateway now supports TypeSafe clients and an HTTP API for Jev",
+    "issue_date": "2026-09-22",
+    "cluster_id": "vercel_com_24ac8029",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2ba60867af3bf377",
+    "canonical_url": "https://www.langchain.com/blog/jev-is-now-available-in-langsmith-evals",
+    "dedupe_key": "3ccafec8e21c2f92",
+    "title": "Jev is now available in LangSmith Evals",
+    "issue_date": "2026-09-22",
+    "cluster_id": "langchain_com_c4c2adfe",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_83328012b63d3d49",
+    "canonical_url": "https://www.lennysnewsletter.com/p/how-warp-ships-2000-prs-a-month-with",
+    "dedupe_key": "18cdaa6b21d7686e",
+    "title": "How Warp ships 2,000 PRs a month with AI factories | Zach Lloyd (CEO, Warp)",
+    "issue_date": "2026-09-22",
+    "cluster_id": "lennysnewsletter_com_b61de142",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a0cd78efda5f0d1d",
+    "canonical_url": "https://vercel.com/changelog/deployments-now-show-billable-duration-and-cpu-minutes",
+    "dedupe_key": "280994fd9acf3b14",
+    "title": "Deployments now show billable duration and CPU minutes",
+    "issue_date": "2026-09-22",
+    "cluster_id": "vercel_com_49c70ebf",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e066330466cbbd3e",
+    "canonical_url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+    "dedupe_key": "88532dd5ee495168",
+    "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+    "issue_date": "2026-09-22",
+    "cluster_id": "huggingface_co_e18f0ca1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f53876780ea2cb8c",
+    "canonical_url": "https://huggingface.co/blog/tokenizers-v1",
+    "dedupe_key": "bfb383dde6d22c5c",
+    "title": "tokenizers v1: encode, decode and scaling, measured",
+    "issue_date": "2026-09-22",
+    "cluster_id": "huggingface_co_369c7c56",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a06953543a0174b4",
+    "canonical_url": "https://www.lennysnewsletter.com/p/how-i-ai-metas-muse-review-how-warp",
+    "dedupe_key": "6e69705b1192a774",
+    "title": "🎙️ How I AI: Meta’s Muse review + How Warp ships 2,000 PRs a month with AI factories",
+    "issue_date": "2026-09-22",
+    "cluster_id": "lennysnewsletter_com_782ac9fd",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4c6ffb462d52cc09",
+    "canonical_url": "https://x.ai/news/grok-4-7",
+    "dedupe_key": "582ae987f15510c4",
+    "title": "New Meet Grok 4.7 · Our new model",
+    "issue_date": "2026-09-22",
+    "cluster_id": "x_ai_f97fe3d7",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_66a85c515012ee30",
+    "canonical_url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology",
+    "dedupe_key": "6b0d5f5dd8fbe8c3",
+    "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
+    "issue_date": "2026-09-22",
+    "cluster_id": "technologyreview_com_5f143dc0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_35d8b217e4f9ba45",
+    "canonical_url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations",
+    "dedupe_key": "94c32dcabc5ebddf",
+    "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
+    "issue_date": "2026-09-22",
+    "cluster_id": "technologyreview_com_b65115a8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_23c7d34fa88162ad",
+    "canonical_url": "https://arxiv.org/list/cs.AI/recent?skip=125&amp%3Bshow=50",
+    "dedupe_key": "b0282490beea2421",
+    "title": "Fri, 18 Sep 2026",
+    "issue_date": "2026-09-22",
+    "cluster_id": "arxiv_org_4a4429a1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_06c02ff12bee54a1",
+    "canonical_url": "https://stratechery.com/2026/frontier-overhangs",
+    "dedupe_key": "cd940d20424ee1a2",
+    "title": "Frontier Overhangs",
+    "issue_date": "2026-09-22",
+    "cluster_id": "stratechery_com_5c1f59ac",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
