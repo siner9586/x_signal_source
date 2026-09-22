@@ -21256,5 +21256,235 @@
     "cluster_id": "stratechery_com_5c1f59ac",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f7157e498e976aed",
+    "canonical_url": "https://developer.nvidia.com/blog/accelerating-a-ros-2-node-with-an-ai-agent-and-nvidia-isaac-ros",
+    "dedupe_key": "49595c3c96a639fe",
+    "title": "Accelerating a ROS 2 Node with an AI Agent and NVIDIA Isaac ROS",
+    "issue_date": "2026-09-23",
+    "cluster_id": "developer_nvidia_com_28c61650",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_82c8131ba29cd294",
+    "canonical_url": "https://vercel.com/changelog/mimo-v2-6-models-now-available-on-ai-gateway",
+    "dedupe_key": "cf511c95012af688",
+    "title": "MiMo V2.6 models now available on AI Gateway",
+    "issue_date": "2026-09-23",
+    "cluster_id": "vercel_com_1a32bacd",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6edee0dfbc6eac34",
+    "canonical_url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+    "dedupe_key": "5f43967de6276540",
+    "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+    "issue_date": "2026-09-23",
+    "cluster_id": "openai_com_3a4df97f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_12d7a0e18320cb73",
+    "canonical_url": "https://vercel.com/changelog/gpt-6-sol-and-luna-now-available-on-ai-gateway",
+    "dedupe_key": "8750e1c1e9d80a8f",
+    "title": "GPT-6 Sol and Luna now available on AI Gateway",
+    "issue_date": "2026-09-23",
+    "cluster_id": "vercel_com_8f71f468",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b6a2e0e6e4d3ed4b",
+    "canonical_url": "https://vercel.com/changelog/claude-opus-5-5-now-available-on-ai-gateway",
+    "dedupe_key": "2d73e05f5255e24f",
+    "title": "Claude Opus 5.5 now available on AI Gateway",
+    "issue_date": "2026-09-23",
+    "cluster_id": "vercel_com_5fc0d51a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c14af5d708cf304a",
+    "canonical_url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+    "dedupe_key": "b0da4984259e5c26",
+    "title": "Better prompt caching for GPT-6",
+    "issue_date": "2026-09-23",
+    "cluster_id": "openai_com_ca8e495d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_fc6048d6a8331953",
+    "canonical_url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+    "dedupe_key": "e1939d95292623e1",
+    "title": "Introducing GPT-6 Sol and Luna",
+    "issue_date": "2026-09-23",
+    "cluster_id": "openai_com_a3e1459a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_afb92b78a88940ae",
+    "canonical_url": "https://openai.com/index/priorities-principles-third-party-assessments",
+    "dedupe_key": "57de980a837a817a",
+    "title": "Priorities and principles for effective third party assessments",
+    "issue_date": "2026-09-23",
+    "cluster_id": "openai_com_12d93260",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b4f4a941f53568a8",
+    "canonical_url": "https://developer.nvidia.com/blog/enabling-private-high-performance-production-ai-inference-with-nvidia-confidential-computing",
+    "dedupe_key": "8f4b1fc4215d5d78",
+    "title": "Enabling Private High-Performance Production AI Inference with NVIDIA Confidential Computing",
+    "issue_date": "2026-09-23",
+    "cluster_id": "developer_nvidia_com_b0916c3e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6abebf507d9c5b56",
+    "canonical_url": "https://www.lennysnewsletter.com/p/opus-55-vs-gpt-6-sol-which-model",
+    "dedupe_key": "25e1c59af2330168",
+    "title": "Opus 5.5 vs. GPT-6 Sol: which model won my blind taste test?",
+    "issue_date": "2026-09-23",
+    "cluster_id": "lennysnewsletter_com_c8f727c7",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_80fbe836df5443f4",
+    "canonical_url": "https://developer.nvidia.com/blog/topology-aware-workload-scheduling-with-nvidia-topograph",
+    "dedupe_key": "087a72fe8d5ca4fc",
+    "title": "Topology-Aware Workload Scheduling with NVIDIA Topograph",
+    "issue_date": "2026-09-23",
+    "cluster_id": "developer_nvidia_com_cff6e418",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_263a3c604167d53e",
+    "canonical_url": "https://developer.nvidia.com/blog/whats-new-for-game-developers-dlss-5-with-3d-guided-neural-rendering-nvidia-ace-updates-and-new-rtx-kit-capabilities",
+    "dedupe_key": "2785df6d7160114d",
+    "title": "What&#039;s New for Game Developers: DLSS 5 with 3D-Guided Neural Rendering, NVIDIA ACE Updates, and New RTX Kit Capabilities",
+    "issue_date": "2026-09-23",
+    "cluster_id": "developer_nvidia_com_3db31f3f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f905fe1344d5ccee",
+    "canonical_url": "https://vercel.com/changelog/drives-for-vercel-sandbox-are-now-in-public-beta",
+    "dedupe_key": "13cf7bdf3d1f8ee6",
+    "title": "Drives for Vercel Sandbox are now in public beta",
+    "issue_date": "2026-09-23",
+    "cluster_id": "vercel_com_b52253db",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0ed801241b605bfc",
+    "canonical_url": "https://huggingface.co/blog/omlx",
+    "dedupe_key": "99414dc42470fa5e",
+    "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+    "issue_date": "2026-09-23",
+    "cluster_id": "huggingface_co_d4d60365",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_616917a662b90e2b",
+    "canonical_url": "https://www.langchain.com/blog/reliability-healthcare-ai-langsmith-use-cases",
+    "dedupe_key": "e89b9a0fd5b96dc8",
+    "title": "The Reliability Layer for Healthcare AI: Common LangSmith Use Cases",
+    "issue_date": "2026-09-23",
+    "cluster_id": "langchain_com_ad664179",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0742617d33037c8f",
+    "canonical_url": "https://huggingface.co/blog/ginigen-ai/openrouter-leaderboard",
+    "dedupe_key": "bc1fb957098d572b",
+    "title": "OpenRouter Leaderboard: 425 Models by Price, Measured Speed and Korean Quality ginigen-ai • 7 days ago • 12",
+    "issue_date": "2026-09-23",
+    "cluster_id": "huggingface_co_70d2fdc7",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b6ea27b1ef839dfc",
+    "canonical_url": "https://huggingface.co/blog/evaleval-aisi",
+    "dedupe_key": "a4a605789fb50164",
+    "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+    "issue_date": "2026-09-23",
+    "cluster_id": "huggingface_co_9e7f03ff",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d2391ab7f7984c8e",
+    "canonical_url": "https://www.lennysnewsletter.com/p/i-left-claude-for-months-opus-55",
+    "dedupe_key": "d0d7a4180811e338",
+    "title": "I left Claude for months. Opus 5.5 is why I'm back",
+    "issue_date": "2026-09-23",
+    "cluster_id": "lennysnewsletter_com_ce9e7329",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8cbd750f2967d300",
+    "canonical_url": "https://www.anthropic.com/claude-opus-5-5",
+    "dedupe_key": "2ea6182f07aef20c",
+    "title": "Introducing Claude Opus 5.5 Announcements Sep 22, 2026 Opus 5.5 performs at the level of Claude Fable 5.1 on most work and costs 40% less to run than Opus 5.",
+    "issue_date": "2026-09-23",
+    "cluster_id": "anthropic_com_752bf0f4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0dd3049227592d8d",
+    "canonical_url": "https://x.ai/news/grok-bot-customer-support",
+    "dedupe_key": "b27ab45c943a7d98",
+    "title": "Product · Sep 22, 2026 How SpaceXAI is using Grok Bot to scale customer support",
+    "issue_date": "2026-09-23",
+    "cluster_id": "x_ai_6559b49f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6786ef0ba9617c43",
+    "canonical_url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+    "dedupe_key": "aeff561fa39f4fd3",
+    "title": "Transformers now runs llama.cpp quants",
+    "issue_date": "2026-09-23",
+    "cluster_id": "huggingface_co_9d0cd7c3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a9921d9729e7afc3",
+    "canonical_url": "https://www.lennysnewsletter.com/p/advanced-evals-how-to-find-and-fix",
+    "dedupe_key": "e8e21498e32df697",
+    "title": "Advanced evals: How to find (and fix) hidden AI failures in your product",
+    "issue_date": "2026-09-23",
+    "cluster_id": "lennysnewsletter_com_6ffd8ff4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_80f3e3f920b6cf8f",
+    "canonical_url": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall",
+    "dedupe_key": "a929a85f9b1e1079",
+    "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+    "issue_date": "2026-09-23",
+    "cluster_id": "technologyreview_com_f723cf63",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
