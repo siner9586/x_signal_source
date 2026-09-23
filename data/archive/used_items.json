@@ -21486,5 +21486,235 @@
     "cluster_id": "technologyreview_com_f723cf63",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c3d69a8c3a502c55",
+    "canonical_url": "https://openai.com/index/ringg",
+    "dedupe_key": "05d11c547f5bb6b2",
+    "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+    "issue_date": "2026-09-24",
+    "cluster_id": "openai_com_55d842d8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8e6e6d7ba839e608",
+    "canonical_url": "https://github.blog/news-insights/research/developers-want-more-efficient-software-heres-what-over-1000-github-users-told-us-they-need",
+    "dedupe_key": "ce568c446907f2df",
+    "title": "Developers want more efficient software. Here’s what over 1000 GitHub users told us they need.",
+    "issue_date": "2026-09-24",
+    "cluster_id": "github_blog_ae9a93ea",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4bbd66722d500b34",
+    "canonical_url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+    "dedupe_key": "e62a0b746c70f2a1",
+    "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+    "issue_date": "2026-09-24",
+    "cluster_id": "openai_com_3e03ea83",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b056072baab7a636",
+    "canonical_url": "https://openai.com/index/introducing-mentalhealthbench",
+    "dedupe_key": "40f55009c9142a31",
+    "title": "Introducing MentalHealthBench",
+    "issue_date": "2026-09-24",
+    "cluster_id": "openai_com_964ca6be",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d1a8decd095cd12b",
+    "canonical_url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory",
+    "dedupe_key": "8bfbea9695e0eb7b",
+    "title": "Advancing Private AI Compute with secure, server-side memory",
+    "issue_date": "2026-09-24",
+    "cluster_id": "deepmind_google_7f74572d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1e04a01f400df839",
+    "canonical_url": "https://developer.nvidia.com/blog/introducing-nv-reason-ct-open-3d-ct-vlm-for-radiologist-chain-of-thought-reasoning",
+    "dedupe_key": "04076bb077e32752",
+    "title": "Introducing NV-Reason-CT Open 3D CT VLM for Radiologist Chain-of-Thought Reasoning",
+    "issue_date": "2026-09-24",
+    "cluster_id": "developer_nvidia_com_a365afbd",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_634e2b36a3cec6e4",
+    "canonical_url": "https://openai.com/index/two-years-of-openai-academy",
+    "dedupe_key": "a25dff1dfeaba687",
+    "title": "Two years of OpenAI Academy",
+    "issue_date": "2026-09-24",
+    "cluster_id": "openai_com_74e3855c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_36f6ad482f0aa367",
+    "canonical_url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+    "dedupe_key": "05a9a0a2d73bc4ca",
+    "title": "Sam Altman’s remarks at the United Nations Security Council",
+    "issue_date": "2026-09-24",
+    "cluster_id": "openai_com_9f3806d6",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a4455dee1350e981",
+    "canonical_url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+    "dedupe_key": "d259d304a3901d34",
+    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+    "issue_date": "2026-09-24",
+    "cluster_id": "openai_com_e0431d6a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ac1707c0f1667b5c",
+    "canonical_url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+    "dedupe_key": "7720612ff0cb507d",
+    "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+    "issue_date": "2026-09-24",
+    "cluster_id": "openai_com_43d12c7d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f6a610e3f65c9d0a",
+    "canonical_url": "https://openai.com/index/airbnb-gpt-6-astra",
+    "dedupe_key": "e465fec19b756310",
+    "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
+    "issue_date": "2026-09-24",
+    "cluster_id": "openai_com_7df91a3a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_63c5a363472a6916",
+    "canonical_url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+    "dedupe_key": "6798d298499891cc",
+    "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+    "issue_date": "2026-09-24",
+    "cluster_id": "openai_com_ed8865db",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0a34ae27bca1403d",
+    "canonical_url": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app",
+    "dedupe_key": "e8c867f5d20daffa",
+    "title": "Rendering huge pull requests in the GitHub Copilot app",
+    "issue_date": "2026-09-24",
+    "cluster_id": "github_blog_9a69bb37",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4ec27e5a57205926",
+    "canonical_url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
+    "dedupe_key": "42e4ccbc411940b6",
+    "title": "Gemini 3.8 text-to-speech says hello",
+    "issue_date": "2026-09-24",
+    "cluster_id": "deepmind_google_309bfaf1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e6996333f8ce383d",
+    "canonical_url": "https://developer.nvidia.com/blog/validate-gpu-cluster-readiness-before-ai-workloads-land",
+    "dedupe_key": "051db81af892f7d0",
+    "title": "Validate GPU Cluster Readiness Before AI Workloads Land",
+    "issue_date": "2026-09-24",
+    "cluster_id": "developer_nvidia_com_17d8ec14",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b16b36b9e2493cef",
+    "canonical_url": "https://developer.nvidia.com/blog/manage-kubernetes-node-fleets-with-nodewright",
+    "dedupe_key": "af8ae5de99e117f4",
+    "title": "Manage Kubernetes Node Fleets with NodeWright",
+    "issue_date": "2026-09-24",
+    "cluster_id": "developer_nvidia_com_c5c17a5e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_629ef7b78f9c740e",
+    "canonical_url": "https://developer.nvidia.com/blog/how-swe-serve-exposes-the-gap-between-local-tests-and-live-serving",
+    "dedupe_key": "900aa4b6a492aa9f",
+    "title": "How SWE-Serve Exposes the Gap Between Local Tests and Live Serving",
+    "issue_date": "2026-09-24",
+    "cluster_id": "developer_nvidia_com_2fa16387",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1dadb68f9cf7e894",
+    "canonical_url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
+    "dedupe_key": "2bc7566975198a18",
+    "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization** nvidia • about 10 hours ago • 30",
+    "issue_date": "2026-09-24",
+    "cluster_id": "huggingface_co_1ed27b62",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_36562c1d27d39fec",
+    "canonical_url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating",
+    "dedupe_key": "1780b4d0894a4a33",
+    "title": "The AI Hype Index: AI loves cheating",
+    "issue_date": "2026-09-24",
+    "cluster_id": "technologyreview_com_f1bf475e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_77146c25f71f2e40",
+    "canonical_url": "https://vercel.com/changelog/unlimited-vercel-blob-stores-on-every-plan",
+    "dedupe_key": "6731b02df692f09b",
+    "title": "Unlimited Vercel Blob stores on every plan",
+    "issue_date": "2026-09-24",
+    "cluster_id": "vercel_com_fa82855b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_37433308d4af0a98",
+    "canonical_url": "https://www.anthropic.com/features/ebola-response",
+    "dedupe_key": "e369568cc0b21a0b",
+    "title": "Features Sep 22, 2026 The Situation Report A rare strain of Ebola, with no confirmed vaccine, is spreading through the east of the Democratic Republic of Congo. World health organizations are using Claude to move as fast as possible to combat it.",
+    "issue_date": "2026-09-24",
+    "cluster_id": "anthropic_com_ae8f0c04",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_50f19617ff42d79f",
+    "canonical_url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+    "dedupe_key": "e124a1cb6db56763",
+    "title": "Sep 23, 2026 Science Claude discovers a novel enzyme system with CRISPR-like repeats",
+    "issue_date": "2026-09-24",
+    "cluster_id": "anthropic_com_25e7f805",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e6741ec843b57135",
+    "canonical_url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+    "dedupe_key": "d6297d996ef09ffe",
+    "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+    "issue_date": "2026-09-24",
+    "cluster_id": "huggingface_co_0dcd46ab",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]

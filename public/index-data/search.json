@@ -1,36 +1,8 @@
 [
   {
-    "title": "Accelerating a ROS 2 Node with an AI Agent and NVIDIA Isaac ROS",
-    "url": "https://developer.nvidia.com/blog/accelerating-a-ros-2-node-with-an-ai-agent-and-nvidia-isaac-ros",
-    "summary": "NVIDIA Technical Blog · Accelerating a ROS 2 Node with an AI Agent and NVIDIA Isaac ROS",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-09-23",
-    "score": 71
-  },
-  {
-    "title": "MiMo V2.6 models now available on AI Gateway",
-    "url": "https://vercel.com/changelog/mimo-v2-6-models-now-available-on-ai-gateway",
-    "summary": "MiMo V2.6 Pro , MiMo V2.6 Flash , and MiMo V2.6 Pro UltraSpeed from Xiaomi are now available on AI Gateway . MiMo V2.6 combines coding, reasoning, and tool use with native text, image, audio, and video understanding. Its 1M token context supports long repositories, tool traces, and multi-session agent work, with structured outputs and up to 128K output tokens. Choose a model based on the workload: xiaomi/mimo-v2.6-pro is the larger sparse mixture-of-experts checkpoint, with 1",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-09-23",
-    "score": 71
-  },
-  {
-    "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
-    "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
-    "summary": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
+    "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+    "url": "https://openai.com/index/ringg",
+    "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
     "tags": [
       "ai_models",
       "official",
@@ -39,253 +11,245 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-09-23",
+    "date": "2026-09-24",
+    "score": 72
+  },
+  {
+    "title": "Developers want more efficient software. Here’s what over 1000 GitHub users told us they need.",
+    "url": "https://github.blog/news-insights/research/developers-want-more-efficient-software-heres-what-over-1000-github-users-told-us-they-need",
+    "summary": "New research from GitHub and Yale Program on Climate Change Communication finds strong demand for tools, measurement, and practical guidance that can help developers reduce wasted compute. The post Developers want more efficient software. Here’s what over 1000 GitHub users told us they need. appeared first on The GitHub Blog .",
+    "tags": [
+      "ai_coding",
+      "developer_tools"
+    ],
+    "author": "GitHub Copilot",
+    "source": "github.blog",
+    "date": "2026-09-24",
+    "score": 71
+  },
+  {
+    "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+    "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+    "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-09-24",
     "score": 70
   },
   {
-    "title": "GPT-6 Sol and Luna now available on AI Gateway",
-    "url": "https://vercel.com/changelog/gpt-6-sol-and-luna-now-available-on-ai-gateway",
-    "summary": "GPT-6 Sol and GPT-6 Luna from OpenAI are now available on AI Gateway . Both models bring GPT-6 improvements in professional work, coding, computer use, factuality, and communication at a lower price than GPT-6 Astra . GPT-6 Sol ( openai/gpt-6-sol ) is suited to complex professional workflows and sustained coding tasks where quality and room to iterate both matter. GPT-6 Luna ( openai/gpt-6-luna ) is the lower-cost option for high-volume agentic workflows, coding, and everyday",
+    "title": "Introducing MentalHealthBench",
+    "url": "https://openai.com/index/introducing-mentalhealthbench",
+    "summary": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
     "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
+      "ai_models",
+      "official",
+      "research",
+      "developer"
     ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-09-23",
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-09-24",
     "score": 69
   },
   {
-    "title": "Claude Opus 5.5 now available on AI Gateway",
-    "url": "https://vercel.com/changelog/claude-opus-5-5-now-available-on-ai-gateway",
-    "summary": "Claude Opus 5.5 from Anthropic is now available on AI Gateway . It is a step-change improvement over Opus 5 , with its biggest gains in agentic coding, long-running agent tasks, and knowledge work. Anthropic cites that Opus 5.5 performs at the level of Fable 5.1, but ~30% faster and ~40% cheaper than Opus 5 per task. Opus 5.5 is also a better collaborator over long runs. It reports back in plain language on what it did, what it found, and what it needs next, making it easier ",
+    "title": "Advancing Private AI Compute with secure, server-side memory",
+    "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory",
+    "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
     "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-09-23",
-    "score": 69
-  },
-  {
-    "title": "Better prompt caching for GPT-6",
-    "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-    "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
-    "tags": [
-      "ai_models",
-      "official",
       "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-09-23",
-    "score": 67
-  },
-  {
-    "title": "Introducing GPT-6 Sol and Luna",
-    "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-    "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-09-23",
-    "score": 67
-  },
-  {
-    "title": "Priorities and principles for effective third party assessments",
-    "url": "https://openai.com/index/priorities-principles-third-party-assessments",
-    "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-09-23",
-    "score": 67
-  },
-  {
-    "title": "Enabling Private High-Performance Production AI Inference with NVIDIA Confidential Computing",
-    "url": "https://developer.nvidia.com/blog/enabling-private-high-performance-production-ai-inference-with-nvidia-confidential-computing",
-    "summary": "NVIDIA Technical Blog · Enabling Private High-Performance Production AI Inference with NVIDIA Confidential Computing",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-09-23",
-    "score": 67
-  },
-  {
-    "title": "Opus 5.5 vs. GPT-6 Sol: which model won my blind taste test?",
-    "url": "https://www.lennysnewsletter.com/p/opus-55-vs-gpt-6-sol-which-model",
-    "summary": "Watch now (39 mins) | &#127897;&#65039; I ran blind evaluations across writing, frontend prototypes, long-running agentic tasks, SVGs, coding, and video editing, then put Opus 5.5 through Barbie Bench",
-    "tags": [
-      "product",
-      "growth",
-      "startup"
-    ],
-    "author": "Lenny's Newsletter",
-    "source": "lennysnewsletter.com",
-    "date": "2026-09-23",
-    "score": 67
-  },
-  {
-    "title": "Topology-Aware Workload Scheduling with NVIDIA Topograph",
-    "url": "https://developer.nvidia.com/blog/topology-aware-workload-scheduling-with-nvidia-topograph",
-    "summary": "NVIDIA Technical Blog · Topology-Aware Workload Scheduling with NVIDIA Topograph",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-09-23",
-    "score": 66
-  },
-  {
-    "title": "What&#039;s New for Game Developers: DLSS 5 with 3D-Guided Neural Rendering, NVIDIA ACE Updates, and New RTX Kit Capabilities",
-    "url": "https://developer.nvidia.com/blog/whats-new-for-game-developers-dlss-5-with-3d-guided-neural-rendering-nvidia-ace-updates-and-new-rtx-kit-capabilities",
-    "summary": "NVIDIA Technical Blog · What&#039;s New for Game Developers: DLSS 5 with 3D-Guided Neural Rendering, NVIDIA ACE Updates, and New RTX Kit Capabilities",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-09-23",
-    "score": 66
-  },
-  {
-    "title": "Drives for Vercel Sandbox are now in public beta",
-    "url": "https://vercel.com/changelog/drives-for-vercel-sandbox-are-now-in-public-beta",
-    "summary": "Drives for Vercel Sandbox are now available in public beta on Hobby, Pro, and Enterprise. A Drive is persistent storage that you mount as a directory in a Vercel Sandbox. It isn’t tied to a single sandbox, so you can reuse the same Drive across runs and different sandbox instances. Use Drives to preserve an agent's workspace or on-disk memory, or to reuse datasets, models, and dependency trees. Create and mount a Drive Create or retrieve a Drive and mount it at a path when st",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-09-23",
-    "score": 66
-  },
-  {
-    "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
-    "url": "https://huggingface.co/blog/omlx",
-    "summary": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-09-23",
-    "score": 66
-  },
-  {
-    "title": "The Reliability Layer for Healthcare AI: Common LangSmith Use Cases",
-    "url": "https://www.langchain.com/blog/reliability-healthcare-ai-langsmith-use-cases",
-    "summary": "See how LangSmith helps healthcare AI teams turn clinical review into reusable evaluators, datasets, and release gates for safer AI in production.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-09-23",
-    "score": 66
-  },
-  {
-    "title": "OpenRouter Leaderboard: 425 Models by Price, Measured Speed and Korean Quality ginigen-ai • 7 days ago • 12",
-    "url": "https://huggingface.co/blog/ginigen-ai/openrouter-leaderboard",
-    "summary": "Hugging Face – Blog · OpenRouter Leaderboard: 425 Models by Price, Measured Speed and Korean Quality ginigen-ai • 7 days ago • 12",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-09-23",
-    "score": 65
-  },
-  {
-    "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-    "url": "https://huggingface.co/blog/evaleval-aisi",
-    "summary": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-09-23",
-    "score": 65
-  },
-  {
-    "title": "I left Claude for months. Opus 5.5 is why I'm back",
-    "url": "https://www.lennysnewsletter.com/p/i-left-claude-for-months-opus-55",
-    "summary": "Watch now (25 mins) | &#127897;&#65039; I abandoned Claude for months because it drove me insane. Opus 5.5 changed that, and I'll show you exactly where it's earning a spot back in my stack for frontend, SVGs, and agentic tasks",
-    "tags": [
-      "product",
-      "growth",
-      "startup"
-    ],
-    "author": "Lenny's Newsletter",
-    "source": "lennysnewsletter.com",
-    "date": "2026-09-23",
-    "score": 64
-  },
-  {
-    "title": "Introducing Claude Opus 5.5 Announcements Sep 22, 2026 Opus 5.5 performs at the level of Claude Fable 5.1 on most work and costs 40% less to run than Opus 5.",
-    "url": "https://www.anthropic.com/claude-opus-5-5",
-    "summary": "Newsroom \\ Anthropic · Introducing Claude Opus 5.5 Announcements Sep 22, 2026 Opus 5.5 performs at the level of Claude Fable 5.1 on most work and costs 40% less to run than Opus 5.",
-    "tags": [
-      "ai_models",
-      "safety",
+      "multimodal",
+      "science",
       "official"
     ],
-    "author": "Anthropic",
-    "source": "anthropic.com",
-    "date": "2026-09-23",
-    "score": 62
+    "author": "Google DeepMind",
+    "source": "deepmind.google",
+    "date": "2026-09-24",
+    "score": 68
   },
   {
-    "title": "Product · Sep 22, 2026 How SpaceXAI is using Grok Bot to scale customer support",
-    "url": "https://x.ai/news/grok-bot-customer-support",
-    "summary": "SpaceXAI · Product · Sep 22, 2026 How SpaceXAI is using Grok Bot to scale customer support",
+    "title": "Introducing NV-Reason-CT Open 3D CT VLM for Radiologist Chain-of-Thought Reasoning",
+    "url": "https://developer.nvidia.com/blog/introducing-nv-reason-ct-open-3d-ct-vlm-for-radiologist-chain-of-thought-reasoning",
+    "summary": "NVIDIA Technical Blog · Introducing NV-Reason-CT Open 3D CT VLM for Radiologist Chain-of-Thought Reasoning",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-09-24",
+    "score": 68
+  },
+  {
+    "title": "Two years of OpenAI Academy",
+    "url": "https://openai.com/index/two-years-of-openai-academy",
+    "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
     "tags": [
       "ai_models",
-      "reasoning"
+      "official",
+      "research",
+      "developer"
     ],
-    "author": "xAI",
-    "source": "x.ai",
-    "date": "2026-09-23",
-    "score": 62
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-09-24",
+    "score": 67
   },
   {
-    "title": "Transformers now runs llama.cpp quants",
-    "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-    "summary": "Transformers now runs llama.cpp quants 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Sam Altman’s remarks at the United Nations Security Council",
+    "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+    "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-09-24",
+    "score": 67
+  },
+  {
+    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+    "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+    "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-09-24",
+    "score": 67
+  },
+  {
+    "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+    "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+    "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-09-24",
+    "score": 67
+  },
+  {
+    "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
+    "url": "https://openai.com/index/airbnb-gpt-6-astra",
+    "summary": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-09-24",
+    "score": 67
+  },
+  {
+    "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+    "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+    "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-09-24",
+    "score": 67
+  },
+  {
+    "title": "Rendering huge pull requests in the GitHub Copilot app",
+    "url": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app",
+    "summary": "How we rebuilt the diff surface in the GitHub Copilot app to open a million-line pull request with hundreds of inline review comments. The post Rendering huge pull requests in the GitHub Copilot app appeared first on The GitHub Blog .",
+    "tags": [
+      "ai_coding",
+      "developer_tools"
+    ],
+    "author": "GitHub Copilot",
+    "source": "github.blog",
+    "date": "2026-09-24",
+    "score": 67
+  },
+  {
+    "title": "Gemini 3.8 text-to-speech says hello",
+    "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
+    "summary": "Gemini 3.8 text-to-speech says hello 是 Google DeepMind 当日抓取到的公开新增条目。",
+    "tags": [
+      "research",
+      "multimodal",
+      "science",
+      "official"
+    ],
+    "author": "Google DeepMind",
+    "source": "deepmind.google",
+    "date": "2026-09-24",
+    "score": 66
+  },
+  {
+    "title": "Validate GPU Cluster Readiness Before AI Workloads Land",
+    "url": "https://developer.nvidia.com/blog/validate-gpu-cluster-readiness-before-ai-workloads-land",
+    "summary": "NVIDIA Technical Blog · Validate GPU Cluster Readiness Before AI Workloads Land",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-09-24",
+    "score": 66
+  },
+  {
+    "title": "Manage Kubernetes Node Fleets with NodeWright",
+    "url": "https://developer.nvidia.com/blog/manage-kubernetes-node-fleets-with-nodewright",
+    "summary": "NVIDIA Technical Blog · Manage Kubernetes Node Fleets with NodeWright",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-09-24",
+    "score": 66
+  },
+  {
+    "title": "How SWE-Serve Exposes the Gap Between Local Tests and Live Serving",
+    "url": "https://developer.nvidia.com/blog/how-swe-serve-exposes-the-gap-between-local-tests-and-live-serving",
+    "summary": "NVIDIA Technical Blog · How SWE-Serve Exposes the Gap Between Local Tests and Live Serving",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-09-24",
+    "score": 66
+  },
+  {
+    "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization** nvidia • about 10 hours ago • 30",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
+    "summary": "Hugging Face – Blog · **Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization** nvidia • about 10 hours ago • 30",
     "tags": [
       "open_source",
       "papers",
@@ -293,27 +257,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-09-23",
-    "score": 62
+    "date": "2026-09-24",
+    "score": 65
   },
   {
-    "title": "Advanced evals: How to find (and fix) hidden AI failures in your product",
-    "url": "https://www.lennysnewsletter.com/p/advanced-evals-how-to-find-and-fix",
-    "summary": "Why you should never skip error discovery",
-    "tags": [
-      "product",
-      "growth",
-      "startup"
-    ],
-    "author": "Lenny's Newsletter",
-    "source": "lennysnewsletter.com",
-    "date": "2026-09-23",
-    "score": 62
-  },
-  {
-    "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-    "url": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall",
-    "summary": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who moved through areas watched by these towers&#8230;",
+    "title": "The AI Hype Index: AI loves cheating",
+    "url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating",
+    "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ answer sheets). Anthropic’s models have also hacked into other companies’ systems four times already. And that’s&#8230;",
     "tags": [
       "ai",
       "research",
@@ -321,7 +271,63 @@
     ],
     "author": "MIT Technology Review AI",
     "source": "technologyreview.com",
-    "date": "2026-09-23",
-    "score": 61
+    "date": "2026-09-24",
+    "score": 64
+  },
+  {
+    "title": "Unlimited Vercel Blob stores on every plan",
+    "url": "https://vercel.com/changelog/unlimited-vercel-blob-stores-on-every-plan",
+    "summary": "You can now create as many Vercel Blob stores as you need. The previous limits of 100 stores on Hobby, 500 on Pro, and 1,000 on Enterprise no longer apply. Blob store creation is now billed alongside other Blob Advanced Operations , including put() , copy() , and list() calls. On Pro that's $5.00 per million. On Hobby it counts toward the 2,000 free operations you get each month. Deleting a store is free. Create a new store whenever you want a hard boundary instead of a pathn",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-09-24",
+    "score": 63
+  },
+  {
+    "title": "Features Sep 22, 2026 The Situation Report A rare strain of Ebola, with no confirmed vaccine, is spreading through the east of the Democratic Republic of Congo. World health organizations are using Claude to move as fast as possible to combat it.",
+    "url": "https://www.anthropic.com/features/ebola-response",
+    "summary": "Newsroom \\ Anthropic · Features Sep 22, 2026 The Situation Report A rare strain of Ebola, with no confirmed vaccine, is spreading through the east of the Democratic Republic of Congo. World health organizations are using Claude to move as fast as possible to combat it.",
+    "tags": [
+      "ai_models",
+      "safety",
+      "official"
+    ],
+    "author": "Anthropic",
+    "source": "anthropic.com",
+    "date": "2026-09-24",
+    "score": 62
+  },
+  {
+    "title": "Sep 23, 2026 Science Claude discovers a novel enzyme system with CRISPR-like repeats",
+    "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+    "summary": "Newsroom \\ Anthropic · Sep 23, 2026 Science Claude discovers a novel enzyme system with CRISPR-like repeats",
+    "tags": [
+      "ai_models",
+      "safety",
+      "official"
+    ],
+    "author": "Anthropic",
+    "source": "anthropic.com",
+    "date": "2026-09-24",
+    "score": 62
+  },
+  {
+    "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+    "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+    "summary": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-09-24",
+    "score": 62
   }
 ]
