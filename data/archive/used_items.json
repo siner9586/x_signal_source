@@ -21716,5 +21716,215 @@
     "cluster_id": "huggingface_co_0dcd46ab",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d79065c869491e6e",
+    "canonical_url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent",
+    "dedupe_key": "0881f3469f2cfae9",
+    "title": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
+    "issue_date": "2026-09-25",
+    "cluster_id": "github_blog_f5c51608",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_17a4302f3625fdcb",
+    "canonical_url": "https://vercel.com/blog/the-vercel-bug-bounty-program-is-now-publicly-available",
+    "dedupe_key": "8064614456ac1456",
+    "title": "The Vercel Bug Bounty Program is now publicly available",
+    "issue_date": "2026-09-25",
+    "cluster_id": "vercel_com_f8013ef1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8785c61e0cc04fba",
+    "canonical_url": "https://vercel.com/changelog/vercel-connect-tanstack-ai",
+    "dedupe_key": "76060e2c3145c974",
+    "title": "Vercel Connect now supports TanStack AI",
+    "issue_date": "2026-09-25",
+    "cluster_id": "vercel_com_d66fdc26",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0a098e91bc61b725",
+    "canonical_url": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
+    "dedupe_key": "ef6d403fc658cfd0",
+    "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
+    "issue_date": "2026-09-25",
+    "cluster_id": "openai_com_e0628801",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_43ca6386bbfdb0d0",
+    "canonical_url": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui",
+    "dedupe_key": "9c4e9734451e332c",
+    "title": "When chat is the wrong UI",
+    "issue_date": "2026-09-25",
+    "cluster_id": "github_blog_e66e2d33",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f4b6f06f139eca74",
+    "canonical_url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar",
+    "dedupe_key": "c36d97b9d5ab9dc6",
+    "title": "Introducing Gemini 3.8 Live with Live Avatar",
+    "issue_date": "2026-09-25",
+    "cluster_id": "deepmind_google_0355ff45",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d0945b381bce835e",
+    "canonical_url": "https://developer.nvidia.com/blog/efficient-moe-training-for-biological-foundation-models",
+    "dedupe_key": "32115db767e9ab8d",
+    "title": "Efficient MoE Training for Biological Foundation Models",
+    "issue_date": "2026-09-25",
+    "cluster_id": "developer_nvidia_com_0586c311",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7d642e3ccb56ac79",
+    "canonical_url": "https://vercel.com/blog/how-klaviyo-shipped-356-internal-apps-in-two-weeks-on-vercel",
+    "dedupe_key": "bc57fed90c651f3b",
+    "title": "How Klaviyo shipped 356 internal apps in two weeks on Vercel",
+    "issue_date": "2026-09-25",
+    "cluster_id": "vercel_com_d617dc70",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_340bce630cf9ab43",
+    "canonical_url": "https://www.langchain.com/blog/langsmith-fine-tuning",
+    "dedupe_key": "d05742095395d7ca",
+    "title": "Introducing LangSmith Fine-Tuning",
+    "issue_date": "2026-09-25",
+    "cluster_id": "langchain_com_b8f03448",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_40e0538d4751b9bc",
+    "canonical_url": "https://www.langchain.com/blog/langsmith-managed-deep-agents-whats-new",
+    "dedupe_key": "8b684e46b49b754a",
+    "title": "Managed Deep Agents delivers a better user experience for agents in production",
+    "issue_date": "2026-09-25",
+    "cluster_id": "langchain_com_ddfb7a09",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_47e578a707426e8b",
+    "canonical_url": "https://www.langchain.com/blog/langsmith-engine-v2-redteam",
+    "dedupe_key": "df4a59258e17c13b",
+    "title": "New in LangSmith Engine: red teaming and automated testing",
+    "issue_date": "2026-09-25",
+    "cluster_id": "langchain_com_2394da0d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9b692eeb6dff1b01",
+    "canonical_url": "https://www.langchain.com/blog/langsmith-trajectories-tracing",
+    "dedupe_key": "ae56183f90e71cb7",
+    "title": "Trajectories now in LangSmith: A readable view of every agent session",
+    "issue_date": "2026-09-25",
+    "cluster_id": "langchain_com_aee90cdb",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f55221729d26aa17",
+    "canonical_url": "https://www.langchain.com/blog/langsmith-custom-apps",
+    "dedupe_key": "bf5de34fc226224f",
+    "title": "LangSmith Custom Apps: Build custom interfaces around your agent data",
+    "issue_date": "2026-09-25",
+    "cluster_id": "langchain_com_b22cb664",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_02613b452ab88893",
+    "canonical_url": "https://vercel.com/changelog/gemini-3-8-text-to-speech-models-now-available-on-ai-gateway",
+    "dedupe_key": "632b20bd02b85801",
+    "title": "Gemini 3.8 text-to-speech models now available on AI Gateway",
+    "issue_date": "2026-09-25",
+    "cluster_id": "vercel_com_be774a1a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_716d3be91f2c1c60",
+    "canonical_url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+    "dedupe_key": "caae862524c518dc",
+    "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+    "issue_date": "2026-09-25",
+    "cluster_id": "huggingface_co_7bb42a40",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_cb57e9a61b57a15c",
+    "canonical_url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype",
+    "dedupe_key": "9686cdb87c859aa1",
+    "title": "Don’t be fooled by this summer of AI hype",
+    "issue_date": "2026-09-25",
+    "cluster_id": "technologyreview_com_073f91d2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0a9266665ef924db",
+    "canonical_url": "https://stratechery.com/2026/amazon-blocks-muse-amazons-moat-aggregator-v-aggregator",
+    "dedupe_key": "11a97052319ae7c9",
+    "title": "Amazon Blocks Muse, Amazon&#8217;s Moat, Aggregator v Aggregator",
+    "issue_date": "2026-09-25",
+    "cluster_id": "stratechery_com_c317e464",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ec6bfa21e1aee41f",
+    "canonical_url": "https://arxiv.org/list/cs.AI/recent?skip=193&amp%3Bshow=50",
+    "dedupe_key": "27c252e46a6a73e5",
+    "title": "Wed, 23 Sep 2026",
+    "issue_date": "2026-09-25",
+    "cluster_id": "arxiv_org_1dac9308",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1db8d9909b22575d",
+    "canonical_url": "https://arxiv.org/list/cs.AI/recent?skip=433&amp%3Bshow=50",
+    "dedupe_key": "dfe22e2af2a6f9d8",
+    "title": "Tue, 22 Sep 2026",
+    "issue_date": "2026-09-25",
+    "cluster_id": "arxiv_org_3bad32fa",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a0fed1b948618544",
+    "canonical_url": "https://arxiv.org/list/cs.AI/recent?skip=817&amp%3Bshow=50",
+    "dedupe_key": "89e7b2b850d37c1c",
+    "title": "Mon, 21 Sep 2026",
+    "issue_date": "2026-09-25",
+    "cluster_id": "arxiv_org_92e5bd2d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5eb0ff5954136852",
+    "canonical_url": "https://stratechery.com/2026/more-on-muse-amazon-and-walmart-muse-and-expedia-whither-google",
+    "dedupe_key": "bc9a08fc6f83ac60",
+    "title": "More on Muse, Amazon, and Walmart; Muse and Expedia; Whither Google?",
+    "issue_date": "2026-09-25",
+    "cluster_id": "stratechery_com_c02329d9",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]

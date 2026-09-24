@@ -1,283 +1,21 @@
 [
   {
-    "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-    "url": "https://openai.com/index/ringg",
-    "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-09-24",
-    "score": 72
-  },
-  {
-    "title": "Developers want more efficient software. Here’s what over 1000 GitHub users told us they need.",
-    "url": "https://github.blog/news-insights/research/developers-want-more-efficient-software-heres-what-over-1000-github-users-told-us-they-need",
-    "summary": "New research from GitHub and Yale Program on Climate Change Communication finds strong demand for tools, measurement, and practical guidance that can help developers reduce wasted compute. The post Developers want more efficient software. Here’s what over 1000 GitHub users told us they need. appeared first on The GitHub Blog .",
+    "title": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
+    "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent",
+    "summary": "In this blog post, I explain how to use the new fuzzing taskflow based on the GitHub Security Lab Taskflow Agent AI framework. The post AI-powered fuzzing with the GitHub Security Lab Taskflow Agent appeared first on The GitHub Blog .",
     "tags": [
       "ai_coding",
       "developer_tools"
     ],
     "author": "GitHub Copilot",
     "source": "github.blog",
-    "date": "2026-09-24",
-    "score": 71
+    "date": "2026-09-25",
+    "score": 73
   },
   {
-    "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-    "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-    "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-09-24",
-    "score": 70
-  },
-  {
-    "title": "Introducing MentalHealthBench",
-    "url": "https://openai.com/index/introducing-mentalhealthbench",
-    "summary": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-09-24",
-    "score": 69
-  },
-  {
-    "title": "Advancing Private AI Compute with secure, server-side memory",
-    "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory",
-    "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
-    "tags": [
-      "research",
-      "multimodal",
-      "science",
-      "official"
-    ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-09-24",
-    "score": 68
-  },
-  {
-    "title": "Introducing NV-Reason-CT Open 3D CT VLM for Radiologist Chain-of-Thought Reasoning",
-    "url": "https://developer.nvidia.com/blog/introducing-nv-reason-ct-open-3d-ct-vlm-for-radiologist-chain-of-thought-reasoning",
-    "summary": "NVIDIA Technical Blog · Introducing NV-Reason-CT Open 3D CT VLM for Radiologist Chain-of-Thought Reasoning",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-09-24",
-    "score": 68
-  },
-  {
-    "title": "Two years of OpenAI Academy",
-    "url": "https://openai.com/index/two-years-of-openai-academy",
-    "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-09-24",
-    "score": 67
-  },
-  {
-    "title": "Sam Altman’s remarks at the United Nations Security Council",
-    "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
-    "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-09-24",
-    "score": 67
-  },
-  {
-    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-    "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-    "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-09-24",
-    "score": 67
-  },
-  {
-    "title": "How invideo improves color grading 3x with GPT‑6 Astra",
-    "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-    "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-09-24",
-    "score": 67
-  },
-  {
-    "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
-    "url": "https://openai.com/index/airbnb-gpt-6-astra",
-    "summary": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-09-24",
-    "score": 67
-  },
-  {
-    "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-    "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
-    "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-09-24",
-    "score": 67
-  },
-  {
-    "title": "Rendering huge pull requests in the GitHub Copilot app",
-    "url": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app",
-    "summary": "How we rebuilt the diff surface in the GitHub Copilot app to open a million-line pull request with hundreds of inline review comments. The post Rendering huge pull requests in the GitHub Copilot app appeared first on The GitHub Blog .",
-    "tags": [
-      "ai_coding",
-      "developer_tools"
-    ],
-    "author": "GitHub Copilot",
-    "source": "github.blog",
-    "date": "2026-09-24",
-    "score": 67
-  },
-  {
-    "title": "Gemini 3.8 text-to-speech says hello",
-    "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
-    "summary": "Gemini 3.8 text-to-speech says hello 是 Google DeepMind 当日抓取到的公开新增条目。",
-    "tags": [
-      "research",
-      "multimodal",
-      "science",
-      "official"
-    ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-09-24",
-    "score": 66
-  },
-  {
-    "title": "Validate GPU Cluster Readiness Before AI Workloads Land",
-    "url": "https://developer.nvidia.com/blog/validate-gpu-cluster-readiness-before-ai-workloads-land",
-    "summary": "NVIDIA Technical Blog · Validate GPU Cluster Readiness Before AI Workloads Land",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-09-24",
-    "score": 66
-  },
-  {
-    "title": "Manage Kubernetes Node Fleets with NodeWright",
-    "url": "https://developer.nvidia.com/blog/manage-kubernetes-node-fleets-with-nodewright",
-    "summary": "NVIDIA Technical Blog · Manage Kubernetes Node Fleets with NodeWright",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-09-24",
-    "score": 66
-  },
-  {
-    "title": "How SWE-Serve Exposes the Gap Between Local Tests and Live Serving",
-    "url": "https://developer.nvidia.com/blog/how-swe-serve-exposes-the-gap-between-local-tests-and-live-serving",
-    "summary": "NVIDIA Technical Blog · How SWE-Serve Exposes the Gap Between Local Tests and Live Serving",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-09-24",
-    "score": 66
-  },
-  {
-    "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization** nvidia • about 10 hours ago • 30",
-    "url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
-    "summary": "Hugging Face – Blog · **Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization** nvidia • about 10 hours ago • 30",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-09-24",
-    "score": 65
-  },
-  {
-    "title": "The AI Hype Index: AI loves cheating",
-    "url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating",
-    "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ answer sheets). Anthropic’s models have also hacked into other companies’ systems four times already. And that’s&#8230;",
-    "tags": [
-      "ai",
-      "research",
-      "society"
-    ],
-    "author": "MIT Technology Review AI",
-    "source": "technologyreview.com",
-    "date": "2026-09-24",
-    "score": 64
-  },
-  {
-    "title": "Unlimited Vercel Blob stores on every plan",
-    "url": "https://vercel.com/changelog/unlimited-vercel-blob-stores-on-every-plan",
-    "summary": "You can now create as many Vercel Blob stores as you need. The previous limits of 100 stores on Hobby, 500 on Pro, and 1,000 on Enterprise no longer apply. Blob store creation is now billed alongside other Blob Advanced Operations , including put() , copy() , and list() calls. On Pro that's $5.00 per million. On Hobby it counts toward the 2,000 free operations you get each month. Deleting a store is free. Create a new store whenever you want a hard boundary instead of a pathn",
+    "title": "The Vercel Bug Bounty Program is now publicly available",
+    "url": "https://vercel.com/blog/the-vercel-bug-bounty-program-is-now-publicly-available",
+    "summary": "In 2022, we launched a private bug bounty program through HackerOne. Over the last several years, we've worked with HackerOne's VIP program to refine our process, targets, and scope, onboarding thousands of their best researchers and hardening security across our platform. We've translated those learnings into several public bounty programs: The $1 million React2Shell hacker challenge The $1 million Vercel Sandbox hacker challenge Our OSS bug bounty program Today, we are comb",
     "tags": [
       "sdk",
       "ai_infra",
@@ -285,41 +23,182 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-09-24",
+    "date": "2026-09-25",
+    "score": 69
+  },
+  {
+    "title": "Vercel Connect now supports TanStack AI",
+    "url": "https://vercel.com/changelog/vercel-connect-tanstack-ai",
+    "summary": "Agents built with TanStack AI can now call OAuth-protected MCP servers through Vercel Connect, with no credentials for you to store or rotate. The new @vercel/connect/tanstack-ai subpath exports connectMCPTransport , which takes a TanStack transport config and attaches a Connect-backed auth provider. The provider is called before every MCP request, so the token is always fresh. If the user has not granted access, createMCPClient fails with a consent challenge before the model",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-09-25",
+    "score": 68
+  },
+  {
+    "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
+    "url": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
+    "summary": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-09-25",
+    "score": 67
+  },
+  {
+    "title": "When chat is the wrong UI",
+    "url": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui",
+    "summary": "What is a developer to do when they need something more tangible than a chat box? Enter canvases. The post When chat is the wrong UI appeared first on The GitHub Blog .",
+    "tags": [
+      "ai_coding",
+      "developer_tools"
+    ],
+    "author": "GitHub Copilot",
+    "source": "github.blog",
+    "date": "2026-09-25",
+    "score": 67
+  },
+  {
+    "title": "Introducing Gemini 3.8 Live with Live Avatar",
+    "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar",
+    "summary": "Introducing Gemini 3.8 Live with Live Avatar 是 Google DeepMind 当日抓取到的公开新增条目。",
+    "tags": [
+      "research",
+      "multimodal",
+      "science",
+      "official"
+    ],
+    "author": "Google DeepMind",
+    "source": "deepmind.google",
+    "date": "2026-09-25",
+    "score": 66
+  },
+  {
+    "title": "Efficient MoE Training for Biological Foundation Models",
+    "url": "https://developer.nvidia.com/blog/efficient-moe-training-for-biological-foundation-models",
+    "summary": "NVIDIA Technical Blog · Efficient MoE Training for Biological Foundation Models",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-09-25",
+    "score": 66
+  },
+  {
+    "title": "How Klaviyo shipped 356 internal apps in two weeks on Vercel",
+    "url": "https://vercel.com/blog/how-klaviyo-shipped-356-internal-apps-in-two-weeks-on-vercel",
+    "summary": "Klaviyo on Vercel Built a platform for shipping internal apps 512 builders and 356 live apps in two weeks Every app ships SSO-gated and private by default Builders go from idea to live app in 3 minutes Klaviyo is a B2C CRM for more than 200,000 brands. It brings marketing, service, agents, and data together in one platform so brands can deliver customer experiences at scale. Klaviyo built a platform on Vercel for shipping internal apps, then opened it to every employee throug",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-09-25",
+    "score": 66
+  },
+  {
+    "title": "Introducing LangSmith Fine-Tuning",
+    "url": "https://www.langchain.com/blog/langsmith-fine-tuning",
+    "summary": "LangChain introduces LangSmith Fine-Tuning and SmithTune, a CLI built for post-training models. Train specialized models without building data pipelines by hand.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-09-25",
+    "score": 65
+  },
+  {
+    "title": "Managed Deep Agents delivers a better user experience for agents in production",
+    "url": "https://www.langchain.com/blog/langsmith-managed-deep-agents-whats-new",
+    "summary": "Managed Deep Agents is the simplest way to build, deploy, and run agents in production. The 0.8 release adds support for user-owned credentials, user-level memory, HTTP channels, file transfer in Slack and a pre-built tool for web search.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-09-25",
+    "score": 65
+  },
+  {
+    "title": "New in LangSmith Engine: red teaming and automated testing",
+    "url": "https://www.langchain.com/blog/langsmith-engine-v2-redteam",
+    "summary": "LangSmith Engine now includes Red Teaming to proactively detect agent issues and automated agent testing. Learn more about the Engine v2 release.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-09-25",
+    "score": 64
+  },
+  {
+    "title": "Trajectories now in LangSmith: A readable view of every agent session",
+    "url": "https://www.langchain.com/blog/langsmith-trajectories-tracing",
+    "summary": "Trajectories in LangSmith provide a conversational view of an agent session. Trajectories make trace data easy to navigate and speed up debugging for long-running agents.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-09-25",
+    "score": 64
+  },
+  {
+    "title": "LangSmith Custom Apps: Build custom interfaces around your agent data",
+    "url": "https://www.langchain.com/blog/langsmith-custom-apps",
+    "summary": "LangSmith Custom Apps lets you build the interface you want with your LangSmith data, publish it into your workspace, and skip the hosting, auth, and permissions work. Learn more.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-09-25",
+    "score": 64
+  },
+  {
+    "title": "Gemini 3.8 text-to-speech models now available on AI Gateway",
+    "url": "https://vercel.com/changelog/gemini-3-8-text-to-speech-models-now-available-on-ai-gateway",
+    "summary": "Gemini 3.8 Flash-Lite TTS and Gemini 3.8 Flash TTS from Google are now available on AI Gateway . Both models take text and generate speech in more than 100 languages. They support long-form narration, control over delivery, and two-speaker dialogue. google/gemini-3.8-flash-lite-tts is suited to high-volume speech generation, with controls for tone, pacing, and line-by-line delivery. google/gemini-3.8-flash-tts adds voice and character design through natural-language prompts, ",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-09-25",
     "score": 63
   },
   {
-    "title": "Features Sep 22, 2026 The Situation Report A rare strain of Ebola, with no confirmed vaccine, is spreading through the east of the Democratic Republic of Congo. World health organizations are using Claude to move as fast as possible to combat it.",
-    "url": "https://www.anthropic.com/features/ebola-response",
-    "summary": "Newsroom \\ Anthropic · Features Sep 22, 2026 The Situation Report A rare strain of Ebola, with no confirmed vaccine, is spreading through the east of the Democratic Republic of Congo. World health organizations are using Claude to move as fast as possible to combat it.",
-    "tags": [
-      "ai_models",
-      "safety",
-      "official"
-    ],
-    "author": "Anthropic",
-    "source": "anthropic.com",
-    "date": "2026-09-24",
-    "score": 62
-  },
-  {
-    "title": "Sep 23, 2026 Science Claude discovers a novel enzyme system with CRISPR-like repeats",
-    "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-    "summary": "Newsroom \\ Anthropic · Sep 23, 2026 Science Claude discovers a novel enzyme system with CRISPR-like repeats",
-    "tags": [
-      "ai_models",
-      "safety",
-      "official"
-    ],
-    "author": "Anthropic",
-    "source": "anthropic.com",
-    "date": "2026-09-24",
-    "score": 62
-  },
-  {
-    "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-    "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-    "summary": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+    "summary": "Accelerating vision-language models with LFM2.5-VL-DSpark 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -327,7 +206,91 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-09-24",
+    "date": "2026-09-25",
     "score": 62
+  },
+  {
+    "title": "Don’t be fooled by this summer of AI hype",
+    "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype",
+    "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclosed similar incidents involving their models. This was followed&#8230;",
+    "tags": [
+      "ai",
+      "research",
+      "society"
+    ],
+    "author": "MIT Technology Review AI",
+    "source": "technologyreview.com",
+    "date": "2026-09-25",
+    "score": 61
+  },
+  {
+    "title": "Amazon Blocks Muse, Amazon&#8217;s Moat, Aggregator v Aggregator",
+    "url": "https://stratechery.com/2026/amazon-blocks-muse-amazons-moat-aggregator-v-aggregator",
+    "summary": "Amazon predictably blocked Muse, but there is room for a deal based on the reality that Amazon's physical world investments are an AI moat.",
+    "tags": [
+      "strategy",
+      "tech",
+      "business"
+    ],
+    "author": "Stratechery",
+    "source": "stratechery.com",
+    "date": "2026-09-25",
+    "score": 61
+  },
+  {
+    "title": "Wed, 23 Sep 2026",
+    "url": "https://arxiv.org/list/cs.AI/recent?skip=193&amp%3Bshow=50",
+    "summary": "Artificial Intelligence · Wed, 23 Sep 2026",
+    "tags": [
+      "paper",
+      "ai",
+      "arxiv"
+    ],
+    "author": "arXiv CS AI",
+    "source": "arxiv.org",
+    "date": "2026-09-25",
+    "score": 60
+  },
+  {
+    "title": "Tue, 22 Sep 2026",
+    "url": "https://arxiv.org/list/cs.AI/recent?skip=433&amp%3Bshow=50",
+    "summary": "Artificial Intelligence · Tue, 22 Sep 2026",
+    "tags": [
+      "paper",
+      "ai",
+      "arxiv"
+    ],
+    "author": "arXiv CS AI",
+    "source": "arxiv.org",
+    "date": "2026-09-25",
+    "score": 60
+  },
+  {
+    "title": "Mon, 21 Sep 2026",
+    "url": "https://arxiv.org/list/cs.AI/recent?skip=817&amp%3Bshow=50",
+    "summary": "Artificial Intelligence · Mon, 21 Sep 2026",
+    "tags": [
+      "paper",
+      "ai",
+      "arxiv"
+    ],
+    "author": "arXiv CS AI",
+    "source": "arxiv.org",
+    "date": "2026-09-25",
+    "score": 60
+  },
+  {
+    "title": "More on Muse, Amazon, and Walmart; Muse and Expedia; Whither Google?",
+    "url": "https://stratechery.com/2026/more-on-muse-amazon-and-walmart-muse-and-expedia-whither-google",
+    "summary": "Meta needs Walmart to wait out Amazon; Expedia seeks to keep its middleware position; meanwhile, where is Google?",
+    "tags": [
+      "strategy",
+      "tech",
+      "business"
+    ],
+    "author": "Stratechery",
+    "source": "stratechery.com",
+    "date": "2026-09-25",
+    "score": 58
   }
 ]
