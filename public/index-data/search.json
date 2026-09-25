@@ -1,21 +1,21 @@
 [
   {
-    "title": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
-    "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent",
-    "summary": "In this blog post, I explain how to use the new fuzzing taskflow based on the GitHub Security Lab Taskflow Agent AI framework. The post AI-powered fuzzing with the GitHub Security Lab Taskflow Agent appeared first on The GitHub Blog .",
+    "title": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
+    "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases",
+    "summary": "Describe the interface you need in plain English, then let the agent build a live surface you can both use and update—so you spend less time adapting to tools and more time getting work done. The post GitHub Copilot app for Beginners: How to build custom workflows with canvases appeared first on The GitHub Blog .",
     "tags": [
       "ai_coding",
       "developer_tools"
     ],
     "author": "GitHub Copilot",
     "source": "github.blog",
-    "date": "2026-09-25",
-    "score": 73
+    "date": "2026-09-26",
+    "score": 70
   },
   {
-    "title": "The Vercel Bug Bounty Program is now publicly available",
-    "url": "https://vercel.com/blog/the-vercel-bug-bounty-program-is-now-publicly-available",
-    "summary": "In 2022, we launched a private bug bounty program through HackerOne. Over the last several years, we've worked with HackerOne's VIP program to refine our process, targets, and scope, onboarding thousands of their best researchers and hardening security across our platform. We've translated those learnings into several public bounty programs: The $1 million React2Shell hacker challenge The $1 million Vercel Sandbox hacker challenge Our OSS bug bounty program Today, we are comb",
+    "title": "State of agent skills",
+    "url": "https://vercel.com/blog/state-of-agent-skills",
+    "summary": "In seven months, the skills.sh registry grew to one million agent skills and recorded nearly 280 million installs. A skill gives an AI agent reusable instructions for a particular job. Agents are capable but generic; they can do many jobs, but they don't know how a specific person, team, or company does them. A skill supplies that missing context and can be as simple as a file written in ordinary language. Anthropic introduced Agent Skills in October 2025, and Vercel launched",
     "tags": [
       "sdk",
       "ai_infra",
@@ -23,27 +23,13 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-09-25",
-    "score": 69
-  },
-  {
-    "title": "Vercel Connect now supports TanStack AI",
-    "url": "https://vercel.com/changelog/vercel-connect-tanstack-ai",
-    "summary": "Agents built with TanStack AI can now call OAuth-protected MCP servers through Vercel Connect, with no credentials for you to store or rotate. The new @vercel/connect/tanstack-ai subpath exports connectMCPTransport , which takes a TanStack transport config and attaches a Connect-backed auth provider. The provider is called before every MCP request, so the token is always fresh. If the user has not granted access, createMCPClient fails with a consent challenge before the model",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-09-25",
+    "date": "2026-09-26",
     "score": 68
   },
   {
-    "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
-    "url": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
-    "summary": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries.",
+    "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+    "url": "https://openai.com/index/proaction",
+    "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
     "tags": [
       "ai_models",
       "official",
@@ -52,55 +38,26 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-09-25",
+    "date": "2026-09-26",
     "score": 67
   },
   {
-    "title": "When chat is the wrong UI",
-    "url": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui",
-    "summary": "What is a developer to do when they need something more tangible than a chat box? Enter canvases. The post When chat is the wrong UI appeared first on The GitHub Blog .",
+    "title": "Improving site performance by shipping more CSS",
+    "url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css",
+    "summary": "How we fully migrated github.com away from CSS-in-JS. The post Improving site performance by shipping more CSS appeared first on The GitHub Blog .",
     "tags": [
       "ai_coding",
       "developer_tools"
     ],
     "author": "GitHub Copilot",
     "source": "github.blog",
-    "date": "2026-09-25",
+    "date": "2026-09-26",
     "score": 67
   },
   {
-    "title": "Introducing Gemini 3.8 Live with Live Avatar",
-    "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar",
-    "summary": "Introducing Gemini 3.8 Live with Live Avatar 是 Google DeepMind 当日抓取到的公开新增条目。",
-    "tags": [
-      "research",
-      "multimodal",
-      "science",
-      "official"
-    ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-09-25",
-    "score": 66
-  },
-  {
-    "title": "Efficient MoE Training for Biological Foundation Models",
-    "url": "https://developer.nvidia.com/blog/efficient-moe-training-for-biological-foundation-models",
-    "summary": "NVIDIA Technical Blog · Efficient MoE Training for Biological Foundation Models",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-09-25",
-    "score": 66
-  },
-  {
-    "title": "How Klaviyo shipped 356 internal apps in two weeks on Vercel",
-    "url": "https://vercel.com/blog/how-klaviyo-shipped-356-internal-apps-in-two-weeks-on-vercel",
-    "summary": "Klaviyo on Vercel Built a platform for shipping internal apps 512 builders and 356 live apps in two weeks Every app ships SSO-gated and private by default Builders go from idea to live app in 3 minutes Klaviyo is a B2C CRM for more than 200,000 brands. It brings marketing, service, agents, and data together in one platform so brands can deliver customer experiences at scale. Klaviyo built a platform on Vercel for shipping internal apps, then opened it to every employee throug",
+    "title": "Push images to Vercel Container Registry from GitHub Actions",
+    "url": "https://vercel.com/changelog/vcr-login-github-action",
+    "summary": "You can now push container images from GitHub Actions to Vercel Container Registry (VCR) without storing long-lived registry credentials. The new vercel/vcr-action/login action authenticates your workflow using GitHub OIDC. It exchanges the workflow’s OIDC token for a short-lived Vercel access token, then uses that token to log in to vcr.vercel.com . When the job ends, the action logs out and revokes the Vercel token. To start: Create an OIDC policy on your Vercel team that m",
     "tags": [
       "sdk",
       "ai_infra",
@@ -108,13 +65,13 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-09-25",
+    "date": "2026-09-26",
     "score": 66
   },
   {
-    "title": "Introducing LangSmith Fine-Tuning",
-    "url": "https://www.langchain.com/blog/langsmith-fine-tuning",
-    "summary": "LangChain introduces LangSmith Fine-Tuning and SmithTune, a CLI built for post-training models. Train specialized models without building data pipelines by hand.",
+    "title": "Building Production Agents with Jev and LangGraph",
+    "url": "https://www.langchain.com/blog/building-prod-with-jev-and-langgraph",
+    "summary": "See how LangGraph orchestrates Jev, TypeSafe AI's decision model, to build faster, cheaper production agents.",
     "tags": [
       "agents",
       "rag",
@@ -122,69 +79,27 @@
     ],
     "author": "LangChain",
     "source": "langchain.com",
-    "date": "2026-09-25",
+    "date": "2026-09-26",
+    "score": 66
+  },
+  {
+    "title": "New in LangSmith: Engine v2, Managed Deep Agents, Fine-Tuning, and more",
+    "url": "https://www.langchain.com/blog/langsmith-engine-agents-fine-tuning-trajectories",
+    "summary": "LangChain announced new updates to LangSmith. Updates include Engine v2 with red teaming and automatic testing, a new version of Managed Deep Agents, trajectories and more.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-09-26",
     "score": 65
   },
   {
-    "title": "Managed Deep Agents delivers a better user experience for agents in production",
-    "url": "https://www.langchain.com/blog/langsmith-managed-deep-agents-whats-new",
-    "summary": "Managed Deep Agents is the simplest way to build, deploy, and run agents in production. The 0.8 release adds support for user-owned credentials, user-level memory, HTTP channels, file transfer in Slack and a pre-built tool for web search.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-09-25",
-    "score": 65
-  },
-  {
-    "title": "New in LangSmith Engine: red teaming and automated testing",
-    "url": "https://www.langchain.com/blog/langsmith-engine-v2-redteam",
-    "summary": "LangSmith Engine now includes Red Teaming to proactively detect agent issues and automated agent testing. Learn more about the Engine v2 release.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-09-25",
-    "score": 64
-  },
-  {
-    "title": "Trajectories now in LangSmith: A readable view of every agent session",
-    "url": "https://www.langchain.com/blog/langsmith-trajectories-tracing",
-    "summary": "Trajectories in LangSmith provide a conversational view of an agent session. Trajectories make trace data easy to navigate and speed up debugging for long-running agents.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-09-25",
-    "score": 64
-  },
-  {
-    "title": "LangSmith Custom Apps: Build custom interfaces around your agent data",
-    "url": "https://www.langchain.com/blog/langsmith-custom-apps",
-    "summary": "LangSmith Custom Apps lets you build the interface you want with your LangSmith data, publish it into your workspace, and skip the hosting, auth, and permissions work. Learn more.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-09-25",
-    "score": 64
-  },
-  {
-    "title": "Gemini 3.8 text-to-speech models now available on AI Gateway",
-    "url": "https://vercel.com/changelog/gemini-3-8-text-to-speech-models-now-available-on-ai-gateway",
-    "summary": "Gemini 3.8 Flash-Lite TTS and Gemini 3.8 Flash TTS from Google are now available on AI Gateway . Both models take text and generate speech in more than 100 languages. They support long-form narration, control over delivery, and two-speaker dialogue. google/gemini-3.8-flash-lite-tts is suited to high-volume speech generation, with controls for tone, pacing, and line-by-line delivery. google/gemini-3.8-flash-tts adds voice and character design through natural-language prompts, ",
+    "title": "Vercel Sandbox now supports memory observability",
+    "url": "https://vercel.com/changelog/vercel-sandbox-now-supports-memory-observability",
+    "summary": "Vercel Sandbox observability now includes memory usage data. You can access sandbox memory usage data in the dashboard and through the CLI via the vercel metrics command. Sandbox observability memory in the dashboard The Memory Usage card reports average, P75, and P95 memory across your sandboxes, alongside the existing CPU usage and data transfer metrics on the sandbox overview page and the project and team-level pages. On the sandbox detail page, charts are designed to show",
     "tags": [
       "sdk",
       "ai_infra",
@@ -192,27 +107,13 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-09-25",
+    "date": "2026-09-26",
     "score": 63
   },
   {
-    "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
-    "summary": "Accelerating vision-language models with LFM2.5-VL-DSpark 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-09-25",
-    "score": 62
-  },
-  {
-    "title": "Don’t be fooled by this summer of AI hype",
-    "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype",
-    "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclosed similar incidents involving their models. This was followed&#8230;",
+    "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+    "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector",
+    "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use artificial intelligence and machine learning and on a technique called “standoff sensing,” which&#8230;",
     "tags": [
       "ai",
       "research",
@@ -220,13 +121,55 @@
     ],
     "author": "MIT Technology Review AI",
     "source": "technologyreview.com",
-    "date": "2026-09-25",
+    "date": "2026-09-26",
     "score": 61
   },
   {
-    "title": "Amazon Blocks Muse, Amazon&#8217;s Moat, Aggregator v Aggregator",
-    "url": "https://stratechery.com/2026/amazon-blocks-muse-amazons-moat-aggregator-v-aggregator",
-    "summary": "Amazon predictably blocked Muse, but there is room for a deal based on the reality that Amazon's physical world investments are an AI moat.",
+    "title": "Thu, 24 Sep 2026",
+    "url": "https://arxiv.org/list/cs.AI/recent?skip=260&amp%3Bshow=50",
+    "summary": "Artificial Intelligence · Thu, 24 Sep 2026",
+    "tags": [
+      "paper",
+      "ai",
+      "arxiv"
+    ],
+    "author": "arXiv CS AI",
+    "source": "arxiv.org",
+    "date": "2026-09-26",
+    "score": 60
+  },
+  {
+    "title": "arXiv:2608.21315",
+    "url": "https://arxiv.org/abs/2608.21315",
+    "summary": "Computation and Language · arXiv:2608.21315",
+    "tags": [
+      "paper",
+      "nlp",
+      "arxiv"
+    ],
+    "author": "arXiv CS CL",
+    "source": "arxiv.org",
+    "date": "2026-09-26",
+    "score": 59
+  },
+  {
+    "title": "arXiv:2608.10986",
+    "url": "https://arxiv.org/abs/2608.10986",
+    "summary": "Computation and Language · arXiv:2608.10986",
+    "tags": [
+      "paper",
+      "nlp",
+      "arxiv"
+    ],
+    "author": "arXiv CS CL",
+    "source": "arxiv.org",
+    "date": "2026-09-26",
+    "score": 59
+  },
+  {
+    "title": "2026.39: Begun, the Aggregator Wars Have",
+    "url": "https://stratechery.com/2026/begun-the-aggregator-wars-have",
+    "summary": "The best Stratechery content from the week of September 21, 2026, including Meta vs. Amazon, GM bending the knee to CarPlay, and profiling the profiler.",
     "tags": [
       "strategy",
       "tech",
@@ -234,55 +177,13 @@
     ],
     "author": "Stratechery",
     "source": "stratechery.com",
-    "date": "2026-09-25",
-    "score": 61
+    "date": "2026-09-26",
+    "score": 56
   },
   {
-    "title": "Wed, 23 Sep 2026",
-    "url": "https://arxiv.org/list/cs.AI/recent?skip=193&amp%3Bshow=50",
-    "summary": "Artificial Intelligence · Wed, 23 Sep 2026",
-    "tags": [
-      "paper",
-      "ai",
-      "arxiv"
-    ],
-    "author": "arXiv CS AI",
-    "source": "arxiv.org",
-    "date": "2026-09-25",
-    "score": 60
-  },
-  {
-    "title": "Tue, 22 Sep 2026",
-    "url": "https://arxiv.org/list/cs.AI/recent?skip=433&amp%3Bshow=50",
-    "summary": "Artificial Intelligence · Tue, 22 Sep 2026",
-    "tags": [
-      "paper",
-      "ai",
-      "arxiv"
-    ],
-    "author": "arXiv CS AI",
-    "source": "arxiv.org",
-    "date": "2026-09-25",
-    "score": 60
-  },
-  {
-    "title": "Mon, 21 Sep 2026",
-    "url": "https://arxiv.org/list/cs.AI/recent?skip=817&amp%3Bshow=50",
-    "summary": "Artificial Intelligence · Mon, 21 Sep 2026",
-    "tags": [
-      "paper",
-      "ai",
-      "arxiv"
-    ],
-    "author": "arXiv CS AI",
-    "source": "arxiv.org",
-    "date": "2026-09-25",
-    "score": 60
-  },
-  {
-    "title": "More on Muse, Amazon, and Walmart; Muse and Expedia; Whither Google?",
-    "url": "https://stratechery.com/2026/more-on-muse-amazon-and-walmart-muse-and-expedia-whither-google",
-    "summary": "Meta needs Walmart to wait out Amazon; Expedia seeks to keep its middleware position; meanwhile, where is Google?",
+    "title": "An Interview with Colossus EIC Jeremy Stern About Profiling Mark Zuckerberg",
+    "url": "https://stratechery.com/2026/an-interview-with-colossus-eic-jeremy-stern-about-profiling-mark-zuckerberg",
+    "summary": "An interview with Colossus EIC Jeremy Stern about profiling Mark Zuckerberg and other prominent tech figures.",
     "tags": [
       "strategy",
       "tech",
@@ -290,7 +191,7 @@
     ],
     "author": "Stratechery",
     "source": "stratechery.com",
-    "date": "2026-09-25",
-    "score": 58
+    "date": "2026-09-26",
+    "score": 56
   }
 ]

@@ -21926,5 +21926,145 @@
     "cluster_id": "stratechery_com_c02329d9",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e40773be02617421",
+    "canonical_url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases",
+    "dedupe_key": "160b73c4fbea1f7e",
+    "title": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
+    "issue_date": "2026-09-26",
+    "cluster_id": "github_blog_e16cdedc",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_72450e0ddcfa2b3d",
+    "canonical_url": "https://vercel.com/blog/state-of-agent-skills",
+    "dedupe_key": "7980948ab2969a25",
+    "title": "State of agent skills",
+    "issue_date": "2026-09-26",
+    "cluster_id": "vercel_com_f479e6c9",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5d0e8d9aa28c8f45",
+    "canonical_url": "https://openai.com/index/proaction",
+    "dedupe_key": "65bd919e26bec771",
+    "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+    "issue_date": "2026-09-26",
+    "cluster_id": "openai_com_4f077b61",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e4a0b0fe0550fa02",
+    "canonical_url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css",
+    "dedupe_key": "d27931447c1cca90",
+    "title": "Improving site performance by shipping more CSS",
+    "issue_date": "2026-09-26",
+    "cluster_id": "github_blog_d9e262f9",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_69152256d33d1e27",
+    "canonical_url": "https://vercel.com/changelog/vcr-login-github-action",
+    "dedupe_key": "e45c9002a70d3e10",
+    "title": "Push images to Vercel Container Registry from GitHub Actions",
+    "issue_date": "2026-09-26",
+    "cluster_id": "vercel_com_b76ea09a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_be0b43ba3ee3feb2",
+    "canonical_url": "https://www.langchain.com/blog/building-prod-with-jev-and-langgraph",
+    "dedupe_key": "4545187e5290eb31",
+    "title": "Building Production Agents with Jev and LangGraph",
+    "issue_date": "2026-09-26",
+    "cluster_id": "langchain_com_cac8adfc",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_24ad9c09a95399c8",
+    "canonical_url": "https://www.langchain.com/blog/langsmith-engine-agents-fine-tuning-trajectories",
+    "dedupe_key": "008bcc04e70e9a7b",
+    "title": "New in LangSmith: Engine v2, Managed Deep Agents, Fine-Tuning, and more",
+    "issue_date": "2026-09-26",
+    "cluster_id": "langchain_com_eec82b84",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_71e06a695e02f900",
+    "canonical_url": "https://vercel.com/changelog/vercel-sandbox-now-supports-memory-observability",
+    "dedupe_key": "99d67cbff9ae0aca",
+    "title": "Vercel Sandbox now supports memory observability",
+    "issue_date": "2026-09-26",
+    "cluster_id": "vercel_com_dfad06b2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1eb59ec5c89c589a",
+    "canonical_url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector",
+    "dedupe_key": "0e8e5c6bfb162005",
+    "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+    "issue_date": "2026-09-26",
+    "cluster_id": "technologyreview_com_b71cd53b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_29a4b323671c9ccc",
+    "canonical_url": "https://arxiv.org/list/cs.AI/recent?skip=260&amp%3Bshow=50",
+    "dedupe_key": "691f343d7137cf9f",
+    "title": "Thu, 24 Sep 2026",
+    "issue_date": "2026-09-26",
+    "cluster_id": "arxiv_org_c1220e2d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_da23964b4b13346f",
+    "canonical_url": "https://arxiv.org/abs/2608.21315",
+    "dedupe_key": "08892e2f67130587",
+    "title": "arXiv:2608.21315",
+    "issue_date": "2026-09-26",
+    "cluster_id": "arxiv_org_4e3787a7",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e81b1113fd1abcc2",
+    "canonical_url": "https://arxiv.org/abs/2608.10986",
+    "dedupe_key": "183a06e84307901d",
+    "title": "arXiv:2608.10986",
+    "issue_date": "2026-09-26",
+    "cluster_id": "arxiv_org_eb9f3ffd",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c05c11c58f3f1211",
+    "canonical_url": "https://stratechery.com/2026/begun-the-aggregator-wars-have",
+    "dedupe_key": "593a4cb4de92d743",
+    "title": "2026.39: Begun, the Aggregator Wars Have",
+    "issue_date": "2026-09-26",
+    "cluster_id": "stratechery_com_56a7298f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6318526619e59bdf",
+    "canonical_url": "https://stratechery.com/2026/an-interview-with-colossus-eic-jeremy-stern-about-profiling-mark-zuckerberg",
+    "dedupe_key": "46cdacbf4520a094",
+    "title": "An Interview with Colossus EIC Jeremy Stern About Profiling Mark Zuckerberg",
+    "issue_date": "2026-09-26",
+    "cluster_id": "stratechery_com_c436374b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
