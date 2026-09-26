@@ -22066,5 +22066,25 @@
     "cluster_id": "stratechery_com_c436374b",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_59037a920bbedfda",
+    "canonical_url": "https://vercel.com/changelog/pixel-canary-is-now-available-in-stealth-for-free-on-ai-gateway",
+    "dedupe_key": "2a25a06ebbfbb0f7",
+    "title": "Pixel Canary is now available in stealth for free on AI Gateway",
+    "issue_date": "2026-09-27",
+    "cluster_id": "vercel_com_b821c1fc",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b01f347d4a89ed03",
+    "canonical_url": "https://www.lennysnewsletter.com/p/community-wisdom-ai-doomerism-speeding",
+    "dedupe_key": "c2352480bc3f76a5",
+    "title": "🧠 Community Wisdom: AI doomerism, speeding up discovery in a big org, verifying engineering answers as a new PM, where analytics adds the most value, and more",
+    "issue_date": "2026-09-27",
+    "cluster_id": "lennysnewsletter_com_0156c5b5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]

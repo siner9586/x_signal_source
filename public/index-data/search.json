@@ -1,21 +1,8 @@
 [
   {
-    "title": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
-    "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases",
-    "summary": "Describe the interface you need in plain English, then let the agent build a live surface you can both use and update—so you spend less time adapting to tools and more time getting work done. The post GitHub Copilot app for Beginners: How to build custom workflows with canvases appeared first on The GitHub Blog .",
-    "tags": [
-      "ai_coding",
-      "developer_tools"
-    ],
-    "author": "GitHub Copilot",
-    "source": "github.blog",
-    "date": "2026-09-26",
-    "score": 70
-  },
-  {
-    "title": "State of agent skills",
-    "url": "https://vercel.com/blog/state-of-agent-skills",
-    "summary": "In seven months, the skills.sh registry grew to one million agent skills and recorded nearly 280 million installs. A skill gives an AI agent reusable instructions for a particular job. Agents are capable but generic; they can do many jobs, but they don't know how a specific person, team, or company does them. A skill supplies that missing context and can be as simple as a file written in ordinary language. Anthropic introduced Agent Skills in October 2025, and Vercel launched",
+    "title": "Pixel Canary is now available in stealth for free on AI Gateway",
+    "url": "https://vercel.com/changelog/pixel-canary-is-now-available-in-stealth-for-free-on-ai-gateway",
+    "summary": "Pixel Canary is now available on AI Gateway as stealth/pixel-canary . It's free for a limited time while in stealth. Pixel Canary is strong at coding, including building applications and refactoring existing code. It is well suited to frontend development and mobile app design, from responsive layouts and app screens to navigation and interactive components. On Next.js evals , Pixel Canary ties GPT 6 Astra (high) at a 90.3% baseline success rate, passing 28 of 31 tasks. With ",
     "tags": [
       "sdk",
       "ai_infra",
@@ -23,175 +10,21 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-09-26",
-    "score": 68
-  },
-  {
-    "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-    "url": "https://openai.com/index/proaction",
-    "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-09-26",
-    "score": 67
-  },
-  {
-    "title": "Improving site performance by shipping more CSS",
-    "url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css",
-    "summary": "How we fully migrated github.com away from CSS-in-JS. The post Improving site performance by shipping more CSS appeared first on The GitHub Blog .",
-    "tags": [
-      "ai_coding",
-      "developer_tools"
-    ],
-    "author": "GitHub Copilot",
-    "source": "github.blog",
-    "date": "2026-09-26",
-    "score": 67
-  },
-  {
-    "title": "Push images to Vercel Container Registry from GitHub Actions",
-    "url": "https://vercel.com/changelog/vcr-login-github-action",
-    "summary": "You can now push container images from GitHub Actions to Vercel Container Registry (VCR) without storing long-lived registry credentials. The new vercel/vcr-action/login action authenticates your workflow using GitHub OIDC. It exchanges the workflow’s OIDC token for a short-lived Vercel access token, then uses that token to log in to vcr.vercel.com . When the job ends, the action logs out and revokes the Vercel token. To start: Create an OIDC policy on your Vercel team that m",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-09-26",
+    "date": "2026-09-27",
     "score": 66
   },
   {
-    "title": "Building Production Agents with Jev and LangGraph",
-    "url": "https://www.langchain.com/blog/building-prod-with-jev-and-langgraph",
-    "summary": "See how LangGraph orchestrates Jev, TypeSafe AI's decision model, to build faster, cheaper production agents.",
+    "title": "🧠 Community Wisdom: AI doomerism, speeding up discovery in a big org, verifying engineering answers as a new PM, where analytics adds the most value, and more",
+    "url": "https://www.lennysnewsletter.com/p/community-wisdom-ai-doomerism-speeding",
+    "summary": "Community Wisdom 300",
     "tags": [
-      "agents",
-      "rag",
-      "framework"
+      "product",
+      "growth",
+      "startup"
     ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-09-26",
-    "score": 66
-  },
-  {
-    "title": "New in LangSmith: Engine v2, Managed Deep Agents, Fine-Tuning, and more",
-    "url": "https://www.langchain.com/blog/langsmith-engine-agents-fine-tuning-trajectories",
-    "summary": "LangChain announced new updates to LangSmith. Updates include Engine v2 with red teaming and automatic testing, a new version of Managed Deep Agents, trajectories and more.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-09-26",
-    "score": 65
-  },
-  {
-    "title": "Vercel Sandbox now supports memory observability",
-    "url": "https://vercel.com/changelog/vercel-sandbox-now-supports-memory-observability",
-    "summary": "Vercel Sandbox observability now includes memory usage data. You can access sandbox memory usage data in the dashboard and through the CLI via the vercel metrics command. Sandbox observability memory in the dashboard The Memory Usage card reports average, P75, and P95 memory across your sandboxes, alongside the existing CPU usage and data transfer metrics on the sandbox overview page and the project and team-level pages. On the sandbox detail page, charts are designed to show",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-09-26",
-    "score": 63
-  },
-  {
-    "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
-    "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector",
-    "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use artificial intelligence and machine learning and on a technique called “standoff sensing,” which&#8230;",
-    "tags": [
-      "ai",
-      "research",
-      "society"
-    ],
-    "author": "MIT Technology Review AI",
-    "source": "technologyreview.com",
-    "date": "2026-09-26",
-    "score": 61
-  },
-  {
-    "title": "Thu, 24 Sep 2026",
-    "url": "https://arxiv.org/list/cs.AI/recent?skip=260&amp%3Bshow=50",
-    "summary": "Artificial Intelligence · Thu, 24 Sep 2026",
-    "tags": [
-      "paper",
-      "ai",
-      "arxiv"
-    ],
-    "author": "arXiv CS AI",
-    "source": "arxiv.org",
-    "date": "2026-09-26",
-    "score": 60
-  },
-  {
-    "title": "arXiv:2608.21315",
-    "url": "https://arxiv.org/abs/2608.21315",
-    "summary": "Computation and Language · arXiv:2608.21315",
-    "tags": [
-      "paper",
-      "nlp",
-      "arxiv"
-    ],
-    "author": "arXiv CS CL",
-    "source": "arxiv.org",
-    "date": "2026-09-26",
-    "score": 59
-  },
-  {
-    "title": "arXiv:2608.10986",
-    "url": "https://arxiv.org/abs/2608.10986",
-    "summary": "Computation and Language · arXiv:2608.10986",
-    "tags": [
-      "paper",
-      "nlp",
-      "arxiv"
-    ],
-    "author": "arXiv CS CL",
-    "source": "arxiv.org",
-    "date": "2026-09-26",
-    "score": 59
-  },
-  {
-    "title": "2026.39: Begun, the Aggregator Wars Have",
-    "url": "https://stratechery.com/2026/begun-the-aggregator-wars-have",
-    "summary": "The best Stratechery content from the week of September 21, 2026, including Meta vs. Amazon, GM bending the knee to CarPlay, and profiling the profiler.",
-    "tags": [
-      "strategy",
-      "tech",
-      "business"
-    ],
-    "author": "Stratechery",
-    "source": "stratechery.com",
-    "date": "2026-09-26",
-    "score": 56
-  },
-  {
-    "title": "An Interview with Colossus EIC Jeremy Stern About Profiling Mark Zuckerberg",
-    "url": "https://stratechery.com/2026/an-interview-with-colossus-eic-jeremy-stern-about-profiling-mark-zuckerberg",
-    "summary": "An interview with Colossus EIC Jeremy Stern about profiling Mark Zuckerberg and other prominent tech figures.",
-    "tags": [
-      "strategy",
-      "tech",
-      "business"
-    ],
-    "author": "Stratechery",
-    "source": "stratechery.com",
-    "date": "2026-09-26",
-    "score": 56
+    "author": "Lenny's Newsletter",
+    "source": "lennysnewsletter.com",
+    "date": "2026-09-27",
+    "score": 62
   }
 ]
