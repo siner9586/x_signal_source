@@ -1,22 +1,8 @@
 [
   {
-    "title": "Pixel Canary is now available in stealth for free on AI Gateway",
-    "url": "https://vercel.com/changelog/pixel-canary-is-now-available-in-stealth-for-free-on-ai-gateway",
-    "summary": "Pixel Canary is now available on AI Gateway as stealth/pixel-canary . It's free for a limited time while in stealth. Pixel Canary is strong at coding, including building applications and refactoring existing code. It is well suited to frontend development and mobile app design, from responsive layouts and app screens to navigation and interactive components. On Next.js evals , Pixel Canary ties GPT 6 Astra (high) at a 90.3% baseline success rate, passing 28 of 31 tasks. With ",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-09-27",
-    "score": 66
-  },
-  {
-    "title": "🧠 Community Wisdom: AI doomerism, speeding up discovery in a big org, verifying engineering answers as a new PM, where analytics adds the most value, and more",
-    "url": "https://www.lennysnewsletter.com/p/community-wisdom-ai-doomerism-speeding",
-    "summary": "Community Wisdom 300",
+    "title": "The grief, loneliness, and burnout sweeping through the tech industry right now | Molly Graham",
+    "url": "https://www.lennysnewsletter.com/p/the-grief-loneliness-and-burnout",
+    "summary": "Listen now (94 mins) | Molly Graham revisits her famous career advice for the AI era, and explains why delegating to a robot is nothing like delegating to a human",
     "tags": [
       "product",
       "growth",
@@ -24,7 +10,7 @@
     ],
     "author": "Lenny's Newsletter",
     "source": "lennysnewsletter.com",
-    "date": "2026-09-27",
+    "date": "2026-09-28",
     "score": 62
   }
 ]
