@@ -22096,5 +22096,245 @@
     "cluster_id": "lennysnewsletter_com_08549216",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f26073de3aeed2c3",
+    "canonical_url": "https://vercel.com/changelog/ember-1-from-fireworks-now-available-on-ai-gateway",
+    "dedupe_key": "456ee76906f53a44",
+    "title": "Ember-1 from Fireworks now available on AI Gateway",
+    "issue_date": "2026-09-29",
+    "cluster_id": "vercel_com_1730e251",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_cefd821ea4de0ba2",
+    "canonical_url": "https://openai.com/form/codex-originals",
+    "dedupe_key": "e72f661e09fad600",
+    "title": "Are you a Codex Original?",
+    "issue_date": "2026-09-29",
+    "cluster_id": "openai_com_388e8527",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_fe9a4d83da8248f2",
+    "canonical_url": "https://developer.nvidia.com/blog/add-runtime-controls-to-ai-agents-with-nvidia-openshell",
+    "dedupe_key": "520c9ed1a25168bb",
+    "title": "Add Runtime Controls to AI Agents with NVIDIA OpenShell",
+    "issue_date": "2026-09-29",
+    "cluster_id": "developer_nvidia_com_f384cc5e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c246353aadb14413",
+    "canonical_url": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent",
+    "dedupe_key": "3db9050fe9129739",
+    "title": "How we found 24 Android vulnerabilities using our open source AI security agent",
+    "issue_date": "2026-09-29",
+    "cluster_id": "github_blog_7f0d7073",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_da550bbfcdcc1770",
+    "canonical_url": "https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring",
+    "dedupe_key": "0a35a01e706bbf4a",
+    "title": "NVIDIA Open Agent Safety Platform: A Reference for Continuous In-Silicon Agent Monitoring",
+    "issue_date": "2026-09-29",
+    "cluster_id": "developer_nvidia_com_0c9abfe9",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_cc7c1140522b07c7",
+    "canonical_url": "https://elevenlabs.io/blog/eleven-v4",
+    "dedupe_key": "ccfbec28a01a96a8",
+    "title": "Introducing Eleven v4, our most emotive model",
+    "issue_date": "2026-09-29",
+    "cluster_id": "elevenlabs_io_d8bb320a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7ff4e1751ce8ff5b",
+    "canonical_url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+    "dedupe_key": "501b560d47b3c174",
+    "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+    "issue_date": "2026-09-29",
+    "cluster_id": "openai_com_d360b934",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c9882bc0ce29fcd1",
+    "canonical_url": "https://openai.com/index/basis-tax-workbook-with-astra",
+    "dedupe_key": "3af1559b4dfa446d",
+    "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+    "issue_date": "2026-09-29",
+    "cluster_id": "openai_com_51b9134f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9820254d4e10af58",
+    "canonical_url": "https://github.blog/open-source/git/highlights-from-git-2-56",
+    "dedupe_key": "8b82f610503c27d1",
+    "title": "Highlights from Git 2.56",
+    "issue_date": "2026-09-29",
+    "cluster_id": "github_blog_bbae67da",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_081939a5adb350a9",
+    "canonical_url": "https://developer.nvidia.com/blog/how-nvidia-dsx-maxlps-maximizes-ai-factory-throughput-and-efficiency",
+    "dedupe_key": "b733d2c2e0226228",
+    "title": "How NVIDIA DSX MaxLPS Maximizes AI Factory Throughput and Efficiency",
+    "issue_date": "2026-09-29",
+    "cluster_id": "developer_nvidia_com_638b46eb",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5556eafaee949503",
+    "canonical_url": "https://vercel.com/changelog/claude-sonnet-5-5-now-available-on-ai-gateway",
+    "dedupe_key": "a552125cc6fa6d08",
+    "title": "Claude Sonnet 5.5 now available on AI Gateway",
+    "issue_date": "2026-09-29",
+    "cluster_id": "vercel_com_64b136df",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_caa1d0a154aaf348",
+    "canonical_url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue",
+    "dedupe_key": "dd516883d4faeb15",
+    "title": "Who’s liable when AI agents go rogue?",
+    "issue_date": "2026-09-29",
+    "cluster_id": "technologyreview_com_0b9d6920",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6879149d62f03a77",
+    "canonical_url": "https://huggingface.co/blog/Hcompany/holo4",
+    "dedupe_key": "4a50370622eed72e",
+    "title": "Holo4: powering generalist computer-use agents",
+    "issue_date": "2026-09-29",
+    "cluster_id": "huggingface_co_abde1cd3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b0f60766106ddf50",
+    "canonical_url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery",
+    "dedupe_key": "53529444cbe16ea4",
+    "title": "When can we say AI made a scientific discovery?",
+    "issue_date": "2026-09-29",
+    "cluster_id": "technologyreview_com_b95d95c6",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f5b226912d8bfb91",
+    "canonical_url": "https://vercel.com/changelog/search-domains-without-authentication",
+    "dedupe_key": "46a7cf50307e84df",
+    "title": "Search domains without authentication",
+    "issue_date": "2026-09-29",
+    "cluster_id": "vercel_com_68255696",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8d3acf558bd0aa62",
+    "canonical_url": "https://vercel.com/changelog/vercel-marketplace-database-browser-now-supports-redis",
+    "dedupe_key": "5c8b5bc6e7470847",
+    "title": "Vercel Marketplace database browser now supports Redis",
+    "issue_date": "2026-09-29",
+    "cluster_id": "vercel_com_304dcec0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a745080ef672c940",
+    "canonical_url": "https://www.anthropic.com/claude-sonnet-5-5",
+    "dedupe_key": "d179c73fd323b3a0",
+    "title": "Introducing Claude Sonnet 5.5 Announcements Sep 28, 2026 A clear upgrade over Sonnet 5 that runs 30% faster and costs up to 30% less for most work.",
+    "issue_date": "2026-09-29",
+    "cluster_id": "anthropic_com_fcde9f5c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c52c28e669c4c337",
+    "canonical_url": "https://x.ai/news/team-bots",
+    "dedupe_key": "b0791d990b963c8d",
+    "title": "Product · Sep 28, 2026 Team Bots: AI coworkers that learn from your team",
+    "issue_date": "2026-09-29",
+    "cluster_id": "x_ai_57842853",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2df0ad3e6fca651f",
+    "canonical_url": "https://www.lennysnewsletter.com/p/how-i-ai-jev-for-beginners-i-left",
+    "dedupe_key": "2d3a1fcc0bf84230",
+    "title": "🎙️ How I AI: Jev for beginners + I left Claude for months, Opus 5.5 brought me back + Opus 5.5 vs. GPT-6 Sol bench",
+    "issue_date": "2026-09-29",
+    "cluster_id": "lennysnewsletter_com_371b1238",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_952a42e32be14591",
+    "canonical_url": "https://www.lennysnewsletter.com/p/jev-for-beginners-how-to-use-it-and",
+    "dedupe_key": "ac55694804224fdf",
+    "title": "Jev for beginners: how to use it and what to build",
+    "issue_date": "2026-09-29",
+    "cluster_id": "lennysnewsletter_com_1bf31698",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6c587aa55d247610",
+    "canonical_url": "https://mistral.ai/news/hallo-deutschland",
+    "dedupe_key": "a3e89b959137cae3",
+    "title": "Hallo, Deutschland!",
+    "issue_date": "2026-09-29",
+    "cluster_id": "mistral_ai_7c7629df",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_89f793f24288bee0",
+    "canonical_url": "https://arxiv.org/list/cs.AI/recent?skip=201&amp%3Bshow=50",
+    "dedupe_key": "2feb2a86b346ceda",
+    "title": "Fri, 25 Sep 2026",
+    "issue_date": "2026-09-29",
+    "cluster_id": "arxiv_org_d4188a25",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_edbed79461a1e355",
+    "canonical_url": "https://stratechery.com/2026/apps-agents-and-aggregation",
+    "dedupe_key": "51f3f8dd149e7e75",
+    "title": "Apps, Agents, and Aggregation",
+    "issue_date": "2026-09-29",
+    "cluster_id": "stratechery_com_31eb2f5c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_be0cd008912cda5a",
+    "canonical_url": "https://arxiv.org/abs/2609.29507",
+    "dedupe_key": "ae1fede2b6464489",
+    "title": "arXiv:2609.29507",
+    "issue_date": "2026-09-29",
+    "cluster_id": "arxiv_org_6b5bfad7",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
