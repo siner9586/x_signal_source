@@ -1,22 +1,22 @@
 [
   {
-    "title": "Ember-1 from Fireworks now available on AI Gateway",
-    "url": "https://vercel.com/changelog/ember-1-from-fireworks-now-available-on-ai-gateway",
-    "summary": "Ember-1 from Fireworks is now available on AI Gateway . Ember-1 is a research preview reasoning model built on Kimi K3 for coding and agentic workflows. Fireworks reports approximately 40% fewer generated tokens than Kimi K3 at comparable quality across its evaluations. For coding agents that make repeated model calls, shorter reasoning traces can reduce output costs and the amount of context carried into later steps. Ember-1 supports a 1M-token context window, text and image",
+    "title": "Lower the Cost of Building and Running Visual AI Agents with NVIDIA VSS Blueprint 3.3",
+    "url": "https://developer.nvidia.com/blog/lower-the-cost-of-building-and-running-visual-ai-agents-with-nvidia-vss-blueprint-3-3",
+    "summary": "NVIDIA Technical Blog · Lower the Cost of Building and Running Visual AI Agents with NVIDIA VSS Blueprint 3.3",
     "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
+      "gpu",
+      "inference",
+      "ai_infra"
     ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-09-29",
-    "score": 74
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-09-30",
+    "score": 71
   },
   {
-    "title": "Are you a Codex Original?",
-    "url": "https://openai.com/form/codex-originals",
-    "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
+    "title": "Introducing GPT-6.1 Sol",
+    "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+    "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
     "tags": [
       "ai_models",
       "official",
@@ -25,124 +25,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-09-29",
-    "score": 71
-  },
-  {
-    "title": "Add Runtime Controls to AI Agents with NVIDIA OpenShell",
-    "url": "https://developer.nvidia.com/blog/add-runtime-controls-to-ai-agents-with-nvidia-openshell",
-    "summary": "NVIDIA Technical Blog · Add Runtime Controls to AI Agents with NVIDIA OpenShell",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-09-29",
-    "score": 71
-  },
-  {
-    "title": "How we found 24 Android vulnerabilities using our open source AI security agent",
-    "url": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent",
-    "summary": "A look at the targeted AI taskflows behind these findings, the critical Android bugs they uncovered, and how to run the same open-source agent on your own app. The post How we found 24 Android vulnerabilities using our open source AI security agent appeared first on The GitHub Blog .",
-    "tags": [
-      "ai_coding",
-      "developer_tools"
-    ],
-    "author": "GitHub Copilot",
-    "source": "github.blog",
-    "date": "2026-09-29",
+    "date": "2026-09-30",
     "score": 70
   },
   {
-    "title": "NVIDIA Open Agent Safety Platform: A Reference for Continuous In-Silicon Agent Monitoring",
-    "url": "https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring",
-    "summary": "NVIDIA Technical Blog · NVIDIA Open Agent Safety Platform: A Reference for Continuous In-Silicon Agent Monitoring",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-09-29",
-    "score": 69
-  },
-  {
-    "title": "Introducing Eleven v4, our most emotive model",
-    "url": "https://elevenlabs.io/blog/eleven-v4",
-    "summary": "ElevenLabs Blog - Company, Research & Product Updates · Introducing Eleven v4, our most emotive model",
-    "tags": [
-      "voice_ai",
-      "audio"
-    ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-09-29",
-    "score": 67
-  },
-  {
-    "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-    "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-    "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-09-29",
-    "score": 67
-  },
-  {
-    "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-    "url": "https://openai.com/index/basis-tax-workbook-with-astra",
-    "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-09-29",
-    "score": 67
-  },
-  {
-    "title": "Highlights from Git 2.56",
-    "url": "https://github.blog/open-source/git/highlights-from-git-2-56",
-    "summary": "The open source Git project just released Git 2.56. Here is GitHub's look at some of the most interesting features and changes introduced since last time. The post Highlights from Git 2.56 appeared first on The GitHub Blog .",
-    "tags": [
-      "ai_coding",
-      "developer_tools"
-    ],
-    "author": "GitHub Copilot",
-    "source": "github.blog",
-    "date": "2026-09-29",
-    "score": 67
-  },
-  {
-    "title": "How NVIDIA DSX MaxLPS Maximizes AI Factory Throughput and Efficiency",
-    "url": "https://developer.nvidia.com/blog/how-nvidia-dsx-maxlps-maximizes-ai-factory-throughput-and-efficiency",
-    "summary": "NVIDIA Technical Blog · How NVIDIA DSX MaxLPS Maximizes AI Factory Throughput and Efficiency",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-09-29",
-    "score": 66
-  },
-  {
-    "title": "Claude Sonnet 5.5 now available on AI Gateway",
-    "url": "https://vercel.com/changelog/claude-sonnet-5-5-now-available-on-ai-gateway",
-    "summary": "Claude Sonnet 5.5 from Anthropic is now available on AI Gateway as anthropic/claude-sonnet-5.5 . Sonnet 5.5 improves on Claude Sonnet 5 for well-scoped everyday work, from building features and fixing bugs to creating documents, slides, and spreadsheets. On coding tasks, Sonnet 5.5 carries changes through multiple steps and checks its work before reporting completion. It produces more polished documents, slides, and spreadsheets with fewer follow-up edits, and writes clearer ",
+    "title": "Search trace spans from the Vercel CLI",
+    "url": "https://vercel.com/changelog/search-trace-spans-from-the-vercel-cli",
+    "summary": "You and your coding agents can now search a project’s trace spans from the terminal with vercel traces search . Each span represents one step in a request, helping you investigate errors, latency, and security-related behavior without opening the dashboard. By default, vercel traces search returns up to 100 spans from the last hour, newest first, so you can search without first finding a request or trace ID. Filter results by environment, service, span name, status, deploymen",
     "tags": [
       "sdk",
       "ai_infra",
@@ -150,27 +39,114 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-09-29",
-    "score": 66
+    "date": "2026-09-30",
+    "score": 69
   },
   {
-    "title": "Who’s liable when AI agents go rogue?",
-    "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue",
-    "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a swarm of its agents&#8230;",
+    "title": "GPT-6.1 Sol now available on AI Gateway",
+    "url": "https://vercel.com/changelog/gpt-6-1-sol-now-available-on-ai-gateway",
+    "summary": "GPT-6.1 Sol from OpenAI is now available on AI Gateway. It improves on GPT-6 Sol for coding, computer use, and professional work, including reading complex documents and carrying out multi-step workflows. The model is suited to agents that need to debug code, work through business tasks, or extract answers from PDFs with tables and charts. It also improves factual accuracy on difficult questions. Its standard input and output pricing is lower than GPT-6 Astra's, while cheaper",
     "tags": [
-      "ai",
-      "research",
-      "society"
+      "sdk",
+      "ai_infra",
+      "frontend"
     ],
-    "author": "MIT Technology Review AI",
-    "source": "technologyreview.com",
-    "date": "2026-09-29",
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-09-30",
+    "score": 69
+  },
+  {
+    "title": "DevDay 2026 Recap",
+    "url": "https://openai.com/index/devday-2026-recap",
+    "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-09-30",
+    "score": 67
+  },
+  {
+    "title": "Introducing dots",
+    "url": "https://openai.com/index/introducing-dots",
+    "summary": "Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-09-30",
+    "score": 67
+  },
+  {
+    "title": "Towards safety cases for frontier AI training",
+    "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+    "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-09-30",
+    "score": 67
+  },
+  {
+    "title": "How we will do better for Australia",
+    "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+    "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-09-30",
+    "score": 67
+  },
+  {
+    "title": "Developer policy update: Transparency, state policy, and what’s ahead",
+    "url": "https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-transparency-state-policy-and-whats-ahead",
+    "summary": "Explore GitHub’s latest transparency data and learn more about policy updates affecting developers and open source. The post Developer policy update: Transparency, state policy, and what’s ahead appeared first on The GitHub Blog .",
+    "tags": [
+      "ai_coding",
+      "developer_tools"
+    ],
+    "author": "GitHub Copilot",
+    "source": "github.blog",
+    "date": "2026-09-30",
+    "score": 67
+  },
+  {
+    "title": "AI Native by Design: Lessons Learned from Building NVIDIA TensorRT Model Connect",
+    "url": "https://developer.nvidia.com/blog/ai-native-by-design-lessons-learned-from-building-nvidia-tensorrt-model-connect",
+    "summary": "NVIDIA Technical Blog · AI Native by Design: Lessons Learned from Building NVIDIA TensorRT Model Connect",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-09-30",
     "score": 66
   },
   {
-    "title": "Holo4: powering generalist computer-use agents",
-    "url": "https://huggingface.co/blog/Hcompany/holo4",
-    "summary": "Holo4: powering generalist computer-use agents 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+    "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+    "summary": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -178,13 +154,27 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-09-29",
+    "date": "2026-09-30",
     "score": 65
   },
   {
-    "title": "When can we say AI made a scientific discovery?",
-    "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology problems and human scientists run experiments on what&#8230;",
+    "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+    "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+    "summary": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-09-30",
+    "score": 62
+  },
+  {
+    "title": "Making AI an asset, not an expense",
+    "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense",
+    "summary": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. But that is often where the conversation goes. As AI moves from experimentation to production, model choice is only&#8230;",
     "tags": [
       "ai",
       "research",
@@ -192,68 +182,13 @@
     ],
     "author": "MIT Technology Review AI",
     "source": "technologyreview.com",
-    "date": "2026-09-29",
-    "score": 64
-  },
-  {
-    "title": "Search domains without authentication",
-    "url": "https://vercel.com/changelog/search-domains-without-authentication",
-    "summary": "You can now discover domain names and check availability and pricing without signing in to Vercel or providing an access token. This works through the Vercel CLI and Domains Registrar API. With the Vercel CLI , search by keyword or domain fragment: With the Domains Registrar API , check up to 200 exact domain names in one request. The response shows whether each can be registered and, when available, its registration and renewal prices: Authentication is still required to buy",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-09-29",
-    "score": 63
-  },
-  {
-    "title": "Vercel Marketplace database browser now supports Redis",
-    "url": "https://vercel.com/changelog/vercel-marketplace-database-browser-now-supports-redis",
-    "summary": "You can now run Redis commands, browse keys, and inspect values directly in the Vercel dashboard using the Marketplace database browser . Both the Redis and Upstash for Redis integrations in Vercel Marketplace are supported, so you no longer need redis-cli or a separate database UI. From your project, open Infrastructure > Storage and select a Redis database. The database page now includes two new tabs: CLI: Run Redis commands and inspect the results. Run multiple commands by",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-09-29",
-    "score": 63
-  },
-  {
-    "title": "Introducing Claude Sonnet 5.5 Announcements Sep 28, 2026 A clear upgrade over Sonnet 5 that runs 30% faster and costs up to 30% less for most work.",
-    "url": "https://www.anthropic.com/claude-sonnet-5-5",
-    "summary": "Newsroom \\ Anthropic · Introducing Claude Sonnet 5.5 Announcements Sep 28, 2026 A clear upgrade over Sonnet 5 that runs 30% faster and costs up to 30% less for most work.",
-    "tags": [
-      "ai_models",
-      "safety",
-      "official"
-    ],
-    "author": "Anthropic",
-    "source": "anthropic.com",
-    "date": "2026-09-29",
+    "date": "2026-09-30",
     "score": 62
   },
   {
-    "title": "Product · Sep 28, 2026 Team Bots: AI coworkers that learn from your team",
-    "url": "https://x.ai/news/team-bots",
-    "summary": "SpaceXAI · Product · Sep 28, 2026 Team Bots: AI coworkers that learn from your team",
-    "tags": [
-      "ai_models",
-      "reasoning"
-    ],
-    "author": "xAI",
-    "source": "x.ai",
-    "date": "2026-09-29",
-    "score": 62
-  },
-  {
-    "title": "🎙️ How I AI: Jev for beginners + I left Claude for months, Opus 5.5 brought me back + Opus 5.5 vs. GPT-6 Sol bench",
-    "url": "https://www.lennysnewsletter.com/p/how-i-ai-jev-for-beginners-i-left",
-    "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+    "title": "All of the Lenny & Friends Summit talks are now online!",
+    "url": "https://www.lennysnewsletter.com/p/all-of-the-lenny-and-friends-summit",
+    "summary": "Plus, some reflections and takeaways from the day",
     "tags": [
       "product",
       "growth",
@@ -261,40 +196,13 @@
     ],
     "author": "Lenny's Newsletter",
     "source": "lennysnewsletter.com",
-    "date": "2026-09-29",
-    "score": 62
-  },
-  {
-    "title": "Jev for beginners: how to use it and what to build",
-    "url": "https://www.lennysnewsletter.com/p/jev-for-beginners-how-to-use-it-and",
-    "summary": "Watch now (26 mins) | &#127897;&#65039; Jev returns type-safe structured values instead of text, which makes it the fastest, cheapest classification layer I&#8217;ve ever put in a pipeline&#8212;and this week I shipped three real projects with it",
-    "tags": [
-      "product",
-      "growth",
-      "startup"
-    ],
-    "author": "Lenny's Newsletter",
-    "source": "lennysnewsletter.com",
-    "date": "2026-09-29",
+    "date": "2026-09-30",
     "score": 61
   },
   {
-    "title": "Hallo, Deutschland!",
-    "url": "https://mistral.ai/news/hallo-deutschland",
-    "summary": "Latest news | Mistral · Hallo, Deutschland!",
-    "tags": [
-      "open_model",
-      "european_ai"
-    ],
-    "author": "Mistral AI",
-    "source": "mistral.ai",
-    "date": "2026-09-29",
-    "score": 60
-  },
-  {
-    "title": "Fri, 25 Sep 2026",
-    "url": "https://arxiv.org/list/cs.AI/recent?skip=201&amp%3Bshow=50",
-    "summary": "Artificial Intelligence · Fri, 25 Sep 2026",
+    "title": "Mon, 28 Sep 2026",
+    "url": "https://arxiv.org/list/cs.AI/recent?skip=972&amp%3Bshow=50",
+    "summary": "Artificial Intelligence · Mon, 28 Sep 2026",
     "tags": [
       "paper",
       "ai",
@@ -302,13 +210,13 @@
     ],
     "author": "arXiv CS AI",
     "source": "arxiv.org",
-    "date": "2026-09-29",
+    "date": "2026-09-30",
     "score": 60
   },
   {
-    "title": "Apps, Agents, and Aggregation",
-    "url": "https://stratechery.com/2026/apps-agents-and-aggregation",
-    "summary": "Agents are the ultimate Aggregators; they reveal apps as a means, not an ends, and providing them is tech's biggest prize.",
+    "title": "One More Note on Agents, Meta Connect, Meta Enterprise Platform",
+    "url": "https://stratechery.com/2026/one-more-note-on-agents-meta-connect-meta-enterprise-platform",
+    "summary": "Meta has the chance to own the consumer agentic space; going for enterprise is a big mistake.",
     "tags": [
       "strategy",
       "tech",
@@ -316,21 +224,7 @@
     ],
     "author": "Stratechery",
     "source": "stratechery.com",
-    "date": "2026-09-29",
-    "score": 59
-  },
-  {
-    "title": "arXiv:2609.29507",
-    "url": "https://arxiv.org/abs/2609.29507",
-    "summary": "Computation and Language · arXiv:2609.29507",
-    "tags": [
-      "paper",
-      "nlp",
-      "arxiv"
-    ],
-    "author": "arXiv CS CL",
-    "source": "arxiv.org",
-    "date": "2026-09-29",
+    "date": "2026-09-30",
     "score": 59
   }
 ]

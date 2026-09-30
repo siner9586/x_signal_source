@@ -22336,5 +22336,165 @@
     "cluster_id": "arxiv_org_6b5bfad7",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_189b78ef81d54f55",
+    "canonical_url": "https://developer.nvidia.com/blog/lower-the-cost-of-building-and-running-visual-ai-agents-with-nvidia-vss-blueprint-3-3",
+    "dedupe_key": "c856c6dd1633891b",
+    "title": "Lower the Cost of Building and Running Visual AI Agents with NVIDIA VSS Blueprint 3.3",
+    "issue_date": "2026-09-30",
+    "cluster_id": "developer_nvidia_com_a7a474b2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4d0290e72b2d25ed",
+    "canonical_url": "https://openai.com/index/introducing-gpt-6-1-sol",
+    "dedupe_key": "282d4d177be906d6",
+    "title": "Introducing GPT-6.1 Sol",
+    "issue_date": "2026-09-30",
+    "cluster_id": "openai_com_dbb04f99",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c43ebdfc445d28b1",
+    "canonical_url": "https://vercel.com/changelog/search-trace-spans-from-the-vercel-cli",
+    "dedupe_key": "610fe9892082998c",
+    "title": "Search trace spans from the Vercel CLI",
+    "issue_date": "2026-09-30",
+    "cluster_id": "vercel_com_f3e7dde2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f9b1639ef70c23dc",
+    "canonical_url": "https://vercel.com/changelog/gpt-6-1-sol-now-available-on-ai-gateway",
+    "dedupe_key": "584c70d931d164e2",
+    "title": "GPT-6.1 Sol now available on AI Gateway",
+    "issue_date": "2026-09-30",
+    "cluster_id": "vercel_com_7d68def6",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1803b03a6eca99bd",
+    "canonical_url": "https://openai.com/index/devday-2026-recap",
+    "dedupe_key": "cc0d2277470e29ce",
+    "title": "DevDay 2026 Recap",
+    "issue_date": "2026-09-30",
+    "cluster_id": "openai_com_94717e8f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_89dbc369ec36cc51",
+    "canonical_url": "https://openai.com/index/introducing-dots",
+    "dedupe_key": "c933cd12030e69ac",
+    "title": "Introducing dots",
+    "issue_date": "2026-09-30",
+    "cluster_id": "openai_com_756f1c01",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_71240b764134f177",
+    "canonical_url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+    "dedupe_key": "25cb482b635afae1",
+    "title": "Towards safety cases for frontier AI training",
+    "issue_date": "2026-09-30",
+    "cluster_id": "openai_com_03959d42",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_42ea2a302109212a",
+    "canonical_url": "https://openai.com/index/how-we-will-do-better-for-australia",
+    "dedupe_key": "6280517e04fec118",
+    "title": "How we will do better for Australia",
+    "issue_date": "2026-09-30",
+    "cluster_id": "openai_com_5e7ce8aa",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_56870cef671658f2",
+    "canonical_url": "https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-transparency-state-policy-and-whats-ahead",
+    "dedupe_key": "efad9bf0d6da4e05",
+    "title": "Developer policy update: Transparency, state policy, and what’s ahead",
+    "issue_date": "2026-09-30",
+    "cluster_id": "github_blog_dfb790b1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_00baabdbb820a9fb",
+    "canonical_url": "https://developer.nvidia.com/blog/ai-native-by-design-lessons-learned-from-building-nvidia-tensorrt-model-connect",
+    "dedupe_key": "1c73a2da1791d54c",
+    "title": "AI Native by Design: Lessons Learned from Building NVIDIA TensorRT Model Connect",
+    "issue_date": "2026-09-30",
+    "cluster_id": "developer_nvidia_com_ee4a5ec2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8a3c271aaa64293e",
+    "canonical_url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+    "dedupe_key": "34d6aed3fab2db4c",
+    "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+    "issue_date": "2026-09-30",
+    "cluster_id": "huggingface_co_ac9f3b7d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_31e8f8a17a0846e8",
+    "canonical_url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+    "dedupe_key": "c1a581db2c3697f0",
+    "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+    "issue_date": "2026-09-30",
+    "cluster_id": "huggingface_co_287f2870",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1ea18a19a15901b1",
+    "canonical_url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense",
+    "dedupe_key": "29a7c8446c22cbf1",
+    "title": "Making AI an asset, not an expense",
+    "issue_date": "2026-09-30",
+    "cluster_id": "technologyreview_com_d7881047",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4f47f3e80905c3ae",
+    "canonical_url": "https://www.lennysnewsletter.com/p/all-of-the-lenny-and-friends-summit",
+    "dedupe_key": "1acd0081bbe57dcf",
+    "title": "All of the Lenny & Friends Summit talks are now online!",
+    "issue_date": "2026-09-30",
+    "cluster_id": "lennysnewsletter_com_06733a74",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_85b8872852cfbc3e",
+    "canonical_url": "https://arxiv.org/list/cs.AI/recent?skip=972&amp%3Bshow=50",
+    "dedupe_key": "8c99b8537cb03626",
+    "title": "Mon, 28 Sep 2026",
+    "issue_date": "2026-09-30",
+    "cluster_id": "arxiv_org_01c083b3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_07d96ee4649cc250",
+    "canonical_url": "https://stratechery.com/2026/one-more-note-on-agents-meta-connect-meta-enterprise-platform",
+    "dedupe_key": "5cf5d6f99a78dc58",
+    "title": "One More Note on Agents, Meta Connect, Meta Enterprise Platform",
+    "issue_date": "2026-09-30",
+    "cluster_id": "stratechery_com_e641b1cd",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
