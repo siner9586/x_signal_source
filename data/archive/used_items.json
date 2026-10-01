@@ -22496,5 +22496,225 @@
     "cluster_id": "stratechery_com_e641b1cd",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2b5a1439722e7501",
+    "canonical_url": "https://vercel.com/changelog/ling-3-1-flash-is-now-available-on-ai-gateway",
+    "dedupe_key": "182aaf39ab9c7dd4",
+    "title": "Ling 3.1 Flash is now available on AI Gateway",
+    "issue_date": "2026-10-01",
+    "cluster_id": "vercel_com_bdc93cfe",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_53e93988372a9055",
+    "canonical_url": "https://elevenlabs.io/blog/tender-22bn",
+    "dedupe_key": "60f1c751e996f490",
+    "title": "ElevenLabs valuation increases to $22 billion fueled by enterprise demand for conversational agents",
+    "issue_date": "2026-10-01",
+    "cluster_id": "elevenlabs_io_8159d50e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ab2ca70c67a1f4a7",
+    "canonical_url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+    "dedupe_key": "eae0feb1272136f4",
+    "title": "Disrupting a coordinated model-distillation campaign",
+    "issue_date": "2026-10-01",
+    "cluster_id": "openai_com_7ba4ca65",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b05064a8adea8619",
+    "canonical_url": "https://developer.nvidia.com/blog/tracing-agent-harness-behavior-with-nvidia-nemo-relay",
+    "dedupe_key": "7ad38ac617596bac",
+    "title": "Tracing Agent Harness Behavior with NVIDIA NeMo Relay",
+    "issue_date": "2026-10-01",
+    "cluster_id": "developer_nvidia_com_b3df6d7d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ec089d857acd7bf1",
+    "canonical_url": "https://a16z.com/podcast/garry-tan-on-taste-agents-and-founder-ambition",
+    "dedupe_key": "21e057b7bd61fa3f",
+    "title": "Garry Tan on Taste, Agents and Founder Ambition",
+    "issue_date": "2026-10-01",
+    "cluster_id": "a16z_com_c243faa9",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e379e2ab0d3cb7c6",
+    "canonical_url": "https://deepmind.google/blog/introducing-synthid-bio",
+    "dedupe_key": "5903698206ad6600",
+    "title": "Introducing SynthID Bio",
+    "issue_date": "2026-10-01",
+    "cluster_id": "deepmind_google_8d6b407b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9aaacee845abf82c",
+    "canonical_url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+    "dedupe_key": "3ee6e32ff36fd1af",
+    "title": "Helping small businesses put AI to work",
+    "issue_date": "2026-10-01",
+    "cluster_id": "openai_com_545126af",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_83ea53986106d13a",
+    "canonical_url": "https://a16z.com/podcast/three-startups-reinventing-critical-infrastructure-2",
+    "dedupe_key": "944d2013cc254dd6",
+    "title": "Three Startups Reinventing Critical Infrastructure",
+    "issue_date": "2026-10-01",
+    "cluster_id": "a16z_com_000b67e5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_22ecc708873350dd",
+    "canonical_url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence",
+    "dedupe_key": "e3ee8104cf770ca1",
+    "title": "Gemini 4 Argon: our next era of frontier intelligence",
+    "issue_date": "2026-10-01",
+    "cluster_id": "deepmind_google_9c8977dd",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_75782707000a2e67",
+    "canonical_url": "https://developer.nvidia.com/blog/deploying-an-hstu-generative-recommender-with-nvidia-dynamo-triton",
+    "dedupe_key": "c45d87834d4ad5c7",
+    "title": "Deploying an HSTU Generative Recommender with NVIDIA Dynamo-Triton",
+    "issue_date": "2026-10-01",
+    "cluster_id": "developer_nvidia_com_230e7b5d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_cf2ce587b95854ea",
+    "canonical_url": "https://developer.nvidia.com/blog/expanding-ai-storage-access-with-nvidia-cuobject-and-the-nvidia-scada-server-sdk",
+    "dedupe_key": "fd2d3d48bf284642",
+    "title": "Expanding AI Storage Access with NVIDIA cuObject and the NVIDIA SCADA Server SDK",
+    "issue_date": "2026-10-01",
+    "cluster_id": "developer_nvidia_com_9967766f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_400b8df1afb80991",
+    "canonical_url": "https://vercel.com/changelog/vercel-agent-now-installs-private-packages-from-npm-and-custom-registries",
+    "dedupe_key": "10df60737250d089",
+    "title": "Vercel Agent now installs private packages from npm and custom registries",
+    "issue_date": "2026-10-01",
+    "cluster_id": "vercel_com_e6829e8a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ab442c3aabb507cb",
+    "canonical_url": "https://vercel.com/changelog/edge-requests-are-now-called-cdn-requests",
+    "dedupe_key": "241ffa1f061402e4",
+    "title": "Edge Requests are now called CDN Requests",
+    "issue_date": "2026-10-01",
+    "cluster_id": "vercel_com_915d1382",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d8015c3f42823c2e",
+    "canonical_url": "https://research.runwayml.com/research/introducing-praxis-1",
+    "dedupe_key": "ebe08b944225a3a3",
+    "title": "Introducing Praxis-1",
+    "issue_date": "2026-10-01",
+    "cluster_id": "research_runwayml_com_eee79842",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4268116ca42b7f46",
+    "canonical_url": "https://a16z.com/podcast/ben-horowitz-and-travis-kalanick-on-building-again",
+    "dedupe_key": "0fba4bc881fc2181",
+    "title": "Ben Horowitz and Travis Kalanick on Building Again",
+    "issue_date": "2026-10-01",
+    "cluster_id": "a16z_com_31519618",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1c703cdd18877f20",
+    "canonical_url": "https://a16z.com/podcast/the-reality-of-ai-powered-cyberattacks-truffle-security-socket",
+    "dedupe_key": "c2e61387f267eb99",
+    "title": "The Reality of AI-Powered Cyberattacks | Truffle Security & Socket&#8232;",
+    "issue_date": "2026-10-01",
+    "cluster_id": "a16z_com_f831a036",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4d58603d985e4467",
+    "canonical_url": "https://a16z.com/podcast/the-engine-powering-open-source-ai",
+    "dedupe_key": "6225401f1182853d",
+    "title": "The Engine Powering Open-Source AI&#8232;",
+    "issue_date": "2026-10-01",
+    "cluster_id": "a16z_com_8426789b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_fc3478209293aca5",
+    "canonical_url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer",
+    "dedupe_key": "a749c63170a67f32",
+    "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+    "issue_date": "2026-10-01",
+    "cluster_id": "technologyreview_com_7374d026",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b66b6c04b13f12c6",
+    "canonical_url": "https://www.lennysnewsletter.com/p/jev-8-real-use-cases-for-the-fastest",
+    "dedupe_key": "0b0b61bcbd9c09e2",
+    "title": "Jev: 8 real use cases for the fastest, cheapest model I’ve ever used | John Lindquist",
+    "issue_date": "2026-10-01",
+    "cluster_id": "lennysnewsletter_com_007f0e94",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_bebb185943b4004a",
+    "canonical_url": "https://vercel.com/changelog/ai-gateway-adds-browserbase-search-and-fetch-tools",
+    "dedupe_key": "a7dc8ede56d40b42",
+    "title": "AI Gateway adds Browserbase Search and Fetch tools",
+    "issue_date": "2026-10-01",
+    "cluster_id": "vercel_com_3b6ae3e7",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_609116e5658a4232",
+    "canonical_url": "https://vercel.com/changelog/vercel-sandbox-now-supports-secure-compute",
+    "dedupe_key": "4c41befe7fb55a1e",
+    "title": "Vercel Sandbox now supports Secure Compute",
+    "issue_date": "2026-10-01",
+    "cluster_id": "vercel_com_bb32b819",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_43f9bed2970c3487",
+    "canonical_url": "https://vercel.com/changelog/vary-cookie-responses-no-longer-cached",
+    "dedupe_key": "7ac69c8a828ec7f0",
+    "title": "Vercel CDN no longer caches responses with Vary: Cookie",
+    "issue_date": "2026-10-01",
+    "cluster_id": "vercel_com_74f55532",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
