@@ -1,35 +1,22 @@
 [
   {
-    "title": "Ling 3.1 Flash is now available on AI Gateway",
-    "url": "https://vercel.com/changelog/ling-3-1-flash-is-now-available-on-ai-gateway",
-    "summary": "Ling 3.1 Flash from InclusionAI is now available on AI Gateway. The model is free to use through October 13, 2026. Ling 3.1 Flash is a hybrid reasoning language model with 560B total parameters and 25B active per token. It has a 262K-token context window on AI Gateway. The model is designed for coding, multi-step analysis, and agents that use tools, including workflows involving long documents, code, and extended task histories. To try Ling 3.1 Flash, use inclusionai/ling-3.1",
+    "title": "Build Applications on NVIDIA BlueField Faster with NVIDIA DOCA Agent Skills",
+    "url": "https://developer.nvidia.com/blog/build-applications-on-nvidia-bluefield-faster-with-nvidia-doca-agent-skills",
+    "summary": "NVIDIA Technical Blog · Build Applications on NVIDIA BlueField Faster with NVIDIA DOCA Agent Skills",
     "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
+      "gpu",
+      "inference",
+      "ai_infra"
     ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-01",
-    "score": 71
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-10-02",
+    "score": 69
   },
   {
-    "title": "ElevenLabs valuation increases to $22 billion fueled by enterprise demand for conversational agents",
-    "url": "https://elevenlabs.io/blog/tender-22bn",
-    "summary": "ElevenLabs Blog - Company, Research & Product Updates · ElevenLabs valuation increases to $22 billion fueled by enterprise demand for conversational agents",
-    "tags": [
-      "voice_ai",
-      "audio"
-    ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-10-01",
-    "score": 70
-  },
-  {
-    "title": "Disrupting a coordinated model-distillation campaign",
-    "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-    "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+    "title": "The eternal complement",
+    "url": "https://openai.com/index/the-eternal-complement",
+    "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
     "tags": [
       "ai_models",
       "official",
@@ -38,56 +25,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-10-01",
-    "score": 69
+    "date": "2026-10-02",
+    "score": 67
   },
   {
-    "title": "Tracing Agent Harness Behavior with NVIDIA NeMo Relay",
-    "url": "https://developer.nvidia.com/blog/tracing-agent-harness-behavior-with-nvidia-nemo-relay",
-    "summary": "NVIDIA Technical Blog · Tracing Agent Harness Behavior with NVIDIA NeMo Relay",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-10-01",
-    "score": 69
-  },
-  {
-    "title": "Garry Tan on Taste, Agents and Founder Ambition",
-    "url": "https://a16z.com/podcast/garry-tan-on-taste-agents-and-founder-ambition",
-    "summary": "AI a16z | Andreessen Horowitz · Garry Tan on Taste, Agents and Founder Ambition",
-    "tags": [
-      "investment",
-      "startup",
-      "thesis"
-    ],
-    "author": "a16z AI",
-    "source": "a16z.com",
-    "date": "2026-10-01",
-    "score": 69
-  },
-  {
-    "title": "Introducing SynthID Bio",
-    "url": "https://deepmind.google/blog/introducing-synthid-bio",
-    "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
-    "tags": [
-      "research",
-      "multimodal",
-      "science",
-      "official"
-    ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-10-01",
-    "score": 68
-  },
-  {
-    "title": "Helping small businesses put AI to work",
-    "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-    "summary": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
+    "title": "How Albertsons Companies is reimagining retail from the inside out",
+    "url": "https://openai.com/index/albertsons-reimagining-retail",
+    "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
     "tags": [
       "ai_models",
       "official",
@@ -96,168 +40,195 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-10-01",
+    "date": "2026-10-02",
     "score": 67
   },
   {
-    "title": "Three Startups Reinventing Critical Infrastructure",
-    "url": "https://a16z.com/podcast/three-startups-reinventing-critical-infrastructure-2",
-    "summary": "AI a16z | Andreessen Horowitz · Three Startups Reinventing Critical Infrastructure",
+    "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+    "url": "https://openai.com/index/the-den-family-social",
+    "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
     "tags": [
-      "investment",
-      "startup",
-      "thesis"
-    ],
-    "author": "a16z AI",
-    "source": "a16z.com",
-    "date": "2026-10-01",
-    "score": 67
-  },
-  {
-    "title": "Gemini 4 Argon: our next era of frontier intelligence",
-    "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence",
-    "summary": "Gemini 4 Argon: our next era of frontier intelligence 是 Google DeepMind 当日抓取到的公开新增条目。",
-    "tags": [
+      "ai_models",
+      "official",
       "research",
-      "multimodal",
-      "science",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-10-02",
+    "score": 67
+  },
+  {
+    "title": "10 technical talks I’m excited about at GitHub Universe 2026",
+    "url": "https://github.blog/news-insights/company-news/10-technical-talks-im-excited-about-at-github-universe-2026",
+    "summary": "From verifying AI-written code to securing npm dependencies, these are the sessions I’m building my Universe agenda around. The post 10 technical talks I’m excited about at GitHub Universe 2026 appeared first on The GitHub Blog .",
+    "tags": [
+      "ai_coding",
+      "developer_tools"
+    ],
+    "author": "GitHub Copilot",
+    "source": "github.blog",
+    "date": "2026-10-02",
+    "score": 67
+  },
+  {
+    "title": "How to Build a Model Router in the Harness",
+    "url": "https://www.langchain.com/blog/how-to-build-a-model-router-in-the-harness",
+    "summary": "How we built a model router into Open SWE's harness that cut median cost per coding task by 64% with no measurable drop in quality, and how to build your own.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-10-02",
+    "score": 67
+  },
+  {
+    "title": "Build Local AI Apps with C++ and NVIDIA TensorRT RTX Samples",
+    "url": "https://developer.nvidia.com/blog/build-local-ai-apps-with-c-and-nvidia-tensorrt-rtx-samples",
+    "summary": "NVIDIA Technical Blog · Build Local AI Apps with C++ and NVIDIA TensorRT RTX Samples",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-10-02",
+    "score": 66
+  },
+  {
+    "title": "Fine-Tuning NVIDIA Nemotron for Saudi Arabic Dialects, with a Path to Other Languages",
+    "url": "https://developer.nvidia.com/blog/fine-tuning-nvidia-nemotron-for-saudi-arabic-dialects-with-a-path-to-other-languages",
+    "summary": "NVIDIA Technical Blog · Fine-Tuning NVIDIA Nemotron for Saudi Arabic Dialects, with a Path to Other Languages",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-10-02",
+    "score": 66
+  },
+  {
+    "title": "Laya decision model now available on AI Gateway, free through October 31",
+    "url": "https://vercel.com/changelog/laya-decision-model-now-available-on-ai-gateway-free-through-october-31",
+    "summary": "Laya from Convai Innovations is free to use on AI Gateway for 1 month through October 31, 2026 via Boundless . Laya is an evaluation/decision model that evaluates shared context against yes/no, choice, or scoring questions and returns structured answers with probabilities. For example, use it to: Triage support requests: Detect a refund request and route it to the billing team. Route agent work: Choose which tool or workflow should handle a request. Check guardrails: Flag a r",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-10-02",
+    "score": 66
+  },
+  {
+    "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+    "url": "https://huggingface.co/blog/allenai/olmocore3",
+    "summary": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-10-02",
+    "score": 66
+  },
+  {
+    "title": "Introducing Extract v2.5: Next-Gen Document Extraction Agents ->",
+    "url": "https://www.llamaindex.ai/blog/introducing-extract-v2-5",
+    "summary": "Blog · Introducing Extract v2.5: Next-Gen Document Extraction Agents ->",
+    "tags": [
+      "rag",
+      "agents",
+      "framework"
+    ],
+    "author": "LlamaIndex",
+    "source": "llamaindex.ai",
+    "date": "2026-10-02",
+    "score": 66
+  },
+  {
+    "title": "Vivian Midha Shen and Raphael Schaad Join YC as General Partners",
+    "url": "https://www.ycombinator.com/blog/welcome-vivian-and-raphael",
+    "summary": "We’re thrilled to announce that Vivian Midha Shen and Raphael Schaad are joining Y Combinator as our newest General Partners.",
+    "tags": [
+      "startup",
+      "product",
+      "founder"
+    ],
+    "author": "Y Combinator",
+    "source": "ycombinator.com",
+    "date": "2026-10-02",
+    "score": 64
+  },
+  {
+    "title": "Microsoft AI models are now available on AI Gateway",
+    "url": "https://vercel.com/changelog/microsoft-ai-models-are-now-available-on-ai-gateway",
+    "summary": "Vercel and Microsoft AI (MAI) have partnered to make MAI models available on AI Gateway. AI Gateway is one of a limited number of platforms offering access to MAI models. MAI's focus on security and zero data retention (ZDR) align with Vercel's goal of giving AI Gateway users control over their data and transparency in how it is used for training. MAI models on AI Gateway MAI's latest audio models are now supported on AI Gateway. MAI-Voice-2.1 and MAI-Voice-2.1-Flash generate",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-10-02",
+    "score": 63
+  },
+  {
+    "title": "Vercel Connect now accepts service submissions",
+    "url": "https://vercel.com/changelog/vercel-connect-service-submissions",
+    "summary": "Vercel Connect now lets you submit your own service to the connectors directory , so you no longer need to wait for Vercel to build a connector for it. Submitting a service takes four steps: Describe your service. Add one or more connection methods, using OAuth or an API key. Verify each OAuth method by requesting a real token through a test connector. Send the submission for review. Vercel reviews each submission before publishing it to the directory. Get started from Submit",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-10-02",
+    "score": 63
+  },
+  {
+    "title": "Oct 1, 2026 Announcements Barclays scales Claude to upgrade operations and improve client experience",
+    "url": "https://www.anthropic.com/news/barclays-scales-claude",
+    "summary": "Newsroom \\ Anthropic · Oct 1, 2026 Announcements Barclays scales Claude to upgrade operations and improve client experience",
+    "tags": [
+      "ai_models",
+      "safety",
       "official"
     ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-10-01",
-    "score": 66
+    "author": "Anthropic",
+    "source": "anthropic.com",
+    "date": "2026-10-02",
+    "score": 62
   },
   {
-    "title": "Deploying an HSTU Generative Recommender with NVIDIA Dynamo-Triton",
-    "url": "https://developer.nvidia.com/blog/deploying-an-hstu-generative-recommender-with-nvidia-dynamo-triton",
-    "summary": "NVIDIA Technical Blog · Deploying an HSTU Generative Recommender with NVIDIA Dynamo-Triton",
+    "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+    "url": "https://huggingface.co/blog/open-tts-leaderboard",
+    "summary": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
+      "open_source",
+      "papers",
+      "models"
     ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-10-01",
-    "score": 66
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-10-02",
+    "score": 62
   },
   {
-    "title": "Expanding AI Storage Access with NVIDIA cuObject and the NVIDIA SCADA Server SDK",
-    "url": "https://developer.nvidia.com/blog/expanding-ai-storage-access-with-nvidia-cuobject-and-the-nvidia-scada-server-sdk",
-    "summary": "NVIDIA Technical Blog · Expanding AI Storage Access with NVIDIA cuObject and the NVIDIA SCADA Server SDK",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-10-01",
-    "score": 66
-  },
-  {
-    "title": "Vercel Agent now installs private packages from npm and custom registries",
-    "url": "https://vercel.com/changelog/vercel-agent-now-installs-private-packages-from-npm-and-custom-registries",
-    "summary": "Vercel Agent can install private dependencies from npm and custom registries using credentials stored as shared environment variables on Vercel. npm , pnpm , and classic Yarn running in Agent sessions authenticate as they do in Vercel builds. To get started, add a shared environment variable for Development or Preview: Use NPM_TOKEN for private packages hosted on registry.npmjs.org . Use NPM_RC to configure custom or multiple registries. Vercel Agent reads only team-shared va",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-01",
-    "score": 66
-  },
-  {
-    "title": "Edge Requests are now called CDN Requests",
-    "url": "https://vercel.com/changelog/edge-requests-are-now-called-cdn-requests",
-    "summary": "CDN Requests is now the name for the usage metric previously called Edge Requests. This is a naming change only: pricing, limits, and how usage is measured are all unchanged. The new name appears on the usage dashboard, the Observability Events chart, usage notifications, and invoice line items. It reflects that these are requests served by Vercel's CDN. Metric IDs and product aliases are unchanged, so saved queries keep working. In the billing charges API, ServiceName now re",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-01",
-    "score": 65
-  },
-  {
-    "title": "Introducing Praxis-1",
-    "url": "https://research.runwayml.com/research/introducing-praxis-1",
-    "summary": "AI Video Research & Innovation | Runway AI · Introducing Praxis-1",
-    "tags": [
-      "video_ai",
-      "multimodal",
-      "research"
-    ],
-    "author": "Runway",
-    "source": "research.runwayml.com",
-    "date": "2026-10-01",
-    "score": 64
-  },
-  {
-    "title": "Ben Horowitz and Travis Kalanick on Building Again",
-    "url": "https://a16z.com/podcast/ben-horowitz-and-travis-kalanick-on-building-again",
-    "summary": "AI a16z | Andreessen Horowitz · Ben Horowitz and Travis Kalanick on Building Again",
-    "tags": [
-      "investment",
-      "startup",
-      "thesis"
-    ],
-    "author": "a16z AI",
-    "source": "a16z.com",
-    "date": "2026-10-01",
-    "score": 64
-  },
-  {
-    "title": "The Reality of AI-Powered Cyberattacks | Truffle Security & Socket&#8232;",
-    "url": "https://a16z.com/podcast/the-reality-of-ai-powered-cyberattacks-truffle-security-socket",
-    "summary": "AI a16z | Andreessen Horowitz · The Reality of AI-Powered Cyberattacks | Truffle Security & Socket&#8232;",
-    "tags": [
-      "investment",
-      "startup",
-      "thesis"
-    ],
-    "author": "a16z AI",
-    "source": "a16z.com",
-    "date": "2026-10-01",
-    "score": 64
-  },
-  {
-    "title": "The Engine Powering Open-Source AI&#8232;",
-    "url": "https://a16z.com/podcast/the-engine-powering-open-source-ai",
-    "summary": "AI a16z | Andreessen Horowitz · The Engine Powering Open-Source AI&#8232;",
-    "tags": [
-      "investment",
-      "startup",
-      "thesis"
-    ],
-    "author": "a16z AI",
-    "source": "a16z.com",
-    "date": "2026-10-01",
-    "score": 64
-  },
-  {
-    "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
-    "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer",
-    "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the spotlight and raised serious questions&#8230;",
-    "tags": [
-      "ai",
-      "research",
-      "society"
-    ],
-    "author": "MIT Technology Review AI",
-    "source": "technologyreview.com",
-    "date": "2026-10-01",
-    "score": 64
-  },
-  {
-    "title": "Jev: 8 real use cases for the fastest, cheapest model I’ve ever used | John Lindquist",
-    "url": "https://www.lennysnewsletter.com/p/jev-8-real-use-cases-for-the-fastest",
-    "summary": "Watch now (46 mins) | &#127897;&#65039; Educator and developer John Lindquist shares eight Jev demos, from live voice classification and deduplication to agent routing, showing how low costs make once-impractical ideas worth trying",
+    "title": "OpenAI Dev Day 2026: The releases that actually matter",
+    "url": "https://www.lennysnewsletter.com/p/openai-dev-day-2026-the-releases",
+    "summary": "Watch now (24 mins) | &#127897;&#65039; Claire tests OpenAI&#8217;s DevDay releases, from Dots, Spaces, and Sites to AI-picked thumbnails and a $97 game, and shares what&#8217;s worth trying first",
     "tags": [
       "product",
       "growth",
@@ -265,49 +236,49 @@
     ],
     "author": "Lenny's Newsletter",
     "source": "lennysnewsletter.com",
-    "date": "2026-10-01",
-    "score": 64
+    "date": "2026-10-02",
+    "score": 62
   },
   {
-    "title": "AI Gateway adds Browserbase Search and Fetch tools",
-    "url": "https://vercel.com/changelog/ai-gateway-adds-browserbase-search-and-fetch-tools",
-    "summary": "Browserbase Search and Fetch are now available through AI Gateway . Give your models access to current information, find relevant pages, and retrieve their contents, alongside Browserbase's existing AI SDK and Vercel Marketplace integrations. AI Gateway lets you use Browserbase's tools across model providers with one API key. Add web search and page retrieval to any model that supports tool calling, and keep the same tools when you switch models. These helpers are available i",
+    "title": "Wed, 30 Sep 2026",
+    "url": "https://arxiv.org/list/cs.AI/recent?skip=394&amp%3Bshow=50",
+    "summary": "Artificial Intelligence · Wed, 30 Sep 2026",
     "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
+      "paper",
+      "ai",
+      "arxiv"
     ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-01",
-    "score": 63
+    "author": "arXiv CS AI",
+    "source": "arxiv.org",
+    "date": "2026-10-02",
+    "score": 60
   },
   {
-    "title": "Vercel Sandbox now supports Secure Compute",
-    "url": "https://vercel.com/changelog/vercel-sandbox-now-supports-secure-compute",
-    "summary": "Vercel Sandbox now supports Secure Compute , connecting sandboxes to a team's dedicated network. Public-internet traffic exits through the network's static IPs, and sandboxes can reach private resources in an AWS VPC through VPC peering. You can attach a sandbox to your network in your code or via the CLI. In your code, pass an existing Secure Compute network ID when creating a sandbox: In the CLI, append --network-id and your network id value when you run the sandbox create ",
+    "title": "Tue, 29 Sep 2026",
+    "url": "https://arxiv.org/list/cs.AI/recent?skip=900&amp%3Bshow=50",
+    "summary": "Artificial Intelligence · Tue, 29 Sep 2026",
     "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
+      "paper",
+      "ai",
+      "arxiv"
     ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-01",
-    "score": 63
+    "author": "arXiv CS AI",
+    "source": "arxiv.org",
+    "date": "2026-10-02",
+    "score": 60
   },
   {
-    "title": "Vercel CDN no longer caches responses with Vary: Cookie",
-    "url": "https://vercel.com/changelog/vary-cookie-responses-no-longer-cached",
-    "summary": "Vercel CDN no longer caches origin responses when Vary includes Cookie . Vary tells a cache which request headers may change the response. Because cookies often contain visitor-specific values, varying by Cookie can create many cache entries that are rarely reused. The response is still served normally but isn't stored for future requests. You can identify these responses by checking the x-vercel-cache header and Runtime Logs . The header is set to MISS , and Logs show vary_k",
+    "title": "OpenAI Dev Day, Dot and OpenAI&#8217;s Product Transition, Sign In With ChatGPT",
+    "url": "https://stratechery.com/2026/openai-dev-day-dot-and-openais-product-transition-sign-in-with-chatgpt",
+    "summary": "OpenAI's Dev Day showcased a product that is, frankly, pretty confusing. However, there is more vision here than it might seem.",
     "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
+      "strategy",
+      "tech",
+      "business"
     ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-01",
-    "score": 63
+    "author": "Stratechery",
+    "source": "stratechery.com",
+    "date": "2026-10-02",
+    "score": 59
   }
 ]

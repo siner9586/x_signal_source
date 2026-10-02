@@ -22716,5 +22716,205 @@
     "cluster_id": "vercel_com_74f55532",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_956157944a6f1644",
+    "canonical_url": "https://developer.nvidia.com/blog/build-applications-on-nvidia-bluefield-faster-with-nvidia-doca-agent-skills",
+    "dedupe_key": "3ed9aa4ecd3233d3",
+    "title": "Build Applications on NVIDIA BlueField Faster with NVIDIA DOCA Agent Skills",
+    "issue_date": "2026-10-02",
+    "cluster_id": "developer_nvidia_com_7c076a6d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f10d45cd78fc0586",
+    "canonical_url": "https://openai.com/index/the-eternal-complement",
+    "dedupe_key": "e87aad30f68e231d",
+    "title": "The eternal complement",
+    "issue_date": "2026-10-02",
+    "cluster_id": "openai_com_1e49a1d5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0b4942860792c955",
+    "canonical_url": "https://openai.com/index/albertsons-reimagining-retail",
+    "dedupe_key": "7a47dfc330ac4ac0",
+    "title": "How Albertsons Companies is reimagining retail from the inside out",
+    "issue_date": "2026-10-02",
+    "cluster_id": "openai_com_a1a382c5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3171c84f444692c3",
+    "canonical_url": "https://openai.com/index/the-den-family-social",
+    "dedupe_key": "ef0a85e2a4e0cb2c",
+    "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+    "issue_date": "2026-10-02",
+    "cluster_id": "openai_com_66fca057",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5cb0afb7b49639d7",
+    "canonical_url": "https://github.blog/news-insights/company-news/10-technical-talks-im-excited-about-at-github-universe-2026",
+    "dedupe_key": "c6fb3f2306aba3ed",
+    "title": "10 technical talks I’m excited about at GitHub Universe 2026",
+    "issue_date": "2026-10-02",
+    "cluster_id": "github_blog_ef22207a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c15e5ccc5b2d5d9b",
+    "canonical_url": "https://www.langchain.com/blog/how-to-build-a-model-router-in-the-harness",
+    "dedupe_key": "00d9dc6b012d931b",
+    "title": "How to Build a Model Router in the Harness",
+    "issue_date": "2026-10-02",
+    "cluster_id": "langchain_com_6df85df0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_14604c58d71d0d40",
+    "canonical_url": "https://developer.nvidia.com/blog/build-local-ai-apps-with-c-and-nvidia-tensorrt-rtx-samples",
+    "dedupe_key": "628a0cb47fe51e42",
+    "title": "Build Local AI Apps with C++ and NVIDIA TensorRT RTX Samples",
+    "issue_date": "2026-10-02",
+    "cluster_id": "developer_nvidia_com_b4c6636c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ef0ce8459ea8da15",
+    "canonical_url": "https://developer.nvidia.com/blog/fine-tuning-nvidia-nemotron-for-saudi-arabic-dialects-with-a-path-to-other-languages",
+    "dedupe_key": "1a146c12e7c3db81",
+    "title": "Fine-Tuning NVIDIA Nemotron for Saudi Arabic Dialects, with a Path to Other Languages",
+    "issue_date": "2026-10-02",
+    "cluster_id": "developer_nvidia_com_1e91bfa2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_90ca9a43fafd4a46",
+    "canonical_url": "https://vercel.com/changelog/laya-decision-model-now-available-on-ai-gateway-free-through-october-31",
+    "dedupe_key": "4f4f7c8337eb7005",
+    "title": "Laya decision model now available on AI Gateway, free through October 31",
+    "issue_date": "2026-10-02",
+    "cluster_id": "vercel_com_661910e7",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_499dd91b2aeadcd3",
+    "canonical_url": "https://huggingface.co/blog/allenai/olmocore3",
+    "dedupe_key": "8a8d884d391823f4",
+    "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+    "issue_date": "2026-10-02",
+    "cluster_id": "huggingface_co_3d4de2f8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c81aa5d43bf59aea",
+    "canonical_url": "https://www.llamaindex.ai/blog/introducing-extract-v2-5",
+    "dedupe_key": "22d9ba910164a6dd",
+    "title": "Introducing Extract v2.5: Next-Gen Document Extraction Agents ->",
+    "issue_date": "2026-10-02",
+    "cluster_id": "llamaindex_ai_e365f26a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2be598e756648246",
+    "canonical_url": "https://www.ycombinator.com/blog/welcome-vivian-and-raphael",
+    "dedupe_key": "4bf05b9fe42672a1",
+    "title": "Vivian Midha Shen and Raphael Schaad Join YC as General Partners",
+    "issue_date": "2026-10-02",
+    "cluster_id": "ycombinator_com_d878ddf3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4fc33961ea1e6dd7",
+    "canonical_url": "https://vercel.com/changelog/microsoft-ai-models-are-now-available-on-ai-gateway",
+    "dedupe_key": "e680e7867ab48182",
+    "title": "Microsoft AI models are now available on AI Gateway",
+    "issue_date": "2026-10-02",
+    "cluster_id": "vercel_com_b8a5c4d9",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2c867600e3112999",
+    "canonical_url": "https://vercel.com/changelog/vercel-connect-service-submissions",
+    "dedupe_key": "8fa676964831d87f",
+    "title": "Vercel Connect now accepts service submissions",
+    "issue_date": "2026-10-02",
+    "cluster_id": "vercel_com_e926e20d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8012f45868ab21ab",
+    "canonical_url": "https://www.anthropic.com/news/barclays-scales-claude",
+    "dedupe_key": "d44dc2e1b4a3ed82",
+    "title": "Oct 1, 2026 Announcements Barclays scales Claude to upgrade operations and improve client experience",
+    "issue_date": "2026-10-02",
+    "cluster_id": "anthropic_com_200ea973",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_166bcddba6cb3001",
+    "canonical_url": "https://huggingface.co/blog/open-tts-leaderboard",
+    "dedupe_key": "155fd872902f6610",
+    "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+    "issue_date": "2026-10-02",
+    "cluster_id": "huggingface_co_a16d7182",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_fa61e4b4984cf84c",
+    "canonical_url": "https://www.lennysnewsletter.com/p/openai-dev-day-2026-the-releases",
+    "dedupe_key": "a7ecfc3866b30650",
+    "title": "OpenAI Dev Day 2026: The releases that actually matter",
+    "issue_date": "2026-10-02",
+    "cluster_id": "lennysnewsletter_com_bc284117",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9cc347b7557a8053",
+    "canonical_url": "https://arxiv.org/list/cs.AI/recent?skip=394&amp%3Bshow=50",
+    "dedupe_key": "981887deeb9c5982",
+    "title": "Wed, 30 Sep 2026",
+    "issue_date": "2026-10-02",
+    "cluster_id": "arxiv_org_3c50395c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_76d9769149715641",
+    "canonical_url": "https://arxiv.org/list/cs.AI/recent?skip=900&amp%3Bshow=50",
+    "dedupe_key": "18ff3f08589fbc00",
+    "title": "Tue, 29 Sep 2026",
+    "issue_date": "2026-10-02",
+    "cluster_id": "arxiv_org_d90cdcc3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1e74ccae9762e48b",
+    "canonical_url": "https://stratechery.com/2026/openai-dev-day-dot-and-openais-product-transition-sign-in-with-chatgpt",
+    "dedupe_key": "1c93ed2d18fbd3e3",
+    "title": "OpenAI Dev Day, Dot and OpenAI&#8217;s Product Transition, Sign In With ChatGPT",
+    "issue_date": "2026-10-02",
+    "cluster_id": "stratechery_com_54538a26",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
