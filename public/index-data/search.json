@@ -1,22 +1,8 @@
 [
   {
-    "title": "Build Applications on NVIDIA BlueField Faster with NVIDIA DOCA Agent Skills",
-    "url": "https://developer.nvidia.com/blog/build-applications-on-nvidia-bluefield-faster-with-nvidia-doca-agent-skills",
-    "summary": "NVIDIA Technical Blog · Build Applications on NVIDIA BlueField Faster with NVIDIA DOCA Agent Skills",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-10-02",
-    "score": 69
-  },
-  {
-    "title": "The eternal complement",
-    "url": "https://openai.com/index/the-eternal-complement",
-    "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+    "title": "A model guide for the GPT-6 family",
+    "url": "https://openai.com/index/practical-guide-building-gpt-6",
+    "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
     "tags": [
       "ai_models",
       "official",
@@ -25,98 +11,26 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-10-02",
-    "score": 67
+    "date": "2026-10-03",
+    "score": 72
   },
   {
-    "title": "How Albertsons Companies is reimagining retail from the inside out",
-    "url": "https://openai.com/index/albertsons-reimagining-retail",
-    "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-10-02",
-    "score": 67
-  },
-  {
-    "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-    "url": "https://openai.com/index/the-den-family-social",
-    "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-10-02",
-    "score": 67
-  },
-  {
-    "title": "10 technical talks I’m excited about at GitHub Universe 2026",
-    "url": "https://github.blog/news-insights/company-news/10-technical-talks-im-excited-about-at-github-universe-2026",
-    "summary": "From verifying AI-written code to securing npm dependencies, these are the sessions I’m building my Universe agenda around. The post 10 technical talks I’m excited about at GitHub Universe 2026 appeared first on The GitHub Blog .",
+    "title": "AI is changing developer work. Here are three skills to strengthen.",
+    "url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out",
+    "summary": "Learn to direct AI agents, critically review their output, and keep technical judgment at the center of your workflow. The post AI is changing developer work. Here are three skills to strengthen. appeared first on The GitHub Blog .",
     "tags": [
       "ai_coding",
       "developer_tools"
     ],
     "author": "GitHub Copilot",
     "source": "github.blog",
-    "date": "2026-10-02",
-    "score": 67
+    "date": "2026-10-03",
+    "score": 72
   },
   {
-    "title": "How to Build a Model Router in the Harness",
-    "url": "https://www.langchain.com/blog/how-to-build-a-model-router-in-the-harness",
-    "summary": "How we built a model router into Open SWE's harness that cut median cost per coding task by 64% with no measurable drop in quality, and how to build your own.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-10-02",
-    "score": 67
-  },
-  {
-    "title": "Build Local AI Apps with C++ and NVIDIA TensorRT RTX Samples",
-    "url": "https://developer.nvidia.com/blog/build-local-ai-apps-with-c-and-nvidia-tensorrt-rtx-samples",
-    "summary": "NVIDIA Technical Blog · Build Local AI Apps with C++ and NVIDIA TensorRT RTX Samples",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-10-02",
-    "score": 66
-  },
-  {
-    "title": "Fine-Tuning NVIDIA Nemotron for Saudi Arabic Dialects, with a Path to Other Languages",
-    "url": "https://developer.nvidia.com/blog/fine-tuning-nvidia-nemotron-for-saudi-arabic-dialects-with-a-path-to-other-languages",
-    "summary": "NVIDIA Technical Blog · Fine-Tuning NVIDIA Nemotron for Saudi Arabic Dialects, with a Path to Other Languages",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-10-02",
-    "score": 66
-  },
-  {
-    "title": "Laya decision model now available on AI Gateway, free through October 31",
-    "url": "https://vercel.com/changelog/laya-decision-model-now-available-on-ai-gateway-free-through-october-31",
-    "summary": "Laya from Convai Innovations is free to use on AI Gateway for 1 month through October 31, 2026 via Boundless . Laya is an evaluation/decision model that evaluates shared context against yes/no, choice, or scoring questions and returns structured answers with probabilities. For example, use it to: Triage support requests: Detect a refund request and route it to the billing team. Route agent work: Choose which tool or workflow should handle a request. Check guardrails: Flag a r",
+    "title": "How Rogo ships agent-written code to production in 5 minutes on Vercel",
+    "url": "https://vercel.com/blog/how-rogo-ships-agent-written-code-to-production-in-5-minutes-on-vercel",
+    "summary": "Rogo on Vercel 73,000+ deployments in a single month Agent-written code shipped to production in 5 minutes 6 production AI agents automating work from churn analysis to deal desk Zero manual triage during production incidents with agent swarms on AI SDK Rogo builds Felix, an AI agent that generates decks, financial models, and reports for a majority of the world's largest financial institutions. The Rogo team is rearchitecting its internal applications on Vercel, where agent-",
     "tags": [
       "sdk",
       "ai_infra",
@@ -124,13 +38,28 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-10-02",
-    "score": 66
+    "date": "2026-10-03",
+    "score": 69
   },
   {
-    "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-    "url": "https://huggingface.co/blog/allenai/olmocore3",
-    "summary": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Chatham scales its capital markets expertise with OpenAI",
+    "url": "https://openai.com/index/chatham-financial",
+    "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-10-03",
+    "score": 67
+  },
+  {
+    "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+    "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+    "summary": "AutoSynthData: Generating Training Data for Enterprise Agents 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -138,41 +67,27 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-10-02",
+    "date": "2026-10-03",
     "score": 66
   },
   {
-    "title": "Introducing Extract v2.5: Next-Gen Document Extraction Agents ->",
-    "url": "https://www.llamaindex.ai/blog/introducing-extract-v2-5",
-    "summary": "Blog · Introducing Extract v2.5: Next-Gen Document Extraction Agents ->",
+    "title": "Redefining enterprise intelligence with autonomous AI",
+    "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai",
+    "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from the previous year. For many enterprises, this investment has&#8230;",
     "tags": [
-      "rag",
-      "agents",
-      "framework"
+      "ai",
+      "research",
+      "society"
     ],
-    "author": "LlamaIndex",
-    "source": "llamaindex.ai",
-    "date": "2026-10-02",
-    "score": 66
-  },
-  {
-    "title": "Vivian Midha Shen and Raphael Schaad Join YC as General Partners",
-    "url": "https://www.ycombinator.com/blog/welcome-vivian-and-raphael",
-    "summary": "We’re thrilled to announce that Vivian Midha Shen and Raphael Schaad are joining Y Combinator as our newest General Partners.",
-    "tags": [
-      "startup",
-      "product",
-      "founder"
-    ],
-    "author": "Y Combinator",
-    "source": "ycombinator.com",
-    "date": "2026-10-02",
+    "author": "MIT Technology Review AI",
+    "source": "technologyreview.com",
+    "date": "2026-10-03",
     "score": 64
   },
   {
-    "title": "Microsoft AI models are now available on AI Gateway",
-    "url": "https://vercel.com/changelog/microsoft-ai-models-are-now-available-on-ai-gateway",
-    "summary": "Vercel and Microsoft AI (MAI) have partnered to make MAI models available on AI Gateway. AI Gateway is one of a limited number of platforms offering access to MAI models. MAI's focus on security and zero data retention (ZDR) align with Vercel's goal of giving AI Gateway users control over their data and transparency in how it is used for training. MAI models on AI Gateway MAI's latest audio models are now supported on AI Gateway. MAI-Voice-2.1 and MAI-Voice-2.1-Flash generate",
+    "title": "Jev for Python engineers",
+    "url": "https://vercel.com/blog/jev-for-python-engineers",
+    "summary": "It's simply impossible to not hear about Jev. Seemingly everyone is tinkering with it in some way, from using it to make trading decisions (what could possibly go wrong?) to generating UIs with it (maybe we're onto something here!) . Jev is a new kind of AI model. You feed it data and ask it a set of multiple-choice questions, and it responds with its answers and how confident it is in each. Just like with any other model, Jev can and will make mistakes, but it will make them",
     "tags": [
       "sdk",
       "ai_infra",
@@ -180,13 +95,13 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-10-02",
+    "date": "2026-10-03",
     "score": 63
   },
   {
-    "title": "Vercel Connect now accepts service submissions",
-    "url": "https://vercel.com/changelog/vercel-connect-service-submissions",
-    "summary": "Vercel Connect now lets you submit your own service to the connectors directory , so you no longer need to wait for Vercel to build a connector for it. Submitting a service takes four steps: Describe your service. Add one or more connection methods, using OAuth or an API key. Verify each OAuth method by requesting a real token through a test connector. Send the submission for review. Vercel reviews each submission before publishing it to the directory. Get started from Submit",
+    "title": "Speed Insights deprecates First Input Delay on November 1st",
+    "url": "https://vercel.com/changelog/speed-insights-deprecates-first-input-delay-on-november-first",
+    "summary": "Speed Insights is deprecating First Input Delay (FID) and will stop recording new measurements on November 1st. Speed Insights already uses Interaction to Next Paint (INP) , the Core Web Vital that replaced FID, as the responsiveness metric in your Real Experience Score . The deprecation won’t require changes on your side, affect your score, or prevent you from viewing existing FID data. Learn more in the Speed Insights metrics documentation . Read more",
     "tags": [
       "sdk",
       "ai_infra",
@@ -194,13 +109,13 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-10-02",
+    "date": "2026-10-03",
     "score": 63
   },
   {
-    "title": "Oct 1, 2026 Announcements Barclays scales Claude to upgrade operations and improve client experience",
-    "url": "https://www.anthropic.com/news/barclays-scales-claude",
-    "summary": "Newsroom \\ Anthropic · Oct 1, 2026 Announcements Barclays scales Claude to upgrade operations and improve client experience",
+    "title": "Oct 2, 2026 Announcements Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
+    "url": "https://www.anthropic.com/news/claude-frontier-academy",
+    "summary": "Newsroom \\ Anthropic · Oct 2, 2026 Announcements Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
     "tags": [
       "ai_models",
       "safety",
@@ -208,13 +123,13 @@
     ],
     "author": "Anthropic",
     "source": "anthropic.com",
-    "date": "2026-10-02",
+    "date": "2026-10-03",
     "score": 62
   },
   {
-    "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-    "url": "https://huggingface.co/blog/open-tts-leaderboard",
-    "summary": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+    "url": "https://huggingface.co/blog/allenai/astabrief",
+    "summary": "Open-sourcing AstaBrief, the fast report-generation model in Asta 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -222,27 +137,27 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-10-02",
+    "date": "2026-10-03",
     "score": 62
   },
   {
-    "title": "OpenAI Dev Day 2026: The releases that actually matter",
-    "url": "https://www.lennysnewsletter.com/p/openai-dev-day-2026-the-releases",
-    "summary": "Watch now (24 mins) | &#127897;&#65039; Claire tests OpenAI&#8217;s DevDay releases, from Dots, Spaces, and Sites to AI-picked thumbnails and a $97 game, and shares what&#8217;s worth trying first",
+    "title": "Don’t be fooled—LLMs don’t reason",
+    "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason",
+    "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a&#8230;",
     "tags": [
-      "product",
-      "growth",
-      "startup"
+      "ai",
+      "research",
+      "society"
     ],
-    "author": "Lenny's Newsletter",
-    "source": "lennysnewsletter.com",
-    "date": "2026-10-02",
-    "score": 62
+    "author": "MIT Technology Review AI",
+    "source": "technologyreview.com",
+    "date": "2026-10-03",
+    "score": 61
   },
   {
-    "title": "Wed, 30 Sep 2026",
-    "url": "https://arxiv.org/list/cs.AI/recent?skip=394&amp%3Bshow=50",
-    "summary": "Artificial Intelligence · Wed, 30 Sep 2026",
+    "title": "Thu, 1 Oct 2026",
+    "url": "https://arxiv.org/list/cs.AI/recent?skip=381&amp%3Bshow=50",
+    "summary": "Artificial Intelligence · Thu, 1 Oct 2026",
     "tags": [
       "paper",
       "ai",
@@ -250,27 +165,41 @@
     ],
     "author": "arXiv CS AI",
     "source": "arxiv.org",
-    "date": "2026-10-02",
+    "date": "2026-10-03",
     "score": 60
   },
   {
-    "title": "Tue, 29 Sep 2026",
-    "url": "https://arxiv.org/list/cs.AI/recent?skip=900&amp%3Bshow=50",
-    "summary": "Artificial Intelligence · Tue, 29 Sep 2026",
+    "title": "arXiv:2603.12123",
+    "url": "https://arxiv.org/abs/2603.12123",
+    "summary": "Computation and Language · arXiv:2603.12123",
     "tags": [
       "paper",
-      "ai",
+      "nlp",
       "arxiv"
     ],
-    "author": "arXiv CS AI",
+    "author": "arXiv CS CL",
     "source": "arxiv.org",
-    "date": "2026-10-02",
-    "score": 60
+    "date": "2026-10-03",
+    "score": 59
   },
   {
-    "title": "OpenAI Dev Day, Dot and OpenAI&#8217;s Product Transition, Sign In With ChatGPT",
-    "url": "https://stratechery.com/2026/openai-dev-day-dot-and-openais-product-transition-sign-in-with-chatgpt",
-    "summary": "OpenAI's Dev Day showcased a product that is, frankly, pretty confusing. However, there is more vision here than it might seem.",
+    "title": "arXiv:2603.21454",
+    "url": "https://arxiv.org/abs/2603.21454",
+    "summary": "Computation and Language · arXiv:2603.21454",
+    "tags": [
+      "paper",
+      "nlp",
+      "arxiv"
+    ],
+    "author": "arXiv CS CL",
+    "source": "arxiv.org",
+    "date": "2026-10-03",
+    "score": 59
+  },
+  {
+    "title": "2026.40: Dots and Question Marks",
+    "url": "https://stratechery.com/2026/dots-and-question-marks",
+    "summary": "The best Stratechery content from the week of September 28, 2026, including Meta's focus, what OpenAI is doing, and Mao and NBA Media Day.",
     "tags": [
       "strategy",
       "tech",
@@ -278,7 +207,21 @@
     ],
     "author": "Stratechery",
     "source": "stratechery.com",
-    "date": "2026-10-02",
-    "score": 59
+    "date": "2026-10-03",
+    "score": 58
+  },
+  {
+    "title": "An Interview with Jason Del Rey About Muse, Amazon, and Walmart",
+    "url": "https://stratechery.com/2026/an-interview-with-jason-del-rey-about-muse-amazon-and-walmart",
+    "summary": "An interview with Jason Del Rey about Amazon versus Meta, which is a continuation of the oldest battle in retail between Amazon and Walmart.",
+    "tags": [
+      "strategy",
+      "tech",
+      "business"
+    ],
+    "author": "Stratechery",
+    "source": "stratechery.com",
+    "date": "2026-10-03",
+    "score": 58
   }
 ]

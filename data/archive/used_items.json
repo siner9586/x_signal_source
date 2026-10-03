@@ -22916,5 +22916,165 @@
     "cluster_id": "stratechery_com_54538a26",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7d5d3e620b837f56",
+    "canonical_url": "https://openai.com/index/practical-guide-building-gpt-6",
+    "dedupe_key": "e6b97900fc238e76",
+    "title": "A model guide for the GPT-6 family",
+    "issue_date": "2026-10-03",
+    "cluster_id": "openai_com_065781bc",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_59f650a1ebe3a5e6",
+    "canonical_url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out",
+    "dedupe_key": "d3d788b7cd91426c",
+    "title": "AI is changing developer work. Here are three skills to strengthen.",
+    "issue_date": "2026-10-03",
+    "cluster_id": "github_blog_155ff13e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d767e6bce097b7c3",
+    "canonical_url": "https://vercel.com/blog/how-rogo-ships-agent-written-code-to-production-in-5-minutes-on-vercel",
+    "dedupe_key": "4511958bf48da5fc",
+    "title": "How Rogo ships agent-written code to production in 5 minutes on Vercel",
+    "issue_date": "2026-10-03",
+    "cluster_id": "vercel_com_f054311d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3c44b839f84624c1",
+    "canonical_url": "https://openai.com/index/chatham-financial",
+    "dedupe_key": "97f0357c1574602a",
+    "title": "Chatham scales its capital markets expertise with OpenAI",
+    "issue_date": "2026-10-03",
+    "cluster_id": "openai_com_cdacf412",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8f41f3049b53ef32",
+    "canonical_url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+    "dedupe_key": "30de4b939842c619",
+    "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+    "issue_date": "2026-10-03",
+    "cluster_id": "huggingface_co_a28513d2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1a028dca604a4225",
+    "canonical_url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai",
+    "dedupe_key": "20c1a811b6a45c67",
+    "title": "Redefining enterprise intelligence with autonomous AI",
+    "issue_date": "2026-10-03",
+    "cluster_id": "technologyreview_com_dd9807a3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b8c92961699f8ccf",
+    "canonical_url": "https://vercel.com/blog/jev-for-python-engineers",
+    "dedupe_key": "b4b20003a84ed013",
+    "title": "Jev for Python engineers",
+    "issue_date": "2026-10-03",
+    "cluster_id": "vercel_com_c87cb305",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_762499af85108d07",
+    "canonical_url": "https://vercel.com/changelog/speed-insights-deprecates-first-input-delay-on-november-first",
+    "dedupe_key": "11eebaeffb5cceab",
+    "title": "Speed Insights deprecates First Input Delay on November 1st",
+    "issue_date": "2026-10-03",
+    "cluster_id": "vercel_com_cd0a6b74",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7fced2a2eed8f57a",
+    "canonical_url": "https://www.anthropic.com/news/claude-frontier-academy",
+    "dedupe_key": "81246de0bb569d5e",
+    "title": "Oct 2, 2026 Announcements Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
+    "issue_date": "2026-10-03",
+    "cluster_id": "anthropic_com_0ef2b5bc",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2df4f37006c11ca8",
+    "canonical_url": "https://huggingface.co/blog/allenai/astabrief",
+    "dedupe_key": "c7a5696aef0c966f",
+    "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+    "issue_date": "2026-10-03",
+    "cluster_id": "huggingface_co_e733a496",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_27d72f98d6a37f23",
+    "canonical_url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason",
+    "dedupe_key": "fd8ae6fe6ebe5e60",
+    "title": "Don’t be fooled—LLMs don’t reason",
+    "issue_date": "2026-10-03",
+    "cluster_id": "technologyreview_com_15a6ddbe",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_cee25d05036e2534",
+    "canonical_url": "https://arxiv.org/list/cs.AI/recent?skip=381&amp%3Bshow=50",
+    "dedupe_key": "bb3e7033c74e6bac",
+    "title": "Thu, 1 Oct 2026",
+    "issue_date": "2026-10-03",
+    "cluster_id": "arxiv_org_f8370e76",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a9dbfb048dabf471",
+    "canonical_url": "https://arxiv.org/abs/2603.12123",
+    "dedupe_key": "8aa61ff96773ee6c",
+    "title": "arXiv:2603.12123",
+    "issue_date": "2026-10-03",
+    "cluster_id": "arxiv_org_03047974",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d9909c1564a682e3",
+    "canonical_url": "https://arxiv.org/abs/2603.21454",
+    "dedupe_key": "1d5b988d3150f87f",
+    "title": "arXiv:2603.21454",
+    "issue_date": "2026-10-03",
+    "cluster_id": "arxiv_org_8124b5a2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7bbaee5d750cebe6",
+    "canonical_url": "https://stratechery.com/2026/dots-and-question-marks",
+    "dedupe_key": "1e38340997c8bddd",
+    "title": "2026.40: Dots and Question Marks",
+    "issue_date": "2026-10-03",
+    "cluster_id": "stratechery_com_9b24c0f6",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_48a80e6dbcefe001",
+    "canonical_url": "https://stratechery.com/2026/an-interview-with-jason-del-rey-about-muse-amazon-and-walmart",
+    "dedupe_key": "aa67a61d0ce0323d",
+    "title": "An Interview with Jason Del Rey About Muse, Amazon, and Walmart",
+    "issue_date": "2026-10-03",
+    "cluster_id": "stratechery_com_419cadd6",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
