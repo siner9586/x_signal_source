@@ -1,65 +1,22 @@
 [
   {
-    "title": "A model guide for the GPT-6 family",
-    "url": "https://openai.com/index/practical-guide-building-gpt-6",
-    "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+    "title": "🧠 Community Wisdom: Getting value from personal AI agents without handing over your inbox, the ego threat of going from IC to manager, uncommon perks to negotiate for, and more",
+    "url": "https://www.lennysnewsletter.com/p/community-wisdom-getting-value-from",
+    "summary": "Community Wisdom 301",
     "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
+      "product",
+      "growth",
+      "startup"
     ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-10-03",
-    "score": 72
-  },
-  {
-    "title": "AI is changing developer work. Here are three skills to strengthen.",
-    "url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out",
-    "summary": "Learn to direct AI agents, critically review their output, and keep technical judgment at the center of your workflow. The post AI is changing developer work. Here are three skills to strengthen. appeared first on The GitHub Blog .",
-    "tags": [
-      "ai_coding",
-      "developer_tools"
-    ],
-    "author": "GitHub Copilot",
-    "source": "github.blog",
-    "date": "2026-10-03",
-    "score": 72
-  },
-  {
-    "title": "How Rogo ships agent-written code to production in 5 minutes on Vercel",
-    "url": "https://vercel.com/blog/how-rogo-ships-agent-written-code-to-production-in-5-minutes-on-vercel",
-    "summary": "Rogo on Vercel 73,000+ deployments in a single month Agent-written code shipped to production in 5 minutes 6 production AI agents automating work from churn analysis to deal desk Zero manual triage during production incidents with agent swarms on AI SDK Rogo builds Felix, an AI agent that generates decks, financial models, and reports for a majority of the world's largest financial institutions. The Rogo team is rearchitecting its internal applications on Vercel, where agent-",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-03",
-    "score": 69
-  },
-  {
-    "title": "Chatham scales its capital markets expertise with OpenAI",
-    "url": "https://openai.com/index/chatham-financial",
-    "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-10-03",
+    "author": "Lenny's Newsletter",
+    "source": "lennysnewsletter.com",
+    "date": "2026-10-04",
     "score": 67
   },
   {
-    "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-    "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-    "summary": "AutoSynthData: Generating Training Data for Enterprise Agents 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "The Agent Said It Was Done. The Database Disagreed.",
+    "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+    "summary": "The Agent Said It Was Done. The Database Disagreed. 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -67,69 +24,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-10-03",
+    "date": "2026-10-04",
     "score": 66
   },
   {
-    "title": "Redefining enterprise intelligence with autonomous AI",
-    "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai",
-    "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from the previous year. For many enterprises, this investment has&#8230;",
-    "tags": [
-      "ai",
-      "research",
-      "society"
-    ],
-    "author": "MIT Technology Review AI",
-    "source": "technologyreview.com",
-    "date": "2026-10-03",
-    "score": 64
-  },
-  {
-    "title": "Jev for Python engineers",
-    "url": "https://vercel.com/blog/jev-for-python-engineers",
-    "summary": "It's simply impossible to not hear about Jev. Seemingly everyone is tinkering with it in some way, from using it to make trading decisions (what could possibly go wrong?) to generating UIs with it (maybe we're onto something here!) . Jev is a new kind of AI model. You feed it data and ask it a set of multiple-choice questions, and it responds with its answers and how confident it is in each. Just like with any other model, Jev can and will make mistakes, but it will make them",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-03",
-    "score": 63
-  },
-  {
-    "title": "Speed Insights deprecates First Input Delay on November 1st",
-    "url": "https://vercel.com/changelog/speed-insights-deprecates-first-input-delay-on-november-first",
-    "summary": "Speed Insights is deprecating First Input Delay (FID) and will stop recording new measurements on November 1st. Speed Insights already uses Interaction to Next Paint (INP) , the Core Web Vital that replaced FID, as the responsiveness metric in your Real Experience Score . The deprecation won’t require changes on your side, affect your score, or prevent you from viewing existing FID data. Learn more in the Speed Insights metrics documentation . Read more",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-03",
-    "score": 63
-  },
-  {
-    "title": "Oct 2, 2026 Announcements Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
-    "url": "https://www.anthropic.com/news/claude-frontier-academy",
-    "summary": "Newsroom \\ Anthropic · Oct 2, 2026 Announcements Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
-    "tags": [
-      "ai_models",
-      "safety",
-      "official"
-    ],
-    "author": "Anthropic",
-    "source": "anthropic.com",
-    "date": "2026-10-03",
-    "score": 62
-  },
-  {
-    "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-    "url": "https://huggingface.co/blog/allenai/astabrief",
-    "summary": "Open-sourcing AstaBrief, the fast report-generation model in Asta 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "New in llama.cpp: Decision Models ggml-org • 1 day ago • 66",
+    "url": "https://huggingface.co/blog/ggml-org/decision-models-in-llamacpp",
+    "summary": "Hugging Face – Blog · New in llama.cpp: Decision Models ggml-org • 1 day ago • 66",
     "tags": [
       "open_source",
       "papers",
@@ -137,91 +38,7 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-10-03",
-    "score": 62
-  },
-  {
-    "title": "Don’t be fooled—LLMs don’t reason",
-    "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason",
-    "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a&#8230;",
-    "tags": [
-      "ai",
-      "research",
-      "society"
-    ],
-    "author": "MIT Technology Review AI",
-    "source": "technologyreview.com",
-    "date": "2026-10-03",
-    "score": 61
-  },
-  {
-    "title": "Thu, 1 Oct 2026",
-    "url": "https://arxiv.org/list/cs.AI/recent?skip=381&amp%3Bshow=50",
-    "summary": "Artificial Intelligence · Thu, 1 Oct 2026",
-    "tags": [
-      "paper",
-      "ai",
-      "arxiv"
-    ],
-    "author": "arXiv CS AI",
-    "source": "arxiv.org",
-    "date": "2026-10-03",
-    "score": 60
-  },
-  {
-    "title": "arXiv:2603.12123",
-    "url": "https://arxiv.org/abs/2603.12123",
-    "summary": "Computation and Language · arXiv:2603.12123",
-    "tags": [
-      "paper",
-      "nlp",
-      "arxiv"
-    ],
-    "author": "arXiv CS CL",
-    "source": "arxiv.org",
-    "date": "2026-10-03",
-    "score": 59
-  },
-  {
-    "title": "arXiv:2603.21454",
-    "url": "https://arxiv.org/abs/2603.21454",
-    "summary": "Computation and Language · arXiv:2603.21454",
-    "tags": [
-      "paper",
-      "nlp",
-      "arxiv"
-    ],
-    "author": "arXiv CS CL",
-    "source": "arxiv.org",
-    "date": "2026-10-03",
-    "score": 59
-  },
-  {
-    "title": "2026.40: Dots and Question Marks",
-    "url": "https://stratechery.com/2026/dots-and-question-marks",
-    "summary": "The best Stratechery content from the week of September 28, 2026, including Meta's focus, what OpenAI is doing, and Mao and NBA Media Day.",
-    "tags": [
-      "strategy",
-      "tech",
-      "business"
-    ],
-    "author": "Stratechery",
-    "source": "stratechery.com",
-    "date": "2026-10-03",
-    "score": 58
-  },
-  {
-    "title": "An Interview with Jason Del Rey About Muse, Amazon, and Walmart",
-    "url": "https://stratechery.com/2026/an-interview-with-jason-del-rey-about-muse-amazon-and-walmart",
-    "summary": "An interview with Jason Del Rey about Amazon versus Meta, which is a continuation of the oldest battle in retail between Amazon and Walmart.",
-    "tags": [
-      "strategy",
-      "tech",
-      "business"
-    ],
-    "author": "Stratechery",
-    "source": "stratechery.com",
-    "date": "2026-10-03",
-    "score": 58
+    "date": "2026-10-04",
+    "score": 64
   }
 ]

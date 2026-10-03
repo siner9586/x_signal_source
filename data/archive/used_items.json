@@ -23076,5 +23076,35 @@
     "cluster_id": "stratechery_com_419cadd6",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ed9f6304622db701",
+    "canonical_url": "https://www.lennysnewsletter.com/p/community-wisdom-getting-value-from",
+    "dedupe_key": "c60dc04d281fac22",
+    "title": "🧠 Community Wisdom: Getting value from personal AI agents without handing over your inbox, the ego threat of going from IC to manager, uncommon perks to negotiate for, and more",
+    "issue_date": "2026-10-04",
+    "cluster_id": "lennysnewsletter_com_ff86b457",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5f0fa97337eba987",
+    "canonical_url": "https://huggingface.co/blog/microsoft/thinkingbox",
+    "dedupe_key": "5c805d7fc0a1ddd4",
+    "title": "The Agent Said It Was Done. The Database Disagreed.",
+    "issue_date": "2026-10-04",
+    "cluster_id": "huggingface_co_6c42a349",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_805be016794c8563",
+    "canonical_url": "https://huggingface.co/blog/ggml-org/decision-models-in-llamacpp",
+    "dedupe_key": "3196f645a896d863",
+    "title": "New in llama.cpp: Decision Models ggml-org • 1 day ago • 66",
+    "issue_date": "2026-10-04",
+    "cluster_id": "huggingface_co_b076fe70",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
