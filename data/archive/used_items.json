@@ -23106,5 +23106,15 @@
     "cluster_id": "huggingface_co_b076fe70",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_06b672c6eef65c63",
+    "canonical_url": "https://www.lennysnewsletter.com/p/openais-head-of-chatgpt-were-entering",
+    "dedupe_key": "106bd031e2a84fd8",
+    "title": "OpenAI’s Head of ChatGPT: We’re entering a new era of AI (again) | Tibo Sottiaux",
+    "issue_date": "2026-10-05",
+    "cluster_id": "lennysnewsletter_com_6cb2b809",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]

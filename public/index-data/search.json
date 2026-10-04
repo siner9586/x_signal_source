@@ -1,8 +1,8 @@
 [
   {
-    "title": "🧠 Community Wisdom: Getting value from personal AI agents without handing over your inbox, the ego threat of going from IC to manager, uncommon perks to negotiate for, and more",
-    "url": "https://www.lennysnewsletter.com/p/community-wisdom-getting-value-from",
-    "summary": "Community Wisdom 301",
+    "title": "OpenAI’s Head of ChatGPT: We’re entering a new era of AI (again) | Tibo Sottiaux",
+    "url": "https://www.lennysnewsletter.com/p/openais-head-of-chatgpt-were-entering",
+    "summary": "Listen now (37 mins) | Tibo Sottiaux on why Dots is OpenAI&#8217;s biggest bet, why agents will dominate internet traffic, and what builders are still getting wrong",
     "tags": [
       "product",
       "growth",
@@ -10,35 +10,7 @@
     ],
     "author": "Lenny's Newsletter",
     "source": "lennysnewsletter.com",
-    "date": "2026-10-04",
-    "score": 67
-  },
-  {
-    "title": "The Agent Said It Was Done. The Database Disagreed.",
-    "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-    "summary": "The Agent Said It Was Done. The Database Disagreed. 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-10-04",
-    "score": 66
-  },
-  {
-    "title": "New in llama.cpp: Decision Models ggml-org • 1 day ago • 66",
-    "url": "https://huggingface.co/blog/ggml-org/decision-models-in-llamacpp",
-    "summary": "Hugging Face – Blog · New in llama.cpp: Decision Models ggml-org • 1 day ago • 66",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-10-04",
-    "score": 64
+    "date": "2026-10-05",
+    "score": 65
   }
 ]
