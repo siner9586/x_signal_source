@@ -1,8 +1,233 @@
 [
   {
-    "title": "OpenAI’s Head of ChatGPT: We’re entering a new era of AI (again) | Tibo Sottiaux",
-    "url": "https://www.lennysnewsletter.com/p/openais-head-of-chatgpt-were-entering",
-    "summary": "Listen now (37 mins) | Tibo Sottiaux on why Dots is OpenAI&#8217;s biggest bet, why agents will dominate internet traffic, and what builders are still getting wrong",
+    "title": "Our approach to EU text provenance rules",
+    "url": "https://openai.com/index/eu-text-provenance",
+    "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-10-06",
+    "score": 69
+  },
+  {
+    "title": "Aaron Levie, Steven Sinofsky & Martin Casado: How Do You Secure a World of AI Agents?",
+    "url": "https://a16z.com/podcast/aaron-levie-steven-sinofsky-martin-casado-how-do-you-secure-a-world-of-ai-agents",
+    "summary": "AI a16z | Andreessen Horowitz · Aaron Levie, Steven Sinofsky & Martin Casado: How Do You Secure a World of AI Agents?",
+    "tags": [
+      "investment",
+      "startup",
+      "thesis"
+    ],
+    "author": "a16z AI",
+    "source": "a16z.com",
+    "date": "2026-10-06",
+    "score": 69
+  },
+  {
+    "title": "Building advertising for the way people use AI",
+    "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+    "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-10-06",
+    "score": 67
+  },
+  {
+    "title": "Connecting AI agents to enterprise knowledge",
+    "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge",
+    "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations. AI agents need this understanding to reason about situations, make decisions, and ultimately&#8230;",
+    "tags": [
+      "ai",
+      "research",
+      "society"
+    ],
+    "author": "MIT Technology Review AI",
+    "source": "technologyreview.com",
+    "date": "2026-10-06",
+    "score": 66
+  },
+  {
+    "title": "Latest research",
+    "url": "https://mistral.ai/news/?categories=research",
+    "summary": "Latest news | Mistral · Latest research",
+    "tags": [
+      "open_model",
+      "european_ai"
+    ],
+    "author": "Mistral AI",
+    "source": "mistral.ai",
+    "date": "2026-10-06",
+    "score": 64
+  },
+  {
+    "title": "David George & Jack Altman on AI, Autonomy, and the Next $25 Trillion",
+    "url": "https://a16z.com/podcast/david-george-jack-altman-on-ai-autonomy-and-the-next-25-trillion",
+    "summary": "AI a16z | Andreessen Horowitz · David George & Jack Altman on AI, Autonomy, and the Next $25 Trillion",
+    "tags": [
+      "investment",
+      "startup",
+      "thesis"
+    ],
+    "author": "a16z AI",
+    "source": "a16z.com",
+    "date": "2026-10-06",
+    "score": 64
+  },
+  {
+    "title": "Beyond the God Model | Alex Atallah & Amjad Masad",
+    "url": "https://a16z.com/podcast/beyond-the-god-model-alex-atallah-amjad-masad",
+    "summary": "AI a16z | Andreessen Horowitz · Beyond the God Model | Alex Atallah & Amjad Masad",
+    "tags": [
+      "investment",
+      "startup",
+      "thesis"
+    ],
+    "author": "a16z AI",
+    "source": "a16z.com",
+    "date": "2026-10-06",
+    "score": 64
+  },
+  {
+    "title": "Rebuilding the Internet for Privacy | Barrett Lyon on DoxxNet",
+    "url": "https://a16z.com/podcast/rebuilding-the-internet-for-privacy-barrett-lyon-on-doxxnet",
+    "summary": "AI a16z | Andreessen Horowitz · Rebuilding the Internet for Privacy | Barrett Lyon on DoxxNet",
+    "tags": [
+      "investment",
+      "startup",
+      "thesis"
+    ],
+    "author": "a16z AI",
+    "source": "a16z.com",
+    "date": "2026-10-06",
+    "score": 64
+  },
+  {
+    "title": "The $1 Trillion AI Buildout | State of Markets",
+    "url": "https://a16z.com/podcast/the-1-trillion-ai-buildout-state-of-markets",
+    "summary": "AI a16z | Andreessen Horowitz · The $1 Trillion AI Buildout | State of Markets",
+    "tags": [
+      "investment",
+      "startup",
+      "thesis"
+    ],
+    "author": "a16z AI",
+    "source": "a16z.com",
+    "date": "2026-10-06",
+    "score": 64
+  },
+  {
+    "title": "AI Can Write Code. Why Isn&rsquo;t Software Better?",
+    "url": "https://a16z.com/podcast/ai-can-write-code-why-isnt-software-better",
+    "summary": "AI a16z | Andreessen Horowitz · AI Can Write Code. Why Isn&rsquo;t Software Better?",
+    "tags": [
+      "investment",
+      "startup",
+      "thesis"
+    ],
+    "author": "a16z AI",
+    "source": "a16z.com",
+    "date": "2026-10-06",
+    "score": 64
+  },
+  {
+    "title": "The Reputation Graph of Silicon Valley | Introducing Cosign",
+    "url": "https://a16z.com/podcast/the-reputation-graph-of-silicon-valley-introducing-cosign",
+    "summary": "AI a16z | Andreessen Horowitz · The Reputation Graph of Silicon Valley | Introducing Cosign",
+    "tags": [
+      "investment",
+      "startup",
+      "thesis"
+    ],
+    "author": "a16z AI",
+    "source": "a16z.com",
+    "date": "2026-10-06",
+    "score": 64
+  },
+  {
+    "title": "Bringing predictive analytics to the agentic AI era",
+    "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era",
+    "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The frontier has moved from prediction to autonomous decision making, and the gap between&#8230;",
+    "tags": [
+      "ai",
+      "research",
+      "society"
+    ],
+    "author": "MIT Technology Review AI",
+    "source": "technologyreview.com",
+    "date": "2026-10-06",
+    "score": 64
+  },
+  {
+    "title": "People really hate AI, so why can’t they get enough?",
+    "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough",
+    "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a self-loathing AI&#8230;",
+    "tags": [
+      "ai",
+      "research",
+      "society"
+    ],
+    "author": "MIT Technology Review AI",
+    "source": "technologyreview.com",
+    "date": "2026-10-06",
+    "score": 64
+  },
+  {
+    "title": "EmTech Future 2026: When AI Meets Everything",
+    "url": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything",
+    "summary": "Yossi Matias, Vice President &#38; Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields.&#160; Step inside the newsroom with our MIT Technology Review editors for sharp analysis and unpublished insights from the team that researches&#8230;",
+    "tags": [
+      "ai",
+      "research",
+      "society"
+    ],
+    "author": "MIT Technology Review AI",
+    "source": "technologyreview.com",
+    "date": "2026-10-06",
+    "score": 64
+  },
+  {
+    "title": "Voyage Rerank 3 and Rerank 3 Lite are now available on AI Gateway",
+    "url": "https://vercel.com/changelog/voyage-rerank-3-and-rerank-3-lite-are-now-available-on-ai-gateway",
+    "summary": "Rerank 3 and Rerank 3 Lite from Voyage AI by MongoDB are now available on AI Gateway. The models reorder search results by relevance before passing documents to a language model. The series improves retrieval quality across domains, with the largest gains on long documents and code. Rerank 3 focuses on accuracy, while Rerank 3 Lite is optimized for latency and cost. Both handle up to 32K tokens per query-document pair and follow instructions in the query to guide ranking. To ",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-10-06",
+    "score": 63
+  },
+  {
+    "title": "Welcome RL Environments to the hub",
+    "url": "https://huggingface.co/blog/rl-environments",
+    "summary": "Welcome RL Environments to the hub 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-10-06",
+    "score": 62
+  },
+  {
+    "title": "🎙️ How I AI: 8 real Jev use cases + How OpenAI uses ChatGPT Sites (live at DevDay!) + Claire’s DevDay recap",
+    "url": "https://www.lennysnewsletter.com/p/how-i-ai-8-real-jev-use-cases-how",
+    "summary": "Your weekly listens from How I AI, part of the Lenny&#8217;s Podcast Network",
     "tags": [
       "product",
       "growth",
@@ -10,7 +235,48 @@
     ],
     "author": "Lenny's Newsletter",
     "source": "lennysnewsletter.com",
-    "date": "2026-10-05",
-    "score": 65
+    "date": "2026-10-06",
+    "score": 62
+  },
+  {
+    "title": "How OpenAI uses ChatGPT Sites (live at DevDay!) | Kath Korevec (Product Lead)",
+    "url": "https://www.lennysnewsletter.com/p/how-openai-uses-chatgpt-sites-live",
+    "summary": "Watch now (36 mins) | &#127897;&#65039; Kath Korevec demos ChatGPT Sites live at OpenAI DevDay, showing how to turn Slack, Notion, and calendar data into internal tools that adapt to each person on your team",
+    "tags": [
+      "product",
+      "growth",
+      "startup"
+    ],
+    "author": "Lenny's Newsletter",
+    "source": "lennysnewsletter.com",
+    "date": "2026-10-06",
+    "score": 62
+  },
+  {
+    "title": "Seminal contributions to AI",
+    "url": "https://mistral.ai/research",
+    "summary": "Latest news | Mistral · Seminal contributions to AI",
+    "tags": [
+      "open_model",
+      "european_ai"
+    ],
+    "author": "Mistral AI",
+    "source": "mistral.ai",
+    "date": "2026-10-06",
+    "score": 60
+  },
+  {
+    "title": "Fri, 2 Oct 2026",
+    "url": "https://arxiv.org/list/cs.AI/recent?skip=266&amp%3Bshow=50",
+    "summary": "Artificial Intelligence · Fri, 2 Oct 2026",
+    "tags": [
+      "paper",
+      "ai",
+      "arxiv"
+    ],
+    "author": "arXiv CS AI",
+    "source": "arxiv.org",
+    "date": "2026-10-06",
+    "score": 60
   }
 ]

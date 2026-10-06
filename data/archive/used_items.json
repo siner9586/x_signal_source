@@ -23116,5 +23116,205 @@
     "cluster_id": "lennysnewsletter_com_6cb2b809",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_aff263566e5b54d3",
+    "canonical_url": "https://openai.com/index/eu-text-provenance",
+    "dedupe_key": "7ae509c46275ee65",
+    "title": "Our approach to EU text provenance rules",
+    "issue_date": "2026-10-06",
+    "cluster_id": "openai_com_ad99c805",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f6373b30017f0bf1",
+    "canonical_url": "https://a16z.com/podcast/aaron-levie-steven-sinofsky-martin-casado-how-do-you-secure-a-world-of-ai-agents",
+    "dedupe_key": "7d509b3a532309f7",
+    "title": "Aaron Levie, Steven Sinofsky & Martin Casado: How Do You Secure a World of AI Agents?",
+    "issue_date": "2026-10-06",
+    "cluster_id": "a16z_com_d507bb1b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e2ec71e18ead19d2",
+    "canonical_url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+    "dedupe_key": "3701e33fece007b2",
+    "title": "Building advertising for the way people use AI",
+    "issue_date": "2026-10-06",
+    "cluster_id": "openai_com_7f6670ce",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_232d2488ce3afcd6",
+    "canonical_url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge",
+    "dedupe_key": "c2f2f597ed611b1b",
+    "title": "Connecting AI agents to enterprise knowledge",
+    "issue_date": "2026-10-06",
+    "cluster_id": "technologyreview_com_74fffab2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_46166bc2bd74f5ce",
+    "canonical_url": "https://mistral.ai/news/?categories=research",
+    "dedupe_key": "e6426e945d8a2044",
+    "title": "Latest research",
+    "issue_date": "2026-10-06",
+    "cluster_id": "mistral_ai_649fb63b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_576104b4c43e038d",
+    "canonical_url": "https://a16z.com/podcast/david-george-jack-altman-on-ai-autonomy-and-the-next-25-trillion",
+    "dedupe_key": "03b946832725079f",
+    "title": "David George & Jack Altman on AI, Autonomy, and the Next $25 Trillion",
+    "issue_date": "2026-10-06",
+    "cluster_id": "a16z_com_a1836db1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_93b5f6679a6c48e9",
+    "canonical_url": "https://a16z.com/podcast/beyond-the-god-model-alex-atallah-amjad-masad",
+    "dedupe_key": "81450a13508e2502",
+    "title": "Beyond the God Model | Alex Atallah & Amjad Masad",
+    "issue_date": "2026-10-06",
+    "cluster_id": "a16z_com_3693b0d1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f14a28050e8edf7c",
+    "canonical_url": "https://a16z.com/podcast/rebuilding-the-internet-for-privacy-barrett-lyon-on-doxxnet",
+    "dedupe_key": "9960638663e701bc",
+    "title": "Rebuilding the Internet for Privacy | Barrett Lyon on DoxxNet",
+    "issue_date": "2026-10-06",
+    "cluster_id": "a16z_com_30ede689",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b61247107899022a",
+    "canonical_url": "https://a16z.com/podcast/the-1-trillion-ai-buildout-state-of-markets",
+    "dedupe_key": "5dc9b112bd92cab1",
+    "title": "The $1 Trillion AI Buildout | State of Markets",
+    "issue_date": "2026-10-06",
+    "cluster_id": "a16z_com_218f2fd0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2218894d2a7d8f14",
+    "canonical_url": "https://a16z.com/podcast/ai-can-write-code-why-isnt-software-better",
+    "dedupe_key": "6f0158129bb56ab0",
+    "title": "AI Can Write Code. Why Isn&rsquo;t Software Better?",
+    "issue_date": "2026-10-06",
+    "cluster_id": "a16z_com_57b26b85",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c47ab41bce231c27",
+    "canonical_url": "https://a16z.com/podcast/the-reputation-graph-of-silicon-valley-introducing-cosign",
+    "dedupe_key": "26f864fc43ef54ca",
+    "title": "The Reputation Graph of Silicon Valley | Introducing Cosign",
+    "issue_date": "2026-10-06",
+    "cluster_id": "a16z_com_1d337931",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a5bd6f033a202247",
+    "canonical_url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era",
+    "dedupe_key": "30b75992e1558a41",
+    "title": "Bringing predictive analytics to the agentic AI era",
+    "issue_date": "2026-10-06",
+    "cluster_id": "technologyreview_com_1514ed99",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_69513edbc53dda9d",
+    "canonical_url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough",
+    "dedupe_key": "ffd366debc2d3ad4",
+    "title": "People really hate AI, so why can’t they get enough?",
+    "issue_date": "2026-10-06",
+    "cluster_id": "technologyreview_com_dd84a8b6",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_74b0c08c7e17d24d",
+    "canonical_url": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything",
+    "dedupe_key": "bf6ab3749bf8dd62",
+    "title": "EmTech Future 2026: When AI Meets Everything",
+    "issue_date": "2026-10-06",
+    "cluster_id": "technologyreview_com_11d48f41",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_89bcf12b98f4e412",
+    "canonical_url": "https://vercel.com/changelog/voyage-rerank-3-and-rerank-3-lite-are-now-available-on-ai-gateway",
+    "dedupe_key": "01fb3644fc4dfc90",
+    "title": "Voyage Rerank 3 and Rerank 3 Lite are now available on AI Gateway",
+    "issue_date": "2026-10-06",
+    "cluster_id": "vercel_com_0fda94a6",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_da4dc38aeafefc33",
+    "canonical_url": "https://huggingface.co/blog/rl-environments",
+    "dedupe_key": "37cc1729302d3221",
+    "title": "Welcome RL Environments to the hub",
+    "issue_date": "2026-10-06",
+    "cluster_id": "huggingface_co_4354a24d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ab1c9c4fff1f94e4",
+    "canonical_url": "https://www.lennysnewsletter.com/p/how-i-ai-8-real-jev-use-cases-how",
+    "dedupe_key": "620fc17846e37736",
+    "title": "🎙️ How I AI: 8 real Jev use cases + How OpenAI uses ChatGPT Sites (live at DevDay!) + Claire’s DevDay recap",
+    "issue_date": "2026-10-06",
+    "cluster_id": "lennysnewsletter_com_a116f788",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8ba8a21bd0af24b3",
+    "canonical_url": "https://www.lennysnewsletter.com/p/how-openai-uses-chatgpt-sites-live",
+    "dedupe_key": "ac0f5052f39a2816",
+    "title": "How OpenAI uses ChatGPT Sites (live at DevDay!) | Kath Korevec (Product Lead)",
+    "issue_date": "2026-10-06",
+    "cluster_id": "lennysnewsletter_com_b70f2125",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_26efc5c4e037d3ce",
+    "canonical_url": "https://mistral.ai/research",
+    "dedupe_key": "23ed6f7081380338",
+    "title": "Seminal contributions to AI",
+    "issue_date": "2026-10-06",
+    "cluster_id": "mistral_ai_5d0d5533",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5c45e48e94f533ee",
+    "canonical_url": "https://arxiv.org/list/cs.AI/recent?skip=266&amp%3Bshow=50",
+    "dedupe_key": "c836c08b5996793f",
+    "title": "Fri, 2 Oct 2026",
+    "issue_date": "2026-10-06",
+    "cluster_id": "arxiv_org_299793fa",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
