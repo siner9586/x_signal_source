@@ -23316,5 +23316,215 @@
     "cluster_id": "arxiv_org_299793fa",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_39aac85f6f33bf52",
+    "canonical_url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+    "dedupe_key": "061c3c0708f0383d",
+    "title": "Advancing computer use with Ironclad",
+    "issue_date": "2026-10-07",
+    "cluster_id": "openai_com_e7629629",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_220f2b0fd2ddbebd",
+    "canonical_url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+    "dedupe_key": "a023a3046d0f768f",
+    "title": "Sharing AI progress in mathematics",
+    "issue_date": "2026-10-07",
+    "cluster_id": "openai_com_4a127635",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_cbe78f7e274c33e9",
+    "canonical_url": "https://openai.com/index/jump-trading",
+    "dedupe_key": "cffd4f3c8c2ef4ff",
+    "title": "How Jump Trading is scaling quant research with ChatGPT",
+    "issue_date": "2026-10-07",
+    "cluster_id": "openai_com_81c924bb",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9e74212cc0fe41b3",
+    "canonical_url": "https://openai.com/index/atlassian-partnership",
+    "dedupe_key": "a94e5386a64bfa00",
+    "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+    "issue_date": "2026-10-07",
+    "cluster_id": "openai_com_2bf5a46e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ee34be6889e98c69",
+    "canonical_url": "https://vercel.com/changelog/mistral-large-4-now-available-on-ai-gateway",
+    "dedupe_key": "129cc0b750b42840",
+    "title": "Mistral Large 4 now available on AI Gateway",
+    "issue_date": "2026-10-07",
+    "cluster_id": "vercel_com_bbd71cce",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_694701023873fcee",
+    "canonical_url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
+    "dedupe_key": "a57a48a40e6a7162",
+    "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+    "issue_date": "2026-10-07",
+    "cluster_id": "deepmind_google_0d6ba601",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7cab28f0a42e2e5e",
+    "canonical_url": "https://developer.nvidia.com/blog/doca-gpunetio-gda-ki-unified-gpu-networking",
+    "dedupe_key": "e0e583a543cc4b44",
+    "title": "How DOCA GPUNetIO Unifies GPU-Initiated Networking Across the NVIDIA Software Stack",
+    "issue_date": "2026-10-07",
+    "cluster_id": "developer_nvidia_com_282dc86b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_bc8b722684899aef",
+    "canonical_url": "https://developer.nvidia.com/blog/aicr-v1-0-open-stable-and-verifiable-gpu-cluster-configuration",
+    "dedupe_key": "c6794e524029e9ad",
+    "title": "AICR v1.0: Open, stable, and verifiable GPU cluster configuration",
+    "issue_date": "2026-10-07",
+    "cluster_id": "developer_nvidia_com_020001d0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3f49b257944a6061",
+    "canonical_url": "https://developer.nvidia.com/blog/control-how-your-gpu-shares-work-with-green-contexts",
+    "dedupe_key": "90f048cfb10f5e82",
+    "title": "Control How Your GPU Shares Work with Green Contexts",
+    "issue_date": "2026-10-07",
+    "cluster_id": "developer_nvidia_com_81d55f3c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_cee5efe7ea804d5c",
+    "canonical_url": "https://elevenlabs.io/blog/webinar-recap-how-one-of-europes-largest-insurers-got-ai-agents-into-production",
+    "dedupe_key": "235137bc3d011644",
+    "title": "Webinar Recap: How One of Europe's Largest Insurers Got AI Agents into Production",
+    "issue_date": "2026-10-07",
+    "cluster_id": "elevenlabs_io_7c942930",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d95e4622b8c0792a",
+    "canonical_url": "https://vercel.com/changelog/nano-banana-2-1-now-available-on-ai-gateway",
+    "dedupe_key": "7ee457e568c123be",
+    "title": "Nano Banana 2.1 now available on AI Gateway",
+    "issue_date": "2026-10-07",
+    "cluster_id": "vercel_com_732ec221",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ba05c5f81f332cfc",
+    "canonical_url": "https://elevenlabs.io/blog/voice-agent-capabilities",
+    "dedupe_key": "98d43dc2d858d393",
+    "title": "Voice agent capabilities: Memory, escalation, and more",
+    "issue_date": "2026-10-07",
+    "cluster_id": "elevenlabs_io_3d765325",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_759e5c44fd69a419",
+    "canonical_url": "https://elevenlabs.io/blog/multi-agent-systems",
+    "dedupe_key": "278a875b6dd8108f",
+    "title": "Multi-agent systems explained: How AI agents work together",
+    "issue_date": "2026-10-07",
+    "cluster_id": "elevenlabs_io_89c312ef",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0cdb10adecaad8f7",
+    "canonical_url": "https://elevenlabs.io/blog/retrieval-augmented-generation-rag",
+    "dedupe_key": "fb8c483d57cdfbbd",
+    "title": "What is RAG? How Retrieval-Augmented Generation works",
+    "issue_date": "2026-10-07",
+    "cluster_id": "elevenlabs_io_762ac127",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d1dc5bdb9b4b09de",
+    "canonical_url": "https://mistral.ai/news/mistral-large-4",
+    "dedupe_key": "5e5761852648f1fb",
+    "title": "Research Introducing Mistral Large 4 October 6, 2026 By Mistral",
+    "issue_date": "2026-10-07",
+    "cluster_id": "mistral_ai_3358dc53",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_203e7db9cfdae11c",
+    "canonical_url": "https://vercel.com/changelog/confidence-based-decision-fallbacks",
+    "dedupe_key": "68a9dba6da1df9dc",
+    "title": "AI Gateway adds confidence-based decision fallbacks",
+    "issue_date": "2026-10-07",
+    "cluster_id": "vercel_com_904cfe4d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2cd7e96fb24af028",
+    "canonical_url": "https://elevenlabs.io/blog/elevenagents-architect",
+    "dedupe_key": "9863d37b36e9e93e",
+    "title": "Introducing ElevenAgents Architect",
+    "issue_date": "2026-10-07",
+    "cluster_id": "elevenlabs_io_9385f4a2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e411d3ebc44f265e",
+    "canonical_url": "https://elevenlabs.io/blog/banner-health",
+    "dedupe_key": "4e67ed5d73e6f7bb",
+    "title": "ElevenLabs powers AI voice agents for patient access at Banner Health",
+    "issue_date": "2026-10-07",
+    "cluster_id": "elevenlabs_io_cf18d687",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a969edccb4bd6b4d",
+    "canonical_url": "https://elevenlabs.io/blog/belgium",
+    "dedupe_key": "381e1cd3d0a7aff5",
+    "title": "ElevenLabs launches in Belgium",
+    "issue_date": "2026-10-07",
+    "cluster_id": "elevenlabs_io_e8dbb3ec",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2a53da4f91969dc9",
+    "canonical_url": "https://elevenlabs.io/blog/eleven-v4-turbo-in-elevenagents",
+    "dedupe_key": "85128e198cb5d231",
+    "title": "Eleven v4 Turbo is now available in ElevenAgents",
+    "issue_date": "2026-10-07",
+    "cluster_id": "elevenlabs_io_c0649b3e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e8d6e9c56ade1b8a",
+    "canonical_url": "https://elevenlabs.io/blog/python-speech-recognition-tutorial",
+    "dedupe_key": "893f34f6db933b92",
+    "title": "Python speech recognition tutorial: From audio file to transcript",
+    "issue_date": "2026-10-07",
+    "cluster_id": "elevenlabs_io_68428fdb",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
