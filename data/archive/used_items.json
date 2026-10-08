@@ -23526,5 +23526,215 @@
     "cluster_id": "elevenlabs_io_68428fdb",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_39571ca0bbe57bfd",
+    "canonical_url": "https://developer.nvidia.com/blog/validate-ai-factory-changes-with-digital-twins-and-ai-agents",
+    "dedupe_key": "47c594cd33f5619d",
+    "title": "Validate AI Factory Changes with Digital Twins and AI Agents",
+    "issue_date": "2026-10-08",
+    "cluster_id": "developer_nvidia_com_9ee9865a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_72d7c260d785340a",
+    "canonical_url": "https://vercel.com/changelog/claude-haiku-5-5-now-available-on-ai-gateway",
+    "dedupe_key": "7c263c1231f959c8",
+    "title": "Claude Haiku 5.5 now available on AI Gateway",
+    "issue_date": "2026-10-08",
+    "cluster_id": "vercel_com_2e5c87dc",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a4eef30953258963",
+    "canonical_url": "https://vercel.com/changelog/glyph-cluster-is-now-available-in-stealth-for-free-on-ai-gateway",
+    "dedupe_key": "ba4f59042928eb01",
+    "title": "Glyph Cluster is now available in stealth for free on AI Gateway",
+    "issue_date": "2026-10-08",
+    "cluster_id": "vercel_com_0cc657c1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ef7fab92e14632fd",
+    "canonical_url": "https://openai.com/index/teens-learn-and-plan",
+    "dedupe_key": "3085c9e01c2b62d0",
+    "title": "Helping teens learn, plan, and shape the future of AI",
+    "issue_date": "2026-10-08",
+    "cluster_id": "openai_com_80ec045d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5778b2d3396a8a98",
+    "canonical_url": "https://openai.com/index/radisson",
+    "dedupe_key": "102218e38138bd9d",
+    "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+    "issue_date": "2026-10-08",
+    "cluster_id": "openai_com_cd37cadb",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4e36f1761899c872",
+    "canonical_url": "https://openai.com/index/gpt-6-for-everyone",
+    "dedupe_key": "d097bb6b44f39734",
+    "title": "GPT-6 and Intelligent UI for everyone",
+    "issue_date": "2026-10-08",
+    "cluster_id": "openai_com_041f70cc",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c1d572446c644fc4",
+    "canonical_url": "https://developer.nvidia.com/blog/scaling-decision-optimization-to-100-million-variables-and-beyond-with-mpdlp-in-nvidia-cuopt",
+    "dedupe_key": "1e835ced22ef819b",
+    "title": "Scaling Decision Optimization to 100 Million Variables and Beyond with mPDLP in NVIDIA cuOpt",
+    "issue_date": "2026-10-08",
+    "cluster_id": "developer_nvidia_com_84febc8a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_165e915315ce5428",
+    "canonical_url": "https://developer.nvidia.com/blog/the-machines-that-make-the-machines",
+    "dedupe_key": "5720292ccdec1a1b",
+    "title": "The Machines that Make the Machines",
+    "issue_date": "2026-10-08",
+    "cluster_id": "developer_nvidia_com_d81f41bc",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_68744f4834eae357",
+    "canonical_url": "https://developer.nvidia.com/blog/faster-scientific-image-analysis-with-nvidia-cuphoton",
+    "dedupe_key": "407bcc3d77112958",
+    "title": "Faster Scientific Image Analysis with NVIDIA cuPhoton",
+    "issue_date": "2026-10-08",
+    "cluster_id": "developer_nvidia_com_920d8242",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a45a4f3077419536",
+    "canonical_url": "https://vercel.com/changelog/openai-ultrafast-mode-now-available-on-ai-gateway",
+    "dedupe_key": "baa98876aa3744d6",
+    "title": "OpenAI Ultrafast mode now available on AI Gateway",
+    "issue_date": "2026-10-08",
+    "cluster_id": "vercel_com_b3477c27",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_de271632fd02b973",
+    "canonical_url": "https://www.langchain.com/blog/managed-deep-agents-schedules-per-run-configuration-slack",
+    "dedupe_key": "03f7dcb69a4c48c1",
+    "title": "What's New in Managed Deep Agents: schedules, per-run configuration, and Slack reactions",
+    "issue_date": "2026-10-08",
+    "cluster_id": "langchain_com_0e0b9c13",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b1cc72008bb4f393",
+    "canonical_url": "https://elevenlabs.io/blog/contact-center-automation",
+    "dedupe_key": "4253509cb14c6778",
+    "title": "Contact center automation: A guide to better service",
+    "issue_date": "2026-10-08",
+    "cluster_id": "elevenlabs_io_5a073562",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_387b93908375db63",
+    "canonical_url": "https://www.langchain.com/blog/revamping-skills-in-deep-agents",
+    "dedupe_key": "d680682b202dd215",
+    "title": "Revamping Skills in Deep Agents",
+    "issue_date": "2026-10-08",
+    "cluster_id": "langchain_com_eed4539d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ef27b68689cc6b60",
+    "canonical_url": "https://a16z.com/podcast/the-case-against-an-ai-pause-eddy-lazzarin",
+    "dedupe_key": "6a3a502ef8963aa4",
+    "title": "The Case Against an AI Pause | Eddy Lazzarin",
+    "issue_date": "2026-10-08",
+    "cluster_id": "a16z_com_e52f6178",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_db4318864a026410",
+    "canonical_url": "https://a16z.com/podcast/amjad-masad-on-rethinking-college-for-the-ai-era",
+    "dedupe_key": "89bc5f5b274e5ee8",
+    "title": "Amjad Masad on Rethinking College for the AI Era",
+    "issue_date": "2026-10-08",
+    "cluster_id": "a16z_com_512e7fba",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f9903c03c6bc5a45",
+    "canonical_url": "https://vercel.com/changelog/microfrontends-routing-is-now-free-for-firewall-mitigated-traffic",
+    "dedupe_key": "e84598ca19c49162",
+    "title": "Microfrontends Routing is now free for Firewall-mitigated traffic",
+    "issue_date": "2026-10-08",
+    "cluster_id": "vercel_com_7ec198f5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3b6f506e6414634e",
+    "canonical_url": "https://vercel.com/changelog/openai-decisions-api-now-available-on-ai-gateway",
+    "dedupe_key": "f7175d62bc78bdc7",
+    "title": "OpenAI Decisions API now available on AI Gateway",
+    "issue_date": "2026-10-08",
+    "cluster_id": "vercel_com_bc1dd5b9",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e9ca86f82d02c54a",
+    "canonical_url": "https://vercel.com/changelog/timestamp-attributes-are-now-supported-in-vercel-flags",
+    "dedupe_key": "39a50aa458a32b44",
+    "title": "Timestamp attributes are now supported in Vercel Flags",
+    "issue_date": "2026-10-08",
+    "cluster_id": "vercel_com_4f12079d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6ffbb6a4e2c869c1",
+    "canonical_url": "https://vercel.com/changelog/flux-3-image-now-available-on-ai-gateway",
+    "dedupe_key": "2d465184faea8775",
+    "title": "FLUX 3 Image now available on AI Gateway",
+    "issue_date": "2026-10-08",
+    "cluster_id": "vercel_com_bc8c21a6",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0d253a675102e579",
+    "canonical_url": "https://huggingface.co/blog/LiquidAI/open-d1",
+    "dedupe_key": "8b2eb40fde543348",
+    "title": "Multimodal open d1 decision models for the edge",
+    "issue_date": "2026-10-08",
+    "cluster_id": "huggingface_co_ba860526",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8bf9987610f6f3e7",
+    "canonical_url": "https://elevenlabs.io/blog/what-are-agentic-workflows",
+    "dedupe_key": "5c7e13bbdf70d98f",
+    "title": "What are agentic workflows and how do they transform automation?",
+    "issue_date": "2026-10-08",
+    "cluster_id": "elevenlabs_io_66587fab",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]

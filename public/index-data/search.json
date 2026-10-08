@@ -1,38 +1,50 @@
 [
   {
-    "title": "Advancing computer use with Ironclad",
-    "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-    "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
+    "title": "Validate AI Factory Changes with Digital Twins and AI Agents",
+    "url": "https://developer.nvidia.com/blog/validate-ai-factory-changes-with-digital-twins-and-ai-agents",
+    "summary": "NVIDIA Technical Blog · Validate AI Factory Changes with Digital Twins and AI Agents",
     "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
+      "gpu",
+      "inference",
+      "ai_infra"
     ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-10-07",
-    "score": 72
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-10-08",
+    "score": 71
   },
   {
-    "title": "Sharing AI progress in mathematics",
-    "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-    "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+    "title": "Claude Haiku 5.5 now available on AI Gateway",
+    "url": "https://vercel.com/changelog/claude-haiku-5-5-now-available-on-ai-gateway",
+    "summary": "Claude Haiku 5.5 from Anthropic is now available on AI Gateway . It is built for high-volume, cost-sensitive tasks such as summaries, context compaction, database queries, and classification, and works as a subagent alongside larger Claude models on coding work. It is also the fastest Claude model at standard speed, which suits live customer support and browser use. Test it as a direct upgrade wherever you use Claude Haiku 4.5 today. Haiku 5.5 is the first Haiku model with ef",
     "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
+      "sdk",
+      "ai_infra",
+      "frontend"
     ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-10-07",
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-10-08",
     "score": 69
   },
   {
-    "title": "How Jump Trading is scaling quant research with ChatGPT",
-    "url": "https://openai.com/index/jump-trading",
-    "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+    "title": "Glyph Cluster is now available in stealth for free on AI Gateway",
+    "url": "https://vercel.com/changelog/glyph-cluster-is-now-available-in-stealth-for-free-on-ai-gateway",
+    "summary": "Glyph Cluster is now available on AI Gateway as a stealth model for teams on Pro and Enterprise plans with purchased AI Gateway credits. It is free to use during the stealth period. Glyph Cluster is a reasoning model for coding and long-context analysis, and handles multi-step work such as planning, synthesis, quantitative reasoning, and comparing material across large inputs. For coding, Glyph Cluster can review code, explain failures, debug issues, propose changes, and reas",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-10-08",
+    "score": 68
+  },
+  {
+    "title": "Helping teens learn, plan, and shape the future of AI",
+    "url": "https://openai.com/index/teens-learn-and-plan",
+    "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
     "tags": [
       "ai_models",
       "official",
@@ -41,13 +53,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-10-07",
+    "date": "2026-10-08",
     "score": 67
   },
   {
-    "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-    "url": "https://openai.com/index/atlassian-partnership",
-    "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
+    "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+    "url": "https://openai.com/index/radisson",
+    "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
     "tags": [
       "ai_models",
       "official",
@@ -56,42 +68,28 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-10-07",
+    "date": "2026-10-08",
     "score": 67
   },
   {
-    "title": "Mistral Large 4 now available on AI Gateway",
-    "url": "https://vercel.com/changelog/mistral-large-4-now-available-on-ai-gateway",
-    "summary": "Mistral Large 4 is now available on AI Gateway. The open-weight, natively multimodal model combines reasoning with text and image understanding. It is useful for cyber defense, manufacturing, and finance workflows. You can access the model through AI Gateway with one API key, without creating a separate Mistral account. Use Mistral Large 4 ( mistral/mistral-large-4 ) with the AI SDK , OpenAI-compatible Chat Completions API , Responses API , or Anthropic Messages API . You can",
+    "title": "GPT-6 and Intelligent UI for everyone",
+    "url": "https://openai.com/index/gpt-6-for-everyone",
+    "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
     "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-07",
-    "score": 67
-  },
-  {
-    "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-    "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
-    "summary": "EmbeddingGemma 2: an open, lightweight multimodal embedding model 是 Google DeepMind 当日抓取到的公开新增条目。",
-    "tags": [
+      "ai_models",
+      "official",
       "research",
-      "multimodal",
-      "science",
-      "official"
+      "developer"
     ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-10-07",
-    "score": 66
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-10-08",
+    "score": 67
   },
   {
-    "title": "How DOCA GPUNetIO Unifies GPU-Initiated Networking Across the NVIDIA Software Stack",
-    "url": "https://developer.nvidia.com/blog/doca-gpunetio-gda-ki-unified-gpu-networking",
-    "summary": "NVIDIA Technical Blog · How DOCA GPUNetIO Unifies GPU-Initiated Networking Across the NVIDIA Software Stack",
+    "title": "Scaling Decision Optimization to 100 Million Variables and Beyond with mPDLP in NVIDIA cuOpt",
+    "url": "https://developer.nvidia.com/blog/scaling-decision-optimization-to-100-million-variables-and-beyond-with-mpdlp-in-nvidia-cuopt",
+    "summary": "NVIDIA Technical Blog · Scaling Decision Optimization to 100 Million Variables and Beyond with mPDLP in NVIDIA cuOpt",
     "tags": [
       "gpu",
       "inference",
@@ -99,13 +97,13 @@
     ],
     "author": "NVIDIA AI",
     "source": "developer.nvidia.com",
-    "date": "2026-10-07",
+    "date": "2026-10-08",
     "score": 66
   },
   {
-    "title": "AICR v1.0: Open, stable, and verifiable GPU cluster configuration",
-    "url": "https://developer.nvidia.com/blog/aicr-v1-0-open-stable-and-verifiable-gpu-cluster-configuration",
-    "summary": "NVIDIA Technical Blog · AICR v1.0: Open, stable, and verifiable GPU cluster configuration",
+    "title": "The Machines that Make the Machines",
+    "url": "https://developer.nvidia.com/blog/the-machines-that-make-the-machines",
+    "summary": "NVIDIA Technical Blog · The Machines that Make the Machines",
     "tags": [
       "gpu",
       "inference",
@@ -113,13 +111,13 @@
     ],
     "author": "NVIDIA AI",
     "source": "developer.nvidia.com",
-    "date": "2026-10-07",
+    "date": "2026-10-08",
     "score": 66
   },
   {
-    "title": "Control How Your GPU Shares Work with Green Contexts",
-    "url": "https://developer.nvidia.com/blog/control-how-your-gpu-shares-work-with-green-contexts",
-    "summary": "NVIDIA Technical Blog · Control How Your GPU Shares Work with Green Contexts",
+    "title": "Faster Scientific Image Analysis with NVIDIA cuPhoton",
+    "url": "https://developer.nvidia.com/blog/faster-scientific-image-analysis-with-nvidia-cuphoton",
+    "summary": "NVIDIA Technical Blog · Faster Scientific Image Analysis with NVIDIA cuPhoton",
     "tags": [
       "gpu",
       "inference",
@@ -127,26 +125,13 @@
     ],
     "author": "NVIDIA AI",
     "source": "developer.nvidia.com",
-    "date": "2026-10-07",
+    "date": "2026-10-08",
     "score": 66
   },
   {
-    "title": "Webinar Recap: How One of Europe's Largest Insurers Got AI Agents into Production",
-    "url": "https://elevenlabs.io/blog/webinar-recap-how-one-of-europes-largest-insurers-got-ai-agents-into-production",
-    "summary": "How one of Europe's largest insurers put AI agents into production: first use case, day-zero compliance, and agent changes that ship in hours.",
-    "tags": [
-      "voice_ai",
-      "audio"
-    ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-10-07",
-    "score": 65
-  },
-  {
-    "title": "Nano Banana 2.1 now available on AI Gateway",
-    "url": "https://vercel.com/changelog/nano-banana-2-1-now-available-on-ai-gateway",
-    "summary": "Nano Banana 2.1 from Google is now available on AI Gateway . It improves image generation and editing over earlier Nano Banana models. This release targets product recontextualization, mask- and ink-based editing, and factuality. Product recontextualization places an existing product in a new scene. Mask- and ink-based edits change only the region marked by a mask or by strokes drawn on the image. Factuality is how accurately images depict real-world subjects. The model rende",
+    "title": "OpenAI Ultrafast mode now available on AI Gateway",
+    "url": "https://vercel.com/changelog/openai-ultrafast-mode-now-available-on-ai-gateway",
+    "summary": "AI Gateway now supports OpenAI's Ultrafast service tier for GPT-6 Astra, providing faster output for interactive applications and rapid coding iterations. To use Ultrafast, request it for openai/gpt-6-astra through AI SDK, the Chat Completions API, or Responses API: For workflows with frequent tool calls, OpenAI recommends the Responses API over a persistent WebSocket connection to reduce overhead between turns. See the Ultrafast service-tier examples for persistent connectio",
     "tags": [
       "sdk",
       "ai_infra",
@@ -154,65 +139,82 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-10-07",
+    "date": "2026-10-08",
+    "score": 66
+  },
+  {
+    "title": "What's New in Managed Deep Agents: schedules, per-run configuration, and Slack reactions",
+    "url": "https://www.langchain.com/blog/managed-deep-agents-schedules-per-run-configuration-slack",
+    "summary": "LangChain just released new capabilities in Managed Deep Agents. Agents can now schedule follow-ups, reconfigure themselves on every run, and react to Slack messages.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-10-08",
     "score": 65
   },
   {
-    "title": "Voice agent capabilities: Memory, escalation, and more",
-    "url": "https://elevenlabs.io/blog/voice-agent-capabilities",
-    "summary": "Voice agent capabilities explained: how AI agents remember callers, handle frustration, learn from your documents, and protect data, with useful examples.",
+    "title": "Contact center automation: A guide to better service",
+    "url": "https://elevenlabs.io/blog/contact-center-automation",
+    "summary": "Learn how contact center automation works, the best use cases to start with, and how to implement AI agents responsibly, with real customer results.",
     "tags": [
       "voice_ai",
       "audio"
     ],
     "author": "ElevenLabs",
     "source": "elevenlabs.io",
-    "date": "2026-10-07",
+    "date": "2026-10-08",
     "score": 64
   },
   {
-    "title": "Multi-agent systems explained: How AI agents work together",
-    "url": "https://elevenlabs.io/blog/multi-agent-systems",
-    "summary": "Discover what multi-agent systems are and how they work together to perform complex tasks. Learn about multi-agent system architecture and use cases.",
+    "title": "Revamping Skills in Deep Agents",
+    "url": "https://www.langchain.com/blog/revamping-skills-in-deep-agents",
+    "summary": "Deep Agents now lets you bind tools to skills, pin skills at runtime, and reload skills mid-thread, so agents with expansive skill repositories stay context-efficient and effective.",
     "tags": [
-      "voice_ai",
-      "audio"
+      "agents",
+      "rag",
+      "framework"
     ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-10-07",
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-10-08",
     "score": 64
   },
   {
-    "title": "What is RAG? How Retrieval-Augmented Generation works",
-    "url": "https://elevenlabs.io/blog/retrieval-augmented-generation-rag",
-    "summary": "Learn what RAG means in AI, how Retrieval-Augmented Generation works, its limitations and use cases, and how it helps AI agents use external knowledge.",
+    "title": "The Case Against an AI Pause | Eddy Lazzarin",
+    "url": "https://a16z.com/podcast/the-case-against-an-ai-pause-eddy-lazzarin",
+    "summary": "AI a16z | Andreessen Horowitz · The Case Against an AI Pause | Eddy Lazzarin",
     "tags": [
-      "voice_ai",
-      "audio"
+      "investment",
+      "startup",
+      "thesis"
     ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-10-07",
+    "author": "a16z AI",
+    "source": "a16z.com",
+    "date": "2026-10-08",
     "score": 64
   },
   {
-    "title": "Research Introducing Mistral Large 4 October 6, 2026 By Mistral",
-    "url": "https://mistral.ai/news/mistral-large-4",
-    "summary": "Latest news | Mistral · Research Introducing Mistral Large 4 October 6, 2026 By Mistral",
+    "title": "Amjad Masad on Rethinking College for the AI Era",
+    "url": "https://a16z.com/podcast/amjad-masad-on-rethinking-college-for-the-ai-era",
+    "summary": "AI a16z | Andreessen Horowitz · Amjad Masad on Rethinking College for the AI Era",
     "tags": [
-      "open_model",
-      "european_ai"
+      "investment",
+      "startup",
+      "thesis"
     ],
-    "author": "Mistral AI",
-    "source": "mistral.ai",
-    "date": "2026-10-07",
+    "author": "a16z AI",
+    "source": "a16z.com",
+    "date": "2026-10-08",
     "score": 64
   },
   {
-    "title": "AI Gateway adds confidence-based decision fallbacks",
-    "url": "https://vercel.com/changelog/confidence-based-decision-fallbacks",
-    "summary": "AI Gateway can now escalate a decision request to a fallback model when the primary model's answer trips a confidence condition you set. Conditions can be combined, so an escalation can depend on more than one signal. The plain model names you already list in models keep catching outright errors, so existing fallbacks are unaffected. Confidence conditions cover Choice and Score questions. Boolean questions escalate on a probability range instead. Set the fallback by adding on",
+    "title": "Microfrontends Routing is now free for Firewall-mitigated traffic",
+    "url": "https://vercel.com/changelog/microfrontends-routing-is-now-free-for-firewall-mitigated-traffic",
+    "summary": "Microfrontends Routing is now free for requests that the Web Application Firewall (WAF) denies, challenges, or rate limits. CDN Requests and Fast Data Transfer are already free for this traffic. The change applies automatically to every project using microfrontends. Learn how to set up WAF rules in the Firewall documentation. Read more",
     "tags": [
       "sdk",
       "ai_infra",
@@ -220,72 +222,76 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-10-07",
+    "date": "2026-10-08",
     "score": 63
   },
   {
-    "title": "Introducing ElevenAgents Architect",
-    "url": "https://elevenlabs.io/blog/elevenagents-architect",
-    "summary": "Find the improvements your team would otherwise miss. Bring a goal, get back proposals already drafted and validated in simulated conversations.",
+    "title": "OpenAI Decisions API now available on AI Gateway",
+    "url": "https://vercel.com/changelog/openai-decisions-api-now-available-on-ai-gateway",
+    "summary": "OpenAI's Decisions API is now available on AI Gateway through an OpenAI-compatible /v1/decisions endpoint. Use it with GPT-6 Luna Decisions or any other decision model on AI Gateway. Decision models answer typed questions about a shared input and return probabilities, choices, and scores instead of generated text, which suits routing, triage, guardrails, and rubric scoring. You can ask predicate (yes/no), choice, and score questions against the same input in one request. open",
     "tags": [
-      "voice_ai",
-      "audio"
+      "sdk",
+      "ai_infra",
+      "frontend"
     ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-10-07",
-    "score": 62
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-10-08",
+    "score": 63
   },
   {
-    "title": "ElevenLabs powers AI voice agents for patient access at Banner Health",
-    "url": "https://elevenlabs.io/blog/banner-health",
-    "summary": "Banner Health partners with ElevenLabs on conversational agents that answer patient calls around the clock and book directly in Banner Health's EHR.",
+    "title": "Timestamp attributes are now supported in Vercel Flags",
+    "url": "https://vercel.com/changelog/timestamp-attributes-are-now-supported-in-vercel-flags",
+    "summary": "Vercel Flags now supports timestamp attributes, so you can target entities by date and time. Use timestamp attributes to show a campaign page only between two dates, run a Black Friday promotion, or target users who registered before a cutoff. Configure a timestamp attribute You can configure timestamp attributes in the dashboard or via the CLI. In the Vercel dashboard, open Flags , select Entities , and create or select an entity. Add an attribute and set its data type to ti",
     "tags": [
-      "voice_ai",
-      "audio"
+      "sdk",
+      "ai_infra",
+      "frontend"
     ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-10-07",
-    "score": 62
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-10-08",
+    "score": 63
   },
   {
-    "title": "ElevenLabs launches in Belgium",
-    "url": "https://elevenlabs.io/blog/belgium",
-    "summary": "ElevenLabs launches in Belgium with a new Brussels office, expanded local team, and multilingual AI voice agents for enterprises and government.",
+    "title": "FLUX 3 Image now available on AI Gateway",
+    "url": "https://vercel.com/changelog/flux-3-image-now-available-on-ai-gateway",
+    "summary": "FLUX 3 Image from Black Forest Labs is now available on AI Gateway. Generate images from text or edit existing images using the same model, with one API key and no Black Forest Labs account required. FLUX 3 Image supports up to ten reference images for editing, combining subjects, or changing the composition. It supports five resolution tiers from 768 × 768 to 4K, with square, portrait, and landscape aspect ratios. Set AI_GATEWAY_API_KEY , then use bfl/flux-3-image as the mod",
     "tags": [
-      "voice_ai",
-      "audio"
+      "sdk",
+      "ai_infra",
+      "frontend"
     ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-10-07",
-    "score": 62
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-10-08",
+    "score": 63
   },
   {
-    "title": "Eleven v4 Turbo is now available in ElevenAgents",
-    "url": "https://elevenlabs.io/blog/eleven-v4-turbo-in-elevenagents",
-    "summary": "Our fastest and most emotive voice model, now powering live conversations in over 90 languages.",
+    "title": "Multimodal open d1 decision models for the edge",
+    "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+    "summary": "Multimodal open d1 decision models for the edge 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
-      "voice_ai",
-      "audio"
+      "open_source",
+      "papers",
+      "models"
     ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-10-07",
-    "score": 62
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-10-08",
+    "score": 63
   },
   {
-    "title": "Python speech recognition tutorial: From audio file to transcript",
-    "url": "https://elevenlabs.io/blog/python-speech-recognition-tutorial",
-    "summary": "Explore speech-to-text API integration in this Python speech recognition tutorial. Transcribe with advanced voice models without coding from scratch.",
+    "title": "What are agentic workflows and how do they transform automation?",
+    "url": "https://elevenlabs.io/blog/what-are-agentic-workflows",
+    "summary": "Discover what are agentic workflows, how they enhance automation, and why they matter for businesses. Learn how to implement them effectively.",
     "tags": [
       "voice_ai",
       "audio"
     ],
     "author": "ElevenLabs",
     "source": "elevenlabs.io",
-    "date": "2026-10-07",
+    "date": "2026-10-08",
     "score": 62
   }
 ]
