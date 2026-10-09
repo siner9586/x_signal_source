@@ -23736,5 +23736,225 @@
     "cluster_id": "elevenlabs_io_66587fab",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6db14edc946bc828",
+    "canonical_url": "https://github.blog/security/how-one-bug-bounty-researcher-chooses-the-features-they-investigate",
+    "dedupe_key": "823d19835e5c26e2",
+    "title": "How one bug bounty researcher chooses the features they investigate",
+    "issue_date": "2026-10-09",
+    "cluster_id": "github_blog_3210148e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_855033361d859d2e",
+    "canonical_url": "https://vercel.com/changelog/step-5-preview-now-available-on-ai-gateway",
+    "dedupe_key": "4f59307f68b2da09",
+    "title": "Step 5 Preview now available on AI Gateway",
+    "issue_date": "2026-10-09",
+    "cluster_id": "vercel_com_b090de95",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c91c76613a60ddbe",
+    "canonical_url": "https://openai.com/index/pollo-ai",
+    "dedupe_key": "c3b2c5eb53b24441",
+    "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+    "issue_date": "2026-10-09",
+    "cluster_id": "openai_com_f88cf096",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5da6ce8242cf85b7",
+    "canonical_url": "https://developer.nvidia.com/blog/building-reliable-data-analytics-agents-lessons-from-the-kdd-cup",
+    "dedupe_key": "fa577fe72987e0b0",
+    "title": "Building Reliable Data Analytics Agents: Lessons from the KDD Cup",
+    "issue_date": "2026-10-09",
+    "cluster_id": "developer_nvidia_com_125e739c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_124d38d615658b09",
+    "canonical_url": "https://openai.com/index/oracle",
+    "dedupe_key": "96d9d267ccf2687f",
+    "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+    "issue_date": "2026-10-09",
+    "cluster_id": "openai_com_76c86417",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_06e187d6513b2dc5",
+    "canonical_url": "https://openai.com/index/legalon-halves-codex-costs",
+    "dedupe_key": "84297d0ae2e9a1ea",
+    "title": "LegalOn halves Codex costs while maintaining development speed",
+    "issue_date": "2026-10-09",
+    "cluster_id": "openai_com_5c43c735",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_37b67d61af816874",
+    "canonical_url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+    "dedupe_key": "528d2ae527a57af0",
+    "title": "Disrupting AI-enabled “false front” operations",
+    "issue_date": "2026-10-09",
+    "cluster_id": "openai_com_f38cce98",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8b2977a7ae2210e6",
+    "canonical_url": "https://developer.nvidia.com/blog/5-steps-to-create-simready-assets-for-robotics-with-frontier-ai-models",
+    "dedupe_key": "ee2c3558ebf709a0",
+    "title": "5 Steps to Create SimReady Assets for Robotics with Frontier AI Models",
+    "issue_date": "2026-10-09",
+    "cluster_id": "developer_nvidia_com_ce50d349",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_da97a447df5bd0c9",
+    "canonical_url": "https://vercel.com/changelog/sandbox-create-waits-until-ready",
+    "dedupe_key": "662964431412ff1c",
+    "title": "Vercel Sandbox creation now returns a ready sandbox",
+    "issue_date": "2026-10-09",
+    "cluster_id": "vercel_com_fb9a9aed",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_54b64c2e6e8335bb",
+    "canonical_url": "https://www.langchain.com/blog/how-snyk-turned-an-internal-support-agent-into-a-customer-feature",
+    "dedupe_key": "eb1f6ef409e5e437",
+    "title": "How Snyk Turned an Internal Support Agent into a Customer Feature",
+    "issue_date": "2026-10-09",
+    "cluster_id": "langchain_com_fa2c03c2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b37795c3cb4ab335",
+    "canonical_url": "https://www.langchain.com/blog/agents-that-can-pay-with-stripe-link",
+    "dedupe_key": "fe247fe20329cc1c",
+    "title": "Agents that can pay: building Restock with Stripe's Link and Managed Deep Agents",
+    "issue_date": "2026-10-09",
+    "cluster_id": "langchain_com_c695adf0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_336cdc2d6376920d",
+    "canonical_url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai",
+    "dedupe_key": "a648ed6e033857f2",
+    "title": "Building a safer path to autonomous industrial AI",
+    "issue_date": "2026-10-09",
+    "cluster_id": "technologyreview_com_cc22b57d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5795a9b2ebcaa26f",
+    "canonical_url": "https://developer.nvidia.com/blog/scale-bitwise-deterministic-pretraining-with-nvidia-megatron-core",
+    "dedupe_key": "ab07f8aefb72a834",
+    "title": "Scale Bitwise-Deterministic Pretraining with NVIDIA Megatron Core",
+    "issue_date": "2026-10-09",
+    "cluster_id": "developer_nvidia_com_111f038f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d4d0f61634493b81",
+    "canonical_url": "https://vercel.com/changelog/skip-sending-request-bodies-to-routing-middleware",
+    "dedupe_key": "ae021e2f0bf046cd",
+    "title": "Skip sending request bodies to Routing Middleware",
+    "issue_date": "2026-10-09",
+    "cluster_id": "vercel_com_e93c8b32",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_09985f39afa4be0a",
+    "canonical_url": "https://vercel.com/changelog/grok-imagine-video-1-5-lite-on-ai-gateway",
+    "dedupe_key": "a580c35d7146d24d",
+    "title": "Grok Imagine Video 1.5 Lite on AI Gateway",
+    "issue_date": "2026-10-09",
+    "cluster_id": "vercel_com_5451a720",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_bee03836d074fbd4",
+    "canonical_url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses",
+    "dedupe_key": "71d31fc84723a6f6",
+    "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+    "issue_date": "2026-10-09",
+    "cluster_id": "technologyreview_com_73bd7fd3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c706ef3b6e153e5a",
+    "canonical_url": "https://elevenlabs.io/blog/cadence",
+    "dedupe_key": "3ec8ca0571f17db5",
+    "title": "How Cadence cut response times to at-risk patients by 97% with ElevenAgents",
+    "issue_date": "2026-10-09",
+    "cluster_id": "elevenlabs_io_050122aa",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8b144ae1c18a8e33",
+    "canonical_url": "https://elevenlabs.io/blog/reception",
+    "dedupe_key": "7d78393e46f80711",
+    "title": "Introducing Reception, by ElevenAgents",
+    "issue_date": "2026-10-09",
+    "cluster_id": "elevenlabs_io_03611ec3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_38599d22e8301671",
+    "canonical_url": "https://elevenlabs.io/blog/allegro",
+    "dedupe_key": "4fe777de201ace72",
+    "title": "Allegro gives over 20 million shoppers instant answers on delivery hotlines",
+    "issue_date": "2026-10-09",
+    "cluster_id": "elevenlabs_io_0f31db6d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_541c09f034b417ed",
+    "canonical_url": "https://www.anthropic.com/claude-haiku-5-5",
+    "dedupe_key": "90de19449537108e",
+    "title": "Introducing Claude Haiku 5.5 Announcements Oct 7, 2026 Our fastest, cheapest, and most capable small model yet. It’s designed for high-volume, cost-sensitive work.",
+    "issue_date": "2026-10-09",
+    "cluster_id": "anthropic_com_857ca656",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5d798d667212664a",
+    "canonical_url": "https://www.anthropic.com/news/cyber-verification-program",
+    "dedupe_key": "2dce4f969a632e64",
+    "title": "Announcements Oct 6, 2026 Expanding the Cyber Verification Program We’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.",
+    "issue_date": "2026-10-09",
+    "cluster_id": "anthropic_com_44f01399",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_97f5a37c9aa3f69d",
+    "canonical_url": "https://www.anthropic.com/news/2026-usage-policy-update",
+    "dedupe_key": "d779d04c7f4d1676",
+    "title": "Oct 8, 2026 Announcements 2026 Usage Policy update",
+    "issue_date": "2026-10-09",
+    "cluster_id": "anthropic_com_97841175",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
