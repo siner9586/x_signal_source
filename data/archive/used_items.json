@@ -23956,5 +23956,215 @@
     "cluster_id": "anthropic_com_97841175",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_37d7a3788f36a907",
+    "canonical_url": "https://openai.com/index/asana-browser-agent",
+    "dedupe_key": "2141fef38fb8e7fe",
+    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+    "issue_date": "2026-10-10",
+    "cluster_id": "openai_com_f67c782d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_431f289f3af5fbc3",
+    "canonical_url": "https://vercel.com/changelog/new-pro-teams-now-default-to-30-day-deployment-retention",
+    "dedupe_key": "8bdb8c1cb95fe0e5",
+    "title": "New Pro teams now default to 30-day deployment retention",
+    "issue_date": "2026-10-10",
+    "cluster_id": "vercel_com_516ee66b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2d2003a2b7c49d70",
+    "canonical_url": "https://vercel.com/blog/how-rillet-ships-3-faster-with-ai-agents-on-vercel",
+    "dedupe_key": "aaff60029dd8e623",
+    "title": "How Rillet ships 3× faster with AI agents on Vercel",
+    "issue_date": "2026-10-10",
+    "cluster_id": "vercel_com_056c3d1e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4931672a0a7b79e6",
+    "canonical_url": "https://openai.com/index/sophos",
+    "dedupe_key": "e6e753bd4c3827d3",
+    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+    "issue_date": "2026-10-10",
+    "cluster_id": "openai_com_1b9c4457",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b6af02f08daeddfc",
+    "canonical_url": "https://openai.com/index/lowes",
+    "dedupe_key": "d7490a63e2ca5423",
+    "title": "Lowe’s answers millions of home improvement questions with OpenAI",
+    "issue_date": "2026-10-10",
+    "cluster_id": "openai_com_7ca19e60",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d5e8361b30425b81",
+    "canonical_url": "https://github.blog/developer-skills/career-growth/hack-the-world-why-hackathons-are-still-the-best-place-to-learn-to-build",
+    "dedupe_key": "a71b0851db954de9",
+    "title": "Hack the World: Why hackathons are still the best place to learn to build",
+    "issue_date": "2026-10-10",
+    "cluster_id": "github_blog_1006f7ea",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e4b514230bb50bb7",
+    "canonical_url": "https://vercel.com/changelog/agents-can-now-buy-domains-with-the-vercel-cli",
+    "dedupe_key": "62908a3747dfed40",
+    "title": "Agents can now buy domains with the Vercel CLI",
+    "issue_date": "2026-10-10",
+    "cluster_id": "vercel_com_64ffeb35",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_27aeff4d4e97532a",
+    "canonical_url": "https://elevenlabs.io/blog/synthetic-voice-detection-and-personal-agent-protocol",
+    "dedupe_key": "8cc94a0f23a2a08d",
+    "title": "Defining how AI agents interact with your business",
+    "issue_date": "2026-10-10",
+    "cluster_id": "elevenlabs_io_6853ef12",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_488c03ee6a179092",
+    "canonical_url": "https://www.langchain.com/blog/slack-sdk-managed-deep-agents",
+    "dedupe_key": "c7f66bdf832a30e9",
+    "title": "How to build great out-of-the-box user experiences with Managed Deep Agents",
+    "issue_date": "2026-10-10",
+    "cluster_id": "langchain_com_cede8cc0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_30bb4c72e1225440",
+    "canonical_url": "https://vercel.com/changelog/deployment-storage-pricing-expands-to-existing-teams",
+    "dedupe_key": "3088ecf3becc0852",
+    "title": "Deployment Storage billing begins for existing Pro teams",
+    "issue_date": "2026-10-10",
+    "cluster_id": "vercel_com_4a698e1a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ffaf03bd8de1a707",
+    "canonical_url": "https://vercel.com/changelog/microsoft-decision-1-now-available-on-ai-gateway",
+    "dedupe_key": "b99db7f1f27b67c1",
+    "title": "Microsoft Decision-1 now available on AI Gateway",
+    "issue_date": "2026-10-10",
+    "cluster_id": "vercel_com_a138f10a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3ab5a5ad8248e91d",
+    "canonical_url": "https://vercel.com/changelog/liquid-ai-d1-is-available-on-ai-gateway",
+    "dedupe_key": "179bd7ccf16f6c51",
+    "title": "Liquid AI's d1 is available on AI Gateway",
+    "issue_date": "2026-10-10",
+    "cluster_id": "vercel_com_4c080802",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d2a9158a81f5dce0",
+    "canonical_url": "https://www.anthropic.com/news/genesis-mission-commitment",
+    "dedupe_key": "9c90d1f5fceee352",
+    "title": "Oct 8, 2026 Announcements Building on our commitment to American scientific discovery",
+    "issue_date": "2026-10-10",
+    "cluster_id": "anthropic_com_0025548c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_edd6f80ad17756e1",
+    "canonical_url": "https://www.anthropic.com/news/anthropic-cyber-mission",
+    "dedupe_key": "7590f71732c6d944",
+    "title": "Oct 8, 2026 Announcements Introducing the Anthropic Cyber Mission",
+    "issue_date": "2026-10-10",
+    "cluster_id": "anthropic_com_185b120a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0e3b9589c9d6298d",
+    "canonical_url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+    "dedupe_key": "7198b306d35fc943",
+    "title": "Impactful scheduling for GPU clusters",
+    "issue_date": "2026-10-10",
+    "cluster_id": "huggingface_co_10d72bb4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_14376d52e8724dd0",
+    "canonical_url": "https://huggingface.co/blog/building-with-ml-intern",
+    "dedupe_key": "f5ccdf48c7132dcd",
+    "title": "The model that didn&apos;t exist, so you made it yourself",
+    "issue_date": "2026-10-10",
+    "cluster_id": "huggingface_co_aec743cc",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_736cfdb541c627c3",
+    "canonical_url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+    "dedupe_key": "6d3aad9f7f03fec4",
+    "title": "Introducing Falcon ASR",
+    "issue_date": "2026-10-10",
+    "cluster_id": "huggingface_co_646177aa",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_19bf01d01ee71cfd",
+    "canonical_url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+    "dedupe_key": "1740b2f2d6d2face",
+    "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+    "issue_date": "2026-10-10",
+    "cluster_id": "huggingface_co_76ab85c0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ad05f99732566e0b",
+    "canonical_url": "https://elevenlabs.io/blog/introducing-brand-kit",
+    "dedupe_key": "4b95890f1e675aa4",
+    "title": "Introducing Brand Kit",
+    "issue_date": "2026-10-10",
+    "cluster_id": "elevenlabs_io_767bad40",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6f4564bfad4d3fbc",
+    "canonical_url": "https://elevenlabs.io/blog/meeting-transcription-api",
+    "dedupe_key": "b74eae853b87e56a",
+    "title": "How to use a meeting transcription API: Real-time and batch with Scribe v2",
+    "issue_date": "2026-10-10",
+    "cluster_id": "elevenlabs_io_037a39e6",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e2cf94fe0f498992",
+    "canonical_url": "https://elevenlabs.io/blog/webinar-recap-build-full-campaigns-with-ai",
+    "dedupe_key": "6b170644eeb3e02c",
+    "title": "Webinar Recap: Build Full Campaigns With AI",
+    "issue_date": "2026-10-10",
+    "cluster_id": "elevenlabs_io_65379ced",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
