@@ -24166,5 +24166,205 @@
     "cluster_id": "elevenlabs_io_65379ced",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_dac8f3e3b5f8dd01",
+    "canonical_url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no",
+    "dedupe_key": "ba4a0fdd47f1e9bb",
+    "title": "We’re putting too much faith in AI’s ability to say no",
+    "issue_date": "2026-10-11",
+    "cluster_id": "technologyreview_com_74884bb2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9e60dc7b6b9636b8",
+    "canonical_url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon",
+    "dedupe_key": "98fd69ec1995ad7c",
+    "title": "AI breakthroughs in robotics won&#8217;t change your life any time soon",
+    "issue_date": "2026-10-11",
+    "cluster_id": "technologyreview_com_b78f28cb",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ada16bfbfb63d011",
+    "canonical_url": "https://www.lennysnewsletter.com/p/community-wisdom-community-wisdom",
+    "dedupe_key": "f1dccabdf4076b72",
+    "title": "🧠 Community Wisdom: Community Wisdom Top Contributors Summer Class 2026 + ML recommendation systems, getting back into product after being fired, deciding when to quit a side project, and more",
+    "issue_date": "2026-10-11",
+    "cluster_id": "lennysnewsletter_com_ebdf1e5e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_be7c25c0fcfda38a",
+    "canonical_url": "https://arxiv.org/list/cs.AI/recent?skip=302&amp%3Bshow=50",
+    "dedupe_key": "4eb19f3958e39ddb",
+    "title": "Thu, 8 Oct 2026",
+    "issue_date": "2026-10-11",
+    "cluster_id": "arxiv_org_9e8f2db4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ad99bd604d18e19a",
+    "canonical_url": "https://arxiv.org/list/cs.AI/recent?skip=584&amp%3Bshow=50",
+    "dedupe_key": "a39816b710ac5d77",
+    "title": "Wed, 7 Oct 2026",
+    "issue_date": "2026-10-11",
+    "cluster_id": "arxiv_org_bf2805dd",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6a6a2ba143f6277f",
+    "canonical_url": "https://arxiv.org/list/cs.AI/recent?skip=934&amp%3Bshow=50",
+    "dedupe_key": "950a692a2f95b951",
+    "title": "Tue, 6 Oct 2026",
+    "issue_date": "2026-10-11",
+    "cluster_id": "arxiv_org_5d1d39ff",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_007fbbc7590093e8",
+    "canonical_url": "https://arxiv.org/list/cs.AI/recent?skip=1488&amp%3Bshow=50",
+    "dedupe_key": "dae031b5132799db",
+    "title": "Mon, 5 Oct 2026",
+    "issue_date": "2026-10-11",
+    "cluster_id": "arxiv_org_22bd98e5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_fe6cc9e07ab1dfc0",
+    "canonical_url": "https://elevenlabs.io/blog/what-is-voice-activity-detection",
+    "dedupe_key": "e52c417415430773",
+    "title": "What is voice activity detection and how does it work?",
+    "issue_date": "2026-10-11",
+    "cluster_id": "elevenlabs_io_3e8e5819",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_971e2e87f3593295",
+    "canonical_url": "https://elevenlabs.io/blog/elevenreader-launches-in-brazil-with-fbio-porchat-and-70000-brazilian-portuguese-books-in-audio",
+    "dedupe_key": "c6cf1bf8de958e0e",
+    "title": "ElevenReader launches in Brazil with Fábio Porchat and 70,000 Brazilian Portuguese books in audio",
+    "issue_date": "2026-10-11",
+    "cluster_id": "elevenlabs_io_625caf43",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_183bf4417705b5c8",
+    "canonical_url": "https://elevenlabs.io/blog/elevenlabs-singapore",
+    "dedupe_key": "22e6358bc78e42e6",
+    "title": "ElevenLabs launches in Singapore",
+    "issue_date": "2026-10-11",
+    "cluster_id": "elevenlabs_io_c300ec27",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8738527a5160df07",
+    "canonical_url": "https://elevenlabs.io/blog/what-is-conversation-intelligence",
+    "dedupe_key": "91e268d5ebdbf52d",
+    "title": "What is conversation intelligence? A guide for businesses",
+    "issue_date": "2026-10-11",
+    "cluster_id": "elevenlabs_io_3abff516",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_af484fa07658f298",
+    "canonical_url": "https://elevenlabs.io/blog/audio-transcription-with-timestamps",
+    "dedupe_key": "3b37a13f8379867b",
+    "title": "How does audio transcription with timestamps and event tagging work?",
+    "issue_date": "2026-10-11",
+    "cluster_id": "elevenlabs_io_435cfd52",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ed02bfd5e717daaa",
+    "canonical_url": "https://elevenlabs.io/blog/how-to-add-pauses-in-ai-voiceover",
+    "dedupe_key": "d7868a92368d1936",
+    "title": "How to add pauses in AI voiceover with Eleven v4",
+    "issue_date": "2026-10-11",
+    "cluster_id": "elevenlabs_io_470fb081",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3f5cd9cd733c25e6",
+    "canonical_url": "https://elevenlabs.io/blog/pronunciation-dictionary-guide",
+    "dedupe_key": "46cce94e39bf45d4",
+    "title": "Pronunciation dictionary guide: Fix any word in TTS on Eleven v4",
+    "issue_date": "2026-10-11",
+    "cluster_id": "elevenlabs_io_8964f0a7",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_49e4b581b1622248",
+    "canonical_url": "https://elevenlabs.io/blog/elevenlabs-netherlands",
+    "dedupe_key": "803bc5bff2044b27",
+    "title": "ElevenLabs launches in the Netherlands",
+    "issue_date": "2026-10-11",
+    "cluster_id": "elevenlabs_io_64f7bcc5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_33c551b7b288b82e",
+    "canonical_url": "https://elevenlabs.io/blog/the-search-100000-for-the-worlds-catchiest-ad",
+    "dedupe_key": "852b6cd0be952ca1",
+    "title": "The Search: $100,000 for the World's Catchiest Ad",
+    "issue_date": "2026-10-11",
+    "cluster_id": "elevenlabs_io_3f6107e8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e663693df9252f39",
+    "canonical_url": "https://elevenlabs.io/blog/elevenlabs-audio-tags-list",
+    "dedupe_key": "7b6089c18db26842",
+    "title": "The Eleven v4 Audio Tags list: Try them, then write your own",
+    "issue_date": "2026-10-11",
+    "cluster_id": "elevenlabs_io_15dc1cdb",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9b8bcd49351ba89b",
+    "canonical_url": "https://elevenlabs.io/blog/emotional-text-to-speech-with-eleven-v4",
+    "dedupe_key": "a2e1cc10e5c059e8",
+    "title": "Emotional Text to Speech: How to direct AI voice performances with Eleven v4",
+    "issue_date": "2026-10-11",
+    "cluster_id": "elevenlabs_io_a0606138",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_dfe7d262873557e6",
+    "canonical_url": "https://elevenlabs.io/blog/introducing-the-image-video-and-templates-apis",
+    "dedupe_key": "9c18861913ea360c",
+    "title": "Introducing the Image, Video, and Template APIs",
+    "issue_date": "2026-10-11",
+    "cluster_id": "elevenlabs_io_4f28498e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9630503e04f9ea42",
+    "canonical_url": "https://elevenlabs.io/blog/introducing-elevenlabs-for-students",
+    "dedupe_key": "9bc4903f2b9f6cc9",
+    "title": "Introducing ElevenLabs for Students",
+    "issue_date": "2026-10-11",
+    "cluster_id": "elevenlabs_io_7afb07ed",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]

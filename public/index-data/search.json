@@ -1,294 +1,269 @@
 [
   {
-    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-    "url": "https://openai.com/index/asana-browser-agent",
-    "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+    "title": "We’re putting too much faith in AI’s ability to say no",
+    "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no",
+    "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary.&#160; But recently, the idea that AI shouldn’t&#8230;",
     "tags": [
-      "ai_models",
-      "official",
+      "ai",
       "research",
-      "developer"
+      "society"
     ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-10-10",
-    "score": 70
-  },
-  {
-    "title": "New Pro teams now default to 30-day deployment retention",
-    "url": "https://vercel.com/changelog/new-pro-teams-now-default-to-30-day-deployment-retention",
-    "summary": "New Pro teams now default to a 30-day deployment retention period. Coding agents have accelerated development, increasing deployment frequency and the amount of stored deployment history. Shorter retention keeps recent history available while limiting older history and its storage costs. You can choose a longer retention period in your team's settings when you need more history for inspection or rollback. Deployment Storage and Functions Storage each cost $0.10 per GB-month. ",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-10",
-    "score": 69
-  },
-  {
-    "title": "How Rillet ships 3× faster with AI agents on Vercel",
-    "url": "https://vercel.com/blog/how-rillet-ships-3-faster-with-ai-agents-on-vercel",
-    "summary": "Rillet on Vercel Tripled shipping rate in three months with eve agents deployed on Vercel Two-person team closed 800+ Linear tickets in its first 4 months Builder access via Enterprise Managed Users, SSO, and Directory Sync Ships customer-requested changes to production in as little as two hours Gives every builder access to models through AI Gateway Rillet is an AI-native enterprise resource planning (ERP) platform. Their AI agents do accounting work inside a real-time gener",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-10",
-    "score": 69
-  },
-  {
-    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-    "url": "https://openai.com/index/sophos",
-    "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-10-10",
-    "score": 67
-  },
-  {
-    "title": "Lowe’s answers millions of home improvement questions with OpenAI",
-    "url": "https://openai.com/index/lowes",
-    "summary": "Lowe’s uses OpenAI models to power Mylow and Mylow Companion, helping customers and associates answer 25M+ questions and move home improvement projects forward.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-10-10",
-    "score": 67
-  },
-  {
-    "title": "Hack the World: Why hackathons are still the best place to learn to build",
-    "url": "https://github.blog/developer-skills/career-growth/hack-the-world-why-hackathons-are-still-the-best-place-to-learn-to-build",
-    "summary": "The barriers to building software have collapsed. Today, anyone can build. Hackathons are a great place to start learning. The post Hack the World: Why hackathons are still the best place to learn to build appeared first on The GitHub Blog .",
-    "tags": [
-      "ai_coding",
-      "developer_tools"
-    ],
-    "author": "GitHub Copilot",
-    "source": "github.blog",
-    "date": "2026-10-10",
-    "score": 67
-  },
-  {
-    "title": "Agents can now buy domains with the Vercel CLI",
-    "url": "https://vercel.com/changelog/agents-can-now-buy-domains-with-the-vercel-cli",
-    "summary": "Your agent can now use the Vercel CLI to buy a domain. The agent discovers candidates with vercel domains search , checks availability and registrar pricing with vercel domains check and vercel domains price , and initiates the purchase with vercel domains buy . The purchase decision itself stays with you by design. Run non-interactively, vercel domains buy returns a structured, machine-readable error and the suggested next commands, so the agent hands the confirmation back t",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-10",
-    "score": 66
-  },
-  {
-    "title": "Defining how AI agents interact with your business",
-    "url": "https://elevenlabs.io/blog/synthetic-voice-detection-and-personal-agent-protocol",
-    "summary": "ElevenLabs joins the Personal Agent Protocol and introduces synthetic voice detection and routing in ElevenAgents.",
-    "tags": [
-      "voice_ai",
-      "audio"
-    ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-10-10",
-    "score": 64
-  },
-  {
-    "title": "How to build great out-of-the-box user experiences with Managed Deep Agents",
-    "url": "https://www.langchain.com/blog/slack-sdk-managed-deep-agents",
-    "summary": "Managed Deep Agents includes a new API for managing reactions for your distributed agents, and a system to dynamically assign emoji responses with your instrument of choice. Learn more.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-10-10",
-    "score": 64
-  },
-  {
-    "title": "Deployment Storage billing begins for existing Pro teams",
-    "url": "https://vercel.com/changelog/deployment-storage-pricing-expands-to-existing-teams",
-    "summary": "Deployment Storage and Functions Storage billing will begin for all Pro teams at $0.10 per GB-month. Check your email for details about when billing will start for your team. To keep storage costs low, the deployment retention window also changes to 30 days. Deployments older than 30 days will be deleted starting October 23, unless you opt out in your retention settings before then. Retention settings already at 30 days or shorter are unchanged. Control your Deployment Storag",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-10",
-    "score": 63
-  },
-  {
-    "title": "Microsoft Decision-1 now available on AI Gateway",
-    "url": "https://vercel.com/changelog/microsoft-decision-1-now-available-on-ai-gateway",
-    "summary": "Decision-1 from Microsoft is now available on AI Gateway . It answers typed questions about text with probabilities, choices, and scores. It can be used to classify support requests, select the next step in a workflow, or assess an AI response against a rubric. The model can answer yes/no questions, choose among named categories, or score an input against an ordered set of criteria. Multiple questions can share the same input in one request. Choice and score answers include p",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-10",
-    "score": 63
-  },
-  {
-    "title": "Liquid AI's d1 is available on AI Gateway",
-    "url": "https://vercel.com/changelog/liquid-ai-d1-is-available-on-ai-gateway",
-    "summary": "Liquid d1 is now available on AI Gateway . d1 is a decision model that evaluates shared state against typed questions for classification, routing, and scoring. It returns structured answers with probabilities without generating text tokens. d1 also has vision support: the model can answer typed questions about images for visual classification, inspection, and scoring. Use liquid/d1 through the AI SDK decision API , the OpenAI-compatible Decisions API , or the TypeSafe-compati",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-10",
-    "score": 63
-  },
-  {
-    "title": "Oct 8, 2026 Announcements Building on our commitment to American scientific discovery",
-    "url": "https://www.anthropic.com/news/genesis-mission-commitment",
-    "summary": "Oct 8, 2026 Announcements Building on our commitment to American scientific discovery",
-    "tags": [
-      "ai_models",
-      "safety",
-      "official"
-    ],
-    "author": "Anthropic",
-    "source": "anthropic.com",
-    "date": "2026-10-10",
-    "score": 62
-  },
-  {
-    "title": "Oct 8, 2026 Announcements Introducing the Anthropic Cyber Mission",
-    "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
-    "summary": "Oct 8, 2026 Announcements Introducing the Anthropic Cyber Mission",
-    "tags": [
-      "ai_models",
-      "safety",
-      "official"
-    ],
-    "author": "Anthropic",
-    "source": "anthropic.com",
-    "date": "2026-10-10",
-    "score": 62
-  },
-  {
-    "title": "Impactful scheduling for GPU clusters",
-    "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
-    "summary": "Impactful scheduling for GPU clusters 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-10-10",
-    "score": 62
-  },
-  {
-    "title": "The model that didn&apos;t exist, so you made it yourself",
-    "url": "https://huggingface.co/blog/building-with-ml-intern",
-    "summary": "The model that didn&apos;t exist, so you made it yourself 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-10-10",
-    "score": 62
-  },
-  {
-    "title": "Introducing Falcon ASR",
-    "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
-    "summary": "Introducing Falcon ASR 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-10-10",
-    "score": 62
-  },
-  {
-    "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-    "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-    "summary": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-10-10",
-    "score": 62
-  },
-  {
-    "title": "Introducing Brand Kit",
-    "url": "https://elevenlabs.io/blog/introducing-brand-kit",
-    "summary": "Add your logo, fonts and colors once, and everything you make pulls them in automatically. Ask for a launch campaign for a new product and it comes back on-brand.",
-    "tags": [
-      "voice_ai",
-      "audio"
-    ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-10-10",
+    "author": "MIT Technology Review AI",
+    "source": "technologyreview.com",
+    "date": "2026-10-11",
     "score": 61
   },
   {
-    "title": "How to use a meeting transcription API: Real-time and batch with Scribe v2",
-    "url": "https://elevenlabs.io/blog/meeting-transcription-api",
-    "summary": "Build a meeting transcription API into your product with Scribe v2 and Scribe v2 Realtime. Get speaker-labeled, time-stamped transcripts in 90+ languages.",
+    "title": "AI breakthroughs in robotics won&#8217;t change your life any time soon",
+    "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon",
+    "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds. Perhaps you’ve seen it dance or&#8230;",
     "tags": [
-      "voice_ai",
-      "audio"
+      "ai",
+      "research",
+      "society"
     ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-10-10",
+    "author": "MIT Technology Review AI",
+    "source": "technologyreview.com",
+    "date": "2026-10-11",
     "score": 61
   },
   {
-    "title": "Webinar Recap: Build Full Campaigns With AI",
-    "url": "https://elevenlabs.io/blog/webinar-recap-build-full-campaigns-with-ai",
-    "summary": "Building a full creative campaign: from a product photo to a finished vertical video, using AI voice, music, image, and video models in one workspace.",
+    "title": "🧠 Community Wisdom: Community Wisdom Top Contributors Summer Class 2026 + ML recommendation systems, getting back into product after being fired, deciding when to quit a side project, and more",
+    "url": "https://www.lennysnewsletter.com/p/community-wisdom-community-wisdom",
+    "summary": "Community Wisdom 301",
+    "tags": [
+      "product",
+      "growth",
+      "startup"
+    ],
+    "author": "Lenny's Newsletter",
+    "source": "lennysnewsletter.com",
+    "date": "2026-10-11",
+    "score": 61
+  },
+  {
+    "title": "Thu, 8 Oct 2026",
+    "url": "https://arxiv.org/list/cs.AI/recent?skip=302&amp%3Bshow=50",
+    "summary": "Artificial Intelligence · Thu, 8 Oct 2026",
+    "tags": [
+      "paper",
+      "ai",
+      "arxiv"
+    ],
+    "author": "arXiv CS AI",
+    "source": "arxiv.org",
+    "date": "2026-10-11",
+    "score": 60
+  },
+  {
+    "title": "Wed, 7 Oct 2026",
+    "url": "https://arxiv.org/list/cs.AI/recent?skip=584&amp%3Bshow=50",
+    "summary": "Artificial Intelligence · Wed, 7 Oct 2026",
+    "tags": [
+      "paper",
+      "ai",
+      "arxiv"
+    ],
+    "author": "arXiv CS AI",
+    "source": "arxiv.org",
+    "date": "2026-10-11",
+    "score": 60
+  },
+  {
+    "title": "Tue, 6 Oct 2026",
+    "url": "https://arxiv.org/list/cs.AI/recent?skip=934&amp%3Bshow=50",
+    "summary": "Artificial Intelligence · Tue, 6 Oct 2026",
+    "tags": [
+      "paper",
+      "ai",
+      "arxiv"
+    ],
+    "author": "arXiv CS AI",
+    "source": "arxiv.org",
+    "date": "2026-10-11",
+    "score": 60
+  },
+  {
+    "title": "Mon, 5 Oct 2026",
+    "url": "https://arxiv.org/list/cs.AI/recent?skip=1488&amp%3Bshow=50",
+    "summary": "Artificial Intelligence · Mon, 5 Oct 2026",
+    "tags": [
+      "paper",
+      "ai",
+      "arxiv"
+    ],
+    "author": "arXiv CS AI",
+    "source": "arxiv.org",
+    "date": "2026-10-11",
+    "score": 60
+  },
+  {
+    "title": "What is voice activity detection and how does it work?",
+    "url": "https://elevenlabs.io/blog/what-is-voice-activity-detection",
+    "summary": "Voice activity detection (VAD) classifies audio frames as speech or silence. Learn how VAD works, how it differs from endpointing, and how to test it",
     "tags": [
       "voice_ai",
       "audio"
     ],
     "author": "ElevenLabs",
     "source": "elevenlabs.io",
-    "date": "2026-10-10",
-    "score": 61
+    "date": "2026-10-11",
+    "score": 59
+  },
+  {
+    "title": "ElevenReader launches in Brazil with Fábio Porchat and 70,000 Brazilian Portuguese books in audio",
+    "url": "https://elevenlabs.io/blog/elevenreader-launches-in-brazil-with-fbio-porchat-and-70000-brazilian-portuguese-books-in-audio",
+    "summary": "ElevenReader launches in Brazil, Fábio Porchat joins alongside 70,000 Brazilian Portuguese titles in audio",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-10-11",
+    "score": 59
+  },
+  {
+    "title": "ElevenLabs launches in Singapore",
+    "url": "https://elevenlabs.io/blog/elevenlabs-singapore",
+    "summary": "ElevenLabs launches in the Singapore, opening an office to bring voice AI to Southeast Asian enterprises.",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-10-11",
+    "score": 59
+  },
+  {
+    "title": "What is conversation intelligence? A guide for businesses",
+    "url": "https://elevenlabs.io/blog/what-is-conversation-intelligence",
+    "summary": "What is conversation intelligence and how does it allow businesses to improve their customer service processes? Learn more about conversation intelligence",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-10-11",
+    "score": 59
+  },
+  {
+    "title": "How does audio transcription with timestamps and event tagging work?",
+    "url": "https://elevenlabs.io/blog/audio-transcription-with-timestamps",
+    "summary": "Learn how audio transcription with timestamps works, from word-level timing to audio event tags like laughter, and how it differs from forced alignment.",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-10-11",
+    "score": 59
+  },
+  {
+    "title": "How to add pauses in AI voiceover with Eleven v4",
+    "url": "https://elevenlabs.io/blog/how-to-add-pauses-in-ai-voiceover",
+    "summary": "Learn three ways to control pauses in AI voiceover with Eleven v4: the [pause] and [long pause] Audio Tags, and punctuation. Includes audio examples.",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-10-11",
+    "score": 59
+  },
+  {
+    "title": "Pronunciation dictionary guide: Fix any word in TTS on Eleven v4",
+    "url": "https://elevenlabs.io/blog/pronunciation-dictionary-guide",
+    "summary": "Fix TTS pronunciation in TTS models with a pronunciation dictionary. Learn how to use alias and phoneme rules, plus inline IPA for one-off fixes.",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-10-11",
+    "score": 59
+  },
+  {
+    "title": "ElevenLabs launches in the Netherlands",
+    "url": "https://elevenlabs.io/blog/elevenlabs-netherlands",
+    "summary": "ElevenLabs launches in the Netherlands, opening an Amsterdam office and tripling its local team to bring voice AI to Dutch enterprises.",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-10-11",
+    "score": 59
+  },
+  {
+    "title": "The Search: $100,000 for the World's Catchiest Ad",
+    "url": "https://elevenlabs.io/blog/the-search-100000-for-the-worlds-catchiest-ad",
+    "summary": "Today we’re opening The Search, a global competition to find the world’s catchiest ad.",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-10-11",
+    "score": 59
+  },
+  {
+    "title": "The Eleven v4 Audio Tags list: Try them, then write your own",
+    "url": "https://elevenlabs.io/blog/elevenlabs-audio-tags-list",
+    "summary": "Browse the ElevenLabs Audio Tags list for Eleven v4, from emotions to sound effects, and learn to write your own tags with natural language in the TTS app.",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-10-11",
+    "score": 59
+  },
+  {
+    "title": "Emotional Text to Speech: How to direct AI voice performances with Eleven v4",
+    "url": "https://elevenlabs.io/blog/emotional-text-to-speech-with-eleven-v4",
+    "summary": "Learn how to create emotional Text to Speech samples by using Eleven v4, the leading TTS model for emotive AI audio. Learn how to build out emotive TTS scripts.",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-10-11",
+    "score": 59
+  },
+  {
+    "title": "Introducing the Image, Video, and Template APIs",
+    "url": "https://elevenlabs.io/blog/introducing-the-image-video-and-templates-apis",
+    "summary": "Image and video generation, and templates built in Flows, are now available via the ElevenLabs API.",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-10-11",
+    "score": 59
+  },
+  {
+    "title": "Introducing ElevenLabs for Students",
+    "url": "https://elevenlabs.io/blog/introducing-elevenlabs-for-students",
+    "summary": "Introducing ElevenLabs for Students 是 ElevenLabs 当日抓取到的公开新增条目。",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-10-11",
+    "score": 59
   }
 ]
