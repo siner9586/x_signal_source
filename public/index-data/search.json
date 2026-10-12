@@ -1,36 +1,8 @@
 [
   {
-    "title": "We’re putting too much faith in AI’s ability to say no",
-    "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no",
-    "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary.&#160; But recently, the idea that AI shouldn’t&#8230;",
-    "tags": [
-      "ai",
-      "research",
-      "society"
-    ],
-    "author": "MIT Technology Review AI",
-    "source": "technologyreview.com",
-    "date": "2026-10-11",
-    "score": 61
-  },
-  {
-    "title": "AI breakthroughs in robotics won&#8217;t change your life any time soon",
-    "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon",
-    "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds. Perhaps you’ve seen it dance or&#8230;",
-    "tags": [
-      "ai",
-      "research",
-      "society"
-    ],
-    "author": "MIT Technology Review AI",
-    "source": "technologyreview.com",
-    "date": "2026-10-11",
-    "score": 61
-  },
-  {
-    "title": "🧠 Community Wisdom: Community Wisdom Top Contributors Summer Class 2026 + ML recommendation systems, getting back into product after being fired, deciding when to quit a side project, and more",
-    "url": "https://www.lennysnewsletter.com/p/community-wisdom-community-wisdom",
-    "summary": "Community Wisdom 301",
+    "title": "Why every company now needs to think and operate like a lab team | Josh Woodward (Google Labs, Gemini, AI Studio)",
+    "url": "https://www.lennysnewsletter.com/p/why-every-company-now-needs-to-think",
+    "summary": "Listen now (62 mins) | Josh Woodward of Google Labs on where great ideas come from, knowing when to kill them, and building for a world where what&#8217;s possible changes every week",
     "tags": [
       "product",
       "growth",
@@ -38,232 +10,257 @@
     ],
     "author": "Lenny's Newsletter",
     "source": "lennysnewsletter.com",
-    "date": "2026-10-11",
-    "score": 61
+    "date": "2026-10-12",
+    "score": 62
   },
   {
-    "title": "Thu, 8 Oct 2026",
-    "url": "https://arxiv.org/list/cs.AI/recent?skip=302&amp%3Bshow=50",
-    "summary": "Artificial Intelligence · Thu, 8 Oct 2026",
+    "title": "How to transcribe Zoom meetings with AI: Setup and API guide",
+    "url": "https://elevenlabs.io/blog/how-to-transcribe-zoom-meetings",
+    "summary": "How to transcribe Zoom meetings using AI. Discover different methods to transcribe Zoom meetings both natively and using artificial intelligence.",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-10-12",
+    "score": 59
+  },
+  {
+    "title": "What is human in the loop? How people improve AI workflows",
+    "url": "https://elevenlabs.io/blog/what-is-human-in-the-loop",
+    "summary": "What is human in the loop (HITL) and how does it contribute to better AI-human workflows? See real benefits of integrating human oversight into AI systems.",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-10-12",
+    "score": 59
+  },
+  {
+    "title": "Scribe v2 Medical is now available to everyone",
+    "url": "https://elevenlabs.io/blog/scribe-v2-medical-generally-available",
+    "summary": "Scribe v2 Medical, our speech to text model fine-tuned for clinical audio, is now generally available on the ElevenLabs API.",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-10-12",
+    "score": 59
+  },
+  {
+    "title": "Introducing Studio 4.0 in ElevenCreative",
+    "url": "https://elevenlabs.io/blog/introducing-studio-4",
+    "summary": "Studio 4.0 generates video, voice, music, and sound effects inside your project, then lets you edit, caption, and export without leaving the editor.",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-10-12",
+    "score": 59
+  },
+  {
+    "title": "What is a context window? What every LLM user should know",
+    "url": "https://elevenlabs.io/blog/what-is-a-context-window",
+    "summary": "Learn what is a context window is, how LLMs process tokens, why larger context windows affect performance, and how to manage context in AI applications.",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-10-12",
+    "score": 59
+  },
+  {
+    "title": "Measuring conversational AI: Essential metrics for success",
+    "url": "https://elevenlabs.io/blog/measuring-conversational-ai",
+    "summary": "Discover how measuring conversational AI with the right metrics elevates chatbot performance. Learn what to track for impactful results.",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-10-12",
+    "score": 59
+  },
+  {
+    "title": "Real-time vs. batch transcription: Key differences",
+    "url": "https://elevenlabs.io/blog/real-time-vs-batch-transcription",
+    "summary": "Explore real-time vs. batch transcription to find the best fit for your needs. Discover key benefits and make informed choices for your workflow today.",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-10-12",
+    "score": 59
+  },
+  {
+    "title": "Conversational AI use cases, examples, and applications",
+    "url": "https://elevenlabs.io/blog/conversational-ai-use-cases",
+    "summary": "Discover top conversational AI use cases driving business efficiency. Learn how industry leaders are leveraging AI to enhance customer experience.",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-10-12",
+    "score": 59
+  },
+  {
+    "title": "How our AI SDR qualifies leads in minutes, creating $1M+ in pipeline last month",
+    "url": "https://elevenlabs.io/blog/how-our-ai-sdr-qualifies-leads-in-minutes",
+    "summary": "How our AI SDR qualifies leads in minutes, creating $1M+ in pipeline last month 是 ElevenLabs 当日抓取到的公开新增条目。",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-10-12",
+    "score": 59
+  },
+  {
+    "title": "Introducing voice, music, image, and video generation in the ElevenLabs MCP",
+    "url": "https://elevenlabs.io/blog/introducing-voice-music-image-and-video-generation-in-the-elevenlabs-mcp",
+    "summary": "Generate voice, music, sound effects, images, and video from Claude, ChatGPT, or Cursor. Everything lands in your ElevenCreative workspace.",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-10-12",
+    "score": 59
+  },
+  {
+    "title": "What is the Model Context Protocol and why it matters",
+    "url": "https://elevenlabs.io/blog/what-is-the-model-context-protocol",
+    "summary": "Discover what the Model Context Protocol is, its main benefits, and why it matters for modern AI systems. Learn how MCP impacts your workflow.",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-10-12",
+    "score": 59
+  },
+  {
+    "title": "Introducing Music v2.5, our best music model yet",
+    "url": "https://elevenlabs.io/blog/music-v2-5-model",
+    "summary": "ElevenLabs introduces Music v2.5, its best performing music model yet. Songs sound more layered and complex, with more natural-sounding instruments.",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-10-12",
+    "score": 59
+  },
+  {
+    "title": "What is AI orchestration? Coordinating AI models at scale",
+    "url": "https://elevenlabs.io/blog/what-is-ai-orchestration",
+    "summary": "Discover how AI orchestration simplifies workflows and boosts efficiency using intelligent automation tools. Learn how to unlock smoother operations.",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-10-12",
+    "score": 59
+  },
+  {
+    "title": "What is IVR? How it transforms customer interactions",
+    "url": "https://elevenlabs.io/blog/what-is-ivr",
+    "summary": "Learn what IVR is, how it works, and why businesses rely on this technology for customer service. Discover the benefits in our complete guide.",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-10-12",
+    "score": 59
+  },
+  {
+    "title": "Sonic branding: Building your brand identity through sound",
+    "url": "https://elevenlabs.io/blog/sonic-branding",
+    "summary": "Discover how sonic branding helps brands stand out with unique audio signatures. Explore how voice selection is the new frontier of sonic branding.",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-10-12",
+    "score": 59
+  },
+  {
+    "title": "Vimeo scales automated video dubbing across 40 languages with ElevenLabs",
+    "url": "https://elevenlabs.io/blog/vimeo",
+    "summary": "1.4 million minutes of video dubbed across 40 languages through automated, editable dubbing",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-10-12",
+    "score": 59
+  },
+  {
+    "title": "Apple and LG, The House For Everyone Else, Agent Standards and Amazon",
+    "url": "https://stratechery.com/2026/apple-and-lg-the-house-for-everyone-else-agent-standards-and-amazon",
+    "summary": "Apple is taking a smarter approach to the home than I expected, leaning into integration (with partners); then, what Amazon should do about agents.",
+    "tags": [
+      "strategy",
+      "tech",
+      "business"
+    ],
+    "author": "Stratechery",
+    "source": "stratechery.com",
+    "date": "2026-10-12",
+    "score": 59
+  },
+  {
+    "title": "arXiv:2610.09772",
+    "url": "https://arxiv.org/abs/2610.09772",
+    "summary": "Computation and Language · arXiv:2610.09772",
     "tags": [
       "paper",
-      "ai",
+      "nlp",
       "arxiv"
     ],
-    "author": "arXiv CS AI",
+    "author": "arXiv CS CL",
     "source": "arxiv.org",
-    "date": "2026-10-11",
-    "score": 60
-  },
-  {
-    "title": "Wed, 7 Oct 2026",
-    "url": "https://arxiv.org/list/cs.AI/recent?skip=584&amp%3Bshow=50",
-    "summary": "Artificial Intelligence · Wed, 7 Oct 2026",
-    "tags": [
-      "paper",
-      "ai",
-      "arxiv"
-    ],
-    "author": "arXiv CS AI",
-    "source": "arxiv.org",
-    "date": "2026-10-11",
-    "score": 60
-  },
-  {
-    "title": "Tue, 6 Oct 2026",
-    "url": "https://arxiv.org/list/cs.AI/recent?skip=934&amp%3Bshow=50",
-    "summary": "Artificial Intelligence · Tue, 6 Oct 2026",
-    "tags": [
-      "paper",
-      "ai",
-      "arxiv"
-    ],
-    "author": "arXiv CS AI",
-    "source": "arxiv.org",
-    "date": "2026-10-11",
-    "score": 60
-  },
-  {
-    "title": "Mon, 5 Oct 2026",
-    "url": "https://arxiv.org/list/cs.AI/recent?skip=1488&amp%3Bshow=50",
-    "summary": "Artificial Intelligence · Mon, 5 Oct 2026",
-    "tags": [
-      "paper",
-      "ai",
-      "arxiv"
-    ],
-    "author": "arXiv CS AI",
-    "source": "arxiv.org",
-    "date": "2026-10-11",
-    "score": 60
-  },
-  {
-    "title": "What is voice activity detection and how does it work?",
-    "url": "https://elevenlabs.io/blog/what-is-voice-activity-detection",
-    "summary": "Voice activity detection (VAD) classifies audio frames as speech or silence. Learn how VAD works, how it differs from endpointing, and how to test it",
-    "tags": [
-      "voice_ai",
-      "audio"
-    ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-10-11",
+    "date": "2026-10-12",
     "score": 59
   },
   {
-    "title": "ElevenReader launches in Brazil with Fábio Porchat and 70,000 Brazilian Portuguese books in audio",
-    "url": "https://elevenlabs.io/blog/elevenreader-launches-in-brazil-with-fbio-porchat-and-70000-brazilian-portuguese-books-in-audio",
-    "summary": "ElevenReader launches in Brazil, Fábio Porchat joins alongside 70,000 Brazilian Portuguese titles in audio",
+    "title": "Apple and a Hacker&#8217;s Future",
+    "url": "https://stratechery.com/2026/apple-and-a-hackers-future",
+    "summary": "I was happy for years in Apple's walled garden; with AI, however, their protections feel like limitations.",
     "tags": [
-      "voice_ai",
-      "audio"
+      "strategy",
+      "tech",
+      "business"
     ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-10-11",
-    "score": 59
-  },
-  {
-    "title": "ElevenLabs launches in Singapore",
-    "url": "https://elevenlabs.io/blog/elevenlabs-singapore",
-    "summary": "ElevenLabs launches in the Singapore, opening an office to bring voice AI to Southeast Asian enterprises.",
-    "tags": [
-      "voice_ai",
-      "audio"
-    ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-10-11",
-    "score": 59
-  },
-  {
-    "title": "What is conversation intelligence? A guide for businesses",
-    "url": "https://elevenlabs.io/blog/what-is-conversation-intelligence",
-    "summary": "What is conversation intelligence and how does it allow businesses to improve their customer service processes? Learn more about conversation intelligence",
-    "tags": [
-      "voice_ai",
-      "audio"
-    ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-10-11",
-    "score": 59
-  },
-  {
-    "title": "How does audio transcription with timestamps and event tagging work?",
-    "url": "https://elevenlabs.io/blog/audio-transcription-with-timestamps",
-    "summary": "Learn how audio transcription with timestamps works, from word-level timing to audio event tags like laughter, and how it differs from forced alignment.",
-    "tags": [
-      "voice_ai",
-      "audio"
-    ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-10-11",
-    "score": 59
-  },
-  {
-    "title": "How to add pauses in AI voiceover with Eleven v4",
-    "url": "https://elevenlabs.io/blog/how-to-add-pauses-in-ai-voiceover",
-    "summary": "Learn three ways to control pauses in AI voiceover with Eleven v4: the [pause] and [long pause] Audio Tags, and punctuation. Includes audio examples.",
-    "tags": [
-      "voice_ai",
-      "audio"
-    ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-10-11",
-    "score": 59
-  },
-  {
-    "title": "Pronunciation dictionary guide: Fix any word in TTS on Eleven v4",
-    "url": "https://elevenlabs.io/blog/pronunciation-dictionary-guide",
-    "summary": "Fix TTS pronunciation in TTS models with a pronunciation dictionary. Learn how to use alias and phoneme rules, plus inline IPA for one-off fixes.",
-    "tags": [
-      "voice_ai",
-      "audio"
-    ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-10-11",
-    "score": 59
-  },
-  {
-    "title": "ElevenLabs launches in the Netherlands",
-    "url": "https://elevenlabs.io/blog/elevenlabs-netherlands",
-    "summary": "ElevenLabs launches in the Netherlands, opening an Amsterdam office and tripling its local team to bring voice AI to Dutch enterprises.",
-    "tags": [
-      "voice_ai",
-      "audio"
-    ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-10-11",
-    "score": 59
-  },
-  {
-    "title": "The Search: $100,000 for the World's Catchiest Ad",
-    "url": "https://elevenlabs.io/blog/the-search-100000-for-the-worlds-catchiest-ad",
-    "summary": "Today we’re opening The Search, a global competition to find the world’s catchiest ad.",
-    "tags": [
-      "voice_ai",
-      "audio"
-    ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-10-11",
-    "score": 59
-  },
-  {
-    "title": "The Eleven v4 Audio Tags list: Try them, then write your own",
-    "url": "https://elevenlabs.io/blog/elevenlabs-audio-tags-list",
-    "summary": "Browse the ElevenLabs Audio Tags list for Eleven v4, from emotions to sound effects, and learn to write your own tags with natural language in the TTS app.",
-    "tags": [
-      "voice_ai",
-      "audio"
-    ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-10-11",
-    "score": 59
-  },
-  {
-    "title": "Emotional Text to Speech: How to direct AI voice performances with Eleven v4",
-    "url": "https://elevenlabs.io/blog/emotional-text-to-speech-with-eleven-v4",
-    "summary": "Learn how to create emotional Text to Speech samples by using Eleven v4, the leading TTS model for emotive AI audio. Learn how to build out emotive TTS scripts.",
-    "tags": [
-      "voice_ai",
-      "audio"
-    ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-10-11",
-    "score": 59
-  },
-  {
-    "title": "Introducing the Image, Video, and Template APIs",
-    "url": "https://elevenlabs.io/blog/introducing-the-image-video-and-templates-apis",
-    "summary": "Image and video generation, and templates built in Flows, are now available via the ElevenLabs API.",
-    "tags": [
-      "voice_ai",
-      "audio"
-    ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-10-11",
-    "score": 59
-  },
-  {
-    "title": "Introducing ElevenLabs for Students",
-    "url": "https://elevenlabs.io/blog/introducing-elevenlabs-for-students",
-    "summary": "Introducing ElevenLabs for Students 是 ElevenLabs 当日抓取到的公开新增条目。",
-    "tags": [
-      "voice_ai",
-      "audio"
-    ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-10-11",
-    "score": 59
+    "author": "Stratechery",
+    "source": "stratechery.com",
+    "date": "2026-10-12",
+    "score": 58
   }
 ]

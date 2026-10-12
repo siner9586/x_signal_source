@@ -24366,5 +24366,205 @@
     "cluster_id": "elevenlabs_io_7afb07ed",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7793e850a9df2496",
+    "canonical_url": "https://www.lennysnewsletter.com/p/why-every-company-now-needs-to-think",
+    "dedupe_key": "7886e66df3a4bda7",
+    "title": "Why every company now needs to think and operate like a lab team | Josh Woodward (Google Labs, Gemini, AI Studio)",
+    "issue_date": "2026-10-12",
+    "cluster_id": "lennysnewsletter_com_c8cb0827",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_33c1cbbe0eb71cf5",
+    "canonical_url": "https://elevenlabs.io/blog/how-to-transcribe-zoom-meetings",
+    "dedupe_key": "99aaabf2a156f51b",
+    "title": "How to transcribe Zoom meetings with AI: Setup and API guide",
+    "issue_date": "2026-10-12",
+    "cluster_id": "elevenlabs_io_23fd2901",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2abbbac44b6e67d3",
+    "canonical_url": "https://elevenlabs.io/blog/what-is-human-in-the-loop",
+    "dedupe_key": "74338d776e5b144b",
+    "title": "What is human in the loop? How people improve AI workflows",
+    "issue_date": "2026-10-12",
+    "cluster_id": "elevenlabs_io_fe628630",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5fdf1104c76a3872",
+    "canonical_url": "https://elevenlabs.io/blog/scribe-v2-medical-generally-available",
+    "dedupe_key": "61b4211ad4c28cf6",
+    "title": "Scribe v2 Medical is now available to everyone",
+    "issue_date": "2026-10-12",
+    "cluster_id": "elevenlabs_io_28ee704d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1959e722c9a468ea",
+    "canonical_url": "https://elevenlabs.io/blog/introducing-studio-4",
+    "dedupe_key": "7c13ba36d4033a18",
+    "title": "Introducing Studio 4.0 in ElevenCreative",
+    "issue_date": "2026-10-12",
+    "cluster_id": "elevenlabs_io_03957abf",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_251a9de80dbf6e14",
+    "canonical_url": "https://elevenlabs.io/blog/what-is-a-context-window",
+    "dedupe_key": "da4d23cfd0e821f6",
+    "title": "What is a context window? What every LLM user should know",
+    "issue_date": "2026-10-12",
+    "cluster_id": "elevenlabs_io_1cf882b2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0c26d064b695664d",
+    "canonical_url": "https://elevenlabs.io/blog/measuring-conversational-ai",
+    "dedupe_key": "58e5de18e1414067",
+    "title": "Measuring conversational AI: Essential metrics for success",
+    "issue_date": "2026-10-12",
+    "cluster_id": "elevenlabs_io_eaf72a45",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1bacb15a2cfd92f7",
+    "canonical_url": "https://elevenlabs.io/blog/real-time-vs-batch-transcription",
+    "dedupe_key": "7b513d3f4daa2768",
+    "title": "Real-time vs. batch transcription: Key differences",
+    "issue_date": "2026-10-12",
+    "cluster_id": "elevenlabs_io_52041f97",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c52ea44d50bb98ba",
+    "canonical_url": "https://elevenlabs.io/blog/conversational-ai-use-cases",
+    "dedupe_key": "4ab37f3a82820c07",
+    "title": "Conversational AI use cases, examples, and applications",
+    "issue_date": "2026-10-12",
+    "cluster_id": "elevenlabs_io_cbab5411",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4fe735072603e4f8",
+    "canonical_url": "https://elevenlabs.io/blog/how-our-ai-sdr-qualifies-leads-in-minutes",
+    "dedupe_key": "aeb7fbe2f1b70f0d",
+    "title": "How our AI SDR qualifies leads in minutes, creating $1M+ in pipeline last month",
+    "issue_date": "2026-10-12",
+    "cluster_id": "elevenlabs_io_ddfdd5e5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f4167671b5e10ef3",
+    "canonical_url": "https://elevenlabs.io/blog/introducing-voice-music-image-and-video-generation-in-the-elevenlabs-mcp",
+    "dedupe_key": "f553ebb42ca5e481",
+    "title": "Introducing voice, music, image, and video generation in the ElevenLabs MCP",
+    "issue_date": "2026-10-12",
+    "cluster_id": "elevenlabs_io_eba4f1ac",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4ff47d87d45d49a9",
+    "canonical_url": "https://elevenlabs.io/blog/what-is-the-model-context-protocol",
+    "dedupe_key": "5d0e79d7b1fd99f3",
+    "title": "What is the Model Context Protocol and why it matters",
+    "issue_date": "2026-10-12",
+    "cluster_id": "elevenlabs_io_db44831c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6533354155ce7af3",
+    "canonical_url": "https://elevenlabs.io/blog/music-v2-5-model",
+    "dedupe_key": "0a5984c6dff0d5ef",
+    "title": "Introducing Music v2.5, our best music model yet",
+    "issue_date": "2026-10-12",
+    "cluster_id": "elevenlabs_io_189b04fb",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ce1816e8b2064dab",
+    "canonical_url": "https://elevenlabs.io/blog/what-is-ai-orchestration",
+    "dedupe_key": "1e6e89c812143171",
+    "title": "What is AI orchestration? Coordinating AI models at scale",
+    "issue_date": "2026-10-12",
+    "cluster_id": "elevenlabs_io_17c2e5da",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_65c64eff63f39796",
+    "canonical_url": "https://elevenlabs.io/blog/what-is-ivr",
+    "dedupe_key": "850202178184a21a",
+    "title": "What is IVR? How it transforms customer interactions",
+    "issue_date": "2026-10-12",
+    "cluster_id": "elevenlabs_io_d7a0f85a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_62a3c8ea80def2b8",
+    "canonical_url": "https://elevenlabs.io/blog/sonic-branding",
+    "dedupe_key": "d54c543804ed87dc",
+    "title": "Sonic branding: Building your brand identity through sound",
+    "issue_date": "2026-10-12",
+    "cluster_id": "elevenlabs_io_0d3b0593",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4aaa55c08dab5240",
+    "canonical_url": "https://elevenlabs.io/blog/vimeo",
+    "dedupe_key": "7caf732230e2d0cb",
+    "title": "Vimeo scales automated video dubbing across 40 languages with ElevenLabs",
+    "issue_date": "2026-10-12",
+    "cluster_id": "elevenlabs_io_10f2f6a5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_203e0c16a0223da2",
+    "canonical_url": "https://stratechery.com/2026/apple-and-lg-the-house-for-everyone-else-agent-standards-and-amazon",
+    "dedupe_key": "956a14ea5b8b0a56",
+    "title": "Apple and LG, The House For Everyone Else, Agent Standards and Amazon",
+    "issue_date": "2026-10-12",
+    "cluster_id": "stratechery_com_b24a8fb4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_470b6b4317cfa8af",
+    "canonical_url": "https://arxiv.org/abs/2610.09772",
+    "dedupe_key": "349cc59576397cb1",
+    "title": "arXiv:2610.09772",
+    "issue_date": "2026-10-12",
+    "cluster_id": "arxiv_org_ff609e63",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2ab2f1b93c8b59ce",
+    "canonical_url": "https://stratechery.com/2026/apple-and-a-hackers-future",
+    "dedupe_key": "fe2f673ad1c981a7",
+    "title": "Apple and a Hacker&#8217;s Future",
+    "issue_date": "2026-10-12",
+    "cluster_id": "stratechery_com_ee82f1a9",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
