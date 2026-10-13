@@ -1,0 +1,2569 @@
+{
+  "metadata": {
+    "issue_date": "2026-10-13",
+    "generated_at": "2026-10-13T02:25:53.683Z",
+    "timezone": "Asia/Shanghai",
+    "source_mode": "live_fetch_only",
+    "strict_new_only": true,
+    "sources_scanned": 118,
+    "fetch_jobs": 224,
+    "candidates_count": 1144,
+    "selected_count": 14,
+    "duplicates_blocked": 1130,
+    "stale_candidates_blocked": 0,
+    "fetch_failures": 80,
+    "no_new_content": false,
+    "initial_source_index": false
+  },
+  "summary": {
+    "one_liner": "本期由每日自动流水线生成：仅展示当日 live fetch 抓取、且未在历史期展示过的新内容。",
+    "trends": [
+      "AI Agent",
+      "AI Coding",
+      "AI Infra",
+      "Research",
+      "Startup / Investment"
+    ],
+    "watch_next": [
+      "公开 RSS / Atom / HTML 新条目",
+      "GitHub releases 与技术博客",
+      "人工维护 X Article / Thread seed list",
+      "播客长访谈中的一手判断"
+    ]
+  },
+  "must_read": [],
+  "worth_reading": [
+    {
+      "id": "cand_0f5bdb681a5be8c5",
+      "canonical_url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase",
+      "source_url": "https://github.blog/feed",
+      "source_fetch_url": "https://github.blog/feed",
+      "source_platform": "web",
+      "source_domain": "github.blog",
+      "source_name": "GitHub Copilot",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
+      "subtitle": "",
+      "author": "GitHub Copilot",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "GitHub Copilot",
+      "language": "unknown",
+      "published_at": "Mon, 12 Oct 2026 17:43:59 +0000",
+      "captured_at": "2026-10-13T02:25:47.783Z",
+      "captured_issue": "2026-10-13",
+      "summary": "Learn how to add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright. The post GitHub Copilot app for Beginners: How to teach Copilot about your codebase appeared first on The GitHub Blog .",
+      "excerpt": "Learn how to add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright. The post GitHub Copilot app for Beginners: How to teach Copilot about your codebase appeared first on The GitHub Blog .",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "ai_coding",
+        "developer_tools"
+      ],
+      "entities": [
+        "GitHub Copilot"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [
+        "https://github.com/features/copilot"
+      ],
+      "evidence_links": [
+        "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase",
+        "https://github.blog/feed",
+        "https://github.com/features/copilot",
+        "https://github.blog",
+        "https://x.com/github"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 66,
+      "originality_score": 38,
+      "trend_score": 69,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 70,
+      "rank": 52,
+      "cluster_id": "github_blog_7f6baaaa",
+      "dedupe_key": "bdcc6d2e62166164",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：GitHub Copilot app for Beginners: How to teach Copilot about your codebase 来自 GitHub Copilot 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-13",
+      "last_seen_issue": "2026-10-13",
+      "used_in_issue": "2026-10-13"
+    }
+  ],
+  "signal_watch": [
+    {
+      "id": "cand_128b93eb914bd54c",
+      "canonical_url": "https://developer.nvidia.com/blog/replayssm-rethinking-state-storage-for-faster-hybrid-model-decoding",
+      "source_url": "https://developer.nvidia.com/blog",
+      "source_fetch_url": "https://developer.nvidia.com/blog",
+      "source_platform": "web",
+      "source_domain": "developer.nvidia.com",
+      "source_name": "NVIDIA AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "ReplaySSM: Rethinking State Storage for Faster Hybrid-Model Decoding",
+      "subtitle": "",
+      "author": "NVIDIA AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "NVIDIA AI",
+      "language": "unknown",
+      "published_at": "",
+      "captured_at": "2026-10-13T02:25:45.390Z",
+      "captured_issue": "2026-10-13",
+      "summary": "NVIDIA Technical Blog · ReplaySSM: Rethinking State Storage for Faster Hybrid-Model Decoding",
+      "excerpt": "NVIDIA Technical Blog · ReplaySSM: Rethinking State Storage for Faster Hybrid-Model Decoding",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "gpu",
+        "inference",
+        "ai_infra"
+      ],
+      "entities": [
+        "NVIDIA AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://developer.nvidia.com/blog/replayssm-rethinking-state-storage-for-faster-hybrid-model-decoding",
+        "https://developer.nvidia.com/blog",
+        "https://blogs.nvidia.com/blog/category/deep-learning",
+        "https://x.com/NVIDIAAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 38,
+      "trend_score": 69,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 69,
+      "rank": 81,
+      "cluster_id": "developer_nvidia_com_f27babe3",
+      "dedupe_key": "dc94e5751d08fcb7",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：ReplaySSM: Rethinking State Storage for Faster Hybrid-Model Decoding 来自 NVIDIA AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-13",
+      "last_seen_issue": "2026-10-13",
+      "used_in_issue": "2026-10-13"
+    },
+    {
+      "id": "cand_46f34ad453893b68",
+      "canonical_url": "https://vercel.com/changelog/muse-wonder-now-available-on-ai-gateway",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Muse Wonder now available on AI Gateway",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-10-12T00:00:00.000Z",
+      "captured_at": "2026-10-13T02:25:47.841Z",
+      "captured_issue": "2026-10-13",
+      "summary": "Muse Wonder from Meta is now available on AI Gateway. The model is designed for coding, long-running agents, and computer use. It can plan multi-step tasks, delegate work to sub-agents, and recover from errors as work progresses. Muse Wonder has a 1M-token context window and supports text, image, and PDF input, tool calling, and structured output. Agents can work with code, screenshots, and documents in the same workflow. You can access the model through AI Gateway with one A",
+      "excerpt": "Muse Wonder from Meta is now available on AI Gateway. The model is designed for coding, long-running agents, and computer use. It can plan multi-step tasks, delegate work to sub-agents, and recover from errors as work progresses. Muse Wonder has a 1M-token context window and supports text, image, and PDF input, tool calling, and structured output. Agents can work with code, screenshots, and documents in the same workflow. You can access the model through AI Gateway with one A",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/changelog/muse-wonder-now-available-on-ai-gateway",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 81,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 98,
+      "total_score": 69,
+      "rank": 83,
+      "cluster_id": "vercel_com_46e21e23",
+      "dedupe_key": "03b29c3891decdd8",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Muse Wonder now available on AI Gateway 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-13",
+      "last_seen_issue": "2026-10-13",
+      "used_in_issue": "2026-10-13"
+    },
+    {
+      "id": "cand_9574c58f8c52945c",
+      "canonical_url": "https://www.lennysnewsletter.com/p/how-meta-designed-muse-an-ai-agent",
+      "source_url": "https://www.lennysnewsletter.com/feed.xml",
+      "source_fetch_url": "https://www.lennysnewsletter.com/feed.xml",
+      "source_platform": "web",
+      "source_domain": "lennysnewsletter.com",
+      "source_name": "Lenny's Newsletter",
+      "source_file": "media.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "external_article",
+      "title": "How Meta designed Muse: an AI agent people actually want to talk to | Alex Cornell (Design Director)",
+      "subtitle": "",
+      "author": "Lenny's Newsletter",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Lenny's Newsletter",
+      "language": "unknown",
+      "published_at": "Mon, 12 Oct 2026 12:03:55 GMT",
+      "captured_at": "2026-10-13T02:25:52.447Z",
+      "captured_issue": "2026-10-13",
+      "summary": "Listen now | &#127897;&#65039;Alex Cornell explains how Muse serves your mom and an engineer with the same interface, and demos a SkyMall-style catalog, golf recaps, and a blog turned podcast",
+      "excerpt": "Listen now | &#127897;&#65039;Alex Cornell explains how Muse serves your mom and an engineer with the same interface, and demos a SkyMall-style catalog, golf recaps, and a blog turned podcast",
+      "raw_text_available": false,
+      "topics": [
+        "AI Agent",
+        "Product"
+      ],
+      "tags": [
+        "product",
+        "growth",
+        "startup"
+      ],
+      "entities": [
+        "Lenny's Newsletter"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://www.lennysnewsletter.com/p/how-meta-designed-muse-an-ai-agent",
+        "https://www.lennysnewsletter.com/feed.xml",
+        "https://www.lennysnewsletter.com"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 54,
+      "originality_score": 38,
+      "trend_score": 81,
+      "evidence_score": 75,
+      "heat_score": 40,
+      "site_fit_score": 98,
+      "total_score": 69,
+      "rank": 93,
+      "cluster_id": "lennysnewsletter_com_a8d86f2b",
+      "dedupe_key": "8dda452076a69501",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：How Meta designed Muse: an AI agent people actually want to talk to | Alex Cornell (Design Director) 来自 Lenny's Newsletter 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-13",
+      "last_seen_issue": "2026-10-13",
+      "used_in_issue": "2026-10-13"
+    },
+    {
+      "id": "cand_de25811f4247b8c9",
+      "canonical_url": "https://elevenlabs.io/blog/how-we-solve-22000-support-tickets-every-month-with-elevenagents",
+      "source_url": "https://elevenlabs.io/blog/rss.xml",
+      "source_fetch_url": "https://elevenlabs.io/blog/rss.xml",
+      "source_platform": "web",
+      "source_domain": "elevenlabs.io",
+      "source_name": "ElevenLabs",
+      "source_file": "ai_apps_infra_vc_extra.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "How we solve 22,000 support tickets every month with ElevenAgents",
+      "subtitle": "",
+      "author": "ElevenLabs",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "ElevenLabs",
+      "language": "unknown",
+      "published_at": "Tue, 13 Oct 2026 12:00:00 GMT",
+      "captured_at": "2026-10-13T02:25:41.127Z",
+      "captured_issue": "2026-10-13",
+      "summary": "We utilize ElevenAgents procedures, simulation tests, tools, and more to enable the agent to look-up account information, take actions, and escalate",
+      "excerpt": "We utilize ElevenAgents procedures, simulation tests, tools, and more to enable the agent to look-up account information, take actions, and escalate",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "voice_ai",
+        "audio"
+      ],
+      "entities": [
+        "ElevenLabs"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://elevenlabs.io/blog/how-we-solve-22000-support-tickets-every-month-with-elevenagents",
+        "https://elevenlabs.io/blog/rss.xml",
+        "https://elevenlabs.io",
+        "https://elevenlabs.io/blog",
+        "https://x.com/elevenlabsio"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 74,
+      "total_score": 62,
+      "rank": 728,
+      "cluster_id": "elevenlabs_io_731106fd",
+      "dedupe_key": "12f00021f12700e5",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：How we solve 22,000 support tickets every month with ElevenAgents 来自 ElevenLabs 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-13",
+      "last_seen_issue": "2026-10-13",
+      "used_in_issue": "2026-10-13"
+    },
+    {
+      "id": "cand_e0f5aa626dfc6b57",
+      "canonical_url": "https://elevenlabs.io/blog/elevenagents-now-on-the-openai-marketplace",
+      "source_url": "https://elevenlabs.io/blog/rss.xml",
+      "source_fetch_url": "https://elevenlabs.io/blog/rss.xml",
+      "source_platform": "web",
+      "source_domain": "elevenlabs.io",
+      "source_name": "ElevenLabs",
+      "source_file": "ai_apps_infra_vc_extra.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "ElevenAgents, now on the OpenAI Marketplace",
+      "subtitle": "",
+      "author": "ElevenLabs",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "ElevenLabs",
+      "language": "unknown",
+      "published_at": "Tue, 29 Sep 2026 12:00:00 GMT",
+      "captured_at": "2026-10-13T02:25:41.129Z",
+      "captured_issue": "2026-10-13",
+      "summary": "ElevenAgents Joins the OpenAI Marketplace as Launch Partner",
+      "excerpt": "ElevenAgents Joins the OpenAI Marketplace as Launch Partner",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "voice_ai",
+        "audio"
+      ],
+      "entities": [
+        "ElevenLabs"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://elevenlabs.io/blog/elevenagents-now-on-the-openai-marketplace",
+        "https://elevenlabs.io/blog/rss.xml",
+        "https://elevenlabs.io",
+        "https://elevenlabs.io/blog",
+        "https://x.com/elevenlabsio"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 74,
+      "total_score": 62,
+      "rank": 732,
+      "cluster_id": "elevenlabs_io_648fbf7a",
+      "dedupe_key": "660fcc8c5ac5b494",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：ElevenAgents, now on the OpenAI Marketplace 来自 ElevenLabs 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-13",
+      "last_seen_issue": "2026-10-13",
+      "used_in_issue": "2026-10-13"
+    },
+    {
+      "id": "cand_3c4cf7f090ffe1f4",
+      "canonical_url": "https://x.ai/news/x-subscription",
+      "source_url": "https://x.ai",
+      "source_fetch_url": "https://x.ai",
+      "source_platform": "web",
+      "source_domain": "x.ai",
+      "source_name": "xAI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Product · Oct 12, 2026 Introducing The X Subscription",
+      "subtitle": "",
+      "author": "xAI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "xAI",
+      "language": "unknown",
+      "published_at": "",
+      "captured_at": "2026-10-13T02:25:42.760Z",
+      "captured_issue": "2026-10-13",
+      "summary": "SpaceXSI · Product · Oct 12, 2026 Introducing The X Subscription",
+      "excerpt": "SpaceXSI · Product · Oct 12, 2026 Introducing The X Subscription",
+      "raw_text_available": false,
+      "topics": [
+        "Product"
+      ],
+      "tags": [
+        "ai_models",
+        "reasoning"
+      ],
+      "entities": [
+        "xAI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://x.ai/news/x-subscription",
+        "https://x.ai",
+        "https://x.com/xai"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 84,
+      "heat_score": 40,
+      "site_fit_score": 74,
+      "total_score": 62,
+      "rank": 748,
+      "cluster_id": "x_ai_d4c3e1d3",
+      "dedupe_key": "b7a629f939239612",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Product · Oct 12, 2026 Introducing The X Subscription 来自 xAI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-13",
+      "last_seen_issue": "2026-10-13",
+      "used_in_issue": "2026-10-13"
+    },
+    {
+      "id": "cand_10ec5ab4c63bb516",
+      "canonical_url": "https://www.lennysnewsletter.com/p/how-i-ai-how-meta-designed-muse-with",
+      "source_url": "https://www.lennysnewsletter.com/feed.xml",
+      "source_fetch_url": "https://www.lennysnewsletter.com/feed.xml",
+      "source_platform": "web",
+      "source_domain": "lennysnewsletter.com",
+      "source_name": "Lenny's Newsletter",
+      "source_file": "media.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "external_article",
+      "title": "🎙️ How I AI: How Meta designed Muse with Alex Cornell",
+      "subtitle": "",
+      "author": "Lenny's Newsletter",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Lenny's Newsletter",
+      "language": "unknown",
+      "published_at": "Mon, 12 Oct 2026 15:00:38 GMT",
+      "captured_at": "2026-10-13T02:25:52.447Z",
+      "captured_issue": "2026-10-13",
+      "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+      "excerpt": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+      "raw_text_available": false,
+      "topics": [
+        "Product"
+      ],
+      "tags": [
+        "product",
+        "growth",
+        "startup"
+      ],
+      "entities": [
+        "Lenny's Newsletter"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://www.lennysnewsletter.com/p/how-i-ai-how-meta-designed-muse-with",
+        "https://www.lennysnewsletter.com/feed.xml",
+        "https://www.lennysnewsletter.com"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 75,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 62,
+      "rank": 981,
+      "cluster_id": "lennysnewsletter_com_bbc498d4",
+      "dedupe_key": "7084754ca83d5a79",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：🎙️ How I AI: How Meta designed Muse with Alex Cornell 来自 Lenny's Newsletter 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-13",
+      "last_seen_issue": "2026-10-13",
+      "used_in_issue": "2026-10-13"
+    },
+    {
+      "id": "cand_04cb732911c8782f",
+      "canonical_url": "https://arxiv.org/list/cs.AI/recent?skip=161&amp%3Bshow=50",
+      "source_url": "https://arxiv.org/list/cs.AI/recent",
+      "source_fetch_url": "https://arxiv.org/list/cs.AI/recent",
+      "source_platform": "web",
+      "source_domain": "arxiv.org",
+      "source_name": "arXiv CS AI",
+      "source_file": "research.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "paper",
+      "title": "Fri, 9 Oct 2026",
+      "subtitle": "",
+      "author": "arXiv CS AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "arXiv CS AI",
+      "language": "unknown",
+      "published_at": "",
+      "captured_at": "2026-10-13T02:25:52.606Z",
+      "captured_issue": "2026-10-13",
+      "summary": "Artificial Intelligence · Fri, 9 Oct 2026",
+      "excerpt": "Artificial Intelligence · Fri, 9 Oct 2026",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "paper",
+        "ai",
+        "arxiv"
+      ],
+      "entities": [
+        "arXiv CS AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://arxiv.org/list/cs.AI/recent?skip=161&amp%3Bshow=50",
+        "https://arxiv.org/list/cs.AI/recent"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 54,
+      "originality_score": 38,
+      "trend_score": 45,
+      "evidence_score": 75,
+      "heat_score": 40,
+      "site_fit_score": 62,
+      "total_score": 60,
+      "rank": 1083,
+      "cluster_id": "arxiv_org_7d7ed647",
+      "dedupe_key": "a763712ac734e8ee",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Fri, 9 Oct 2026 来自 arXiv CS AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-13",
+      "last_seen_issue": "2026-10-13",
+      "used_in_issue": "2026-10-13"
+    },
+    {
+      "id": "cand_d66893b87b9f6e22",
+      "canonical_url": "https://elevenlabs.io/blog/javascript-speech-recognition-tutorial",
+      "source_url": "https://elevenlabs.io/blog/rss.xml",
+      "source_fetch_url": "https://elevenlabs.io/blog/rss.xml",
+      "source_platform": "web",
+      "source_domain": "elevenlabs.io",
+      "source_name": "ElevenLabs",
+      "source_file": "ai_apps_infra_vc_extra.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "JavaScript speech recognition tutorial: Build voice UX",
+      "subtitle": "",
+      "author": "ElevenLabs",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "ElevenLabs",
+      "language": "unknown",
+      "published_at": "Mon, 12 Oct 2026 12:00:00 GMT",
+      "captured_at": "2026-10-13T02:25:41.127Z",
+      "captured_issue": "2026-10-13",
+      "summary": "Build live transcription and voice commands with this JavaScript speech recognition tutorial. Learn the Web Speech API and when to switch to ElevenAPI.",
+      "excerpt": "Build live transcription and voice commands with this JavaScript speech recognition tutorial. Learn the Web Speech API and when to switch to ElevenAPI.",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "voice_ai",
+        "audio"
+      ],
+      "entities": [
+        "ElevenLabs"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://elevenlabs.io/blog/javascript-speech-recognition-tutorial",
+        "https://elevenlabs.io/blog/rss.xml",
+        "https://elevenlabs.io",
+        "https://elevenlabs.io/blog",
+        "https://x.com/elevenlabsio"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 45,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 62,
+      "total_score": 59,
+      "rank": 1087,
+      "cluster_id": "elevenlabs_io_cbbe1c20",
+      "dedupe_key": "c85143306de5cec3",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：JavaScript speech recognition tutorial: Build voice UX 来自 ElevenLabs 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-13",
+      "last_seen_issue": "2026-10-13",
+      "used_in_issue": "2026-10-13"
+    },
+    {
+      "id": "cand_dc746aa479a223bd",
+      "canonical_url": "https://stratechery.com/2026/personal-day-4",
+      "source_url": "https://stratechery.com/feed",
+      "source_fetch_url": "https://stratechery.com/feed",
+      "source_platform": "web",
+      "source_domain": "stratechery.com",
+      "source_name": "Stratechery",
+      "source_file": "media.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "external_article",
+      "title": "Personal Day",
+      "subtitle": "",
+      "author": "Stratechery",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Stratechery",
+      "language": "unknown",
+      "published_at": "Mon, 12 Oct 2026 10:00:00 +0000",
+      "captured_at": "2026-10-13T02:25:51.581Z",
+      "captured_issue": "2026-10-13",
+      "summary": "Personal Day — No Update",
+      "excerpt": "Personal Day — No Update",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "strategy",
+        "tech",
+        "business"
+      ],
+      "entities": [
+        "Stratechery"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://stratechery.com/2026/personal-day-4",
+        "https://stratechery.com/feed",
+        "https://stratechery.com"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 45,
+      "evidence_score": 75,
+      "heat_score": 40,
+      "site_fit_score": 50,
+      "total_score": 56,
+      "rank": 1141,
+      "cluster_id": "stratechery_com_54e25842",
+      "dedupe_key": "86e54270126c7394",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Personal Day 来自 Stratechery 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-13",
+      "last_seen_issue": "2026-10-13",
+      "used_in_issue": "2026-10-13"
+    },
+    {
+      "id": "cand_c02f4c25bc244881",
+      "canonical_url": "https://stratechery.com/2026/its-not-you-its-me",
+      "source_url": "https://stratechery.com/feed",
+      "source_fetch_url": "https://stratechery.com/feed",
+      "source_platform": "web",
+      "source_domain": "stratechery.com",
+      "source_name": "Stratechery",
+      "source_file": "media.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "external_article",
+      "title": "2026.41: It&#8217;s Not You, It&#8217;s Me",
+      "subtitle": "",
+      "author": "Stratechery",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Stratechery",
+      "language": "unknown",
+      "published_at": "Fri, 09 Oct 2026 17:00:00 +0000",
+      "captured_at": "2026-10-13T02:25:51.581Z",
+      "captured_issue": "2026-10-13",
+      "summary": "The best Stratechery content from the week of October 5, 2026, including drifting apart from Apple, Facebook complications, and the delightful absurdity of U.S.-China dynamics.",
+      "excerpt": "The best Stratechery content from the week of October 5, 2026, including drifting apart from Apple, Facebook complications, and the delightful absurdity of U.S.-China dynamics.",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "strategy",
+        "tech",
+        "business"
+      ],
+      "entities": [
+        "Stratechery"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://stratechery.com/2026/its-not-you-its-me",
+        "https://stratechery.com/feed",
+        "https://stratechery.com"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 45,
+      "evidence_score": 75,
+      "heat_score": 40,
+      "site_fit_score": 50,
+      "total_score": 56,
+      "rank": 1142,
+      "cluster_id": "stratechery_com_a67a499a",
+      "dedupe_key": "35bd1c3982ec4c7b",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：2026.41: It&#8217;s Not You, It&#8217;s Me 来自 Stratechery 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-13",
+      "last_seen_issue": "2026-10-13",
+      "used_in_issue": "2026-10-13"
+    },
+    {
+      "id": "cand_0a242591f754c41a",
+      "canonical_url": "https://stratechery.com/2026/an-interview-with-katie-harbath-about-disrupting-politics-at-facebook",
+      "source_url": "https://stratechery.com/feed",
+      "source_fetch_url": "https://stratechery.com/feed",
+      "source_platform": "web",
+      "source_domain": "stratechery.com",
+      "source_name": "Stratechery",
+      "source_file": "media.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "external_article",
+      "title": "An Interview with Katie Harbath About Disrupting Politics at Facebook",
+      "subtitle": "",
+      "author": "Stratechery",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Stratechery",
+      "language": "unknown",
+      "published_at": "Thu, 08 Oct 2026 10:00:00 +0000",
+      "captured_at": "2026-10-13T02:25:51.581Z",
+      "captured_issue": "2026-10-13",
+      "summary": "An interview with former Facebook Head of Global Elections Katie Harbath about her new book Disrupting Politics, and how things change for the company in the 2010s.",
+      "excerpt": "An interview with former Facebook Head of Global Elections Katie Harbath about her new book Disrupting Politics, and how things change for the company in the 2010s.",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "strategy",
+        "tech",
+        "business"
+      ],
+      "entities": [
+        "Stratechery"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://stratechery.com/2026/an-interview-with-katie-harbath-about-disrupting-politics-at-facebook",
+        "https://stratechery.com/feed",
+        "https://stratechery.com"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 45,
+      "evidence_score": 75,
+      "heat_score": 40,
+      "site_fit_score": 50,
+      "total_score": 56,
+      "rank": 1143,
+      "cluster_id": "stratechery_com_0d798803",
+      "dedupe_key": "ee1740b72214c42a",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：An Interview with Katie Harbath About Disrupting Politics at Facebook 来自 Stratechery 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-13",
+      "last_seen_issue": "2026-10-13",
+      "used_in_issue": "2026-10-13"
+    },
+    {
+      "id": "cand_018cd731408ae341",
+      "canonical_url": "https://stratechery.com/2026/game-decompilation-is-this-legal-a-well-trodden-path",
+      "source_url": "https://stratechery.com/feed",
+      "source_fetch_url": "https://stratechery.com/feed",
+      "source_platform": "web",
+      "source_domain": "stratechery.com",
+      "source_name": "Stratechery",
+      "source_file": "media.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "external_article",
+      "title": "Game Decompilation, Is This Legal?, A Well-Trodden Path",
+      "subtitle": "",
+      "author": "Stratechery",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Stratechery",
+      "language": "unknown",
+      "published_at": "Tue, 06 Oct 2026 10:07:36 +0000",
+      "captured_at": "2026-10-13T02:25:51.581Z",
+      "captured_issue": "2026-10-13",
+      "summary": "Games are being decompiled, but the real risk to gaming is new games and increased personalization.",
+      "excerpt": "Games are being decompiled, but the real risk to gaming is new games and increased personalization.",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "strategy",
+        "tech",
+        "business"
+      ],
+      "entities": [
+        "Stratechery"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://stratechery.com/2026/game-decompilation-is-this-legal-a-well-trodden-path",
+        "https://stratechery.com/feed",
+        "https://stratechery.com"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 45,
+      "evidence_score": 75,
+      "heat_score": 40,
+      "site_fit_score": 50,
+      "total_score": 56,
+      "rank": 1144,
+      "cluster_id": "stratechery_com_f0c9cb01",
+      "dedupe_key": "9845ce72fba9f2f8",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Game Decompilation, Is This Legal?, A Well-Trodden Path 来自 Stratechery 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-13",
+      "last_seen_issue": "2026-10-13",
+      "used_in_issue": "2026-10-13"
+    }
+  ],
+  "hot_rank": [
+    {
+      "id": "cand_0f5bdb681a5be8c5",
+      "canonical_url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase",
+      "source_url": "https://github.blog/feed",
+      "source_fetch_url": "https://github.blog/feed",
+      "source_platform": "web",
+      "source_domain": "github.blog",
+      "source_name": "GitHub Copilot",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
+      "subtitle": "",
+      "author": "GitHub Copilot",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "GitHub Copilot",
+      "language": "unknown",
+      "published_at": "Mon, 12 Oct 2026 17:43:59 +0000",
+      "captured_at": "2026-10-13T02:25:47.783Z",
+      "captured_issue": "2026-10-13",
+      "summary": "Learn how to add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright. The post GitHub Copilot app for Beginners: How to teach Copilot about your codebase appeared first on The GitHub Blog .",
+      "excerpt": "Learn how to add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright. The post GitHub Copilot app for Beginners: How to teach Copilot about your codebase appeared first on The GitHub Blog .",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "ai_coding",
+        "developer_tools"
+      ],
+      "entities": [
+        "GitHub Copilot"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [
+        "https://github.com/features/copilot"
+      ],
+      "evidence_links": [
+        "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase",
+        "https://github.blog/feed",
+        "https://github.com/features/copilot",
+        "https://github.blog",
+        "https://x.com/github"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 66,
+      "originality_score": 38,
+      "trend_score": 69,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 70,
+      "rank": 52,
+      "cluster_id": "github_blog_7f6baaaa",
+      "dedupe_key": "bdcc6d2e62166164",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：GitHub Copilot app for Beginners: How to teach Copilot about your codebase 来自 GitHub Copilot 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-13",
+      "last_seen_issue": "2026-10-13",
+      "used_in_issue": "2026-10-13"
+    },
+    {
+      "id": "cand_128b93eb914bd54c",
+      "canonical_url": "https://developer.nvidia.com/blog/replayssm-rethinking-state-storage-for-faster-hybrid-model-decoding",
+      "source_url": "https://developer.nvidia.com/blog",
+      "source_fetch_url": "https://developer.nvidia.com/blog",
+      "source_platform": "web",
+      "source_domain": "developer.nvidia.com",
+      "source_name": "NVIDIA AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "ReplaySSM: Rethinking State Storage for Faster Hybrid-Model Decoding",
+      "subtitle": "",
+      "author": "NVIDIA AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "NVIDIA AI",
+      "language": "unknown",
+      "published_at": "",
+      "captured_at": "2026-10-13T02:25:45.390Z",
+      "captured_issue": "2026-10-13",
+      "summary": "NVIDIA Technical Blog · ReplaySSM: Rethinking State Storage for Faster Hybrid-Model Decoding",
+      "excerpt": "NVIDIA Technical Blog · ReplaySSM: Rethinking State Storage for Faster Hybrid-Model Decoding",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "gpu",
+        "inference",
+        "ai_infra"
+      ],
+      "entities": [
+        "NVIDIA AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://developer.nvidia.com/blog/replayssm-rethinking-state-storage-for-faster-hybrid-model-decoding",
+        "https://developer.nvidia.com/blog",
+        "https://blogs.nvidia.com/blog/category/deep-learning",
+        "https://x.com/NVIDIAAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 38,
+      "trend_score": 69,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 69,
+      "rank": 81,
+      "cluster_id": "developer_nvidia_com_f27babe3",
+      "dedupe_key": "dc94e5751d08fcb7",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：ReplaySSM: Rethinking State Storage for Faster Hybrid-Model Decoding 来自 NVIDIA AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-13",
+      "last_seen_issue": "2026-10-13",
+      "used_in_issue": "2026-10-13"
+    },
+    {
+      "id": "cand_46f34ad453893b68",
+      "canonical_url": "https://vercel.com/changelog/muse-wonder-now-available-on-ai-gateway",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Muse Wonder now available on AI Gateway",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-10-12T00:00:00.000Z",
+      "captured_at": "2026-10-13T02:25:47.841Z",
+      "captured_issue": "2026-10-13",
+      "summary": "Muse Wonder from Meta is now available on AI Gateway. The model is designed for coding, long-running agents, and computer use. It can plan multi-step tasks, delegate work to sub-agents, and recover from errors as work progresses. Muse Wonder has a 1M-token context window and supports text, image, and PDF input, tool calling, and structured output. Agents can work with code, screenshots, and documents in the same workflow. You can access the model through AI Gateway with one A",
+      "excerpt": "Muse Wonder from Meta is now available on AI Gateway. The model is designed for coding, long-running agents, and computer use. It can plan multi-step tasks, delegate work to sub-agents, and recover from errors as work progresses. Muse Wonder has a 1M-token context window and supports text, image, and PDF input, tool calling, and structured output. Agents can work with code, screenshots, and documents in the same workflow. You can access the model through AI Gateway with one A",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/changelog/muse-wonder-now-available-on-ai-gateway",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 81,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 98,
+      "total_score": 69,
+      "rank": 83,
+      "cluster_id": "vercel_com_46e21e23",
+      "dedupe_key": "03b29c3891decdd8",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Muse Wonder now available on AI Gateway 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-13",
+      "last_seen_issue": "2026-10-13",
+      "used_in_issue": "2026-10-13"
+    },
+    {
+      "id": "cand_9574c58f8c52945c",
+      "canonical_url": "https://www.lennysnewsletter.com/p/how-meta-designed-muse-an-ai-agent",
+      "source_url": "https://www.lennysnewsletter.com/feed.xml",
+      "source_fetch_url": "https://www.lennysnewsletter.com/feed.xml",
+      "source_platform": "web",
+      "source_domain": "lennysnewsletter.com",
+      "source_name": "Lenny's Newsletter",
+      "source_file": "media.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "external_article",
+      "title": "How Meta designed Muse: an AI agent people actually want to talk to | Alex Cornell (Design Director)",
+      "subtitle": "",
+      "author": "Lenny's Newsletter",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Lenny's Newsletter",
+      "language": "unknown",
+      "published_at": "Mon, 12 Oct 2026 12:03:55 GMT",
+      "captured_at": "2026-10-13T02:25:52.447Z",
+      "captured_issue": "2026-10-13",
+      "summary": "Listen now | &#127897;&#65039;Alex Cornell explains how Muse serves your mom and an engineer with the same interface, and demos a SkyMall-style catalog, golf recaps, and a blog turned podcast",
+      "excerpt": "Listen now | &#127897;&#65039;Alex Cornell explains how Muse serves your mom and an engineer with the same interface, and demos a SkyMall-style catalog, golf recaps, and a blog turned podcast",
+      "raw_text_available": false,
+      "topics": [
+        "AI Agent",
+        "Product"
+      ],
+      "tags": [
+        "product",
+        "growth",
+        "startup"
+      ],
+      "entities": [
+        "Lenny's Newsletter"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://www.lennysnewsletter.com/p/how-meta-designed-muse-an-ai-agent",
+        "https://www.lennysnewsletter.com/feed.xml",
+        "https://www.lennysnewsletter.com"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 54,
+      "originality_score": 38,
+      "trend_score": 81,
+      "evidence_score": 75,
+      "heat_score": 40,
+      "site_fit_score": 98,
+      "total_score": 69,
+      "rank": 93,
+      "cluster_id": "lennysnewsletter_com_a8d86f2b",
+      "dedupe_key": "8dda452076a69501",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：How Meta designed Muse: an AI agent people actually want to talk to | Alex Cornell (Design Director) 来自 Lenny's Newsletter 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-13",
+      "last_seen_issue": "2026-10-13",
+      "used_in_issue": "2026-10-13"
+    },
+    {
+      "id": "cand_de25811f4247b8c9",
+      "canonical_url": "https://elevenlabs.io/blog/how-we-solve-22000-support-tickets-every-month-with-elevenagents",
+      "source_url": "https://elevenlabs.io/blog/rss.xml",
+      "source_fetch_url": "https://elevenlabs.io/blog/rss.xml",
+      "source_platform": "web",
+      "source_domain": "elevenlabs.io",
+      "source_name": "ElevenLabs",
+      "source_file": "ai_apps_infra_vc_extra.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "How we solve 22,000 support tickets every month with ElevenAgents",
+      "subtitle": "",
+      "author": "ElevenLabs",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "ElevenLabs",
+      "language": "unknown",
+      "published_at": "Tue, 13 Oct 2026 12:00:00 GMT",
+      "captured_at": "2026-10-13T02:25:41.127Z",
+      "captured_issue": "2026-10-13",
+      "summary": "We utilize ElevenAgents procedures, simulation tests, tools, and more to enable the agent to look-up account information, take actions, and escalate",
+      "excerpt": "We utilize ElevenAgents procedures, simulation tests, tools, and more to enable the agent to look-up account information, take actions, and escalate",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "voice_ai",
+        "audio"
+      ],
+      "entities": [
+        "ElevenLabs"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://elevenlabs.io/blog/how-we-solve-22000-support-tickets-every-month-with-elevenagents",
+        "https://elevenlabs.io/blog/rss.xml",
+        "https://elevenlabs.io",
+        "https://elevenlabs.io/blog",
+        "https://x.com/elevenlabsio"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 74,
+      "total_score": 62,
+      "rank": 728,
+      "cluster_id": "elevenlabs_io_731106fd",
+      "dedupe_key": "12f00021f12700e5",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：How we solve 22,000 support tickets every month with ElevenAgents 来自 ElevenLabs 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-13",
+      "last_seen_issue": "2026-10-13",
+      "used_in_issue": "2026-10-13"
+    },
+    {
+      "id": "cand_e0f5aa626dfc6b57",
+      "canonical_url": "https://elevenlabs.io/blog/elevenagents-now-on-the-openai-marketplace",
+      "source_url": "https://elevenlabs.io/blog/rss.xml",
+      "source_fetch_url": "https://elevenlabs.io/blog/rss.xml",
+      "source_platform": "web",
+      "source_domain": "elevenlabs.io",
+      "source_name": "ElevenLabs",
+      "source_file": "ai_apps_infra_vc_extra.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "ElevenAgents, now on the OpenAI Marketplace",
+      "subtitle": "",
+      "author": "ElevenLabs",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "ElevenLabs",
+      "language": "unknown",
+      "published_at": "Tue, 29 Sep 2026 12:00:00 GMT",
+      "captured_at": "2026-10-13T02:25:41.129Z",
+      "captured_issue": "2026-10-13",
+      "summary": "ElevenAgents Joins the OpenAI Marketplace as Launch Partner",
+      "excerpt": "ElevenAgents Joins the OpenAI Marketplace as Launch Partner",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "voice_ai",
+        "audio"
+      ],
+      "entities": [
+        "ElevenLabs"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://elevenlabs.io/blog/elevenagents-now-on-the-openai-marketplace",
+        "https://elevenlabs.io/blog/rss.xml",
+        "https://elevenlabs.io",
+        "https://elevenlabs.io/blog",
+        "https://x.com/elevenlabsio"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 74,
+      "total_score": 62,
+      "rank": 732,
+      "cluster_id": "elevenlabs_io_648fbf7a",
+      "dedupe_key": "660fcc8c5ac5b494",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：ElevenAgents, now on the OpenAI Marketplace 来自 ElevenLabs 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-13",
+      "last_seen_issue": "2026-10-13",
+      "used_in_issue": "2026-10-13"
+    },
+    {
+      "id": "cand_3c4cf7f090ffe1f4",
+      "canonical_url": "https://x.ai/news/x-subscription",
+      "source_url": "https://x.ai",
+      "source_fetch_url": "https://x.ai",
+      "source_platform": "web",
+      "source_domain": "x.ai",
+      "source_name": "xAI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Product · Oct 12, 2026 Introducing The X Subscription",
+      "subtitle": "",
+      "author": "xAI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "xAI",
+      "language": "unknown",
+      "published_at": "",
+      "captured_at": "2026-10-13T02:25:42.760Z",
+      "captured_issue": "2026-10-13",
+      "summary": "SpaceXSI · Product · Oct 12, 2026 Introducing The X Subscription",
+      "excerpt": "SpaceXSI · Product · Oct 12, 2026 Introducing The X Subscription",
+      "raw_text_available": false,
+      "topics": [
+        "Product"
+      ],
+      "tags": [
+        "ai_models",
+        "reasoning"
+      ],
+      "entities": [
+        "xAI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://x.ai/news/x-subscription",
+        "https://x.ai",
+        "https://x.com/xai"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 84,
+      "heat_score": 40,
+      "site_fit_score": 74,
+      "total_score": 62,
+      "rank": 748,
+      "cluster_id": "x_ai_d4c3e1d3",
+      "dedupe_key": "b7a629f939239612",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Product · Oct 12, 2026 Introducing The X Subscription 来自 xAI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-13",
+      "last_seen_issue": "2026-10-13",
+      "used_in_issue": "2026-10-13"
+    },
+    {
+      "id": "cand_10ec5ab4c63bb516",
+      "canonical_url": "https://www.lennysnewsletter.com/p/how-i-ai-how-meta-designed-muse-with",
+      "source_url": "https://www.lennysnewsletter.com/feed.xml",
+      "source_fetch_url": "https://www.lennysnewsletter.com/feed.xml",
+      "source_platform": "web",
+      "source_domain": "lennysnewsletter.com",
+      "source_name": "Lenny's Newsletter",
+      "source_file": "media.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "external_article",
+      "title": "🎙️ How I AI: How Meta designed Muse with Alex Cornell",
+      "subtitle": "",
+      "author": "Lenny's Newsletter",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Lenny's Newsletter",
+      "language": "unknown",
+      "published_at": "Mon, 12 Oct 2026 15:00:38 GMT",
+      "captured_at": "2026-10-13T02:25:52.447Z",
+      "captured_issue": "2026-10-13",
+      "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+      "excerpt": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+      "raw_text_available": false,
+      "topics": [
+        "Product"
+      ],
+      "tags": [
+        "product",
+        "growth",
+        "startup"
+      ],
+      "entities": [
+        "Lenny's Newsletter"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://www.lennysnewsletter.com/p/how-i-ai-how-meta-designed-muse-with",
+        "https://www.lennysnewsletter.com/feed.xml",
+        "https://www.lennysnewsletter.com"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 75,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 62,
+      "rank": 981,
+      "cluster_id": "lennysnewsletter_com_bbc498d4",
+      "dedupe_key": "7084754ca83d5a79",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：🎙️ How I AI: How Meta designed Muse with Alex Cornell 来自 Lenny's Newsletter 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-13",
+      "last_seen_issue": "2026-10-13",
+      "used_in_issue": "2026-10-13"
+    },
+    {
+      "id": "cand_04cb732911c8782f",
+      "canonical_url": "https://arxiv.org/list/cs.AI/recent?skip=161&amp%3Bshow=50",
+      "source_url": "https://arxiv.org/list/cs.AI/recent",
+      "source_fetch_url": "https://arxiv.org/list/cs.AI/recent",
+      "source_platform": "web",
+      "source_domain": "arxiv.org",
+      "source_name": "arXiv CS AI",
+      "source_file": "research.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "paper",
+      "title": "Fri, 9 Oct 2026",
+      "subtitle": "",
+      "author": "arXiv CS AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "arXiv CS AI",
+      "language": "unknown",
+      "published_at": "",
+      "captured_at": "2026-10-13T02:25:52.606Z",
+      "captured_issue": "2026-10-13",
+      "summary": "Artificial Intelligence · Fri, 9 Oct 2026",
+      "excerpt": "Artificial Intelligence · Fri, 9 Oct 2026",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "paper",
+        "ai",
+        "arxiv"
+      ],
+      "entities": [
+        "arXiv CS AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://arxiv.org/list/cs.AI/recent?skip=161&amp%3Bshow=50",
+        "https://arxiv.org/list/cs.AI/recent"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 54,
+      "originality_score": 38,
+      "trend_score": 45,
+      "evidence_score": 75,
+      "heat_score": 40,
+      "site_fit_score": 62,
+      "total_score": 60,
+      "rank": 1083,
+      "cluster_id": "arxiv_org_7d7ed647",
+      "dedupe_key": "a763712ac734e8ee",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Fri, 9 Oct 2026 来自 arXiv CS AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-13",
+      "last_seen_issue": "2026-10-13",
+      "used_in_issue": "2026-10-13"
+    },
+    {
+      "id": "cand_d66893b87b9f6e22",
+      "canonical_url": "https://elevenlabs.io/blog/javascript-speech-recognition-tutorial",
+      "source_url": "https://elevenlabs.io/blog/rss.xml",
+      "source_fetch_url": "https://elevenlabs.io/blog/rss.xml",
+      "source_platform": "web",
+      "source_domain": "elevenlabs.io",
+      "source_name": "ElevenLabs",
+      "source_file": "ai_apps_infra_vc_extra.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "JavaScript speech recognition tutorial: Build voice UX",
+      "subtitle": "",
+      "author": "ElevenLabs",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "ElevenLabs",
+      "language": "unknown",
+      "published_at": "Mon, 12 Oct 2026 12:00:00 GMT",
+      "captured_at": "2026-10-13T02:25:41.127Z",
+      "captured_issue": "2026-10-13",
+      "summary": "Build live transcription and voice commands with this JavaScript speech recognition tutorial. Learn the Web Speech API and when to switch to ElevenAPI.",
+      "excerpt": "Build live transcription and voice commands with this JavaScript speech recognition tutorial. Learn the Web Speech API and when to switch to ElevenAPI.",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "voice_ai",
+        "audio"
+      ],
+      "entities": [
+        "ElevenLabs"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://elevenlabs.io/blog/javascript-speech-recognition-tutorial",
+        "https://elevenlabs.io/blog/rss.xml",
+        "https://elevenlabs.io",
+        "https://elevenlabs.io/blog",
+        "https://x.com/elevenlabsio"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 45,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 62,
+      "total_score": 59,
+      "rank": 1087,
+      "cluster_id": "elevenlabs_io_cbbe1c20",
+      "dedupe_key": "c85143306de5cec3",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：JavaScript speech recognition tutorial: Build voice UX 来自 ElevenLabs 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-13",
+      "last_seen_issue": "2026-10-13",
+      "used_in_issue": "2026-10-13"
+    },
+    {
+      "id": "cand_dc746aa479a223bd",
+      "canonical_url": "https://stratechery.com/2026/personal-day-4",
+      "source_url": "https://stratechery.com/feed",
+      "source_fetch_url": "https://stratechery.com/feed",
+      "source_platform": "web",
+      "source_domain": "stratechery.com",
+      "source_name": "Stratechery",
+      "source_file": "media.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "external_article",
+      "title": "Personal Day",
+      "subtitle": "",
+      "author": "Stratechery",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Stratechery",
+      "language": "unknown",
+      "published_at": "Mon, 12 Oct 2026 10:00:00 +0000",
+      "captured_at": "2026-10-13T02:25:51.581Z",
+      "captured_issue": "2026-10-13",
+      "summary": "Personal Day — No Update",
+      "excerpt": "Personal Day — No Update",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "strategy",
+        "tech",
+        "business"
+      ],
+      "entities": [
+        "Stratechery"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://stratechery.com/2026/personal-day-4",
+        "https://stratechery.com/feed",
+        "https://stratechery.com"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 45,
+      "evidence_score": 75,
+      "heat_score": 40,
+      "site_fit_score": 50,
+      "total_score": 56,
+      "rank": 1141,
+      "cluster_id": "stratechery_com_54e25842",
+      "dedupe_key": "86e54270126c7394",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Personal Day 来自 Stratechery 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-13",
+      "last_seen_issue": "2026-10-13",
+      "used_in_issue": "2026-10-13"
+    },
+    {
+      "id": "cand_c02f4c25bc244881",
+      "canonical_url": "https://stratechery.com/2026/its-not-you-its-me",
+      "source_url": "https://stratechery.com/feed",
+      "source_fetch_url": "https://stratechery.com/feed",
+      "source_platform": "web",
+      "source_domain": "stratechery.com",
+      "source_name": "Stratechery",
+      "source_file": "media.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "external_article",
+      "title": "2026.41: It&#8217;s Not You, It&#8217;s Me",
+      "subtitle": "",
+      "author": "Stratechery",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Stratechery",
+      "language": "unknown",
+      "published_at": "Fri, 09 Oct 2026 17:00:00 +0000",
+      "captured_at": "2026-10-13T02:25:51.581Z",
+      "captured_issue": "2026-10-13",
+      "summary": "The best Stratechery content from the week of October 5, 2026, including drifting apart from Apple, Facebook complications, and the delightful absurdity of U.S.-China dynamics.",
+      "excerpt": "The best Stratechery content from the week of October 5, 2026, including drifting apart from Apple, Facebook complications, and the delightful absurdity of U.S.-China dynamics.",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "strategy",
+        "tech",
+        "business"
+      ],
+      "entities": [
+        "Stratechery"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://stratechery.com/2026/its-not-you-its-me",
+        "https://stratechery.com/feed",
+        "https://stratechery.com"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 45,
+      "evidence_score": 75,
+      "heat_score": 40,
+      "site_fit_score": 50,
+      "total_score": 56,
+      "rank": 1142,
+      "cluster_id": "stratechery_com_a67a499a",
+      "dedupe_key": "35bd1c3982ec4c7b",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：2026.41: It&#8217;s Not You, It&#8217;s Me 来自 Stratechery 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-13",
+      "last_seen_issue": "2026-10-13",
+      "used_in_issue": "2026-10-13"
+    },
+    {
+      "id": "cand_0a242591f754c41a",
+      "canonical_url": "https://stratechery.com/2026/an-interview-with-katie-harbath-about-disrupting-politics-at-facebook",
+      "source_url": "https://stratechery.com/feed",
+      "source_fetch_url": "https://stratechery.com/feed",
+      "source_platform": "web",
+      "source_domain": "stratechery.com",
+      "source_name": "Stratechery",
+      "source_file": "media.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "external_article",
+      "title": "An Interview with Katie Harbath About Disrupting Politics at Facebook",
+      "subtitle": "",
+      "author": "Stratechery",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Stratechery",
+      "language": "unknown",
+      "published_at": "Thu, 08 Oct 2026 10:00:00 +0000",
+      "captured_at": "2026-10-13T02:25:51.581Z",
+      "captured_issue": "2026-10-13",
+      "summary": "An interview with former Facebook Head of Global Elections Katie Harbath about her new book Disrupting Politics, and how things change for the company in the 2010s.",
+      "excerpt": "An interview with former Facebook Head of Global Elections Katie Harbath about her new book Disrupting Politics, and how things change for the company in the 2010s.",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "strategy",
+        "tech",
+        "business"
+      ],
+      "entities": [
+        "Stratechery"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://stratechery.com/2026/an-interview-with-katie-harbath-about-disrupting-politics-at-facebook",
+        "https://stratechery.com/feed",
+        "https://stratechery.com"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 45,
+      "evidence_score": 75,
+      "heat_score": 40,
+      "site_fit_score": 50,
+      "total_score": 56,
+      "rank": 1143,
+      "cluster_id": "stratechery_com_0d798803",
+      "dedupe_key": "ee1740b72214c42a",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：An Interview with Katie Harbath About Disrupting Politics at Facebook 来自 Stratechery 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-13",
+      "last_seen_issue": "2026-10-13",
+      "used_in_issue": "2026-10-13"
+    },
+    {
+      "id": "cand_018cd731408ae341",
+      "canonical_url": "https://stratechery.com/2026/game-decompilation-is-this-legal-a-well-trodden-path",
+      "source_url": "https://stratechery.com/feed",
+      "source_fetch_url": "https://stratechery.com/feed",
+      "source_platform": "web",
+      "source_domain": "stratechery.com",
+      "source_name": "Stratechery",
+      "source_file": "media.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "external_article",
+      "title": "Game Decompilation, Is This Legal?, A Well-Trodden Path",
+      "subtitle": "",
+      "author": "Stratechery",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Stratechery",
+      "language": "unknown",
+      "published_at": "Tue, 06 Oct 2026 10:07:36 +0000",
+      "captured_at": "2026-10-13T02:25:51.581Z",
+      "captured_issue": "2026-10-13",
+      "summary": "Games are being decompiled, but the real risk to gaming is new games and increased personalization.",
+      "excerpt": "Games are being decompiled, but the real risk to gaming is new games and increased personalization.",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "strategy",
+        "tech",
+        "business"
+      ],
+      "entities": [
+        "Stratechery"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://stratechery.com/2026/game-decompilation-is-this-legal-a-well-trodden-path",
+        "https://stratechery.com/feed",
+        "https://stratechery.com"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 45,
+      "evidence_score": 75,
+      "heat_score": 40,
+      "site_fit_score": 50,
+      "total_score": 56,
+      "rank": 1144,
+      "cluster_id": "stratechery_com_f0c9cb01",
+      "dedupe_key": "9845ce72fba9f2f8",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Game Decompilation, Is This Legal?, A Well-Trodden Path 来自 Stratechery 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-13",
+      "last_seen_issue": "2026-10-13",
+      "used_in_issue": "2026-10-13"
+    }
+  ],
+  "clusters": [
+    {
+      "cluster_id": "github_blog_7f6baaaa",
+      "title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
+      "summary": "Learn how to add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright. The post GitHub Copilot app for Beginners: How to teach Copilot about your codebase appeared first on The GitHub Blog .",
+      "primary_source": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase",
+      "supporting_sources": [
+        "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase",
+        "https://github.blog/feed",
+        "https://github.com/features/copilot",
+        "https://github.blog",
+        "https://x.com/github"
+      ],
+      "related_x_posts": [
+        "https://x.com/github"
+      ],
+      "related_articles": [
+        "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase",
+        "https://github.blog/feed",
+        "https://github.com/features/copilot",
+        "https://github.blog"
+      ],
+      "entities": [
+        "GitHub Copilot"
+      ],
+      "tags": [
+        "ai_coding",
+        "developer_tools"
+      ],
+      "score": 70,
+      "selected_item_id": "cand_0f5bdb681a5be8c5"
+    },
+    {
+      "cluster_id": "developer_nvidia_com_f27babe3",
+      "title": "ReplaySSM: Rethinking State Storage for Faster Hybrid-Model Decoding",
+      "summary": "NVIDIA Technical Blog · ReplaySSM: Rethinking State Storage for Faster Hybrid-Model Decoding",
+      "primary_source": "https://developer.nvidia.com/blog/replayssm-rethinking-state-storage-for-faster-hybrid-model-decoding",
+      "supporting_sources": [
+        "https://developer.nvidia.com/blog/replayssm-rethinking-state-storage-for-faster-hybrid-model-decoding",
+        "https://developer.nvidia.com/blog",
+        "https://blogs.nvidia.com/blog/category/deep-learning",
+        "https://x.com/NVIDIAAI"
+      ],
+      "related_x_posts": [
+        "https://x.com/NVIDIAAI"
+      ],
+      "related_articles": [
+        "https://developer.nvidia.com/blog/replayssm-rethinking-state-storage-for-faster-hybrid-model-decoding",
+        "https://developer.nvidia.com/blog",
+        "https://blogs.nvidia.com/blog/category/deep-learning"
+      ],
+      "entities": [
+        "NVIDIA AI"
+      ],
+      "tags": [
+        "gpu",
+        "inference",
+        "ai_infra"
+      ],
+      "score": 69,
+      "selected_item_id": "cand_128b93eb914bd54c"
+    },
+    {
+      "cluster_id": "vercel_com_46e21e23",
+      "title": "Muse Wonder now available on AI Gateway",
+      "summary": "Muse Wonder from Meta is now available on AI Gateway. The model is designed for coding, long-running agents, and computer use. It can plan multi-step tasks, delegate work to sub-agents, and recover from errors as work progresses. Muse Wonder has a 1M-token context window and supports text, image, and PDF input, tool calling, and structured output. Agents can work with code, screenshots, and documents in the same workflow. You can access the model through AI Gateway with one A",
+      "primary_source": "https://vercel.com/changelog/muse-wonder-now-available-on-ai-gateway",
+      "supporting_sources": [
+        "https://vercel.com/changelog/muse-wonder-now-available-on-ai-gateway",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "related_x_posts": [
+        "https://x.com/vercel"
+      ],
+      "related_articles": [
+        "https://vercel.com/changelog/muse-wonder-now-available-on-ai-gateway",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "score": 69,
+      "selected_item_id": "cand_46f34ad453893b68"
+    },
+    {
+      "cluster_id": "lennysnewsletter_com_a8d86f2b",
+      "title": "How Meta designed Muse: an AI agent people actually want to talk to | Alex Cornell (Design Director)",
+      "summary": "Listen now | &#127897;&#65039;Alex Cornell explains how Muse serves your mom and an engineer with the same interface, and demos a SkyMall-style catalog, golf recaps, and a blog turned podcast",
+      "primary_source": "https://www.lennysnewsletter.com/p/how-meta-designed-muse-an-ai-agent",
+      "supporting_sources": [
+        "https://www.lennysnewsletter.com/p/how-meta-designed-muse-an-ai-agent",
+        "https://www.lennysnewsletter.com/feed.xml",
+        "https://www.lennysnewsletter.com"
+      ],
+      "related_x_posts": [],
+      "related_articles": [
+        "https://www.lennysnewsletter.com/p/how-meta-designed-muse-an-ai-agent",
+        "https://www.lennysnewsletter.com/feed.xml",
+        "https://www.lennysnewsletter.com"
+      ],
+      "entities": [
+        "Lenny's Newsletter"
+      ],
+      "tags": [
+        "product",
+        "growth",
+        "startup"
+      ],
+      "score": 69,
+      "selected_item_id": "cand_9574c58f8c52945c"
+    },
+    {
+      "cluster_id": "elevenlabs_io_731106fd",
+      "title": "How we solve 22,000 support tickets every month with ElevenAgents",
+      "summary": "We utilize ElevenAgents procedures, simulation tests, tools, and more to enable the agent to look-up account information, take actions, and escalate",
+      "primary_source": "https://elevenlabs.io/blog/how-we-solve-22000-support-tickets-every-month-with-elevenagents",
+      "supporting_sources": [
+        "https://elevenlabs.io/blog/how-we-solve-22000-support-tickets-every-month-with-elevenagents",
+        "https://elevenlabs.io/blog/rss.xml",
+        "https://elevenlabs.io",
+        "https://elevenlabs.io/blog",
+        "https://x.com/elevenlabsio"
+      ],
+      "related_x_posts": [
+        "https://x.com/elevenlabsio"
+      ],
+      "related_articles": [
+        "https://elevenlabs.io/blog/how-we-solve-22000-support-tickets-every-month-with-elevenagents",
+        "https://elevenlabs.io/blog/rss.xml",
+        "https://elevenlabs.io",
+        "https://elevenlabs.io/blog"
+      ],
+      "entities": [
+        "ElevenLabs"
+      ],
+      "tags": [
+        "voice_ai",
+        "audio"
+      ],
+      "score": 62,
+      "selected_item_id": "cand_de25811f4247b8c9"
+    },
+    {
+      "cluster_id": "elevenlabs_io_648fbf7a",
+      "title": "ElevenAgents, now on the OpenAI Marketplace",
+      "summary": "ElevenAgents Joins the OpenAI Marketplace as Launch Partner",
+      "primary_source": "https://elevenlabs.io/blog/elevenagents-now-on-the-openai-marketplace",
+      "supporting_sources": [
+        "https://elevenlabs.io/blog/elevenagents-now-on-the-openai-marketplace",
+        "https://elevenlabs.io/blog/rss.xml",
+        "https://elevenlabs.io",
+        "https://elevenlabs.io/blog",
+        "https://x.com/elevenlabsio"
+      ],
+      "related_x_posts": [
+        "https://x.com/elevenlabsio"
+      ],
+      "related_articles": [
+        "https://elevenlabs.io/blog/elevenagents-now-on-the-openai-marketplace",
+        "https://elevenlabs.io/blog/rss.xml",
+        "https://elevenlabs.io",
+        "https://elevenlabs.io/blog"
+      ],
+      "entities": [
+        "ElevenLabs"
+      ],
+      "tags": [
+        "voice_ai",
+        "audio"
+      ],
+      "score": 62,
+      "selected_item_id": "cand_e0f5aa626dfc6b57"
+    },
+    {
+      "cluster_id": "x_ai_d4c3e1d3",
+      "title": "Product · Oct 12, 2026 Introducing The X Subscription",
+      "summary": "SpaceXSI · Product · Oct 12, 2026 Introducing The X Subscription",
+      "primary_source": "https://x.ai/news/x-subscription",
+      "supporting_sources": [
+        "https://x.ai/news/x-subscription",
+        "https://x.ai",
+        "https://x.com/xai"
+      ],
+      "related_x_posts": [
+        "https://x.com/xai"
+      ],
+      "related_articles": [
+        "https://x.ai/news/x-subscription",
+        "https://x.ai"
+      ],
+      "entities": [
+        "xAI"
+      ],
+      "tags": [
+        "ai_models",
+        "reasoning"
+      ],
+      "score": 62,
+      "selected_item_id": "cand_3c4cf7f090ffe1f4"
+    },
+    {
+      "cluster_id": "lennysnewsletter_com_bbc498d4",
+      "title": "🎙️ How I AI: How Meta designed Muse with Alex Cornell",
+      "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+      "primary_source": "https://www.lennysnewsletter.com/p/how-i-ai-how-meta-designed-muse-with",
+      "supporting_sources": [
+        "https://www.lennysnewsletter.com/p/how-i-ai-how-meta-designed-muse-with",
+        "https://www.lennysnewsletter.com/feed.xml",
+        "https://www.lennysnewsletter.com"
+      ],
+      "related_x_posts": [],
+      "related_articles": [
+        "https://www.lennysnewsletter.com/p/how-i-ai-how-meta-designed-muse-with",
+        "https://www.lennysnewsletter.com/feed.xml",
+        "https://www.lennysnewsletter.com"
+      ],
+      "entities": [
+        "Lenny's Newsletter"
+      ],
+      "tags": [
+        "product",
+        "growth",
+        "startup"
+      ],
+      "score": 62,
+      "selected_item_id": "cand_10ec5ab4c63bb516"
+    },
+    {
+      "cluster_id": "arxiv_org_7d7ed647",
+      "title": "Fri, 9 Oct 2026",
+      "summary": "Artificial Intelligence · Fri, 9 Oct 2026",
+      "primary_source": "https://arxiv.org/list/cs.AI/recent?skip=161&amp%3Bshow=50",
+      "supporting_sources": [
+        "https://arxiv.org/list/cs.AI/recent?skip=161&amp%3Bshow=50",
+        "https://arxiv.org/list/cs.AI/recent"
+      ],
+      "related_x_posts": [],
+      "related_articles": [
+        "https://arxiv.org/list/cs.AI/recent?skip=161&amp%3Bshow=50",
+        "https://arxiv.org/list/cs.AI/recent"
+      ],
+      "entities": [
+        "arXiv CS AI"
+      ],
+      "tags": [
+        "paper",
+        "ai",
+        "arxiv"
+      ],
+      "score": 60,
+      "selected_item_id": "cand_04cb732911c8782f"
+    },
+    {
+      "cluster_id": "elevenlabs_io_cbbe1c20",
+      "title": "JavaScript speech recognition tutorial: Build voice UX",
+      "summary": "Build live transcription and voice commands with this JavaScript speech recognition tutorial. Learn the Web Speech API and when to switch to ElevenAPI.",
+      "primary_source": "https://elevenlabs.io/blog/javascript-speech-recognition-tutorial",
+      "supporting_sources": [
+        "https://elevenlabs.io/blog/javascript-speech-recognition-tutorial",
+        "https://elevenlabs.io/blog/rss.xml",
+        "https://elevenlabs.io",
+        "https://elevenlabs.io/blog",
+        "https://x.com/elevenlabsio"
+      ],
+      "related_x_posts": [
+        "https://x.com/elevenlabsio"
+      ],
+      "related_articles": [
+        "https://elevenlabs.io/blog/javascript-speech-recognition-tutorial",
+        "https://elevenlabs.io/blog/rss.xml",
+        "https://elevenlabs.io",
+        "https://elevenlabs.io/blog"
+      ],
+      "entities": [
+        "ElevenLabs"
+      ],
+      "tags": [
+        "voice_ai",
+        "audio"
+      ],
+      "score": 59,
+      "selected_item_id": "cand_d66893b87b9f6e22"
+    },
+    {
+      "cluster_id": "stratechery_com_54e25842",
+      "title": "Personal Day",
+      "summary": "Personal Day — No Update",
+      "primary_source": "https://stratechery.com/2026/personal-day-4",
+      "supporting_sources": [
+        "https://stratechery.com/2026/personal-day-4",
+        "https://stratechery.com/feed",
+        "https://stratechery.com"
+      ],
+      "related_x_posts": [],
+      "related_articles": [
+        "https://stratechery.com/2026/personal-day-4",
+        "https://stratechery.com/feed",
+        "https://stratechery.com"
+      ],
+      "entities": [
+        "Stratechery"
+      ],
+      "tags": [
+        "strategy",
+        "tech",
+        "business"
+      ],
+      "score": 56,
+      "selected_item_id": "cand_dc746aa479a223bd"
+    },
+    {
+      "cluster_id": "stratechery_com_a67a499a",
+      "title": "2026.41: It&#8217;s Not You, It&#8217;s Me",
+      "summary": "The best Stratechery content from the week of October 5, 2026, including drifting apart from Apple, Facebook complications, and the delightful absurdity of U.S.-China dynamics.",
+      "primary_source": "https://stratechery.com/2026/its-not-you-its-me",
+      "supporting_sources": [
+        "https://stratechery.com/2026/its-not-you-its-me",
+        "https://stratechery.com/feed",
+        "https://stratechery.com"
+      ],
+      "related_x_posts": [],
+      "related_articles": [
+        "https://stratechery.com/2026/its-not-you-its-me",
+        "https://stratechery.com/feed",
+        "https://stratechery.com"
+      ],
+      "entities": [
+        "Stratechery"
+      ],
+      "tags": [
+        "strategy",
+        "tech",
+        "business"
+      ],
+      "score": 56,
+      "selected_item_id": "cand_c02f4c25bc244881"
+    },
+    {
+      "cluster_id": "stratechery_com_0d798803",
+      "title": "An Interview with Katie Harbath About Disrupting Politics at Facebook",
+      "summary": "An interview with former Facebook Head of Global Elections Katie Harbath about her new book Disrupting Politics, and how things change for the company in the 2010s.",
+      "primary_source": "https://stratechery.com/2026/an-interview-with-katie-harbath-about-disrupting-politics-at-facebook",
+      "supporting_sources": [
+        "https://stratechery.com/2026/an-interview-with-katie-harbath-about-disrupting-politics-at-facebook",
+        "https://stratechery.com/feed",
+        "https://stratechery.com"
+      ],
+      "related_x_posts": [],
+      "related_articles": [
+        "https://stratechery.com/2026/an-interview-with-katie-harbath-about-disrupting-politics-at-facebook",
+        "https://stratechery.com/feed",
+        "https://stratechery.com"
+      ],
+      "entities": [
+        "Stratechery"
+      ],
+      "tags": [
+        "strategy",
+        "tech",
+        "business"
+      ],
+      "score": 56,
+      "selected_item_id": "cand_0a242591f754c41a"
+    },
+    {
+      "cluster_id": "stratechery_com_f0c9cb01",
+      "title": "Game Decompilation, Is This Legal?, A Well-Trodden Path",
+      "summary": "Games are being decompiled, but the real risk to gaming is new games and increased personalization.",
+      "primary_source": "https://stratechery.com/2026/game-decompilation-is-this-legal-a-well-trodden-path",
+      "supporting_sources": [
+        "https://stratechery.com/2026/game-decompilation-is-this-legal-a-well-trodden-path",
+        "https://stratechery.com/feed",
+        "https://stratechery.com"
+      ],
+      "related_x_posts": [],
+      "related_articles": [
+        "https://stratechery.com/2026/game-decompilation-is-this-legal-a-well-trodden-path",
+        "https://stratechery.com/feed",
+        "https://stratechery.com"
+      ],
+      "entities": [
+        "Stratechery"
+      ],
+      "tags": [
+        "strategy",
+        "tech",
+        "business"
+      ],
+      "score": 56,
+      "selected_item_id": "cand_018cd731408ae341"
+    }
+  ],
+  "sources": [
+    "github.blog",
+    "developer.nvidia.com",
+    "vercel.com",
+    "lennysnewsletter.com",
+    "elevenlabs.io",
+    "x.ai",
+    "arxiv.org",
+    "stratechery.com"
+  ]
+}

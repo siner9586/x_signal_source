@@ -24566,5 +24566,145 @@
     "cluster_id": "stratechery_com_ee82f1a9",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0f5bdb681a5be8c5",
+    "canonical_url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase",
+    "dedupe_key": "bdcc6d2e62166164",
+    "title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
+    "issue_date": "2026-10-13",
+    "cluster_id": "github_blog_7f6baaaa",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_128b93eb914bd54c",
+    "canonical_url": "https://developer.nvidia.com/blog/replayssm-rethinking-state-storage-for-faster-hybrid-model-decoding",
+    "dedupe_key": "dc94e5751d08fcb7",
+    "title": "ReplaySSM: Rethinking State Storage for Faster Hybrid-Model Decoding",
+    "issue_date": "2026-10-13",
+    "cluster_id": "developer_nvidia_com_f27babe3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_46f34ad453893b68",
+    "canonical_url": "https://vercel.com/changelog/muse-wonder-now-available-on-ai-gateway",
+    "dedupe_key": "03b29c3891decdd8",
+    "title": "Muse Wonder now available on AI Gateway",
+    "issue_date": "2026-10-13",
+    "cluster_id": "vercel_com_46e21e23",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9574c58f8c52945c",
+    "canonical_url": "https://www.lennysnewsletter.com/p/how-meta-designed-muse-an-ai-agent",
+    "dedupe_key": "8dda452076a69501",
+    "title": "How Meta designed Muse: an AI agent people actually want to talk to | Alex Cornell (Design Director)",
+    "issue_date": "2026-10-13",
+    "cluster_id": "lennysnewsletter_com_a8d86f2b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_de25811f4247b8c9",
+    "canonical_url": "https://elevenlabs.io/blog/how-we-solve-22000-support-tickets-every-month-with-elevenagents",
+    "dedupe_key": "12f00021f12700e5",
+    "title": "How we solve 22,000 support tickets every month with ElevenAgents",
+    "issue_date": "2026-10-13",
+    "cluster_id": "elevenlabs_io_731106fd",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e0f5aa626dfc6b57",
+    "canonical_url": "https://elevenlabs.io/blog/elevenagents-now-on-the-openai-marketplace",
+    "dedupe_key": "660fcc8c5ac5b494",
+    "title": "ElevenAgents, now on the OpenAI Marketplace",
+    "issue_date": "2026-10-13",
+    "cluster_id": "elevenlabs_io_648fbf7a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3c4cf7f090ffe1f4",
+    "canonical_url": "https://x.ai/news/x-subscription",
+    "dedupe_key": "b7a629f939239612",
+    "title": "Product · Oct 12, 2026 Introducing The X Subscription",
+    "issue_date": "2026-10-13",
+    "cluster_id": "x_ai_d4c3e1d3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_10ec5ab4c63bb516",
+    "canonical_url": "https://www.lennysnewsletter.com/p/how-i-ai-how-meta-designed-muse-with",
+    "dedupe_key": "7084754ca83d5a79",
+    "title": "🎙️ How I AI: How Meta designed Muse with Alex Cornell",
+    "issue_date": "2026-10-13",
+    "cluster_id": "lennysnewsletter_com_bbc498d4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_04cb732911c8782f",
+    "canonical_url": "https://arxiv.org/list/cs.AI/recent?skip=161&amp%3Bshow=50",
+    "dedupe_key": "a763712ac734e8ee",
+    "title": "Fri, 9 Oct 2026",
+    "issue_date": "2026-10-13",
+    "cluster_id": "arxiv_org_7d7ed647",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d66893b87b9f6e22",
+    "canonical_url": "https://elevenlabs.io/blog/javascript-speech-recognition-tutorial",
+    "dedupe_key": "c85143306de5cec3",
+    "title": "JavaScript speech recognition tutorial: Build voice UX",
+    "issue_date": "2026-10-13",
+    "cluster_id": "elevenlabs_io_cbbe1c20",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_dc746aa479a223bd",
+    "canonical_url": "https://stratechery.com/2026/personal-day-4",
+    "dedupe_key": "86e54270126c7394",
+    "title": "Personal Day",
+    "issue_date": "2026-10-13",
+    "cluster_id": "stratechery_com_54e25842",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c02f4c25bc244881",
+    "canonical_url": "https://stratechery.com/2026/its-not-you-its-me",
+    "dedupe_key": "35bd1c3982ec4c7b",
+    "title": "2026.41: It&#8217;s Not You, It&#8217;s Me",
+    "issue_date": "2026-10-13",
+    "cluster_id": "stratechery_com_a67a499a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0a242591f754c41a",
+    "canonical_url": "https://stratechery.com/2026/an-interview-with-katie-harbath-about-disrupting-politics-at-facebook",
+    "dedupe_key": "ee1740b72214c42a",
+    "title": "An Interview with Katie Harbath About Disrupting Politics at Facebook",
+    "issue_date": "2026-10-13",
+    "cluster_id": "stratechery_com_0d798803",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_018cd731408ae341",
+    "canonical_url": "https://stratechery.com/2026/game-decompilation-is-this-legal-a-well-trodden-path",
+    "dedupe_key": "9845ce72fba9f2f8",
+    "title": "Game Decompilation, Is This Legal?, A Well-Trodden Path",
+    "issue_date": "2026-10-13",
+    "cluster_id": "stratechery_com_f0c9cb01",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
