@@ -1,36 +1,8 @@
 [
   {
-    "title": "Gemini 4 Argon now available on AI Gateway",
-    "url": "https://vercel.com/changelog/gemini-4-argon-now-available-on-ai-gateway",
-    "summary": "Gemini 4 Argon from Google is now available on AI Gateway . Gemini 4 Argon is built for coding, agentic work, and complex reasoning. It has a 1M token context window, accepts text, image, PDF, and video input, and supports tool calling. On coding tasks, Gemini 4 Argon builds features, fixes bugs, and researches unfamiliar codebases, carrying longer tasks through multiple steps. The model also reads dense diagrams, spreadsheets, layout-heavy documents, and video, which suits t",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-14",
-    "score": 74
-  },
-  {
-    "title": "How to Rewrite Apache Spark UDFs for GPU Acceleration with AI Agents",
-    "url": "https://developer.nvidia.com/blog/rewrite-apache-spark-udfs-gpu-acceleration-ai-agents",
-    "summary": "NVIDIA Technical Blog · How to Rewrite Apache Spark UDFs for GPU Acceleration with AI Agents",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-10-14",
-    "score": 71
-  },
-  {
-    "title": "Higgsfield takes AI video from 1 minute to over 10",
-    "url": "https://openai.com/index/higgsfield-longer-videos-voice",
-    "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+    "title": "Amp puts AI agents to work beyond code with OpenAI models",
+    "url": "https://openai.com/index/amp-beyond-coding",
+    "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
     "tags": [
       "ai_models",
       "official",
@@ -39,86 +11,43 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-10-14",
-    "score": 69
+    "date": "2026-10-15",
+    "score": 72
   },
   {
-    "title": "Improving Deep Agents with harness engineering",
-    "url": "https://www.langchain.com/blog/improving-deep-agents-with-harness-engineering",
-    "summary": "Harness engineering improved LangChain's coding agent from Top 30 to Top 5 on Terminal Bench using self-verification, tracing, and context optimization.",
+    "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+    "url": "https://openai.com/index/third-moment-research",
+    "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
     "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-10-14",
-    "score": 68
-  },
-  {
-    "title": "Building Long-Running Agents with ScaleDown and Deep Agents",
-    "url": "https://www.langchain.com/blog/building-long-running-agents-with-scaledown-and-deep-agents",
-    "summary": "Use ScaleDown's constrained decoding models with LangChain and Deep Agents to summarize history, compress tool results, and extract data faster and cheaper.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-10-14",
-    "score": 68
-  },
-  {
-    "title": "Developing Gemini 4 Argon responsibly and safely",
-    "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
-    "summary": "Developing Gemini 4 Argon responsibly and safely 是 Google DeepMind 当日抓取到的公开新增条目。",
-    "tags": [
+      "ai_models",
+      "official",
       "research",
-      "multimodal",
-      "science",
-      "official"
+      "developer"
     ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-10-14",
-    "score": 66
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-10-15",
+    "score": 70
   },
   {
-    "title": "Gemini 4 Argon for Robotics",
-    "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics",
-    "summary": "Gemini 4 Argon for Robotics 是 Google DeepMind 当日抓取到的公开新增条目。",
+    "title": "The EU’s next chapter in AI is agentic",
+    "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+    "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
     "tags": [
+      "ai_models",
+      "official",
       "research",
-      "multimodal",
-      "science",
-      "official"
+      "developer"
     ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-10-14",
-    "score": 66
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-10-15",
+    "score": 70
   },
   {
-    "title": "Gemini 4 Argon: Built to solve your hardest problems",
-    "url": "https://deepmind.google/blog/introducing-gemini-4-argon",
-    "summary": "Gemini 4 Argon: Built to solve your hardest problems 是 Google DeepMind 当日抓取到的公开新增条目。",
-    "tags": [
-      "research",
-      "multimodal",
-      "science",
-      "official"
-    ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-10-14",
-    "score": 66
-  },
-  {
-    "title": "NVIDIA Run:ai Is Now Open Source as Part of NVIDIA DSX AI Factory Platform",
-    "url": "https://developer.nvidia.com/blog/nvidia-runai-is-now-open-source-as-part-of-nvidia-dsx-ai-factory-platform",
-    "summary": "NVIDIA Technical Blog · NVIDIA Run:ai Is Now Open Source as Part of NVIDIA DSX AI Factory Platform",
+    "title": "Optimizing Agent Reliability and Tool Calling Efficiency for Chip Design Using NVIDIA NeMo Gym",
+    "url": "https://developer.nvidia.com/blog/optimizing-agent-reliability-and-tool-calling-efficiency-for-chip-design-using-nvidia-nemo-gym",
+    "summary": "NVIDIA Technical Blog · Optimizing Agent Reliability and Tool Calling Efficiency for Chip Design Using NVIDIA NeMo Gym",
     "tags": [
       "gpu",
       "inference",
@@ -126,41 +55,13 @@
     ],
     "author": "NVIDIA AI",
     "source": "developer.nvidia.com",
-    "date": "2026-10-14",
-    "score": 66
+    "date": "2026-10-15",
+    "score": 69
   },
   {
-    "title": "How Orange Business Built Live Intelligence with LangChain and LangSmith",
-    "url": "https://www.langchain.com/blog/how-orange-business-built-live-intelligence-on-langchain-and-langsmith",
-    "summary": "Learn how Orange Business used LangChain and LangSmith to build Live Intelligence, a governed AI platform for agents, evals, observability, and production scale.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-10-14",
-    "score": 66
-  },
-  {
-    "title": "How We Made Our Docs Test Themselves",
-    "url": "https://www.langchain.com/blog/our-docs-test-themselves",
-    "summary": "Stale code samples are a docs problem nobody prioritizes. Here's how we used the Deep Agents CLI to automate migrating inline code into testable, CI-ready examples",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-10-14",
-    "score": 66
-  },
-  {
-    "title": "MAI-Image-2.6 and MAI-Image-2.6-Flash now available on AI Gateway",
-    "url": "https://vercel.com/changelog/mai-image-2-6-and-mai-image-2-6-flash-now-available-on-ai-gateway",
-    "summary": "MAI-Image-2.6 and MAI-Image-2.6-Flash from Microsoft are now available on AI Gateway . Generate images from text or edit existing images through the AI SDK or the AI CLI , with one API key and no provider account. Both models support photorealistic imagery, text rendering, and targeted edits to products, portraits, and layouts. You can provide up to five reference images to guide edits or combine subjects, with output sizes up to 1536 × 1536. MAI-Image-2.6 ( microsoft/mai-ima",
+    "title": "Findings from the $1M Vercel Sandbox challenge",
+    "url": "https://vercel.com/blog/findings-from-the-1-million-dollar-vercel-sandbox-challenge",
+    "summary": "In August, we launched the $1M hacker challenge for Vercel Sandbox , inviting security researchers to try and escape Vercel Sandbox. We also coordinated with cybersecurity experts Trail of Bits to review the source code and security architecture. Here is a summary of the challenge: 1,285 reports over two weeks $242,000 in bounties paid out One Linux kernel zeroday vulnerability uncovered No reports showed anyone accessing customer data in Vercel Sandbox. The most severe findi",
     "tags": [
       "sdk",
       "ai_infra",
@@ -168,83 +69,28 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-10-14",
-    "score": 65
+    "date": "2026-10-15",
+    "score": 69
   },
   {
-    "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-    "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
-    "summary": "Run fast, private agents on-device with LFM2.5-24B-A2B 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+    "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
+    "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
     "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-10-14",
-    "score": 65
-  },
-  {
-    "title": "Deep Agents Deploy: an open alternative to Claude Managed Agents",
-    "url": "https://www.langchain.com/blog/deep-agents-deploy-an-open-alternative-to-claude-managed-agents",
-    "summary": "Today we’re launching Deep Agents deploy in beta. Deep Agents deploy is the fastest way to deploy a model agnostic, open source agent harness in a production ready way.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-10-14",
-    "score": 65
-  },
-  {
-    "title": "Search agent traces by behavior with AI Search in LangSmith",
-    "url": "https://www.langchain.com/blog/agent-traces-ai-search-langsmith",
-    "summary": "AI Search in LangSmith is a new way to query traces using natural language. Describe the behavior you're looking for, and LangSmith returns the traces where it happened.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-10-14",
-    "score": 65
-  },
-  {
-    "title": "Open Models have crossed a threshold",
-    "url": "https://www.langchain.com/blog/open-models-have-crossed-a-threshold",
-    "summary": "Open models like GLM-5 and MiniMax M2.7 now match closed frontier models on core agent tasks — file operations, tool use, and instruction following — at a fraction of the cost and latency. Here's what our evals show and how to start using them in Deep Agents.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-10-14",
-    "score": 64
-  },
-  {
-    "title": "AI labs are buying data from dead startups to train their models",
-    "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models",
-    "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money. He’s netted roughly $25,000 for his code base and a still-pending amount (likely around&#8230;",
-    "tags": [
-      "ai",
       "research",
-      "society"
+      "multimodal",
+      "science",
+      "official"
     ],
-    "author": "MIT Technology Review AI",
-    "source": "technologyreview.com",
-    "date": "2026-10-14",
-    "score": 64
+    "author": "Google DeepMind",
+    "source": "deepmind.google",
+    "date": "2026-10-15",
+    "score": 68
   },
   {
-    "title": "Drama 3 now available on AI Gateway",
-    "url": "https://vercel.com/changelog/drama-3-now-available-on-ai-gateway",
-    "summary": "Drama 3 from Fish Audio is now available on AI Gateway, and 80% off for 30 days (through Nov 12). The text-to-speech model is currently in preview and lets you direct voice performances with natural-language instructions in your script, making it useful for voiceovers, character dialogue, and audio storytelling. Describe the emotion and pacing in square brackets, add sounds and pauses where they belong, or wrap selected words in tags such as and to change their delivery. Dire",
+    "title": "Nemotron 3.5 Lightning now available on AI Gateway for free",
+    "url": "https://vercel.com/changelog/nemotron-3-5-lightning-now-available-on-ai-gateway-for-free",
+    "summary": "Nemotron 3.5 Lightning from NVIDIA is now available for free on AI Gateway as nvidia/nemotron-3.5-lightning-free , served by NVIDIA. Nemotron 3.5 Lightning is an open-weight reasoning and chat model for long-running agents, sub-agent work, chatbots, and RAG systems. The model has 30B parameters with 3B active per token, in a hybrid Mixture-of-Experts design that interleaves Mamba-2 and MoE layers with a few attention layers. It has a 1M token context window and supports tool ",
     "tags": [
       "sdk",
       "ai_infra",
@@ -252,27 +98,56 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-10-14",
-    "score": 63
+    "date": "2026-10-15",
+    "score": 68
   },
   {
-    "title": "Repository checkout and Git LFS downloads are now faster",
-    "url": "https://vercel.com/changelog/repository-checkout-and-git-lfs-downloads-are-now-faster",
-    "summary": "Repository checkout and Git LFS downloads are now faster on Vercel, reducing the time spent preparing your project's files before a build. During rollout on build machines with more than two vCPUs: The average time to get project files ready fell by 20%. For LFS-enabled projects, the average time to get project files ready fell by 54%, saving approximately 13 seconds per deployment on this step. The 90th-percentile time to get project files ready fell by 22%. This means 90% o",
+    "title": "SentinelOne cuts malware analysis from weeks to hours",
+    "url": "https://openai.com/index/sentinelone",
+    "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
     "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
+      "ai_models",
+      "official",
+      "research",
+      "developer"
     ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-14",
-    "score": 63
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-10-15",
+    "score": 67
   },
   {
-    "title": "How to tell if a startup has a moat",
-    "url": "https://www.lennysnewsletter.com/p/how-to-tell-if-a-startup-has-a-moat",
-    "summary": "A framework for assessing whether the company you&#8217;re considering joining is built to last",
+    "title": "How Block is building AI-powered security with OpenAI technology",
+    "url": "https://openai.com/index/block-ai-powered-security",
+    "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-10-15",
+    "score": 67
+  },
+  {
+    "title": "GitHub availability report: September 2026",
+    "url": "https://github.blog/news-insights/company-news/github-availability-report-september-2026",
+    "summary": "In September, we experienced two incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: September 2026 appeared first on The GitHub Blog .",
+    "tags": [
+      "ai_coding",
+      "developer_tools"
+    ],
+    "author": "GitHub Copilot",
+    "source": "github.blog",
+    "date": "2026-10-15",
+    "score": 67
+  },
+  {
+    "title": "Meta’s new ‘Muse Wonder’ model: good for AI agents, bad for design",
+    "url": "https://www.lennysnewsletter.com/p/metas-new-muse-wonder-model-good",
+    "summary": "Watch now (24 mins) | &#127897;&#65039;Meta launched Muse Wonder with claims of frontier agentic performance, so I ran it headlessly through Claude Code against nearly 20 tasks to find out if any of it is true",
     "tags": [
       "product",
       "growth",
@@ -280,34 +155,158 @@
     ],
     "author": "Lenny's Newsletter",
     "source": "lennysnewsletter.com",
-    "date": "2026-10-14",
+    "date": "2026-10-15",
+    "score": 67
+  },
+  {
+    "title": "Context Engineering with Deep Agents: How To Remember Without Keeping Everything In Context",
+    "url": "https://www.langchain.com/blog/context-engineering-deep-agents-remember",
+    "summary": "Long-running agents degrade as context piles up. Learn how offloading, summarization, skills, subagents, and memory keep your agent's context window focused.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-10-15",
+    "score": 64
+  },
+  {
+    "title": "Amazon S3 joins the Vercel Marketplace",
+    "url": "https://vercel.com/changelog/amazon-s3-joins-the-vercel-marketplace",
+    "summary": "You can now create and connect Amazon S3 resources through the Vercel Marketplace without leaving your Vercel project dashboard. The Amazon S3 Marketplace integration automatically adds connection details as environment variables and lets you manage resources alongside your application infrastructure, with links to AWS for deeper configuration. Authentication uses short-lived OIDC credentials without storing static AWS keys. Amazon S3 is also available in v0 , which provision",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-10-15",
     "score": 63
   },
   {
-    "title": "Open models have real benefits. Do they outweigh the risks?",
-    "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks",
-    "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic released a report arguing that the model GLM-5.3 poses a major cyberattack risk. The report’s core concern is that the&#8230;",
+    "title": "Oct 14, 2026 Policy Preparing for the 2026 US midterms",
+    "url": "https://www.anthropic.com/news/2026-us-midterms",
+    "summary": "Newsroom \\ Anthropic · Oct 14, 2026 Policy Preparing for the 2026 US midterms",
     "tags": [
-      "ai",
-      "research",
-      "society"
+      "ai_models",
+      "safety",
+      "official"
     ],
-    "author": "MIT Technology Review AI",
-    "source": "technologyreview.com",
-    "date": "2026-10-14",
+    "author": "Anthropic",
+    "source": "anthropic.com",
+    "date": "2026-10-15",
+    "score": 62
+  },
+  {
+    "title": "Oct 14, 2026 Announcements Anthropic opens Singapore office and signs MOU with the Government of Singapore",
+    "url": "https://www.anthropic.com/news/singapore-office-opening",
+    "summary": "Newsroom \\ Anthropic · Oct 14, 2026 Announcements Anthropic opens Singapore office and signs MOU with the Government of Singapore",
+    "tags": [
+      "ai_models",
+      "safety",
+      "official"
+    ],
+    "author": "Anthropic",
+    "source": "anthropic.com",
+    "date": "2026-10-15",
+    "score": 62
+  },
+  {
+    "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+    "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+    "summary": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-10-15",
+    "score": 62
+  },
+  {
+    "title": "Oct 14, 2026 Introducing Grok Voice 3.0",
+    "url": "https://x.ai/news/grok-voice-3",
+    "summary": "SpaceXSI · Oct 14, 2026 Introducing Grok Voice 3.0",
+    "tags": [
+      "ai_models",
+      "reasoning"
+    ],
+    "author": "xAI",
+    "source": "x.ai",
+    "date": "2026-10-15",
     "score": 61
   },
   {
-    "title": "How to transcribe an interview: Accurate, speaker-labeled transcripts",
-    "url": "https://elevenlabs.io/blog/how-to-transcribe-an-interview",
-    "summary": "Learn how to transcribe an interview with AI, from verbatim vs. clean styles to speaker labels. ElevenCreative makes it easy to transcribe",
+    "title": "Mon, 12 Oct 2026",
+    "url": "https://arxiv.org/list/cs.AI/recent?skip=852&amp%3Bshow=50",
+    "summary": "Artificial Intelligence · Mon, 12 Oct 2026",
+    "tags": [
+      "paper",
+      "ai",
+      "arxiv"
+    ],
+    "author": "arXiv CS AI",
+    "source": "arxiv.org",
+    "date": "2026-10-15",
+    "score": 60
+  },
+  {
+    "title": "Audio deepfake detection: How it works & how to verify ElevenLabs audio",
+    "url": "https://elevenlabs.io/blog/audio-deepfake-detection-guide",
+    "summary": "Learn how audio deepfake detection works, how watermarking differs from statistical classifiers, and how to check whether audio came from ElevenLabs.",
     "tags": [
       "voice_ai",
       "audio"
     ],
     "author": "ElevenLabs",
     "source": "elevenlabs.io",
-    "date": "2026-10-14",
+    "date": "2026-10-15",
     "score": 59
+  },
+  {
+    "title": "Baroness Campbell gives the UK Parliament’s first ever AI-voiced speech with ElevenLabs",
+    "url": "https://elevenlabs.io/blog/first-ever-ai-voiced-speech-uk-parliament",
+    "summary": "Baroness Campbell addressed the House of Lords in her own AI-recreated voice, a first for UK Parliament, built with ElevenLabs.",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-10-15",
+    "score": 59
+  },
+  {
+    "title": "Apple HomeView, The New Apple TV, The App Story",
+    "url": "https://stratechery.com/2026/apple-homeview-the-new-apple-tv-the-app-story",
+    "summary": "The Apple Homeview is official, and the question is how big is the addressable market for expensive devices based on subpar AI.",
+    "tags": [
+      "strategy",
+      "tech",
+      "business"
+    ],
+    "author": "Stratechery",
+    "source": "stratechery.com",
+    "date": "2026-10-15",
+    "score": 59
+  },
+  {
+    "title": "SpaceX Buys More Spectrum, Musk and Market Structure, Distributed Cellular",
+    "url": "https://stratechery.com/2026/spacex-buys-more-spectrum-musk-and-market-structure-distributed-cellular",
+    "summary": "SpaceX's mobile strategy is becoming clearly with its latest spectrum purchase, and it might work.",
+    "tags": [
+      "strategy",
+      "tech",
+      "business"
+    ],
+    "author": "Stratechery",
+    "source": "stratechery.com",
+    "date": "2026-10-15",
+    "score": 56
   }
 ]

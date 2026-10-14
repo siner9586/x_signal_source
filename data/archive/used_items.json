@@ -24926,5 +24926,225 @@
     "cluster_id": "elevenlabs_io_2b0923f3",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c18e1c5150bf8580",
+    "canonical_url": "https://openai.com/index/amp-beyond-coding",
+    "dedupe_key": "9b2eb470b5a07513",
+    "title": "Amp puts AI agents to work beyond code with OpenAI models",
+    "issue_date": "2026-10-15",
+    "cluster_id": "openai_com_5ccd60c3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9b80ea4875eefbda",
+    "canonical_url": "https://openai.com/index/third-moment-research",
+    "dedupe_key": "e7f16bfa90e25517",
+    "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+    "issue_date": "2026-10-15",
+    "cluster_id": "openai_com_4c897d97",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_efa632a6c5752b40",
+    "canonical_url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+    "dedupe_key": "add439269c558878",
+    "title": "The EU’s next chapter in AI is agentic",
+    "issue_date": "2026-10-15",
+    "cluster_id": "openai_com_9abdec97",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a13ddcab5a45b7a0",
+    "canonical_url": "https://developer.nvidia.com/blog/optimizing-agent-reliability-and-tool-calling-efficiency-for-chip-design-using-nvidia-nemo-gym",
+    "dedupe_key": "27b01191dfcc884c",
+    "title": "Optimizing Agent Reliability and Tool Calling Efficiency for Chip Design Using NVIDIA NeMo Gym",
+    "issue_date": "2026-10-15",
+    "cluster_id": "developer_nvidia_com_eda35833",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_dba75683cb99fafb",
+    "canonical_url": "https://vercel.com/blog/findings-from-the-1-million-dollar-vercel-sandbox-challenge",
+    "dedupe_key": "f0c716f022392f6d",
+    "title": "Findings from the $1M Vercel Sandbox challenge",
+    "issue_date": "2026-10-15",
+    "cluster_id": "vercel_com_cf615897",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_52790ef3cd4432b4",
+    "canonical_url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
+    "dedupe_key": "2a6fc5bafce4b590",
+    "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+    "issue_date": "2026-10-15",
+    "cluster_id": "deepmind_google_4d835c96",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0151d1670afc54fb",
+    "canonical_url": "https://vercel.com/changelog/nemotron-3-5-lightning-now-available-on-ai-gateway-for-free",
+    "dedupe_key": "3b77725dca12bde0",
+    "title": "Nemotron 3.5 Lightning now available on AI Gateway for free",
+    "issue_date": "2026-10-15",
+    "cluster_id": "vercel_com_9b2ea16d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_59544c1160fb5582",
+    "canonical_url": "https://openai.com/index/sentinelone",
+    "dedupe_key": "4e2f88a8c36c2ecc",
+    "title": "SentinelOne cuts malware analysis from weeks to hours",
+    "issue_date": "2026-10-15",
+    "cluster_id": "openai_com_b81b4991",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f22749d23dff3347",
+    "canonical_url": "https://openai.com/index/block-ai-powered-security",
+    "dedupe_key": "9f7de4ef130833e4",
+    "title": "How Block is building AI-powered security with OpenAI technology",
+    "issue_date": "2026-10-15",
+    "cluster_id": "openai_com_84fa5a34",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_fdce3ce42c171833",
+    "canonical_url": "https://github.blog/news-insights/company-news/github-availability-report-september-2026",
+    "dedupe_key": "715763c384c4685a",
+    "title": "GitHub availability report: September 2026",
+    "issue_date": "2026-10-15",
+    "cluster_id": "github_blog_67454e4b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a7e43ea0f8307b83",
+    "canonical_url": "https://www.lennysnewsletter.com/p/metas-new-muse-wonder-model-good",
+    "dedupe_key": "54b389bd8c20b091",
+    "title": "Meta’s new ‘Muse Wonder’ model: good for AI agents, bad for design",
+    "issue_date": "2026-10-15",
+    "cluster_id": "lennysnewsletter_com_d1376684",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1517fe8b698217ad",
+    "canonical_url": "https://www.langchain.com/blog/context-engineering-deep-agents-remember",
+    "dedupe_key": "b47de171a14e7032",
+    "title": "Context Engineering with Deep Agents: How To Remember Without Keeping Everything In Context",
+    "issue_date": "2026-10-15",
+    "cluster_id": "langchain_com_0034f266",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d48812f9c4e48014",
+    "canonical_url": "https://vercel.com/changelog/amazon-s3-joins-the-vercel-marketplace",
+    "dedupe_key": "b2ebfff52e47eb84",
+    "title": "Amazon S3 joins the Vercel Marketplace",
+    "issue_date": "2026-10-15",
+    "cluster_id": "vercel_com_a46da3d9",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_314da8b8db8c87c4",
+    "canonical_url": "https://www.anthropic.com/news/2026-us-midterms",
+    "dedupe_key": "be8685529fed8c31",
+    "title": "Oct 14, 2026 Policy Preparing for the 2026 US midterms",
+    "issue_date": "2026-10-15",
+    "cluster_id": "anthropic_com_8b1cc64d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_44e11c741657c999",
+    "canonical_url": "https://www.anthropic.com/news/singapore-office-opening",
+    "dedupe_key": "c9b6ca82882423a9",
+    "title": "Oct 14, 2026 Announcements Anthropic opens Singapore office and signs MOU with the Government of Singapore",
+    "issue_date": "2026-10-15",
+    "cluster_id": "anthropic_com_7d9f2932",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c0945f38c37e290d",
+    "canonical_url": "https://huggingface.co/blog/allenai/hiro-acev2",
+    "dedupe_key": "1da552a253a3fcf0",
+    "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+    "issue_date": "2026-10-15",
+    "cluster_id": "huggingface_co_21020b05",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4d62efa17a23de4e",
+    "canonical_url": "https://x.ai/news/grok-voice-3",
+    "dedupe_key": "90f3f22f12095c90",
+    "title": "Oct 14, 2026 Introducing Grok Voice 3.0",
+    "issue_date": "2026-10-15",
+    "cluster_id": "x_ai_e528d932",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2cbbe50d6f580e4b",
+    "canonical_url": "https://arxiv.org/list/cs.AI/recent?skip=852&amp%3Bshow=50",
+    "dedupe_key": "7152bcbf9268dbdf",
+    "title": "Mon, 12 Oct 2026",
+    "issue_date": "2026-10-15",
+    "cluster_id": "arxiv_org_7eb2434b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3f4d56100046805c",
+    "canonical_url": "https://elevenlabs.io/blog/audio-deepfake-detection-guide",
+    "dedupe_key": "5e473eb8ca7aab80",
+    "title": "Audio deepfake detection: How it works & how to verify ElevenLabs audio",
+    "issue_date": "2026-10-15",
+    "cluster_id": "elevenlabs_io_442d4a0e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_52cb3c18130d4aba",
+    "canonical_url": "https://elevenlabs.io/blog/first-ever-ai-voiced-speech-uk-parliament",
+    "dedupe_key": "669a9a2b181dfaca",
+    "title": "Baroness Campbell gives the UK Parliament’s first ever AI-voiced speech with ElevenLabs",
+    "issue_date": "2026-10-15",
+    "cluster_id": "elevenlabs_io_37927ddf",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_fbd8d9853659765b",
+    "canonical_url": "https://stratechery.com/2026/apple-homeview-the-new-apple-tv-the-app-story",
+    "dedupe_key": "941d9aeaa26dc68e",
+    "title": "Apple HomeView, The New Apple TV, The App Story",
+    "issue_date": "2026-10-15",
+    "cluster_id": "stratechery_com_6247226a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0ef0e9f7e356a864",
+    "canonical_url": "https://stratechery.com/2026/spacex-buys-more-spectrum-musk-and-market-structure-distributed-cellular",
+    "dedupe_key": "b6f2338f8d869647",
+    "title": "SpaceX Buys More Spectrum, Musk and Market Structure, Distributed Cellular",
+    "issue_date": "2026-10-15",
+    "cluster_id": "stratechery_com_14869066",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
