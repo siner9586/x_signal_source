@@ -24706,5 +24706,225 @@
     "cluster_id": "stratechery_com_f0c9cb01",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d778ebaa19bbd575",
+    "canonical_url": "https://vercel.com/changelog/gemini-4-argon-now-available-on-ai-gateway",
+    "dedupe_key": "5d9dcff9402db2da",
+    "title": "Gemini 4 Argon now available on AI Gateway",
+    "issue_date": "2026-10-14",
+    "cluster_id": "vercel_com_f67ad17d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_05db41c6759531b8",
+    "canonical_url": "https://developer.nvidia.com/blog/rewrite-apache-spark-udfs-gpu-acceleration-ai-agents",
+    "dedupe_key": "38f434bfe75a9b45",
+    "title": "How to Rewrite Apache Spark UDFs for GPU Acceleration with AI Agents",
+    "issue_date": "2026-10-14",
+    "cluster_id": "developer_nvidia_com_88a1090b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6eda2112af8fdd3d",
+    "canonical_url": "https://openai.com/index/higgsfield-longer-videos-voice",
+    "dedupe_key": "1044b6c762390cd3",
+    "title": "Higgsfield takes AI video from 1 minute to over 10",
+    "issue_date": "2026-10-14",
+    "cluster_id": "openai_com_222372e1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_36b2dd238d7bbb7d",
+    "canonical_url": "https://www.langchain.com/blog/improving-deep-agents-with-harness-engineering",
+    "dedupe_key": "b24dc17ffab28acd",
+    "title": "Improving Deep Agents with harness engineering",
+    "issue_date": "2026-10-14",
+    "cluster_id": "langchain_com_b1eedae6",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9ae439cd5a0fea27",
+    "canonical_url": "https://www.langchain.com/blog/building-long-running-agents-with-scaledown-and-deep-agents",
+    "dedupe_key": "b1efdddbca8f8948",
+    "title": "Building Long-Running Agents with ScaleDown and Deep Agents",
+    "issue_date": "2026-10-14",
+    "cluster_id": "langchain_com_945f03a4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_29ef0fb2a8854657",
+    "canonical_url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
+    "dedupe_key": "4553d930ceb3acbd",
+    "title": "Developing Gemini 4 Argon responsibly and safely",
+    "issue_date": "2026-10-14",
+    "cluster_id": "deepmind_google_71fc3954",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5292eab737b27b96",
+    "canonical_url": "https://deepmind.google/blog/gemini-4-argon-for-robotics",
+    "dedupe_key": "48bbd2f56be0a85a",
+    "title": "Gemini 4 Argon for Robotics",
+    "issue_date": "2026-10-14",
+    "cluster_id": "deepmind_google_18470ad7",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d881e652a8b9ec29",
+    "canonical_url": "https://deepmind.google/blog/introducing-gemini-4-argon",
+    "dedupe_key": "59526bb97c554143",
+    "title": "Gemini 4 Argon: Built to solve your hardest problems",
+    "issue_date": "2026-10-14",
+    "cluster_id": "deepmind_google_92a0edfc",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1410aa6f89a3af92",
+    "canonical_url": "https://developer.nvidia.com/blog/nvidia-runai-is-now-open-source-as-part-of-nvidia-dsx-ai-factory-platform",
+    "dedupe_key": "8b7aa5e50aa3c5cf",
+    "title": "NVIDIA Run:ai Is Now Open Source as Part of NVIDIA DSX AI Factory Platform",
+    "issue_date": "2026-10-14",
+    "cluster_id": "developer_nvidia_com_d754586e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3b46d586791183ea",
+    "canonical_url": "https://www.langchain.com/blog/how-orange-business-built-live-intelligence-on-langchain-and-langsmith",
+    "dedupe_key": "6cc19c8ac4431829",
+    "title": "How Orange Business Built Live Intelligence with LangChain and LangSmith",
+    "issue_date": "2026-10-14",
+    "cluster_id": "langchain_com_b673bf89",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0a52c118f212fd97",
+    "canonical_url": "https://www.langchain.com/blog/our-docs-test-themselves",
+    "dedupe_key": "5349e182a1966dba",
+    "title": "How We Made Our Docs Test Themselves",
+    "issue_date": "2026-10-14",
+    "cluster_id": "langchain_com_6b721d1e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_eb3c9a12c0c1d33e",
+    "canonical_url": "https://vercel.com/changelog/mai-image-2-6-and-mai-image-2-6-flash-now-available-on-ai-gateway",
+    "dedupe_key": "dd67849142e25e8b",
+    "title": "MAI-Image-2.6 and MAI-Image-2.6-Flash now available on AI Gateway",
+    "issue_date": "2026-10-14",
+    "cluster_id": "vercel_com_9b47fda1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d7c7e16343b5f76b",
+    "canonical_url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+    "dedupe_key": "9c5aecf649065e77",
+    "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+    "issue_date": "2026-10-14",
+    "cluster_id": "huggingface_co_ec1d3b5f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_536a67752c33f384",
+    "canonical_url": "https://www.langchain.com/blog/deep-agents-deploy-an-open-alternative-to-claude-managed-agents",
+    "dedupe_key": "a9f8d1cc148df28c",
+    "title": "Deep Agents Deploy: an open alternative to Claude Managed Agents",
+    "issue_date": "2026-10-14",
+    "cluster_id": "langchain_com_e25b728d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_35543e124dc5ec70",
+    "canonical_url": "https://www.langchain.com/blog/agent-traces-ai-search-langsmith",
+    "dedupe_key": "93b3df5a7a51c724",
+    "title": "Search agent traces by behavior with AI Search in LangSmith",
+    "issue_date": "2026-10-14",
+    "cluster_id": "langchain_com_62b10d6b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e6d19dd3b0f288fd",
+    "canonical_url": "https://www.langchain.com/blog/open-models-have-crossed-a-threshold",
+    "dedupe_key": "574ec0abe535e48f",
+    "title": "Open Models have crossed a threshold",
+    "issue_date": "2026-10-14",
+    "cluster_id": "langchain_com_c9937aec",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1f2c1876293000d1",
+    "canonical_url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models",
+    "dedupe_key": "3d47746336f62dfa",
+    "title": "AI labs are buying data from dead startups to train their models",
+    "issue_date": "2026-10-14",
+    "cluster_id": "technologyreview_com_366ebded",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0a9fa75fc764d4cb",
+    "canonical_url": "https://vercel.com/changelog/drama-3-now-available-on-ai-gateway",
+    "dedupe_key": "0a73b2a6b158ed74",
+    "title": "Drama 3 now available on AI Gateway",
+    "issue_date": "2026-10-14",
+    "cluster_id": "vercel_com_aeec0e61",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8d8682cd53e993e8",
+    "canonical_url": "https://vercel.com/changelog/repository-checkout-and-git-lfs-downloads-are-now-faster",
+    "dedupe_key": "5604dc67fc99cc62",
+    "title": "Repository checkout and Git LFS downloads are now faster",
+    "issue_date": "2026-10-14",
+    "cluster_id": "vercel_com_9cd36dd4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c1a8adbcdacdfc08",
+    "canonical_url": "https://www.lennysnewsletter.com/p/how-to-tell-if-a-startup-has-a-moat",
+    "dedupe_key": "f3bcd7327596989f",
+    "title": "How to tell if a startup has a moat",
+    "issue_date": "2026-10-14",
+    "cluster_id": "lennysnewsletter_com_34f15207",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5b8df8bd4a009d82",
+    "canonical_url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks",
+    "dedupe_key": "b2de52e20d0f4f02",
+    "title": "Open models have real benefits. Do they outweigh the risks?",
+    "issue_date": "2026-10-14",
+    "cluster_id": "technologyreview_com_47b5a113",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_52e84a03f617cbd6",
+    "canonical_url": "https://elevenlabs.io/blog/how-to-transcribe-an-interview",
+    "dedupe_key": "cc5a2833bcf4c200",
+    "title": "How to transcribe an interview: Accurate, speaker-labeled transcripts",
+    "issue_date": "2026-10-14",
+    "cluster_id": "elevenlabs_io_2b0923f3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
