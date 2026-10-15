@@ -25146,5 +25146,265 @@
     "cluster_id": "stratechery_com_14869066",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_fafb30eba968bb59",
+    "canonical_url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning",
+    "dedupe_key": "3804387c527fc825",
+    "title": "NVIDIA Nemotron 3.5 Super VL Powers Specialized Agents with Multimodal Reasoning",
+    "issue_date": "2026-10-16",
+    "cluster_id": "developer_nvidia_com_9d194324",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b5e50fbea59fe176",
+    "canonical_url": "https://developer.nvidia.com/blog/scale-agentic-coding-workflows-with-metas-muse-spark-open-on-nvidia-gb300-nvl72",
+    "dedupe_key": "ea3bb603234df74c",
+    "title": "Scale Agentic Coding Workflows with Meta’s Muse Spark Open on NVIDIA GB300 NVL72",
+    "issue_date": "2026-10-16",
+    "cluster_id": "developer_nvidia_com_7621ea70",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_58bdd02a16ad20e1",
+    "canonical_url": "https://vercel.com/changelog/muse-spark-open-now-available-on-ai-gateway",
+    "dedupe_key": "1ced5cdccf5134f3",
+    "title": "Muse Spark Open now available on AI Gateway",
+    "issue_date": "2026-10-16",
+    "cluster_id": "vercel_com_d327bc4f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_286dcb9082228c90",
+    "canonical_url": "https://vercel.com/changelog/cat-jam-is-now-available-in-stealth-for-free-on-ai-gateway",
+    "dedupe_key": "2432ea18fc810c8c",
+    "title": "Cat Jam is now available in stealth for free on AI Gateway",
+    "issue_date": "2026-10-16",
+    "cluster_id": "vercel_com_caf61d79",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_71988b56f741207f",
+    "canonical_url": "https://vercel.com/changelog/python-on-vercel-is-now-generally-available",
+    "dedupe_key": "fb72741f9f11fd32",
+    "title": "Python on Vercel is now generally available",
+    "issue_date": "2026-10-16",
+    "cluster_id": "vercel_com_dfcf31e2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3b858180c887056b",
+    "canonical_url": "https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence",
+    "dedupe_key": "64a8a5cbc9dbf717",
+    "title": "The next developer interface is ambient intelligence",
+    "issue_date": "2026-10-16",
+    "cluster_id": "github_blog_89188c16",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c53c914c4a9937d8",
+    "canonical_url": "https://vercel.com/changelog/introducing-token-pass",
+    "dedupe_key": "859a4b72866e35ef",
+    "title": "Introducing Token Pass",
+    "issue_date": "2026-10-16",
+    "cluster_id": "vercel_com_d3758ecf",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b817aaf21a197410",
+    "canonical_url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+    "dedupe_key": "df125118dd103634",
+    "title": "Bringing GPT-Rosalind to academic research labs",
+    "issue_date": "2026-10-16",
+    "cluster_id": "openai_com_75a967f3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_401a245189c34274",
+    "canonical_url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+    "dedupe_key": "cadbdde8460fe1b7",
+    "title": "Teaching students to think and learn through questions",
+    "issue_date": "2026-10-16",
+    "cluster_id": "openai_com_18693d3c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e44bd4b3ec54d795",
+    "canonical_url": "https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org",
+    "dedupe_key": "5de1b4492c48bddf",
+    "title": "Staying Evergreen: How we automated secure access and repo hygiene in a shared org",
+    "issue_date": "2026-10-16",
+    "cluster_id": "github_blog_1938e099",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5ad0a0525afa927b",
+    "canonical_url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery",
+    "dedupe_key": "025f7d6165d33a33",
+    "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+    "issue_date": "2026-10-16",
+    "cluster_id": "deepmind_google_cf2c6c88",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_08fd938e5bb678af",
+    "canonical_url": "https://vercel.com/blog/backends-on-vercel-python-containers-and-daemons",
+    "dedupe_key": "4b2c7a516b3537ab",
+    "title": "15 October General Backends on Vercel: Python, containers, and Daemons Vercel now supports more backend workloads, from Python APIs and custom runtimes to background workers. Steren, Yury Selivanov",
+    "issue_date": "2026-10-16",
+    "cluster_id": "vercel_com_7d50a240",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_403946da582a5cef",
+    "canonical_url": "https://vercel.com/blog/introducing-vercel-drives-persistent-storage-for-agents",
+    "dedupe_key": "749ecee858e8c532",
+    "title": "Introducing Vercel Drives: persistent storage for agents",
+    "issue_date": "2026-10-16",
+    "cluster_id": "vercel_com_1e7edf6f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8bf4580cbae9f982",
+    "canonical_url": "https://vercel.com/changelog/vercel-daemons-is-now-in-public-beta",
+    "dedupe_key": "2a73e460ef8d9ee2",
+    "title": "Vercel Daemons is now in public beta",
+    "issue_date": "2026-10-16",
+    "cluster_id": "vercel_com_5a25a34e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7fed38020b0ed73b",
+    "canonical_url": "https://vercel.com/changelog/vercel-drives-is-now-generally-available",
+    "dedupe_key": "57941572a8691d07",
+    "title": "Vercel Drives is now generally available",
+    "issue_date": "2026-10-16",
+    "cluster_id": "vercel_com_05fe528b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_99d6deab73fdc7c3",
+    "canonical_url": "https://vercel.com/changelog/vercel-connect-adds-enterprise-managed-authorization",
+    "dedupe_key": "e1d9284022af1177",
+    "title": "Vercel Connect adds Enterprise-Managed Authorization",
+    "issue_date": "2026-10-16",
+    "cluster_id": "vercel_com_38c22b3f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_65b1df834de4dc7f",
+    "canonical_url": "https://vercel.com/changelog/mcp-events-support-in-vercel-connect-is-now-in-public-beta",
+    "dedupe_key": "8d0adc964a04dbaf",
+    "title": "MCP Events support in Vercel Connect is now in public beta",
+    "issue_date": "2026-10-16",
+    "cluster_id": "vercel_com_9229d3f1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5d90858566f525fd",
+    "canonical_url": "https://www.langchain.com/blog/common-questions-about-agent-evals",
+    "dedupe_key": "311f7e70b98fab52",
+    "title": "The Most Common Questions About Agent Evals, Answered",
+    "issue_date": "2026-10-16",
+    "cluster_id": "langchain_com_1cefd582",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f70f836857b62caa",
+    "canonical_url": "https://vercel.com/blog/ai-gateway-production-index-october-2026",
+    "dedupe_key": "e734245acbb9effb",
+    "title": "Open weight takes 71.5% of tokens and 23% of spend",
+    "issue_date": "2026-10-16",
+    "cluster_id": "vercel_com_30142dbc",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2bcf89fd51e35a2f",
+    "canonical_url": "https://vercel.com/changelog/liquid-ais-d1-ultra-now-available-on-ai-gateway",
+    "dedupe_key": "b2c9891ce3278bce",
+    "title": "Liquid AI's d1-ultra now available on AI Gateway",
+    "issue_date": "2026-10-16",
+    "cluster_id": "vercel_com_cb7272a5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a073c4984c11c1a0",
+    "canonical_url": "https://www.langchain.com/blog/october-2026-langchain-newsletter",
+    "dedupe_key": "dea967386b1be95c",
+    "title": "October 2026 LangChain Newsletter: Everything we shipped at Interrupt NYC & London",
+    "issue_date": "2026-10-16",
+    "cluster_id": "langchain_com_e58ee99e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f884bf6326148eaa",
+    "canonical_url": "https://vercel.com/blog/vercel-for-enterprise",
+    "dedupe_key": "7f54484127f9451e",
+    "title": "Vercel for Enterprise",
+    "issue_date": "2026-10-16",
+    "cluster_id": "vercel_com_8cda1bcd",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8bc52979d1d43467",
+    "canonical_url": "https://vercel.com/changelog/vercel-connect-secure-compute",
+    "dedupe_key": "c091e51d95f45c4f",
+    "title": "Vercel Connect now supports Secure Compute",
+    "issue_date": "2026-10-16",
+    "cluster_id": "vercel_com_00b8aaea",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_503b038397e219ac",
+    "canonical_url": "https://vercel.com/changelog/bring-your-own-cloud-on-aws-is-now-generally-available",
+    "dedupe_key": "c3869005bbb3e474",
+    "title": "Bring Your Own Cloud on AWS is now generally available",
+    "issue_date": "2026-10-16",
+    "cluster_id": "vercel_com_16ad27d2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ea1d94ff54a31a44",
+    "canonical_url": "https://vercel.com/changelog/typesafe-ais-jev-1-14-is-now-available-on-ai-gateway",
+    "dedupe_key": "ce8582afb0f43901",
+    "title": "TypeSafe AI's Jev 1.14 is now available on AI Gateway",
+    "issue_date": "2026-10-16",
+    "cluster_id": "vercel_com_a0762d95",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_64842188b69a8bc6",
+    "canonical_url": "https://huggingface.co/blog/meta-muse-spark-open",
+    "dedupe_key": "6e8f5eacf7e259fc",
+    "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+    "issue_date": "2026-10-16",
+    "cluster_id": "huggingface_co_fb6e6c4e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]

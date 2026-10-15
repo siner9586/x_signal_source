@@ -1,53 +1,8 @@
 [
   {
-    "title": "Amp puts AI agents to work beyond code with OpenAI models",
-    "url": "https://openai.com/index/amp-beyond-coding",
-    "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-10-15",
-    "score": 72
-  },
-  {
-    "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-    "url": "https://openai.com/index/third-moment-research",
-    "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-10-15",
-    "score": 70
-  },
-  {
-    "title": "The EU’s next chapter in AI is agentic",
-    "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-    "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-10-15",
-    "score": 70
-  },
-  {
-    "title": "Optimizing Agent Reliability and Tool Calling Efficiency for Chip Design Using NVIDIA NeMo Gym",
-    "url": "https://developer.nvidia.com/blog/optimizing-agent-reliability-and-tool-calling-efficiency-for-chip-design-using-nvidia-nemo-gym",
-    "summary": "NVIDIA Technical Blog · Optimizing Agent Reliability and Tool Calling Efficiency for Chip Design Using NVIDIA NeMo Gym",
+    "title": "NVIDIA Nemotron 3.5 Super VL Powers Specialized Agents with Multimodal Reasoning",
+    "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning",
+    "summary": "NVIDIA Technical Blog · NVIDIA Nemotron 3.5 Super VL Powers Specialized Agents with Multimodal Reasoning",
     "tags": [
       "gpu",
       "inference",
@@ -55,13 +10,27 @@
     ],
     "author": "NVIDIA AI",
     "source": "developer.nvidia.com",
-    "date": "2026-10-15",
-    "score": 69
+    "date": "2026-10-16",
+    "score": 72
   },
   {
-    "title": "Findings from the $1M Vercel Sandbox challenge",
-    "url": "https://vercel.com/blog/findings-from-the-1-million-dollar-vercel-sandbox-challenge",
-    "summary": "In August, we launched the $1M hacker challenge for Vercel Sandbox , inviting security researchers to try and escape Vercel Sandbox. We also coordinated with cybersecurity experts Trail of Bits to review the source code and security architecture. Here is a summary of the challenge: 1,285 reports over two weeks $242,000 in bounties paid out One Linux kernel zeroday vulnerability uncovered No reports showed anyone accessing customer data in Vercel Sandbox. The most severe findi",
+    "title": "Scale Agentic Coding Workflows with Meta’s Muse Spark Open on NVIDIA GB300 NVL72",
+    "url": "https://developer.nvidia.com/blog/scale-agentic-coding-workflows-with-metas-muse-spark-open-on-nvidia-gb300-nvl72",
+    "summary": "NVIDIA Technical Blog · Scale Agentic Coding Workflows with Meta’s Muse Spark Open on NVIDIA GB300 NVL72",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-10-16",
+    "score": 72
+  },
+  {
+    "title": "Muse Spark Open now available on AI Gateway",
+    "url": "https://vercel.com/changelog/muse-spark-open-now-available-on-ai-gateway",
+    "summary": "Muse Spark Open from Meta is now available on AI Gateway. The open-weight reasoning model is designed for coding and agentic workflows, including multi-file refactoring, debugging, and understanding large codebases. Muse Spark Open supports text and image input with a 1M-token context window, allowing agents to work with code and screenshots in the same request. It is available with ZDR and no training, without creating separate provider accounts. Use meta/muse-spark-open as ",
     "tags": [
       "sdk",
       "ai_infra",
@@ -69,13 +38,111 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-10-15",
+    "date": "2026-10-16",
+    "score": 71
+  },
+  {
+    "title": "Cat Jam is now available in stealth for free on AI Gateway",
+    "url": "https://vercel.com/changelog/cat-jam-is-now-available-in-stealth-for-free-on-ai-gateway",
+    "summary": "Cat Jam is now available on AI Gateway as a stealth model, free to use during the stealth period. Cat Jam is a reasoning model for coding and agentic tasks, with low-latency inference. It supports function calling , so agents can connect it to your own tools, and structured outputs that follow a JSON schema you supply. Responses include the model's reasoning text alongside the answer. Cat Jam takes text input only. Cat Jam supports low , medium , high , xhigh , and max reason",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-10-16",
+    "score": 71
+  },
+  {
+    "title": "Python on Vercel is now generally available",
+    "url": "https://vercel.com/changelog/python-on-vercel-is-now-generally-available",
+    "summary": "Python is now a first-class language and runtime on Vercel. Build APIs, full-stack applications, and AI agents with native Python SDKs and a shared development and deployment workflow for your Python backend and JavaScript frontend. Python framework and runtime support Vercel handles the infrastructure so you can focus on your application: Automatic framework support: FastAPI, Flask, and Django applications are automatically recognized and configured, with framework-specific ",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-10-16",
+    "score": 71
+  },
+  {
+    "title": "The next developer interface is ambient intelligence",
+    "url": "https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence",
+    "summary": "AI, agents, voice, and physical controls are shifting software development from operating tools to expressing intent—and helping developers stay focused on building. The post The next developer interface is ambient intelligence appeared first on The GitHub Blog .",
+    "tags": [
+      "ai_coding",
+      "developer_tools"
+    ],
+    "author": "GitHub Copilot",
+    "source": "github.blog",
+    "date": "2026-10-16",
+    "score": 70
+  },
+  {
+    "title": "Introducing Token Pass",
+    "url": "https://vercel.com/changelog/introducing-token-pass",
+    "summary": "Vercel Token Pass is now in early access for Pro teams. For $30 per month, your team gets $80 in monthly credit for GLM 5.3 and Kimi K3, with more models to come. Use Token Pass with coding agents such as fx, Command Code, and Pi, or build your own personal agent with the AI SDK. Token Pass runs through AI Gateway , so you can choose your tools and switch between included models using your team’s shared credit. Token Pass has Zero Data Retention (ZDR) enabled by default. Requ",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-10-16",
     "score": 69
   },
   {
-    "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-    "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
-    "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+    "title": "Bringing GPT-Rosalind to academic research labs",
+    "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+    "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-10-16",
+    "score": 67
+  },
+  {
+    "title": "Teaching students to think and learn through questions",
+    "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+    "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-10-16",
+    "score": 67
+  },
+  {
+    "title": "Staying Evergreen: How we automated secure access and repo hygiene in a shared org",
+    "url": "https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org",
+    "summary": "Put native GitHub features to work to review outside collaborator access and archive stale repositories. The post Staying Evergreen: How we automated secure access and repo hygiene in a shared org appeared first on The GitHub Blog .",
+    "tags": [
+      "ai_coding",
+      "developer_tools"
+    ],
+    "author": "GitHub Copilot",
+    "source": "github.blog",
+    "date": "2026-10-16",
+    "score": 67
+  },
+  {
+    "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+    "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery",
+    "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
     "tags": [
       "research",
       "multimodal",
@@ -84,13 +151,13 @@
     ],
     "author": "Google DeepMind",
     "source": "deepmind.google",
-    "date": "2026-10-15",
-    "score": 68
+    "date": "2026-10-16",
+    "score": 66
   },
   {
-    "title": "Nemotron 3.5 Lightning now available on AI Gateway for free",
-    "url": "https://vercel.com/changelog/nemotron-3-5-lightning-now-available-on-ai-gateway-for-free",
-    "summary": "Nemotron 3.5 Lightning from NVIDIA is now available for free on AI Gateway as nvidia/nemotron-3.5-lightning-free , served by NVIDIA. Nemotron 3.5 Lightning is an open-weight reasoning and chat model for long-running agents, sub-agent work, chatbots, and RAG systems. The model has 30B parameters with 3B active per token, in a hybrid Mixture-of-Experts design that interleaves Mamba-2 and MoE layers with a few attention layers. It has a 1M token context window and supports tool ",
+    "title": "15 October General Backends on Vercel: Python, containers, and Daemons Vercel now supports more backend workloads, from Python APIs and custom runtimes to background workers. Steren, Yury Selivanov",
+    "url": "https://vercel.com/blog/backends-on-vercel-python-containers-and-daemons",
+    "summary": "Blog - Vercel · 15 October General Backends on Vercel: Python, containers, and Daemons Vercel now supports more backend workloads, from Python APIs and custom runtimes to background workers. Steren, Yury Selivanov",
     "tags": [
       "sdk",
       "ai_infra",
@@ -98,70 +165,83 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-10-15",
-    "score": 68
+    "date": "2026-10-16",
+    "score": 66
   },
   {
-    "title": "SentinelOne cuts malware analysis from weeks to hours",
-    "url": "https://openai.com/index/sentinelone",
-    "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+    "title": "Introducing Vercel Drives: persistent storage for agents",
+    "url": "https://vercel.com/blog/introducing-vercel-drives-persistent-storage-for-agents",
+    "summary": "Agents often handle complex work that continues across runs. As that work evolves, they may need a new environment with different tools, runtimes, or compute. They should be able to continue working with the same files when they change environments. We built Vercel Drives to keep an agent’s files independent of its execution environment. It is now generally available for Vercel Sandbox . Agents can mount the same drive in a new environment configured for the next task and con",
     "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
+      "sdk",
+      "ai_infra",
+      "frontend"
     ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-10-15",
-    "score": 67
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-10-16",
+    "score": 66
   },
   {
-    "title": "How Block is building AI-powered security with OpenAI technology",
-    "url": "https://openai.com/index/block-ai-powered-security",
-    "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+    "title": "Vercel Daemons is now in public beta",
+    "url": "https://vercel.com/changelog/vercel-daemons-is-now-in-public-beta",
+    "summary": "Vercel Daemons is now in public beta, allowing you to run long-running processes that pull and execute work from Vercel Queues , databases, or third-party systems without requiring an HTTP server: Consumers using Vercel Queues poll mode , Celery, BullMQ, RabbitMQ, or Kafka. Temporal or Cadence workers that long-poll their task queues. Self-hosted CI runners for GitHub Actions, GitLab, or CircleCI that poll for jobs without requiring inbound connections. Daemons run containers",
     "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
+      "sdk",
+      "ai_infra",
+      "frontend"
     ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-10-15",
-    "score": 67
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-10-16",
+    "score": 66
   },
   {
-    "title": "GitHub availability report: September 2026",
-    "url": "https://github.blog/news-insights/company-news/github-availability-report-september-2026",
-    "summary": "In September, we experienced two incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: September 2026 appeared first on The GitHub Blog .",
+    "title": "Vercel Drives is now generally available",
+    "url": "https://vercel.com/changelog/vercel-drives-is-now-generally-available",
+    "summary": "Vercel Drives is now generally available for Vercel Sandbox on Hobby, Pro, and Enterprise. A Drive is persistent storage that you mount as a directory in a Vercel Sandbox. Its files remain available after the sandbox stops, so later runs and other sandboxes can access them by mounting the same Drive. Use Drives to preserve an agent’s workspace or file-based memory across runs, or to make datasets, models, dependencies, and build artifacts available across sandboxes. You can a",
     "tags": [
-      "ai_coding",
-      "developer_tools"
+      "sdk",
+      "ai_infra",
+      "frontend"
     ],
-    "author": "GitHub Copilot",
-    "source": "github.blog",
-    "date": "2026-10-15",
-    "score": 67
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-10-16",
+    "score": 66
   },
   {
-    "title": "Meta’s new ‘Muse Wonder’ model: good for AI agents, bad for design",
-    "url": "https://www.lennysnewsletter.com/p/metas-new-muse-wonder-model-good",
-    "summary": "Watch now (24 mins) | &#127897;&#65039;Meta launched Muse Wonder with claims of frontier agentic performance, so I ran it headlessly through Claude Code against nearly 20 tasks to find out if any of it is true",
+    "title": "Vercel Connect adds Enterprise-Managed Authorization",
+    "url": "https://vercel.com/changelog/vercel-connect-adds-enterprise-managed-authorization",
+    "summary": "Vercel Connect now supports Enterprise-Managed Authorization (EMA) in public beta. Your apps and agents can access supported services on behalf of signed-in users without separate consent prompts for each service. Here's how access works: Admin-managed access: Administrators can grant or revoke access to supported services through the identity provider. Corporate sign-in: Users sign into your app with their corporate account through a compatible identity provider such as Okta",
     "tags": [
-      "product",
-      "growth",
-      "startup"
+      "sdk",
+      "ai_infra",
+      "frontend"
     ],
-    "author": "Lenny's Newsletter",
-    "source": "lennysnewsletter.com",
-    "date": "2026-10-15",
-    "score": 67
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-10-16",
+    "score": 66
   },
   {
-    "title": "Context Engineering with Deep Agents: How To Remember Without Keeping Everything In Context",
-    "url": "https://www.langchain.com/blog/context-engineering-deep-agents-remember",
-    "summary": "Long-running agents degrade as context piles up. Learn how offloading, summarization, skills, subagents, and memory keep your agent's context window focused.",
+    "title": "MCP Events support in Vercel Connect is now in public beta",
+    "url": "https://vercel.com/changelog/mcp-events-support-in-vercel-connect-is-now-in-public-beta",
+    "summary": "Vercel Connect now supports MCP Events in public beta, allowing your apps and agents to subscribe to webhook events from compatible MCP servers. Build agents for tasks like summarizing new messages, reviewing newly created issues, or responding to document feedback. Connect creates subscriptions on the MCP server and renews them automatically as needed, verifying the server’s webhooks and forwarding events to your application using authenticated delivery. You can use the Conn",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-10-16",
+    "score": 66
+  },
+  {
+    "title": "The Most Common Questions About Agent Evals, Answered",
+    "url": "https://www.langchain.com/blog/common-questions-about-agent-evals",
+    "summary": "Where to start with agent evals, offline vs online evals, evaluator types, LLM judges, benchmarks with Harbor, multi-turn evals, and keeping costs down.",
     "tags": [
       "agents",
       "rag",
@@ -169,13 +249,13 @@
     ],
     "author": "LangChain",
     "source": "langchain.com",
-    "date": "2026-10-15",
-    "score": 64
+    "date": "2026-10-16",
+    "score": 66
   },
   {
-    "title": "Amazon S3 joins the Vercel Marketplace",
-    "url": "https://vercel.com/changelog/amazon-s3-joins-the-vercel-marketplace",
-    "summary": "You can now create and connect Amazon S3 resources through the Vercel Marketplace without leaving your Vercel project dashboard. The Amazon S3 Marketplace integration automatically adds connection details as environment variables and lets you manage resources alongside your application infrastructure, with links to AWS for deeper configuration. Authentication uses short-lived OIDC credentials without storing static AWS keys. Amazon S3 is also available in v0 , which provision",
+    "title": "Open weight takes 71.5% of tokens and 23% of spend",
+    "url": "https://vercel.com/blog/ai-gateway-production-index-october-2026",
+    "summary": "AI Gateway Production Index — October 2026 Every month, AI Gateway routes tens of trillions of tokens between production applications and AI labs. That traffic gives us a view of what AI usage actually looks like in today's enterprise, and we publish it here monthly. See the Production Index reports from July , August , and September . October 2026 summary Open-weight models now process more than seven in ten gateway tokens and account for nearly one in four dollars. Their sh",
     "tags": [
       "sdk",
       "ai_infra",
@@ -183,41 +263,97 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-10-15",
+    "date": "2026-10-16",
+    "score": 65
+  },
+  {
+    "title": "Liquid AI's d1-ultra now available on AI Gateway",
+    "url": "https://vercel.com/changelog/liquid-ais-d1-ultra-now-available-on-ai-gateway",
+    "summary": "d1-ultra from Liquid AI is now available on AI Gateway. It is a multimodal decision model for classification, routing, and scoring across text and images, including visual defect inspection and checking damage claims against customer photos. Rather than generating text, d1-ultra returns structured answers with probabilities. Ask a Boolean question to get the probability of a yes/no answer, use Choice to select among named categories, or use Score to rate an ordered scale. You",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-10-16",
+    "score": 65
+  },
+  {
+    "title": "October 2026 LangChain Newsletter: Everything we shipped at Interrupt NYC & London",
+    "url": "https://www.langchain.com/blog/october-2026-langchain-newsletter",
+    "summary": "What we shipped at Interrupt NYC and London: LangSmith AI Search, Engine v2, Trajectories, Custom Apps, Fine-Tuning, and Managed Deep Agents v0.9.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-10-16",
+    "score": 65
+  },
+  {
+    "title": "Vercel for Enterprise",
+    "url": "https://vercel.com/blog/vercel-for-enterprise",
+    "summary": "AI adoption in the enterprise is growing rapidly, and expanding beyond engineering users. In the last three months, token usage by enterprise companies on AI Gateway has quadrupled, and OpenAI recently reported that from August 2025 to June 2026, non-developer Codex users grew 189x. Our customers call these builders citizen developers. They know their part of the business better than anyone else, and with AI they can create the software they need to ship work faster and deliv",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-10-16",
     "score": 63
   },
   {
-    "title": "Oct 14, 2026 Policy Preparing for the 2026 US midterms",
-    "url": "https://www.anthropic.com/news/2026-us-midterms",
-    "summary": "Newsroom \\ Anthropic · Oct 14, 2026 Policy Preparing for the 2026 US midterms",
+    "title": "Vercel Connect now supports Secure Compute",
+    "url": "https://vercel.com/changelog/vercel-connect-secure-compute",
+    "summary": "Vercel Connect now supports Secure Compute , allowing connectors to reach providers with IP allowlists, such as Salesforce and Snowflake. With Secure Compute routing enabled, Connect’s provider requests use the selected network’s dedicated static IP addresses instead of Connect’s shared IPs. Requests to obtain and refresh access tokens follow that route; your app’s direct API routing is unchanged by this setting. Credential management stays the same, so you don’t need to stor",
     "tags": [
-      "ai_models",
-      "safety",
-      "official"
+      "sdk",
+      "ai_infra",
+      "frontend"
     ],
-    "author": "Anthropic",
-    "source": "anthropic.com",
-    "date": "2026-10-15",
-    "score": 62
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-10-16",
+    "score": 63
   },
   {
-    "title": "Oct 14, 2026 Announcements Anthropic opens Singapore office and signs MOU with the Government of Singapore",
-    "url": "https://www.anthropic.com/news/singapore-office-opening",
-    "summary": "Newsroom \\ Anthropic · Oct 14, 2026 Announcements Anthropic opens Singapore office and signs MOU with the Government of Singapore",
+    "title": "Bring Your Own Cloud on AWS is now generally available",
+    "url": "https://vercel.com/changelog/bring-your-own-cloud-on-aws-is-now-generally-available",
+    "summary": "Enterprise teams can now run Vercel Functions in their own AWS account with Bring Your Own Cloud (BYOC). With BYOC, your function code and execution stay inside your security and compliance boundary. Vercel continues to handle deployments, environments, routing, and static assets. During deployment, you provision functions in your AWS account and Vercel serves everything else. You keep control over function execution with your own IAM permissions, network access, and resource",
     "tags": [
-      "ai_models",
-      "safety",
-      "official"
+      "sdk",
+      "ai_infra",
+      "frontend"
     ],
-    "author": "Anthropic",
-    "source": "anthropic.com",
-    "date": "2026-10-15",
-    "score": 62
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-10-16",
+    "score": 63
   },
   {
-    "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-    "url": "https://huggingface.co/blog/allenai/hiro-acev2",
-    "summary": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "TypeSafe AI's Jev 1.14 is now available on AI Gateway",
+    "url": "https://vercel.com/changelog/typesafe-ais-jev-1-14-is-now-available-on-ai-gateway",
+    "summary": "Jev 1.14 from TypeSafe AI is now available on AI Gateway . Jev is a decision model for software. You pass it state and a set of questions, and it returns typed Choice, Score, and Boolean answers with probabilities instead of free-form text. It answers every question in one request, in parallel, for classification, routing, scoring, and automated verification. Jev 1.14 accepts images as part of the state, and has an experimental long-context mode for documents, logs, or conver",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-10-16",
+    "score": 63
+  },
+  {
+    "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+    "url": "https://huggingface.co/blog/meta-muse-spark-open",
+    "summary": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -225,88 +361,7 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-10-15",
-    "score": 62
-  },
-  {
-    "title": "Oct 14, 2026 Introducing Grok Voice 3.0",
-    "url": "https://x.ai/news/grok-voice-3",
-    "summary": "SpaceXSI · Oct 14, 2026 Introducing Grok Voice 3.0",
-    "tags": [
-      "ai_models",
-      "reasoning"
-    ],
-    "author": "xAI",
-    "source": "x.ai",
-    "date": "2026-10-15",
-    "score": 61
-  },
-  {
-    "title": "Mon, 12 Oct 2026",
-    "url": "https://arxiv.org/list/cs.AI/recent?skip=852&amp%3Bshow=50",
-    "summary": "Artificial Intelligence · Mon, 12 Oct 2026",
-    "tags": [
-      "paper",
-      "ai",
-      "arxiv"
-    ],
-    "author": "arXiv CS AI",
-    "source": "arxiv.org",
-    "date": "2026-10-15",
-    "score": 60
-  },
-  {
-    "title": "Audio deepfake detection: How it works & how to verify ElevenLabs audio",
-    "url": "https://elevenlabs.io/blog/audio-deepfake-detection-guide",
-    "summary": "Learn how audio deepfake detection works, how watermarking differs from statistical classifiers, and how to check whether audio came from ElevenLabs.",
-    "tags": [
-      "voice_ai",
-      "audio"
-    ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-10-15",
-    "score": 59
-  },
-  {
-    "title": "Baroness Campbell gives the UK Parliament’s first ever AI-voiced speech with ElevenLabs",
-    "url": "https://elevenlabs.io/blog/first-ever-ai-voiced-speech-uk-parliament",
-    "summary": "Baroness Campbell addressed the House of Lords in her own AI-recreated voice, a first for UK Parliament, built with ElevenLabs.",
-    "tags": [
-      "voice_ai",
-      "audio"
-    ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-10-15",
-    "score": 59
-  },
-  {
-    "title": "Apple HomeView, The New Apple TV, The App Story",
-    "url": "https://stratechery.com/2026/apple-homeview-the-new-apple-tv-the-app-story",
-    "summary": "The Apple Homeview is official, and the question is how big is the addressable market for expensive devices based on subpar AI.",
-    "tags": [
-      "strategy",
-      "tech",
-      "business"
-    ],
-    "author": "Stratechery",
-    "source": "stratechery.com",
-    "date": "2026-10-15",
-    "score": 59
-  },
-  {
-    "title": "SpaceX Buys More Spectrum, Musk and Market Structure, Distributed Cellular",
-    "url": "https://stratechery.com/2026/spacex-buys-more-spectrum-musk-and-market-structure-distributed-cellular",
-    "summary": "SpaceX's mobile strategy is becoming clearly with its latest spectrum purchase, and it might work.",
-    "tags": [
-      "strategy",
-      "tech",
-      "business"
-    ],
-    "author": "Stratechery",
-    "source": "stratechery.com",
-    "date": "2026-10-15",
-    "score": 56
+    "date": "2026-10-16",
+    "score": 63
   }
 ]

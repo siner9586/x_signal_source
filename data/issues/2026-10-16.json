@@ -1,0 +1,4427 @@
+{
+  "metadata": {
+    "issue_date": "2026-10-16",
+    "generated_at": "2026-10-15T23:33:13.755Z",
+    "timezone": "Asia/Shanghai",
+    "source_mode": "live_fetch_only",
+    "strict_new_only": true,
+    "sources_scanned": 118,
+    "fetch_jobs": 224,
+    "candidates_count": 1123,
+    "selected_count": 26,
+    "duplicates_blocked": 1089,
+    "stale_candidates_blocked": 0,
+    "fetch_failures": 80,
+    "no_new_content": false,
+    "initial_source_index": false
+  },
+  "summary": {
+    "one_liner": "本期由每日自动流水线生成：仅展示当日 live fetch 抓取、且未在历史期展示过的新内容。",
+    "trends": [
+      "AI Agent",
+      "AI Coding",
+      "AI Infra",
+      "Research",
+      "Startup / Investment"
+    ],
+    "watch_next": [
+      "公开 RSS / Atom / HTML 新条目",
+      "GitHub releases 与技术博客",
+      "人工维护 X Article / Thread seed list",
+      "播客长访谈中的一手判断"
+    ]
+  },
+  "must_read": [],
+  "worth_reading": [
+    {
+      "id": "cand_fafb30eba968bb59",
+      "canonical_url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning",
+      "source_url": "https://developer.nvidia.com/blog",
+      "source_fetch_url": "https://developer.nvidia.com/blog",
+      "source_platform": "web",
+      "source_domain": "developer.nvidia.com",
+      "source_name": "NVIDIA AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "NVIDIA Nemotron 3.5 Super VL Powers Specialized Agents with Multimodal Reasoning",
+      "subtitle": "",
+      "author": "NVIDIA AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "NVIDIA AI",
+      "language": "unknown",
+      "published_at": "",
+      "captured_at": "2026-10-15T23:32:57.586Z",
+      "captured_issue": "2026-10-16",
+      "summary": "NVIDIA Technical Blog · NVIDIA Nemotron 3.5 Super VL Powers Specialized Agents with Multimodal Reasoning",
+      "excerpt": "NVIDIA Technical Blog · NVIDIA Nemotron 3.5 Super VL Powers Specialized Agents with Multimodal Reasoning",
+      "raw_text_available": false,
+      "topics": [
+        "Multimodal"
+      ],
+      "tags": [
+        "gpu",
+        "inference",
+        "ai_infra"
+      ],
+      "entities": [
+        "NVIDIA AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning",
+        "https://developer.nvidia.com/blog",
+        "https://blogs.nvidia.com/blog/category/deep-learning",
+        "https://x.com/NVIDIAAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 38,
+      "trend_score": 93,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 72,
+      "rank": 17,
+      "cluster_id": "developer_nvidia_com_9d194324",
+      "dedupe_key": "3804387c527fc825",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：NVIDIA Nemotron 3.5 Super VL Powers Specialized Agents with Multimodal Reasoning 来自 NVIDIA AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-16",
+      "last_seen_issue": "2026-10-16",
+      "used_in_issue": "2026-10-16"
+    },
+    {
+      "id": "cand_b5e50fbea59fe176",
+      "canonical_url": "https://developer.nvidia.com/blog/scale-agentic-coding-workflows-with-metas-muse-spark-open-on-nvidia-gb300-nvl72",
+      "source_url": "https://developer.nvidia.com/blog",
+      "source_fetch_url": "https://developer.nvidia.com/blog",
+      "source_platform": "web",
+      "source_domain": "developer.nvidia.com",
+      "source_name": "NVIDIA AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Scale Agentic Coding Workflows with Meta’s Muse Spark Open on NVIDIA GB300 NVL72",
+      "subtitle": "",
+      "author": "NVIDIA AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "NVIDIA AI",
+      "language": "unknown",
+      "published_at": "",
+      "captured_at": "2026-10-15T23:32:57.586Z",
+      "captured_issue": "2026-10-16",
+      "summary": "NVIDIA Technical Blog · Scale Agentic Coding Workflows with Meta’s Muse Spark Open on NVIDIA GB300 NVL72",
+      "excerpt": "NVIDIA Technical Blog · Scale Agentic Coding Workflows with Meta’s Muse Spark Open on NVIDIA GB300 NVL72",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "gpu",
+        "inference",
+        "ai_infra"
+      ],
+      "entities": [
+        "NVIDIA AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://developer.nvidia.com/blog/scale-agentic-coding-workflows-with-metas-muse-spark-open-on-nvidia-gb300-nvl72",
+        "https://developer.nvidia.com/blog",
+        "https://blogs.nvidia.com/blog/category/deep-learning",
+        "https://x.com/NVIDIAAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 38,
+      "trend_score": 81,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 98,
+      "total_score": 72,
+      "rank": 18,
+      "cluster_id": "developer_nvidia_com_7621ea70",
+      "dedupe_key": "ea3bb603234df74c",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Scale Agentic Coding Workflows with Meta’s Muse Spark Open on NVIDIA GB300 NVL72 来自 NVIDIA AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-16",
+      "last_seen_issue": "2026-10-16",
+      "used_in_issue": "2026-10-16"
+    },
+    {
+      "id": "cand_58bdd02a16ad20e1",
+      "canonical_url": "https://vercel.com/changelog/muse-spark-open-now-available-on-ai-gateway",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Muse Spark Open now available on AI Gateway",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-10-15T00:00:00.000Z",
+      "captured_at": "2026-10-15T23:33:05.025Z",
+      "captured_issue": "2026-10-16",
+      "summary": "Muse Spark Open from Meta is now available on AI Gateway. The open-weight reasoning model is designed for coding and agentic workflows, including multi-file refactoring, debugging, and understanding large codebases. Muse Spark Open supports text and image input with a 1M-token context window, allowing agents to work with code and screenshots in the same request. It is available with ZDR and no training, without creating separate provider accounts. Use meta/muse-spark-open as ",
+      "excerpt": "Muse Spark Open from Meta is now available on AI Gateway. The open-weight reasoning model is designed for coding and agentic workflows, including multi-file refactoring, debugging, and understanding large codebases. Muse Spark Open supports text and image input with a 1M-token context window, allowing agents to work with code and screenshots in the same request. It is available with ZDR and no training, without creating separate provider accounts. Use meta/muse-spark-open as ",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/changelog/muse-spark-open-now-available-on-ai-gateway",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 93,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 98,
+      "total_score": 71,
+      "rank": 25,
+      "cluster_id": "vercel_com_d327bc4f",
+      "dedupe_key": "1ced5cdccf5134f3",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Muse Spark Open now available on AI Gateway 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-16",
+      "last_seen_issue": "2026-10-16",
+      "used_in_issue": "2026-10-16"
+    },
+    {
+      "id": "cand_286dcb9082228c90",
+      "canonical_url": "https://vercel.com/changelog/cat-jam-is-now-available-in-stealth-for-free-on-ai-gateway",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Cat Jam is now available in stealth for free on AI Gateway",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-10-15T00:00:00.000Z",
+      "captured_at": "2026-10-15T23:33:05.025Z",
+      "captured_issue": "2026-10-16",
+      "summary": "Cat Jam is now available on AI Gateway as a stealth model, free to use during the stealth period. Cat Jam is a reasoning model for coding and agentic tasks, with low-latency inference. It supports function calling , so agents can connect it to your own tools, and structured outputs that follow a JSON schema you supply. Responses include the model's reasoning text alongside the answer. Cat Jam takes text input only. Cat Jam supports low , medium , high , xhigh , and max reason",
+      "excerpt": "Cat Jam is now available on AI Gateway as a stealth model, free to use during the stealth period. Cat Jam is a reasoning model for coding and agentic tasks, with low-latency inference. It supports function calling , so agents can connect it to your own tools, and structured outputs that follow a JSON schema you supply. Responses include the model's reasoning text alongside the answer. Cat Jam takes text input only. Cat Jam supports low , medium , high , xhigh , and max reason",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/changelog/cat-jam-is-now-available-in-stealth-for-free-on-ai-gateway",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 93,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 98,
+      "total_score": 71,
+      "rank": 26,
+      "cluster_id": "vercel_com_caf61d79",
+      "dedupe_key": "2432ea18fc810c8c",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Cat Jam is now available in stealth for free on AI Gateway 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-16",
+      "last_seen_issue": "2026-10-16",
+      "used_in_issue": "2026-10-16"
+    },
+    {
+      "id": "cand_71988b56f741207f",
+      "canonical_url": "https://vercel.com/changelog/python-on-vercel-is-now-generally-available",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Python on Vercel is now generally available",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-10-15T00:00:00.000Z",
+      "captured_at": "2026-10-15T23:33:05.026Z",
+      "captured_issue": "2026-10-16",
+      "summary": "Python is now a first-class language and runtime on Vercel. Build APIs, full-stack applications, and AI agents with native Python SDKs and a shared development and deployment workflow for your Python backend and JavaScript frontend. Python framework and runtime support Vercel handles the infrastructure so you can focus on your application: Automatic framework support: FastAPI, Flask, and Django applications are automatically recognized and configured, with framework-specific ",
+      "excerpt": "Python is now a first-class language and runtime on Vercel. Build APIs, full-stack applications, and AI agents with native Python SDKs and a shared development and deployment workflow for your Python backend and JavaScript frontend. Python framework and runtime support Vercel handles the infrastructure so you can focus on your application: Automatic framework support: FastAPI, Flask, and Django applications are automatically recognized and configured, with framework-specific ",
+      "raw_text_available": false,
+      "topics": [
+        "AI Agent"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/changelog/python-on-vercel-is-now-generally-available",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 38,
+      "trend_score": 81,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 71,
+      "rank": 27,
+      "cluster_id": "vercel_com_dfcf31e2",
+      "dedupe_key": "fb72741f9f11fd32",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Python on Vercel is now generally available 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-16",
+      "last_seen_issue": "2026-10-16",
+      "used_in_issue": "2026-10-16"
+    },
+    {
+      "id": "cand_3b858180c887056b",
+      "canonical_url": "https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence",
+      "source_url": "https://github.blog/feed",
+      "source_fetch_url": "https://github.blog/feed",
+      "source_platform": "web",
+      "source_domain": "github.blog",
+      "source_name": "GitHub Copilot",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "The next developer interface is ambient intelligence",
+      "subtitle": "",
+      "author": "GitHub Copilot",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "GitHub Copilot",
+      "language": "unknown",
+      "published_at": "Thu, 15 Oct 2026 19:39:27 +0000",
+      "captured_at": "2026-10-15T23:33:04.759Z",
+      "captured_issue": "2026-10-16",
+      "summary": "AI, agents, voice, and physical controls are shifting software development from operating tools to expressing intent—and helping developers stay focused on building. The post The next developer interface is ambient intelligence appeared first on The GitHub Blog .",
+      "excerpt": "AI, agents, voice, and physical controls are shifting software development from operating tools to expressing intent—and helping developers stay focused on building. The post The next developer interface is ambient intelligence appeared first on The GitHub Blog .",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "ai_coding",
+        "developer_tools"
+      ],
+      "entities": [
+        "GitHub Copilot"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [
+        "https://github.com/features/copilot"
+      ],
+      "evidence_links": [
+        "https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence",
+        "https://github.blog/feed",
+        "https://github.com/features/copilot",
+        "https://github.blog",
+        "https://x.com/github"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 66,
+      "originality_score": 38,
+      "trend_score": 69,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 70,
+      "rank": 53,
+      "cluster_id": "github_blog_89188c16",
+      "dedupe_key": "64a8a5cbc9dbf717",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：The next developer interface is ambient intelligence 来自 GitHub Copilot 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-16",
+      "last_seen_issue": "2026-10-16",
+      "used_in_issue": "2026-10-16"
+    }
+  ],
+  "signal_watch": [
+    {
+      "id": "cand_c53c914c4a9937d8",
+      "canonical_url": "https://vercel.com/changelog/introducing-token-pass",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Introducing Token Pass",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-10-15T07:00:00.000Z",
+      "captured_at": "2026-10-15T23:33:05.025Z",
+      "captured_issue": "2026-10-16",
+      "summary": "Vercel Token Pass is now in early access for Pro teams. For $30 per month, your team gets $80 in monthly credit for GLM 5.3 and Kimi K3, with more models to come. Use Token Pass with coding agents such as fx, Command Code, and Pi, or build your own personal agent with the AI SDK. Token Pass runs through AI Gateway , so you can choose your tools and switch between included models using your team’s shared credit. Token Pass has Zero Data Retention (ZDR) enabled by default. Requ",
+      "excerpt": "Vercel Token Pass is now in early access for Pro teams. For $30 per month, your team gets $80 in monthly credit for GLM 5.3 and Kimi K3, with more models to come. Use Token Pass with coding agents such as fx, Command Code, and Pi, or build your own personal agent with the AI SDK. Token Pass runs through AI Gateway , so you can choose your tools and switch between included models using your team’s shared credit. Token Pass has Zero Data Retention (ZDR) enabled by default. Requ",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/changelog/introducing-token-pass",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 81,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 98,
+      "total_score": 69,
+      "rank": 83,
+      "cluster_id": "vercel_com_d3758ecf",
+      "dedupe_key": "859a4b72866e35ef",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Introducing Token Pass 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-16",
+      "last_seen_issue": "2026-10-16",
+      "used_in_issue": "2026-10-16"
+    },
+    {
+      "id": "cand_b817aaf21a197410",
+      "canonical_url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "source_url": "https://openai.com/news/rss.xml",
+      "source_fetch_url": "https://openai.com/news/rss.xml",
+      "source_platform": "web",
+      "source_domain": "openai.com",
+      "source_name": "OpenAI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "subtitle": "官方发布、研究、模型与开发者文档优先来源。",
+      "author": "OpenAI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "OpenAI",
+      "language": "unknown",
+      "published_at": "Thu, 15 Oct 2026 19:00:00 GMT",
+      "captured_at": "2026-10-15T23:32:54.350Z",
+      "captured_issue": "2026-10-16",
+      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+      "excerpt": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+      "raw_text_available": false,
+      "topics": [
+        "Research"
+      ],
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://openai.com/index/introducing-the-rosalind-academic-plan",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news",
+        "https://x.com/OpenAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 50,
+      "trend_score": 45,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 67,
+      "rank": 166,
+      "cluster_id": "openai_com_75a967f3",
+      "dedupe_key": "df125118dd103634",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Bringing GPT-Rosalind to academic research labs 来自 OpenAI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-16",
+      "last_seen_issue": "2026-10-16",
+      "used_in_issue": "2026-10-16"
+    },
+    {
+      "id": "cand_401a245189c34274",
+      "canonical_url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+      "source_url": "https://openai.com/news/rss.xml",
+      "source_fetch_url": "https://openai.com/news/rss.xml",
+      "source_platform": "web",
+      "source_domain": "openai.com",
+      "source_name": "OpenAI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Teaching students to think and learn through questions",
+      "subtitle": "官方发布、研究、模型与开发者文档优先来源。",
+      "author": "OpenAI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "OpenAI",
+      "language": "unknown",
+      "published_at": "Thu, 15 Oct 2026 13:00:00 GMT",
+      "captured_at": "2026-10-15T23:32:54.350Z",
+      "captured_issue": "2026-10-16",
+      "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+      "excerpt": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+      "raw_text_available": false,
+      "topics": [
+        "Research"
+      ],
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news",
+        "https://x.com/OpenAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 50,
+      "trend_score": 45,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 67,
+      "rank": 167,
+      "cluster_id": "openai_com_18693d3c",
+      "dedupe_key": "cadbdde8460fe1b7",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Teaching students to think and learn through questions 来自 OpenAI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-16",
+      "last_seen_issue": "2026-10-16",
+      "used_in_issue": "2026-10-16"
+    },
+    {
+      "id": "cand_e44bd4b3ec54d795",
+      "canonical_url": "https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org",
+      "source_url": "https://github.blog/feed",
+      "source_fetch_url": "https://github.blog/feed",
+      "source_platform": "web",
+      "source_domain": "github.blog",
+      "source_name": "GitHub Copilot",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Staying Evergreen: How we automated secure access and repo hygiene in a shared org",
+      "subtitle": "",
+      "author": "GitHub Copilot",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "GitHub Copilot",
+      "language": "unknown",
+      "published_at": "Thu, 15 Oct 2026 18:00:00 +0000",
+      "captured_at": "2026-10-15T23:33:04.759Z",
+      "captured_issue": "2026-10-16",
+      "summary": "Put native GitHub features to work to review outside collaborator access and archive stale repositories. The post Staying Evergreen: How we automated secure access and repo hygiene in a shared org appeared first on The GitHub Blog .",
+      "excerpt": "Put native GitHub features to work to review outside collaborator access and archive stale repositories. The post Staying Evergreen: How we automated secure access and repo hygiene in a shared org appeared first on The GitHub Blog .",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "ai_coding",
+        "developer_tools"
+      ],
+      "entities": [
+        "GitHub Copilot"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [
+        "https://github.com/features/copilot"
+      ],
+      "evidence_links": [
+        "https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org",
+        "https://github.blog/feed",
+        "https://github.com/features/copilot",
+        "https://github.blog",
+        "https://x.com/github"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 66,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 74,
+      "total_score": 67,
+      "rank": 304,
+      "cluster_id": "github_blog_1938e099",
+      "dedupe_key": "5de1b4492c48bddf",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Staying Evergreen: How we automated secure access and repo hygiene in a shared org 来自 GitHub Copilot 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-16",
+      "last_seen_issue": "2026-10-16",
+      "used_in_issue": "2026-10-16"
+    },
+    {
+      "id": "cand_5ad0a0525afa927b",
+      "canonical_url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery",
+      "source_url": "https://deepmind.google/discover/blog/feed",
+      "source_fetch_url": "https://deepmind.google/discover/blog/feed",
+      "source_platform": "web",
+      "source_domain": "deepmind.google",
+      "source_name": "Google DeepMind",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+      "subtitle": "",
+      "author": "Google DeepMind",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Google DeepMind",
+      "language": "unknown",
+      "published_at": "Thu, 15 Oct 2026 16:08:03 +0000",
+      "captured_at": "2026-10-15T23:32:55.078Z",
+      "captured_issue": "2026-10-16",
+      "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+      "excerpt": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+      "raw_text_available": false,
+      "topics": [
+        "Multimodal",
+        "Research"
+      ],
+      "tags": [
+        "research",
+        "multimodal",
+        "science",
+        "official"
+      ],
+      "entities": [
+        "Google DeepMind"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://deepmind.google/blog/accelerating-antimicrobial-discovery",
+        "https://deepmind.google/discover/blog/feed",
+        "https://deepmind.google",
+        "https://deepmind.google/discover/blog",
+        "https://x.com/GoogleDeepMind"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 50,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 62,
+      "total_score": 66,
+      "rank": 320,
+      "cluster_id": "deepmind_google_cf2c6c88",
+      "dedupe_key": "025f7d6165d33a33",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Accelerating the search for antimicrobial peptides with Google Antigravity 来自 Google DeepMind 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-16",
+      "last_seen_issue": "2026-10-16",
+      "used_in_issue": "2026-10-16"
+    },
+    {
+      "id": "cand_08fd938e5bb678af",
+      "canonical_url": "https://vercel.com/blog/backends-on-vercel-python-containers-and-daemons",
+      "source_url": "https://vercel.com/blog",
+      "source_fetch_url": "https://vercel.com/blog",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "15 October General Backends on Vercel: Python, containers, and Daemons Vercel now supports more backend workloads, from Python APIs and custom runtimes to background workers. Steren, Yury Selivanov",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "",
+      "captured_at": "2026-10-15T23:33:04.730Z",
+      "captured_issue": "2026-10-16",
+      "summary": "Blog - Vercel · 15 October General Backends on Vercel: Python, containers, and Daemons Vercel now supports more backend workloads, from Python APIs and custom runtimes to background workers. Steren, Yury Selivanov",
+      "excerpt": "Blog - Vercel · 15 October General Backends on Vercel: Python, containers, and Daemons Vercel now supports more backend workloads, from Python APIs and custom runtimes to background workers. Steren, Yury Selivanov",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/blog/backends-on-vercel-python-containers-and-daemons",
+        "https://vercel.com/blog",
+        "https://vercel.com/ai",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 74,
+      "total_score": 66,
+      "rank": 384,
+      "cluster_id": "vercel_com_7d50a240",
+      "dedupe_key": "4b2c7a516b3537ab",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：15 October General Backends on Vercel: Python, containers, and Daemons Vercel now supports more backend workloads, from Python APIs and custom runtimes to background workers. Steren, Yury Selivanov 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-16",
+      "last_seen_issue": "2026-10-16",
+      "used_in_issue": "2026-10-16"
+    },
+    {
+      "id": "cand_403946da582a5cef",
+      "canonical_url": "https://vercel.com/blog/introducing-vercel-drives-persistent-storage-for-agents",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Introducing Vercel Drives: persistent storage for agents",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-10-15T07:00:00.000Z",
+      "captured_at": "2026-10-15T23:33:05.025Z",
+      "captured_issue": "2026-10-16",
+      "summary": "Agents often handle complex work that continues across runs. As that work evolves, they may need a new environment with different tools, runtimes, or compute. They should be able to continue working with the same files when they change environments. We built Vercel Drives to keep an agent’s files independent of its execution environment. It is now generally available for Vercel Sandbox . Agents can mount the same drive in a new environment configured for the next task and con",
+      "excerpt": "Agents often handle complex work that continues across runs. As that work evolves, they may need a new environment with different tools, runtimes, or compute. They should be able to continue working with the same files when they change environments. We built Vercel Drives to keep an agent’s files independent of its execution environment. It is now generally available for Vercel Sandbox . Agents can mount the same drive in a new environment configured for the next task and con",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/blog/introducing-vercel-drives-persistent-storage-for-agents",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 69,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 66,
+      "rank": 385,
+      "cluster_id": "vercel_com_1e7edf6f",
+      "dedupe_key": "749ecee858e8c532",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Introducing Vercel Drives: persistent storage for agents 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-16",
+      "last_seen_issue": "2026-10-16",
+      "used_in_issue": "2026-10-16"
+    },
+    {
+      "id": "cand_8bf4580cbae9f982",
+      "canonical_url": "https://vercel.com/changelog/vercel-daemons-is-now-in-public-beta",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Vercel Daemons is now in public beta",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-10-15T07:00:00.000Z",
+      "captured_at": "2026-10-15T23:33:05.025Z",
+      "captured_issue": "2026-10-16",
+      "summary": "Vercel Daemons is now in public beta, allowing you to run long-running processes that pull and execute work from Vercel Queues , databases, or third-party systems without requiring an HTTP server: Consumers using Vercel Queues poll mode , Celery, BullMQ, RabbitMQ, or Kafka. Temporal or Cadence workers that long-poll their task queues. Self-hosted CI runners for GitHub Actions, GitLab, or CircleCI that poll for jobs without requiring inbound connections. Daemons run containers",
+      "excerpt": "Vercel Daemons is now in public beta, allowing you to run long-running processes that pull and execute work from Vercel Queues , databases, or third-party systems without requiring an HTTP server: Consumers using Vercel Queues poll mode , Celery, BullMQ, RabbitMQ, or Kafka. Temporal or Cadence workers that long-poll their task queues. Self-hosted CI runners for GitHub Actions, GitLab, or CircleCI that poll for jobs without requiring inbound connections. Daemons run containers",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/changelog/vercel-daemons-is-now-in-public-beta",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 74,
+      "total_score": 66,
+      "rank": 387,
+      "cluster_id": "vercel_com_5a25a34e",
+      "dedupe_key": "2a73e460ef8d9ee2",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Vercel Daemons is now in public beta 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-16",
+      "last_seen_issue": "2026-10-16",
+      "used_in_issue": "2026-10-16"
+    },
+    {
+      "id": "cand_7fed38020b0ed73b",
+      "canonical_url": "https://vercel.com/changelog/vercel-drives-is-now-generally-available",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Vercel Drives is now generally available",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-10-15T00:00:00.000Z",
+      "captured_at": "2026-10-15T23:33:05.026Z",
+      "captured_issue": "2026-10-16",
+      "summary": "Vercel Drives is now generally available for Vercel Sandbox on Hobby, Pro, and Enterprise. A Drive is persistent storage that you mount as a directory in a Vercel Sandbox. Its files remain available after the sandbox stops, so later runs and other sandboxes can access them by mounting the same Drive. Use Drives to preserve an agent’s workspace or file-based memory across runs, or to make datasets, models, dependencies, and build artifacts available across sandboxes. You can a",
+      "excerpt": "Vercel Drives is now generally available for Vercel Sandbox on Hobby, Pro, and Enterprise. A Drive is persistent storage that you mount as a directory in a Vercel Sandbox. Its files remain available after the sandbox stops, so later runs and other sandboxes can access them by mounting the same Drive. Use Drives to preserve an agent’s workspace or file-based memory across runs, or to make datasets, models, dependencies, and build artifacts available across sandboxes. You can a",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/changelog/vercel-drives-is-now-generally-available",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 69,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 66,
+      "rank": 388,
+      "cluster_id": "vercel_com_05fe528b",
+      "dedupe_key": "57941572a8691d07",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Vercel Drives is now generally available 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-16",
+      "last_seen_issue": "2026-10-16",
+      "used_in_issue": "2026-10-16"
+    },
+    {
+      "id": "cand_99d6deab73fdc7c3",
+      "canonical_url": "https://vercel.com/changelog/vercel-connect-adds-enterprise-managed-authorization",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Vercel Connect adds Enterprise-Managed Authorization",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-10-15T00:00:00.000Z",
+      "captured_at": "2026-10-15T23:33:05.026Z",
+      "captured_issue": "2026-10-16",
+      "summary": "Vercel Connect now supports Enterprise-Managed Authorization (EMA) in public beta. Your apps and agents can access supported services on behalf of signed-in users without separate consent prompts for each service. Here's how access works: Admin-managed access: Administrators can grant or revoke access to supported services through the identity provider. Corporate sign-in: Users sign into your app with their corporate account through a compatible identity provider such as Okta",
+      "excerpt": "Vercel Connect now supports Enterprise-Managed Authorization (EMA) in public beta. Your apps and agents can access supported services on behalf of signed-in users without separate consent prompts for each service. Here's how access works: Admin-managed access: Administrators can grant or revoke access to supported services through the identity provider. Corporate sign-in: Users sign into your app with their corporate account through a compatible identity provider such as Okta",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/changelog/vercel-connect-adds-enterprise-managed-authorization",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 69,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 66,
+      "rank": 389,
+      "cluster_id": "vercel_com_38c22b3f",
+      "dedupe_key": "e1d9284022af1177",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Vercel Connect adds Enterprise-Managed Authorization 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-16",
+      "last_seen_issue": "2026-10-16",
+      "used_in_issue": "2026-10-16"
+    },
+    {
+      "id": "cand_65b1df834de4dc7f",
+      "canonical_url": "https://vercel.com/changelog/mcp-events-support-in-vercel-connect-is-now-in-public-beta",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "MCP Events support in Vercel Connect is now in public beta",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-10-15T00:00:00.000Z",
+      "captured_at": "2026-10-15T23:33:05.026Z",
+      "captured_issue": "2026-10-16",
+      "summary": "Vercel Connect now supports MCP Events in public beta, allowing your apps and agents to subscribe to webhook events from compatible MCP servers. Build agents for tasks like summarizing new messages, reviewing newly created issues, or responding to document feedback. Connect creates subscriptions on the MCP server and renews them automatically as needed, verifying the server’s webhooks and forwarding events to your application using authenticated delivery. You can use the Conn",
+      "excerpt": "Vercel Connect now supports MCP Events in public beta, allowing your apps and agents to subscribe to webhook events from compatible MCP servers. Build agents for tasks like summarizing new messages, reviewing newly created issues, or responding to document feedback. Connect creates subscriptions on the MCP server and renews them automatically as needed, verifying the server’s webhooks and forwarding events to your application using authenticated delivery. You can use the Conn",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/changelog/mcp-events-support-in-vercel-connect-is-now-in-public-beta",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 69,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 66,
+      "rank": 390,
+      "cluster_id": "vercel_com_9229d3f1",
+      "dedupe_key": "8d0adc964a04dbaf",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：MCP Events support in Vercel Connect is now in public beta 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-16",
+      "last_seen_issue": "2026-10-16",
+      "used_in_issue": "2026-10-16"
+    },
+    {
+      "id": "cand_5d90858566f525fd",
+      "canonical_url": "https://www.langchain.com/blog/common-questions-about-agent-evals",
+      "source_url": "https://blog.langchain.com/rss.xml",
+      "source_fetch_url": "https://blog.langchain.com/rss.xml",
+      "source_platform": "web",
+      "source_domain": "langchain.com",
+      "source_name": "LangChain",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "external_article",
+      "title": "The Most Common Questions About Agent Evals, Answered",
+      "subtitle": "",
+      "author": "LangChain",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "LangChain",
+      "language": "unknown",
+      "published_at": "Thu, 15 Oct 2026 01:19:37 GMT",
+      "captured_at": "2026-10-15T23:33:05.880Z",
+      "captured_issue": "2026-10-16",
+      "summary": "Where to start with agent evals, offline vs online evals, evaluator types, LLM judges, benchmarks with Harbor, multi-turn evals, and keeping costs down.",
+      "excerpt": "Where to start with agent evals, offline vs online evals, evaluator types, LLM judges, benchmarks with Harbor, multi-turn evals, and keeping costs down.",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "agents",
+        "rag",
+        "framework"
+      ],
+      "entities": [
+        "LangChain"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://www.langchain.com/blog/common-questions-about-agent-evals",
+        "https://blog.langchain.com/rss.xml",
+        "https://www.langchain.com",
+        "https://blog.langchain.com",
+        "https://x.com/LangChainAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 66,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 62,
+      "total_score": 66,
+      "rank": 411,
+      "cluster_id": "langchain_com_1cefd582",
+      "dedupe_key": "311f7e70b98fab52",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：The Most Common Questions About Agent Evals, Answered 来自 LangChain 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-16",
+      "last_seen_issue": "2026-10-16",
+      "used_in_issue": "2026-10-16"
+    },
+    {
+      "id": "cand_f70f836857b62caa",
+      "canonical_url": "https://vercel.com/blog/ai-gateway-production-index-october-2026",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Open weight takes 71.5% of tokens and 23% of spend",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-10-15T07:00:00.000Z",
+      "captured_at": "2026-10-15T23:33:05.024Z",
+      "captured_issue": "2026-10-16",
+      "summary": "AI Gateway Production Index — October 2026 Every month, AI Gateway routes tens of trillions of tokens between production applications and AI labs. That traffic gives us a view of what AI usage actually looks like in today's enterprise, and we publish it here monthly. See the Production Index reports from July , August , and September . October 2026 summary Open-weight models now process more than seven in ten gateway tokens and account for nearly one in four dollars. Their sh",
+      "excerpt": "AI Gateway Production Index — October 2026 Every month, AI Gateway routes tens of trillions of tokens between production applications and AI labs. That traffic gives us a view of what AI usage actually looks like in today's enterprise, and we publish it here monthly. See the Production Index reports from July , August , and September . October 2026 summary Open-weight models now process more than seven in ten gateway tokens and account for nearly one in four dollars. Their sh",
+      "raw_text_available": false,
+      "topics": [
+        "Product"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/blog/ai-gateway-production-index-october-2026",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 65,
+      "rank": 446,
+      "cluster_id": "vercel_com_30142dbc",
+      "dedupe_key": "e734245acbb9effb",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Open weight takes 71.5% of tokens and 23% of spend 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-16",
+      "last_seen_issue": "2026-10-16",
+      "used_in_issue": "2026-10-16"
+    },
+    {
+      "id": "cand_2bcf89fd51e35a2f",
+      "canonical_url": "https://vercel.com/changelog/liquid-ais-d1-ultra-now-available-on-ai-gateway",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Liquid AI's d1-ultra now available on AI Gateway",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-10-15T00:00:00.000Z",
+      "captured_at": "2026-10-15T23:33:05.025Z",
+      "captured_issue": "2026-10-16",
+      "summary": "d1-ultra from Liquid AI is now available on AI Gateway. It is a multimodal decision model for classification, routing, and scoring across text and images, including visual defect inspection and checking damage claims against customer photos. Rather than generating text, d1-ultra returns structured answers with probabilities. Ask a Boolean question to get the probability of a yes/no answer, use Choice to select among named categories, or use Score to rate an ordered scale. You",
+      "excerpt": "d1-ultra from Liquid AI is now available on AI Gateway. It is a multimodal decision model for classification, routing, and scoring across text and images, including visual defect inspection and checking damage claims against customer photos. Rather than generating text, d1-ultra returns structured answers with probabilities. Ask a Boolean question to get the probability of a yes/no answer, use Choice to select among named categories, or use Score to rate an ordered scale. You",
+      "raw_text_available": false,
+      "topics": [
+        "Multimodal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/changelog/liquid-ais-d1-ultra-now-available-on-ai-gateway",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 69,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 74,
+      "total_score": 65,
+      "rank": 447,
+      "cluster_id": "vercel_com_cb7272a5",
+      "dedupe_key": "b2c9891ce3278bce",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Liquid AI's d1-ultra now available on AI Gateway 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-16",
+      "last_seen_issue": "2026-10-16",
+      "used_in_issue": "2026-10-16"
+    },
+    {
+      "id": "cand_a073c4984c11c1a0",
+      "canonical_url": "https://www.langchain.com/blog/october-2026-langchain-newsletter",
+      "source_url": "https://blog.langchain.com/rss.xml",
+      "source_fetch_url": "https://blog.langchain.com/rss.xml",
+      "source_platform": "web",
+      "source_domain": "langchain.com",
+      "source_name": "LangChain",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "external_article",
+      "title": "October 2026 LangChain Newsletter: Everything we shipped at Interrupt NYC & London",
+      "subtitle": "",
+      "author": "LangChain",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "LangChain",
+      "language": "unknown",
+      "published_at": "Thu, 15 Oct 2026 16:50:48 GMT",
+      "captured_at": "2026-10-15T23:33:05.880Z",
+      "captured_issue": "2026-10-16",
+      "summary": "What we shipped at Interrupt NYC and London: LangSmith AI Search, Engine v2, Trajectories, Custom Apps, Fine-Tuning, and Managed Deep Agents v0.9.",
+      "excerpt": "What we shipped at Interrupt NYC and London: LangSmith AI Search, Engine v2, Trajectories, Custom Apps, Fine-Tuning, and Managed Deep Agents v0.9.",
+      "raw_text_available": false,
+      "topics": [
+        "AI Search"
+      ],
+      "tags": [
+        "agents",
+        "rag",
+        "framework"
+      ],
+      "entities": [
+        "LangChain"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://www.langchain.com/blog/october-2026-langchain-newsletter",
+        "https://blog.langchain.com/rss.xml",
+        "https://www.langchain.com",
+        "https://blog.langchain.com",
+        "https://x.com/LangChainAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 54,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 74,
+      "total_score": 65,
+      "rank": 492,
+      "cluster_id": "langchain_com_e58ee99e",
+      "dedupe_key": "dea967386b1be95c",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：October 2026 LangChain Newsletter: Everything we shipped at Interrupt NYC & London 来自 LangChain 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-16",
+      "last_seen_issue": "2026-10-16",
+      "used_in_issue": "2026-10-16"
+    },
+    {
+      "id": "cand_f884bf6326148eaa",
+      "canonical_url": "https://vercel.com/blog/vercel-for-enterprise",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Vercel for Enterprise",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-10-15T07:00:00.000Z",
+      "captured_at": "2026-10-15T23:33:05.025Z",
+      "captured_issue": "2026-10-16",
+      "summary": "AI adoption in the enterprise is growing rapidly, and expanding beyond engineering users. In the last three months, token usage by enterprise companies on AI Gateway has quadrupled, and OpenAI recently reported that from August 2025 to June 2026, non-developer Codex users grew 189x. Our customers call these builders citizen developers. They know their part of the business better than anyone else, and with AI they can create the software they need to ship work faster and deliv",
+      "excerpt": "AI adoption in the enterprise is growing rapidly, and expanding beyond engineering users. In the last three months, token usage by enterprise companies on AI Gateway has quadrupled, and OpenAI recently reported that from August 2025 to June 2026, non-developer Codex users grew 189x. Our customers call these builders citizen developers. They know their part of the business better than anyone else, and with AI they can create the software they need to ship work faster and deliv",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/blog/vercel-for-enterprise",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 74,
+      "total_score": 63,
+      "rank": 612,
+      "cluster_id": "vercel_com_8cda1bcd",
+      "dedupe_key": "7f54484127f9451e",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Vercel for Enterprise 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-16",
+      "last_seen_issue": "2026-10-16",
+      "used_in_issue": "2026-10-16"
+    },
+    {
+      "id": "cand_8bc52979d1d43467",
+      "canonical_url": "https://vercel.com/changelog/vercel-connect-secure-compute",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Vercel Connect now supports Secure Compute",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-10-15T00:00:00.000Z",
+      "captured_at": "2026-10-15T23:33:05.025Z",
+      "captured_issue": "2026-10-16",
+      "summary": "Vercel Connect now supports Secure Compute , allowing connectors to reach providers with IP allowlists, such as Salesforce and Snowflake. With Secure Compute routing enabled, Connect’s provider requests use the selected network’s dedicated static IP addresses instead of Connect’s shared IPs. Requests to obtain and refresh access tokens follow that route; your app’s direct API routing is unchanged by this setting. Credential management stays the same, so you don’t need to stor",
+      "excerpt": "Vercel Connect now supports Secure Compute , allowing connectors to reach providers with IP allowlists, such as Salesforce and Snowflake. With Secure Compute routing enabled, Connect’s provider requests use the selected network’s dedicated static IP addresses instead of Connect’s shared IPs. Requests to obtain and refresh access tokens follow that route; your app’s direct API routing is unchanged by this setting. Credential management stays the same, so you don’t need to stor",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/changelog/vercel-connect-secure-compute",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 74,
+      "total_score": 63,
+      "rank": 613,
+      "cluster_id": "vercel_com_00b8aaea",
+      "dedupe_key": "c091e51d95f45c4f",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Vercel Connect now supports Secure Compute 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-16",
+      "last_seen_issue": "2026-10-16",
+      "used_in_issue": "2026-10-16"
+    },
+    {
+      "id": "cand_503b038397e219ac",
+      "canonical_url": "https://vercel.com/changelog/bring-your-own-cloud-on-aws-is-now-generally-available",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Bring Your Own Cloud on AWS is now generally available",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-10-15T00:00:00.000Z",
+      "captured_at": "2026-10-15T23:33:05.026Z",
+      "captured_issue": "2026-10-16",
+      "summary": "Enterprise teams can now run Vercel Functions in their own AWS account with Bring Your Own Cloud (BYOC). With BYOC, your function code and execution stay inside your security and compliance boundary. Vercel continues to handle deployments, environments, routing, and static assets. During deployment, you provision functions in your AWS account and Vercel serves everything else. You keep control over function execution with your own IAM permissions, network access, and resource",
+      "excerpt": "Enterprise teams can now run Vercel Functions in their own AWS account with Bring Your Own Cloud (BYOC). With BYOC, your function code and execution stay inside your security and compliance boundary. Vercel continues to handle deployments, environments, routing, and static assets. During deployment, you provision functions in your AWS account and Vercel serves everything else. You keep control over function execution with your own IAM permissions, network access, and resource",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/changelog/bring-your-own-cloud-on-aws-is-now-generally-available",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 74,
+      "total_score": 63,
+      "rank": 614,
+      "cluster_id": "vercel_com_16ad27d2",
+      "dedupe_key": "c3869005bbb3e474",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Bring Your Own Cloud on AWS is now generally available 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-16",
+      "last_seen_issue": "2026-10-16",
+      "used_in_issue": "2026-10-16"
+    },
+    {
+      "id": "cand_ea1d94ff54a31a44",
+      "canonical_url": "https://vercel.com/changelog/typesafe-ais-jev-1-14-is-now-available-on-ai-gateway",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "TypeSafe AI's Jev 1.14 is now available on AI Gateway",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-10-15T00:00:00.000Z",
+      "captured_at": "2026-10-15T23:33:05.026Z",
+      "captured_issue": "2026-10-16",
+      "summary": "Jev 1.14 from TypeSafe AI is now available on AI Gateway . Jev is a decision model for software. You pass it state and a set of questions, and it returns typed Choice, Score, and Boolean answers with probabilities instead of free-form text. It answers every question in one request, in parallel, for classification, routing, scoring, and automated verification. Jev 1.14 accepts images as part of the state, and has an experimental long-context mode for documents, logs, or conver",
+      "excerpt": "Jev 1.14 from TypeSafe AI is now available on AI Gateway . Jev is a decision model for software. You pass it state and a set of questions, and it returns typed Choice, Score, and Boolean answers with probabilities instead of free-form text. It answers every question in one request, in parallel, for classification, routing, scoring, and automated verification. Jev 1.14 accepts images as part of the state, and has an experimental long-context mode for documents, logs, or conver",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/changelog/typesafe-ais-jev-1-14-is-now-available-on-ai-gateway",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 74,
+      "total_score": 63,
+      "rank": 615,
+      "cluster_id": "vercel_com_a0762d95",
+      "dedupe_key": "ce8582afb0f43901",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：TypeSafe AI's Jev 1.14 is now available on AI Gateway 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-16",
+      "last_seen_issue": "2026-10-16",
+      "used_in_issue": "2026-10-16"
+    },
+    {
+      "id": "cand_64842188b69a8bc6",
+      "canonical_url": "https://huggingface.co/blog/meta-muse-spark-open",
+      "source_url": "https://huggingface.co/blog/feed.xml",
+      "source_fetch_url": "https://huggingface.co/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "huggingface.co",
+      "source_name": "Hugging Face",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+      "subtitle": "",
+      "author": "Hugging Face",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Hugging Face",
+      "language": "unknown",
+      "published_at": "Thu, 15 Oct 2026 00:00:00 GMT",
+      "captured_at": "2026-10-15T23:33:05.758Z",
+      "captured_issue": "2026-10-16",
+      "summary": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta 是 Hugging Face 当日抓取到的公开新增条目。",
+      "excerpt": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta 是 Hugging Face 当日抓取到的公开新增条目。",
+      "raw_text_available": false,
+      "topics": [
+        "Multimodal"
+      ],
+      "tags": [
+        "open_source",
+        "papers",
+        "models"
+      ],
+      "entities": [
+        "Hugging Face"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://huggingface.co/blog/meta-muse-spark-open",
+        "https://huggingface.co/blog/feed.xml",
+        "https://huggingface.co",
+        "https://huggingface.co/blog",
+        "https://x.com/huggingface"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 50,
+      "total_score": 63,
+      "rank": 621,
+      "cluster_id": "huggingface_co_fb6e6c4e",
+      "dedupe_key": "6e8f5eacf7e259fc",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta 来自 Hugging Face 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-16",
+      "last_seen_issue": "2026-10-16",
+      "used_in_issue": "2026-10-16"
+    }
+  ],
+  "hot_rank": [
+    {
+      "id": "cand_fafb30eba968bb59",
+      "canonical_url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning",
+      "source_url": "https://developer.nvidia.com/blog",
+      "source_fetch_url": "https://developer.nvidia.com/blog",
+      "source_platform": "web",
+      "source_domain": "developer.nvidia.com",
+      "source_name": "NVIDIA AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "NVIDIA Nemotron 3.5 Super VL Powers Specialized Agents with Multimodal Reasoning",
+      "subtitle": "",
+      "author": "NVIDIA AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "NVIDIA AI",
+      "language": "unknown",
+      "published_at": "",
+      "captured_at": "2026-10-15T23:32:57.586Z",
+      "captured_issue": "2026-10-16",
+      "summary": "NVIDIA Technical Blog · NVIDIA Nemotron 3.5 Super VL Powers Specialized Agents with Multimodal Reasoning",
+      "excerpt": "NVIDIA Technical Blog · NVIDIA Nemotron 3.5 Super VL Powers Specialized Agents with Multimodal Reasoning",
+      "raw_text_available": false,
+      "topics": [
+        "Multimodal"
+      ],
+      "tags": [
+        "gpu",
+        "inference",
+        "ai_infra"
+      ],
+      "entities": [
+        "NVIDIA AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning",
+        "https://developer.nvidia.com/blog",
+        "https://blogs.nvidia.com/blog/category/deep-learning",
+        "https://x.com/NVIDIAAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 38,
+      "trend_score": 93,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 72,
+      "rank": 17,
+      "cluster_id": "developer_nvidia_com_9d194324",
+      "dedupe_key": "3804387c527fc825",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：NVIDIA Nemotron 3.5 Super VL Powers Specialized Agents with Multimodal Reasoning 来自 NVIDIA AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-16",
+      "last_seen_issue": "2026-10-16",
+      "used_in_issue": "2026-10-16"
+    },
+    {
+      "id": "cand_b5e50fbea59fe176",
+      "canonical_url": "https://developer.nvidia.com/blog/scale-agentic-coding-workflows-with-metas-muse-spark-open-on-nvidia-gb300-nvl72",
+      "source_url": "https://developer.nvidia.com/blog",
+      "source_fetch_url": "https://developer.nvidia.com/blog",
+      "source_platform": "web",
+      "source_domain": "developer.nvidia.com",
+      "source_name": "NVIDIA AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Scale Agentic Coding Workflows with Meta’s Muse Spark Open on NVIDIA GB300 NVL72",
+      "subtitle": "",
+      "author": "NVIDIA AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "NVIDIA AI",
+      "language": "unknown",
+      "published_at": "",
+      "captured_at": "2026-10-15T23:32:57.586Z",
+      "captured_issue": "2026-10-16",
+      "summary": "NVIDIA Technical Blog · Scale Agentic Coding Workflows with Meta’s Muse Spark Open on NVIDIA GB300 NVL72",
+      "excerpt": "NVIDIA Technical Blog · Scale Agentic Coding Workflows with Meta’s Muse Spark Open on NVIDIA GB300 NVL72",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "gpu",
+        "inference",
+        "ai_infra"
+      ],
+      "entities": [
+        "NVIDIA AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://developer.nvidia.com/blog/scale-agentic-coding-workflows-with-metas-muse-spark-open-on-nvidia-gb300-nvl72",
+        "https://developer.nvidia.com/blog",
+        "https://blogs.nvidia.com/blog/category/deep-learning",
+        "https://x.com/NVIDIAAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 38,
+      "trend_score": 81,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 98,
+      "total_score": 72,
+      "rank": 18,
+      "cluster_id": "developer_nvidia_com_7621ea70",
+      "dedupe_key": "ea3bb603234df74c",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Scale Agentic Coding Workflows with Meta’s Muse Spark Open on NVIDIA GB300 NVL72 来自 NVIDIA AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-16",
+      "last_seen_issue": "2026-10-16",
+      "used_in_issue": "2026-10-16"
+    },
+    {
+      "id": "cand_58bdd02a16ad20e1",
+      "canonical_url": "https://vercel.com/changelog/muse-spark-open-now-available-on-ai-gateway",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Muse Spark Open now available on AI Gateway",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-10-15T00:00:00.000Z",
+      "captured_at": "2026-10-15T23:33:05.025Z",
+      "captured_issue": "2026-10-16",
+      "summary": "Muse Spark Open from Meta is now available on AI Gateway. The open-weight reasoning model is designed for coding and agentic workflows, including multi-file refactoring, debugging, and understanding large codebases. Muse Spark Open supports text and image input with a 1M-token context window, allowing agents to work with code and screenshots in the same request. It is available with ZDR and no training, without creating separate provider accounts. Use meta/muse-spark-open as ",
+      "excerpt": "Muse Spark Open from Meta is now available on AI Gateway. The open-weight reasoning model is designed for coding and agentic workflows, including multi-file refactoring, debugging, and understanding large codebases. Muse Spark Open supports text and image input with a 1M-token context window, allowing agents to work with code and screenshots in the same request. It is available with ZDR and no training, without creating separate provider accounts. Use meta/muse-spark-open as ",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/changelog/muse-spark-open-now-available-on-ai-gateway",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 93,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 98,
+      "total_score": 71,
+      "rank": 25,
+      "cluster_id": "vercel_com_d327bc4f",
+      "dedupe_key": "1ced5cdccf5134f3",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Muse Spark Open now available on AI Gateway 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-16",
+      "last_seen_issue": "2026-10-16",
+      "used_in_issue": "2026-10-16"
+    },
+    {
+      "id": "cand_286dcb9082228c90",
+      "canonical_url": "https://vercel.com/changelog/cat-jam-is-now-available-in-stealth-for-free-on-ai-gateway",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Cat Jam is now available in stealth for free on AI Gateway",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-10-15T00:00:00.000Z",
+      "captured_at": "2026-10-15T23:33:05.025Z",
+      "captured_issue": "2026-10-16",
+      "summary": "Cat Jam is now available on AI Gateway as a stealth model, free to use during the stealth period. Cat Jam is a reasoning model for coding and agentic tasks, with low-latency inference. It supports function calling , so agents can connect it to your own tools, and structured outputs that follow a JSON schema you supply. Responses include the model's reasoning text alongside the answer. Cat Jam takes text input only. Cat Jam supports low , medium , high , xhigh , and max reason",
+      "excerpt": "Cat Jam is now available on AI Gateway as a stealth model, free to use during the stealth period. Cat Jam is a reasoning model for coding and agentic tasks, with low-latency inference. It supports function calling , so agents can connect it to your own tools, and structured outputs that follow a JSON schema you supply. Responses include the model's reasoning text alongside the answer. Cat Jam takes text input only. Cat Jam supports low , medium , high , xhigh , and max reason",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/changelog/cat-jam-is-now-available-in-stealth-for-free-on-ai-gateway",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 93,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 98,
+      "total_score": 71,
+      "rank": 26,
+      "cluster_id": "vercel_com_caf61d79",
+      "dedupe_key": "2432ea18fc810c8c",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Cat Jam is now available in stealth for free on AI Gateway 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-16",
+      "last_seen_issue": "2026-10-16",
+      "used_in_issue": "2026-10-16"
+    },
+    {
+      "id": "cand_71988b56f741207f",
+      "canonical_url": "https://vercel.com/changelog/python-on-vercel-is-now-generally-available",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Python on Vercel is now generally available",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-10-15T00:00:00.000Z",
+      "captured_at": "2026-10-15T23:33:05.026Z",
+      "captured_issue": "2026-10-16",
+      "summary": "Python is now a first-class language and runtime on Vercel. Build APIs, full-stack applications, and AI agents with native Python SDKs and a shared development and deployment workflow for your Python backend and JavaScript frontend. Python framework and runtime support Vercel handles the infrastructure so you can focus on your application: Automatic framework support: FastAPI, Flask, and Django applications are automatically recognized and configured, with framework-specific ",
+      "excerpt": "Python is now a first-class language and runtime on Vercel. Build APIs, full-stack applications, and AI agents with native Python SDKs and a shared development and deployment workflow for your Python backend and JavaScript frontend. Python framework and runtime support Vercel handles the infrastructure so you can focus on your application: Automatic framework support: FastAPI, Flask, and Django applications are automatically recognized and configured, with framework-specific ",
+      "raw_text_available": false,
+      "topics": [
+        "AI Agent"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/changelog/python-on-vercel-is-now-generally-available",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 38,
+      "trend_score": 81,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 71,
+      "rank": 27,
+      "cluster_id": "vercel_com_dfcf31e2",
+      "dedupe_key": "fb72741f9f11fd32",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Python on Vercel is now generally available 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-16",
+      "last_seen_issue": "2026-10-16",
+      "used_in_issue": "2026-10-16"
+    },
+    {
+      "id": "cand_3b858180c887056b",
+      "canonical_url": "https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence",
+      "source_url": "https://github.blog/feed",
+      "source_fetch_url": "https://github.blog/feed",
+      "source_platform": "web",
+      "source_domain": "github.blog",
+      "source_name": "GitHub Copilot",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "The next developer interface is ambient intelligence",
+      "subtitle": "",
+      "author": "GitHub Copilot",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "GitHub Copilot",
+      "language": "unknown",
+      "published_at": "Thu, 15 Oct 2026 19:39:27 +0000",
+      "captured_at": "2026-10-15T23:33:04.759Z",
+      "captured_issue": "2026-10-16",
+      "summary": "AI, agents, voice, and physical controls are shifting software development from operating tools to expressing intent—and helping developers stay focused on building. The post The next developer interface is ambient intelligence appeared first on The GitHub Blog .",
+      "excerpt": "AI, agents, voice, and physical controls are shifting software development from operating tools to expressing intent—and helping developers stay focused on building. The post The next developer interface is ambient intelligence appeared first on The GitHub Blog .",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "ai_coding",
+        "developer_tools"
+      ],
+      "entities": [
+        "GitHub Copilot"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [
+        "https://github.com/features/copilot"
+      ],
+      "evidence_links": [
+        "https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence",
+        "https://github.blog/feed",
+        "https://github.com/features/copilot",
+        "https://github.blog",
+        "https://x.com/github"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 66,
+      "originality_score": 38,
+      "trend_score": 69,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 70,
+      "rank": 53,
+      "cluster_id": "github_blog_89188c16",
+      "dedupe_key": "64a8a5cbc9dbf717",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：The next developer interface is ambient intelligence 来自 GitHub Copilot 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-16",
+      "last_seen_issue": "2026-10-16",
+      "used_in_issue": "2026-10-16"
+    },
+    {
+      "id": "cand_c53c914c4a9937d8",
+      "canonical_url": "https://vercel.com/changelog/introducing-token-pass",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Introducing Token Pass",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-10-15T07:00:00.000Z",
+      "captured_at": "2026-10-15T23:33:05.025Z",
+      "captured_issue": "2026-10-16",
+      "summary": "Vercel Token Pass is now in early access for Pro teams. For $30 per month, your team gets $80 in monthly credit for GLM 5.3 and Kimi K3, with more models to come. Use Token Pass with coding agents such as fx, Command Code, and Pi, or build your own personal agent with the AI SDK. Token Pass runs through AI Gateway , so you can choose your tools and switch between included models using your team’s shared credit. Token Pass has Zero Data Retention (ZDR) enabled by default. Requ",
+      "excerpt": "Vercel Token Pass is now in early access for Pro teams. For $30 per month, your team gets $80 in monthly credit for GLM 5.3 and Kimi K3, with more models to come. Use Token Pass with coding agents such as fx, Command Code, and Pi, or build your own personal agent with the AI SDK. Token Pass runs through AI Gateway , so you can choose your tools and switch between included models using your team’s shared credit. Token Pass has Zero Data Retention (ZDR) enabled by default. Requ",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/changelog/introducing-token-pass",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 81,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 98,
+      "total_score": 69,
+      "rank": 83,
+      "cluster_id": "vercel_com_d3758ecf",
+      "dedupe_key": "859a4b72866e35ef",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Introducing Token Pass 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-16",
+      "last_seen_issue": "2026-10-16",
+      "used_in_issue": "2026-10-16"
+    },
+    {
+      "id": "cand_b817aaf21a197410",
+      "canonical_url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "source_url": "https://openai.com/news/rss.xml",
+      "source_fetch_url": "https://openai.com/news/rss.xml",
+      "source_platform": "web",
+      "source_domain": "openai.com",
+      "source_name": "OpenAI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "subtitle": "官方发布、研究、模型与开发者文档优先来源。",
+      "author": "OpenAI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "OpenAI",
+      "language": "unknown",
+      "published_at": "Thu, 15 Oct 2026 19:00:00 GMT",
+      "captured_at": "2026-10-15T23:32:54.350Z",
+      "captured_issue": "2026-10-16",
+      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+      "excerpt": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+      "raw_text_available": false,
+      "topics": [
+        "Research"
+      ],
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://openai.com/index/introducing-the-rosalind-academic-plan",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news",
+        "https://x.com/OpenAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 50,
+      "trend_score": 45,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 67,
+      "rank": 166,
+      "cluster_id": "openai_com_75a967f3",
+      "dedupe_key": "df125118dd103634",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Bringing GPT-Rosalind to academic research labs 来自 OpenAI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-16",
+      "last_seen_issue": "2026-10-16",
+      "used_in_issue": "2026-10-16"
+    },
+    {
+      "id": "cand_401a245189c34274",
+      "canonical_url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+      "source_url": "https://openai.com/news/rss.xml",
+      "source_fetch_url": "https://openai.com/news/rss.xml",
+      "source_platform": "web",
+      "source_domain": "openai.com",
+      "source_name": "OpenAI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Teaching students to think and learn through questions",
+      "subtitle": "官方发布、研究、模型与开发者文档优先来源。",
+      "author": "OpenAI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "OpenAI",
+      "language": "unknown",
+      "published_at": "Thu, 15 Oct 2026 13:00:00 GMT",
+      "captured_at": "2026-10-15T23:32:54.350Z",
+      "captured_issue": "2026-10-16",
+      "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+      "excerpt": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+      "raw_text_available": false,
+      "topics": [
+        "Research"
+      ],
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news",
+        "https://x.com/OpenAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 50,
+      "trend_score": 45,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 67,
+      "rank": 167,
+      "cluster_id": "openai_com_18693d3c",
+      "dedupe_key": "cadbdde8460fe1b7",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Teaching students to think and learn through questions 来自 OpenAI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-16",
+      "last_seen_issue": "2026-10-16",
+      "used_in_issue": "2026-10-16"
+    },
+    {
+      "id": "cand_e44bd4b3ec54d795",
+      "canonical_url": "https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org",
+      "source_url": "https://github.blog/feed",
+      "source_fetch_url": "https://github.blog/feed",
+      "source_platform": "web",
+      "source_domain": "github.blog",
+      "source_name": "GitHub Copilot",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Staying Evergreen: How we automated secure access and repo hygiene in a shared org",
+      "subtitle": "",
+      "author": "GitHub Copilot",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "GitHub Copilot",
+      "language": "unknown",
+      "published_at": "Thu, 15 Oct 2026 18:00:00 +0000",
+      "captured_at": "2026-10-15T23:33:04.759Z",
+      "captured_issue": "2026-10-16",
+      "summary": "Put native GitHub features to work to review outside collaborator access and archive stale repositories. The post Staying Evergreen: How we automated secure access and repo hygiene in a shared org appeared first on The GitHub Blog .",
+      "excerpt": "Put native GitHub features to work to review outside collaborator access and archive stale repositories. The post Staying Evergreen: How we automated secure access and repo hygiene in a shared org appeared first on The GitHub Blog .",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "ai_coding",
+        "developer_tools"
+      ],
+      "entities": [
+        "GitHub Copilot"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [
+        "https://github.com/features/copilot"
+      ],
+      "evidence_links": [
+        "https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org",
+        "https://github.blog/feed",
+        "https://github.com/features/copilot",
+        "https://github.blog",
+        "https://x.com/github"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 66,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 74,
+      "total_score": 67,
+      "rank": 304,
+      "cluster_id": "github_blog_1938e099",
+      "dedupe_key": "5de1b4492c48bddf",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Staying Evergreen: How we automated secure access and repo hygiene in a shared org 来自 GitHub Copilot 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-16",
+      "last_seen_issue": "2026-10-16",
+      "used_in_issue": "2026-10-16"
+    },
+    {
+      "id": "cand_5ad0a0525afa927b",
+      "canonical_url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery",
+      "source_url": "https://deepmind.google/discover/blog/feed",
+      "source_fetch_url": "https://deepmind.google/discover/blog/feed",
+      "source_platform": "web",
+      "source_domain": "deepmind.google",
+      "source_name": "Google DeepMind",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+      "subtitle": "",
+      "author": "Google DeepMind",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Google DeepMind",
+      "language": "unknown",
+      "published_at": "Thu, 15 Oct 2026 16:08:03 +0000",
+      "captured_at": "2026-10-15T23:32:55.078Z",
+      "captured_issue": "2026-10-16",
+      "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+      "excerpt": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+      "raw_text_available": false,
+      "topics": [
+        "Multimodal",
+        "Research"
+      ],
+      "tags": [
+        "research",
+        "multimodal",
+        "science",
+        "official"
+      ],
+      "entities": [
+        "Google DeepMind"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://deepmind.google/blog/accelerating-antimicrobial-discovery",
+        "https://deepmind.google/discover/blog/feed",
+        "https://deepmind.google",
+        "https://deepmind.google/discover/blog",
+        "https://x.com/GoogleDeepMind"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 50,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 62,
+      "total_score": 66,
+      "rank": 320,
+      "cluster_id": "deepmind_google_cf2c6c88",
+      "dedupe_key": "025f7d6165d33a33",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Accelerating the search for antimicrobial peptides with Google Antigravity 来自 Google DeepMind 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-16",
+      "last_seen_issue": "2026-10-16",
+      "used_in_issue": "2026-10-16"
+    },
+    {
+      "id": "cand_08fd938e5bb678af",
+      "canonical_url": "https://vercel.com/blog/backends-on-vercel-python-containers-and-daemons",
+      "source_url": "https://vercel.com/blog",
+      "source_fetch_url": "https://vercel.com/blog",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "15 October General Backends on Vercel: Python, containers, and Daemons Vercel now supports more backend workloads, from Python APIs and custom runtimes to background workers. Steren, Yury Selivanov",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "",
+      "captured_at": "2026-10-15T23:33:04.730Z",
+      "captured_issue": "2026-10-16",
+      "summary": "Blog - Vercel · 15 October General Backends on Vercel: Python, containers, and Daemons Vercel now supports more backend workloads, from Python APIs and custom runtimes to background workers. Steren, Yury Selivanov",
+      "excerpt": "Blog - Vercel · 15 October General Backends on Vercel: Python, containers, and Daemons Vercel now supports more backend workloads, from Python APIs and custom runtimes to background workers. Steren, Yury Selivanov",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/blog/backends-on-vercel-python-containers-and-daemons",
+        "https://vercel.com/blog",
+        "https://vercel.com/ai",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 74,
+      "total_score": 66,
+      "rank": 384,
+      "cluster_id": "vercel_com_7d50a240",
+      "dedupe_key": "4b2c7a516b3537ab",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：15 October General Backends on Vercel: Python, containers, and Daemons Vercel now supports more backend workloads, from Python APIs and custom runtimes to background workers. Steren, Yury Selivanov 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-16",
+      "last_seen_issue": "2026-10-16",
+      "used_in_issue": "2026-10-16"
+    },
+    {
+      "id": "cand_403946da582a5cef",
+      "canonical_url": "https://vercel.com/blog/introducing-vercel-drives-persistent-storage-for-agents",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Introducing Vercel Drives: persistent storage for agents",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-10-15T07:00:00.000Z",
+      "captured_at": "2026-10-15T23:33:05.025Z",
+      "captured_issue": "2026-10-16",
+      "summary": "Agents often handle complex work that continues across runs. As that work evolves, they may need a new environment with different tools, runtimes, or compute. They should be able to continue working with the same files when they change environments. We built Vercel Drives to keep an agent’s files independent of its execution environment. It is now generally available for Vercel Sandbox . Agents can mount the same drive in a new environment configured for the next task and con",
+      "excerpt": "Agents often handle complex work that continues across runs. As that work evolves, they may need a new environment with different tools, runtimes, or compute. They should be able to continue working with the same files when they change environments. We built Vercel Drives to keep an agent’s files independent of its execution environment. It is now generally available for Vercel Sandbox . Agents can mount the same drive in a new environment configured for the next task and con",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/blog/introducing-vercel-drives-persistent-storage-for-agents",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 69,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 66,
+      "rank": 385,
+      "cluster_id": "vercel_com_1e7edf6f",
+      "dedupe_key": "749ecee858e8c532",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Introducing Vercel Drives: persistent storage for agents 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-16",
+      "last_seen_issue": "2026-10-16",
+      "used_in_issue": "2026-10-16"
+    },
+    {
+      "id": "cand_8bf4580cbae9f982",
+      "canonical_url": "https://vercel.com/changelog/vercel-daemons-is-now-in-public-beta",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Vercel Daemons is now in public beta",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-10-15T07:00:00.000Z",
+      "captured_at": "2026-10-15T23:33:05.025Z",
+      "captured_issue": "2026-10-16",
+      "summary": "Vercel Daemons is now in public beta, allowing you to run long-running processes that pull and execute work from Vercel Queues , databases, or third-party systems without requiring an HTTP server: Consumers using Vercel Queues poll mode , Celery, BullMQ, RabbitMQ, or Kafka. Temporal or Cadence workers that long-poll their task queues. Self-hosted CI runners for GitHub Actions, GitLab, or CircleCI that poll for jobs without requiring inbound connections. Daemons run containers",
+      "excerpt": "Vercel Daemons is now in public beta, allowing you to run long-running processes that pull and execute work from Vercel Queues , databases, or third-party systems without requiring an HTTP server: Consumers using Vercel Queues poll mode , Celery, BullMQ, RabbitMQ, or Kafka. Temporal or Cadence workers that long-poll their task queues. Self-hosted CI runners for GitHub Actions, GitLab, or CircleCI that poll for jobs without requiring inbound connections. Daemons run containers",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/changelog/vercel-daemons-is-now-in-public-beta",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 74,
+      "total_score": 66,
+      "rank": 387,
+      "cluster_id": "vercel_com_5a25a34e",
+      "dedupe_key": "2a73e460ef8d9ee2",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Vercel Daemons is now in public beta 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-16",
+      "last_seen_issue": "2026-10-16",
+      "used_in_issue": "2026-10-16"
+    },
+    {
+      "id": "cand_7fed38020b0ed73b",
+      "canonical_url": "https://vercel.com/changelog/vercel-drives-is-now-generally-available",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Vercel Drives is now generally available",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-10-15T00:00:00.000Z",
+      "captured_at": "2026-10-15T23:33:05.026Z",
+      "captured_issue": "2026-10-16",
+      "summary": "Vercel Drives is now generally available for Vercel Sandbox on Hobby, Pro, and Enterprise. A Drive is persistent storage that you mount as a directory in a Vercel Sandbox. Its files remain available after the sandbox stops, so later runs and other sandboxes can access them by mounting the same Drive. Use Drives to preserve an agent’s workspace or file-based memory across runs, or to make datasets, models, dependencies, and build artifacts available across sandboxes. You can a",
+      "excerpt": "Vercel Drives is now generally available for Vercel Sandbox on Hobby, Pro, and Enterprise. A Drive is persistent storage that you mount as a directory in a Vercel Sandbox. Its files remain available after the sandbox stops, so later runs and other sandboxes can access them by mounting the same Drive. Use Drives to preserve an agent’s workspace or file-based memory across runs, or to make datasets, models, dependencies, and build artifacts available across sandboxes. You can a",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/changelog/vercel-drives-is-now-generally-available",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 69,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 66,
+      "rank": 388,
+      "cluster_id": "vercel_com_05fe528b",
+      "dedupe_key": "57941572a8691d07",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Vercel Drives is now generally available 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-16",
+      "last_seen_issue": "2026-10-16",
+      "used_in_issue": "2026-10-16"
+    },
+    {
+      "id": "cand_99d6deab73fdc7c3",
+      "canonical_url": "https://vercel.com/changelog/vercel-connect-adds-enterprise-managed-authorization",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Vercel Connect adds Enterprise-Managed Authorization",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-10-15T00:00:00.000Z",
+      "captured_at": "2026-10-15T23:33:05.026Z",
+      "captured_issue": "2026-10-16",
+      "summary": "Vercel Connect now supports Enterprise-Managed Authorization (EMA) in public beta. Your apps and agents can access supported services on behalf of signed-in users without separate consent prompts for each service. Here's how access works: Admin-managed access: Administrators can grant or revoke access to supported services through the identity provider. Corporate sign-in: Users sign into your app with their corporate account through a compatible identity provider such as Okta",
+      "excerpt": "Vercel Connect now supports Enterprise-Managed Authorization (EMA) in public beta. Your apps and agents can access supported services on behalf of signed-in users without separate consent prompts for each service. Here's how access works: Admin-managed access: Administrators can grant or revoke access to supported services through the identity provider. Corporate sign-in: Users sign into your app with their corporate account through a compatible identity provider such as Okta",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/changelog/vercel-connect-adds-enterprise-managed-authorization",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 69,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 66,
+      "rank": 389,
+      "cluster_id": "vercel_com_38c22b3f",
+      "dedupe_key": "e1d9284022af1177",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Vercel Connect adds Enterprise-Managed Authorization 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-16",
+      "last_seen_issue": "2026-10-16",
+      "used_in_issue": "2026-10-16"
+    },
+    {
+      "id": "cand_65b1df834de4dc7f",
+      "canonical_url": "https://vercel.com/changelog/mcp-events-support-in-vercel-connect-is-now-in-public-beta",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "MCP Events support in Vercel Connect is now in public beta",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-10-15T00:00:00.000Z",
+      "captured_at": "2026-10-15T23:33:05.026Z",
+      "captured_issue": "2026-10-16",
+      "summary": "Vercel Connect now supports MCP Events in public beta, allowing your apps and agents to subscribe to webhook events from compatible MCP servers. Build agents for tasks like summarizing new messages, reviewing newly created issues, or responding to document feedback. Connect creates subscriptions on the MCP server and renews them automatically as needed, verifying the server’s webhooks and forwarding events to your application using authenticated delivery. You can use the Conn",
+      "excerpt": "Vercel Connect now supports MCP Events in public beta, allowing your apps and agents to subscribe to webhook events from compatible MCP servers. Build agents for tasks like summarizing new messages, reviewing newly created issues, or responding to document feedback. Connect creates subscriptions on the MCP server and renews them automatically as needed, verifying the server’s webhooks and forwarding events to your application using authenticated delivery. You can use the Conn",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/changelog/mcp-events-support-in-vercel-connect-is-now-in-public-beta",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 69,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 66,
+      "rank": 390,
+      "cluster_id": "vercel_com_9229d3f1",
+      "dedupe_key": "8d0adc964a04dbaf",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：MCP Events support in Vercel Connect is now in public beta 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-16",
+      "last_seen_issue": "2026-10-16",
+      "used_in_issue": "2026-10-16"
+    },
+    {
+      "id": "cand_5d90858566f525fd",
+      "canonical_url": "https://www.langchain.com/blog/common-questions-about-agent-evals",
+      "source_url": "https://blog.langchain.com/rss.xml",
+      "source_fetch_url": "https://blog.langchain.com/rss.xml",
+      "source_platform": "web",
+      "source_domain": "langchain.com",
+      "source_name": "LangChain",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "external_article",
+      "title": "The Most Common Questions About Agent Evals, Answered",
+      "subtitle": "",
+      "author": "LangChain",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "LangChain",
+      "language": "unknown",
+      "published_at": "Thu, 15 Oct 2026 01:19:37 GMT",
+      "captured_at": "2026-10-15T23:33:05.880Z",
+      "captured_issue": "2026-10-16",
+      "summary": "Where to start with agent evals, offline vs online evals, evaluator types, LLM judges, benchmarks with Harbor, multi-turn evals, and keeping costs down.",
+      "excerpt": "Where to start with agent evals, offline vs online evals, evaluator types, LLM judges, benchmarks with Harbor, multi-turn evals, and keeping costs down.",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "agents",
+        "rag",
+        "framework"
+      ],
+      "entities": [
+        "LangChain"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://www.langchain.com/blog/common-questions-about-agent-evals",
+        "https://blog.langchain.com/rss.xml",
+        "https://www.langchain.com",
+        "https://blog.langchain.com",
+        "https://x.com/LangChainAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 66,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 62,
+      "total_score": 66,
+      "rank": 411,
+      "cluster_id": "langchain_com_1cefd582",
+      "dedupe_key": "311f7e70b98fab52",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：The Most Common Questions About Agent Evals, Answered 来自 LangChain 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-16",
+      "last_seen_issue": "2026-10-16",
+      "used_in_issue": "2026-10-16"
+    },
+    {
+      "id": "cand_f70f836857b62caa",
+      "canonical_url": "https://vercel.com/blog/ai-gateway-production-index-october-2026",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Open weight takes 71.5% of tokens and 23% of spend",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-10-15T07:00:00.000Z",
+      "captured_at": "2026-10-15T23:33:05.024Z",
+      "captured_issue": "2026-10-16",
+      "summary": "AI Gateway Production Index — October 2026 Every month, AI Gateway routes tens of trillions of tokens between production applications and AI labs. That traffic gives us a view of what AI usage actually looks like in today's enterprise, and we publish it here monthly. See the Production Index reports from July , August , and September . October 2026 summary Open-weight models now process more than seven in ten gateway tokens and account for nearly one in four dollars. Their sh",
+      "excerpt": "AI Gateway Production Index — October 2026 Every month, AI Gateway routes tens of trillions of tokens between production applications and AI labs. That traffic gives us a view of what AI usage actually looks like in today's enterprise, and we publish it here monthly. See the Production Index reports from July , August , and September . October 2026 summary Open-weight models now process more than seven in ten gateway tokens and account for nearly one in four dollars. Their sh",
+      "raw_text_available": false,
+      "topics": [
+        "Product"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/blog/ai-gateway-production-index-october-2026",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 65,
+      "rank": 446,
+      "cluster_id": "vercel_com_30142dbc",
+      "dedupe_key": "e734245acbb9effb",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Open weight takes 71.5% of tokens and 23% of spend 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-16",
+      "last_seen_issue": "2026-10-16",
+      "used_in_issue": "2026-10-16"
+    },
+    {
+      "id": "cand_2bcf89fd51e35a2f",
+      "canonical_url": "https://vercel.com/changelog/liquid-ais-d1-ultra-now-available-on-ai-gateway",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Liquid AI's d1-ultra now available on AI Gateway",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-10-15T00:00:00.000Z",
+      "captured_at": "2026-10-15T23:33:05.025Z",
+      "captured_issue": "2026-10-16",
+      "summary": "d1-ultra from Liquid AI is now available on AI Gateway. It is a multimodal decision model for classification, routing, and scoring across text and images, including visual defect inspection and checking damage claims against customer photos. Rather than generating text, d1-ultra returns structured answers with probabilities. Ask a Boolean question to get the probability of a yes/no answer, use Choice to select among named categories, or use Score to rate an ordered scale. You",
+      "excerpt": "d1-ultra from Liquid AI is now available on AI Gateway. It is a multimodal decision model for classification, routing, and scoring across text and images, including visual defect inspection and checking damage claims against customer photos. Rather than generating text, d1-ultra returns structured answers with probabilities. Ask a Boolean question to get the probability of a yes/no answer, use Choice to select among named categories, or use Score to rate an ordered scale. You",
+      "raw_text_available": false,
+      "topics": [
+        "Multimodal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/changelog/liquid-ais-d1-ultra-now-available-on-ai-gateway",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 69,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 74,
+      "total_score": 65,
+      "rank": 447,
+      "cluster_id": "vercel_com_cb7272a5",
+      "dedupe_key": "b2c9891ce3278bce",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Liquid AI's d1-ultra now available on AI Gateway 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-16",
+      "last_seen_issue": "2026-10-16",
+      "used_in_issue": "2026-10-16"
+    }
+  ],
+  "clusters": [
+    {
+      "cluster_id": "developer_nvidia_com_9d194324",
+      "title": "NVIDIA Nemotron 3.5 Super VL Powers Specialized Agents with Multimodal Reasoning",
+      "summary": "NVIDIA Technical Blog · NVIDIA Nemotron 3.5 Super VL Powers Specialized Agents with Multimodal Reasoning",
+      "primary_source": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning",
+      "supporting_sources": [
+        "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning",
+        "https://developer.nvidia.com/blog",
+        "https://blogs.nvidia.com/blog/category/deep-learning",
+        "https://x.com/NVIDIAAI"
+      ],
+      "related_x_posts": [
+        "https://x.com/NVIDIAAI"
+      ],
+      "related_articles": [
+        "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning",
+        "https://developer.nvidia.com/blog",
+        "https://blogs.nvidia.com/blog/category/deep-learning"
+      ],
+      "entities": [
+        "NVIDIA AI"
+      ],
+      "tags": [
+        "gpu",
+        "inference",
+        "ai_infra"
+      ],
+      "score": 72,
+      "selected_item_id": "cand_fafb30eba968bb59"
+    },
+    {
+      "cluster_id": "developer_nvidia_com_7621ea70",
+      "title": "Scale Agentic Coding Workflows with Meta’s Muse Spark Open on NVIDIA GB300 NVL72",
+      "summary": "NVIDIA Technical Blog · Scale Agentic Coding Workflows with Meta’s Muse Spark Open on NVIDIA GB300 NVL72",
+      "primary_source": "https://developer.nvidia.com/blog/scale-agentic-coding-workflows-with-metas-muse-spark-open-on-nvidia-gb300-nvl72",
+      "supporting_sources": [
+        "https://developer.nvidia.com/blog/scale-agentic-coding-workflows-with-metas-muse-spark-open-on-nvidia-gb300-nvl72",
+        "https://developer.nvidia.com/blog",
+        "https://blogs.nvidia.com/blog/category/deep-learning",
+        "https://x.com/NVIDIAAI"
+      ],
+      "related_x_posts": [
+        "https://x.com/NVIDIAAI"
+      ],
+      "related_articles": [
+        "https://developer.nvidia.com/blog/scale-agentic-coding-workflows-with-metas-muse-spark-open-on-nvidia-gb300-nvl72",
+        "https://developer.nvidia.com/blog",
+        "https://blogs.nvidia.com/blog/category/deep-learning"
+      ],
+      "entities": [
+        "NVIDIA AI"
+      ],
+      "tags": [
+        "gpu",
+        "inference",
+        "ai_infra"
+      ],
+      "score": 72,
+      "selected_item_id": "cand_b5e50fbea59fe176"
+    },
+    {
+      "cluster_id": "vercel_com_d327bc4f",
+      "title": "Muse Spark Open now available on AI Gateway",
+      "summary": "Muse Spark Open from Meta is now available on AI Gateway. The open-weight reasoning model is designed for coding and agentic workflows, including multi-file refactoring, debugging, and understanding large codebases. Muse Spark Open supports text and image input with a 1M-token context window, allowing agents to work with code and screenshots in the same request. It is available with ZDR and no training, without creating separate provider accounts. Use meta/muse-spark-open as ",
+      "primary_source": "https://vercel.com/changelog/muse-spark-open-now-available-on-ai-gateway",
+      "supporting_sources": [
+        "https://vercel.com/changelog/muse-spark-open-now-available-on-ai-gateway",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "related_x_posts": [
+        "https://x.com/vercel"
+      ],
+      "related_articles": [
+        "https://vercel.com/changelog/muse-spark-open-now-available-on-ai-gateway",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "score": 71,
+      "selected_item_id": "cand_58bdd02a16ad20e1"
+    },
+    {
+      "cluster_id": "vercel_com_caf61d79",
+      "title": "Cat Jam is now available in stealth for free on AI Gateway",
+      "summary": "Cat Jam is now available on AI Gateway as a stealth model, free to use during the stealth period. Cat Jam is a reasoning model for coding and agentic tasks, with low-latency inference. It supports function calling , so agents can connect it to your own tools, and structured outputs that follow a JSON schema you supply. Responses include the model's reasoning text alongside the answer. Cat Jam takes text input only. Cat Jam supports low , medium , high , xhigh , and max reason",
+      "primary_source": "https://vercel.com/changelog/cat-jam-is-now-available-in-stealth-for-free-on-ai-gateway",
+      "supporting_sources": [
+        "https://vercel.com/changelog/cat-jam-is-now-available-in-stealth-for-free-on-ai-gateway",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "related_x_posts": [
+        "https://x.com/vercel"
+      ],
+      "related_articles": [
+        "https://vercel.com/changelog/cat-jam-is-now-available-in-stealth-for-free-on-ai-gateway",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "score": 71,
+      "selected_item_id": "cand_286dcb9082228c90"
+    },
+    {
+      "cluster_id": "vercel_com_dfcf31e2",
+      "title": "Python on Vercel is now generally available",
+      "summary": "Python is now a first-class language and runtime on Vercel. Build APIs, full-stack applications, and AI agents with native Python SDKs and a shared development and deployment workflow for your Python backend and JavaScript frontend. Python framework and runtime support Vercel handles the infrastructure so you can focus on your application: Automatic framework support: FastAPI, Flask, and Django applications are automatically recognized and configured, with framework-specific ",
+      "primary_source": "https://vercel.com/changelog/python-on-vercel-is-now-generally-available",
+      "supporting_sources": [
+        "https://vercel.com/changelog/python-on-vercel-is-now-generally-available",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "related_x_posts": [
+        "https://x.com/vercel"
+      ],
+      "related_articles": [
+        "https://vercel.com/changelog/python-on-vercel-is-now-generally-available",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "score": 71,
+      "selected_item_id": "cand_71988b56f741207f"
+    },
+    {
+      "cluster_id": "github_blog_89188c16",
+      "title": "The next developer interface is ambient intelligence",
+      "summary": "AI, agents, voice, and physical controls are shifting software development from operating tools to expressing intent—and helping developers stay focused on building. The post The next developer interface is ambient intelligence appeared first on The GitHub Blog .",
+      "primary_source": "https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence",
+      "supporting_sources": [
+        "https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence",
+        "https://github.blog/feed",
+        "https://github.com/features/copilot",
+        "https://github.blog",
+        "https://x.com/github"
+      ],
+      "related_x_posts": [
+        "https://x.com/github"
+      ],
+      "related_articles": [
+        "https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence",
+        "https://github.blog/feed",
+        "https://github.com/features/copilot",
+        "https://github.blog"
+      ],
+      "entities": [
+        "GitHub Copilot"
+      ],
+      "tags": [
+        "ai_coding",
+        "developer_tools"
+      ],
+      "score": 70,
+      "selected_item_id": "cand_3b858180c887056b"
+    },
+    {
+      "cluster_id": "vercel_com_d3758ecf",
+      "title": "Introducing Token Pass",
+      "summary": "Vercel Token Pass is now in early access for Pro teams. For $30 per month, your team gets $80 in monthly credit for GLM 5.3 and Kimi K3, with more models to come. Use Token Pass with coding agents such as fx, Command Code, and Pi, or build your own personal agent with the AI SDK. Token Pass runs through AI Gateway , so you can choose your tools and switch between included models using your team’s shared credit. Token Pass has Zero Data Retention (ZDR) enabled by default. Requ",
+      "primary_source": "https://vercel.com/changelog/introducing-token-pass",
+      "supporting_sources": [
+        "https://vercel.com/changelog/introducing-token-pass",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "related_x_posts": [
+        "https://x.com/vercel"
+      ],
+      "related_articles": [
+        "https://vercel.com/changelog/introducing-token-pass",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "score": 69,
+      "selected_item_id": "cand_c53c914c4a9937d8"
+    },
+    {
+      "cluster_id": "openai_com_75a967f3",
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+      "primary_source": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "supporting_sources": [
+        "https://openai.com/index/introducing-the-rosalind-academic-plan",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news",
+        "https://x.com/OpenAI"
+      ],
+      "related_x_posts": [
+        "https://x.com/OpenAI"
+      ],
+      "related_articles": [
+        "https://openai.com/index/introducing-the-rosalind-academic-plan",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "score": 67,
+      "selected_item_id": "cand_b817aaf21a197410"
+    },
+    {
+      "cluster_id": "openai_com_18693d3c",
+      "title": "Teaching students to think and learn through questions",
+      "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+      "primary_source": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+      "supporting_sources": [
+        "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news",
+        "https://x.com/OpenAI"
+      ],
+      "related_x_posts": [
+        "https://x.com/OpenAI"
+      ],
+      "related_articles": [
+        "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "score": 67,
+      "selected_item_id": "cand_401a245189c34274"
+    },
+    {
+      "cluster_id": "github_blog_1938e099",
+      "title": "Staying Evergreen: How we automated secure access and repo hygiene in a shared org",
+      "summary": "Put native GitHub features to work to review outside collaborator access and archive stale repositories. The post Staying Evergreen: How we automated secure access and repo hygiene in a shared org appeared first on The GitHub Blog .",
+      "primary_source": "https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org",
+      "supporting_sources": [
+        "https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org",
+        "https://github.blog/feed",
+        "https://github.com/features/copilot",
+        "https://github.blog",
+        "https://x.com/github"
+      ],
+      "related_x_posts": [
+        "https://x.com/github"
+      ],
+      "related_articles": [
+        "https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org",
+        "https://github.blog/feed",
+        "https://github.com/features/copilot",
+        "https://github.blog"
+      ],
+      "entities": [
+        "GitHub Copilot"
+      ],
+      "tags": [
+        "ai_coding",
+        "developer_tools"
+      ],
+      "score": 67,
+      "selected_item_id": "cand_e44bd4b3ec54d795"
+    },
+    {
+      "cluster_id": "deepmind_google_cf2c6c88",
+      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+      "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+      "primary_source": "https://deepmind.google/blog/accelerating-antimicrobial-discovery",
+      "supporting_sources": [
+        "https://deepmind.google/blog/accelerating-antimicrobial-discovery",
+        "https://deepmind.google/discover/blog/feed",
+        "https://deepmind.google",
+        "https://deepmind.google/discover/blog",
+        "https://x.com/GoogleDeepMind"
+      ],
+      "related_x_posts": [
+        "https://x.com/GoogleDeepMind"
+      ],
+      "related_articles": [
+        "https://deepmind.google/blog/accelerating-antimicrobial-discovery",
+        "https://deepmind.google/discover/blog/feed",
+        "https://deepmind.google",
+        "https://deepmind.google/discover/blog"
+      ],
+      "entities": [
+        "Google DeepMind"
+      ],
+      "tags": [
+        "research",
+        "multimodal",
+        "science",
+        "official"
+      ],
+      "score": 66,
+      "selected_item_id": "cand_5ad0a0525afa927b"
+    },
+    {
+      "cluster_id": "vercel_com_7d50a240",
+      "title": "15 October General Backends on Vercel: Python, containers, and Daemons Vercel now supports more backend workloads, from Python APIs and custom runtimes to background workers. Steren, Yury Selivanov",
+      "summary": "Blog - Vercel · 15 October General Backends on Vercel: Python, containers, and Daemons Vercel now supports more backend workloads, from Python APIs and custom runtimes to background workers. Steren, Yury Selivanov",
+      "primary_source": "https://vercel.com/blog/backends-on-vercel-python-containers-and-daemons",
+      "supporting_sources": [
+        "https://vercel.com/blog/backends-on-vercel-python-containers-and-daemons",
+        "https://vercel.com/blog",
+        "https://vercel.com/ai",
+        "https://x.com/vercel"
+      ],
+      "related_x_posts": [
+        "https://x.com/vercel"
+      ],
+      "related_articles": [
+        "https://vercel.com/blog/backends-on-vercel-python-containers-and-daemons",
+        "https://vercel.com/blog",
+        "https://vercel.com/ai"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "score": 66,
+      "selected_item_id": "cand_08fd938e5bb678af"
+    },
+    {
+      "cluster_id": "vercel_com_1e7edf6f",
+      "title": "Introducing Vercel Drives: persistent storage for agents",
+      "summary": "Agents often handle complex work that continues across runs. As that work evolves, they may need a new environment with different tools, runtimes, or compute. They should be able to continue working with the same files when they change environments. We built Vercel Drives to keep an agent’s files independent of its execution environment. It is now generally available for Vercel Sandbox . Agents can mount the same drive in a new environment configured for the next task and con",
+      "primary_source": "https://vercel.com/blog/introducing-vercel-drives-persistent-storage-for-agents",
+      "supporting_sources": [
+        "https://vercel.com/blog/introducing-vercel-drives-persistent-storage-for-agents",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "related_x_posts": [
+        "https://x.com/vercel"
+      ],
+      "related_articles": [
+        "https://vercel.com/blog/introducing-vercel-drives-persistent-storage-for-agents",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "score": 66,
+      "selected_item_id": "cand_403946da582a5cef"
+    },
+    {
+      "cluster_id": "vercel_com_5a25a34e",
+      "title": "Vercel Daemons is now in public beta",
+      "summary": "Vercel Daemons is now in public beta, allowing you to run long-running processes that pull and execute work from Vercel Queues , databases, or third-party systems without requiring an HTTP server: Consumers using Vercel Queues poll mode , Celery, BullMQ, RabbitMQ, or Kafka. Temporal or Cadence workers that long-poll their task queues. Self-hosted CI runners for GitHub Actions, GitLab, or CircleCI that poll for jobs without requiring inbound connections. Daemons run containers",
+      "primary_source": "https://vercel.com/changelog/vercel-daemons-is-now-in-public-beta",
+      "supporting_sources": [
+        "https://vercel.com/changelog/vercel-daemons-is-now-in-public-beta",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "related_x_posts": [
+        "https://x.com/vercel"
+      ],
+      "related_articles": [
+        "https://vercel.com/changelog/vercel-daemons-is-now-in-public-beta",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "score": 66,
+      "selected_item_id": "cand_8bf4580cbae9f982"
+    },
+    {
+      "cluster_id": "vercel_com_05fe528b",
+      "title": "Vercel Drives is now generally available",
+      "summary": "Vercel Drives is now generally available for Vercel Sandbox on Hobby, Pro, and Enterprise. A Drive is persistent storage that you mount as a directory in a Vercel Sandbox. Its files remain available after the sandbox stops, so later runs and other sandboxes can access them by mounting the same Drive. Use Drives to preserve an agent’s workspace or file-based memory across runs, or to make datasets, models, dependencies, and build artifacts available across sandboxes. You can a",
+      "primary_source": "https://vercel.com/changelog/vercel-drives-is-now-generally-available",
+      "supporting_sources": [
+        "https://vercel.com/changelog/vercel-drives-is-now-generally-available",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "related_x_posts": [
+        "https://x.com/vercel"
+      ],
+      "related_articles": [
+        "https://vercel.com/changelog/vercel-drives-is-now-generally-available",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "score": 66,
+      "selected_item_id": "cand_7fed38020b0ed73b"
+    },
+    {
+      "cluster_id": "vercel_com_38c22b3f",
+      "title": "Vercel Connect adds Enterprise-Managed Authorization",
+      "summary": "Vercel Connect now supports Enterprise-Managed Authorization (EMA) in public beta. Your apps and agents can access supported services on behalf of signed-in users without separate consent prompts for each service. Here's how access works: Admin-managed access: Administrators can grant or revoke access to supported services through the identity provider. Corporate sign-in: Users sign into your app with their corporate account through a compatible identity provider such as Okta",
+      "primary_source": "https://vercel.com/changelog/vercel-connect-adds-enterprise-managed-authorization",
+      "supporting_sources": [
+        "https://vercel.com/changelog/vercel-connect-adds-enterprise-managed-authorization",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "related_x_posts": [
+        "https://x.com/vercel"
+      ],
+      "related_articles": [
+        "https://vercel.com/changelog/vercel-connect-adds-enterprise-managed-authorization",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "score": 66,
+      "selected_item_id": "cand_99d6deab73fdc7c3"
+    },
+    {
+      "cluster_id": "vercel_com_9229d3f1",
+      "title": "MCP Events support in Vercel Connect is now in public beta",
+      "summary": "Vercel Connect now supports MCP Events in public beta, allowing your apps and agents to subscribe to webhook events from compatible MCP servers. Build agents for tasks like summarizing new messages, reviewing newly created issues, or responding to document feedback. Connect creates subscriptions on the MCP server and renews them automatically as needed, verifying the server’s webhooks and forwarding events to your application using authenticated delivery. You can use the Conn",
+      "primary_source": "https://vercel.com/changelog/mcp-events-support-in-vercel-connect-is-now-in-public-beta",
+      "supporting_sources": [
+        "https://vercel.com/changelog/mcp-events-support-in-vercel-connect-is-now-in-public-beta",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "related_x_posts": [
+        "https://x.com/vercel"
+      ],
+      "related_articles": [
+        "https://vercel.com/changelog/mcp-events-support-in-vercel-connect-is-now-in-public-beta",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "score": 66,
+      "selected_item_id": "cand_65b1df834de4dc7f"
+    },
+    {
+      "cluster_id": "langchain_com_1cefd582",
+      "title": "The Most Common Questions About Agent Evals, Answered",
+      "summary": "Where to start with agent evals, offline vs online evals, evaluator types, LLM judges, benchmarks with Harbor, multi-turn evals, and keeping costs down.",
+      "primary_source": "https://www.langchain.com/blog/common-questions-about-agent-evals",
+      "supporting_sources": [
+        "https://www.langchain.com/blog/common-questions-about-agent-evals",
+        "https://blog.langchain.com/rss.xml",
+        "https://www.langchain.com",
+        "https://blog.langchain.com",
+        "https://x.com/LangChainAI"
+      ],
+      "related_x_posts": [
+        "https://x.com/LangChainAI"
+      ],
+      "related_articles": [
+        "https://www.langchain.com/blog/common-questions-about-agent-evals",
+        "https://blog.langchain.com/rss.xml",
+        "https://www.langchain.com",
+        "https://blog.langchain.com"
+      ],
+      "entities": [
+        "LangChain"
+      ],
+      "tags": [
+        "agents",
+        "rag",
+        "framework"
+      ],
+      "score": 66,
+      "selected_item_id": "cand_5d90858566f525fd"
+    },
+    {
+      "cluster_id": "vercel_com_30142dbc",
+      "title": "Open weight takes 71.5% of tokens and 23% of spend",
+      "summary": "AI Gateway Production Index — October 2026 Every month, AI Gateway routes tens of trillions of tokens between production applications and AI labs. That traffic gives us a view of what AI usage actually looks like in today's enterprise, and we publish it here monthly. See the Production Index reports from July , August , and September . October 2026 summary Open-weight models now process more than seven in ten gateway tokens and account for nearly one in four dollars. Their sh",
+      "primary_source": "https://vercel.com/blog/ai-gateway-production-index-october-2026",
+      "supporting_sources": [
+        "https://vercel.com/blog/ai-gateway-production-index-october-2026",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "related_x_posts": [
+        "https://x.com/vercel"
+      ],
+      "related_articles": [
+        "https://vercel.com/blog/ai-gateway-production-index-october-2026",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "score": 65,
+      "selected_item_id": "cand_f70f836857b62caa"
+    },
+    {
+      "cluster_id": "vercel_com_cb7272a5",
+      "title": "Liquid AI's d1-ultra now available on AI Gateway",
+      "summary": "d1-ultra from Liquid AI is now available on AI Gateway. It is a multimodal decision model for classification, routing, and scoring across text and images, including visual defect inspection and checking damage claims against customer photos. Rather than generating text, d1-ultra returns structured answers with probabilities. Ask a Boolean question to get the probability of a yes/no answer, use Choice to select among named categories, or use Score to rate an ordered scale. You",
+      "primary_source": "https://vercel.com/changelog/liquid-ais-d1-ultra-now-available-on-ai-gateway",
+      "supporting_sources": [
+        "https://vercel.com/changelog/liquid-ais-d1-ultra-now-available-on-ai-gateway",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "related_x_posts": [
+        "https://x.com/vercel"
+      ],
+      "related_articles": [
+        "https://vercel.com/changelog/liquid-ais-d1-ultra-now-available-on-ai-gateway",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "score": 65,
+      "selected_item_id": "cand_2bcf89fd51e35a2f"
+    },
+    {
+      "cluster_id": "langchain_com_e58ee99e",
+      "title": "October 2026 LangChain Newsletter: Everything we shipped at Interrupt NYC & London",
+      "summary": "What we shipped at Interrupt NYC and London: LangSmith AI Search, Engine v2, Trajectories, Custom Apps, Fine-Tuning, and Managed Deep Agents v0.9.",
+      "primary_source": "https://www.langchain.com/blog/october-2026-langchain-newsletter",
+      "supporting_sources": [
+        "https://www.langchain.com/blog/october-2026-langchain-newsletter",
+        "https://blog.langchain.com/rss.xml",
+        "https://www.langchain.com",
+        "https://blog.langchain.com",
+        "https://x.com/LangChainAI"
+      ],
+      "related_x_posts": [
+        "https://x.com/LangChainAI"
+      ],
+      "related_articles": [
+        "https://www.langchain.com/blog/october-2026-langchain-newsletter",
+        "https://blog.langchain.com/rss.xml",
+        "https://www.langchain.com",
+        "https://blog.langchain.com"
+      ],
+      "entities": [
+        "LangChain"
+      ],
+      "tags": [
+        "agents",
+        "rag",
+        "framework"
+      ],
+      "score": 65,
+      "selected_item_id": "cand_a073c4984c11c1a0"
+    },
+    {
+      "cluster_id": "vercel_com_8cda1bcd",
+      "title": "Vercel for Enterprise",
+      "summary": "AI adoption in the enterprise is growing rapidly, and expanding beyond engineering users. In the last three months, token usage by enterprise companies on AI Gateway has quadrupled, and OpenAI recently reported that from August 2025 to June 2026, non-developer Codex users grew 189x. Our customers call these builders citizen developers. They know their part of the business better than anyone else, and with AI they can create the software they need to ship work faster and deliv",
+      "primary_source": "https://vercel.com/blog/vercel-for-enterprise",
+      "supporting_sources": [
+        "https://vercel.com/blog/vercel-for-enterprise",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "related_x_posts": [
+        "https://x.com/vercel"
+      ],
+      "related_articles": [
+        "https://vercel.com/blog/vercel-for-enterprise",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "score": 63,
+      "selected_item_id": "cand_f884bf6326148eaa"
+    },
+    {
+      "cluster_id": "vercel_com_00b8aaea",
+      "title": "Vercel Connect now supports Secure Compute",
+      "summary": "Vercel Connect now supports Secure Compute , allowing connectors to reach providers with IP allowlists, such as Salesforce and Snowflake. With Secure Compute routing enabled, Connect’s provider requests use the selected network’s dedicated static IP addresses instead of Connect’s shared IPs. Requests to obtain and refresh access tokens follow that route; your app’s direct API routing is unchanged by this setting. Credential management stays the same, so you don’t need to stor",
+      "primary_source": "https://vercel.com/changelog/vercel-connect-secure-compute",
+      "supporting_sources": [
+        "https://vercel.com/changelog/vercel-connect-secure-compute",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "related_x_posts": [
+        "https://x.com/vercel"
+      ],
+      "related_articles": [
+        "https://vercel.com/changelog/vercel-connect-secure-compute",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "score": 63,
+      "selected_item_id": "cand_8bc52979d1d43467"
+    },
+    {
+      "cluster_id": "vercel_com_16ad27d2",
+      "title": "Bring Your Own Cloud on AWS is now generally available",
+      "summary": "Enterprise teams can now run Vercel Functions in their own AWS account with Bring Your Own Cloud (BYOC). With BYOC, your function code and execution stay inside your security and compliance boundary. Vercel continues to handle deployments, environments, routing, and static assets. During deployment, you provision functions in your AWS account and Vercel serves everything else. You keep control over function execution with your own IAM permissions, network access, and resource",
+      "primary_source": "https://vercel.com/changelog/bring-your-own-cloud-on-aws-is-now-generally-available",
+      "supporting_sources": [
+        "https://vercel.com/changelog/bring-your-own-cloud-on-aws-is-now-generally-available",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "related_x_posts": [
+        "https://x.com/vercel"
+      ],
+      "related_articles": [
+        "https://vercel.com/changelog/bring-your-own-cloud-on-aws-is-now-generally-available",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "score": 63,
+      "selected_item_id": "cand_503b038397e219ac"
+    },
+    {
+      "cluster_id": "vercel_com_a0762d95",
+      "title": "TypeSafe AI's Jev 1.14 is now available on AI Gateway",
+      "summary": "Jev 1.14 from TypeSafe AI is now available on AI Gateway . Jev is a decision model for software. You pass it state and a set of questions, and it returns typed Choice, Score, and Boolean answers with probabilities instead of free-form text. It answers every question in one request, in parallel, for classification, routing, scoring, and automated verification. Jev 1.14 accepts images as part of the state, and has an experimental long-context mode for documents, logs, or conver",
+      "primary_source": "https://vercel.com/changelog/typesafe-ais-jev-1-14-is-now-available-on-ai-gateway",
+      "supporting_sources": [
+        "https://vercel.com/changelog/typesafe-ais-jev-1-14-is-now-available-on-ai-gateway",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "related_x_posts": [
+        "https://x.com/vercel"
+      ],
+      "related_articles": [
+        "https://vercel.com/changelog/typesafe-ais-jev-1-14-is-now-available-on-ai-gateway",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "score": 63,
+      "selected_item_id": "cand_ea1d94ff54a31a44"
+    },
+    {
+      "cluster_id": "huggingface_co_fb6e6c4e",
+      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+      "summary": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta 是 Hugging Face 当日抓取到的公开新增条目。",
+      "primary_source": "https://huggingface.co/blog/meta-muse-spark-open",
+      "supporting_sources": [
+        "https://huggingface.co/blog/meta-muse-spark-open",
+        "https://huggingface.co/blog/feed.xml",
+        "https://huggingface.co",
+        "https://huggingface.co/blog",
+        "https://x.com/huggingface"
+      ],
+      "related_x_posts": [
+        "https://x.com/huggingface"
+      ],
+      "related_articles": [
+        "https://huggingface.co/blog/meta-muse-spark-open",
+        "https://huggingface.co/blog/feed.xml",
+        "https://huggingface.co",
+        "https://huggingface.co/blog"
+      ],
+      "entities": [
+        "Hugging Face"
+      ],
+      "tags": [
+        "open_source",
+        "papers",
+        "models"
+      ],
+      "score": 63,
+      "selected_item_id": "cand_64842188b69a8bc6"
+    }
+  ],
+  "sources": [
+    "developer.nvidia.com",
+    "vercel.com",
+    "github.blog",
+    "openai.com",
+    "deepmind.google",
+    "langchain.com",
+    "huggingface.co"
+  ]
+}
