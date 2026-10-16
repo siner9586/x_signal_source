@@ -1,36 +1,8 @@
 [
   {
-    "title": "NVIDIA Nemotron 3.5 Super VL Powers Specialized Agents with Multimodal Reasoning",
-    "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning",
-    "summary": "NVIDIA Technical Blog · NVIDIA Nemotron 3.5 Super VL Powers Specialized Agents with Multimodal Reasoning",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-10-16",
-    "score": 72
-  },
-  {
-    "title": "Scale Agentic Coding Workflows with Meta’s Muse Spark Open on NVIDIA GB300 NVL72",
-    "url": "https://developer.nvidia.com/blog/scale-agentic-coding-workflows-with-metas-muse-spark-open-on-nvidia-gb300-nvl72",
-    "summary": "NVIDIA Technical Blog · Scale Agentic Coding Workflows with Meta’s Muse Spark Open on NVIDIA GB300 NVL72",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-10-16",
-    "score": 72
-  },
-  {
-    "title": "Muse Spark Open now available on AI Gateway",
-    "url": "https://vercel.com/changelog/muse-spark-open-now-available-on-ai-gateway",
-    "summary": "Muse Spark Open from Meta is now available on AI Gateway. The open-weight reasoning model is designed for coding and agentic workflows, including multi-file refactoring, debugging, and understanding large codebases. Muse Spark Open supports text and image input with a 1M-token context window, allowing agents to work with code and screenshots in the same request. It is available with ZDR and no training, without creating separate provider accounts. Use meta/muse-spark-open as ",
+    "title": "Reflection AI's Beam now available on AI Gateway for free",
+    "url": "https://vercel.com/changelog/reflection-ai-beam-now-available-on-ai-gateway-for-free",
+    "summary": "Beam from Reflection AI , previously available in stealth as stealth/cat-jam , is now available on AI Gateway . Beam is free to use for a limited time during the launch period when serviced by Reflection AI. Beam is an low latency US open-weight reasoning model for coding and agentic tasks, with weights released under Apache 2.0 . Beam supports tool calling and structured outputs , with a 1M-token context window for code, documents, and conversation history. Reasoning effort ",
     "tags": [
       "sdk",
       "ai_infra",
@@ -38,54 +10,28 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-10-16",
+    "date": "2026-10-17",
     "score": 71
   },
   {
-    "title": "Cat Jam is now available in stealth for free on AI Gateway",
-    "url": "https://vercel.com/changelog/cat-jam-is-now-available-in-stealth-for-free-on-ai-gateway",
-    "summary": "Cat Jam is now available on AI Gateway as a stealth model, free to use during the stealth period. Cat Jam is a reasoning model for coding and agentic tasks, with low-latency inference. It supports function calling , so agents can connect it to your own tools, and structured outputs that follow a JSON schema you supply. Responses include the model's reasoning text alongside the answer. Cat Jam takes text input only. Cat Jam supports low , medium , high , xhigh , and max reason",
+    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
     "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
+      "ai_models",
+      "official",
+      "research",
+      "developer"
     ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-16",
-    "score": 71
-  },
-  {
-    "title": "Python on Vercel is now generally available",
-    "url": "https://vercel.com/changelog/python-on-vercel-is-now-generally-available",
-    "summary": "Python is now a first-class language and runtime on Vercel. Build APIs, full-stack applications, and AI agents with native Python SDKs and a shared development and deployment workflow for your Python backend and JavaScript frontend. Python framework and runtime support Vercel handles the infrastructure so you can focus on your application: Automatic framework support: FastAPI, Flask, and Django applications are automatically recognized and configured, with framework-specific ",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-16",
-    "score": 71
-  },
-  {
-    "title": "The next developer interface is ambient intelligence",
-    "url": "https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence",
-    "summary": "AI, agents, voice, and physical controls are shifting software development from operating tools to expressing intent—and helping developers stay focused on building. The post The next developer interface is ambient intelligence appeared first on The GitHub Blog .",
-    "tags": [
-      "ai_coding",
-      "developer_tools"
-    ],
-    "author": "GitHub Copilot",
-    "source": "github.blog",
-    "date": "2026-10-16",
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-10-17",
     "score": 70
   },
   {
-    "title": "Introducing Token Pass",
-    "url": "https://vercel.com/changelog/introducing-token-pass",
-    "summary": "Vercel Token Pass is now in early access for Pro teams. For $30 per month, your team gets $80 in monthly credit for GLM 5.3 and Kimi K3, with more models to come. Use Token Pass with coding agents such as fx, Command Code, and Pi, or build your own personal agent with the AI SDK. Token Pass runs through AI Gateway , so you can choose your tools and switch between included models using your team’s shared credit. Token Pass has Zero Data Retention (ZDR) enabled by default. Requ",
+    "title": "Vercel and Shopify make agents first-class shoppers",
+    "url": "https://vercel.com/blog/vercel-and-shopify-make-agents-first-class-shoppers",
+    "summary": "Agents already shop on the web, but they often use pages and tools originally built for people and search engines. Building a better shopping experience for agents means treating them as first-class shoppers, with product information they can read directly and tools designed for agents to shop. Today, Vercel Shop , our open source Next.js storefront template for Shopify , is generally available. Teams can launch storefronts optimized for how people, search engines, and agents",
     "tags": [
       "sdk",
       "ai_infra",
@@ -93,13 +39,13 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-10-16",
-    "score": 69
+    "date": "2026-10-17",
+    "score": 68
   },
   {
-    "title": "Bringing GPT-Rosalind to academic research labs",
-    "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-    "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+    "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+    "url": "https://openai.com/index/sullivan-cromwell",
+    "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
     "tags": [
       "ai_models",
       "official",
@@ -108,56 +54,27 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-10-16",
+    "date": "2026-10-17",
     "score": 67
   },
   {
-    "title": "Teaching students to think and learn through questions",
-    "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-    "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+    "title": "Code, Test, and Deploy on One Machine with NVIDIA RTX Spark",
+    "url": "https://developer.nvidia.com/blog/code-test-and-deploy-on-one-machine-with-nvidia-rtx-spark",
+    "summary": "NVIDIA Technical Blog · Code, Test, and Deploy on One Machine with NVIDIA RTX Spark",
     "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
+      "gpu",
+      "inference",
+      "ai_infra"
     ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-10-16",
-    "score": 67
-  },
-  {
-    "title": "Staying Evergreen: How we automated secure access and repo hygiene in a shared org",
-    "url": "https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org",
-    "summary": "Put native GitHub features to work to review outside collaborator access and archive stale repositories. The post Staying Evergreen: How we automated secure access and repo hygiene in a shared org appeared first on The GitHub Blog .",
-    "tags": [
-      "ai_coding",
-      "developer_tools"
-    ],
-    "author": "GitHub Copilot",
-    "source": "github.blog",
-    "date": "2026-10-16",
-    "score": 67
-  },
-  {
-    "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-    "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery",
-    "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-    "tags": [
-      "research",
-      "multimodal",
-      "science",
-      "official"
-    ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-10-16",
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-10-17",
     "score": 66
   },
   {
-    "title": "15 October General Backends on Vercel: Python, containers, and Daemons Vercel now supports more backend workloads, from Python APIs and custom runtimes to background workers. Steren, Yury Selivanov",
-    "url": "https://vercel.com/blog/backends-on-vercel-python-containers-and-daemons",
-    "summary": "Blog - Vercel · 15 October General Backends on Vercel: Python, containers, and Daemons Vercel now supports more backend workloads, from Python APIs and custom runtimes to background workers. Steren, Yury Selivanov",
+    "title": "Perplexity's Decider V1.2 models now available on AI Gateway",
+    "url": "https://vercel.com/changelog/perplexity-decider-v1-2-models-now-available-on-ai-gateway",
+    "summary": "Perplexity Decider V1.2 27B and Decider Flash V1.2 4B are now available on AI Gateway . Both are multimodal decision models for classifying content, routing requests, and scoring text, structured records, and images. The models answer typed questions with probabilities. Boolean questions return the likelihood of yes, Choice questions select from categories you define, and Score questions assess content against an ordered rubric. Your application can use those results to route",
     "tags": [
       "sdk",
       "ai_infra",
@@ -165,195 +82,39 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-10-16",
-    "score": 66
-  },
-  {
-    "title": "Introducing Vercel Drives: persistent storage for agents",
-    "url": "https://vercel.com/blog/introducing-vercel-drives-persistent-storage-for-agents",
-    "summary": "Agents often handle complex work that continues across runs. As that work evolves, they may need a new environment with different tools, runtimes, or compute. They should be able to continue working with the same files when they change environments. We built Vercel Drives to keep an agent’s files independent of its execution environment. It is now generally available for Vercel Sandbox . Agents can mount the same drive in a new environment configured for the next task and con",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-16",
-    "score": 66
-  },
-  {
-    "title": "Vercel Daemons is now in public beta",
-    "url": "https://vercel.com/changelog/vercel-daemons-is-now-in-public-beta",
-    "summary": "Vercel Daemons is now in public beta, allowing you to run long-running processes that pull and execute work from Vercel Queues , databases, or third-party systems without requiring an HTTP server: Consumers using Vercel Queues poll mode , Celery, BullMQ, RabbitMQ, or Kafka. Temporal or Cadence workers that long-poll their task queues. Self-hosted CI runners for GitHub Actions, GitLab, or CircleCI that poll for jobs without requiring inbound connections. Daemons run containers",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-16",
-    "score": 66
-  },
-  {
-    "title": "Vercel Drives is now generally available",
-    "url": "https://vercel.com/changelog/vercel-drives-is-now-generally-available",
-    "summary": "Vercel Drives is now generally available for Vercel Sandbox on Hobby, Pro, and Enterprise. A Drive is persistent storage that you mount as a directory in a Vercel Sandbox. Its files remain available after the sandbox stops, so later runs and other sandboxes can access them by mounting the same Drive. Use Drives to preserve an agent’s workspace or file-based memory across runs, or to make datasets, models, dependencies, and build artifacts available across sandboxes. You can a",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-16",
-    "score": 66
-  },
-  {
-    "title": "Vercel Connect adds Enterprise-Managed Authorization",
-    "url": "https://vercel.com/changelog/vercel-connect-adds-enterprise-managed-authorization",
-    "summary": "Vercel Connect now supports Enterprise-Managed Authorization (EMA) in public beta. Your apps and agents can access supported services on behalf of signed-in users without separate consent prompts for each service. Here's how access works: Admin-managed access: Administrators can grant or revoke access to supported services through the identity provider. Corporate sign-in: Users sign into your app with their corporate account through a compatible identity provider such as Okta",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-16",
-    "score": 66
-  },
-  {
-    "title": "MCP Events support in Vercel Connect is now in public beta",
-    "url": "https://vercel.com/changelog/mcp-events-support-in-vercel-connect-is-now-in-public-beta",
-    "summary": "Vercel Connect now supports MCP Events in public beta, allowing your apps and agents to subscribe to webhook events from compatible MCP servers. Build agents for tasks like summarizing new messages, reviewing newly created issues, or responding to document feedback. Connect creates subscriptions on the MCP server and renews them automatically as needed, verifying the server’s webhooks and forwarding events to your application using authenticated delivery. You can use the Conn",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-16",
-    "score": 66
-  },
-  {
-    "title": "The Most Common Questions About Agent Evals, Answered",
-    "url": "https://www.langchain.com/blog/common-questions-about-agent-evals",
-    "summary": "Where to start with agent evals, offline vs online evals, evaluator types, LLM judges, benchmarks with Harbor, multi-turn evals, and keeping costs down.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-10-16",
-    "score": 66
-  },
-  {
-    "title": "Open weight takes 71.5% of tokens and 23% of spend",
-    "url": "https://vercel.com/blog/ai-gateway-production-index-october-2026",
-    "summary": "AI Gateway Production Index — October 2026 Every month, AI Gateway routes tens of trillions of tokens between production applications and AI labs. That traffic gives us a view of what AI usage actually looks like in today's enterprise, and we publish it here monthly. See the Production Index reports from July , August , and September . October 2026 summary Open-weight models now process more than seven in ten gateway tokens and account for nearly one in four dollars. Their sh",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-16",
+    "date": "2026-10-17",
     "score": 65
   },
   {
-    "title": "Liquid AI's d1-ultra now available on AI Gateway",
-    "url": "https://vercel.com/changelog/liquid-ais-d1-ultra-now-available-on-ai-gateway",
-    "summary": "d1-ultra from Liquid AI is now available on AI Gateway. It is a multimodal decision model for classification, routing, and scoring across text and images, including visual defect inspection and checking damage claims against customer photos. Rather than generating text, d1-ultra returns structured answers with probabilities. Ask a Boolean question to get the probability of a yes/no answer, use Choice to select among named categories, or use Score to rate an ordered scale. You",
+    "title": "NOS builds AI voice agents for customer service with ElevenLabs Text to Speech",
+    "url": "https://elevenlabs.io/blog/nos-pt",
+    "summary": "In early production testing, NOS's voice agents successfully handle around 50% of calls, measured net of callbacks",
     "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
+      "voice_ai",
+      "audio"
     ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-16",
-    "score": 65
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-10-17",
+    "score": 64
   },
   {
-    "title": "October 2026 LangChain Newsletter: Everything we shipped at Interrupt NYC & London",
-    "url": "https://www.langchain.com/blog/october-2026-langchain-newsletter",
-    "summary": "What we shipped at Interrupt NYC and London: LangSmith AI Search, Engine v2, Trajectories, Custom Apps, Fine-Tuning, and Managed Deep Agents v0.9.",
+    "title": "Research Introducing Timestral State-of-the-art probabilistic forecasts with just 209M parameters, outperforming larger models on CPU. October 15, 2026 By Mistral",
+    "url": "https://mistral.ai/news/timestral",
+    "summary": "Latest news | Mistral · Research Introducing Timestral State-of-the-art probabilistic forecasts with just 209M parameters, outperforming larger models on CPU. October 15, 2026 By Mistral",
     "tags": [
-      "agents",
-      "rag",
-      "framework"
+      "open_model",
+      "european_ai"
     ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-10-16",
-    "score": 65
+    "author": "Mistral AI",
+    "source": "mistral.ai",
+    "date": "2026-10-17",
+    "score": 64
   },
   {
-    "title": "Vercel for Enterprise",
-    "url": "https://vercel.com/blog/vercel-for-enterprise",
-    "summary": "AI adoption in the enterprise is growing rapidly, and expanding beyond engineering users. In the last three months, token usage by enterprise companies on AI Gateway has quadrupled, and OpenAI recently reported that from August 2025 to June 2026, non-developer Codex users grew 189x. Our customers call these builders citizen developers. They know their part of the business better than anyone else, and with AI they can create the software they need to ship work faster and deliv",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-16",
-    "score": 63
-  },
-  {
-    "title": "Vercel Connect now supports Secure Compute",
-    "url": "https://vercel.com/changelog/vercel-connect-secure-compute",
-    "summary": "Vercel Connect now supports Secure Compute , allowing connectors to reach providers with IP allowlists, such as Salesforce and Snowflake. With Secure Compute routing enabled, Connect’s provider requests use the selected network’s dedicated static IP addresses instead of Connect’s shared IPs. Requests to obtain and refresh access tokens follow that route; your app’s direct API routing is unchanged by this setting. Credential management stays the same, so you don’t need to stor",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-16",
-    "score": 63
-  },
-  {
-    "title": "Bring Your Own Cloud on AWS is now generally available",
-    "url": "https://vercel.com/changelog/bring-your-own-cloud-on-aws-is-now-generally-available",
-    "summary": "Enterprise teams can now run Vercel Functions in their own AWS account with Bring Your Own Cloud (BYOC). With BYOC, your function code and execution stay inside your security and compliance boundary. Vercel continues to handle deployments, environments, routing, and static assets. During deployment, you provision functions in your AWS account and Vercel serves everything else. You keep control over function execution with your own IAM permissions, network access, and resource",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-16",
-    "score": 63
-  },
-  {
-    "title": "TypeSafe AI's Jev 1.14 is now available on AI Gateway",
-    "url": "https://vercel.com/changelog/typesafe-ais-jev-1-14-is-now-available-on-ai-gateway",
-    "summary": "Jev 1.14 from TypeSafe AI is now available on AI Gateway . Jev is a decision model for software. You pass it state and a set of questions, and it returns typed Choice, Score, and Boolean answers with probabilities instead of free-form text. It answers every question in one request, in parallel, for classification, routing, scoring, and automated verification. Jev 1.14 accepts images as part of the state, and has an experimental long-context mode for documents, logs, or conver",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-16",
-    "score": 63
-  },
-  {
-    "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-    "url": "https://huggingface.co/blog/meta-muse-spark-open",
-    "summary": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "The Missing Piece in LLM Memory: Why Long Context and Retrieval Aren't Enough for Belief Revision boltwave • 1 day ago • 52",
+    "url": "https://huggingface.co/blog/boltwave/llm-memory-belief-revision",
+    "summary": "Hugging Face – Blog · The Missing Piece in LLM Memory: Why Long Context and Retrieval Aren't Enough for Belief Revision boltwave • 1 day ago • 52",
     "tags": [
       "open_source",
       "papers",
@@ -361,7 +122,184 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-10-16",
+    "date": "2026-10-17",
+    "score": 64
+  },
+  {
+    "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+    "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+    "summary": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-10-17",
     "score": 63
+  },
+  {
+    "title": "AI voice agent integrations: CRM and help desk guide",
+    "url": "https://elevenlabs.io/blog/ai-voice-agent-integrations",
+    "summary": "Learn about AI voice agent integrations with Salesforce, HubSpot, Zendesk, and more. Discover how agents read and update records mid-call and set up tools.",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-10-17",
+    "score": 62
+  },
+  {
+    "title": "NTT Docomo Business trials conversational AI in Aizuwakamatsu with ElevenLabs",
+    "url": "https://elevenlabs.io/blog/ntt-docomo-conversational-ai",
+    "summary": "NTT Docomo Business is piloting an ElevenAgents voice platform in Fukushima to support older residents with natural Japanese speech. (137 characters)",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-10-17",
+    "score": 62
+  },
+  {
+    "title": "Oct 15, 2026 Announcements An update on independent evaluators",
+    "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+    "summary": "Newsroom \\ Anthropic · Oct 15, 2026 Announcements An update on independent evaluators",
+    "tags": [
+      "ai_models",
+      "safety",
+      "official"
+    ],
+    "author": "Anthropic",
+    "source": "anthropic.com",
+    "date": "2026-10-17",
+    "score": 62
+  },
+  {
+    "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+    "url": "https://huggingface.co/blog/reflection-beam",
+    "summary": "Welcome Beam: a 501B open model you can own, customize, and scale 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-10-17",
+    "score": 62
+  },
+  {
+    "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+    "summary": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-10-17",
+    "score": 62
+  },
+  {
+    "title": "Welcome FLUX.3 Image Klein in Diffusers",
+    "url": "https://huggingface.co/blog/flux-3",
+    "summary": "Welcome FLUX.3 Image Klein in Diffusers 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-10-17",
+    "score": 62
+  },
+  {
+    "title": "A Conversation With Ari Emanuel About Entertainment and AI",
+    "url": "https://stratechery.com/2026/a-conversation-with-ari-emanuel-about-entertainment-and-ai",
+    "summary": "A conversation with Hollywood super-agent Ari Emanuel about his memoir, the impact of AI on Hollywood, and the power of a phone call.",
+    "tags": [
+      "strategy",
+      "tech",
+      "business"
+    ],
+    "author": "Stratechery",
+    "source": "stratechery.com",
+    "date": "2026-10-17",
+    "score": 61
+  },
+  {
+    "title": "Thu, 15 Oct 2026",
+    "url": "https://arxiv.org/list/cs.AI/recent?skip=286&amp%3Bshow=50",
+    "summary": "Artificial Intelligence · Thu, 15 Oct 2026",
+    "tags": [
+      "paper",
+      "ai",
+      "arxiv"
+    ],
+    "author": "arXiv CS AI",
+    "source": "arxiv.org",
+    "date": "2026-10-17",
+    "score": 60
+  },
+  {
+    "title": "Wed, 14 Oct 2026",
+    "url": "https://arxiv.org/list/cs.AI/recent?skip=566&amp%3Bshow=50",
+    "summary": "Artificial Intelligence · Wed, 14 Oct 2026",
+    "tags": [
+      "paper",
+      "ai",
+      "arxiv"
+    ],
+    "author": "arXiv CS AI",
+    "source": "arxiv.org",
+    "date": "2026-10-17",
+    "score": 60
+  },
+  {
+    "title": "ElevenLabs’ commitment to security, privacy, and responsible AI: certified and renewed",
+    "url": "https://elevenlabs.io/blog/certification-renewals",
+    "summary": "ElevenLabs renewed its ISO, SOC 2, and PCI DSS certifications and added SOC 2 Type I and FedRAMP 20x Class A for enterprise trust.",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-10-17",
+    "score": 59
+  },
+  {
+    "title": "SSML tags explained: How to control pauses, pronunciation, and pacing in text to speech",
+    "url": "https://elevenlabs.io/blog/ssml-tags-explained",
+    "summary": "SSML is the markup that controls pauses and pronunciation in text to speech. See key tags, code examples, and ElevenLabs support, including Eleven v4.",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-10-17",
+    "score": 59
+  },
+  {
+    "title": "Introducing Instant Soundtracks",
+    "url": "https://elevenlabs.io/blog/introducing-instant-soundtracks",
+    "summary": "Introducing Instant Soundtracks, convert video to music and sound effects automatically.",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-10-17",
+    "score": 59
   }
 ]

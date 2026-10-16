@@ -25406,5 +25406,225 @@
     "cluster_id": "huggingface_co_fb6e6c4e",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c0b9e963d03e10fc",
+    "canonical_url": "https://vercel.com/changelog/reflection-ai-beam-now-available-on-ai-gateway-for-free",
+    "dedupe_key": "be618e95a6da3ee2",
+    "title": "Reflection AI's Beam now available on AI Gateway for free",
+    "issue_date": "2026-10-17",
+    "cluster_id": "vercel_com_10f6cdbd",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8c1de33b9efdbdc1",
+    "canonical_url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "dedupe_key": "02648c5bd021e10a",
+    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "issue_date": "2026-10-17",
+    "cluster_id": "openai_com_91099d2a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6f9fc33076dfbae6",
+    "canonical_url": "https://vercel.com/blog/vercel-and-shopify-make-agents-first-class-shoppers",
+    "dedupe_key": "79046ae7f93dd8c8",
+    "title": "Vercel and Shopify make agents first-class shoppers",
+    "issue_date": "2026-10-17",
+    "cluster_id": "vercel_com_6613f4c6",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_58634364eff89752",
+    "canonical_url": "https://openai.com/index/sullivan-cromwell",
+    "dedupe_key": "febc60e9749dcbaa",
+    "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+    "issue_date": "2026-10-17",
+    "cluster_id": "openai_com_1c526139",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7fd81552b84bb9ae",
+    "canonical_url": "https://developer.nvidia.com/blog/code-test-and-deploy-on-one-machine-with-nvidia-rtx-spark",
+    "dedupe_key": "dafb1a0cae98d184",
+    "title": "Code, Test, and Deploy on One Machine with NVIDIA RTX Spark",
+    "issue_date": "2026-10-17",
+    "cluster_id": "developer_nvidia_com_38695aa8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_76a6c29bc6339261",
+    "canonical_url": "https://vercel.com/changelog/perplexity-decider-v1-2-models-now-available-on-ai-gateway",
+    "dedupe_key": "a52e2d3b46855cc9",
+    "title": "Perplexity's Decider V1.2 models now available on AI Gateway",
+    "issue_date": "2026-10-17",
+    "cluster_id": "vercel_com_03a81c85",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3645f8653ca7daf9",
+    "canonical_url": "https://elevenlabs.io/blog/nos-pt",
+    "dedupe_key": "8b5abc2267c80811",
+    "title": "NOS builds AI voice agents for customer service with ElevenLabs Text to Speech",
+    "issue_date": "2026-10-17",
+    "cluster_id": "elevenlabs_io_f454a2b8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_af76ff3fe1211088",
+    "canonical_url": "https://mistral.ai/news/timestral",
+    "dedupe_key": "e981a05c3ffe54c3",
+    "title": "Research Introducing Timestral State-of-the-art probabilistic forecasts with just 209M parameters, outperforming larger models on CPU. October 15, 2026 By Mistral",
+    "issue_date": "2026-10-17",
+    "cluster_id": "mistral_ai_574282bd",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_90d523620914916f",
+    "canonical_url": "https://huggingface.co/blog/boltwave/llm-memory-belief-revision",
+    "dedupe_key": "b0f72fbeb273a66e",
+    "title": "The Missing Piece in LLM Memory: Why Long Context and Retrieval Aren't Enough for Belief Revision boltwave • 1 day ago • 52",
+    "issue_date": "2026-10-17",
+    "cluster_id": "huggingface_co_0d0a137a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_48ddf5a8a7c0cda0",
+    "canonical_url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+    "dedupe_key": "b1e05ba9e53f2522",
+    "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+    "issue_date": "2026-10-17",
+    "cluster_id": "huggingface_co_47b425bd",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f59ebbf79b4abe75",
+    "canonical_url": "https://elevenlabs.io/blog/ai-voice-agent-integrations",
+    "dedupe_key": "86b76c1b7a24f174",
+    "title": "AI voice agent integrations: CRM and help desk guide",
+    "issue_date": "2026-10-17",
+    "cluster_id": "elevenlabs_io_ad2e72ee",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f27c2bc96a5adfde",
+    "canonical_url": "https://elevenlabs.io/blog/ntt-docomo-conversational-ai",
+    "dedupe_key": "aaa687041ebc3750",
+    "title": "NTT Docomo Business trials conversational AI in Aizuwakamatsu with ElevenLabs",
+    "issue_date": "2026-10-17",
+    "cluster_id": "elevenlabs_io_696b0632",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6249adf0751c4b1d",
+    "canonical_url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+    "dedupe_key": "f2ef1b3194d22f96",
+    "title": "Oct 15, 2026 Announcements An update on independent evaluators",
+    "issue_date": "2026-10-17",
+    "cluster_id": "anthropic_com_68b6515f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3bed0490ce190997",
+    "canonical_url": "https://huggingface.co/blog/reflection-beam",
+    "dedupe_key": "6cd407648b2eb886",
+    "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+    "issue_date": "2026-10-17",
+    "cluster_id": "huggingface_co_5f681f42",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_63311cbf8ddd189f",
+    "canonical_url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+    "dedupe_key": "abfbaec346f45c59",
+    "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+    "issue_date": "2026-10-17",
+    "cluster_id": "huggingface_co_0c761263",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_31bfa223b38dec76",
+    "canonical_url": "https://huggingface.co/blog/flux-3",
+    "dedupe_key": "1d5b103625b9fd11",
+    "title": "Welcome FLUX.3 Image Klein in Diffusers",
+    "issue_date": "2026-10-17",
+    "cluster_id": "huggingface_co_02ac950e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c88c6fe9fc71899c",
+    "canonical_url": "https://stratechery.com/2026/a-conversation-with-ari-emanuel-about-entertainment-and-ai",
+    "dedupe_key": "0bb90b6cf56289ac",
+    "title": "A Conversation With Ari Emanuel About Entertainment and AI",
+    "issue_date": "2026-10-17",
+    "cluster_id": "stratechery_com_04df12ad",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a1743ee991d588d7",
+    "canonical_url": "https://arxiv.org/list/cs.AI/recent?skip=286&amp%3Bshow=50",
+    "dedupe_key": "03ef121fa28b0269",
+    "title": "Thu, 15 Oct 2026",
+    "issue_date": "2026-10-17",
+    "cluster_id": "arxiv_org_d0b99abd",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_787cff25ef72176e",
+    "canonical_url": "https://arxiv.org/list/cs.AI/recent?skip=566&amp%3Bshow=50",
+    "dedupe_key": "db953f4347782953",
+    "title": "Wed, 14 Oct 2026",
+    "issue_date": "2026-10-17",
+    "cluster_id": "arxiv_org_9a3e85b0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4163642c9a3b2af6",
+    "canonical_url": "https://elevenlabs.io/blog/certification-renewals",
+    "dedupe_key": "22a3b389cde75abb",
+    "title": "ElevenLabs’ commitment to security, privacy, and responsible AI: certified and renewed",
+    "issue_date": "2026-10-17",
+    "cluster_id": "elevenlabs_io_11316a5c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_aa54e3c5ab580870",
+    "canonical_url": "https://elevenlabs.io/blog/ssml-tags-explained",
+    "dedupe_key": "e6bd5403510fd471",
+    "title": "SSML tags explained: How to control pauses, pronunciation, and pacing in text to speech",
+    "issue_date": "2026-10-17",
+    "cluster_id": "elevenlabs_io_6c7ab2ba",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a395aa27b8cc5bab",
+    "canonical_url": "https://elevenlabs.io/blog/introducing-instant-soundtracks",
+    "dedupe_key": "8963c8ced20e3a94",
+    "title": "Introducing Instant Soundtracks",
+    "issue_date": "2026-10-17",
+    "cluster_id": "elevenlabs_io_313c088f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
