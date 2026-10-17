@@ -1,0 +1,1522 @@
+{
+  "metadata": {
+    "issue_date": "2026-10-18",
+    "generated_at": "2026-10-17T22:55:19.736Z",
+    "timezone": "Asia/Shanghai",
+    "source_mode": "live_fetch_only",
+    "strict_new_only": true,
+    "sources_scanned": 118,
+    "fetch_jobs": 224,
+    "candidates_count": 1116,
+    "selected_count": 8,
+    "duplicates_blocked": 1108,
+    "stale_candidates_blocked": 0,
+    "fetch_failures": 80,
+    "no_new_content": false,
+    "initial_source_index": false
+  },
+  "summary": {
+    "one_liner": "本期由每日自动流水线生成：仅展示当日 live fetch 抓取、且未在历史期展示过的新内容。",
+    "trends": [
+      "AI Agent",
+      "AI Coding",
+      "AI Infra",
+      "Research",
+      "Startup / Investment"
+    ],
+    "watch_next": [
+      "公开 RSS / Atom / HTML 新条目",
+      "GitHub releases 与技术博客",
+      "人工维护 X Article / Thread seed list",
+      "播客长访谈中的一手判断"
+    ]
+  },
+  "must_read": [],
+  "worth_reading": [
+    {
+      "id": "cand_03d110fcb6d8f1db",
+      "canonical_url": "https://vercel.com/changelog/deepseek-v4-1-flash-1017-now-available-on-ai-gateway",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "DeepSeek V4.1 Flash 1017 now available on AI Gateway",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-10-17T00:00:00.000Z",
+      "captured_at": "2026-10-17T22:54:54.586Z",
+      "captured_issue": "2026-10-18",
+      "summary": "DeepSeek V4.1 Flash 1017 is now available on AI Gateway . DeepSeek V4.1 Flash 1017 is a minor update to DeepSeek V4.1 Flash that improves reasoning, coding, agentic tasks, and image understanding. The coding gains show up in terminal work and in building and editing whole repositories, and the agentic gains in multi-step automation. With images, the model reads charts and handles visual reasoning more accurately when it can call tools. DeepSeek V4.1 Flash 1017 also finishes t",
+      "excerpt": "DeepSeek V4.1 Flash 1017 is now available on AI Gateway . DeepSeek V4.1 Flash 1017 is a minor update to DeepSeek V4.1 Flash that improves reasoning, coding, agentic tasks, and image understanding. The coding gains show up in terminal work and in building and editing whole repositories, and the agentic gains in multi-step automation. With images, the model reads charts and handles visual reasoning more accurately when it can call tools. DeepSeek V4.1 Flash 1017 also finishes t",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/changelog/deepseek-v4-1-flash-1017-now-available-on-ai-gateway",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 93,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 98,
+      "total_score": 71,
+      "rank": 23,
+      "cluster_id": "vercel_com_417ba2b9",
+      "dedupe_key": "09b6a9e46600a6e1",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：DeepSeek V4.1 Flash 1017 now available on AI Gateway 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-18",
+      "last_seen_issue": "2026-10-18",
+      "used_in_issue": "2026-10-18"
+    }
+  ],
+  "signal_watch": [
+    {
+      "id": "cand_6a49ce899f9397d0",
+      "canonical_url": "https://vercel.com/changelog/ai-gateway-logs-now-show-session-affinity",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "AI Gateway logs now show session affinity",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-10-17T20:03:00.000Z",
+      "captured_at": "2026-10-17T22:54:54.586Z",
+      "captured_issue": "2026-10-18",
+      "summary": "AI Gateway logs now have a Sessions view that groups requests into sessions and shows how session affinity routed each one. Each row shows the coding agent or app that ran the session, such as Claude Code, Codex, or Cursor, along with its cost, models, providers, and how much of its input was cached across every turn. Open a session to see its cache hit rate, duration, and path. The path lists each turn with its model and timing, and names the provider serving the session alo",
+      "excerpt": "AI Gateway logs now have a Sessions view that groups requests into sessions and shows how session affinity routed each one. Each row shows the coding agent or app that ran the session, such as Claude Code, Codex, or Cursor, along with its cost, models, providers, and how much of its input was cached across every turn. Open a session to see its cache hit rate, duration, and path. The path lists each turn with its model and timing, and names the provider serving the session alo",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/changelog/ai-gateway-logs-now-show-session-affinity",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 81,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 98,
+      "total_score": 69,
+      "rank": 81,
+      "cluster_id": "vercel_com_dbf57a81",
+      "dedupe_key": "6e6a441d8171b54e",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：AI Gateway logs now show session affinity 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-18",
+      "last_seen_issue": "2026-10-18",
+      "used_in_issue": "2026-10-18"
+    },
+    {
+      "id": "cand_2282093fed6d0180",
+      "canonical_url": "https://openai.com/index/itau-generative-ai",
+      "source_url": "https://openai.com/news/rss.xml",
+      "source_fetch_url": "https://openai.com/news/rss.xml",
+      "source_platform": "web",
+      "source_domain": "openai.com",
+      "source_name": "OpenAI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "subtitle": "官方发布、研究、模型与开发者文档优先来源。",
+      "author": "OpenAI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "OpenAI",
+      "language": "unknown",
+      "published_at": "Fri, 16 Oct 2026 19:00:00 GMT",
+      "captured_at": "2026-10-17T22:54:50.219Z",
+      "captured_issue": "2026-10-18",
+      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+      "excerpt": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+      "raw_text_available": false,
+      "topics": [
+        "Research"
+      ],
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://openai.com/index/itau-generative-ai",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news",
+        "https://x.com/OpenAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 50,
+      "trend_score": 45,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 67,
+      "rank": 161,
+      "cluster_id": "openai_com_5bca9ee4",
+      "dedupe_key": "6016c28845a0132e",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：How Itaú is building generative AI for its entire customer base 来自 OpenAI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-18",
+      "last_seen_issue": "2026-10-18",
+      "used_in_issue": "2026-10-18"
+    },
+    {
+      "id": "cand_f1499977b9b7dcc0",
+      "canonical_url": "https://openai.com/index/benefit-street-partners",
+      "source_url": "https://openai.com/news/rss.xml",
+      "source_fetch_url": "https://openai.com/news/rss.xml",
+      "source_platform": "web",
+      "source_domain": "openai.com",
+      "source_name": "OpenAI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "subtitle": "官方发布、研究、模型与开发者文档优先来源。",
+      "author": "OpenAI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "OpenAI",
+      "language": "unknown",
+      "published_at": "Fri, 16 Oct 2026 00:00:00 GMT",
+      "captured_at": "2026-10-17T22:54:50.219Z",
+      "captured_issue": "2026-10-18",
+      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+      "excerpt": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+      "raw_text_available": false,
+      "topics": [
+        "Research"
+      ],
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://openai.com/index/benefit-street-partners",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news",
+        "https://x.com/OpenAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 50,
+      "trend_score": 45,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 67,
+      "rank": 162,
+      "cluster_id": "openai_com_81b19b86",
+      "dedupe_key": "81074ebc1afa89c1",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Benefit Street Partners answers questions faster with Codex 来自 OpenAI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-18",
+      "last_seen_issue": "2026-10-18",
+      "used_in_issue": "2026-10-18"
+    },
+    {
+      "id": "cand_5fc6325756f0521d",
+      "canonical_url": "https://vercel.com/changelog/elorian-ai-glimpse-now-available-on-ai-gateway",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Elorian AI's Glimpse now available on AI Gateway",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-10-16T00:00:00.000Z",
+      "captured_at": "2026-10-17T22:54:54.586Z",
+      "captured_issue": "2026-10-18",
+      "summary": "Glimpse from Elorian is now available on AI Gateway. The visual reasoning model accepts images and video to follow objects through motion, interpret spatial relationships, and connect an action to its physical consequences. Glimpse can return to visual evidence as it works: zooming into a detail, revisiting a short interval of video, or tracking the same feature across frames. This allows the model to support use cases like scientific chart analysis, video captioning, visual ",
+      "excerpt": "Glimpse from Elorian is now available on AI Gateway. The visual reasoning model accepts images and video to follow objects through motion, interpret spatial relationships, and connect an action to its physical consequences. Glimpse can return to visual evidence as it works: zooming into a detail, revisiting a short interval of video, or tracking the same feature across frames. This allows the model to support use cases like scientific chart analysis, video captioning, visual ",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/changelog/elorian-ai-glimpse-now-available-on-ai-gateway",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 69,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 74,
+      "total_score": 65,
+      "rank": 442,
+      "cluster_id": "vercel_com_b250bc50",
+      "dedupe_key": "f00c317d7696007e",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Elorian AI's Glimpse now available on AI Gateway 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-18",
+      "last_seen_issue": "2026-10-18",
+      "used_in_issue": "2026-10-18"
+    },
+    {
+      "id": "cand_5f6abcf7dc33caa8",
+      "canonical_url": "https://huggingface.co/blog/dmis-lab/ultrabert",
+      "source_url": "https://huggingface.co/blog",
+      "source_fetch_url": "https://huggingface.co/blog",
+      "source_platform": "web",
+      "source_domain": "huggingface.co",
+      "source_name": "Hugging Face",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "UltraBERT: One Encoder for Classification and Retrieval dmis-lab • 4 days ago • 54",
+      "subtitle": "",
+      "author": "Hugging Face",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Hugging Face",
+      "language": "unknown",
+      "published_at": "",
+      "captured_at": "2026-10-17T22:54:55.165Z",
+      "captured_issue": "2026-10-18",
+      "summary": "Hugging Face – Blog · UltraBERT: One Encoder for Classification and Retrieval dmis-lab • 4 days ago • 54",
+      "excerpt": "Hugging Face – Blog · UltraBERT: One Encoder for Classification and Retrieval dmis-lab • 4 days ago • 54",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "open_source",
+        "papers",
+        "models"
+      ],
+      "entities": [
+        "Hugging Face"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://huggingface.co/blog/dmis-lab/ultrabert",
+        "https://huggingface.co/blog",
+        "https://huggingface.co",
+        "https://x.com/huggingface"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 66,
+      "originality_score": 38,
+      "trend_score": 45,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 50,
+      "total_score": 64,
+      "rank": 542,
+      "cluster_id": "huggingface_co_e6948a67",
+      "dedupe_key": "203f3ee4d24418c2",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：UltraBERT: One Encoder for Classification and Retrieval dmis-lab • 4 days ago • 54 来自 Hugging Face 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-18",
+      "last_seen_issue": "2026-10-18",
+      "used_in_issue": "2026-10-18"
+    },
+    {
+      "id": "cand_7d990e4ee75520be",
+      "canonical_url": "https://www.lennysnewsletter.com/p/community-wisdom-prds-for-agents",
+      "source_url": "https://www.lennysnewsletter.com/feed.xml",
+      "source_fetch_url": "https://www.lennysnewsletter.com/feed.xml",
+      "source_platform": "web",
+      "source_domain": "lennysnewsletter.com",
+      "source_name": "Lenny's Newsletter",
+      "source_file": "media.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "external_article",
+      "title": "🧠 Community Wisdom: PRDs for agents, tracking competitor messaging, whether software moats still exist, exercising startup options when you leave, and more",
+      "subtitle": "",
+      "author": "Lenny's Newsletter",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Lenny's Newsletter",
+      "language": "unknown",
+      "published_at": "Sat, 17 Oct 2026 13:53:57 GMT",
+      "captured_at": "2026-10-17T22:54:59.446Z",
+      "captured_issue": "2026-10-18",
+      "summary": "Community Wisdom 302",
+      "excerpt": "Community Wisdom 302",
+      "raw_text_available": false,
+      "topics": [
+        "Product"
+      ],
+      "tags": [
+        "product",
+        "growth",
+        "startup"
+      ],
+      "entities": [
+        "Lenny's Newsletter"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://www.lennysnewsletter.com/p/community-wisdom-prds-for-agents",
+        "https://www.lennysnewsletter.com/feed.xml",
+        "https://www.lennysnewsletter.com"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 69,
+      "evidence_score": 75,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 64,
+      "rank": 598,
+      "cluster_id": "lennysnewsletter_com_de35f0d8",
+      "dedupe_key": "925128f45266f9f2",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：🧠 Community Wisdom: PRDs for agents, tracking competitor messaging, whether software moats still exist, exercising startup options when you leave, and more 来自 Lenny's Newsletter 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-18",
+      "last_seen_issue": "2026-10-18",
+      "used_in_issue": "2026-10-18"
+    },
+    {
+      "id": "cand_16eb5239865faac2",
+      "canonical_url": "https://stratechery.com/2026/home-at-last",
+      "source_url": "https://stratechery.com/feed",
+      "source_fetch_url": "https://stratechery.com/feed",
+      "source_platform": "web",
+      "source_domain": "stratechery.com",
+      "source_name": "Stratechery",
+      "source_file": "media.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "external_article",
+      "title": "2026.42: Home At Last",
+      "subtitle": "",
+      "author": "Stratechery",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Stratechery",
+      "language": "unknown",
+      "published_at": "Fri, 16 Oct 2026 17:42:42 +0000",
+      "captured_at": "2026-10-17T22:54:58.481Z",
+      "captured_issue": "2026-10-18",
+      "summary": "The best Stratechery content from the week of October 12, 2026, including what Apple is doing, SpaceX's appetite, and the title, takes, and the Washington Wizards.",
+      "excerpt": "The best Stratechery content from the week of October 12, 2026, including what Apple is doing, SpaceX's appetite, and the title, takes, and the Washington Wizards.",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "strategy",
+        "tech",
+        "business"
+      ],
+      "entities": [
+        "Stratechery"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://stratechery.com/2026/home-at-last",
+        "https://stratechery.com/feed",
+        "https://stratechery.com"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 45,
+      "evidence_score": 75,
+      "heat_score": 40,
+      "site_fit_score": 50,
+      "total_score": 56,
+      "rank": 1112,
+      "cluster_id": "stratechery_com_f5e943a0",
+      "dedupe_key": "729dc79e75872cb2",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：2026.42: Home At Last 来自 Stratechery 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-18",
+      "last_seen_issue": "2026-10-18",
+      "used_in_issue": "2026-10-18"
+    }
+  ],
+  "hot_rank": [
+    {
+      "id": "cand_03d110fcb6d8f1db",
+      "canonical_url": "https://vercel.com/changelog/deepseek-v4-1-flash-1017-now-available-on-ai-gateway",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "DeepSeek V4.1 Flash 1017 now available on AI Gateway",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-10-17T00:00:00.000Z",
+      "captured_at": "2026-10-17T22:54:54.586Z",
+      "captured_issue": "2026-10-18",
+      "summary": "DeepSeek V4.1 Flash 1017 is now available on AI Gateway . DeepSeek V4.1 Flash 1017 is a minor update to DeepSeek V4.1 Flash that improves reasoning, coding, agentic tasks, and image understanding. The coding gains show up in terminal work and in building and editing whole repositories, and the agentic gains in multi-step automation. With images, the model reads charts and handles visual reasoning more accurately when it can call tools. DeepSeek V4.1 Flash 1017 also finishes t",
+      "excerpt": "DeepSeek V4.1 Flash 1017 is now available on AI Gateway . DeepSeek V4.1 Flash 1017 is a minor update to DeepSeek V4.1 Flash that improves reasoning, coding, agentic tasks, and image understanding. The coding gains show up in terminal work and in building and editing whole repositories, and the agentic gains in multi-step automation. With images, the model reads charts and handles visual reasoning more accurately when it can call tools. DeepSeek V4.1 Flash 1017 also finishes t",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/changelog/deepseek-v4-1-flash-1017-now-available-on-ai-gateway",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 93,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 98,
+      "total_score": 71,
+      "rank": 23,
+      "cluster_id": "vercel_com_417ba2b9",
+      "dedupe_key": "09b6a9e46600a6e1",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：DeepSeek V4.1 Flash 1017 now available on AI Gateway 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-18",
+      "last_seen_issue": "2026-10-18",
+      "used_in_issue": "2026-10-18"
+    },
+    {
+      "id": "cand_6a49ce899f9397d0",
+      "canonical_url": "https://vercel.com/changelog/ai-gateway-logs-now-show-session-affinity",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "AI Gateway logs now show session affinity",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-10-17T20:03:00.000Z",
+      "captured_at": "2026-10-17T22:54:54.586Z",
+      "captured_issue": "2026-10-18",
+      "summary": "AI Gateway logs now have a Sessions view that groups requests into sessions and shows how session affinity routed each one. Each row shows the coding agent or app that ran the session, such as Claude Code, Codex, or Cursor, along with its cost, models, providers, and how much of its input was cached across every turn. Open a session to see its cache hit rate, duration, and path. The path lists each turn with its model and timing, and names the provider serving the session alo",
+      "excerpt": "AI Gateway logs now have a Sessions view that groups requests into sessions and shows how session affinity routed each one. Each row shows the coding agent or app that ran the session, such as Claude Code, Codex, or Cursor, along with its cost, models, providers, and how much of its input was cached across every turn. Open a session to see its cache hit rate, duration, and path. The path lists each turn with its model and timing, and names the provider serving the session alo",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/changelog/ai-gateway-logs-now-show-session-affinity",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 81,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 98,
+      "total_score": 69,
+      "rank": 81,
+      "cluster_id": "vercel_com_dbf57a81",
+      "dedupe_key": "6e6a441d8171b54e",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：AI Gateway logs now show session affinity 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-18",
+      "last_seen_issue": "2026-10-18",
+      "used_in_issue": "2026-10-18"
+    },
+    {
+      "id": "cand_2282093fed6d0180",
+      "canonical_url": "https://openai.com/index/itau-generative-ai",
+      "source_url": "https://openai.com/news/rss.xml",
+      "source_fetch_url": "https://openai.com/news/rss.xml",
+      "source_platform": "web",
+      "source_domain": "openai.com",
+      "source_name": "OpenAI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "subtitle": "官方发布、研究、模型与开发者文档优先来源。",
+      "author": "OpenAI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "OpenAI",
+      "language": "unknown",
+      "published_at": "Fri, 16 Oct 2026 19:00:00 GMT",
+      "captured_at": "2026-10-17T22:54:50.219Z",
+      "captured_issue": "2026-10-18",
+      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+      "excerpt": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+      "raw_text_available": false,
+      "topics": [
+        "Research"
+      ],
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://openai.com/index/itau-generative-ai",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news",
+        "https://x.com/OpenAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 50,
+      "trend_score": 45,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 67,
+      "rank": 161,
+      "cluster_id": "openai_com_5bca9ee4",
+      "dedupe_key": "6016c28845a0132e",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：How Itaú is building generative AI for its entire customer base 来自 OpenAI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-18",
+      "last_seen_issue": "2026-10-18",
+      "used_in_issue": "2026-10-18"
+    },
+    {
+      "id": "cand_f1499977b9b7dcc0",
+      "canonical_url": "https://openai.com/index/benefit-street-partners",
+      "source_url": "https://openai.com/news/rss.xml",
+      "source_fetch_url": "https://openai.com/news/rss.xml",
+      "source_platform": "web",
+      "source_domain": "openai.com",
+      "source_name": "OpenAI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "subtitle": "官方发布、研究、模型与开发者文档优先来源。",
+      "author": "OpenAI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "OpenAI",
+      "language": "unknown",
+      "published_at": "Fri, 16 Oct 2026 00:00:00 GMT",
+      "captured_at": "2026-10-17T22:54:50.219Z",
+      "captured_issue": "2026-10-18",
+      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+      "excerpt": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+      "raw_text_available": false,
+      "topics": [
+        "Research"
+      ],
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://openai.com/index/benefit-street-partners",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news",
+        "https://x.com/OpenAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 50,
+      "trend_score": 45,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 67,
+      "rank": 162,
+      "cluster_id": "openai_com_81b19b86",
+      "dedupe_key": "81074ebc1afa89c1",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Benefit Street Partners answers questions faster with Codex 来自 OpenAI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-18",
+      "last_seen_issue": "2026-10-18",
+      "used_in_issue": "2026-10-18"
+    },
+    {
+      "id": "cand_5fc6325756f0521d",
+      "canonical_url": "https://vercel.com/changelog/elorian-ai-glimpse-now-available-on-ai-gateway",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Elorian AI's Glimpse now available on AI Gateway",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-10-16T00:00:00.000Z",
+      "captured_at": "2026-10-17T22:54:54.586Z",
+      "captured_issue": "2026-10-18",
+      "summary": "Glimpse from Elorian is now available on AI Gateway. The visual reasoning model accepts images and video to follow objects through motion, interpret spatial relationships, and connect an action to its physical consequences. Glimpse can return to visual evidence as it works: zooming into a detail, revisiting a short interval of video, or tracking the same feature across frames. This allows the model to support use cases like scientific chart analysis, video captioning, visual ",
+      "excerpt": "Glimpse from Elorian is now available on AI Gateway. The visual reasoning model accepts images and video to follow objects through motion, interpret spatial relationships, and connect an action to its physical consequences. Glimpse can return to visual evidence as it works: zooming into a detail, revisiting a short interval of video, or tracking the same feature across frames. This allows the model to support use cases like scientific chart analysis, video captioning, visual ",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/changelog/elorian-ai-glimpse-now-available-on-ai-gateway",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 69,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 74,
+      "total_score": 65,
+      "rank": 442,
+      "cluster_id": "vercel_com_b250bc50",
+      "dedupe_key": "f00c317d7696007e",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Elorian AI's Glimpse now available on AI Gateway 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-18",
+      "last_seen_issue": "2026-10-18",
+      "used_in_issue": "2026-10-18"
+    },
+    {
+      "id": "cand_5f6abcf7dc33caa8",
+      "canonical_url": "https://huggingface.co/blog/dmis-lab/ultrabert",
+      "source_url": "https://huggingface.co/blog",
+      "source_fetch_url": "https://huggingface.co/blog",
+      "source_platform": "web",
+      "source_domain": "huggingface.co",
+      "source_name": "Hugging Face",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "UltraBERT: One Encoder for Classification and Retrieval dmis-lab • 4 days ago • 54",
+      "subtitle": "",
+      "author": "Hugging Face",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Hugging Face",
+      "language": "unknown",
+      "published_at": "",
+      "captured_at": "2026-10-17T22:54:55.165Z",
+      "captured_issue": "2026-10-18",
+      "summary": "Hugging Face – Blog · UltraBERT: One Encoder for Classification and Retrieval dmis-lab • 4 days ago • 54",
+      "excerpt": "Hugging Face – Blog · UltraBERT: One Encoder for Classification and Retrieval dmis-lab • 4 days ago • 54",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "open_source",
+        "papers",
+        "models"
+      ],
+      "entities": [
+        "Hugging Face"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://huggingface.co/blog/dmis-lab/ultrabert",
+        "https://huggingface.co/blog",
+        "https://huggingface.co",
+        "https://x.com/huggingface"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 66,
+      "originality_score": 38,
+      "trend_score": 45,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 50,
+      "total_score": 64,
+      "rank": 542,
+      "cluster_id": "huggingface_co_e6948a67",
+      "dedupe_key": "203f3ee4d24418c2",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：UltraBERT: One Encoder for Classification and Retrieval dmis-lab • 4 days ago • 54 来自 Hugging Face 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-18",
+      "last_seen_issue": "2026-10-18",
+      "used_in_issue": "2026-10-18"
+    },
+    {
+      "id": "cand_7d990e4ee75520be",
+      "canonical_url": "https://www.lennysnewsletter.com/p/community-wisdom-prds-for-agents",
+      "source_url": "https://www.lennysnewsletter.com/feed.xml",
+      "source_fetch_url": "https://www.lennysnewsletter.com/feed.xml",
+      "source_platform": "web",
+      "source_domain": "lennysnewsletter.com",
+      "source_name": "Lenny's Newsletter",
+      "source_file": "media.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "external_article",
+      "title": "🧠 Community Wisdom: PRDs for agents, tracking competitor messaging, whether software moats still exist, exercising startup options when you leave, and more",
+      "subtitle": "",
+      "author": "Lenny's Newsletter",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Lenny's Newsletter",
+      "language": "unknown",
+      "published_at": "Sat, 17 Oct 2026 13:53:57 GMT",
+      "captured_at": "2026-10-17T22:54:59.446Z",
+      "captured_issue": "2026-10-18",
+      "summary": "Community Wisdom 302",
+      "excerpt": "Community Wisdom 302",
+      "raw_text_available": false,
+      "topics": [
+        "Product"
+      ],
+      "tags": [
+        "product",
+        "growth",
+        "startup"
+      ],
+      "entities": [
+        "Lenny's Newsletter"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://www.lennysnewsletter.com/p/community-wisdom-prds-for-agents",
+        "https://www.lennysnewsletter.com/feed.xml",
+        "https://www.lennysnewsletter.com"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 69,
+      "evidence_score": 75,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 64,
+      "rank": 598,
+      "cluster_id": "lennysnewsletter_com_de35f0d8",
+      "dedupe_key": "925128f45266f9f2",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：🧠 Community Wisdom: PRDs for agents, tracking competitor messaging, whether software moats still exist, exercising startup options when you leave, and more 来自 Lenny's Newsletter 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-18",
+      "last_seen_issue": "2026-10-18",
+      "used_in_issue": "2026-10-18"
+    },
+    {
+      "id": "cand_16eb5239865faac2",
+      "canonical_url": "https://stratechery.com/2026/home-at-last",
+      "source_url": "https://stratechery.com/feed",
+      "source_fetch_url": "https://stratechery.com/feed",
+      "source_platform": "web",
+      "source_domain": "stratechery.com",
+      "source_name": "Stratechery",
+      "source_file": "media.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "external_article",
+      "title": "2026.42: Home At Last",
+      "subtitle": "",
+      "author": "Stratechery",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Stratechery",
+      "language": "unknown",
+      "published_at": "Fri, 16 Oct 2026 17:42:42 +0000",
+      "captured_at": "2026-10-17T22:54:58.481Z",
+      "captured_issue": "2026-10-18",
+      "summary": "The best Stratechery content from the week of October 12, 2026, including what Apple is doing, SpaceX's appetite, and the title, takes, and the Washington Wizards.",
+      "excerpt": "The best Stratechery content from the week of October 12, 2026, including what Apple is doing, SpaceX's appetite, and the title, takes, and the Washington Wizards.",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "strategy",
+        "tech",
+        "business"
+      ],
+      "entities": [
+        "Stratechery"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://stratechery.com/2026/home-at-last",
+        "https://stratechery.com/feed",
+        "https://stratechery.com"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 45,
+      "evidence_score": 75,
+      "heat_score": 40,
+      "site_fit_score": 50,
+      "total_score": 56,
+      "rank": 1112,
+      "cluster_id": "stratechery_com_f5e943a0",
+      "dedupe_key": "729dc79e75872cb2",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：2026.42: Home At Last 来自 Stratechery 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-18",
+      "last_seen_issue": "2026-10-18",
+      "used_in_issue": "2026-10-18"
+    }
+  ],
+  "clusters": [
+    {
+      "cluster_id": "vercel_com_417ba2b9",
+      "title": "DeepSeek V4.1 Flash 1017 now available on AI Gateway",
+      "summary": "DeepSeek V4.1 Flash 1017 is now available on AI Gateway . DeepSeek V4.1 Flash 1017 is a minor update to DeepSeek V4.1 Flash that improves reasoning, coding, agentic tasks, and image understanding. The coding gains show up in terminal work and in building and editing whole repositories, and the agentic gains in multi-step automation. With images, the model reads charts and handles visual reasoning more accurately when it can call tools. DeepSeek V4.1 Flash 1017 also finishes t",
+      "primary_source": "https://vercel.com/changelog/deepseek-v4-1-flash-1017-now-available-on-ai-gateway",
+      "supporting_sources": [
+        "https://vercel.com/changelog/deepseek-v4-1-flash-1017-now-available-on-ai-gateway",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "related_x_posts": [
+        "https://x.com/vercel"
+      ],
+      "related_articles": [
+        "https://vercel.com/changelog/deepseek-v4-1-flash-1017-now-available-on-ai-gateway",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "score": 71,
+      "selected_item_id": "cand_03d110fcb6d8f1db"
+    },
+    {
+      "cluster_id": "vercel_com_dbf57a81",
+      "title": "AI Gateway logs now show session affinity",
+      "summary": "AI Gateway logs now have a Sessions view that groups requests into sessions and shows how session affinity routed each one. Each row shows the coding agent or app that ran the session, such as Claude Code, Codex, or Cursor, along with its cost, models, providers, and how much of its input was cached across every turn. Open a session to see its cache hit rate, duration, and path. The path lists each turn with its model and timing, and names the provider serving the session alo",
+      "primary_source": "https://vercel.com/changelog/ai-gateway-logs-now-show-session-affinity",
+      "supporting_sources": [
+        "https://vercel.com/changelog/ai-gateway-logs-now-show-session-affinity",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "related_x_posts": [
+        "https://x.com/vercel"
+      ],
+      "related_articles": [
+        "https://vercel.com/changelog/ai-gateway-logs-now-show-session-affinity",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "score": 69,
+      "selected_item_id": "cand_6a49ce899f9397d0"
+    },
+    {
+      "cluster_id": "openai_com_5bca9ee4",
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+      "primary_source": "https://openai.com/index/itau-generative-ai",
+      "supporting_sources": [
+        "https://openai.com/index/itau-generative-ai",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news",
+        "https://x.com/OpenAI"
+      ],
+      "related_x_posts": [
+        "https://x.com/OpenAI"
+      ],
+      "related_articles": [
+        "https://openai.com/index/itau-generative-ai",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "score": 67,
+      "selected_item_id": "cand_2282093fed6d0180"
+    },
+    {
+      "cluster_id": "openai_com_81b19b86",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+      "primary_source": "https://openai.com/index/benefit-street-partners",
+      "supporting_sources": [
+        "https://openai.com/index/benefit-street-partners",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news",
+        "https://x.com/OpenAI"
+      ],
+      "related_x_posts": [
+        "https://x.com/OpenAI"
+      ],
+      "related_articles": [
+        "https://openai.com/index/benefit-street-partners",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "score": 67,
+      "selected_item_id": "cand_f1499977b9b7dcc0"
+    },
+    {
+      "cluster_id": "vercel_com_b250bc50",
+      "title": "Elorian AI's Glimpse now available on AI Gateway",
+      "summary": "Glimpse from Elorian is now available on AI Gateway. The visual reasoning model accepts images and video to follow objects through motion, interpret spatial relationships, and connect an action to its physical consequences. Glimpse can return to visual evidence as it works: zooming into a detail, revisiting a short interval of video, or tracking the same feature across frames. This allows the model to support use cases like scientific chart analysis, video captioning, visual ",
+      "primary_source": "https://vercel.com/changelog/elorian-ai-glimpse-now-available-on-ai-gateway",
+      "supporting_sources": [
+        "https://vercel.com/changelog/elorian-ai-glimpse-now-available-on-ai-gateway",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "related_x_posts": [
+        "https://x.com/vercel"
+      ],
+      "related_articles": [
+        "https://vercel.com/changelog/elorian-ai-glimpse-now-available-on-ai-gateway",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "score": 65,
+      "selected_item_id": "cand_5fc6325756f0521d"
+    },
+    {
+      "cluster_id": "huggingface_co_e6948a67",
+      "title": "UltraBERT: One Encoder for Classification and Retrieval dmis-lab • 4 days ago • 54",
+      "summary": "Hugging Face – Blog · UltraBERT: One Encoder for Classification and Retrieval dmis-lab • 4 days ago • 54",
+      "primary_source": "https://huggingface.co/blog/dmis-lab/ultrabert",
+      "supporting_sources": [
+        "https://huggingface.co/blog/dmis-lab/ultrabert",
+        "https://huggingface.co/blog",
+        "https://huggingface.co",
+        "https://x.com/huggingface"
+      ],
+      "related_x_posts": [
+        "https://x.com/huggingface"
+      ],
+      "related_articles": [
+        "https://huggingface.co/blog/dmis-lab/ultrabert",
+        "https://huggingface.co/blog",
+        "https://huggingface.co"
+      ],
+      "entities": [
+        "Hugging Face"
+      ],
+      "tags": [
+        "open_source",
+        "papers",
+        "models"
+      ],
+      "score": 64,
+      "selected_item_id": "cand_5f6abcf7dc33caa8"
+    },
+    {
+      "cluster_id": "lennysnewsletter_com_de35f0d8",
+      "title": "🧠 Community Wisdom: PRDs for agents, tracking competitor messaging, whether software moats still exist, exercising startup options when you leave, and more",
+      "summary": "Community Wisdom 302",
+      "primary_source": "https://www.lennysnewsletter.com/p/community-wisdom-prds-for-agents",
+      "supporting_sources": [
+        "https://www.lennysnewsletter.com/p/community-wisdom-prds-for-agents",
+        "https://www.lennysnewsletter.com/feed.xml",
+        "https://www.lennysnewsletter.com"
+      ],
+      "related_x_posts": [],
+      "related_articles": [
+        "https://www.lennysnewsletter.com/p/community-wisdom-prds-for-agents",
+        "https://www.lennysnewsletter.com/feed.xml",
+        "https://www.lennysnewsletter.com"
+      ],
+      "entities": [
+        "Lenny's Newsletter"
+      ],
+      "tags": [
+        "product",
+        "growth",
+        "startup"
+      ],
+      "score": 64,
+      "selected_item_id": "cand_7d990e4ee75520be"
+    },
+    {
+      "cluster_id": "stratechery_com_f5e943a0",
+      "title": "2026.42: Home At Last",
+      "summary": "The best Stratechery content from the week of October 12, 2026, including what Apple is doing, SpaceX's appetite, and the title, takes, and the Washington Wizards.",
+      "primary_source": "https://stratechery.com/2026/home-at-last",
+      "supporting_sources": [
+        "https://stratechery.com/2026/home-at-last",
+        "https://stratechery.com/feed",
+        "https://stratechery.com"
+      ],
+      "related_x_posts": [],
+      "related_articles": [
+        "https://stratechery.com/2026/home-at-last",
+        "https://stratechery.com/feed",
+        "https://stratechery.com"
+      ],
+      "entities": [
+        "Stratechery"
+      ],
+      "tags": [
+        "strategy",
+        "tech",
+        "business"
+      ],
+      "score": 56,
+      "selected_item_id": "cand_16eb5239865faac2"
+    }
+  ],
+  "sources": [
+    "vercel.com",
+    "openai.com",
+    "huggingface.co",
+    "lennysnewsletter.com",
+    "stratechery.com"
+  ]
+}

@@ -25626,5 +25626,85 @@
     "cluster_id": "elevenlabs_io_313c088f",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_03d110fcb6d8f1db",
+    "canonical_url": "https://vercel.com/changelog/deepseek-v4-1-flash-1017-now-available-on-ai-gateway",
+    "dedupe_key": "09b6a9e46600a6e1",
+    "title": "DeepSeek V4.1 Flash 1017 now available on AI Gateway",
+    "issue_date": "2026-10-18",
+    "cluster_id": "vercel_com_417ba2b9",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6a49ce899f9397d0",
+    "canonical_url": "https://vercel.com/changelog/ai-gateway-logs-now-show-session-affinity",
+    "dedupe_key": "6e6a441d8171b54e",
+    "title": "AI Gateway logs now show session affinity",
+    "issue_date": "2026-10-18",
+    "cluster_id": "vercel_com_dbf57a81",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2282093fed6d0180",
+    "canonical_url": "https://openai.com/index/itau-generative-ai",
+    "dedupe_key": "6016c28845a0132e",
+    "title": "How Itaú is building generative AI for its entire customer base",
+    "issue_date": "2026-10-18",
+    "cluster_id": "openai_com_5bca9ee4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f1499977b9b7dcc0",
+    "canonical_url": "https://openai.com/index/benefit-street-partners",
+    "dedupe_key": "81074ebc1afa89c1",
+    "title": "Benefit Street Partners answers questions faster with Codex",
+    "issue_date": "2026-10-18",
+    "cluster_id": "openai_com_81b19b86",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5fc6325756f0521d",
+    "canonical_url": "https://vercel.com/changelog/elorian-ai-glimpse-now-available-on-ai-gateway",
+    "dedupe_key": "f00c317d7696007e",
+    "title": "Elorian AI's Glimpse now available on AI Gateway",
+    "issue_date": "2026-10-18",
+    "cluster_id": "vercel_com_b250bc50",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5f6abcf7dc33caa8",
+    "canonical_url": "https://huggingface.co/blog/dmis-lab/ultrabert",
+    "dedupe_key": "203f3ee4d24418c2",
+    "title": "UltraBERT: One Encoder for Classification and Retrieval dmis-lab • 4 days ago • 54",
+    "issue_date": "2026-10-18",
+    "cluster_id": "huggingface_co_e6948a67",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7d990e4ee75520be",
+    "canonical_url": "https://www.lennysnewsletter.com/p/community-wisdom-prds-for-agents",
+    "dedupe_key": "925128f45266f9f2",
+    "title": "🧠 Community Wisdom: PRDs for agents, tracking competitor messaging, whether software moats still exist, exercising startup options when you leave, and more",
+    "issue_date": "2026-10-18",
+    "cluster_id": "lennysnewsletter_com_de35f0d8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_16eb5239865faac2",
+    "canonical_url": "https://stratechery.com/2026/home-at-last",
+    "dedupe_key": "729dc79e75872cb2",
+    "title": "2026.42: Home At Last",
+    "issue_date": "2026-10-18",
+    "cluster_id": "stratechery_com_f5e943a0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]

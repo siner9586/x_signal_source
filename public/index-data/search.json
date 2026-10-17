@@ -1,8 +1,8 @@
 [
   {
-    "title": "Reflection AI's Beam now available on AI Gateway for free",
-    "url": "https://vercel.com/changelog/reflection-ai-beam-now-available-on-ai-gateway-for-free",
-    "summary": "Beam from Reflection AI , previously available in stealth as stealth/cat-jam , is now available on AI Gateway . Beam is free to use for a limited time during the launch period when serviced by Reflection AI. Beam is an low latency US open-weight reasoning model for coding and agentic tasks, with weights released under Apache 2.0 . Beam supports tool calling and structured outputs , with a 1M-token context window for code, documents, and conversation history. Reasoning effort ",
+    "title": "DeepSeek V4.1 Flash 1017 now available on AI Gateway",
+    "url": "https://vercel.com/changelog/deepseek-v4-1-flash-1017-now-available-on-ai-gateway",
+    "summary": "DeepSeek V4.1 Flash 1017 is now available on AI Gateway . DeepSeek V4.1 Flash 1017 is a minor update to DeepSeek V4.1 Flash that improves reasoning, coding, agentic tasks, and image understanding. The coding gains show up in terminal work and in building and editing whole repositories, and the agentic gains in multi-step automation. With images, the model reads charts and handles visual reasoning more accurately when it can call tools. DeepSeek V4.1 Flash 1017 also finishes t",
     "tags": [
       "sdk",
       "ai_infra",
@@ -10,28 +10,13 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-10-17",
+    "date": "2026-10-18",
     "score": 71
   },
   {
-    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-    "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-10-17",
-    "score": 70
-  },
-  {
-    "title": "Vercel and Shopify make agents first-class shoppers",
-    "url": "https://vercel.com/blog/vercel-and-shopify-make-agents-first-class-shoppers",
-    "summary": "Agents already shop on the web, but they often use pages and tools originally built for people and search engines. Building a better shopping experience for agents means treating them as first-class shoppers, with product information they can read directly and tools designed for agents to shop. Today, Vercel Shop , our open source Next.js storefront template for Shopify , is generally available. Teams can launch storefronts optimized for how people, search engines, and agents",
+    "title": "AI Gateway logs now show session affinity",
+    "url": "https://vercel.com/changelog/ai-gateway-logs-now-show-session-affinity",
+    "summary": "AI Gateway logs now have a Sessions view that groups requests into sessions and shows how session affinity routed each one. Each row shows the coding agent or app that ran the session, such as Claude Code, Codex, or Cursor, along with its cost, models, providers, and how much of its input was cached across every turn. Open a session to see its cache hit rate, duration, and path. The path lists each turn with its model and timing, and names the provider serving the session alo",
     "tags": [
       "sdk",
       "ai_infra",
@@ -39,13 +24,13 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-10-17",
-    "score": 68
+    "date": "2026-10-18",
+    "score": 69
   },
   {
-    "title": "Sullivan & Cromwell brings legal expertise into agreement review",
-    "url": "https://openai.com/index/sullivan-cromwell",
-    "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
+    "title": "How Itaú is building generative AI for its entire customer base",
+    "url": "https://openai.com/index/itau-generative-ai",
+    "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
     "tags": [
       "ai_models",
       "official",
@@ -54,27 +39,28 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-10-17",
+    "date": "2026-10-18",
     "score": 67
   },
   {
-    "title": "Code, Test, and Deploy on One Machine with NVIDIA RTX Spark",
-    "url": "https://developer.nvidia.com/blog/code-test-and-deploy-on-one-machine-with-nvidia-rtx-spark",
-    "summary": "NVIDIA Technical Blog · Code, Test, and Deploy on One Machine with NVIDIA RTX Spark",
+    "title": "Benefit Street Partners answers questions faster with Codex",
+    "url": "https://openai.com/index/benefit-street-partners",
+    "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
     "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
+      "ai_models",
+      "official",
+      "research",
+      "developer"
     ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-10-17",
-    "score": 66
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-10-18",
+    "score": 67
   },
   {
-    "title": "Perplexity's Decider V1.2 models now available on AI Gateway",
-    "url": "https://vercel.com/changelog/perplexity-decider-v1-2-models-now-available-on-ai-gateway",
-    "summary": "Perplexity Decider V1.2 27B and Decider Flash V1.2 4B are now available on AI Gateway . Both are multimodal decision models for classifying content, routing requests, and scoring text, structured records, and images. The models answer typed questions with probabilities. Boolean questions return the likelihood of yes, Choice questions select from categories you define, and Score questions assess content against an ordered rubric. Your application can use those results to route",
+    "title": "Elorian AI's Glimpse now available on AI Gateway",
+    "url": "https://vercel.com/changelog/elorian-ai-glimpse-now-available-on-ai-gateway",
+    "summary": "Glimpse from Elorian is now available on AI Gateway. The visual reasoning model accepts images and video to follow objects through motion, interpret spatial relationships, and connect an action to its physical consequences. Glimpse can return to visual evidence as it works: zooming into a detail, revisiting a short interval of video, or tracking the same feature across frames. This allows the model to support use cases like scientific chart analysis, video captioning, visual ",
     "tags": [
       "sdk",
       "ai_infra",
@@ -82,149 +68,41 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-10-17",
+    "date": "2026-10-18",
     "score": 65
   },
   {
-    "title": "NOS builds AI voice agents for customer service with ElevenLabs Text to Speech",
-    "url": "https://elevenlabs.io/blog/nos-pt",
-    "summary": "In early production testing, NOS's voice agents successfully handle around 50% of calls, measured net of callbacks",
+    "title": "UltraBERT: One Encoder for Classification and Retrieval dmis-lab • 4 days ago • 54",
+    "url": "https://huggingface.co/blog/dmis-lab/ultrabert",
+    "summary": "Hugging Face – Blog · UltraBERT: One Encoder for Classification and Retrieval dmis-lab • 4 days ago • 54",
     "tags": [
-      "voice_ai",
-      "audio"
+      "open_source",
+      "papers",
+      "models"
     ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-10-17",
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-10-18",
     "score": 64
   },
   {
-    "title": "Research Introducing Timestral State-of-the-art probabilistic forecasts with just 209M parameters, outperforming larger models on CPU. October 15, 2026 By Mistral",
-    "url": "https://mistral.ai/news/timestral",
-    "summary": "Latest news | Mistral · Research Introducing Timestral State-of-the-art probabilistic forecasts with just 209M parameters, outperforming larger models on CPU. October 15, 2026 By Mistral",
+    "title": "🧠 Community Wisdom: PRDs for agents, tracking competitor messaging, whether software moats still exist, exercising startup options when you leave, and more",
+    "url": "https://www.lennysnewsletter.com/p/community-wisdom-prds-for-agents",
+    "summary": "Community Wisdom 302",
     "tags": [
-      "open_model",
-      "european_ai"
+      "product",
+      "growth",
+      "startup"
     ],
-    "author": "Mistral AI",
-    "source": "mistral.ai",
-    "date": "2026-10-17",
+    "author": "Lenny's Newsletter",
+    "source": "lennysnewsletter.com",
+    "date": "2026-10-18",
     "score": 64
   },
   {
-    "title": "The Missing Piece in LLM Memory: Why Long Context and Retrieval Aren't Enough for Belief Revision boltwave • 1 day ago • 52",
-    "url": "https://huggingface.co/blog/boltwave/llm-memory-belief-revision",
-    "summary": "Hugging Face – Blog · The Missing Piece in LLM Memory: Why Long Context and Retrieval Aren't Enough for Belief Revision boltwave • 1 day ago • 52",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-10-17",
-    "score": 64
-  },
-  {
-    "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-    "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-    "summary": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-10-17",
-    "score": 63
-  },
-  {
-    "title": "AI voice agent integrations: CRM and help desk guide",
-    "url": "https://elevenlabs.io/blog/ai-voice-agent-integrations",
-    "summary": "Learn about AI voice agent integrations with Salesforce, HubSpot, Zendesk, and more. Discover how agents read and update records mid-call and set up tools.",
-    "tags": [
-      "voice_ai",
-      "audio"
-    ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-10-17",
-    "score": 62
-  },
-  {
-    "title": "NTT Docomo Business trials conversational AI in Aizuwakamatsu with ElevenLabs",
-    "url": "https://elevenlabs.io/blog/ntt-docomo-conversational-ai",
-    "summary": "NTT Docomo Business is piloting an ElevenAgents voice platform in Fukushima to support older residents with natural Japanese speech. (137 characters)",
-    "tags": [
-      "voice_ai",
-      "audio"
-    ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-10-17",
-    "score": 62
-  },
-  {
-    "title": "Oct 15, 2026 Announcements An update on independent evaluators",
-    "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
-    "summary": "Newsroom \\ Anthropic · Oct 15, 2026 Announcements An update on independent evaluators",
-    "tags": [
-      "ai_models",
-      "safety",
-      "official"
-    ],
-    "author": "Anthropic",
-    "source": "anthropic.com",
-    "date": "2026-10-17",
-    "score": 62
-  },
-  {
-    "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
-    "url": "https://huggingface.co/blog/reflection-beam",
-    "summary": "Welcome Beam: a 501B open model you can own, customize, and scale 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-10-17",
-    "score": 62
-  },
-  {
-    "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-    "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-    "summary": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-10-17",
-    "score": 62
-  },
-  {
-    "title": "Welcome FLUX.3 Image Klein in Diffusers",
-    "url": "https://huggingface.co/blog/flux-3",
-    "summary": "Welcome FLUX.3 Image Klein in Diffusers 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-10-17",
-    "score": 62
-  },
-  {
-    "title": "A Conversation With Ari Emanuel About Entertainment and AI",
-    "url": "https://stratechery.com/2026/a-conversation-with-ari-emanuel-about-entertainment-and-ai",
-    "summary": "A conversation with Hollywood super-agent Ari Emanuel about his memoir, the impact of AI on Hollywood, and the power of a phone call.",
+    "title": "2026.42: Home At Last",
+    "url": "https://stratechery.com/2026/home-at-last",
+    "summary": "The best Stratechery content from the week of October 12, 2026, including what Apple is doing, SpaceX's appetite, and the title, takes, and the Washington Wizards.",
     "tags": [
       "strategy",
       "tech",
@@ -232,74 +110,7 @@
     ],
     "author": "Stratechery",
     "source": "stratechery.com",
-    "date": "2026-10-17",
-    "score": 61
-  },
-  {
-    "title": "Thu, 15 Oct 2026",
-    "url": "https://arxiv.org/list/cs.AI/recent?skip=286&amp%3Bshow=50",
-    "summary": "Artificial Intelligence · Thu, 15 Oct 2026",
-    "tags": [
-      "paper",
-      "ai",
-      "arxiv"
-    ],
-    "author": "arXiv CS AI",
-    "source": "arxiv.org",
-    "date": "2026-10-17",
-    "score": 60
-  },
-  {
-    "title": "Wed, 14 Oct 2026",
-    "url": "https://arxiv.org/list/cs.AI/recent?skip=566&amp%3Bshow=50",
-    "summary": "Artificial Intelligence · Wed, 14 Oct 2026",
-    "tags": [
-      "paper",
-      "ai",
-      "arxiv"
-    ],
-    "author": "arXiv CS AI",
-    "source": "arxiv.org",
-    "date": "2026-10-17",
-    "score": 60
-  },
-  {
-    "title": "ElevenLabs’ commitment to security, privacy, and responsible AI: certified and renewed",
-    "url": "https://elevenlabs.io/blog/certification-renewals",
-    "summary": "ElevenLabs renewed its ISO, SOC 2, and PCI DSS certifications and added SOC 2 Type I and FedRAMP 20x Class A for enterprise trust.",
-    "tags": [
-      "voice_ai",
-      "audio"
-    ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-10-17",
-    "score": 59
-  },
-  {
-    "title": "SSML tags explained: How to control pauses, pronunciation, and pacing in text to speech",
-    "url": "https://elevenlabs.io/blog/ssml-tags-explained",
-    "summary": "SSML is the markup that controls pauses and pronunciation in text to speech. See key tags, code examples, and ElevenLabs support, including Eleven v4.",
-    "tags": [
-      "voice_ai",
-      "audio"
-    ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-10-17",
-    "score": 59
-  },
-  {
-    "title": "Introducing Instant Soundtracks",
-    "url": "https://elevenlabs.io/blog/introducing-instant-soundtracks",
-    "summary": "Introducing Instant Soundtracks, convert video to music and sound effects automatically.",
-    "tags": [
-      "voice_ai",
-      "audio"
-    ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-10-17",
-    "score": 59
+    "date": "2026-10-18",
+    "score": 56
   }
 ]
