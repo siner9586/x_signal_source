@@ -1,94 +1,22 @@
 [
   {
-    "title": "DeepSeek V4.1 Flash 1017 now available on AI Gateway",
-    "url": "https://vercel.com/changelog/deepseek-v4-1-flash-1017-now-available-on-ai-gateway",
-    "summary": "DeepSeek V4.1 Flash 1017 is now available on AI Gateway . DeepSeek V4.1 Flash 1017 is a minor update to DeepSeek V4.1 Flash that improves reasoning, coding, agentic tasks, and image understanding. The coding gains show up in terminal work and in building and editing whole repositories, and the agentic gains in multi-step automation. With images, the model reads charts and handles visual reasoning more accurately when it can call tools. DeepSeek V4.1 Flash 1017 also finishes t",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-18",
-    "score": 71
-  },
-  {
-    "title": "AI Gateway logs now show session affinity",
-    "url": "https://vercel.com/changelog/ai-gateway-logs-now-show-session-affinity",
-    "summary": "AI Gateway logs now have a Sessions view that groups requests into sessions and shows how session affinity routed each one. Each row shows the coding agent or app that ran the session, such as Claude Code, Codex, or Cursor, along with its cost, models, providers, and how much of its input was cached across every turn. Open a session to see its cache hit rate, duration, and path. The path lists each turn with its model and timing, and names the provider serving the session alo",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-18",
-    "score": 69
-  },
-  {
-    "title": "How Itaú is building generative AI for its entire customer base",
-    "url": "https://openai.com/index/itau-generative-ai",
-    "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+    "title": "Oct 18, 2026 Announcements Investing in the public benefit",
+    "url": "https://www.anthropic.com/news/public-benefit-fund",
+    "summary": "Newsroom \\ Anthropic · Oct 18, 2026 Announcements Investing in the public benefit",
     "tags": [
       "ai_models",
-      "official",
-      "research",
-      "developer"
+      "safety",
+      "official"
     ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-10-18",
-    "score": 67
+    "author": "Anthropic",
+    "source": "anthropic.com",
+    "date": "2026-10-19",
+    "score": 62
   },
   {
-    "title": "Benefit Street Partners answers questions faster with Codex",
-    "url": "https://openai.com/index/benefit-street-partners",
-    "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-10-18",
-    "score": 67
-  },
-  {
-    "title": "Elorian AI's Glimpse now available on AI Gateway",
-    "url": "https://vercel.com/changelog/elorian-ai-glimpse-now-available-on-ai-gateway",
-    "summary": "Glimpse from Elorian is now available on AI Gateway. The visual reasoning model accepts images and video to follow objects through motion, interpret spatial relationships, and connect an action to its physical consequences. Glimpse can return to visual evidence as it works: zooming into a detail, revisiting a short interval of video, or tracking the same feature across frames. This allows the model to support use cases like scientific chart analysis, video captioning, visual ",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-18",
-    "score": 65
-  },
-  {
-    "title": "UltraBERT: One Encoder for Classification and Retrieval dmis-lab • 4 days ago • 54",
-    "url": "https://huggingface.co/blog/dmis-lab/ultrabert",
-    "summary": "Hugging Face – Blog · UltraBERT: One Encoder for Classification and Retrieval dmis-lab • 4 days ago • 54",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-10-18",
-    "score": 64
-  },
-  {
-    "title": "🧠 Community Wisdom: PRDs for agents, tracking competitor messaging, whether software moats still exist, exercising startup options when you leave, and more",
-    "url": "https://www.lennysnewsletter.com/p/community-wisdom-prds-for-agents",
-    "summary": "Community Wisdom 302",
+    "title": "Inside the black box of AI: How AI models actually think | Emmanuel Ameisen (Anthropic)",
+    "url": "https://www.lennysnewsletter.com/p/a-mind-expanding-conversation-on",
+    "summary": "Listen now (72 mins) | Emmanuel Ameisen of Anthropic explains what looking inside language models reveals about planning, consciousness, and AI safety",
     "tags": [
       "product",
       "growth",
@@ -96,21 +24,7 @@
     ],
     "author": "Lenny's Newsletter",
     "source": "lennysnewsletter.com",
-    "date": "2026-10-18",
-    "score": 64
-  },
-  {
-    "title": "2026.42: Home At Last",
-    "url": "https://stratechery.com/2026/home-at-last",
-    "summary": "The best Stratechery content from the week of October 12, 2026, including what Apple is doing, SpaceX's appetite, and the title, takes, and the Washington Wizards.",
-    "tags": [
-      "strategy",
-      "tech",
-      "business"
-    ],
-    "author": "Stratechery",
-    "source": "stratechery.com",
-    "date": "2026-10-18",
-    "score": 56
+    "date": "2026-10-19",
+    "score": 62
   }
 ]

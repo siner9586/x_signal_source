@@ -25706,5 +25706,25 @@
     "cluster_id": "stratechery_com_f5e943a0",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0f63c7623c391229",
+    "canonical_url": "https://www.anthropic.com/news/public-benefit-fund",
+    "dedupe_key": "76d7ccd03a3ac436",
+    "title": "Oct 18, 2026 Announcements Investing in the public benefit",
+    "issue_date": "2026-10-19",
+    "cluster_id": "anthropic_com_88b1308f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e98efd04b33d49fc",
+    "canonical_url": "https://www.lennysnewsletter.com/p/a-mind-expanding-conversation-on",
+    "dedupe_key": "3af2f769be75cf11",
+    "title": "Inside the black box of AI: How AI models actually think | Emmanuel Ameisen (Anthropic)",
+    "issue_date": "2026-10-19",
+    "cluster_id": "lennysnewsletter_com_bc903880",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]

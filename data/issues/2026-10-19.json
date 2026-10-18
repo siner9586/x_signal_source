@@ -1,0 +1,407 @@
+{
+  "metadata": {
+    "issue_date": "2026-10-19",
+    "generated_at": "2026-10-18T22:48:27.667Z",
+    "timezone": "Asia/Shanghai",
+    "source_mode": "live_fetch_only",
+    "strict_new_only": true,
+    "sources_scanned": 118,
+    "fetch_jobs": 224,
+    "candidates_count": 1115,
+    "selected_count": 2,
+    "duplicates_blocked": 1113,
+    "stale_candidates_blocked": 0,
+    "fetch_failures": 80,
+    "no_new_content": false,
+    "initial_source_index": false
+  },
+  "summary": {
+    "one_liner": "本期由每日自动流水线生成：仅展示当日 live fetch 抓取、且未在历史期展示过的新内容。",
+    "trends": [
+      "AI Agent",
+      "AI Coding",
+      "AI Infra",
+      "Research",
+      "Startup / Investment"
+    ],
+    "watch_next": [
+      "公开 RSS / Atom / HTML 新条目",
+      "GitHub releases 与技术博客",
+      "人工维护 X Article / Thread seed list",
+      "播客长访谈中的一手判断"
+    ]
+  },
+  "must_read": [],
+  "worth_reading": [],
+  "signal_watch": [
+    {
+      "id": "cand_0f63c7623c391229",
+      "canonical_url": "https://www.anthropic.com/news/public-benefit-fund",
+      "source_url": "https://www.anthropic.com/news",
+      "source_fetch_url": "https://www.anthropic.com/news",
+      "source_platform": "web",
+      "source_domain": "anthropic.com",
+      "source_name": "Anthropic",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Oct 18, 2026 Announcements Investing in the public benefit",
+      "subtitle": "",
+      "author": "Anthropic",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Anthropic",
+      "language": "unknown",
+      "published_at": "",
+      "captured_at": "2026-10-18T22:48:15.714Z",
+      "captured_issue": "2026-10-19",
+      "summary": "Newsroom \\ Anthropic · Oct 18, 2026 Announcements Investing in the public benefit",
+      "excerpt": "Newsroom \\ Anthropic · Oct 18, 2026 Announcements Investing in the public benefit",
+      "raw_text_available": false,
+      "topics": [
+        "Safety"
+      ],
+      "tags": [
+        "ai_models",
+        "safety",
+        "official"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://www.anthropic.com/news/public-benefit-fund",
+        "https://www.anthropic.com/news",
+        "https://www.anthropic.com",
+        "https://x.com/AnthropicAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 50,
+      "trend_score": 45,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 62,
+      "total_score": 62,
+      "rank": 721,
+      "cluster_id": "anthropic_com_88b1308f",
+      "dedupe_key": "76d7ccd03a3ac436",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Oct 18, 2026 Announcements Investing in the public benefit 来自 Anthropic 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-19",
+      "last_seen_issue": "2026-10-19",
+      "used_in_issue": "2026-10-19"
+    },
+    {
+      "id": "cand_e98efd04b33d49fc",
+      "canonical_url": "https://www.lennysnewsletter.com/p/a-mind-expanding-conversation-on",
+      "source_url": "https://www.lennysnewsletter.com/feed.xml",
+      "source_fetch_url": "https://www.lennysnewsletter.com/feed.xml",
+      "source_platform": "web",
+      "source_domain": "lennysnewsletter.com",
+      "source_name": "Lenny's Newsletter",
+      "source_file": "media.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "external_article",
+      "title": "Inside the black box of AI: How AI models actually think | Emmanuel Ameisen (Anthropic)",
+      "subtitle": "",
+      "author": "Lenny's Newsletter",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Lenny's Newsletter",
+      "language": "unknown",
+      "published_at": "Sun, 18 Oct 2026 12:31:36 GMT",
+      "captured_at": "2026-10-18T22:48:26.446Z",
+      "captured_issue": "2026-10-19",
+      "summary": "Listen now (72 mins) | Emmanuel Ameisen of Anthropic explains what looking inside language models reveals about planning, consciousness, and AI safety",
+      "excerpt": "Listen now (72 mins) | Emmanuel Ameisen of Anthropic explains what looking inside language models reveals about planning, consciousness, and AI safety",
+      "raw_text_available": false,
+      "topics": [
+        "Product",
+        "Safety"
+      ],
+      "tags": [
+        "product",
+        "growth",
+        "startup"
+      ],
+      "entities": [
+        "Lenny's Newsletter"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://www.lennysnewsletter.com/p/a-mind-expanding-conversation-on",
+        "https://www.lennysnewsletter.com/feed.xml",
+        "https://www.lennysnewsletter.com"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 75,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 62,
+      "rank": 958,
+      "cluster_id": "lennysnewsletter_com_bc903880",
+      "dedupe_key": "3af2f769be75cf11",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Inside the black box of AI: How AI models actually think | Emmanuel Ameisen (Anthropic) 来自 Lenny's Newsletter 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-19",
+      "last_seen_issue": "2026-10-19",
+      "used_in_issue": "2026-10-19"
+    }
+  ],
+  "hot_rank": [
+    {
+      "id": "cand_0f63c7623c391229",
+      "canonical_url": "https://www.anthropic.com/news/public-benefit-fund",
+      "source_url": "https://www.anthropic.com/news",
+      "source_fetch_url": "https://www.anthropic.com/news",
+      "source_platform": "web",
+      "source_domain": "anthropic.com",
+      "source_name": "Anthropic",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Oct 18, 2026 Announcements Investing in the public benefit",
+      "subtitle": "",
+      "author": "Anthropic",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Anthropic",
+      "language": "unknown",
+      "published_at": "",
+      "captured_at": "2026-10-18T22:48:15.714Z",
+      "captured_issue": "2026-10-19",
+      "summary": "Newsroom \\ Anthropic · Oct 18, 2026 Announcements Investing in the public benefit",
+      "excerpt": "Newsroom \\ Anthropic · Oct 18, 2026 Announcements Investing in the public benefit",
+      "raw_text_available": false,
+      "topics": [
+        "Safety"
+      ],
+      "tags": [
+        "ai_models",
+        "safety",
+        "official"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://www.anthropic.com/news/public-benefit-fund",
+        "https://www.anthropic.com/news",
+        "https://www.anthropic.com",
+        "https://x.com/AnthropicAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 50,
+      "trend_score": 45,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 62,
+      "total_score": 62,
+      "rank": 721,
+      "cluster_id": "anthropic_com_88b1308f",
+      "dedupe_key": "76d7ccd03a3ac436",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Oct 18, 2026 Announcements Investing in the public benefit 来自 Anthropic 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-19",
+      "last_seen_issue": "2026-10-19",
+      "used_in_issue": "2026-10-19"
+    },
+    {
+      "id": "cand_e98efd04b33d49fc",
+      "canonical_url": "https://www.lennysnewsletter.com/p/a-mind-expanding-conversation-on",
+      "source_url": "https://www.lennysnewsletter.com/feed.xml",
+      "source_fetch_url": "https://www.lennysnewsletter.com/feed.xml",
+      "source_platform": "web",
+      "source_domain": "lennysnewsletter.com",
+      "source_name": "Lenny's Newsletter",
+      "source_file": "media.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "external_article",
+      "title": "Inside the black box of AI: How AI models actually think | Emmanuel Ameisen (Anthropic)",
+      "subtitle": "",
+      "author": "Lenny's Newsletter",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Lenny's Newsletter",
+      "language": "unknown",
+      "published_at": "Sun, 18 Oct 2026 12:31:36 GMT",
+      "captured_at": "2026-10-18T22:48:26.446Z",
+      "captured_issue": "2026-10-19",
+      "summary": "Listen now (72 mins) | Emmanuel Ameisen of Anthropic explains what looking inside language models reveals about planning, consciousness, and AI safety",
+      "excerpt": "Listen now (72 mins) | Emmanuel Ameisen of Anthropic explains what looking inside language models reveals about planning, consciousness, and AI safety",
+      "raw_text_available": false,
+      "topics": [
+        "Product",
+        "Safety"
+      ],
+      "tags": [
+        "product",
+        "growth",
+        "startup"
+      ],
+      "entities": [
+        "Lenny's Newsletter"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://www.lennysnewsletter.com/p/a-mind-expanding-conversation-on",
+        "https://www.lennysnewsletter.com/feed.xml",
+        "https://www.lennysnewsletter.com"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 75,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 62,
+      "rank": 958,
+      "cluster_id": "lennysnewsletter_com_bc903880",
+      "dedupe_key": "3af2f769be75cf11",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Inside the black box of AI: How AI models actually think | Emmanuel Ameisen (Anthropic) 来自 Lenny's Newsletter 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-19",
+      "last_seen_issue": "2026-10-19",
+      "used_in_issue": "2026-10-19"
+    }
+  ],
+  "clusters": [
+    {
+      "cluster_id": "anthropic_com_88b1308f",
+      "title": "Oct 18, 2026 Announcements Investing in the public benefit",
+      "summary": "Newsroom \\ Anthropic · Oct 18, 2026 Announcements Investing in the public benefit",
+      "primary_source": "https://www.anthropic.com/news/public-benefit-fund",
+      "supporting_sources": [
+        "https://www.anthropic.com/news/public-benefit-fund",
+        "https://www.anthropic.com/news",
+        "https://www.anthropic.com",
+        "https://x.com/AnthropicAI"
+      ],
+      "related_x_posts": [
+        "https://x.com/AnthropicAI"
+      ],
+      "related_articles": [
+        "https://www.anthropic.com/news/public-benefit-fund",
+        "https://www.anthropic.com/news",
+        "https://www.anthropic.com"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "tags": [
+        "ai_models",
+        "safety",
+        "official"
+      ],
+      "score": 62,
+      "selected_item_id": "cand_0f63c7623c391229"
+    },
+    {
+      "cluster_id": "lennysnewsletter_com_bc903880",
+      "title": "Inside the black box of AI: How AI models actually think | Emmanuel Ameisen (Anthropic)",
+      "summary": "Listen now (72 mins) | Emmanuel Ameisen of Anthropic explains what looking inside language models reveals about planning, consciousness, and AI safety",
+      "primary_source": "https://www.lennysnewsletter.com/p/a-mind-expanding-conversation-on",
+      "supporting_sources": [
+        "https://www.lennysnewsletter.com/p/a-mind-expanding-conversation-on",
+        "https://www.lennysnewsletter.com/feed.xml",
+        "https://www.lennysnewsletter.com"
+      ],
+      "related_x_posts": [],
+      "related_articles": [
+        "https://www.lennysnewsletter.com/p/a-mind-expanding-conversation-on",
+        "https://www.lennysnewsletter.com/feed.xml",
+        "https://www.lennysnewsletter.com"
+      ],
+      "entities": [
+        "Lenny's Newsletter"
+      ],
+      "tags": [
+        "product",
+        "growth",
+        "startup"
+      ],
+      "score": 62,
+      "selected_item_id": "cand_e98efd04b33d49fc"
+    }
+  ],
+  "sources": [
+    "anthropic.com",
+    "lennysnewsletter.com"
+  ]
+}
