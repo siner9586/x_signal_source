@@ -1,22 +1,148 @@
 [
   {
-    "title": "Oct 18, 2026 Announcements Investing in the public benefit",
-    "url": "https://www.anthropic.com/news/public-benefit-fund",
-    "summary": "Newsroom \\ Anthropic · Oct 18, 2026 Announcements Investing in the public benefit",
+    "title": "Mercury 3 now available on AI Gateway",
+    "url": "https://vercel.com/changelog/mercury-3-now-available-on-ai-gateway",
+    "summary": "Mercury 3 from Inception is now available on AI Gateway with 50% off launch pricing. Inception reports strong results across a range of benchmarks, with generation speeds above 1,000 tokens per second. Mercury 3 uses diffusion to generate text through parallel refinement. It brings improved reasoning to latency-sensitive workloads such as browser agents, real-time search, interactive education, and customer support. A 1M-token context window gives those applications room for ",
     "tags": [
-      "ai_models",
-      "safety",
-      "official"
+      "sdk",
+      "ai_infra",
+      "frontend"
     ],
-    "author": "Anthropic",
-    "source": "anthropic.com",
-    "date": "2026-10-19",
-    "score": 62
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-10-20",
+    "score": 71
   },
   {
-    "title": "Inside the black box of AI: How AI models actually think | Emmanuel Ameisen (Anthropic)",
-    "url": "https://www.lennysnewsletter.com/p/a-mind-expanding-conversation-on",
-    "summary": "Listen now (72 mins) | Emmanuel Ameisen of Anthropic explains what looking inside language models reveals about planning, consciousness, and AI safety",
+    "title": "MiniMax M3.1 Flash now available on AI Gateway for free",
+    "url": "https://vercel.com/changelog/minimax-m3-1-flash-now-available-on-ai-gateway-for-free",
+    "summary": "MiniMax M3.1 Flash from MiniMax is now available on AI Gateway for free until Oct 22. MiniMax M3.1 Flash is an open-weight multimodal model for coding and agentic work, with a 1M-token context window for long documents and multi-step agent sessions. Compared with earlier MiniMax models, M3.1 Flash improves on complex agentic tasks, coding, and cybersecurity. On the agent side, that covers multi-step business processes and computer use that carries a task from one application ",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-10-20",
+    "score": 71
+  },
+  {
+    "title": "Advancing coding in low‑resource programming languages",
+    "url": "https://openai.com/index/low-resource-programming-languages",
+    "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-10-20",
+    "score": 70
+  },
+  {
+    "title": "How to continue a GitHub Copilot app session in VS Code",
+    "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code",
+    "summary": "Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context. The post How to continue a GitHub Copilot app session in VS Code appeared first on The GitHub Blog .",
+    "tags": [
+      "ai_coding",
+      "developer_tools"
+    ],
+    "author": "GitHub Copilot",
+    "source": "github.blog",
+    "date": "2026-10-20",
+    "score": 70
+  },
+  {
+    "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+    "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world",
+    "summary": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head, sparking wild speculation as well as cautious (and not-so-cautious) celebration. Cammarata’s claim is&#8230;",
+    "tags": [
+      "ai",
+      "research",
+      "society"
+    ],
+    "author": "MIT Technology Review AI",
+    "source": "technologyreview.com",
+    "date": "2026-10-20",
+    "score": 68
+  },
+  {
+    "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+    "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play",
+    "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.7 nicknamed Eko—were able to&#8230;",
+    "tags": [
+      "ai",
+      "research",
+      "society"
+    ],
+    "author": "MIT Technology Review AI",
+    "source": "technologyreview.com",
+    "date": "2026-10-20",
+    "score": 68
+  },
+  {
+    "title": "Accelerating Mamba-2 with High-Performance Forward Pass Kernels in NVIDIA CUDA Tile",
+    "url": "https://developer.nvidia.com/blog/accelerating-mamba-2-with-high-performance-forward-pass-kernels-in-nvidia-cuda-tile",
+    "summary": "NVIDIA Technical Blog · Accelerating Mamba-2 with High-Performance Forward Pass Kernels in NVIDIA CUDA Tile",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-10-20",
+    "score": 66
+  },
+  {
+    "title": "Making the internet better for AI agents might make it worse for everyone else",
+    "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automated tasks, like capturing the content of web pages, but rules&#8230;",
+    "tags": [
+      "ai",
+      "research",
+      "society"
+    ],
+    "author": "MIT Technology Review AI",
+    "source": "technologyreview.com",
+    "date": "2026-10-20",
+    "score": 66
+  },
+  {
+    "title": "How Numan Built an Eval-First AI Health Coach with LangGraph and LangSmith",
+    "url": "https://www.langchain.com/blog/how-numan-built-an-eval-first-ai-health-coach-with-langgraph-and-langsmith",
+    "summary": "How Numan built Nu, an AI health coach, on LangGraph and LangSmith with per-category evals, simulated conversations, and safety gates on a regulatory line.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-10-20",
+    "score": 65
+  },
+  {
+    "title": "How Ryder Kemper became employee #7 at Corgi Insurance — and never left San Francisco",
+    "url": "https://www.ycombinator.com/blog/how-ryder-kemper-became-employee-7-at-corgi-insurance-and-never-left-san-francisco",
+    "summary": "Ryder flew to SF for a work trial, moved furniture in a Mystery Machine bus, and decided to stay. Here's what building from day one looks like.",
+    "tags": [
+      "startup",
+      "product",
+      "founder"
+    ],
+    "author": "Y Combinator",
+    "source": "ycombinator.com",
+    "date": "2026-10-20",
+    "score": 64
+  },
+  {
+    "title": "“Claude cuts my TikTok”: How this creator is scaling video with AI | Brooke Lacey",
+    "url": "https://www.lennysnewsletter.com/p/claude-cuts-my-tiktok-how-this-creator",
+    "summary": "Watch now (37 mins) | &#127897;&#65039; Brooke Lacey shows live how Claude Code turns a raw phone video into a captioned, jump-cut TikTok in about 15 seconds",
     "tags": [
       "product",
       "growth",
@@ -24,7 +150,131 @@
     ],
     "author": "Lenny's Newsletter",
     "source": "lennysnewsletter.com",
-    "date": "2026-10-19",
+    "date": "2026-10-20",
+    "score": 64
+  },
+  {
+    "title": "Updates to Hobby and Pro Terms of Service",
+    "url": "https://vercel.com/changelog/updates-to-hobby-and-pro-terms-of-service",
+    "summary": "We are updating the Terms of Service for Hobby and Pro customers, effective October 19, 2026. The updates clarify some existing Vercel practices, expand terms on topics such as managed accounts and credits, and reflect applicable legal requirements, including certain cancellation and service-change rights for eligible consumers in the UK and EU. Credits and billing A new section sets out how credits work: plan-included credits expire at the end of the subscription term and pu",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-10-20",
+    "score": 63
+  },
+  {
+    "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+    "url": "https://huggingface.co/blog/hf-torchneuron",
+    "summary": "TorchNeuron: running HF models on AWS Trainium is easier than ever 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-10-20",
+    "score": 63
+  },
+  {
+    "title": "Speech to text for content creators: A workflow guide for captions and repurposing",
+    "url": "https://elevenlabs.io/blog/speech-to-text-for-content-creators",
+    "summary": "See how speech to text for content creators improves their workflows and accelerates production across captions, show notes, clips, LLM analysis, and more",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-10-20",
     "score": 62
+  },
+  {
+    "title": "Apertus 1.5 Release Notes",
+    "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+    "summary": "Apertus 1.5 Release Notes 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-10-20",
+    "score": 62
+  },
+  {
+    "title": "🎙️ How I AI: Meta Muse Wonder + How Brooke Lacey is scaling video with AI",
+    "url": "https://www.lennysnewsletter.com/p/how-i-ai-meta-muse-wonder-how-brooke",
+    "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+    "tags": [
+      "product",
+      "growth",
+      "startup"
+    ],
+    "author": "Lenny's Newsletter",
+    "source": "lennysnewsletter.com",
+    "date": "2026-10-20",
+    "score": 62
+  },
+  {
+    "title": "Fri, 16 Oct 2026",
+    "url": "https://arxiv.org/list/cs.AI/recent?skip=174&amp%3Bshow=50",
+    "summary": "Artificial Intelligence · Fri, 16 Oct 2026",
+    "tags": [
+      "paper",
+      "ai",
+      "arxiv"
+    ],
+    "author": "arXiv CS AI",
+    "source": "arxiv.org",
+    "date": "2026-10-20",
+    "score": 60
+  },
+  {
+    "title": "Announcing the Chroma Awards Season 2",
+    "url": "https://elevenlabs.io/blog/chroma-awards-season-two-announcement",
+    "summary": "Today we’re opening the Chroma Awards Season 2, a global competition to find the world’s catchiest ad.",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-10-20",
+    "score": 59
+  },
+  {
+    "title": "Do You Trust Apple?",
+    "url": "https://stratechery.com/2026/do-you-trust-apple",
+    "summary": "Apple has a lot of trust in terms of delivering integrated products and preserving privacy; the real trust question is if you think Siri AI will justify investing more in their ecosystem.",
+    "tags": [
+      "strategy",
+      "tech",
+      "business"
+    ],
+    "author": "Stratechery",
+    "source": "stratechery.com",
+    "date": "2026-10-20",
+    "score": 59
+  },
+  {
+    "title": "arXiv:2610.16680",
+    "url": "https://arxiv.org/abs/2610.16680",
+    "summary": "Machine Learning · arXiv:2610.16680",
+    "tags": [
+      "paper",
+      "machine_learning",
+      "arxiv"
+    ],
+    "author": "arXiv CS LG",
+    "source": "arxiv.org",
+    "date": "2026-10-20",
+    "score": 59
   }
 ]

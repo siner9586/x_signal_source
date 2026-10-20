@@ -25726,5 +25726,205 @@
     "cluster_id": "lennysnewsletter_com_bc903880",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1957ada6268c2fee",
+    "canonical_url": "https://vercel.com/changelog/mercury-3-now-available-on-ai-gateway",
+    "dedupe_key": "3fddc0b1a1d7acfc",
+    "title": "Mercury 3 now available on AI Gateway",
+    "issue_date": "2026-10-20",
+    "cluster_id": "vercel_com_fc5b1747",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6c87d5add2174713",
+    "canonical_url": "https://vercel.com/changelog/minimax-m3-1-flash-now-available-on-ai-gateway-for-free",
+    "dedupe_key": "9b1cf841ef9183a3",
+    "title": "MiniMax M3.1 Flash now available on AI Gateway for free",
+    "issue_date": "2026-10-20",
+    "cluster_id": "vercel_com_1763eaed",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_73662d4653f4ac92",
+    "canonical_url": "https://openai.com/index/low-resource-programming-languages",
+    "dedupe_key": "600b40d162fc9b24",
+    "title": "Advancing coding in low‑resource programming languages",
+    "issue_date": "2026-10-20",
+    "cluster_id": "openai_com_fb406bb6",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_808e284160e8df0c",
+    "canonical_url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code",
+    "dedupe_key": "33776c231fe16275",
+    "title": "How to continue a GitHub Copilot app session in VS Code",
+    "issue_date": "2026-10-20",
+    "cluster_id": "github_blog_a72c9cae",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3f9fd7ca609b01b4",
+    "canonical_url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world",
+    "dedupe_key": "872ac3a18fc8e53b",
+    "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+    "issue_date": "2026-10-20",
+    "cluster_id": "technologyreview_com_7d4c9f5c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b973d9279c0ad502",
+    "canonical_url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play",
+    "dedupe_key": "6d5f485be8098c14",
+    "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+    "issue_date": "2026-10-20",
+    "cluster_id": "technologyreview_com_908a54c2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7cca2dc089b1f865",
+    "canonical_url": "https://developer.nvidia.com/blog/accelerating-mamba-2-with-high-performance-forward-pass-kernels-in-nvidia-cuda-tile",
+    "dedupe_key": "e7381912bfd8e9be",
+    "title": "Accelerating Mamba-2 with High-Performance Forward Pass Kernels in NVIDIA CUDA Tile",
+    "issue_date": "2026-10-20",
+    "cluster_id": "developer_nvidia_com_b698607b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_980211a5e44bbd69",
+    "canonical_url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else",
+    "dedupe_key": "98e3c87cd6b08865",
+    "title": "Making the internet better for AI agents might make it worse for everyone else",
+    "issue_date": "2026-10-20",
+    "cluster_id": "technologyreview_com_27ff6cbf",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0d38e5b60ea9fc72",
+    "canonical_url": "https://www.langchain.com/blog/how-numan-built-an-eval-first-ai-health-coach-with-langgraph-and-langsmith",
+    "dedupe_key": "079682454abad986",
+    "title": "How Numan Built an Eval-First AI Health Coach with LangGraph and LangSmith",
+    "issue_date": "2026-10-20",
+    "cluster_id": "langchain_com_88c895a9",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2db0ea44331f7359",
+    "canonical_url": "https://www.ycombinator.com/blog/how-ryder-kemper-became-employee-7-at-corgi-insurance-and-never-left-san-francisco",
+    "dedupe_key": "53ec573cd27ff236",
+    "title": "How Ryder Kemper became employee #7 at Corgi Insurance — and never left San Francisco",
+    "issue_date": "2026-10-20",
+    "cluster_id": "ycombinator_com_e0fe3294",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_cbf89f49186632b2",
+    "canonical_url": "https://www.lennysnewsletter.com/p/claude-cuts-my-tiktok-how-this-creator",
+    "dedupe_key": "f16de38f8dc01b8c",
+    "title": "“Claude cuts my TikTok”: How this creator is scaling video with AI | Brooke Lacey",
+    "issue_date": "2026-10-20",
+    "cluster_id": "lennysnewsletter_com_124800c3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d0ce2728d1221c60",
+    "canonical_url": "https://vercel.com/changelog/updates-to-hobby-and-pro-terms-of-service",
+    "dedupe_key": "1ecdf1e7c964e9be",
+    "title": "Updates to Hobby and Pro Terms of Service",
+    "issue_date": "2026-10-20",
+    "cluster_id": "vercel_com_a4200ebe",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_cd7b6e74a16871a6",
+    "canonical_url": "https://huggingface.co/blog/hf-torchneuron",
+    "dedupe_key": "1c2ff18eb1b6cf8e",
+    "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+    "issue_date": "2026-10-20",
+    "cluster_id": "huggingface_co_c653e79a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f39f6f85fd04e236",
+    "canonical_url": "https://elevenlabs.io/blog/speech-to-text-for-content-creators",
+    "dedupe_key": "a735bcffe288f105",
+    "title": "Speech to text for content creators: A workflow guide for captions and repurposing",
+    "issue_date": "2026-10-20",
+    "cluster_id": "elevenlabs_io_126375f8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e49fef2611213d7e",
+    "canonical_url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+    "dedupe_key": "35ab73efcbaa7345",
+    "title": "Apertus 1.5 Release Notes",
+    "issue_date": "2026-10-20",
+    "cluster_id": "huggingface_co_9ab3fade",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9473417d5f36d617",
+    "canonical_url": "https://www.lennysnewsletter.com/p/how-i-ai-meta-muse-wonder-how-brooke",
+    "dedupe_key": "35c853cbdb0835a1",
+    "title": "🎙️ How I AI: Meta Muse Wonder + How Brooke Lacey is scaling video with AI",
+    "issue_date": "2026-10-20",
+    "cluster_id": "lennysnewsletter_com_c21c6347",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_791e79f62746e2d0",
+    "canonical_url": "https://arxiv.org/list/cs.AI/recent?skip=174&amp%3Bshow=50",
+    "dedupe_key": "853cae8ba5784f62",
+    "title": "Fri, 16 Oct 2026",
+    "issue_date": "2026-10-20",
+    "cluster_id": "arxiv_org_50a61f96",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_39b9e215a69504a0",
+    "canonical_url": "https://elevenlabs.io/blog/chroma-awards-season-two-announcement",
+    "dedupe_key": "70888e2a6ffdde96",
+    "title": "Announcing the Chroma Awards Season 2",
+    "issue_date": "2026-10-20",
+    "cluster_id": "elevenlabs_io_59ae0f90",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d19dfc9a394465af",
+    "canonical_url": "https://stratechery.com/2026/do-you-trust-apple",
+    "dedupe_key": "4e5b174cbe68fc6f",
+    "title": "Do You Trust Apple?",
+    "issue_date": "2026-10-20",
+    "cluster_id": "stratechery_com_537e26c8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ee8afb550840f3f5",
+    "canonical_url": "https://arxiv.org/abs/2610.16680",
+    "dedupe_key": "fcbb4a69c7843d0e",
+    "title": "arXiv:2610.16680",
+    "issue_date": "2026-10-20",
+    "cluster_id": "arxiv_org_ed8b877a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
