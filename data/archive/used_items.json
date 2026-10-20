@@ -25926,5 +25926,205 @@
     "cluster_id": "arxiv_org_ed8b877a",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2a83fa1ad753fa52",
+    "canonical_url": "https://vercel.com/changelog/deepseek-v4-1-flash-is-now-available-in-token-pass",
+    "dedupe_key": "83188712be6f467d",
+    "title": "DeepSeek V4.1 Flash is now available in Token Pass",
+    "issue_date": "2026-10-21",
+    "cluster_id": "vercel_com_27c64f26",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_dfb5263ec3693702",
+    "canonical_url": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity",
+    "dedupe_key": "95d4094b9e604392",
+    "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
+    "issue_date": "2026-10-21",
+    "cluster_id": "github_blog_889f55a3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f798fc66a50d3a6b",
+    "canonical_url": "https://openai.com/index/ted-taylor-restaurant",
+    "dedupe_key": "4bf1264c46123913",
+    "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+    "issue_date": "2026-10-21",
+    "cluster_id": "openai_com_f931a58b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_bbf50824b1e8fa6d",
+    "canonical_url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+    "dedupe_key": "4ca7c16d2d6a3b67",
+    "title": "OpenAI acquires Orchestra Bio",
+    "issue_date": "2026-10-21",
+    "cluster_id": "openai_com_3b0f1672",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_611bdf34b39f87dd",
+    "canonical_url": "https://mistral.ai/news/voxtral-3",
+    "dedupe_key": "5f62543273086ae7",
+    "title": "Research Voxtral 3 Build agents that can listen, reason, speak, and act, with Voxtral 3. October 20, 2026 By Mistral",
+    "issue_date": "2026-10-21",
+    "cluster_id": "mistral_ai_437cebf9",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0f0f1d9a3a80465e",
+    "canonical_url": "https://www.ycombinator.com/blog/how-vin-bui-became-engineer-1-at-nowadays-and-started-treating-it-like-his-own-company",
+    "dedupe_key": "f0d60fefe6148035",
+    "title": "How Vin Bui became engineer #1 at Nowadays — and started treating it like his own company",
+    "issue_date": "2026-10-21",
+    "cluster_id": "ycombinator_com_03440275",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8a452d4f89b05300",
+    "canonical_url": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai",
+    "dedupe_key": "11f7459c447aec0f",
+    "title": "The new economics of enterprise AI",
+    "issue_date": "2026-10-21",
+    "cluster_id": "technologyreview_com_e8d38de6",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_639cf0eb774f4b7d",
+    "canonical_url": "https://vercel.com/changelog/websocket-support-is-now-generally-available",
+    "dedupe_key": "5aee114a9fdda099",
+    "title": "WebSocket support is now generally available",
+    "issue_date": "2026-10-21",
+    "cluster_id": "vercel_com_cb5c48e9",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d7739a052cc048ac",
+    "canonical_url": "https://huggingface.co/blog/allenai/fairstress",
+    "dedupe_key": "2ce87533348d2822",
+    "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+    "issue_date": "2026-10-21",
+    "cluster_id": "huggingface_co_e4d58945",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_13563e257521cbf4",
+    "canonical_url": "https://elevenlabs.io/blog/realtime",
+    "dedupe_key": "54068abdadbb302a",
+    "title": "Introducing Eleven Realtime: a simpler way to build natural voice agents",
+    "issue_date": "2026-10-21",
+    "cluster_id": "elevenlabs_io_7e817d6a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_72be87311b2919bc",
+    "canonical_url": "https://elevenlabs.io/blog/trinity-logistics",
+    "dedupe_key": "912292da1942d260",
+    "title": "Trinity Logistics gets 25% higher margins on shipments booked with ElevenAgents",
+    "issue_date": "2026-10-21",
+    "cluster_id": "elevenlabs_io_a766e7bc",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_534c950c674b5e70",
+    "canonical_url": "https://www.anthropic.com/news/announcements",
+    "dedupe_key": "8ac23fd1f625b62d",
+    "title": "Announcements",
+    "issue_date": "2026-10-21",
+    "cluster_id": "anthropic_com_ac3b4e3b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8b3135d556df874c",
+    "canonical_url": "https://www.anthropic.com/news/partnerships",
+    "dedupe_key": "3d2685a3fcc9cb42",
+    "title": "Partnerships",
+    "issue_date": "2026-10-21",
+    "cluster_id": "anthropic_com_397984f7",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_bf6a8384817d4cae",
+    "canonical_url": "https://x.ai/news/incident-sweep",
+    "dedupe_key": "fd7689c6c71953d7",
+    "title": "Product · Oct 20, 2026 Using Grok Bot to detect and respond to incidents",
+    "issue_date": "2026-10-21",
+    "cluster_id": "x_ai_bfceb335",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_310ba365f68bd88c",
+    "canonical_url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+    "dedupe_key": "8eee6a62742834be",
+    "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+    "issue_date": "2026-10-21",
+    "cluster_id": "huggingface_co_7e603a31",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_dc9abf287d2fd308",
+    "canonical_url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+    "dedupe_key": "5a9b9fb6a893985f",
+    "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+    "issue_date": "2026-10-21",
+    "cluster_id": "huggingface_co_8b84c552",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_236cc30fc6b278ce",
+    "canonical_url": "https://huggingface.co/blog/hf-torchtpu",
+    "dedupe_key": "e2221dfea345b87f",
+    "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+    "issue_date": "2026-10-21",
+    "cluster_id": "huggingface_co_061e3040",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b3ef5ac2eadc8112",
+    "canonical_url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+    "dedupe_key": "c6360a57f9c08aea",
+    "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+    "issue_date": "2026-10-21",
+    "cluster_id": "huggingface_co_0e3bf93b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_51a3dc9352734a6f",
+    "canonical_url": "https://huggingface.co/blog/mps-pytorch-2-15",
+    "dedupe_key": "f6ba96fcb357b3da",
+    "title": "MPS in PyTorch 2.15",
+    "issue_date": "2026-10-21",
+    "cluster_id": "huggingface_co_ac0f212a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_46a64208a7f57f34",
+    "canonical_url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn",
+    "dedupe_key": "30f83c29af3c023d",
+    "title": "AI adoption by industry shows what other sectors can learn",
+    "issue_date": "2026-10-21",
+    "cluster_id": "technologyreview_com_0720f2c0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]

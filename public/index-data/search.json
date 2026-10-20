@@ -1,8 +1,8 @@
 [
   {
-    "title": "Mercury 3 now available on AI Gateway",
-    "url": "https://vercel.com/changelog/mercury-3-now-available-on-ai-gateway",
-    "summary": "Mercury 3 from Inception is now available on AI Gateway with 50% off launch pricing. Inception reports strong results across a range of benchmarks, with generation speeds above 1,000 tokens per second. Mercury 3 uses diffusion to generate text through parallel refinement. It brings improved reasoning to latency-sensitive workloads such as browser agents, real-time search, interactive education, and customer support. A 1M-token context window gives those applications room for ",
+    "title": "DeepSeek V4.1 Flash is now available in Token Pass",
+    "url": "https://vercel.com/changelog/deepseek-v4-1-flash-is-now-available-in-token-pass",
+    "summary": "Token Pass now includes DeepSeek V4.1 Flash, alongside Kimi K3 and GLM 5.3, each accessed through its preferred provider, with more models to come. The DeepSeek model uses the latest weights (1017). Token Pass is a $30/month subscription on Pro teams that grants $80 in monthly credit and runs through AI Gateway . Use it with any coding agent such as fx , Pi , Cline , Command Code etc. or build your own with the AI SDK, with Zero Data Retention enabled by default. Add DeepSeek",
     "tags": [
       "sdk",
       "ai_infra",
@@ -10,27 +10,26 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-10-20",
-    "score": 71
+    "date": "2026-10-21",
+    "score": 69
   },
   {
-    "title": "MiniMax M3.1 Flash now available on AI Gateway for free",
-    "url": "https://vercel.com/changelog/minimax-m3-1-flash-now-available-on-ai-gateway-for-free",
-    "summary": "MiniMax M3.1 Flash from MiniMax is now available on AI Gateway for free until Oct 22. MiniMax M3.1 Flash is an open-weight multimodal model for coding and agentic work, with a 1M-token context window for long documents and multi-step agent sessions. Compared with earlier MiniMax models, M3.1 Flash improves on complex agentic tasks, coding, and cybersecurity. On the agent side, that covers multi-step business processes and computer use that carries a task from one application ",
+    "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
+    "url": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity",
+    "summary": "Three Java Champions share how they use GitHub Copilot to solve problems, accelerate development, and keep humans responsible for the results. The post How 3 Java Champions are using GitHub Copilot for increased productivity appeared first on The GitHub Blog .",
     "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
+      "ai_coding",
+      "developer_tools"
     ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-20",
-    "score": 71
+    "author": "GitHub Copilot",
+    "source": "github.blog",
+    "date": "2026-10-21",
+    "score": 68
   },
   {
-    "title": "Advancing coding in low‑resource programming languages",
-    "url": "https://openai.com/index/low-resource-programming-languages",
-    "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+    "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+    "url": "https://openai.com/index/ted-taylor-restaurant",
+    "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
     "tags": [
       "ai_models",
       "official",
@@ -39,96 +38,41 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-10-20",
-    "score": 70
+    "date": "2026-10-21",
+    "score": 67
   },
   {
-    "title": "How to continue a GitHub Copilot app session in VS Code",
-    "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code",
-    "summary": "Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context. The post How to continue a GitHub Copilot app session in VS Code appeared first on The GitHub Blog .",
+    "title": "OpenAI acquires Orchestra Bio",
+    "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+    "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
     "tags": [
-      "ai_coding",
-      "developer_tools"
-    ],
-    "author": "GitHub Copilot",
-    "source": "github.blog",
-    "date": "2026-10-20",
-    "score": 70
-  },
-  {
-    "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
-    "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world",
-    "summary": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head, sparking wild speculation as well as cautious (and not-so-cautious) celebration. Cammarata’s claim is&#8230;",
-    "tags": [
-      "ai",
+      "ai_models",
+      "official",
       "research",
-      "society"
+      "developer"
     ],
-    "author": "MIT Technology Review AI",
-    "source": "technologyreview.com",
-    "date": "2026-10-20",
-    "score": 68
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-10-21",
+    "score": 67
   },
   {
-    "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
-    "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play",
-    "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.7 nicknamed Eko—were able to&#8230;",
+    "title": "Research Voxtral 3 Build agents that can listen, reason, speak, and act, with Voxtral 3. October 20, 2026 By Mistral",
+    "url": "https://mistral.ai/news/voxtral-3",
+    "summary": "Latest news | Mistral · Research Voxtral 3 Build agents that can listen, reason, speak, and act, with Voxtral 3. October 20, 2026 By Mistral",
     "tags": [
-      "ai",
-      "research",
-      "society"
+      "open_model",
+      "european_ai"
     ],
-    "author": "MIT Technology Review AI",
-    "source": "technologyreview.com",
-    "date": "2026-10-20",
-    "score": 68
+    "author": "Mistral AI",
+    "source": "mistral.ai",
+    "date": "2026-10-21",
+    "score": 67
   },
   {
-    "title": "Accelerating Mamba-2 with High-Performance Forward Pass Kernels in NVIDIA CUDA Tile",
-    "url": "https://developer.nvidia.com/blog/accelerating-mamba-2-with-high-performance-forward-pass-kernels-in-nvidia-cuda-tile",
-    "summary": "NVIDIA Technical Blog · Accelerating Mamba-2 with High-Performance Forward Pass Kernels in NVIDIA CUDA Tile",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-10-20",
-    "score": 66
-  },
-  {
-    "title": "Making the internet better for AI agents might make it worse for everyone else",
-    "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automated tasks, like capturing the content of web pages, but rules&#8230;",
-    "tags": [
-      "ai",
-      "research",
-      "society"
-    ],
-    "author": "MIT Technology Review AI",
-    "source": "technologyreview.com",
-    "date": "2026-10-20",
-    "score": 66
-  },
-  {
-    "title": "How Numan Built an Eval-First AI Health Coach with LangGraph and LangSmith",
-    "url": "https://www.langchain.com/blog/how-numan-built-an-eval-first-ai-health-coach-with-langgraph-and-langsmith",
-    "summary": "How Numan built Nu, an AI health coach, on LangGraph and LangSmith with per-category evals, simulated conversations, and safety gates on a regulatory line.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-10-20",
-    "score": 65
-  },
-  {
-    "title": "How Ryder Kemper became employee #7 at Corgi Insurance — and never left San Francisco",
-    "url": "https://www.ycombinator.com/blog/how-ryder-kemper-became-employee-7-at-corgi-insurance-and-never-left-san-francisco",
-    "summary": "Ryder flew to SF for a work trial, moved furniture in a Mystery Machine bus, and decided to stay. Here's what building from day one looks like.",
+    "title": "How Vin Bui became engineer #1 at Nowadays — and started treating it like his own company",
+    "url": "https://www.ycombinator.com/blog/how-vin-bui-became-engineer-1-at-nowadays-and-started-treating-it-like-his-own-company",
+    "summary": "Vin found Nowadays on Work at a Startup, saw a codebase he could fix, and joined as the first engineer. Now he builds AI voice tools and mentors the team.",
     "tags": [
       "startup",
       "product",
@@ -136,27 +80,27 @@
     ],
     "author": "Y Combinator",
     "source": "ycombinator.com",
-    "date": "2026-10-20",
-    "score": 64
+    "date": "2026-10-21",
+    "score": 65
   },
   {
-    "title": "“Claude cuts my TikTok”: How this creator is scaling video with AI | Brooke Lacey",
-    "url": "https://www.lennysnewsletter.com/p/claude-cuts-my-tiktok-how-this-creator",
-    "summary": "Watch now (37 mins) | &#127897;&#65039; Brooke Lacey shows live how Claude Code turns a raw phone video into a captioned, jump-cut TikTok in about 15 seconds",
+    "title": "The new economics of enterprise AI",
+    "url": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai",
+    "summary": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity becomes infrastructure, every process depends on it, and the question changes from &#8220;can we use it?&#8221; to &#8220;how efficiently are we using it?&#8221;&#8230;",
     "tags": [
-      "product",
-      "growth",
-      "startup"
+      "ai",
+      "research",
+      "society"
     ],
-    "author": "Lenny's Newsletter",
-    "source": "lennysnewsletter.com",
-    "date": "2026-10-20",
+    "author": "MIT Technology Review AI",
+    "source": "technologyreview.com",
+    "date": "2026-10-21",
     "score": 64
   },
   {
-    "title": "Updates to Hobby and Pro Terms of Service",
-    "url": "https://vercel.com/changelog/updates-to-hobby-and-pro-terms-of-service",
-    "summary": "We are updating the Terms of Service for Hobby and Pro customers, effective October 19, 2026. The updates clarify some existing Vercel practices, expand terms on topics such as managed accounts and credits, and reflect applicable legal requirements, including certain cancellation and service-change rights for eligible consumers in the UK and EU. Credits and billing A new section sets out how credits work: plan-included credits expire at the end of the subscription term and pu",
+    "title": "WebSocket support is now generally available",
+    "url": "https://vercel.com/changelog/websocket-support-is-now-generally-available",
+    "summary": "WebSocket support in Vercel Functions is now generally available. Since the public beta launched in late June , Vercel CDN has served 300 million WebSocket connections, and now serves 15 million per day. Customers use WebSockets for AI chat, streaming, and realtime multiplayer apps. WebSockets also power AI Gateway's realtime models . WebSocket connections follow the same limits and pricing as other Function invocations. With Active CPU pricing , CPU is billed only for the ti",
     "tags": [
       "sdk",
       "ai_infra",
@@ -164,13 +108,13 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-10-20",
+    "date": "2026-10-21",
     "score": 63
   },
   {
-    "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
-    "url": "https://huggingface.co/blog/hf-torchneuron",
-    "summary": "TorchNeuron: running HF models on AWS Trainium is easier than ever 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+    "url": "https://huggingface.co/blog/allenai/fairstress",
+    "summary": "FairStress: A deeper evaluation of fairness in LLM decision-making 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -178,26 +122,80 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-10-20",
+    "date": "2026-10-21",
     "score": 63
   },
   {
-    "title": "Speech to text for content creators: A workflow guide for captions and repurposing",
-    "url": "https://elevenlabs.io/blog/speech-to-text-for-content-creators",
-    "summary": "See how speech to text for content creators improves their workflows and accelerates production across captions, show notes, clips, LLM analysis, and more",
+    "title": "Introducing Eleven Realtime: a simpler way to build natural voice agents",
+    "url": "https://elevenlabs.io/blog/realtime",
+    "summary": "Eleven Realtime is a new class of Speech to Speech models for voice agents that sound natural. Available in ElevenAgents and the Realtime API.",
     "tags": [
       "voice_ai",
       "audio"
     ],
     "author": "ElevenLabs",
     "source": "elevenlabs.io",
-    "date": "2026-10-20",
+    "date": "2026-10-21",
     "score": 62
   },
   {
-    "title": "Apertus 1.5 Release Notes",
-    "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
-    "summary": "Apertus 1.5 Release Notes 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Trinity Logistics gets 25% higher margins on shipments booked with ElevenAgents",
+    "url": "https://elevenlabs.io/blog/trinity-logistics",
+    "summary": "How 3PL Trinity Logistics used ElevenAgents to automate 30,000 inbound carrier calls/month, lift margins 25% on automated bookings, and cut costs 40%.",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-10-21",
+    "score": 62
+  },
+  {
+    "title": "Announcements",
+    "url": "https://www.anthropic.com/news/announcements",
+    "summary": "Newsroom \\ Anthropic · Announcements",
+    "tags": [
+      "ai_models",
+      "safety",
+      "official"
+    ],
+    "author": "Anthropic",
+    "source": "anthropic.com",
+    "date": "2026-10-21",
+    "score": 62
+  },
+  {
+    "title": "Partnerships",
+    "url": "https://www.anthropic.com/news/partnerships",
+    "summary": "Newsroom \\ Anthropic · Partnerships",
+    "tags": [
+      "ai_models",
+      "safety",
+      "official"
+    ],
+    "author": "Anthropic",
+    "source": "anthropic.com",
+    "date": "2026-10-21",
+    "score": 62
+  },
+  {
+    "title": "Product · Oct 20, 2026 Using Grok Bot to detect and respond to incidents",
+    "url": "https://x.ai/news/incident-sweep",
+    "summary": "SpaceXSI · Product · Oct 20, 2026 Using Grok Bot to detect and respond to incidents",
+    "tags": [
+      "ai_models",
+      "reasoning"
+    ],
+    "author": "xAI",
+    "source": "x.ai",
+    "date": "2026-10-21",
+    "score": 62
+  },
+  {
+    "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+    "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+    "summary": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -205,76 +203,77 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-10-20",
+    "date": "2026-10-21",
     "score": 62
   },
   {
-    "title": "🎙️ How I AI: Meta Muse Wonder + How Brooke Lacey is scaling video with AI",
-    "url": "https://www.lennysnewsletter.com/p/how-i-ai-meta-muse-wonder-how-brooke",
-    "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+    "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+    "summary": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
-      "product",
-      "growth",
-      "startup"
+      "open_source",
+      "papers",
+      "models"
     ],
-    "author": "Lenny's Newsletter",
-    "source": "lennysnewsletter.com",
-    "date": "2026-10-20",
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-10-21",
     "score": 62
   },
   {
-    "title": "Fri, 16 Oct 2026",
-    "url": "https://arxiv.org/list/cs.AI/recent?skip=174&amp%3Bshow=50",
-    "summary": "Artificial Intelligence · Fri, 16 Oct 2026",
+    "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+    "url": "https://huggingface.co/blog/hf-torchtpu",
+    "summary": "Hugging Face ❤️ TorchTPU: TPUs, Natively 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
-      "paper",
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-10-21",
+    "score": 62
+  },
+  {
+    "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+    "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+    "summary": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-10-21",
+    "score": 62
+  },
+  {
+    "title": "MPS in PyTorch 2.15",
+    "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+    "summary": "MPS in PyTorch 2.15 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-10-21",
+    "score": 62
+  },
+  {
+    "title": "AI adoption by industry shows what other sectors can learn",
+    "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn",
+    "summary": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line. As generative AI and automation tools mature, the shifts currently reshaping software engineering and product management will inevitably&#8230;",
+    "tags": [
       "ai",
-      "arxiv"
+      "research",
+      "society"
     ],
-    "author": "arXiv CS AI",
-    "source": "arxiv.org",
-    "date": "2026-10-20",
-    "score": 60
-  },
-  {
-    "title": "Announcing the Chroma Awards Season 2",
-    "url": "https://elevenlabs.io/blog/chroma-awards-season-two-announcement",
-    "summary": "Today we’re opening the Chroma Awards Season 2, a global competition to find the world’s catchiest ad.",
-    "tags": [
-      "voice_ai",
-      "audio"
-    ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-10-20",
-    "score": 59
-  },
-  {
-    "title": "Do You Trust Apple?",
-    "url": "https://stratechery.com/2026/do-you-trust-apple",
-    "summary": "Apple has a lot of trust in terms of delivering integrated products and preserving privacy; the real trust question is if you think Siri AI will justify investing more in their ecosystem.",
-    "tags": [
-      "strategy",
-      "tech",
-      "business"
-    ],
-    "author": "Stratechery",
-    "source": "stratechery.com",
-    "date": "2026-10-20",
-    "score": 59
-  },
-  {
-    "title": "arXiv:2610.16680",
-    "url": "https://arxiv.org/abs/2610.16680",
-    "summary": "Machine Learning · arXiv:2610.16680",
-    "tags": [
-      "paper",
-      "machine_learning",
-      "arxiv"
-    ],
-    "author": "arXiv CS LG",
-    "source": "arxiv.org",
-    "date": "2026-10-20",
-    "score": 59
+    "author": "MIT Technology Review AI",
+    "source": "technologyreview.com",
+    "date": "2026-10-21",
+    "score": 62
   }
 ]
