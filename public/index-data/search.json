@@ -1,35 +1,36 @@
 [
   {
-    "title": "DeepSeek V4.1 Flash is now available in Token Pass",
-    "url": "https://vercel.com/changelog/deepseek-v4-1-flash-is-now-available-in-token-pass",
-    "summary": "Token Pass now includes DeepSeek V4.1 Flash, alongside Kimi K3 and GLM 5.3, each accessed through its preferred provider, with more models to come. The DeepSeek model uses the latest weights (1017). Token Pass is a $30/month subscription on Pro teams that grants $80 in monthly credit and runs through AI Gateway . Use it with any coding agent such as fx , Pi , Cline , Command Code etc. or build your own with the AI SDK, with Zero Data Retention enabled by default. Add DeepSeek",
+    "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+    "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+    "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
     "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
+      "ai_models",
+      "official",
+      "research",
+      "developer"
     ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-21",
-    "score": 69
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-10-22",
+    "score": 74
   },
   {
-    "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
-    "url": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity",
-    "summary": "Three Java Champions share how they use GitHub Copilot to solve problems, accelerate development, and keep humans responsible for the results. The post How 3 Java Champions are using GitHub Copilot for increased productivity appeared first on The GitHub Blog .",
+    "title": "The bridge to agent-scale Git infrastructure",
+    "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure",
+    "summary": "We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently. The post The bridge to agent-scale Git infrastructure appeared first on The GitHub Blog .",
     "tags": [
       "ai_coding",
       "developer_tools"
     ],
     "author": "GitHub Copilot",
     "source": "github.blog",
-    "date": "2026-10-21",
-    "score": 68
+    "date": "2026-10-22",
+    "score": 73
   },
   {
-    "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-    "url": "https://openai.com/index/ted-taylor-restaurant",
-    "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+    "title": "Using thousands of AI agents to uncover new leads in biological data",
+    "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+    "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
     "tags": [
       "ai_models",
       "official",
@@ -38,13 +39,41 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-10-21",
-    "score": 67
+    "date": "2026-10-22",
+    "score": 72
   },
   {
-    "title": "OpenAI acquires Orchestra Bio",
-    "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-    "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+    "title": "Inside NVIDIA Sentry: Secure AI Agents at Runtime",
+    "url": "https://developer.nvidia.com/blog/inside-nvidia-sentry-secure-ai-agents-at-runtime",
+    "summary": "NVIDIA Technical Blog · Inside NVIDIA Sentry: Secure AI Agents at Runtime",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-10-22",
+    "score": 71
+  },
+  {
+    "title": "How NVIDIA OpenShell Reference Architecture Secures and Governs AI Agent Workloads at Scale",
+    "url": "https://developer.nvidia.com/blog/how-nvidia-openshell-reference-architecture-secures-and-governs-ai-agent-workloads-at-scale",
+    "summary": "NVIDIA Technical Blog · How NVIDIA OpenShell Reference Architecture Secures and Governs AI Agent Workloads at Scale",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-10-22",
+    "score": 71
+  },
+  {
+    "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+    "url": "https://openai.com/index/terminal-x",
+    "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
     "tags": [
       "ai_models",
       "official",
@@ -53,54 +82,145 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-10-21",
-    "score": 67
+    "date": "2026-10-22",
+    "score": 70
   },
   {
-    "title": "Research Voxtral 3 Build agents that can listen, reason, speak, and act, with Voxtral 3. October 20, 2026 By Mistral",
-    "url": "https://mistral.ai/news/voxtral-3",
-    "summary": "Latest news | Mistral · Research Voxtral 3 Build agents that can listen, reason, speak, and act, with Voxtral 3. October 20, 2026 By Mistral",
+    "title": "Developing an AI Factory Digital Twin with an Agent-Assisted Workflow",
+    "url": "https://developer.nvidia.com/blog/developing-an-ai-factory-digital-twin-with-an-agent-assisted-workflow",
+    "summary": "NVIDIA Technical Blog · Developing an AI Factory Digital Twin with an Agent-Assisted Workflow",
     "tags": [
-      "open_model",
-      "european_ai"
+      "gpu",
+      "inference",
+      "ai_infra"
     ],
-    "author": "Mistral AI",
-    "source": "mistral.ai",
-    "date": "2026-10-21",
-    "score": 67
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-10-22",
+    "score": 69
   },
   {
-    "title": "How Vin Bui became engineer #1 at Nowadays — and started treating it like his own company",
-    "url": "https://www.ycombinator.com/blog/how-vin-bui-became-engineer-1-at-nowadays-and-started-treating-it-like-his-own-company",
-    "summary": "Vin found Nowadays on Work at a Startup, saw a codebase he could fix, and joined as the first engineer. Now he builds AI voice tools and mentors the team.",
+    "title": "How AT&T is rethinking in-house legal work with OpenAI",
+    "url": "https://openai.com/index/att-legal",
+    "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
     "tags": [
-      "startup",
-      "product",
-      "founder"
-    ],
-    "author": "Y Combinator",
-    "source": "ycombinator.com",
-    "date": "2026-10-21",
-    "score": 65
-  },
-  {
-    "title": "The new economics of enterprise AI",
-    "url": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai",
-    "summary": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity becomes infrastructure, every process depends on it, and the question changes from &#8220;can we use it?&#8221; to &#8220;how efficiently are we using it?&#8221;&#8230;",
-    "tags": [
-      "ai",
+      "ai_models",
+      "official",
       "research",
-      "society"
+      "developer"
     ],
-    "author": "MIT Technology Review AI",
-    "source": "technologyreview.com",
-    "date": "2026-10-21",
-    "score": 64
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-10-22",
+    "score": 67
   },
   {
-    "title": "WebSocket support is now generally available",
-    "url": "https://vercel.com/changelog/websocket-support-is-now-generally-available",
-    "summary": "WebSocket support in Vercel Functions is now generally available. Since the public beta launched in late June , Vercel CDN has served 300 million WebSocket connections, and now serves 15 million per day. Customers use WebSockets for AI chat, streaming, and realtime multiplayer apps. WebSockets also power AI Gateway's realtime models . WebSocket connections follow the same limits and pricing as other Function invocations. With Active CPU pricing , CPU is billed only for the ti",
+    "title": "Broad access through consistent standards",
+    "url": "https://openai.com/index/broad-access-through-consistent-standards",
+    "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-10-22",
+    "score": 67
+  },
+  {
+    "title": "OpenAI models are coming to Google Cloud",
+    "url": "https://openai.com/index/openai-models-google-cloud",
+    "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-10-22",
+    "score": 67
+  },
+  {
+    "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+    "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+    "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-10-22",
+    "score": 67
+  },
+  {
+    "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+    "url": "https://openai.com/index/building-chatgpt-ad-stack",
+    "summary": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-10-22",
+    "score": 67
+  },
+  {
+    "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+    "url": "https://openai.com/index/empowering-cyber-defenders",
+    "summary": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-10-22",
+    "score": 67
+  },
+  {
+    "title": "Achieve Productive AI Capacity Faster and More Predictably with NVIDIA DSX POD",
+    "url": "https://developer.nvidia.com/blog/achieve-productive-ai-capacity-faster-and-more-predictably-with-nvidia-dsx-pod",
+    "summary": "NVIDIA Technical Blog · Achieve Productive AI Capacity Faster and More Predictably with NVIDIA DSX POD",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-10-22",
+    "score": 67
+  },
+  {
+    "title": "Design Proteins with RFD4-Proteina Using Reward-Guided Inference-Time Search",
+    "url": "https://developer.nvidia.com/blog/design-proteins-with-rfd4-proteina-using-reward-guided-inference-time-search",
+    "summary": "NVIDIA Technical Blog · Design Proteins with RFD4-Proteina Using Reward-Guided Inference-Time Search",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-10-22",
+    "score": 66
+  },
+  {
+    "title": "Routing Middleware now supports Python",
+    "url": "https://vercel.com/changelog/routing-middleware-now-supports-python",
+    "summary": "You can now write routing middleware in Python for FastAPI, Flask, Django, and other Python frameworks. It runs before requests reach your app, and can rewrite, redirect, or answer them. To set it up, point the proxy entrypoint in vercel.toml at your proxy: Your middleware is an ASGI or WSGI app that runs separately from your main app, with only the packages in the vercel.proxy dependency group of your pyproject.toml . Add the packages your middleware imports to that group: T",
     "tags": [
       "sdk",
       "ai_infra",
@@ -108,13 +228,55 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-10-21",
+    "date": "2026-10-22",
+    "score": 66
+  },
+  {
+    "title": "Claude Duet is beautiful. I still forgot to use it",
+    "url": "https://www.lennysnewsletter.com/p/claude-duet-is-beautiful-i-still",
+    "summary": "Watch now (16 mins) | &#127897;&#65039; I tested Claude Duet, Anthropic's beautifully designed new personal agent, on real work to see if it can beat my personal agent fatigue and make the cut",
+    "tags": [
+      "product",
+      "growth",
+      "startup"
+    ],
+    "author": "Lenny's Newsletter",
+    "source": "lennysnewsletter.com",
+    "date": "2026-10-22",
+    "score": 64
+  },
+  {
+    "title": "Baseten's Mammoth-1 and Elephant-1 now available on AI Gateway for free",
+    "url": "https://vercel.com/changelog/basetens-mammoth-1-and-elephant-1-now-available-on-ai-gateway-for-free",
+    "summary": "Mammoth-1 and Elephant-1 from Baseten are now available for free on AI Gateway for one week. Free access is available through October 27. These decision models classify text, route requests, and score content against criteria you define. Mammoth-1 is the larger, 27B model, while Elephant-1 is a smaller, 9B option. Mammoth-1 is #1 on the Jev Decision Index and Elephant-1 is tied for #1 on the Artificial Analysis Decision Index. Both support a 16k-token context window and retur",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-10-22",
     "score": 63
   },
   {
-    "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
-    "url": "https://huggingface.co/blog/allenai/fairstress",
-    "summary": "FairStress: A deeper evaluation of fairness in LLM decision-making 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Skipped monorepo deployments no longer count against limits",
+    "url": "https://vercel.com/changelog/skipped-monorepo-deployments-no-longer-count-against-limits",
+    "summary": "Deployments that Vercel automatically skips in a monorepo no longer count against your deployment rate limits. Teams with monorepos now get more deployments from the same limits. Vercel skips a project's deployment when its source code and internal dependencies haven't changed, using Turborepo 's package graph and lockfile analysis to determine which projects a commit affects. Skipping is enabled by default for new monorepo projects. You can turn it on for existing projects u",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-10-22",
+    "score": 63
+  },
+  {
+    "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+    "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+    "summary": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -122,39 +284,27 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-10-21",
+    "date": "2026-10-22",
     "score": 63
   },
   {
-    "title": "Introducing Eleven Realtime: a simpler way to build natural voice agents",
-    "url": "https://elevenlabs.io/blog/realtime",
-    "summary": "Eleven Realtime is a new class of Speech to Speech models for voice agents that sound natural. Available in ElevenAgents and the Realtime API.",
+    "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+    "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+    "summary": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium. 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
-      "voice_ai",
-      "audio"
+      "open_source",
+      "papers",
+      "models"
     ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-10-21",
-    "score": 62
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-10-22",
+    "score": 63
   },
   {
-    "title": "Trinity Logistics gets 25% higher margins on shipments booked with ElevenAgents",
-    "url": "https://elevenlabs.io/blog/trinity-logistics",
-    "summary": "How 3PL Trinity Logistics used ElevenAgents to automate 30,000 inbound carrier calls/month, lift margins 25% on automated bookings, and cut costs 40%.",
-    "tags": [
-      "voice_ai",
-      "audio"
-    ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-10-21",
-    "score": 62
-  },
-  {
-    "title": "Announcements",
-    "url": "https://www.anthropic.com/news/announcements",
-    "summary": "Newsroom \\ Anthropic · Announcements",
+    "title": "Physicist Christopher Stubbs joins Anthropic&#x27;s Long-Term Benefit Trust",
+    "url": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
+    "summary": "Newsroom \\ Anthropic · Physicist Christopher Stubbs joins Anthropic&#x27;s Long-Term Benefit Trust",
     "tags": [
       "ai_models",
       "safety",
@@ -162,40 +312,13 @@
     ],
     "author": "Anthropic",
     "source": "anthropic.com",
-    "date": "2026-10-21",
+    "date": "2026-10-22",
     "score": 62
   },
   {
-    "title": "Partnerships",
-    "url": "https://www.anthropic.com/news/partnerships",
-    "summary": "Newsroom \\ Anthropic · Partnerships",
-    "tags": [
-      "ai_models",
-      "safety",
-      "official"
-    ],
-    "author": "Anthropic",
-    "source": "anthropic.com",
-    "date": "2026-10-21",
-    "score": 62
-  },
-  {
-    "title": "Product · Oct 20, 2026 Using Grok Bot to detect and respond to incidents",
-    "url": "https://x.ai/news/incident-sweep",
-    "summary": "SpaceXSI · Product · Oct 20, 2026 Using Grok Bot to detect and respond to incidents",
-    "tags": [
-      "ai_models",
-      "reasoning"
-    ],
-    "author": "xAI",
-    "source": "x.ai",
-    "date": "2026-10-21",
-    "score": 62
-  },
-  {
-    "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
-    "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
-    "summary": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+    "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+    "summary": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -203,13 +326,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-10-21",
+    "date": "2026-10-22",
     "score": 62
   },
   {
-    "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
-    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
-    "summary": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+    "summary": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -217,55 +340,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-10-21",
+    "date": "2026-10-22",
     "score": 62
   },
   {
-    "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
-    "url": "https://huggingface.co/blog/hf-torchtpu",
-    "summary": "Hugging Face ❤️ TorchTPU: TPUs, Natively 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-10-21",
-    "score": 62
-  },
-  {
-    "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-    "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
-    "summary": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-10-21",
-    "score": 62
-  },
-  {
-    "title": "MPS in PyTorch 2.15",
-    "url": "https://huggingface.co/blog/mps-pytorch-2-15",
-    "summary": "MPS in PyTorch 2.15 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-10-21",
-    "score": 62
-  },
-  {
-    "title": "AI adoption by industry shows what other sectors can learn",
-    "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn",
-    "summary": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line. As generative AI and automation tools mature, the shifts currently reshaping software engineering and product management will inevitably&#8230;",
+    "title": "A visit to Samsung’s massive new semiconductor hub",
+    "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub",
+    "summary": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea. Three fabs already operate around the clock, and a fourth is coming online. Construction&#8230;",
     "tags": [
       "ai",
       "research",
@@ -273,7 +354,20 @@
     ],
     "author": "MIT Technology Review AI",
     "source": "technologyreview.com",
-    "date": "2026-10-21",
-    "score": 62
+    "date": "2026-10-22",
+    "score": 61
+  },
+  {
+    "title": "Company Mistral Advances AI for Engineering with NVIDIA Mistral is collaborating with NVIDIA to develop a new generation of AI-native engineering workflows powered by NVIDIA accelerated computing. October 21, 2026 By Mistral",
+    "url": "https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering",
+    "summary": "Latest news | Mistral · Company Mistral Advances AI for Engineering with NVIDIA Mistral is collaborating with NVIDIA to develop a new generation of AI-native engineering workflows powered by NVIDIA accelerated computing. October 21, 2026 By Mistral",
+    "tags": [
+      "open_model",
+      "european_ai"
+    ],
+    "author": "Mistral AI",
+    "source": "mistral.ai",
+    "date": "2026-10-22",
+    "score": 60
   }
 ]

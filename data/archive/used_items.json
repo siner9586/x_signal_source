@@ -26126,5 +26126,265 @@
     "cluster_id": "technologyreview_com_0720f2c0",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d6b4f808563249b0",
+    "canonical_url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+    "dedupe_key": "e430d6835233eca6",
+    "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+    "issue_date": "2026-10-22",
+    "cluster_id": "openai_com_f6913148",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5b0fc851671f2c56",
+    "canonical_url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure",
+    "dedupe_key": "10ba0aacdb6f34e4",
+    "title": "The bridge to agent-scale Git infrastructure",
+    "issue_date": "2026-10-22",
+    "cluster_id": "github_blog_5793513f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5f500e526738364d",
+    "canonical_url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+    "dedupe_key": "61b39ba966cbc32d",
+    "title": "Using thousands of AI agents to uncover new leads in biological data",
+    "issue_date": "2026-10-22",
+    "cluster_id": "openai_com_e9c733da",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_db84388346e1e73b",
+    "canonical_url": "https://developer.nvidia.com/blog/inside-nvidia-sentry-secure-ai-agents-at-runtime",
+    "dedupe_key": "22ab1ce41b61c2c2",
+    "title": "Inside NVIDIA Sentry: Secure AI Agents at Runtime",
+    "issue_date": "2026-10-22",
+    "cluster_id": "developer_nvidia_com_4979683d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_cbdec4f9cc3ee9c4",
+    "canonical_url": "https://developer.nvidia.com/blog/how-nvidia-openshell-reference-architecture-secures-and-governs-ai-agent-workloads-at-scale",
+    "dedupe_key": "bf8c40bfcf9fc9c4",
+    "title": "How NVIDIA OpenShell Reference Architecture Secures and Governs AI Agent Workloads at Scale",
+    "issue_date": "2026-10-22",
+    "cluster_id": "developer_nvidia_com_31c4c42d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5b55909a3e6b324b",
+    "canonical_url": "https://openai.com/index/terminal-x",
+    "dedupe_key": "4edd0cf711c7e6db",
+    "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+    "issue_date": "2026-10-22",
+    "cluster_id": "openai_com_4646cbdd",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_866d506f0f6eaa26",
+    "canonical_url": "https://developer.nvidia.com/blog/developing-an-ai-factory-digital-twin-with-an-agent-assisted-workflow",
+    "dedupe_key": "a2924605a957621c",
+    "title": "Developing an AI Factory Digital Twin with an Agent-Assisted Workflow",
+    "issue_date": "2026-10-22",
+    "cluster_id": "developer_nvidia_com_4cabb0af",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_17e0ae2a12173e34",
+    "canonical_url": "https://openai.com/index/att-legal",
+    "dedupe_key": "36b44c0d295fca00",
+    "title": "How AT&T is rethinking in-house legal work with OpenAI",
+    "issue_date": "2026-10-22",
+    "cluster_id": "openai_com_2adaa7d8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_92507517cf3f4ee2",
+    "canonical_url": "https://openai.com/index/broad-access-through-consistent-standards",
+    "dedupe_key": "54f2872c4f1eaf9d",
+    "title": "Broad access through consistent standards",
+    "issue_date": "2026-10-22",
+    "cluster_id": "openai_com_831fe167",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c8677cfaa2063646",
+    "canonical_url": "https://openai.com/index/openai-models-google-cloud",
+    "dedupe_key": "4729d7094ccfae8d",
+    "title": "OpenAI models are coming to Google Cloud",
+    "issue_date": "2026-10-22",
+    "cluster_id": "openai_com_c99c0341",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_13948972e9ef015c",
+    "canonical_url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+    "dedupe_key": "62305ac714ddc447",
+    "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+    "issue_date": "2026-10-22",
+    "cluster_id": "openai_com_dca4061e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0024ba80bf78a3cc",
+    "canonical_url": "https://openai.com/index/building-chatgpt-ad-stack",
+    "dedupe_key": "414d7de315d11e2c",
+    "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+    "issue_date": "2026-10-22",
+    "cluster_id": "openai_com_e2aef546",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8f71b42b4f107388",
+    "canonical_url": "https://openai.com/index/empowering-cyber-defenders",
+    "dedupe_key": "4321169fe45d0bd2",
+    "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+    "issue_date": "2026-10-22",
+    "cluster_id": "openai_com_90f5aef8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7163505c4a9b74fe",
+    "canonical_url": "https://developer.nvidia.com/blog/achieve-productive-ai-capacity-faster-and-more-predictably-with-nvidia-dsx-pod",
+    "dedupe_key": "04c0917c147e43ea",
+    "title": "Achieve Productive AI Capacity Faster and More Predictably with NVIDIA DSX POD",
+    "issue_date": "2026-10-22",
+    "cluster_id": "developer_nvidia_com_b2c70045",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a49cc27865e6f281",
+    "canonical_url": "https://developer.nvidia.com/blog/design-proteins-with-rfd4-proteina-using-reward-guided-inference-time-search",
+    "dedupe_key": "40a82a5c3541e556",
+    "title": "Design Proteins with RFD4-Proteina Using Reward-Guided Inference-Time Search",
+    "issue_date": "2026-10-22",
+    "cluster_id": "developer_nvidia_com_19139793",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1d8b6353a1b285d7",
+    "canonical_url": "https://vercel.com/changelog/routing-middleware-now-supports-python",
+    "dedupe_key": "91a0131a6e6742dd",
+    "title": "Routing Middleware now supports Python",
+    "issue_date": "2026-10-22",
+    "cluster_id": "vercel_com_4b611cff",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e628a38a36da3159",
+    "canonical_url": "https://www.lennysnewsletter.com/p/claude-duet-is-beautiful-i-still",
+    "dedupe_key": "1cade70bc8d3e3bf",
+    "title": "Claude Duet is beautiful. I still forgot to use it",
+    "issue_date": "2026-10-22",
+    "cluster_id": "lennysnewsletter_com_60aa228a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1ca5231006200823",
+    "canonical_url": "https://vercel.com/changelog/basetens-mammoth-1-and-elephant-1-now-available-on-ai-gateway-for-free",
+    "dedupe_key": "4fd9ba4243493784",
+    "title": "Baseten's Mammoth-1 and Elephant-1 now available on AI Gateway for free",
+    "issue_date": "2026-10-22",
+    "cluster_id": "vercel_com_862edc81",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9ff641727fb2cb53",
+    "canonical_url": "https://vercel.com/changelog/skipped-monorepo-deployments-no-longer-count-against-limits",
+    "dedupe_key": "ce675b0845f493f1",
+    "title": "Skipped monorepo deployments no longer count against limits",
+    "issue_date": "2026-10-22",
+    "cluster_id": "vercel_com_49e7961b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ec0feb8ef69677a6",
+    "canonical_url": "https://huggingface.co/blog/nvidia/kumo-relational",
+    "dedupe_key": "de855e79cf10d7f6",
+    "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+    "issue_date": "2026-10-22",
+    "cluster_id": "huggingface_co_a7f7437d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a33a59faa81ea228",
+    "canonical_url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+    "dedupe_key": "8bb85685a12cb1ef",
+    "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+    "issue_date": "2026-10-22",
+    "cluster_id": "huggingface_co_23723f97",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4fa5db84ed984d7c",
+    "canonical_url": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
+    "dedupe_key": "1cffda914b3f8739",
+    "title": "Physicist Christopher Stubbs joins Anthropic&#x27;s Long-Term Benefit Trust",
+    "issue_date": "2026-10-22",
+    "cluster_id": "anthropic_com_3abe9a52",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5164879f8da224c2",
+    "canonical_url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+    "dedupe_key": "f723ac98ca5f7dea",
+    "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+    "issue_date": "2026-10-22",
+    "cluster_id": "huggingface_co_e0416e83",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_02520bae2a7f459c",
+    "canonical_url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+    "dedupe_key": "7703c226d2249743",
+    "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+    "issue_date": "2026-10-22",
+    "cluster_id": "huggingface_co_844c2d36",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_85f34634556ab79c",
+    "canonical_url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub",
+    "dedupe_key": "3cab69d4080ccb26",
+    "title": "A visit to Samsung’s massive new semiconductor hub",
+    "issue_date": "2026-10-22",
+    "cluster_id": "technologyreview_com_d0261eb7",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2d3ca9bacac7876b",
+    "canonical_url": "https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering",
+    "dedupe_key": "83b647638212390f",
+    "title": "Company Mistral Advances AI for Engineering with NVIDIA Mistral is collaborating with NVIDIA to develop a new generation of AI-native engineering workflows powered by NVIDIA accelerated computing. October 21, 2026 By Mistral",
+    "issue_date": "2026-10-22",
+    "cluster_id": "mistral_ai_f33a0530",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
