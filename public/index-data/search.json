@@ -1,36 +1,21 @@
 [
   {
-    "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-    "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-    "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-10-22",
-    "score": 74
-  },
-  {
-    "title": "The bridge to agent-scale Git infrastructure",
-    "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure",
-    "summary": "We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently. The post The bridge to agent-scale Git infrastructure appeared first on The GitHub Blog .",
+    "title": "How bug bounty sharpens one researcher’s security skills",
+    "url": "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills",
+    "summary": "As Cybersecurity Awareness Month continues, the GitHub Bug Bounty team spotlights @r31n, diving into their research approach, favorite bug classes, and advice for aspiring hackers. The post How bug bounty sharpens one researcher’s security skills appeared first on The GitHub Blog .",
     "tags": [
       "ai_coding",
       "developer_tools"
     ],
     "author": "GitHub Copilot",
     "source": "github.blog",
-    "date": "2026-10-22",
+    "date": "2026-10-23",
     "score": 73
   },
   {
-    "title": "Using thousands of AI agents to uncover new leads in biological data",
-    "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-    "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+    "title": "Build more responsive apps with the Decisions API",
+    "url": "https://openai.com/index/decisions-api",
+    "summary": "Fast, focused, low-cost decisions for any application.",
     "tags": [
       "ai_models",
       "official",
@@ -39,85 +24,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-10-22",
-    "score": 72
-  },
-  {
-    "title": "Inside NVIDIA Sentry: Secure AI Agents at Runtime",
-    "url": "https://developer.nvidia.com/blog/inside-nvidia-sentry-secure-ai-agents-at-runtime",
-    "summary": "NVIDIA Technical Blog · Inside NVIDIA Sentry: Secure AI Agents at Runtime",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-10-22",
-    "score": 71
-  },
-  {
-    "title": "How NVIDIA OpenShell Reference Architecture Secures and Governs AI Agent Workloads at Scale",
-    "url": "https://developer.nvidia.com/blog/how-nvidia-openshell-reference-architecture-secures-and-governs-ai-agent-workloads-at-scale",
-    "summary": "NVIDIA Technical Blog · How NVIDIA OpenShell Reference Architecture Secures and Governs AI Agent Workloads at Scale",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-10-22",
-    "score": 71
-  },
-  {
-    "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-    "url": "https://openai.com/index/terminal-x",
-    "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-10-22",
-    "score": 70
-  },
-  {
-    "title": "Developing an AI Factory Digital Twin with an Agent-Assisted Workflow",
-    "url": "https://developer.nvidia.com/blog/developing-an-ai-factory-digital-twin-with-an-agent-assisted-workflow",
-    "summary": "NVIDIA Technical Blog · Developing an AI Factory Digital Twin with an Agent-Assisted Workflow",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-10-22",
-    "score": 69
-  },
-  {
-    "title": "How AT&T is rethinking in-house legal work with OpenAI",
-    "url": "https://openai.com/index/att-legal",
-    "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-10-22",
+    "date": "2026-10-23",
     "score": 67
   },
   {
-    "title": "Broad access through consistent standards",
-    "url": "https://openai.com/index/broad-access-through-consistent-standards",
-    "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+    "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+    "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+    "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
     "tags": [
       "ai_models",
       "official",
@@ -126,13 +39,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-10-22",
+    "date": "2026-10-23",
     "score": 67
   },
   {
-    "title": "OpenAI models are coming to Google Cloud",
-    "url": "https://openai.com/index/openai-models-google-cloud",
-    "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+    "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+    "url": "https://openai.com/index/cloudflare-cyber",
+    "summary": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
     "tags": [
       "ai_models",
       "official",
@@ -141,142 +54,56 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-10-22",
+    "date": "2026-10-23",
     "score": 67
   },
   {
-    "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-    "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-    "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+    "title": "Beyond tree cover: mapping the world’s forest types",
+    "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types",
+    "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
     "tags": [
-      "ai_models",
-      "official",
       "research",
-      "developer"
+      "multimodal",
+      "science",
+      "official"
     ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-10-22",
-    "score": 67
-  },
-  {
-    "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
-    "url": "https://openai.com/index/building-chatgpt-ad-stack",
-    "summary": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-10-22",
-    "score": 67
-  },
-  {
-    "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
-    "url": "https://openai.com/index/empowering-cyber-defenders",
-    "summary": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-10-22",
-    "score": 67
-  },
-  {
-    "title": "Achieve Productive AI Capacity Faster and More Predictably with NVIDIA DSX POD",
-    "url": "https://developer.nvidia.com/blog/achieve-productive-ai-capacity-faster-and-more-predictably-with-nvidia-dsx-pod",
-    "summary": "NVIDIA Technical Blog · Achieve Productive AI Capacity Faster and More Predictably with NVIDIA DSX POD",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-10-22",
-    "score": 67
-  },
-  {
-    "title": "Design Proteins with RFD4-Proteina Using Reward-Guided Inference-Time Search",
-    "url": "https://developer.nvidia.com/blog/design-proteins-with-rfd4-proteina-using-reward-guided-inference-time-search",
-    "summary": "NVIDIA Technical Blog · Design Proteins with RFD4-Proteina Using Reward-Guided Inference-Time Search",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-10-22",
+    "author": "Google DeepMind",
+    "source": "deepmind.google",
+    "date": "2026-10-23",
     "score": 66
   },
   {
-    "title": "Routing Middleware now supports Python",
-    "url": "https://vercel.com/changelog/routing-middleware-now-supports-python",
-    "summary": "You can now write routing middleware in Python for FastAPI, Flask, Django, and other Python frameworks. It runs before requests reach your app, and can rewrite, redirect, or answer them. To set it up, point the proxy entrypoint in vercel.toml at your proxy: Your middleware is an ASGI or WSGI app that runs separately from your main app, with only the packages in the vercel.proxy dependency group of your pyproject.toml . Add the packages your middleware imports to that group: T",
+    "title": "How to Read Data into GPU Memory in Python with NVIDIA GPUDirect Storage",
+    "url": "https://developer.nvidia.com/blog/how-to-read-data-into-gpu-memory-in-python-with-nvidia-gpudirect-storage",
+    "summary": "NVIDIA Technical Blog · How to Read Data into GPU Memory in Python with NVIDIA GPUDirect Storage",
     "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
+      "gpu",
+      "inference",
+      "ai_infra"
     ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-22",
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-10-23",
     "score": 66
   },
   {
-    "title": "Claude Duet is beautiful. I still forgot to use it",
-    "url": "https://www.lennysnewsletter.com/p/claude-duet-is-beautiful-i-still",
-    "summary": "Watch now (16 mins) | &#127897;&#65039; I tested Claude Duet, Anthropic's beautifully designed new personal agent, on real work to see if it can beat my personal agent fatigue and make the cut",
+    "title": "Running Frontier-Class AI Models Across 8 NVIDIA DGX Spark Nodes",
+    "url": "https://developer.nvidia.com/blog/running-frontier-class-ai-models-across-8-nvidia-dgx-spark-nodes",
+    "summary": "NVIDIA Technical Blog · Running Frontier-Class AI Models Across 8 NVIDIA DGX Spark Nodes",
     "tags": [
-      "product",
-      "growth",
-      "startup"
+      "gpu",
+      "inference",
+      "ai_infra"
     ],
-    "author": "Lenny's Newsletter",
-    "source": "lennysnewsletter.com",
-    "date": "2026-10-22",
-    "score": 64
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-10-23",
+    "score": 66
   },
   {
-    "title": "Baseten's Mammoth-1 and Elephant-1 now available on AI Gateway for free",
-    "url": "https://vercel.com/changelog/basetens-mammoth-1-and-elephant-1-now-available-on-ai-gateway-for-free",
-    "summary": "Mammoth-1 and Elephant-1 from Baseten are now available for free on AI Gateway for one week. Free access is available through October 27. These decision models classify text, route requests, and score content against criteria you define. Mammoth-1 is the larger, 27B model, while Elephant-1 is a smaller, 9B option. Mammoth-1 is #1 on the Jev Decision Index and Elephant-1 is tied for #1 on the Artificial Analysis Decision Index. Both support a 16k-token context window and retur",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-22",
-    "score": 63
-  },
-  {
-    "title": "Skipped monorepo deployments no longer count against limits",
-    "url": "https://vercel.com/changelog/skipped-monorepo-deployments-no-longer-count-against-limits",
-    "summary": "Deployments that Vercel automatically skips in a monorepo no longer count against your deployment rate limits. Teams with monorepos now get more deployments from the same limits. Vercel skips a project's deployment when its source code and internal dependencies haven't changed, using Turborepo 's package graph and lockfile analysis to determine which projects a commit affects. Skipping is enabled by default for new monorepo projects. You can turn it on for existing projects u",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-22",
-    "score": 63
-  },
-  {
-    "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-    "url": "https://huggingface.co/blog/nvidia/kumo-relational",
-    "summary": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+    "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+    "summary": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -284,27 +111,27 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-10-22",
-    "score": 63
+    "date": "2026-10-23",
+    "score": 66
   },
   {
-    "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-    "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
-    "summary": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium. 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Introducing OCRia-1: SOTA 4B Model for Document Parsing ->",
+    "url": "https://www.llamaindex.ai/blog/parse-ocria-1",
+    "summary": "Blog · Introducing OCRia-1: SOTA 4B Model for Document Parsing ->",
     "tags": [
-      "open_source",
-      "papers",
-      "models"
+      "rag",
+      "agents",
+      "framework"
     ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-10-22",
-    "score": 63
+    "author": "LlamaIndex",
+    "source": "llamaindex.ai",
+    "date": "2026-10-23",
+    "score": 66
   },
   {
-    "title": "Physicist Christopher Stubbs joins Anthropic&#x27;s Long-Term Benefit Trust",
-    "url": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
-    "summary": "Newsroom \\ Anthropic · Physicist Christopher Stubbs joins Anthropic&#x27;s Long-Term Benefit Trust",
+    "title": "Donating Agent Skills to the Agentic AI Foundation",
+    "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+    "summary": "Newsroom \\ Anthropic · Donating Agent Skills to the Agentic AI Foundation",
     "tags": [
       "ai_models",
       "safety",
@@ -312,41 +139,13 @@
     ],
     "author": "Anthropic",
     "source": "anthropic.com",
-    "date": "2026-10-22",
-    "score": 62
+    "date": "2026-10-23",
+    "score": 65
   },
   {
-    "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-    "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
-    "summary": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-10-22",
-    "score": 62
-  },
-  {
-    "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-    "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
-    "summary": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-10-22",
-    "score": 62
-  },
-  {
-    "title": "A visit to Samsung’s massive new semiconductor hub",
-    "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub",
-    "summary": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea. Three fabs already operate around the clock, and a fourth is coming online. Construction&#8230;",
+    "title": "Designing an AI serving harness built to last",
+    "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last",
+    "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows, higher benchmark scores. Those advances have&#8230;",
     "tags": [
       "ai",
       "research",
@@ -354,20 +153,145 @@
     ],
     "author": "MIT Technology Review AI",
     "source": "technologyreview.com",
-    "date": "2026-10-22",
+    "date": "2026-10-23",
+    "score": 65
+  },
+  {
+    "title": "The Foundations of Scalable AI",
+    "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai",
+    "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review&#8217;s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how a responsible, trustworthy implementation can turn emerging capabilities, including agentic&#8230;",
+    "tags": [
+      "ai",
+      "research",
+      "society"
+    ],
+    "author": "MIT Technology Review AI",
+    "source": "technologyreview.com",
+    "date": "2026-10-23",
+    "score": 64
+  },
+  {
+    "title": "Eight more TLDs now eligible for a free domain with Pro",
+    "url": "https://vercel.com/changelog/eight-more-tlds-now-eligible-for-a-free-domain-with-pro",
+    "summary": "Every Pro team can claim a free domain for one year. That offer now includes .co , .studio , .company , .info , .pro , .live , .digital , and .agency , bringing the eligible TLDs to sixteen. The offer still covers one domain per team, and premium domains are not eligible. After the first year, your domain will renew automatically at the regular price shown at checkout when you claim it. Claim yours at vercel.com/domains , and see the free domain FAQ for the full list of eligi",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-10-23",
+    "score": 63
+  },
+  {
+    "title": "Death to long-lived static credentials",
+    "url": "https://vercel.com/blog/death-to-long-lived-static-credentials",
+    "summary": "Fifteen years ago, TLS was something you'd use to protect the most sensitive areas of your app. Then Google, Let's Encrypt, the EFF, and others led the push for HTTPS everywhere, making encryption the default for every request. Without it, anyone between the browser and server can read and tamper with the traffic. OAuth, OIDC, DBSC, and related standards already provide building blocks for secure authentication, but standards alone do not make secure methods the norm. HTTPS n",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-10-23",
+    "score": 63
+  },
+  {
+    "title": "Webinar Recap: Reaching At-Risk Patients When Minutes Matter",
+    "url": "https://elevenlabs.io/blog/webinar-recap-reaching-at-risk-patients-when-minutes-matter",
+    "summary": "Learn how Cadence uses ElevenAgents to reach patients within minutes of a vital sign reading outside the expected range.",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-10-23",
+    "score": 62
+  },
+  {
+    "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+    "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+    "summary": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-10-23",
+    "score": 62
+  },
+  {
+    "title": "Ensemble forecasting with IBM Granite time-series models",
+    "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+    "summary": "Ensemble forecasting with IBM Granite time-series models 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-10-23",
+    "score": 62
+  },
+  {
+    "title": "Company · Oct 22, 2026 Introducing the SpaceX Super Intelligence Partner Network",
+    "url": "https://x.ai/news/partnernetworkannouncement",
+    "summary": "SpaceXSI · Company · Oct 22, 2026 Introducing the SpaceX Super Intelligence Partner Network",
+    "tags": [
+      "ai_models",
+      "reasoning"
+    ],
+    "author": "xAI",
+    "source": "x.ai",
+    "date": "2026-10-23",
     "score": 61
   },
   {
-    "title": "Company Mistral Advances AI for Engineering with NVIDIA Mistral is collaborating with NVIDIA to develop a new generation of AI-native engineering workflows powered by NVIDIA accelerated computing. October 21, 2026 By Mistral",
-    "url": "https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering",
-    "summary": "Latest news | Mistral · Company Mistral Advances AI for Engineering with NVIDIA Mistral is collaborating with NVIDIA to develop a new generation of AI-native engineering workflows powered by NVIDIA accelerated computing. October 21, 2026 By Mistral",
+    "title": "Making the case for context-aware AI",
+    "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai",
+    "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As companies look to move AI from experimentation into everyday operations, the challenge ahead&#8230;",
     "tags": [
-      "open_model",
-      "european_ai"
+      "ai",
+      "research",
+      "society"
     ],
-    "author": "Mistral AI",
-    "source": "mistral.ai",
-    "date": "2026-10-22",
+    "author": "MIT Technology Review AI",
+    "source": "technologyreview.com",
+    "date": "2026-10-23",
+    "score": 61
+  },
+  {
+    "title": "AI&#8217;s hidden storage bill: What inference leaves behind",
+    "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind",
+    "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that’s generated—from billions of daily prompts, images, and videos—needs&#8230;",
+    "tags": [
+      "ai",
+      "research",
+      "society"
+    ],
+    "author": "MIT Technology Review AI",
+    "source": "technologyreview.com",
+    "date": "2026-10-23",
+    "score": 61
+  },
+  {
+    "title": "Wed, 21 Oct 2026",
+    "url": "https://arxiv.org/list/cs.AI/recent?skip=211&amp%3Bshow=50",
+    "summary": "Artificial Intelligence · Wed, 21 Oct 2026",
+    "tags": [
+      "paper",
+      "ai",
+      "arxiv"
+    ],
+    "author": "arXiv CS AI",
+    "source": "arxiv.org",
+    "date": "2026-10-23",
     "score": 60
   }
 ]

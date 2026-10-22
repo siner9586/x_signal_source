@@ -26386,5 +26386,215 @@
     "cluster_id": "mistral_ai_f33a0530",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7b350bd8125220f2",
+    "canonical_url": "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills",
+    "dedupe_key": "94b0bce56a0481f5",
+    "title": "How bug bounty sharpens one researcher’s security skills",
+    "issue_date": "2026-10-23",
+    "cluster_id": "github_blog_8e553fba",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e9c9a3494eb5a32b",
+    "canonical_url": "https://openai.com/index/decisions-api",
+    "dedupe_key": "83a990f75d92efec",
+    "title": "Build more responsive apps with the Decisions API",
+    "issue_date": "2026-10-23",
+    "cluster_id": "openai_com_bd985c69",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b962a044a807232b",
+    "canonical_url": "https://openai.com/index/uber-chatgpt-work-rollout",
+    "dedupe_key": "de62d2e13c0d5c62",
+    "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+    "issue_date": "2026-10-23",
+    "cluster_id": "openai_com_c6383f13",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9b0a34da8b1bbe23",
+    "canonical_url": "https://openai.com/index/cloudflare-cyber",
+    "dedupe_key": "3fda26a9b0fbea1f",
+    "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+    "issue_date": "2026-10-23",
+    "cluster_id": "openai_com_2423bbd9",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b370f628cd26b60b",
+    "canonical_url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types",
+    "dedupe_key": "4b7bd559aa5371f7",
+    "title": "Beyond tree cover: mapping the world’s forest types",
+    "issue_date": "2026-10-23",
+    "cluster_id": "deepmind_google_2c00edde",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5650f16bcedac380",
+    "canonical_url": "https://developer.nvidia.com/blog/how-to-read-data-into-gpu-memory-in-python-with-nvidia-gpudirect-storage",
+    "dedupe_key": "f103833f2cc5f440",
+    "title": "How to Read Data into GPU Memory in Python with NVIDIA GPUDirect Storage",
+    "issue_date": "2026-10-23",
+    "cluster_id": "developer_nvidia_com_d6e950a4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2fb6ac2173d1bcdb",
+    "canonical_url": "https://developer.nvidia.com/blog/running-frontier-class-ai-models-across-8-nvidia-dgx-spark-nodes",
+    "dedupe_key": "63327a4b82ead0ff",
+    "title": "Running Frontier-Class AI Models Across 8 NVIDIA DGX Spark Nodes",
+    "issue_date": "2026-10-23",
+    "cluster_id": "developer_nvidia_com_36320ecb",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_059bb655f7d57ef3",
+    "canonical_url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+    "dedupe_key": "437fa28a931cb865",
+    "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+    "issue_date": "2026-10-23",
+    "cluster_id": "huggingface_co_7e82c15b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_dfe383f79b6fa78b",
+    "canonical_url": "https://www.llamaindex.ai/blog/parse-ocria-1",
+    "dedupe_key": "cc04249b353ed58f",
+    "title": "Introducing OCRia-1: SOTA 4B Model for Document Parsing ->",
+    "issue_date": "2026-10-23",
+    "cluster_id": "llamaindex_ai_4a803a4f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b9c13677dd74bca4",
+    "canonical_url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+    "dedupe_key": "d9b5ef0e7d125d65",
+    "title": "Donating Agent Skills to the Agentic AI Foundation",
+    "issue_date": "2026-10-23",
+    "cluster_id": "anthropic_com_ef53f3e2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c6fdf96fd5d52b5d",
+    "canonical_url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last",
+    "dedupe_key": "775ccd23e4095fde",
+    "title": "Designing an AI serving harness built to last",
+    "issue_date": "2026-10-23",
+    "cluster_id": "technologyreview_com_c5d9b557",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5488e6d7ab2011e4",
+    "canonical_url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai",
+    "dedupe_key": "067b7a526c2ed9b7",
+    "title": "The Foundations of Scalable AI",
+    "issue_date": "2026-10-23",
+    "cluster_id": "technologyreview_com_ce3f93fb",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_74c71e8fb5c8e1f7",
+    "canonical_url": "https://vercel.com/changelog/eight-more-tlds-now-eligible-for-a-free-domain-with-pro",
+    "dedupe_key": "3ad29bf6f7ca574b",
+    "title": "Eight more TLDs now eligible for a free domain with Pro",
+    "issue_date": "2026-10-23",
+    "cluster_id": "vercel_com_023f6706",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_91152d87e7224448",
+    "canonical_url": "https://vercel.com/blog/death-to-long-lived-static-credentials",
+    "dedupe_key": "ec838c02176ed7da",
+    "title": "Death to long-lived static credentials",
+    "issue_date": "2026-10-23",
+    "cluster_id": "vercel_com_57ff4085",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c051436ff6c17066",
+    "canonical_url": "https://elevenlabs.io/blog/webinar-recap-reaching-at-risk-patients-when-minutes-matter",
+    "dedupe_key": "7e90f098382bce7c",
+    "title": "Webinar Recap: Reaching At-Risk Patients When Minutes Matter",
+    "issue_date": "2026-10-23",
+    "cluster_id": "elevenlabs_io_b101de76",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1ec39c7a298cccfb",
+    "canonical_url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+    "dedupe_key": "d7189a6dc36d21d5",
+    "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+    "issue_date": "2026-10-23",
+    "cluster_id": "huggingface_co_d2b563d6",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b6d62115526c8d98",
+    "canonical_url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+    "dedupe_key": "cec8df47902fbe0f",
+    "title": "Ensemble forecasting with IBM Granite time-series models",
+    "issue_date": "2026-10-23",
+    "cluster_id": "huggingface_co_8daf6f9e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0aa96f9d5509e824",
+    "canonical_url": "https://x.ai/news/partnernetworkannouncement",
+    "dedupe_key": "a8df93f8adebe46b",
+    "title": "Company · Oct 22, 2026 Introducing the SpaceX Super Intelligence Partner Network",
+    "issue_date": "2026-10-23",
+    "cluster_id": "x_ai_f801b223",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_eaa518546de27e81",
+    "canonical_url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai",
+    "dedupe_key": "757b0488d9f9ea30",
+    "title": "Making the case for context-aware AI",
+    "issue_date": "2026-10-23",
+    "cluster_id": "technologyreview_com_b4a92630",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_595133127fb6eb3c",
+    "canonical_url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind",
+    "dedupe_key": "cd7c7fbee1a52730",
+    "title": "AI&#8217;s hidden storage bill: What inference leaves behind",
+    "issue_date": "2026-10-23",
+    "cluster_id": "technologyreview_com_715dfc97",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_16c9e3e2190f8487",
+    "canonical_url": "https://arxiv.org/list/cs.AI/recent?skip=211&amp%3Bshow=50",
+    "dedupe_key": "7612200d7a7c1849",
+    "title": "Wed, 21 Oct 2026",
+    "issue_date": "2026-10-23",
+    "cluster_id": "arxiv_org_b538df33",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
