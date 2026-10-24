@@ -26806,5 +26806,175 @@
     "cluster_id": "arxiv_org_d9bac1b5",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8c3c2a08594df7d7",
+    "canonical_url": "https://huggingface.co/blog/Luo-Yihang/mundo-world-model",
+    "dedupe_key": "512802c59af54647",
+    "title": "Mundo: From seeing a place to simulating what happens there Luo-Yihang • 1 day ago • 46",
+    "issue_date": "2026-10-25",
+    "cluster_id": "huggingface_co_14fa2296",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8294f14f533451b7",
+    "canonical_url": "https://vercel.com/changelog/deploy-without-an-account-using-vercel-cli",
+    "dedupe_key": "1a39f5ab55aaada7",
+    "title": "Deploy without an account using Vercel CLI",
+    "issue_date": "2026-10-25",
+    "cluster_id": "vercel_com_caa5f21b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ff538e156718c583",
+    "canonical_url": "https://vercel.com/changelog/deploy-with-vercel-drop-without-an-account",
+    "dedupe_key": "434e9f1b2a40a8ad",
+    "title": "Deploy with Vercel Drop without an account",
+    "issue_date": "2026-10-25",
+    "cluster_id": "vercel_com_3a1bb722",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3c5b44a5d93c5047",
+    "canonical_url": "https://www.lennysnewsletter.com/p/community-wisdom-negotiating-a-lowball",
+    "dedupe_key": "8ef2674e04532ef9",
+    "title": "🧠 Community Wisdom: Negotiating a lowball offer, designers earning a seat in product decisions, resources for building an MCP server, and more",
+    "issue_date": "2026-10-25",
+    "cluster_id": "lennysnewsletter_com_20066114",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_be674bd21cb952e8",
+    "canonical_url": "https://arxiv.org/list/cs.AI/recent?skip=761&amp%3Bshow=50",
+    "dedupe_key": "3359e07da8e0f680",
+    "title": "Tue, 20 Oct 2026",
+    "issue_date": "2026-10-25",
+    "cluster_id": "arxiv_org_0a998c92",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5dc9ddcfe669174a",
+    "canonical_url": "https://arxiv.org/list/cs.AI/recent?skip=1247&amp%3Bshow=50",
+    "dedupe_key": "61bae3935e1e7f12",
+    "title": "Mon, 19 Oct 2026",
+    "issue_date": "2026-10-25",
+    "cluster_id": "arxiv_org_f944f64f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9c980303db53f185",
+    "canonical_url": "https://elevenlabs.io/blog/what-is-voice-over",
+    "dedupe_key": "0e93e588a4570dab",
+    "title": "What is voice over? Definition, examples, and how it works",
+    "issue_date": "2026-10-25",
+    "cluster_id": "elevenlabs_io_624ec810",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7b5ccea5ff5716b1",
+    "canonical_url": "https://elevenlabs.io/blog/how-to-integrate-text-to-speech",
+    "dedupe_key": "4a38973de0efc2e5",
+    "title": "How to integrate Text to Speech into your applications",
+    "issue_date": "2026-10-25",
+    "cluster_id": "elevenlabs_io_6b96a7b3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d2bf7b9affdf67ca",
+    "canonical_url": "https://elevenlabs.io/blog/realtime-translation",
+    "dedupe_key": "390495b78a76f0e5",
+    "title": "Talk to anyone, in any language, in realtime",
+    "issue_date": "2026-10-25",
+    "cluster_id": "elevenlabs_io_cf26ad47",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1bd109480c5220f5",
+    "canonical_url": "https://elevenlabs.io/blog/how-to-transcribe-a-podcast",
+    "dedupe_key": "6a6dbe412318af33",
+    "title": "How to transcribe a podcast: A step-by-step guide",
+    "issue_date": "2026-10-25",
+    "cluster_id": "elevenlabs_io_e79e60db",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_80d9672703f7517b",
+    "canonical_url": "https://arxiv.org/abs/2610.14921",
+    "dedupe_key": "1b9db24190fa8684",
+    "title": "arXiv:2610.14921",
+    "issue_date": "2026-10-25",
+    "cluster_id": "arxiv_org_ffdf8605",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7ea2103275b668b7",
+    "canonical_url": "https://stratechery.com/2026/sharp-tech-on-video-netflix-angst-the-end-of-the-internet-and-metas-vr-glasses",
+    "dedupe_key": "d1de1b1565b27718",
+    "title": "Sharp Tech on Video: Netflix Angst, the End of the Internet, and Meta’s VR Glasses",
+    "issue_date": "2026-10-25",
+    "cluster_id": "stratechery_com_370a0584",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2c1a6ea3f74dc4af",
+    "canonical_url": "https://stratechery.com/2026/an-interview-with-craig-moffett-about-spacex-and-bubbles",
+    "dedupe_key": "9846c94e46acfce5",
+    "title": "An Interview with Craig Moffett About SpaceX and Bubbles",
+    "issue_date": "2026-10-25",
+    "cluster_id": "stratechery_com_8db7f407",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6c2bd12cc5c9c273",
+    "canonical_url": "https://stratechery.com/2026/a-new-era",
+    "dedupe_key": "6b1f548247a8d457",
+    "title": "2026.43: A New Era",
+    "issue_date": "2026-10-25",
+    "cluster_id": "stratechery_com_31e9f1b9",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_65400b064ee6c085",
+    "canonical_url": "https://stratechery.com/2026/presented-by-stripe",
+    "dedupe_key": "0205fc7560a19ef0",
+    "title": "Presented by Stripe",
+    "issue_date": "2026-10-25",
+    "cluster_id": "stratechery_com_694dd273",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_956c835af94e1e34",
+    "canonical_url": "https://stratechery.com/2026/netflix-earnings-business-or-franchise-disneys-deal",
+    "dedupe_key": "15dc4e50ff838b27",
+    "title": "Netflix Earnings, Business or Franchise, Disney&#8217;s Deal",
+    "issue_date": "2026-10-25",
+    "cluster_id": "stratechery_com_09d3df9a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_35454fe4e9624947",
+    "canonical_url": "https://stratechery.com/2026/muse-spark-open-meta-apple-thin-and-thick",
+    "dedupe_key": "5bb6fa2f80a57077",
+    "title": "Muse Spark Open, Meta + Apple, Thin and Thick",
+    "issue_date": "2026-10-25",
+    "cluster_id": "stratechery_com_994520c6",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]

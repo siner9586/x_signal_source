@@ -1,138 +1,8 @@
 [
   {
-    "title": "Using AI Agents to Teach Robots Like Microduck to Walk in Simulation",
-    "url": "https://developer.nvidia.com/blog/using-ai-agents-to-teach-robots-like-microduck-to-walk-in-simulation",
-    "summary": "NVIDIA Technical Blog · Using AI Agents to Teach Robots Like Microduck to Walk in Simulation",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-10-24",
-    "score": 71
-  },
-  {
-    "title": "Send feedback from the Vercel CLI",
-    "url": "https://vercel.com/changelog/send-feedback-from-vercel-cli",
-    "summary": "The Vercel CLI now includes vercel feedback , which sends bugs, friction reports, and feature requests to the Vercel team from your terminal. Coding agents can also send feedback when they run into issues. Use vercel feedback with -f or --field to include structured context as key=value pairs. Repeat the flag to describe the task, expected behavior, and what went wrong. Update to the latest Vercel CLI and read the vercel feedback documentation to get started. Read more",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-24",
-    "score": 69
-  },
-  {
-    "title": "Kimi K3.1 Pro and Kimi K3.1 Pro Highspeed are available now in AI Gateway",
-    "url": "https://vercel.com/changelog/kimi-k3-1-pro-and-kimi-k3-1-pro-highspeed-are-available-now-in-ai-gateway",
-    "summary": "Kimi K3.1 Pro from Moonshot AI is now available on AI Gateway , along with Kimi K3.1 Pro Highspeed , a faster version for interactive use. K3.1 Pro is the first model in Moonshot's K3.1 series. It builds on Kimi K3 with improvements in coding, 3D modeling, financial analysis, and agentic tasks, and keeps the 1M-token context window and image input. For coding, K3.1 Pro handles work ranging from small fixes in an existing codebase to building a full project, including long age",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-24",
-    "score": 69
-  },
-  {
-    "title": "Vercel CLI adds Spend Management",
-    "url": "https://vercel.com/changelog/vercel-cli-adds-spend-management",
-    "summary": "You can now view and manage your team's Spend Management budget from the Vercel CLI. Run vercel budgets and you, or the scripts and agents you run, get back your current spend and the active budget. View, set, and remove a budget This is the same On-Demand Budget shown in your team's billing settings. Setting a budget does not stop usage on its own. The --pause flag pauses production deployments of all projects when spend reaches 100%. List budget alert history You can now se",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-24",
-    "score": 68
-  },
-  {
-    "title": "How Vercel Agent accesses production safely",
-    "url": "https://vercel.com/blog/how-vercel-agent-accesses-production-safely",
-    "summary": "An agent working on production systems needs permission to act. A request like “fix this deployment” doesn’t tell you upfront which actions it will take or what access it will need. Grant agents broad access and a mistake can affect unrelated resources. Ask for approval at every step and the user has to approve individual actions before they know how the agent intends to solve the problem. Repeated prompts can turn that review into a habit of clicking approve. Vercel Agent st",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-24",
-    "score": 68
-  },
-  {
-    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-    "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-10-24",
-    "score": 67
-  },
-  {
-    "title": "Securing our frontier model training environment",
-    "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-    "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-10-24",
-    "score": 67
-  },
-  {
-    "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-    "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-    "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-10-24",
-    "score": 67
-  },
-  {
-    "title": "What FDE means at OpenAI",
-    "url": "https://openai.com/index/forward-deployed-engineering-means",
-    "summary": "What forward deployed engineering means at OpenAI",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-10-24",
-    "score": 67
-  },
-  {
-    "title": "NVIDIA Nemotron 3.5 Embed, Rerank, and Parse: Advancing Agents with World-Class Retrieval Models nvidia • 3 days ago • 49",
-    "url": "https://huggingface.co/blog/nvidia/nemotron-retriever-world-class-agentic-retrieval",
-    "summary": "Hugging Face – Blog · NVIDIA Nemotron 3.5 Embed, Rerank, and Parse: Advancing Agents with World-Class Retrieval Models nvidia • 3 days ago • 49",
+    "title": "Mundo: From seeing a place to simulating what happens there Luo-Yihang • 1 day ago • 46",
+    "url": "https://huggingface.co/blog/Luo-Yihang/mundo-world-model",
+    "summary": "Hugging Face – Blog · Mundo: From seeing a place to simulating what happens there Luo-Yihang • 1 day ago • 46",
     "tags": [
       "open_source",
       "papers",
@@ -140,55 +10,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-10-24",
-    "score": 67
+    "date": "2026-10-25",
+    "score": 64
   },
   {
-    "title": "Context Engineering (Agent Memory) for AI Agents Starts with Retrieval",
-    "url": "https://www.langchain.com/blog/context-engineering-starts-with-retrieval",
-    "summary": "Agents waste time and context on clumsy searches, oversized results and stale data. Learn the retrieval techniques LangChain's Deep Agents harness uses to get the right context in.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-10-24",
-    "score": 67
-  },
-  {
-    "title": "Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 2",
-    "url": "https://developer.nvidia.com/blog/scaling-nvidia-tensorrt-performance-optimization-beyond-a-single-build-route-with-the-global-performance-tuner-part-2",
-    "summary": "NVIDIA Technical Blog · Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 2",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-10-24",
-    "score": 66
-  },
-  {
-    "title": "Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 1",
-    "url": "https://developer.nvidia.com/blog/scaling-nvidia-tensorrt-performance-optimization-beyond-a-single-build-route-with-the-global-performance-tuner-part-1",
-    "summary": "NVIDIA Technical Blog · Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 1",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-10-24",
-    "score": 66
-  },
-  {
-    "title": "Send feedback from the Vercel MCP",
-    "url": "https://vercel.com/changelog/send-feedback-from-vercel-mcp",
-    "summary": "Vercel MCP now includes submit_feedback , a tool for sending bug reports, friction reports, and feature requests directly to the Vercel team from your agent or harness. Ask your agent to give feedback in plain language: Send Vercel feedback that the deployment error didn't explain which environment variable was missing. Your assistant can attach structured context that describes the task, the expected behavior, and what went wrong: The tool requires sign-in, and it sends feed",
+    "title": "Deploy without an account using Vercel CLI",
+    "url": "https://vercel.com/changelog/deploy-without-an-account-using-vercel-cli",
+    "summary": "You can now deploy apps to Vercel without an account using Vercel CLI . Share prototypes faster with a live URL before signing in to claim your project. From a project directory that isn't linked to Vercel, run: The CLI builds your project locally when needed and returns a deployment URL you can share. Temporary deployments use the dedicated tmp.now domain, separate from vercel.app , and expire after one hour unless claimed. To keep your project live, open the claim link in t",
     "tags": [
       "sdk",
       "ai_infra",
@@ -196,96 +24,41 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-10-24",
-    "score": 66
-  },
-  {
-    "title": "Vercel Connect adds managed Stripe API keys",
-    "url": "https://vercel.com/changelog/vercel-connect-adds-managed-stripe-api-keys",
-    "summary": "Vercel Connect can now create a separate restricted Stripe API key for each agent or task. When you create a Stripe connector, you can now choose Managed API Key as the connection method. Vercel creates the key in your Stripe account, limited to the permissions you pick. The existing MCP and bring-your-own API key methods are unchanged. type: embedded-entry-inline id: 3rOuKp0F4Nk80dMYJ5QX6U Most apps and agents run on Stripe’s default secret key, which has full access to the ",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-24",
-    "score": 66
-  },
-  {
-    "title": "How Interfaze serves 50 million requests a month on Vercel",
-    "url": "https://vercel.com/blog/how-interfaze-serves-50-million-requests-a-month-on-vercel",
-    "summary": "Interfaze on Vercel 50 million requests a month Backend running on Fluid compute Multiple model providers behind one fallback layer with AI Gateway Interfaze builds models for deterministic work that general-purpose LLMs handle poorly: document processing, OCR, object detection, web scraping, speech to text, and classification. As founder Yoeven Khemlani puts it, \"Most models aren't deterministic by nature. That's fine when you're drafting an essay. But when a hospital or a l",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-24",
-    "score": 65
-  },
-  {
-    "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-    "url": "https://huggingface.co/blog/allenai/litpivot",
-    "summary": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-10-24",
-    "score": 65
-  },
-  {
-    "title": "Deployments now show build cache size",
-    "url": "https://vercel.com/changelog/deployments-now-show-build-cache-size",
-    "summary": "Deployment summaries now show the size of the build cache each deployment saved and how close it is to the limit for its build machine . The same information is in the CLI with vercel inspect on version 65.1.0 or newer, and in the get-deployment REST API endpoint . Uploading the build cache is billable build time, and a cache that goes over the limit is discarded, so the next build starts without one. This is on by default on all plans for deployments built on or after Octobe",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-24",
+    "date": "2026-10-25",
     "score": 63
   },
   {
-    "title": "Does Your Model Run on AWS Trainium? Look It Up",
-    "url": "https://huggingface.co/blog/torch-neuronx-model-support",
-    "summary": "Does Your Model Run on AWS Trainium? Look It Up 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Deploy with Vercel Drop without an account",
+    "url": "https://vercel.com/changelog/deploy-with-vercel-drop-without-an-account",
+    "summary": "You can now deploy static sites with Vercel Drop without an account. Drag and drop a file, folder, or ZIP archive to get a live URL. Deployments without an account expire after one hour. To keep your site live, sign in or create an account and claim the project. Get started Try Vercel Drop and learn more in the Vercel Drop documentation . Read more",
     "tags": [
-      "open_source",
-      "papers",
-      "models"
+      "sdk",
+      "ai_infra",
+      "frontend"
     ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-10-24",
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-10-25",
     "score": 63
   },
   {
-    "title": "How Immobiliare.it went from one conversational agent to an agentic network",
-    "url": "https://elevenlabs.io/blog/immobiliare",
-    "summary": "Italy’s leading property marketplace goes from one conversational agent to an agentic network",
+    "title": "🧠 Community Wisdom: Negotiating a lowball offer, designers earning a seat in product decisions, resources for building an MCP server, and more",
+    "url": "https://www.lennysnewsletter.com/p/community-wisdom-negotiating-a-lowball",
+    "summary": "Community Wisdom 303",
     "tags": [
-      "voice_ai",
-      "audio"
+      "product",
+      "growth",
+      "startup"
     ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-10-24",
-    "score": 62
+    "author": "Lenny's Newsletter",
+    "source": "lennysnewsletter.com",
+    "date": "2026-10-25",
+    "score": 61
   },
   {
-    "title": "Thu, 22 Oct 2026",
-    "url": "https://arxiv.org/list/cs.AI/recent?skip=229&amp%3Bshow=50",
-    "summary": "Artificial Intelligence · Thu, 22 Oct 2026",
+    "title": "Tue, 20 Oct 2026",
+    "url": "https://arxiv.org/list/cs.AI/recent?skip=761&amp%3Bshow=50",
+    "summary": "Artificial Intelligence · Tue, 20 Oct 2026",
     "tags": [
       "paper",
       "ai",
@@ -293,7 +66,171 @@
     ],
     "author": "arXiv CS AI",
     "source": "arxiv.org",
-    "date": "2026-10-24",
+    "date": "2026-10-25",
     "score": 60
+  },
+  {
+    "title": "Mon, 19 Oct 2026",
+    "url": "https://arxiv.org/list/cs.AI/recent?skip=1247&amp%3Bshow=50",
+    "summary": "Artificial Intelligence · Mon, 19 Oct 2026",
+    "tags": [
+      "paper",
+      "ai",
+      "arxiv"
+    ],
+    "author": "arXiv CS AI",
+    "source": "arxiv.org",
+    "date": "2026-10-25",
+    "score": 60
+  },
+  {
+    "title": "What is voice over? Definition, examples, and how it works",
+    "url": "https://elevenlabs.io/blog/what-is-voice-over",
+    "summary": "Learn what is voice over, how it differs from voice acting and dubbing, and how to write a script and create a voice over with AI in minutes.",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-10-25",
+    "score": 59
+  },
+  {
+    "title": "How to integrate Text to Speech into your applications",
+    "url": "https://elevenlabs.io/blog/how-to-integrate-text-to-speech",
+    "summary": "Learn how to integrate Text to Speech into your application in four steps: create an API key, install the SDK, send your first request, and play the audio.",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-10-25",
+    "score": 59
+  },
+  {
+    "title": "Talk to anyone, in any language, in realtime",
+    "url": "https://elevenlabs.io/blog/realtime-translation",
+    "summary": "Deliver live, expressive voice translation in more than 90 languages. Available for enterprises via ElevenAPI",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-10-25",
+    "score": 59
+  },
+  {
+    "title": "How to transcribe a podcast: A step-by-step guide",
+    "url": "https://elevenlabs.io/blog/how-to-transcribe-a-podcast",
+    "summary": "Learn how to transcribe a podcast with AI in five steps, format the transcript as SRT or VTT, and publish it on podcast platforms and your website.",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-10-25",
+    "score": 59
+  },
+  {
+    "title": "arXiv:2610.14921",
+    "url": "https://arxiv.org/abs/2610.14921",
+    "summary": "Computation and Language · arXiv:2610.14921",
+    "tags": [
+      "paper",
+      "nlp",
+      "arxiv"
+    ],
+    "author": "arXiv CS CL",
+    "source": "arxiv.org",
+    "date": "2026-10-25",
+    "score": 59
+  },
+  {
+    "title": "Sharp Tech on Video: Netflix Angst, the End of the Internet, and Meta’s VR Glasses",
+    "url": "https://stratechery.com/2026/sharp-tech-on-video-netflix-angst-the-end-of-the-internet-and-metas-vr-glasses",
+    "summary": "Sharp Tech is, for the first time, available on video. You have two ways to consume it: YouTube, and here on Stratechery",
+    "tags": [
+      "strategy",
+      "tech",
+      "business"
+    ],
+    "author": "Stratechery",
+    "source": "stratechery.com",
+    "date": "2026-10-25",
+    "score": 58
+  },
+  {
+    "title": "An Interview with Craig Moffett About SpaceX and Bubbles",
+    "url": "https://stratechery.com/2026/an-interview-with-craig-moffett-about-spacex-and-bubbles",
+    "summary": "An interview with Craig Moffett about SpaceX, from launch to broadband to mobile, plus how he is applying the lessons of the dot-com bubble to today.",
+    "tags": [
+      "strategy",
+      "tech",
+      "business"
+    ],
+    "author": "Stratechery",
+    "source": "stratechery.com",
+    "date": "2026-10-25",
+    "score": 58
+  },
+  {
+    "title": "2026.43: A New Era",
+    "url": "https://stratechery.com/2026/a-new-era",
+    "summary": "The best Stratechery content from the week of October 19, 2026, including the best iPad but worst phone, SS Sarandos in a storm, and You Can See Everything.",
+    "tags": [
+      "strategy",
+      "tech",
+      "business"
+    ],
+    "author": "Stratechery",
+    "source": "stratechery.com",
+    "date": "2026-10-25",
+    "score": 56
+  },
+  {
+    "title": "Presented by Stripe",
+    "url": "https://stratechery.com/2026/presented-by-stripe",
+    "summary": "Stratechery is now presented by Stripe. What that means for me, for you, and for the future of Stratechery content.",
+    "tags": [
+      "strategy",
+      "tech",
+      "business"
+    ],
+    "author": "Stratechery",
+    "source": "stratechery.com",
+    "date": "2026-10-25",
+    "score": 56
+  },
+  {
+    "title": "Netflix Earnings, Business or Franchise, Disney&#8217;s Deal",
+    "url": "https://stratechery.com/2026/netflix-earnings-business-or-franchise-disneys-deal",
+    "summary": "Netflix has a solid business, which is exactly the problem: the company increasingly seems like a business and not a franchise, at least in terms of growth.",
+    "tags": [
+      "strategy",
+      "tech",
+      "business"
+    ],
+    "author": "Stratechery",
+    "source": "stratechery.com",
+    "date": "2026-10-25",
+    "score": 56
+  },
+  {
+    "title": "Muse Spark Open, Meta + Apple, Thin and Thick",
+    "url": "https://stratechery.com/2026/muse-spark-open-meta-apple-thin-and-thick",
+    "summary": "Meta has a new open source model, and to everyone's surprise, they are are partnering with Apple to make sure you can run it locally.",
+    "tags": [
+      "strategy",
+      "tech",
+      "business"
+    ],
+    "author": "Stratechery",
+    "source": "stratechery.com",
+    "date": "2026-10-25",
+    "score": 56
   }
 ]
