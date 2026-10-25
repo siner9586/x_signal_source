@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "issue_date": "2026-10-26",
+    "generated_at": "2026-10-25T23:01:50.814Z",
+    "timezone": "Asia/Shanghai",
+    "source_mode": "live_fetch_only",
+    "strict_new_only": true,
+    "sources_scanned": 118,
+    "fetch_jobs": 224,
+    "candidates_count": 1127,
+    "selected_count": 2,
+    "duplicates_blocked": 1125,
+    "stale_candidates_blocked": 0,
+    "fetch_failures": 80,
+    "no_new_content": false,
+    "initial_source_index": false
+  },
+  "summary": {
+    "one_liner": "本期由每日自动流水线生成：仅展示当日 live fetch 抓取、且未在历史期展示过的新内容。",
+    "trends": [
+      "AI Agent",
+      "AI Coding",
+      "AI Infra",
+      "Research",
+      "Startup / Investment"
+    ],
+    "watch_next": [
+      "公开 RSS / Atom / HTML 新条目",
+      "GitHub releases 与技术博客",
+      "人工维护 X Article / Thread seed list",
+      "播客长访谈中的一手判断"
+    ]
+  },
+  "must_read": [],
+  "worth_reading": [],
+  "signal_watch": [
+    {
+      "id": "cand_4aa029f579468b95",
+      "canonical_url": "https://www.langchain.com/blog/components-building-company-harness",
+      "source_url": "https://blog.langchain.com/rss.xml",
+      "source_fetch_url": "https://blog.langchain.com/rss.xml",
+      "source_platform": "web",
+      "source_domain": "langchain.com",
+      "source_name": "LangChain",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "external_article",
+      "title": "The five components of building a \"company harness\"",
+      "subtitle": "",
+      "author": "LangChain",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "LangChain",
+      "language": "unknown",
+      "published_at": "Sun, 25 Oct 2026 18:06:32 GMT",
+      "captured_at": "2026-10-25T23:01:44.258Z",
+      "captured_issue": "2026-10-26",
+      "summary": "Learn how LangChain built internal agents across marketing, sales, and engineering, and how they have completely changed how those teams work.",
+      "excerpt": "Learn how LangChain built internal agents across marketing, sales, and engineering, and how they have completely changed how those teams work.",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "agents",
+        "rag",
+        "framework"
+      ],
+      "entities": [
+        "LangChain"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://www.langchain.com/blog/components-building-company-harness",
+        "https://blog.langchain.com/rss.xml",
+        "https://www.langchain.com",
+        "https://blog.langchain.com",
+        "https://x.com/LangChainAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 54,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 74,
+      "total_score": 65,
+      "rank": 500,
+      "cluster_id": "langchain_com_27159a7d",
+      "dedupe_key": "7c5a0c4b0177c42d",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：The five components of building a \"company harness\" 来自 LangChain 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-26",
+      "last_seen_issue": "2026-10-26",
+      "used_in_issue": "2026-10-26"
+    },
+    {
+      "id": "cand_bb1c1ea1eb4ba746",
+      "canonical_url": "https://www.lennysnewsletter.com/p/an-86-minute-guide-to-finding-pmf",
+      "source_url": "https://www.lennysnewsletter.com/feed.xml",
+      "source_fetch_url": "https://www.lennysnewsletter.com/feed.xml",
+      "source_platform": "web",
+      "source_domain": "lennysnewsletter.com",
+      "source_name": "Lenny's Newsletter",
+      "source_file": "media.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "external_article",
+      "title": "An 86-minute guide to finding PMF | Rob Snyder (Author, The Power of Pull)",
+      "subtitle": "",
+      "author": "Lenny's Newsletter",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Lenny's Newsletter",
+      "language": "unknown",
+      "published_at": "Sun, 25 Oct 2026 12:31:34 GMT",
+      "captured_at": "2026-10-25T23:01:49.522Z",
+      "captured_issue": "2026-10-26",
+      "summary": "Listen now (86 mins) | The founder who helped over 50 startups hit $1M ARR shares his PULL framework for finding real product-market fit",
+      "excerpt": "Listen now (86 mins) | The founder who helped over 50 startups hit $1M ARR shares his PULL framework for finding real product-market fit",
+      "raw_text_available": false,
+      "topics": [
+        "Startups",
+        "Product"
+      ],
+      "tags": [
+        "product",
+        "growth",
+        "startup"
+      ],
+      "entities": [
+        "Lenny's Newsletter"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://www.lennysnewsletter.com/p/an-86-minute-guide-to-finding-pmf",
+        "https://www.lennysnewsletter.com/feed.xml",
+        "https://www.lennysnewsletter.com"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 54,
+      "originality_score": 50,
+      "trend_score": 57,
+      "evidence_score": 75,
+      "heat_score": 40,
+      "site_fit_score": 74,
+      "total_score": 65,
+      "rank": 548,
+      "cluster_id": "lennysnewsletter_com_185c3347",
+      "dedupe_key": "3a1f613a11ca161b",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：An 86-minute guide to finding PMF | Rob Snyder (Author, The Power of Pull) 来自 Lenny's Newsletter 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-26",
+      "last_seen_issue": "2026-10-26",
+      "used_in_issue": "2026-10-26"
+    }
+  ],
+  "hot_rank": [
+    {
+      "id": "cand_4aa029f579468b95",
+      "canonical_url": "https://www.langchain.com/blog/components-building-company-harness",
+      "source_url": "https://blog.langchain.com/rss.xml",
+      "source_fetch_url": "https://blog.langchain.com/rss.xml",
+      "source_platform": "web",
+      "source_domain": "langchain.com",
+      "source_name": "LangChain",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "external_article",
+      "title": "The five components of building a \"company harness\"",
+      "subtitle": "",
+      "author": "LangChain",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "LangChain",
+      "language": "unknown",
+      "published_at": "Sun, 25 Oct 2026 18:06:32 GMT",
+      "captured_at": "2026-10-25T23:01:44.258Z",
+      "captured_issue": "2026-10-26",
+      "summary": "Learn how LangChain built internal agents across marketing, sales, and engineering, and how they have completely changed how those teams work.",
+      "excerpt": "Learn how LangChain built internal agents across marketing, sales, and engineering, and how they have completely changed how those teams work.",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "agents",
+        "rag",
+        "framework"
+      ],
+      "entities": [
+        "LangChain"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://www.langchain.com/blog/components-building-company-harness",
+        "https://blog.langchain.com/rss.xml",
+        "https://www.langchain.com",
+        "https://blog.langchain.com",
+        "https://x.com/LangChainAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 54,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 74,
+      "total_score": 65,
+      "rank": 500,
+      "cluster_id": "langchain_com_27159a7d",
+      "dedupe_key": "7c5a0c4b0177c42d",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：The five components of building a \"company harness\" 来自 LangChain 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-26",
+      "last_seen_issue": "2026-10-26",
+      "used_in_issue": "2026-10-26"
+    },
+    {
+      "id": "cand_bb1c1ea1eb4ba746",
+      "canonical_url": "https://www.lennysnewsletter.com/p/an-86-minute-guide-to-finding-pmf",
+      "source_url": "https://www.lennysnewsletter.com/feed.xml",
+      "source_fetch_url": "https://www.lennysnewsletter.com/feed.xml",
+      "source_platform": "web",
+      "source_domain": "lennysnewsletter.com",
+      "source_name": "Lenny's Newsletter",
+      "source_file": "media.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "external_article",
+      "title": "An 86-minute guide to finding PMF | Rob Snyder (Author, The Power of Pull)",
+      "subtitle": "",
+      "author": "Lenny's Newsletter",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Lenny's Newsletter",
+      "language": "unknown",
+      "published_at": "Sun, 25 Oct 2026 12:31:34 GMT",
+      "captured_at": "2026-10-25T23:01:49.522Z",
+      "captured_issue": "2026-10-26",
+      "summary": "Listen now (86 mins) | The founder who helped over 50 startups hit $1M ARR shares his PULL framework for finding real product-market fit",
+      "excerpt": "Listen now (86 mins) | The founder who helped over 50 startups hit $1M ARR shares his PULL framework for finding real product-market fit",
+      "raw_text_available": false,
+      "topics": [
+        "Startups",
+        "Product"
+      ],
+      "tags": [
+        "product",
+        "growth",
+        "startup"
+      ],
+      "entities": [
+        "Lenny's Newsletter"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://www.lennysnewsletter.com/p/an-86-minute-guide-to-finding-pmf",
+        "https://www.lennysnewsletter.com/feed.xml",
+        "https://www.lennysnewsletter.com"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 54,
+      "originality_score": 50,
+      "trend_score": 57,
+      "evidence_score": 75,
+      "heat_score": 40,
+      "site_fit_score": 74,
+      "total_score": 65,
+      "rank": 548,
+      "cluster_id": "lennysnewsletter_com_185c3347",
+      "dedupe_key": "3a1f613a11ca161b",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：An 86-minute guide to finding PMF | Rob Snyder (Author, The Power of Pull) 来自 Lenny's Newsletter 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-26",
+      "last_seen_issue": "2026-10-26",
+      "used_in_issue": "2026-10-26"
+    }
+  ],
+  "clusters": [
+    {
+      "cluster_id": "langchain_com_27159a7d",
+      "title": "The five components of building a \"company harness\"",
+      "summary": "Learn how LangChain built internal agents across marketing, sales, and engineering, and how they have completely changed how those teams work.",
+      "primary_source": "https://www.langchain.com/blog/components-building-company-harness",
+      "supporting_sources": [
+        "https://www.langchain.com/blog/components-building-company-harness",
+        "https://blog.langchain.com/rss.xml",
+        "https://www.langchain.com",
+        "https://blog.langchain.com",
+        "https://x.com/LangChainAI"
+      ],
+      "related_x_posts": [
+        "https://x.com/LangChainAI"
+      ],
+      "related_articles": [
+        "https://www.langchain.com/blog/components-building-company-harness",
+        "https://blog.langchain.com/rss.xml",
+        "https://www.langchain.com",
+        "https://blog.langchain.com"
+      ],
+      "entities": [
+        "LangChain"
+      ],
+      "tags": [
+        "agents",
+        "rag",
+        "framework"
+      ],
+      "score": 65,
+      "selected_item_id": "cand_4aa029f579468b95"
+    },
+    {
+      "cluster_id": "lennysnewsletter_com_185c3347",
+      "title": "An 86-minute guide to finding PMF | Rob Snyder (Author, The Power of Pull)",
+      "summary": "Listen now (86 mins) | The founder who helped over 50 startups hit $1M ARR shares his PULL framework for finding real product-market fit",
+      "primary_source": "https://www.lennysnewsletter.com/p/an-86-minute-guide-to-finding-pmf",
+      "supporting_sources": [
+        "https://www.lennysnewsletter.com/p/an-86-minute-guide-to-finding-pmf",
+        "https://www.lennysnewsletter.com/feed.xml",
+        "https://www.lennysnewsletter.com"
+      ],
+      "related_x_posts": [],
+      "related_articles": [
+        "https://www.lennysnewsletter.com/p/an-86-minute-guide-to-finding-pmf",
+        "https://www.lennysnewsletter.com/feed.xml",
+        "https://www.lennysnewsletter.com"
+      ],
+      "entities": [
+        "Lenny's Newsletter"
+      ],
+      "tags": [
+        "product",
+        "growth",
+        "startup"
+      ],
+      "score": 65,
+      "selected_item_id": "cand_bb1c1ea1eb4ba746"
+    }
+  ],
+  "sources": [
+    "langchain.com",
+    "lennysnewsletter.com"
+  ]
+}

@@ -1,50 +1,22 @@
 [
   {
-    "title": "Mundo: From seeing a place to simulating what happens there Luo-Yihang • 1 day ago • 46",
-    "url": "https://huggingface.co/blog/Luo-Yihang/mundo-world-model",
-    "summary": "Hugging Face – Blog · Mundo: From seeing a place to simulating what happens there Luo-Yihang • 1 day ago • 46",
+    "title": "The five components of building a \"company harness\"",
+    "url": "https://www.langchain.com/blog/components-building-company-harness",
+    "summary": "Learn how LangChain built internal agents across marketing, sales, and engineering, and how they have completely changed how those teams work.",
     "tags": [
-      "open_source",
-      "papers",
-      "models"
+      "agents",
+      "rag",
+      "framework"
     ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-10-25",
-    "score": 64
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-10-26",
+    "score": 65
   },
   {
-    "title": "Deploy without an account using Vercel CLI",
-    "url": "https://vercel.com/changelog/deploy-without-an-account-using-vercel-cli",
-    "summary": "You can now deploy apps to Vercel without an account using Vercel CLI . Share prototypes faster with a live URL before signing in to claim your project. From a project directory that isn't linked to Vercel, run: The CLI builds your project locally when needed and returns a deployment URL you can share. Temporary deployments use the dedicated tmp.now domain, separate from vercel.app , and expire after one hour unless claimed. To keep your project live, open the claim link in t",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-25",
-    "score": 63
-  },
-  {
-    "title": "Deploy with Vercel Drop without an account",
-    "url": "https://vercel.com/changelog/deploy-with-vercel-drop-without-an-account",
-    "summary": "You can now deploy static sites with Vercel Drop without an account. Drag and drop a file, folder, or ZIP archive to get a live URL. Deployments without an account expire after one hour. To keep your site live, sign in or create an account and claim the project. Get started Try Vercel Drop and learn more in the Vercel Drop documentation . Read more",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-25",
-    "score": 63
-  },
-  {
-    "title": "🧠 Community Wisdom: Negotiating a lowball offer, designers earning a seat in product decisions, resources for building an MCP server, and more",
-    "url": "https://www.lennysnewsletter.com/p/community-wisdom-negotiating-a-lowball",
-    "summary": "Community Wisdom 303",
+    "title": "An 86-minute guide to finding PMF | Rob Snyder (Author, The Power of Pull)",
+    "url": "https://www.lennysnewsletter.com/p/an-86-minute-guide-to-finding-pmf",
+    "summary": "Listen now (86 mins) | The founder who helped over 50 startups hit $1M ARR shares his PULL framework for finding real product-market fit",
     "tags": [
       "product",
       "growth",
@@ -52,185 +24,7 @@
     ],
     "author": "Lenny's Newsletter",
     "source": "lennysnewsletter.com",
-    "date": "2026-10-25",
-    "score": 61
-  },
-  {
-    "title": "Tue, 20 Oct 2026",
-    "url": "https://arxiv.org/list/cs.AI/recent?skip=761&amp%3Bshow=50",
-    "summary": "Artificial Intelligence · Tue, 20 Oct 2026",
-    "tags": [
-      "paper",
-      "ai",
-      "arxiv"
-    ],
-    "author": "arXiv CS AI",
-    "source": "arxiv.org",
-    "date": "2026-10-25",
-    "score": 60
-  },
-  {
-    "title": "Mon, 19 Oct 2026",
-    "url": "https://arxiv.org/list/cs.AI/recent?skip=1247&amp%3Bshow=50",
-    "summary": "Artificial Intelligence · Mon, 19 Oct 2026",
-    "tags": [
-      "paper",
-      "ai",
-      "arxiv"
-    ],
-    "author": "arXiv CS AI",
-    "source": "arxiv.org",
-    "date": "2026-10-25",
-    "score": 60
-  },
-  {
-    "title": "What is voice over? Definition, examples, and how it works",
-    "url": "https://elevenlabs.io/blog/what-is-voice-over",
-    "summary": "Learn what is voice over, how it differs from voice acting and dubbing, and how to write a script and create a voice over with AI in minutes.",
-    "tags": [
-      "voice_ai",
-      "audio"
-    ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-10-25",
-    "score": 59
-  },
-  {
-    "title": "How to integrate Text to Speech into your applications",
-    "url": "https://elevenlabs.io/blog/how-to-integrate-text-to-speech",
-    "summary": "Learn how to integrate Text to Speech into your application in four steps: create an API key, install the SDK, send your first request, and play the audio.",
-    "tags": [
-      "voice_ai",
-      "audio"
-    ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-10-25",
-    "score": 59
-  },
-  {
-    "title": "Talk to anyone, in any language, in realtime",
-    "url": "https://elevenlabs.io/blog/realtime-translation",
-    "summary": "Deliver live, expressive voice translation in more than 90 languages. Available for enterprises via ElevenAPI",
-    "tags": [
-      "voice_ai",
-      "audio"
-    ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-10-25",
-    "score": 59
-  },
-  {
-    "title": "How to transcribe a podcast: A step-by-step guide",
-    "url": "https://elevenlabs.io/blog/how-to-transcribe-a-podcast",
-    "summary": "Learn how to transcribe a podcast with AI in five steps, format the transcript as SRT or VTT, and publish it on podcast platforms and your website.",
-    "tags": [
-      "voice_ai",
-      "audio"
-    ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-10-25",
-    "score": 59
-  },
-  {
-    "title": "arXiv:2610.14921",
-    "url": "https://arxiv.org/abs/2610.14921",
-    "summary": "Computation and Language · arXiv:2610.14921",
-    "tags": [
-      "paper",
-      "nlp",
-      "arxiv"
-    ],
-    "author": "arXiv CS CL",
-    "source": "arxiv.org",
-    "date": "2026-10-25",
-    "score": 59
-  },
-  {
-    "title": "Sharp Tech on Video: Netflix Angst, the End of the Internet, and Meta’s VR Glasses",
-    "url": "https://stratechery.com/2026/sharp-tech-on-video-netflix-angst-the-end-of-the-internet-and-metas-vr-glasses",
-    "summary": "Sharp Tech is, for the first time, available on video. You have two ways to consume it: YouTube, and here on Stratechery",
-    "tags": [
-      "strategy",
-      "tech",
-      "business"
-    ],
-    "author": "Stratechery",
-    "source": "stratechery.com",
-    "date": "2026-10-25",
-    "score": 58
-  },
-  {
-    "title": "An Interview with Craig Moffett About SpaceX and Bubbles",
-    "url": "https://stratechery.com/2026/an-interview-with-craig-moffett-about-spacex-and-bubbles",
-    "summary": "An interview with Craig Moffett about SpaceX, from launch to broadband to mobile, plus how he is applying the lessons of the dot-com bubble to today.",
-    "tags": [
-      "strategy",
-      "tech",
-      "business"
-    ],
-    "author": "Stratechery",
-    "source": "stratechery.com",
-    "date": "2026-10-25",
-    "score": 58
-  },
-  {
-    "title": "2026.43: A New Era",
-    "url": "https://stratechery.com/2026/a-new-era",
-    "summary": "The best Stratechery content from the week of October 19, 2026, including the best iPad but worst phone, SS Sarandos in a storm, and You Can See Everything.",
-    "tags": [
-      "strategy",
-      "tech",
-      "business"
-    ],
-    "author": "Stratechery",
-    "source": "stratechery.com",
-    "date": "2026-10-25",
-    "score": 56
-  },
-  {
-    "title": "Presented by Stripe",
-    "url": "https://stratechery.com/2026/presented-by-stripe",
-    "summary": "Stratechery is now presented by Stripe. What that means for me, for you, and for the future of Stratechery content.",
-    "tags": [
-      "strategy",
-      "tech",
-      "business"
-    ],
-    "author": "Stratechery",
-    "source": "stratechery.com",
-    "date": "2026-10-25",
-    "score": 56
-  },
-  {
-    "title": "Netflix Earnings, Business or Franchise, Disney&#8217;s Deal",
-    "url": "https://stratechery.com/2026/netflix-earnings-business-or-franchise-disneys-deal",
-    "summary": "Netflix has a solid business, which is exactly the problem: the company increasingly seems like a business and not a franchise, at least in terms of growth.",
-    "tags": [
-      "strategy",
-      "tech",
-      "business"
-    ],
-    "author": "Stratechery",
-    "source": "stratechery.com",
-    "date": "2026-10-25",
-    "score": 56
-  },
-  {
-    "title": "Muse Spark Open, Meta + Apple, Thin and Thick",
-    "url": "https://stratechery.com/2026/muse-spark-open-meta-apple-thin-and-thick",
-    "summary": "Meta has a new open source model, and to everyone's surprise, they are are partnering with Apple to make sure you can run it locally.",
-    "tags": [
-      "strategy",
-      "tech",
-      "business"
-    ],
-    "author": "Stratechery",
-    "source": "stratechery.com",
-    "date": "2026-10-25",
-    "score": 56
+    "date": "2026-10-26",
+    "score": 65
   }
 ]

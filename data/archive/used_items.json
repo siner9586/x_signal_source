@@ -26976,5 +26976,25 @@
     "cluster_id": "stratechery_com_994520c6",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4aa029f579468b95",
+    "canonical_url": "https://www.langchain.com/blog/components-building-company-harness",
+    "dedupe_key": "7c5a0c4b0177c42d",
+    "title": "The five components of building a \"company harness\"",
+    "issue_date": "2026-10-26",
+    "cluster_id": "langchain_com_27159a7d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_bb1c1ea1eb4ba746",
+    "canonical_url": "https://www.lennysnewsletter.com/p/an-86-minute-guide-to-finding-pmf",
+    "dedupe_key": "3a1f613a11ca161b",
+    "title": "An 86-minute guide to finding PMF | Rob Snyder (Author, The Power of Pull)",
+    "issue_date": "2026-10-26",
+    "cluster_id": "lennysnewsletter_com_185c3347",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
