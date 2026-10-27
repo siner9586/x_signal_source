@@ -1,22 +1,295 @@
 [
   {
-    "title": "The five components of building a \"company harness\"",
-    "url": "https://www.langchain.com/blog/components-building-company-harness",
-    "summary": "Learn how LangChain built internal agents across marketing, sales, and engineering, and how they have completely changed how those teams work.",
+    "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+    "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+    "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
     "tags": [
-      "agents",
-      "rag",
-      "framework"
+      "ai_models",
+      "official",
+      "research",
+      "developer"
     ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-10-26",
-    "score": 65
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-10-27",
+    "score": 70
   },
   {
-    "title": "An 86-minute guide to finding PMF | Rob Snyder (Author, The Power of Pull)",
-    "url": "https://www.lennysnewsletter.com/p/an-86-minute-guide-to-finding-pmf",
-    "summary": "Listen now (86 mins) | The founder who helped over 50 startups hit $1M ARR shares his PULL framework for finding real product-market fit",
+    "title": "Working with academic communities to build scientific understanding",
+    "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+    "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-10-27",
+    "score": 69
+  },
+  {
+    "title": "Run Scale AI’s AgentEnv evals on Vercel Sandbox",
+    "url": "https://vercel.com/changelog/run-scale-ais-agentenv-evals-on-vercel-sandbox",
+    "summary": "AgentEnv , Scale AI's framework for testing agents against tasks and scoring their results, now runs on Vercel Sandbox . The Vercel provider ships in AgentEnv 0.9.1334 and later, and runs the agent and its task environment in separate Sandboxes. Try the AgentEnv example to run an evaluation on Vercel Sandbox and inspect the task’s score and the agent’s recorded actions. After completing the setup guide , run this command from the cloned repository. It uses your existing Verce",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-10-27",
+    "score": 69
+  },
+  {
+    "title": "How Fanatics and OpenAI streamline the fan experience",
+    "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+    "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-10-27",
+    "score": 68
+  },
+  {
+    "title": "Discover 1000+ services on Vercel Connect from the CLI",
+    "url": "https://vercel.com/changelog/discover-1000-services-on-vercel-connect-from-the-cli",
+    "summary": "You and your agents can now browse and search more than 1000 services available in Vercel Connect without leaving your terminal. vercel connect discover searches by name, alias, keyword, and description. type: embedded-entry-inline id: H1F06IGrASdIU5HbPDOFM Results can be filtered by category, connection method (such as mcp or oauth ) or the product a service exposes. You can also limit results to services that forward webhook triggers. vercel connect categories lists the cat",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-10-27",
+    "score": 68
+  },
+  {
+    "title": "GPT-6.1 Terra now available on AI Gateway",
+    "url": "https://vercel.com/changelog/gpt-6-1-terra-now-available-on-ai-gateway",
+    "summary": "GPT-6.1 Terra from OpenAI is now available on AI Gateway . GPT-6.1 Terra is a fast model for visual reasoning, computer use, and writing, and it improves on the previous Terra model in visual reasoning, factual accuracy, and coding. It suits high-volume work in documents and desktop apps, such as filling out forms, interpreting technical drawings, or entering invoice details into accounting software. OpenAI still recommends its larger GPT-6 models for the most complex coding ",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-10-27",
+    "score": 68
+  },
+  {
+    "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+    "url": "https://openai.com/index/greptile-code-review-codex-astra",
+    "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-10-27",
+    "score": 67
+  },
+  {
+    "title": "ChatGPT’s expanding world of work",
+    "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+    "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-10-27",
+    "score": 67
+  },
+  {
+    "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+    "url": "https://openai.com/index/openai-cut-incident-investigation",
+    "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-10-27",
+    "score": 67
+  },
+  {
+    "title": "Introducing GPT-6.1 Terra",
+    "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+    "summary": "Bringing fast and capable computer use to everyone",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-10-27",
+    "score": 67
+  },
+  {
+    "title": "How NVIDIA Minerva Turns Telemetry Chaos Into Peak GPU Yield",
+    "url": "https://developer.nvidia.com/blog/how-nvidia-minerva-turns-telemetry-chaos-into-peak-gpu-yield",
+    "summary": "NVIDIA Technical Blog · How NVIDIA Minerva Turns Telemetry Chaos Into Peak GPU Yield",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-10-27",
+    "score": 66
+  },
+  {
+    "title": "How NVIDIA Mission Control 2.5 Brings Autonomous Recovery to Kubernetes",
+    "url": "https://developer.nvidia.com/blog/how-nvidia-mission-control-2-5-brings-autonomous-recovery-to-kubernetes",
+    "summary": "NVIDIA Technical Blog · How NVIDIA Mission Control 2.5 Brings Autonomous Recovery to Kubernetes",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-10-27",
+    "score": 66
+  },
+  {
+    "title": "Vercel Agent can now validate alerts before paging",
+    "url": "https://vercel.com/changelog/vercel-agent-can-now-validate-alerts-before-paging-you",
+    "summary": "Vercel Agent can now investigate alerts from Vercel monitors before they reach your paging system. With validation enabled for a webhook destination, only alerts Agent classifies as Critical are sent to it. To enable validation: Open a monitor’s notification settings and create or link a webhook destination for your paging system, such as incident.io. Select Critical Only next to that destination. You can also configure notification destinations with the Vercel CLI using verc",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-10-27",
+    "score": 66
+  },
+  {
+    "title": "Vercel Sandbox commands now support stdin",
+    "url": "https://vercel.com/changelog/vercel-sandbox-commands-now-support-stdin",
+    "summary": "Vercel Sandbox now lets you send input to running commands through standard input (stdin). Use it to exchange messages with stdio MCP servers such as agent-browser , or send data to other command-line programs while they run. In the TypeScript SDK, set stdin: true and detached: true in runCommand() . Use writeStdin() to send input and closeStdin() when you’re done: You can also set stdin to a Node.js readable stream, such as process.stdin . The SDK forwards the stream’s data ",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-10-27",
+    "score": 66
+  },
+  {
+    "title": "Create custom monitors in Vercel Observability",
+    "url": "https://vercel.com/changelog/create-custom-monitors-in-vercel-observability",
+    "summary": "You can now create custom monitors to get alerts based on your Vercel Observability query results. For example, you can track signals such as AI Gateway costs, Core Web Vitals and other performance metrics, Workflow and external API failure rates, or Vercel Sandbox CPU time. Each monitor tracks a single metric, such as response time, or a ratio of two metrics, such as errors divided by total requests. Choose statistical anomaly detection or a fixed threshold, then configure t",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-10-27",
+    "score": 63
+  },
+  {
+    "title": "Customizable widgets for project cards",
+    "url": "https://vercel.com/changelog/customizable-widgets-for-project-cards",
+    "summary": "The Overview tab in the dashboard now lets you choose which metric appears on each project card. Project cards used to show a fixed Real Experience Score in the top right, but not everyone on your team watches the same signal. You can now swap that slot for whichever metric matters for that project. A security-sensitive project can show firewall activity, while a marketing site project shows traffic. Available widgets Firewall: allowed requests, denied requests Observability:",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-10-27",
+    "score": 63
+  },
+  {
+    "title": "Faster pnpm installs",
+    "url": "https://vercel.com/changelog/faster-pnpm-installs",
+    "summary": "pnpm installs on Vercel are now faster, reducing the time spent installing dependencies before your build. For Pro deployments with restored build cache, we observed 14% lower average install times with the optimization enabled. Vercel now reuses successful dependency verification across deployments. In the best case, when dependencies are unchanged and the previous verification can be reused, installs can complete in milliseconds. Before: type: embedded-entry-inline id: 4AGN",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-10-27",
+    "score": 63
+  },
+  {
+    "title": "Deleted deployments are permanently removed sooner",
+    "url": "https://vercel.com/changelog/deleted-deployments-are-permanently-removed-sooner",
+    "summary": "Deployments deleted before they are 30 days old now have a shorter recovery period before permanent deletion. As developers deploy more frequently on Vercel, this reduces the buildup of old deployments on the Recently Deleted page. For successfully built deployments, the recovery period is the time you have to restore them after deletion: When the deployment is deleted Time to restore after deletion By retention policy before it reaches 30 days old Same length as the policy. ",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-10-27",
+    "score": 63
+  },
+  {
+    "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
+    "url": "https://www.anthropic.com/news/s1-sec",
+    "summary": "Newsroom \\ Anthropic · Anthropic files S-1 with the SEC for proposed initial public offering",
+    "tags": [
+      "ai_models",
+      "safety",
+      "official"
+    ],
+    "author": "Anthropic",
+    "source": "anthropic.com",
+    "date": "2026-10-27",
+    "score": 62
+  },
+  {
+    "title": "The focus on AI safety disasters ignores everyday harms",
+    "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms",
+    "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along. But companies can clear these low bars while continuing to make products&#8230;",
+    "tags": [
+      "ai",
+      "research",
+      "society"
+    ],
+    "author": "MIT Technology Review AI",
+    "source": "technologyreview.com",
+    "date": "2026-10-27",
+    "score": 62
+  },
+  {
+    "title": "🎙️ How I AI: Claude Duet honest review + Why Reddit built its own AI prototyping tool",
+    "url": "https://www.lennysnewsletter.com/p/how-i-ai-claude-duet-honest-review",
+    "summary": "Your weekly listens from How I AI, part of the Lenny&#8217;s Podcast Network",
     "tags": [
       "product",
       "growth",
@@ -24,7 +297,7 @@
     ],
     "author": "Lenny's Newsletter",
     "source": "lennysnewsletter.com",
-    "date": "2026-10-26",
-    "score": 65
+    "date": "2026-10-27",
+    "score": 62
   }
 ]

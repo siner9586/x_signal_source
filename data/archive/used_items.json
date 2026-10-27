@@ -26996,5 +26996,215 @@
     "cluster_id": "lennysnewsletter_com_185c3347",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_712b51bca0c02ec0",
+    "canonical_url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+    "dedupe_key": "6c3693620ad02ae6",
+    "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+    "issue_date": "2026-10-27",
+    "cluster_id": "openai_com_354d7837",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_16f0c7fcd7e013cb",
+    "canonical_url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+    "dedupe_key": "7f186d88f8ff810e",
+    "title": "Working with academic communities to build scientific understanding",
+    "issue_date": "2026-10-27",
+    "cluster_id": "openai_com_52415cbf",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0c05cfeba9812902",
+    "canonical_url": "https://vercel.com/changelog/run-scale-ais-agentenv-evals-on-vercel-sandbox",
+    "dedupe_key": "7a80e254868221a4",
+    "title": "Run Scale AI’s AgentEnv evals on Vercel Sandbox",
+    "issue_date": "2026-10-27",
+    "cluster_id": "vercel_com_8ec5c33a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_afbac387cfaf2409",
+    "canonical_url": "https://openai.com/index/fanatics-streamline-fan-experience",
+    "dedupe_key": "ea61396b7a31b45c",
+    "title": "How Fanatics and OpenAI streamline the fan experience",
+    "issue_date": "2026-10-27",
+    "cluster_id": "openai_com_9eafdedb",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2c533678adf9a6f9",
+    "canonical_url": "https://vercel.com/changelog/discover-1000-services-on-vercel-connect-from-the-cli",
+    "dedupe_key": "85d2022c6f42c84b",
+    "title": "Discover 1000+ services on Vercel Connect from the CLI",
+    "issue_date": "2026-10-27",
+    "cluster_id": "vercel_com_cb9f7fe1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2b3aa1f78c6d0865",
+    "canonical_url": "https://vercel.com/changelog/gpt-6-1-terra-now-available-on-ai-gateway",
+    "dedupe_key": "89183716f482f13e",
+    "title": "GPT-6.1 Terra now available on AI Gateway",
+    "issue_date": "2026-10-27",
+    "cluster_id": "vercel_com_ac2cc937",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5bdfb7ff070d07b5",
+    "canonical_url": "https://openai.com/index/greptile-code-review-codex-astra",
+    "dedupe_key": "53b49b004d146d5e",
+    "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+    "issue_date": "2026-10-27",
+    "cluster_id": "openai_com_510d479a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_22881df4b90a5207",
+    "canonical_url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+    "dedupe_key": "c4c4cf35f58dc684",
+    "title": "ChatGPT’s expanding world of work",
+    "issue_date": "2026-10-27",
+    "cluster_id": "openai_com_36293717",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_21f436a9d6c60ea8",
+    "canonical_url": "https://openai.com/index/openai-cut-incident-investigation",
+    "dedupe_key": "002dec89777e328c",
+    "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+    "issue_date": "2026-10-27",
+    "cluster_id": "openai_com_8dcd8b2c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_506739521f379fe6",
+    "canonical_url": "https://openai.com/index/introducing-gpt-6-1-terra",
+    "dedupe_key": "20ffd4bb33f75766",
+    "title": "Introducing GPT-6.1 Terra",
+    "issue_date": "2026-10-27",
+    "cluster_id": "openai_com_49071dc2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d649d3a81fa442fc",
+    "canonical_url": "https://developer.nvidia.com/blog/how-nvidia-minerva-turns-telemetry-chaos-into-peak-gpu-yield",
+    "dedupe_key": "834f8705b397cd79",
+    "title": "How NVIDIA Minerva Turns Telemetry Chaos Into Peak GPU Yield",
+    "issue_date": "2026-10-27",
+    "cluster_id": "developer_nvidia_com_d73c213a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_328de03efae2c806",
+    "canonical_url": "https://developer.nvidia.com/blog/how-nvidia-mission-control-2-5-brings-autonomous-recovery-to-kubernetes",
+    "dedupe_key": "b89aaa403e81e98a",
+    "title": "How NVIDIA Mission Control 2.5 Brings Autonomous Recovery to Kubernetes",
+    "issue_date": "2026-10-27",
+    "cluster_id": "developer_nvidia_com_87f8094a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a232f7e5d4d1caa1",
+    "canonical_url": "https://vercel.com/changelog/vercel-agent-can-now-validate-alerts-before-paging-you",
+    "dedupe_key": "c1d381d219dbc6d6",
+    "title": "Vercel Agent can now validate alerts before paging",
+    "issue_date": "2026-10-27",
+    "cluster_id": "vercel_com_b4622638",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3914ef6c2b4d6133",
+    "canonical_url": "https://vercel.com/changelog/vercel-sandbox-commands-now-support-stdin",
+    "dedupe_key": "e31955ed48e28090",
+    "title": "Vercel Sandbox commands now support stdin",
+    "issue_date": "2026-10-27",
+    "cluster_id": "vercel_com_d25d89d1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3cda2828a2cb444a",
+    "canonical_url": "https://vercel.com/changelog/create-custom-monitors-in-vercel-observability",
+    "dedupe_key": "e9e464baf93d2124",
+    "title": "Create custom monitors in Vercel Observability",
+    "issue_date": "2026-10-27",
+    "cluster_id": "vercel_com_2107d358",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ca1d2b95b2b8d55e",
+    "canonical_url": "https://vercel.com/changelog/customizable-widgets-for-project-cards",
+    "dedupe_key": "b8acd86309f69f1d",
+    "title": "Customizable widgets for project cards",
+    "issue_date": "2026-10-27",
+    "cluster_id": "vercel_com_cf6e970c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3491dad4496aa4c4",
+    "canonical_url": "https://vercel.com/changelog/faster-pnpm-installs",
+    "dedupe_key": "681f30eba0e4c866",
+    "title": "Faster pnpm installs",
+    "issue_date": "2026-10-27",
+    "cluster_id": "vercel_com_93eefd63",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_04e64307506459ed",
+    "canonical_url": "https://vercel.com/changelog/deleted-deployments-are-permanently-removed-sooner",
+    "dedupe_key": "ea367b3f5f81c799",
+    "title": "Deleted deployments are permanently removed sooner",
+    "issue_date": "2026-10-27",
+    "cluster_id": "vercel_com_a19558d7",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d6ace0a1420f90b1",
+    "canonical_url": "https://www.anthropic.com/news/s1-sec",
+    "dedupe_key": "28711e2b7dea3d56",
+    "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
+    "issue_date": "2026-10-27",
+    "cluster_id": "anthropic_com_2d77b4a2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1c555f6a688e8913",
+    "canonical_url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms",
+    "dedupe_key": "2e36a7e211ce8176",
+    "title": "The focus on AI safety disasters ignores everyday harms",
+    "issue_date": "2026-10-27",
+    "cluster_id": "technologyreview_com_c38ba157",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_86031c285a1e44df",
+    "canonical_url": "https://www.lennysnewsletter.com/p/how-i-ai-claude-duet-honest-review",
+    "dedupe_key": "3e6d822e6efcf320",
+    "title": "🎙️ How I AI: Claude Duet honest review + Why Reddit built its own AI prototyping tool",
+    "issue_date": "2026-10-27",
+    "cluster_id": "lennysnewsletter_com_f260a914",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
