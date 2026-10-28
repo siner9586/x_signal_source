@@ -1,8 +1,8 @@
 [
   {
-    "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-    "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-    "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+    "title": "Retell uses OpenAI models to help power 100M monthly calls",
+    "url": "https://openai.com/index/retell-ai",
+    "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
     "tags": [
       "ai_models",
       "official",
@@ -11,13 +11,43 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-10-27",
+    "date": "2026-10-28",
+    "score": 72
+  },
+  {
+    "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+    "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+    "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-10-28",
+    "score": 72
+  },
+  {
+    "title": "How Grupo Boticário uses AI to strengthen human connections",
+    "url": "https://openai.com/index/grupo-boticario",
+    "summary": "Almost 50 years after starting in a compounding pharmacy in Paraná, the group operates a proprietary agent platform that autonomously resolves up to 80% of resellers’ operational requests—enabling the sales force to take on an advisory role.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-10-28",
     "score": 70
   },
   {
-    "title": "Working with academic communities to build scientific understanding",
-    "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-    "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+    "title": "How Localiza reorganized work around generative AI",
+    "url": "https://openai.com/index/localiza-generative-ai",
+    "summary": "See how Localiza uses ChatGPT Enterprise, the OpenAI API, Codex, and 60+ specialized agents to reorganize work and build AI-native mobility experiences.",
     "tags": [
       "ai_models",
       "official",
@@ -26,27 +56,27 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-10-27",
+    "date": "2026-10-28",
+    "score": 70
+  },
+  {
+    "title": "HarnessAgent now supports image inputs for all harness adapters",
+    "url": "https://vercel.com/changelog/harness-agent-image-inputs",
+    "summary": "The AI SDK HarnessAgent layer now accepts image inputs across every harness adapter. Pass images alongside text in the standard AI SDK message format: a content array mixing { type: 'text' } and { type: 'file' } parts. Image input is processed by the harnesses' underlying vision models and supported across all available adapters: Claude Code, Cline, Codex, Cursor, Deep Agents, fx, GitHub Copilot, Grok Build, OpenCode, Pi. Read the HarnessAgent image inputs documentation to ge",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-10-28",
     "score": 69
   },
   {
-    "title": "Run Scale AI’s AgentEnv evals on Vercel Sandbox",
-    "url": "https://vercel.com/changelog/run-scale-ais-agentenv-evals-on-vercel-sandbox",
-    "summary": "AgentEnv , Scale AI's framework for testing agents against tasks and scoring their results, now runs on Vercel Sandbox . The Vercel provider ships in AgentEnv 0.9.1334 and later, and runs the agent and its task environment in separate Sandboxes. Try the AgentEnv example to run an evaluation on Vercel Sandbox and inspect the task’s score and the agent’s recorded actions. After completing the setup guide , run this command from the cloned repository. It uses your existing Verce",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-27",
-    "score": 69
-  },
-  {
-    "title": "How Fanatics and OpenAI streamline the fan experience",
-    "url": "https://openai.com/index/fanatics-streamline-fan-experience",
-    "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
+    "title": "How Check Point accelerates vulnerability research with Daybreak",
+    "url": "https://openai.com/index/check-point-daybreak",
+    "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
     "tags": [
       "ai_models",
       "official",
@@ -55,56 +85,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-10-27",
-    "score": 68
-  },
-  {
-    "title": "Discover 1000+ services on Vercel Connect from the CLI",
-    "url": "https://vercel.com/changelog/discover-1000-services-on-vercel-connect-from-the-cli",
-    "summary": "You and your agents can now browse and search more than 1000 services available in Vercel Connect without leaving your terminal. vercel connect discover searches by name, alias, keyword, and description. type: embedded-entry-inline id: H1F06IGrASdIU5HbPDOFM Results can be filtered by category, connection method (such as mcp or oauth ) or the product a service exposes. You can also limit results to services that forward webhook triggers. vercel connect categories lists the cat",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-27",
-    "score": 68
-  },
-  {
-    "title": "GPT-6.1 Terra now available on AI Gateway",
-    "url": "https://vercel.com/changelog/gpt-6-1-terra-now-available-on-ai-gateway",
-    "summary": "GPT-6.1 Terra from OpenAI is now available on AI Gateway . GPT-6.1 Terra is a fast model for visual reasoning, computer use, and writing, and it improves on the previous Terra model in visual reasoning, factual accuracy, and coding. It suits high-volume work in documents and desktop apps, such as filling out forms, interpreting technical drawings, or entering invoice details into accounting software. OpenAI still recommends its larger GPT-6 models for the most complex coding ",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-27",
-    "score": 68
-  },
-  {
-    "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-    "url": "https://openai.com/index/greptile-code-review-codex-astra",
-    "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-10-27",
+    "date": "2026-10-28",
     "score": 67
   },
   {
-    "title": "ChatGPT’s expanding world of work",
-    "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
-    "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
+    "title": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
+    "url": "https://openai.com/index/anima",
+    "summary": "Anima expands what care teams can do with OpenAI models, giving them more capacity to respond to patients.",
     "tags": [
       "ai_models",
       "official",
@@ -113,155 +100,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-10-27",
+    "date": "2026-10-28",
     "score": 67
   },
   {
-    "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-    "url": "https://openai.com/index/openai-cut-incident-investigation",
-    "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-10-27",
-    "score": 67
-  },
-  {
-    "title": "Introducing GPT-6.1 Terra",
-    "url": "https://openai.com/index/introducing-gpt-6-1-terra",
-    "summary": "Bringing fast and capable computer use to everyone",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-10-27",
-    "score": 67
-  },
-  {
-    "title": "How NVIDIA Minerva Turns Telemetry Chaos Into Peak GPU Yield",
-    "url": "https://developer.nvidia.com/blog/how-nvidia-minerva-turns-telemetry-chaos-into-peak-gpu-yield",
-    "summary": "NVIDIA Technical Blog · How NVIDIA Minerva Turns Telemetry Chaos Into Peak GPU Yield",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-10-27",
-    "score": 66
-  },
-  {
-    "title": "How NVIDIA Mission Control 2.5 Brings Autonomous Recovery to Kubernetes",
-    "url": "https://developer.nvidia.com/blog/how-nvidia-mission-control-2-5-brings-autonomous-recovery-to-kubernetes",
-    "summary": "NVIDIA Technical Blog · How NVIDIA Mission Control 2.5 Brings Autonomous Recovery to Kubernetes",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-10-27",
-    "score": 66
-  },
-  {
-    "title": "Vercel Agent can now validate alerts before paging",
-    "url": "https://vercel.com/changelog/vercel-agent-can-now-validate-alerts-before-paging-you",
-    "summary": "Vercel Agent can now investigate alerts from Vercel monitors before they reach your paging system. With validation enabled for a webhook destination, only alerts Agent classifies as Critical are sent to it. To enable validation: Open a monitor’s notification settings and create or link a webhook destination for your paging system, such as incident.io. Select Critical Only next to that destination. You can also configure notification destinations with the Vercel CLI using verc",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-27",
-    "score": 66
-  },
-  {
-    "title": "Vercel Sandbox commands now support stdin",
-    "url": "https://vercel.com/changelog/vercel-sandbox-commands-now-support-stdin",
-    "summary": "Vercel Sandbox now lets you send input to running commands through standard input (stdin). Use it to exchange messages with stdio MCP servers such as agent-browser , or send data to other command-line programs while they run. In the TypeScript SDK, set stdin: true and detached: true in runCommand() . Use writeStdin() to send input and closeStdin() when you’re done: You can also set stdin to a Node.js readable stream, such as process.stdin . The SDK forwards the stream’s data ",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-27",
-    "score": 66
-  },
-  {
-    "title": "Create custom monitors in Vercel Observability",
-    "url": "https://vercel.com/changelog/create-custom-monitors-in-vercel-observability",
-    "summary": "You can now create custom monitors to get alerts based on your Vercel Observability query results. For example, you can track signals such as AI Gateway costs, Core Web Vitals and other performance metrics, Workflow and external API failure rates, or Vercel Sandbox CPU time. Each monitor tracks a single metric, such as response time, or a ratio of two metrics, such as errors divided by total requests. Choose statistical anomaly detection or a fixed threshold, then configure t",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-27",
-    "score": 63
-  },
-  {
-    "title": "Customizable widgets for project cards",
-    "url": "https://vercel.com/changelog/customizable-widgets-for-project-cards",
-    "summary": "The Overview tab in the dashboard now lets you choose which metric appears on each project card. Project cards used to show a fixed Real Experience Score in the top right, but not everyone on your team watches the same signal. You can now swap that slot for whichever metric matters for that project. A security-sensitive project can show firewall activity, while a marketing site project shows traffic. Available widgets Firewall: allowed requests, denied requests Observability:",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-27",
-    "score": 63
-  },
-  {
-    "title": "Faster pnpm installs",
-    "url": "https://vercel.com/changelog/faster-pnpm-installs",
-    "summary": "pnpm installs on Vercel are now faster, reducing the time spent installing dependencies before your build. For Pro deployments with restored build cache, we observed 14% lower average install times with the optimization enabled. Vercel now reuses successful dependency verification across deployments. In the best case, when dependencies are unchanged and the previous verification can be reused, installs can complete in milliseconds. Before: type: embedded-entry-inline id: 4AGN",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-27",
-    "score": 63
-  },
-  {
-    "title": "Deleted deployments are permanently removed sooner",
-    "url": "https://vercel.com/changelog/deleted-deployments-are-permanently-removed-sooner",
-    "summary": "Deployments deleted before they are 30 days old now have a shorter recovery period before permanent deletion. As developers deploy more frequently on Vercel, this reduces the buildup of old deployments on the Recently Deleted page. For successfully built deployments, the recovery period is the time you have to restore them after deletion: When the deployment is deleted Time to restore after deletion By retention policy before it reaches 30 days old Same length as the policy. ",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-27",
-    "score": 63
-  },
-  {
-    "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
-    "url": "https://www.anthropic.com/news/s1-sec",
-    "summary": "Newsroom \\ Anthropic · Anthropic files S-1 with the SEC for proposed initial public offering",
+    "title": "Early progress on accelerating drug development with Claude We&#x27;re at the start of a major effort to speed up drug development with Claude. Over the past several months, our scientists have engaged in deep research partnerships with six organizations developing new medicines.",
+    "url": "https://www.anthropic.com/research/early-progress-drug-development",
+    "summary": "Newsroom \\ Anthropic · Early progress on accelerating drug development with Claude We&#x27;re at the start of a major effort to speed up drug development with Claude. Over the past several months, our scientists have engaged in deep research partnerships with six organizations developing new medicines.",
     "tags": [
       "ai_models",
       "safety",
@@ -269,27 +114,222 @@
     ],
     "author": "Anthropic",
     "source": "anthropic.com",
-    "date": "2026-10-27",
-    "score": 62
+    "date": "2026-10-28",
+    "score": 66
   },
   {
-    "title": "The focus on AI safety disasters ignores everyday harms",
-    "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms",
-    "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along. But companies can clear these low bars while continuing to make products&#8230;",
+    "title": "Genie 4: A new generation of world simulation",
+    "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation",
+    "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
     "tags": [
-      "ai",
       "research",
-      "society"
+      "multimodal",
+      "science",
+      "official"
     ],
-    "author": "MIT Technology Review AI",
-    "source": "technologyreview.com",
-    "date": "2026-10-27",
+    "author": "Google DeepMind",
+    "source": "deepmind.google",
+    "date": "2026-10-28",
+    "score": 66
+  },
+  {
+    "title": "Memory-Enforced GPU Sharing in Kubernetes with NVIDIA CUDA 13.4",
+    "url": "https://developer.nvidia.com/blog/memory-enforced-gpu-sharing-in-kubernetes-with-nvidia-cuda-13-4",
+    "summary": "NVIDIA Technical Blog · Memory-Enforced GPU Sharing in Kubernetes with NVIDIA CUDA 13.4",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-10-28",
+    "score": 66
+  },
+  {
+    "title": "NVIDIA RTX Spark Powers Neural Rendering and AI Characters in Games",
+    "url": "https://developer.nvidia.com/blog/nvidia-rtx-spark-powers-neural-rendering-and-ai-characters-in-games",
+    "summary": "NVIDIA Technical Blog · NVIDIA RTX Spark Powers Neural Rendering and AI Characters in Games",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-10-28",
+    "score": 66
+  },
+  {
+    "title": "Fine-Tuning NVIDIA Nemotron to Know Local Rules, Not Just Local Languages",
+    "url": "https://developer.nvidia.com/blog/fine-tuning-nvidia-nemotron-to-know-local-rules-not-just-local-languages",
+    "summary": "NVIDIA Technical Blog · Fine-Tuning NVIDIA Nemotron to Know Local Rules, Not Just Local Languages",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-10-28",
+    "score": 66
+  },
+  {
+    "title": "3 Ways to Boost MoE Inference on NVIDIA DGX Spark",
+    "url": "https://developer.nvidia.com/blog/3-ways-to-boost-moe-inference-on-nvidia-dgx-spark",
+    "summary": "NVIDIA Technical Blog · 3 Ways to Boost MoE Inference on NVIDIA DGX Spark",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-10-28",
+    "score": 66
+  },
+  {
+    "title": "Vercel Plugin now available in OpenCode",
+    "url": "https://vercel.com/changelog/vercel-plugin-now-available-in-opencode",
+    "summary": "The Vercel Plugin is now available in OpenCode . The plugin provides on-demand guidance on Vercel APIs and recommended patterns, with skills for AI SDK, Vercel Functions, Workflow, and more. It also includes specialist agents for deployment, performance optimization, and AI application design. Use /vercel:deploy to deploy projects and /vercel:env to manage environment variables. The plugin requires OpenCode 2. To install it, run this command in your terminal: Then run /mcps i",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-10-28",
+    "score": 66
+  },
+  {
+    "title": "Deploy a container from a plain Dockerfile",
+    "url": "https://vercel.com/changelog/deploy-a-container-from-a-plain-dockerfile",
+    "summary": "You can now deploy a plain root Dockerfile or Containerfile on Vercel's Container runtime when no other framework is detected. Vercel selects the Container preset, builds that file, and routes all traffic to the resulting image. To get started with containers on Vercel, add a Dockerfile: When project detection matches another framework, such as Django, that framework still wins. To build use the Dockerfile or Containerfile instead, run vercel project update --framework contai",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-10-28",
+    "score": 66
+  },
+  {
+    "title": "Vercel Agent sessions now cost 67% less",
+    "url": "https://vercel.com/changelog/vercel-agent-sessions-now-cost-67-percent-less",
+    "summary": "Vercel Agent sessions in the dashboard and Slack now cost 67% less on average. We rebuilt how Agent manages context, reducing the tokens needed per session and improving prompt-cache reuse. These improvements are live and require no action. What changed: Workflow-based CLI skills: Updated Vercel CLI skills give agents clearer guidance for common workflows and error recovery. Other agents using these skills also benefit. Incremental context management: Agent manages context mo",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-10-28",
+    "score": 66
+  },
+  {
+    "title": "Can we trust LLMs to judge whether a research idea is novel?",
+    "url": "https://huggingface.co/blog/allenai/novelty-bench",
+    "summary": "Can we trust LLMs to judge whether a research idea is novel? 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-10-28",
+    "score": 65
+  },
+  {
+    "title": "How We Built Our Design Agent",
+    "url": "https://www.langchain.com/blog/design-agent",
+    "summary": "How LangChain built Content Studio, an open-source design agent in Slack that makes on-brand videos, graphics and decks, and the harness that powers it.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-10-28",
+    "score": 65
+  },
+  {
+    "title": "What shoppers choose once they’ve tried a retail AI agent",
+    "url": "https://elevenlabs.io/blog/retail-ai-agents",
+    "summary": "Retail is becoming conversational. People consistently choose speaking over typing on every shopping task. Dive into the data in this article.",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-10-28",
+    "score": 64
+  },
+  {
+    "title": "ElevenLabs on AI Gateway",
+    "url": "https://vercel.com/blog/elevenlabs-on-ai-gateway",
+    "summary": "Vercel and ElevenLabs are partnering to bring 14 ElevenLabs models to AI Gateway . To celebrate the launch, all ElevenLabs models are 50% off on AI Gateway for the first 14 days, through November 9th. AI Gateway supports six different types of ElevenLabs audio models: Speech to text: Transcribe recordings or caption live audio as people speak. Streaming text to speech: Start playing audio while a language model is still writing its reply, so users don't have to wait for the f",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-10-28",
+    "score": 63
+  },
+  {
+    "title": "AI traffic insights now available in Vercel Observability",
+    "url": "https://vercel.com/changelog/ai-traffic-insights-now-available-in-vercel-observability",
+    "summary": "You can now query AI traffic in Vercel Observability to understand how AI bots are accessing your site. AI traffic insights show: Requests by verified AI bot: how many requests each bot makes Most-crawled pages: pages most frequently requested by AI crawlers for indexing or model training Assistant retrievals: pages AI assistants fetch in response to user actions or search queries Markdown requests: pages AI bots request in Markdown format Errors: pages where requests from AI",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-10-28",
+    "score": 63
+  },
+  {
+    "title": "Build specialized multimodal models with LFM3",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+    "summary": "Build specialized multimodal models with LFM3 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-10-28",
+    "score": 63
+  },
+  {
+    "title": "Product · Oct 27, 2026 Your next sales teammate should be a Grok Bot",
+    "url": "https://x.ai/news/grok-bot-sales",
+    "summary": "SpaceXSI · Product · Oct 27, 2026 Your next sales teammate should be a Grok Bot",
+    "tags": [
+      "ai_models",
+      "reasoning"
+    ],
+    "author": "xAI",
+    "source": "x.ai",
+    "date": "2026-10-28",
     "score": 62
   },
   {
-    "title": "🎙️ How I AI: Claude Duet honest review + Why Reddit built its own AI prototyping tool",
-    "url": "https://www.lennysnewsletter.com/p/how-i-ai-claude-duet-honest-review",
-    "summary": "Your weekly listens from How I AI, part of the Lenny&#8217;s Podcast Network",
+    "title": "Why Reddit built its own AI prototyping tool | Blair Metcalf",
+    "url": "https://www.lennysnewsletter.com/p/why-reddit-built-its-own-ai-prototyping",
+    "summary": "Watch now (30 mins) | &#127897;&#65039; Reddit&#8217;s principal UX engineer shows how a custom Figma MCP and Cursor pipeline takes any designer from blank slate to shareable, production-shaped prototype in minutes&#8212;no Git required",
     "tags": [
       "product",
       "growth",
@@ -297,7 +337,7 @@
     ],
     "author": "Lenny's Newsletter",
     "source": "lennysnewsletter.com",
-    "date": "2026-10-27",
+    "date": "2026-10-28",
     "score": 62
   }
 ]

@@ -27206,5 +27206,245 @@
     "cluster_id": "lennysnewsletter_com_f260a914",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_71be9ae592fea08b",
+    "canonical_url": "https://openai.com/index/retell-ai",
+    "dedupe_key": "3e16efc44112c76e",
+    "title": "Retell uses OpenAI models to help power 100M monthly calls",
+    "issue_date": "2026-10-28",
+    "cluster_id": "openai_com_b8ca5c17",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4986764d668a3c53",
+    "canonical_url": "https://openai.com/index/oracle-apps-in-chatgpt",
+    "dedupe_key": "52f602d06e901b88",
+    "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+    "issue_date": "2026-10-28",
+    "cluster_id": "openai_com_a72ccaf2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_54e3146e45cdfdca",
+    "canonical_url": "https://openai.com/index/grupo-boticario",
+    "dedupe_key": "801a2a3c80cbfcb8",
+    "title": "How Grupo Boticário uses AI to strengthen human connections",
+    "issue_date": "2026-10-28",
+    "cluster_id": "openai_com_aa023552",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9faf20345954b5ac",
+    "canonical_url": "https://openai.com/index/localiza-generative-ai",
+    "dedupe_key": "ec4cdc16fe691c89",
+    "title": "How Localiza reorganized work around generative AI",
+    "issue_date": "2026-10-28",
+    "cluster_id": "openai_com_3cfc3263",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_500f5bd6dc9bf3b0",
+    "canonical_url": "https://vercel.com/changelog/harness-agent-image-inputs",
+    "dedupe_key": "f28440828245f0fe",
+    "title": "HarnessAgent now supports image inputs for all harness adapters",
+    "issue_date": "2026-10-28",
+    "cluster_id": "vercel_com_f73f11b2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_dbcaf2e1851918dd",
+    "canonical_url": "https://openai.com/index/check-point-daybreak",
+    "dedupe_key": "2a3cea5fb9a6b0d2",
+    "title": "How Check Point accelerates vulnerability research with Daybreak",
+    "issue_date": "2026-10-28",
+    "cluster_id": "openai_com_c10c54ee",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a5609daeb1b8aef0",
+    "canonical_url": "https://openai.com/index/anima",
+    "dedupe_key": "6b9cd4dd6c3c49cf",
+    "title": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
+    "issue_date": "2026-10-28",
+    "cluster_id": "openai_com_c6df2909",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7b655f6f9fee3f9f",
+    "canonical_url": "https://www.anthropic.com/research/early-progress-drug-development",
+    "dedupe_key": "55e544d1a09b6716",
+    "title": "Early progress on accelerating drug development with Claude We&#x27;re at the start of a major effort to speed up drug development with Claude. Over the past several months, our scientists have engaged in deep research partnerships with six organizations developing new medicines.",
+    "issue_date": "2026-10-28",
+    "cluster_id": "anthropic_com_760432d6",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ebf88e040673c4af",
+    "canonical_url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation",
+    "dedupe_key": "3e149bffd653d9aa",
+    "title": "Genie 4: A new generation of world simulation",
+    "issue_date": "2026-10-28",
+    "cluster_id": "deepmind_google_31db8f41",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a099e63fd61b9dc9",
+    "canonical_url": "https://developer.nvidia.com/blog/memory-enforced-gpu-sharing-in-kubernetes-with-nvidia-cuda-13-4",
+    "dedupe_key": "5ab96f42be248df2",
+    "title": "Memory-Enforced GPU Sharing in Kubernetes with NVIDIA CUDA 13.4",
+    "issue_date": "2026-10-28",
+    "cluster_id": "developer_nvidia_com_531a84c1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f865f3967c695ebf",
+    "canonical_url": "https://developer.nvidia.com/blog/nvidia-rtx-spark-powers-neural-rendering-and-ai-characters-in-games",
+    "dedupe_key": "57b42ee788b46913",
+    "title": "NVIDIA RTX Spark Powers Neural Rendering and AI Characters in Games",
+    "issue_date": "2026-10-28",
+    "cluster_id": "developer_nvidia_com_1b71e3c6",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_23d7ddc5a1f1c1fa",
+    "canonical_url": "https://developer.nvidia.com/blog/fine-tuning-nvidia-nemotron-to-know-local-rules-not-just-local-languages",
+    "dedupe_key": "3701033b15a09389",
+    "title": "Fine-Tuning NVIDIA Nemotron to Know Local Rules, Not Just Local Languages",
+    "issue_date": "2026-10-28",
+    "cluster_id": "developer_nvidia_com_a79681a5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_14206ba4efb643f3",
+    "canonical_url": "https://developer.nvidia.com/blog/3-ways-to-boost-moe-inference-on-nvidia-dgx-spark",
+    "dedupe_key": "b7371b8618350eac",
+    "title": "3 Ways to Boost MoE Inference on NVIDIA DGX Spark",
+    "issue_date": "2026-10-28",
+    "cluster_id": "developer_nvidia_com_2e85f70e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1b9d92de12dbe393",
+    "canonical_url": "https://vercel.com/changelog/vercel-plugin-now-available-in-opencode",
+    "dedupe_key": "6a9b56e34cc687a3",
+    "title": "Vercel Plugin now available in OpenCode",
+    "issue_date": "2026-10-28",
+    "cluster_id": "vercel_com_fcf94c4a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c63faf3534bf52d9",
+    "canonical_url": "https://vercel.com/changelog/deploy-a-container-from-a-plain-dockerfile",
+    "dedupe_key": "f6f0daecdb6251d6",
+    "title": "Deploy a container from a plain Dockerfile",
+    "issue_date": "2026-10-28",
+    "cluster_id": "vercel_com_d62fbf2b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7d903f3b6728a55c",
+    "canonical_url": "https://vercel.com/changelog/vercel-agent-sessions-now-cost-67-percent-less",
+    "dedupe_key": "6d0648cd4e2b6ecb",
+    "title": "Vercel Agent sessions now cost 67% less",
+    "issue_date": "2026-10-28",
+    "cluster_id": "vercel_com_2c01af00",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_67b7131b10b5927b",
+    "canonical_url": "https://huggingface.co/blog/allenai/novelty-bench",
+    "dedupe_key": "7f144c71b3709d4f",
+    "title": "Can we trust LLMs to judge whether a research idea is novel?",
+    "issue_date": "2026-10-28",
+    "cluster_id": "huggingface_co_3c6f91dd",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2dd9631c94222711",
+    "canonical_url": "https://www.langchain.com/blog/design-agent",
+    "dedupe_key": "b929081e8e4899d1",
+    "title": "How We Built Our Design Agent",
+    "issue_date": "2026-10-28",
+    "cluster_id": "langchain_com_4ef47801",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_484caf97f301a377",
+    "canonical_url": "https://elevenlabs.io/blog/retail-ai-agents",
+    "dedupe_key": "03a5003288a73db5",
+    "title": "What shoppers choose once they’ve tried a retail AI agent",
+    "issue_date": "2026-10-28",
+    "cluster_id": "elevenlabs_io_13aa1c7c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_99345cb8614eedd5",
+    "canonical_url": "https://vercel.com/blog/elevenlabs-on-ai-gateway",
+    "dedupe_key": "03cf77c6f8b76fdd",
+    "title": "ElevenLabs on AI Gateway",
+    "issue_date": "2026-10-28",
+    "cluster_id": "vercel_com_bccaea47",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_947c12b00a1f0cc5",
+    "canonical_url": "https://vercel.com/changelog/ai-traffic-insights-now-available-in-vercel-observability",
+    "dedupe_key": "0dfa5bbdfd356b53",
+    "title": "AI traffic insights now available in Vercel Observability",
+    "issue_date": "2026-10-28",
+    "cluster_id": "vercel_com_d38aae22",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e31f274057cd1cee",
+    "canonical_url": "https://huggingface.co/blog/LiquidAI/lfm3",
+    "dedupe_key": "76781ea8a79c6164",
+    "title": "Build specialized multimodal models with LFM3",
+    "issue_date": "2026-10-28",
+    "cluster_id": "huggingface_co_79d5bebb",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0cc3f9610f387bbd",
+    "canonical_url": "https://x.ai/news/grok-bot-sales",
+    "dedupe_key": "7151caaf0dfacd6e",
+    "title": "Product · Oct 27, 2026 Your next sales teammate should be a Grok Bot",
+    "issue_date": "2026-10-28",
+    "cluster_id": "x_ai_76e03077",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3014f8665d8916fd",
+    "canonical_url": "https://www.lennysnewsletter.com/p/why-reddit-built-its-own-ai-prototyping",
+    "dedupe_key": "0011e26ed35f5736",
+    "title": "Why Reddit built its own AI prototyping tool | Blair Metcalf",
+    "issue_date": "2026-10-28",
+    "cluster_id": "lennysnewsletter_com_53ba66ba",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
