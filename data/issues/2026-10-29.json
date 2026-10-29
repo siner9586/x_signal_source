@@ -1,0 +1,4209 @@
+{
+  "metadata": {
+    "issue_date": "2026-10-29",
+    "generated_at": "2026-10-29T00:37:29.352Z",
+    "timezone": "Asia/Shanghai",
+    "source_mode": "live_fetch_only",
+    "strict_new_only": true,
+    "sources_scanned": 118,
+    "fetch_jobs": 224,
+    "candidates_count": 1149,
+    "selected_count": 24,
+    "duplicates_blocked": 1106,
+    "stale_candidates_blocked": 0,
+    "fetch_failures": 80,
+    "no_new_content": false,
+    "initial_source_index": false
+  },
+  "summary": {
+    "one_liner": "本期由每日自动流水线生成：仅展示当日 live fetch 抓取、且未在历史期展示过的新内容。",
+    "trends": [
+      "AI Agent",
+      "AI Coding",
+      "AI Infra",
+      "Research",
+      "Startup / Investment"
+    ],
+    "watch_next": [
+      "公开 RSS / Atom / HTML 新条目",
+      "GitHub releases 与技术博客",
+      "人工维护 X Article / Thread seed list",
+      "播客长访谈中的一手判断"
+    ]
+  },
+  "must_read": [],
+  "worth_reading": [
+    {
+      "id": "cand_7a771847d01bd889",
+      "canonical_url": "https://vercel.com/changelog/virtual-models-now-available-on-ai-gateway",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Virtual models now available on AI Gateway",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-10-28T00:00:00.000Z",
+      "captured_at": "2026-10-29T00:37:22.732Z",
+      "captured_issue": "2026-10-29",
+      "summary": "Virtual models are now available on AI Gateway . A virtual model is a saved configuration that tells AI Gateway which model and settings to use. Your apps and agents call it with a custom model ID, such as vmc/coding-agent . You can change the model or settings centrally in AI Gateway without redeploying your apps or reconfiguring your agents. Use virtual models to: Configure coding agents: Set reasoning effort, fast mode, prompt caching, and other options even when your agen",
+      "excerpt": "Virtual models are now available on AI Gateway . A virtual model is a saved configuration that tells AI Gateway which model and settings to use. Your apps and agents call it with a custom model ID, such as vmc/coding-agent . You can change the model or settings centrally in AI Gateway without redeploying your apps or reconfiguring your agents. Use virtual models to: Configure coding agents: Set reasoning effort, fast mode, prompt caching, and other options even when your agen",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/changelog/virtual-models-now-available-on-ai-gateway",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 93,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 98,
+      "total_score": 71,
+      "rank": 24,
+      "cluster_id": "vercel_com_e7b0e75c",
+      "dedupe_key": "750405730281257d",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Virtual models now available on AI Gateway 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-29",
+      "last_seen_issue": "2026-10-29",
+      "used_in_issue": "2026-10-29"
+    },
+    {
+      "id": "cand_3b9863b47bbf991e",
+      "canonical_url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "source_url": "https://openai.com/news/rss.xml",
+      "source_fetch_url": "https://openai.com/news/rss.xml",
+      "source_platform": "web",
+      "source_domain": "openai.com",
+      "source_name": "OpenAI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "subtitle": "官方发布、研究、模型与开发者文档优先来源。",
+      "author": "OpenAI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "OpenAI",
+      "language": "unknown",
+      "published_at": "Wed, 28 Oct 2026 13:15:00 GMT",
+      "captured_at": "2026-10-29T00:37:17.133Z",
+      "captured_issue": "2026-10-29",
+      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+      "excerpt": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+      "raw_text_available": false,
+      "topics": [
+        "Research"
+      ],
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://openai.com/index/openai-servicenow-partnership-expansion",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news",
+        "https://x.com/OpenAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 50,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 98,
+      "total_score": 70,
+      "rank": 27,
+      "cluster_id": "openai_com_56b230b1",
+      "dedupe_key": "14ed24e75f7af7a8",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：OpenAI and ServiceNow expand partnership across enterprise workflows 来自 OpenAI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-29",
+      "last_seen_issue": "2026-10-29",
+      "used_in_issue": "2026-10-29"
+    },
+    {
+      "id": "cand_9979e3b125fcc800",
+      "canonical_url": "https://openai.com/index/legora",
+      "source_url": "https://openai.com/news/rss.xml",
+      "source_fetch_url": "https://openai.com/news/rss.xml",
+      "source_platform": "web",
+      "source_domain": "openai.com",
+      "source_name": "OpenAI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Legora is building the agentic operating system for legal work",
+      "subtitle": "官方发布、研究、模型与开发者文档优先来源。",
+      "author": "OpenAI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "OpenAI",
+      "language": "unknown",
+      "published_at": "Wed, 28 Oct 2026 09:30:00 GMT",
+      "captured_at": "2026-10-29T00:37:17.133Z",
+      "captured_issue": "2026-10-29",
+      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+      "excerpt": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+      "raw_text_available": false,
+      "topics": [
+        "Research"
+      ],
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://openai.com/index/legora",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news",
+        "https://x.com/OpenAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 50,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 98,
+      "total_score": 70,
+      "rank": 28,
+      "cluster_id": "openai_com_b80d7207",
+      "dedupe_key": "d5178ba5361355c2",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Legora is building the agentic operating system for legal work 来自 OpenAI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-29",
+      "last_seen_issue": "2026-10-29",
+      "used_in_issue": "2026-10-29"
+    },
+    {
+      "id": "cand_30324a2fd8fd67e9",
+      "canonical_url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents",
+      "source_url": "https://github.blog/feed",
+      "source_fetch_url": "https://github.blog/feed",
+      "source_platform": "web",
+      "source_domain": "github.blog",
+      "source_name": "GitHub Copilot",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
+      "subtitle": "",
+      "author": "GitHub Copilot",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "GitHub Copilot",
+      "language": "unknown",
+      "published_at": "Wed, 28 Oct 2026 16:07:40 +0000",
+      "captured_at": "2026-10-29T00:37:22.435Z",
+      "captured_issue": "2026-10-29",
+      "summary": "See how a record year of growth reached every industry, every field, and every kind of builder in the 2026 Octoverse report. The post Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents appeared first on The GitHub Blog .",
+      "excerpt": "See how a record year of growth reached every industry, every field, and every kind of builder in the 2026 Octoverse report. The post Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents appeared first on The GitHub Blog .",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "ai_coding",
+        "developer_tools"
+      ],
+      "entities": [
+        "GitHub Copilot"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [
+        "https://github.com/features/copilot"
+      ],
+      "evidence_links": [
+        "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents",
+        "https://github.blog/feed",
+        "https://github.com/features/copilot",
+        "https://github.blog",
+        "https://x.com/github"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 66,
+      "originality_score": 38,
+      "trend_score": 69,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 70,
+      "rank": 53,
+      "cluster_id": "github_blog_0554d35f",
+      "dedupe_key": "04d308237341f17e",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents 来自 GitHub Copilot 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-29",
+      "last_seen_issue": "2026-10-29",
+      "used_in_issue": "2026-10-29"
+    }
+  ],
+  "signal_watch": [
+    {
+      "id": "cand_446c86d7272269fb",
+      "canonical_url": "https://vercel.com/changelog/vercel-ci-is-now-in-beta",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Vercel CI is now in beta",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-10-28T19:00:00.000Z",
+      "captured_at": "2026-10-29T00:37:22.731Z",
+      "captured_issue": "2026-10-29",
+      "summary": "You can now run CI for your Turborepo with one line of configuration. In Vercel's internal repositories, our wait time from git push to \"CI passed\" is 2-6x shorter, dramatically improving our CI's ability to keep up with our coding agents. To get started, prompt your agent in your repo: Each task marked with a ci tag runs on every push. Vercel CI automatically takes care of: Only running CI that is affected by your code changes Task caching with Vercel Remote Cache Installing",
+      "excerpt": "You can now run CI for your Turborepo with one line of configuration. In Vercel's internal repositories, our wait time from git push to \"CI passed\" is 2-6x shorter, dramatically improving our CI's ability to keep up with our coding agents. To get started, prompt your agent in your repo: Each task marked with a ci tag runs on every push. Vercel CI automatically takes care of: Only running CI that is affected by your code changes Task caching with Vercel Remote Cache Installing",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/changelog/vercel-ci-is-now-in-beta",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 81,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 98,
+      "total_score": 69,
+      "rank": 80,
+      "cluster_id": "vercel_com_4c55c27f",
+      "dedupe_key": "0c0bd85bd2130d7d",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Vercel CI is now in beta 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-29",
+      "last_seen_issue": "2026-10-29",
+      "used_in_issue": "2026-10-29"
+    },
+    {
+      "id": "cand_d75c9c13c58d1dba",
+      "canonical_url": "https://vercel.com/changelog/vercel-container-registry-now-supports-2-gb-compressed-image-layers-new",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Vercel Container Registry now supports 2 GB compressed image layers",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-10-28T09:32:00.000Z",
+      "captured_at": "2026-10-29T00:37:22.731Z",
+      "captured_issue": "2026-10-29",
+      "summary": "Vercel Container Registry now supports up to 2 GB per compressed image layer, up from 500 MB, allowing larger layers to be pushed without splitting them. The total image size limit remains 15 GB. The higher layer limit is useful for images with large toolchains or dependency sets, such as custom Vercel Sandbox environments for coding-agent evaluations. With Docker and the Vercel CLI installed, run these commands from the directory containing your Dockerfile: Read the Vercel C",
+      "excerpt": "Vercel Container Registry now supports up to 2 GB per compressed image layer, up from 500 MB, allowing larger layers to be pushed without splitting them. The total image size limit remains 15 GB. The higher layer limit is useful for images with large toolchains or dependency sets, such as custom Vercel Sandbox environments for coding-agent evaluations. With Docker and the Vercel CLI installed, run these commands from the directory containing your Dockerfile: Read the Vercel C",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/changelog/vercel-container-registry-now-supports-2-gb-compressed-image-layers-new",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 81,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 98,
+      "total_score": 69,
+      "rank": 81,
+      "cluster_id": "vercel_com_a265b042",
+      "dedupe_key": "dbfcf647c136fbaa",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Vercel Container Registry now supports 2 GB compressed image layers 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-29",
+      "last_seen_issue": "2026-10-29",
+      "used_in_issue": "2026-10-29"
+    },
+    {
+      "id": "cand_fdcd6c2ca737193a",
+      "canonical_url": "https://vercel.com/blog/introducing-vercel-ci",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Introducing Vercel CI",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-10-28T07:00:00.000Z",
+      "captured_at": "2026-10-29T00:37:22.731Z",
+      "captured_issue": "2026-10-29",
+      "summary": "Coding agents are opening more pull requests than ever, and each one waits on CI before anyone can review or merge it. Most CI systems run the entire workflow on every push, even a one-line change. The more your agents push, the more time you spend waiting on CI. Today, we're announcing Vercel CI in Beta. It runs only the tasks affected by your code change, and spins up only the compute those checks need, the same way Fluid compute scales with your traffic. At Vercel, our CI ",
+      "excerpt": "Coding agents are opening more pull requests than ever, and each one waits on CI before anyone can review or merge it. Most CI systems run the entire workflow on every push, even a one-line change. The more your agents push, the more time you spend waiting on CI. Today, we're announcing Vercel CI in Beta. It runs only the tasks affected by your code change, and spins up only the compute those checks need, the same way Fluid compute scales with your traffic. At Vercel, our CI ",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/blog/introducing-vercel-ci",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 81,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 98,
+      "total_score": 69,
+      "rank": 82,
+      "cluster_id": "vercel_com_01fb4c43",
+      "dedupe_key": "2f5bd08f89146cfd",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Introducing Vercel CI 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-29",
+      "last_seen_issue": "2026-10-29",
+      "used_in_issue": "2026-10-29"
+    },
+    {
+      "id": "cand_2b4c0bd8fd30642f",
+      "canonical_url": "https://vercel.com/changelog/fx-is-now-available-in-t3-code",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "fx is now available in T3 Code",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-10-28T00:00:00.000Z",
+      "captured_at": "2026-10-29T00:37:22.732Z",
+      "captured_issue": "2026-10-29",
+      "summary": "You can now use fx , our open-source coding agent harness, in T3 Code on web, desktop, and mobile. T3 Code is an open-source control plane for coding agents, allowing you to add agents like fx as providers for your coding sessions. The built-in fx provider supports Supervised and Auto modes, along with the models and skills you already use with fx. Get started by installing fx and setting up your model provider . Then download T3 Code and add fx from Settings > Providers > Ad",
+      "excerpt": "You can now use fx , our open-source coding agent harness, in T3 Code on web, desktop, and mobile. T3 Code is an open-source control plane for coding agents, allowing you to add agents like fx as providers for your coding sessions. The built-in fx provider supports Supervised and Auto modes, along with the models and skills you already use with fx. Get started by installing fx and setting up your model provider . Then download T3 Code and add fx from Settings > Providers > Ad",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/changelog/fx-is-now-available-in-t3-code",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 81,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 98,
+      "total_score": 69,
+      "rank": 83,
+      "cluster_id": "vercel_com_41e5ae35",
+      "dedupe_key": "3bb053bd321f3108",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：fx is now available in T3 Code 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-29",
+      "last_seen_issue": "2026-10-29",
+      "used_in_issue": "2026-10-29"
+    },
+    {
+      "id": "cand_5581abc8796325f1",
+      "canonical_url": "https://openai.com/index/the-future-of-the-firm",
+      "source_url": "https://openai.com/news/rss.xml",
+      "source_fetch_url": "https://openai.com/news/rss.xml",
+      "source_platform": "web",
+      "source_domain": "openai.com",
+      "source_name": "OpenAI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "The future of the firm",
+      "subtitle": "官方发布、研究、模型与开发者文档优先来源。",
+      "author": "OpenAI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "OpenAI",
+      "language": "unknown",
+      "published_at": "Wed, 28 Oct 2026 10:00:00 GMT",
+      "captured_at": "2026-10-29T00:37:17.133Z",
+      "captured_issue": "2026-10-29",
+      "summary": "How AI might enter the org chart—beneath, beside, and between us.",
+      "excerpt": "How AI might enter the org chart—beneath, beside, and between us.",
+      "raw_text_available": false,
+      "topics": [
+        "Research"
+      ],
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://openai.com/index/the-future-of-the-firm",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news",
+        "https://x.com/OpenAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 50,
+      "trend_score": 45,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 67,
+      "rank": 169,
+      "cluster_id": "openai_com_69674d88",
+      "dedupe_key": "43d7a13d813209f3",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：The future of the firm 来自 OpenAI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-29",
+      "last_seen_issue": "2026-10-29",
+      "used_in_issue": "2026-10-29"
+    },
+    {
+      "id": "cand_86ab366e7d625706",
+      "canonical_url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack",
+      "source_url": "https://github.blog/feed",
+      "source_fetch_url": "https://github.blog/feed",
+      "source_platform": "web",
+      "source_domain": "github.blog",
+      "source_name": "GitHub Copilot",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "GitHub Universe 2026: Evolving every layer of the stack",
+      "subtitle": "",
+      "author": "GitHub Copilot",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "GitHub Copilot",
+      "language": "unknown",
+      "published_at": "Wed, 28 Oct 2026 16:09:28 +0000",
+      "captured_at": "2026-10-29T00:37:22.435Z",
+      "captured_issue": "2026-10-29",
+      "summary": "Today, we laid out our vision for GitHub as the most comprehensive, end-to-end software delivery system in the world. The post GitHub Universe 2026: Evolving every layer of the stack appeared first on The GitHub Blog .",
+      "excerpt": "Today, we laid out our vision for GitHub as the most comprehensive, end-to-end software delivery system in the world. The post GitHub Universe 2026: Evolving every layer of the stack appeared first on The GitHub Blog .",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "ai_coding",
+        "developer_tools"
+      ],
+      "entities": [
+        "GitHub Copilot"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [
+        "https://github.com/features/copilot"
+      ],
+      "evidence_links": [
+        "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack",
+        "https://github.blog/feed",
+        "https://github.com/features/copilot",
+        "https://github.blog",
+        "https://x.com/github"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 66,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 74,
+      "total_score": 67,
+      "rank": 308,
+      "cluster_id": "github_blog_24c8f011",
+      "dedupe_key": "da5c3b5f9ffa2425",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：GitHub Universe 2026: Evolving every layer of the stack 来自 GitHub Copilot 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-29",
+      "last_seen_issue": "2026-10-29",
+      "used_in_issue": "2026-10-29"
+    },
+    {
+      "id": "cand_92526c01061b302e",
+      "canonical_url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+      "source_url": "https://www.anthropic.com/news",
+      "source_fetch_url": "https://www.anthropic.com/news",
+      "source_platform": "web",
+      "source_domain": "anthropic.com",
+      "source_name": "Anthropic",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "AI for Science expands to foundations and research institutions",
+      "subtitle": "",
+      "author": "Anthropic",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Anthropic",
+      "language": "unknown",
+      "published_at": "",
+      "captured_at": "2026-10-29T00:37:17.394Z",
+      "captured_issue": "2026-10-29",
+      "summary": "Newsroom \\ Anthropic · AI for Science expands to foundations and research institutions",
+      "excerpt": "Newsroom \\ Anthropic · AI for Science expands to foundations and research institutions",
+      "raw_text_available": false,
+      "topics": [
+        "Research",
+        "Safety"
+      ],
+      "tags": [
+        "ai_models",
+        "safety",
+        "official"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+        "https://www.anthropic.com/news",
+        "https://www.anthropic.com",
+        "https://x.com/AnthropicAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 50,
+      "trend_score": 45,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 74,
+      "total_score": 66,
+      "rank": 324,
+      "cluster_id": "anthropic_com_ed900a4e",
+      "dedupe_key": "07933cd124cd3bd2",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：AI for Science expands to foundations and research institutions 来自 Anthropic 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-29",
+      "last_seen_issue": "2026-10-29",
+      "used_in_issue": "2026-10-29"
+    },
+    {
+      "id": "cand_3c7754c43979be48",
+      "canonical_url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
+      "source_url": "https://deepmind.google/discover/blog/feed",
+      "source_fetch_url": "https://deepmind.google/discover/blog/feed",
+      "source_platform": "web",
+      "source_domain": "deepmind.google",
+      "source_name": "Google DeepMind",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Gemini 4 Carbon: Our next frontier model",
+      "subtitle": "",
+      "author": "Google DeepMind",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Google DeepMind",
+      "language": "unknown",
+      "published_at": "Wed, 28 Oct 2026 17:00:58 +0000",
+      "captured_at": "2026-10-29T00:37:18.508Z",
+      "captured_issue": "2026-10-29",
+      "summary": "Gemini 4 Carbon: Our next frontier model 是 Google DeepMind 当日抓取到的公开新增条目。",
+      "excerpt": "Gemini 4 Carbon: Our next frontier model 是 Google DeepMind 当日抓取到的公开新增条目。",
+      "raw_text_available": false,
+      "topics": [
+        "Multimodal",
+        "Research"
+      ],
+      "tags": [
+        "research",
+        "multimodal",
+        "science",
+        "official"
+      ],
+      "entities": [
+        "Google DeepMind"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
+        "https://deepmind.google/discover/blog/feed",
+        "https://deepmind.google",
+        "https://deepmind.google/discover/blog",
+        "https://x.com/GoogleDeepMind"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 50,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 62,
+      "total_score": 66,
+      "rank": 325,
+      "cluster_id": "deepmind_google_ab097862",
+      "dedupe_key": "bc9223bdc3e6b778",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Gemini 4 Carbon: Our next frontier model 来自 Google DeepMind 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-29",
+      "last_seen_issue": "2026-10-29",
+      "used_in_issue": "2026-10-29"
+    },
+    {
+      "id": "cand_eb58a9be029f5f03",
+      "canonical_url": "https://vercel.com/changelog/box-mount-now-runs-in-vercel-sandbox",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Box Mount now runs in Vercel Sandbox",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-10-28T18:00:00.000Z",
+      "captured_at": "2026-10-29T00:37:22.731Z",
+      "captured_issue": "2026-10-29",
+      "summary": "Box Mount lets agents running in Vercel Sandbox read and write Box files through standard filesystem operations. It syncs a Box folder with a directory inside the sandbox. Unmount before you stop the sandbox, and everything the agent wrote is in Box after the sandbox is deleted. The contract-review example uses AI Gateway to review a synthetic contract in Vercel Sandbox and save the review back to Box. The sync process and agent run as separate sandbox users, keeping the Box ",
+      "excerpt": "Box Mount lets agents running in Vercel Sandbox read and write Box files through standard filesystem operations. It syncs a Box folder with a directory inside the sandbox. Unmount before you stop the sandbox, and everything the agent wrote is in Box after the sandbox is deleted. The contract-review example uses AI Gateway to review a synthetic contract in Vercel Sandbox and save the review back to Box. The sync process and agent run as separate sandbox users, keeping the Box ",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/changelog/box-mount-now-runs-in-vercel-sandbox",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 69,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 66,
+      "rank": 393,
+      "cluster_id": "vercel_com_bfe57296",
+      "dedupe_key": "f2afe235fb8347f4",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Box Mount now runs in Vercel Sandbox 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-29",
+      "last_seen_issue": "2026-10-29",
+      "used_in_issue": "2026-10-29"
+    },
+    {
+      "id": "cand_a7cf8ea6e5352946",
+      "canonical_url": "https://vercel.com/blog/ai-gateway-virtual-models",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Introducing Virtual Models on AI Gateway",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-10-28T07:25:00.000Z",
+      "captured_at": "2026-10-29T00:37:22.731Z",
+      "captured_issue": "2026-10-29",
+      "summary": "Today, we are introducing Virtual Models on AI Gateway . Virtual Models are an abstraction of the model string and configurations your apps and developers use. With a single virtual model ID, you can change and update models, configure fallbacks and priority, and enforce Zero Data Retention centrally. The virtual model configuration applies wherever the ID is used. Assign a virtual model ID to an agent task, and pass it as the model string wherever that task is called. You ca",
+      "excerpt": "Today, we are introducing Virtual Models on AI Gateway . Virtual Models are an abstraction of the model string and configurations your apps and developers use. With a single virtual model ID, you can change and update models, configure fallbacks and priority, and enforce Zero Data Retention centrally. The virtual model configuration applies wherever the ID is used. Assign a virtual model ID to an agent task, and pass it as the model string wherever that task is called. You ca",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/blog/ai-gateway-virtual-models",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 69,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 66,
+      "rank": 394,
+      "cluster_id": "vercel_com_0b2ef302",
+      "dedupe_key": "7d849a757718f3a2",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Introducing Virtual Models on AI Gateway 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-29",
+      "last_seen_issue": "2026-10-29",
+      "used_in_issue": "2026-10-29"
+    },
+    {
+      "id": "cand_d6b260684c2b45da",
+      "canonical_url": "https://vercel.com/changelog/run-paseo-agents-on-vercel-sandbox",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Run Paseo agents on Vercel Sandbox",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-10-28T00:00:00.000Z",
+      "captured_at": "2026-10-29T00:37:22.732Z",
+      "captured_issue": "2026-10-29",
+      "summary": "Paseo now supports running fx, Codex, Claude Code, OpenCode, and Pi in the cloud with the Vercel Sandbox plugin . You can now start an agent in Vercel Sandbox from Paseo on your laptop, then connect from your phone to control the same session, even when your laptop is closed. Stopping a sandbox saves your files and conversation history so you can pick up where you left off. Active processes stop with the sandbox. Enter your Vercel AI Gateway key once during setup. The plugin ",
+      "excerpt": "Paseo now supports running fx, Codex, Claude Code, OpenCode, and Pi in the cloud with the Vercel Sandbox plugin . You can now start an agent in Vercel Sandbox from Paseo on your laptop, then connect from your phone to control the same session, even when your laptop is closed. Stopping a sandbox saves your files and conversation history so you can pick up where you left off. Active processes stop with the sandbox. Enter your Vercel AI Gateway key once during setup. The plugin ",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/changelog/run-paseo-agents-on-vercel-sandbox",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 69,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 66,
+      "rank": 395,
+      "cluster_id": "vercel_com_fd8fa0e1",
+      "dedupe_key": "94f5a6cba9c0b601",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Run Paseo agents on Vercel Sandbox 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-29",
+      "last_seen_issue": "2026-10-29",
+      "used_in_issue": "2026-10-29"
+    },
+    {
+      "id": "cand_573879538d6e093a",
+      "canonical_url": "https://vercel.com/changelog/agents-can-now-enable-web-analytics-and-observability-plus-with-vercel-cli",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Agents can now enable Web Analytics and Observability Plus with Vercel CLI",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-10-28T00:00:00.000Z",
+      "captured_at": "2026-10-29T00:37:22.732Z",
+      "captured_issue": "2026-10-29",
+      "summary": "Vercel CLI no longer requires an interactive terminal to enable Web Analytics or Observability Plus . Agents can now turn them on for your projects without asking you to run the commands yourself. To get started, run either command from a linked project directory: Teams must already be subscribed to Observability Plus to be able to enable it for a project. Update Vercel CLI to version 64.2.0 or later and learn more in the Vercel CLI project documentation . Read more",
+      "excerpt": "Vercel CLI no longer requires an interactive terminal to enable Web Analytics or Observability Plus . Agents can now turn them on for your projects without asking you to run the commands yourself. To get started, run either command from a linked project directory: Teams must already be subscribed to Observability Plus to be able to enable it for a project. Update Vercel CLI to version 64.2.0 or later and learn more in the Vercel CLI project documentation . Read more",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/changelog/agents-can-now-enable-web-analytics-and-observability-plus-with-vercel-cli",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 69,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 66,
+      "rank": 396,
+      "cluster_id": "vercel_com_59189af2",
+      "dedupe_key": "200b357c023c50e5",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Agents can now enable Web Analytics and Observability Plus with Vercel CLI 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-29",
+      "last_seen_issue": "2026-10-29",
+      "used_in_issue": "2026-10-29"
+    },
+    {
+      "id": "cand_1fff3a578ea6e03e",
+      "canonical_url": "https://vercel.com/changelog/fx-harness-adapter-now-separates-host-and-sandbox",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "The fx adapter now runs the harness on the host",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-10-27T06:00:00.000Z",
+      "captured_at": "2026-10-29T00:37:22.732Z",
+      "captured_issue": "2026-10-29",
+      "summary": "The fx adapter for the AI SDK’s HarnessAgent now runs the harness and model requests in the same process as your application. Built-in filesystem and shell operations remain isolated in the sandbox. The adapter uses libfx , the TypeScript library for fx. It no longer needs to install fx inside the sandbox, run a sandbox bridge, or expose a sandbox port. Model credentials stay on the host rather than being forwarded into the sandbox. The rewrite also adds: Built-in tool filter",
+      "excerpt": "The fx adapter for the AI SDK’s HarnessAgent now runs the harness and model requests in the same process as your application. Built-in filesystem and shell operations remain isolated in the sandbox. The adapter uses libfx , the TypeScript library for fx. It no longer needs to install fx inside the sandbox, run a sandbox bridge, or expose a sandbox port. Model credentials stay on the host rather than being forwarded into the sandbox. The rewrite also adds: Built-in tool filter",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/changelog/fx-harness-adapter-now-separates-host-and-sandbox",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 69,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 66,
+      "rank": 398,
+      "cluster_id": "vercel_com_f179f1e7",
+      "dedupe_key": "a497e3f9ea86cf24",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：The fx adapter now runs the harness on the host 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-29",
+      "last_seen_issue": "2026-10-29",
+      "used_in_issue": "2026-10-29"
+    },
+    {
+      "id": "cand_f27dcb3e473c4a16",
+      "canonical_url": "https://vercel.com/changelog/particle-1-is-now-available-on-ai-gateway",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Particle-1 is now available on AI Gateway",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-10-28T00:00:00.000Z",
+      "captured_at": "2026-10-29T00:37:22.732Z",
+      "captured_issue": "2026-10-29",
+      "summary": "Particle-1 from Particle AI is now available on AI Gateway . It is post-trained on DeepSeek V4.1 Flash, with a focus on completing software engineering tasks using fewer tokens. Particle describes the gains as shorter reasoning, fewer rounds of trial and repair, and more focused exploration. Use it for debugging, planning code changes, and breaking down multi-step engineering problems. Particle-1 has a 1M-token context window for working with code and extended task histories.",
+      "excerpt": "Particle-1 from Particle AI is now available on AI Gateway . It is post-trained on DeepSeek V4.1 Flash, with a focus on completing software engineering tasks using fewer tokens. Particle describes the gains as shorter reasoning, fewer rounds of trial and repair, and more focused exploration. Use it for debugging, planning code changes, and breaking down multi-step engineering problems. Particle-1 has a 1M-token context window for working with code and extended task histories.",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/changelog/particle-1-is-now-available-on-ai-gateway",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 69,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 74,
+      "total_score": 65,
+      "rank": 461,
+      "cluster_id": "vercel_com_a12f85d1",
+      "dedupe_key": "58a7fa944f01a59b",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Particle-1 is now available on AI Gateway 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-29",
+      "last_seen_issue": "2026-10-29",
+      "used_in_issue": "2026-10-29"
+    },
+    {
+      "id": "cand_840e884d3beabf3e",
+      "canonical_url": "https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories",
+      "source_url": "https://huggingface.co/blog",
+      "source_fetch_url": "https://huggingface.co/blog",
+      "source_platform": "web",
+      "source_domain": "huggingface.co",
+      "source_name": "Hugging Face",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories nvidia • 8 days ago • 52",
+      "subtitle": "",
+      "author": "Hugging Face",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Hugging Face",
+      "language": "unknown",
+      "published_at": "",
+      "captured_at": "2026-10-29T00:37:23.185Z",
+      "captured_issue": "2026-10-29",
+      "summary": "Hugging Face – Blog · Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories nvidia • 8 days ago • 52",
+      "excerpt": "Hugging Face – Blog · Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories nvidia • 8 days ago • 52",
+      "raw_text_available": false,
+      "topics": [
+        "Robotics"
+      ],
+      "tags": [
+        "open_source",
+        "papers",
+        "models"
+      ],
+      "entities": [
+        "Hugging Face"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories",
+        "https://huggingface.co/blog",
+        "https://huggingface.co",
+        "https://x.com/huggingface"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 66,
+      "originality_score": 38,
+      "trend_score": 45,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 62,
+      "total_score": 65,
+      "rank": 464,
+      "cluster_id": "huggingface_co_b9d14737",
+      "dedupe_key": "da9549a7d51d98b4",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories nvidia • 8 days ago • 52 来自 Hugging Face 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-29",
+      "last_seen_issue": "2026-10-29",
+      "used_in_issue": "2026-10-29"
+    },
+    {
+      "id": "cand_9c837a23c06b972e",
+      "canonical_url": "https://www.langchain.com/blog/building-agent-memory-openwiki-graphs",
+      "source_url": "https://blog.langchain.com/rss.xml",
+      "source_fetch_url": "https://blog.langchain.com/rss.xml",
+      "source_platform": "web",
+      "source_domain": "langchain.com",
+      "source_name": "LangChain",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "external_article",
+      "title": "How to build evidence-grounded agent memory with OpenWiki and Graphs",
+      "subtitle": "",
+      "author": "LangChain",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "LangChain",
+      "language": "unknown",
+      "published_at": "Wed, 28 Oct 2026 17:28:42 GMT",
+      "captured_at": "2026-10-29T00:37:23.406Z",
+      "captured_issue": "2026-10-29",
+      "summary": "LangChain used OpenWiki, its open-source wiki compiler, and an evidence graph to build a persistent memory layer that preserves knowledge for agents to reuse across tasks. Learn how.",
+      "excerpt": "LangChain used OpenWiki, its open-source wiki compiler, and an evidence graph to build a persistent memory layer that preserves knowledge for agents to reuse across tasks. Learn how.",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "agents",
+        "rag",
+        "framework"
+      ],
+      "entities": [
+        "LangChain"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://www.langchain.com/blog/building-agent-memory-openwiki-graphs",
+        "https://blog.langchain.com/rss.xml",
+        "https://www.langchain.com",
+        "https://blog.langchain.com",
+        "https://x.com/LangChainAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 54,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 74,
+      "total_score": 65,
+      "rank": 508,
+      "cluster_id": "langchain_com_fb9bd833",
+      "dedupe_key": "b37b1119011f47bc",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：How to build evidence-grounded agent memory with OpenWiki and Graphs 来自 LangChain 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-29",
+      "last_seen_issue": "2026-10-29",
+      "used_in_issue": "2026-10-29"
+    },
+    {
+      "id": "cand_bb0334743b61db97",
+      "canonical_url": "https://www.langchain.com/blog/proactive-agents",
+      "source_url": "https://blog.langchain.com/rss.xml",
+      "source_fetch_url": "https://blog.langchain.com/rss.xml",
+      "source_platform": "web",
+      "source_domain": "langchain.com",
+      "source_name": "LangChain",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "external_article",
+      "title": "How to Build Proactive, Always-On Agents with the Schedules SDK in Managed Deep Agents",
+      "subtitle": "",
+      "author": "LangChain",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "LangChain",
+      "language": "unknown",
+      "published_at": "Wed, 28 Oct 2026 17:28:42 GMT",
+      "captured_at": "2026-10-29T00:37:23.406Z",
+      "captured_issue": "2026-10-29",
+      "summary": "Most proactive agents run on a simple cron. Learn what scheduled runs unlock, from memory to smart triage, and how to add them to Managed Deep Agents.",
+      "excerpt": "Most proactive agents run on a simple cron. Learn what scheduled runs unlock, from memory to smart triage, and how to add them to Managed Deep Agents.",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "agents",
+        "rag",
+        "framework"
+      ],
+      "entities": [
+        "LangChain"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://www.langchain.com/blog/proactive-agents",
+        "https://blog.langchain.com/rss.xml",
+        "https://www.langchain.com",
+        "https://blog.langchain.com",
+        "https://x.com/LangChainAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 54,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 62,
+      "total_score": 64,
+      "rank": 573,
+      "cluster_id": "langchain_com_88ba5cf5",
+      "dedupe_key": "9111d51b74bc8b5c",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：How to Build Proactive, Always-On Agents with the Schedules SDK in Managed Deep Agents 来自 LangChain 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-29",
+      "last_seen_issue": "2026-10-29",
+      "used_in_issue": "2026-10-29"
+    },
+    {
+      "id": "cand_95aff88b4a4ee0dd",
+      "canonical_url": "https://www.ycombinator.com/blog/how-alex-lee-became-the-first-engineer-at-magic-patterns",
+      "source_url": "https://www.ycombinator.com/blog/feed.xml",
+      "source_fetch_url": "https://www.ycombinator.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "ycombinator.com",
+      "source_name": "Y Combinator",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "external_article",
+      "title": "How Alex Lee became the first engineer at Magic Patterns",
+      "subtitle": "",
+      "author": "Y Combinator",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Y Combinator",
+      "language": "unknown",
+      "published_at": "Wed, 28 Oct 2026 02:59:08 GMT",
+      "captured_at": "2026-10-29T00:37:24.405Z",
+      "captured_issue": "2026-10-29",
+      "summary": "Alex Lee left his own startup to join Magic Patterns as founding engineer — and built a slide deck feature in a weekend.",
+      "excerpt": "Alex Lee left his own startup to join Magic Patterns as founding engineer — and built a slide deck feature in a weekend.",
+      "raw_text_available": false,
+      "topics": [
+        "Product"
+      ],
+      "tags": [
+        "startup",
+        "product",
+        "founder"
+      ],
+      "entities": [
+        "Y Combinator"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://www.ycombinator.com/blog/how-alex-lee-became-the-first-engineer-at-magic-patterns",
+        "https://www.ycombinator.com/blog/feed.xml",
+        "https://www.ycombinator.com",
+        "https://www.ycombinator.com/blog",
+        "https://x.com/ycombinator"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 42,
+      "originality_score": 50,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 74,
+      "total_score": 64,
+      "rank": 599,
+      "cluster_id": "ycombinator_com_1592c997",
+      "dedupe_key": "e8858e8385fd48ed",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：How Alex Lee became the first engineer at Magic Patterns 来自 Y Combinator 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-29",
+      "last_seen_issue": "2026-10-29",
+      "used_in_issue": "2026-10-29"
+    },
+    {
+      "id": "cand_22a4d1f7a2e88488",
+      "canonical_url": "https://www.lennysnewsletter.com/p/grok-vs-dot-vs-muse-vs-claude-duet",
+      "source_url": "https://www.lennysnewsletter.com/feed.xml",
+      "source_fetch_url": "https://www.lennysnewsletter.com/feed.xml",
+      "source_platform": "web",
+      "source_domain": "lennysnewsletter.com",
+      "source_name": "Lenny's Newsletter",
+      "source_file": "media.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "external_article",
+      "title": "Grok vs. Dot vs. Muse vs. Claude Duet: which one crushes the competition?",
+      "subtitle": "",
+      "author": "Lenny's Newsletter",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Lenny's Newsletter",
+      "language": "unknown",
+      "published_at": "Wed, 28 Oct 2026 12:04:22 GMT",
+      "captured_at": "2026-10-29T00:37:27.387Z",
+      "captured_issue": "2026-10-29",
+      "summary": "Listen now | &#127897;&#65039; I ranked Grok Bot, Dot, Muse, and Claude Duet across 9 real tasks&#8212;and the scores told me which agent runs my work and which runs my life",
+      "excerpt": "Listen now | &#127897;&#65039; I ranked Grok Bot, Dot, Muse, and Claude Duet across 9 real tasks&#8212;and the scores told me which agent runs my work and which runs my life",
+      "raw_text_available": false,
+      "topics": [
+        "Product"
+      ],
+      "tags": [
+        "product",
+        "growth",
+        "startup"
+      ],
+      "entities": [
+        "Lenny's Newsletter"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://www.lennysnewsletter.com/p/grok-vs-dot-vs-muse-vs-claude-duet",
+        "https://www.lennysnewsletter.com/feed.xml",
+        "https://www.lennysnewsletter.com"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 69,
+      "evidence_score": 75,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 64,
+      "rank": 613,
+      "cluster_id": "lennysnewsletter_com_359de789",
+      "dedupe_key": "bf16ff5b63f7318a",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Grok vs. Dot vs. Muse vs. Claude Duet: which one crushes the competition? 来自 Lenny's Newsletter 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-29",
+      "last_seen_issue": "2026-10-29",
+      "used_in_issue": "2026-10-29"
+    },
+    {
+      "id": "cand_3d879ea8e8ff1afe",
+      "canonical_url": "https://review.firstround.com/this-founder-built-startups-in-2008-2016-and-2018-heres-what-hes-learned-about-resiliency",
+      "source_url": "https://review.firstround.com",
+      "source_fetch_url": "https://review.firstround.com",
+      "source_platform": "web",
+      "source_domain": "review.firstround.com",
+      "source_name": "First Round Review",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "external_article",
+      "title": "This Founder Built Startups in 2008, 2016 and 2018. Here’s What He’s Learned About Resiliency",
+      "subtitle": "",
+      "author": "First Round Review",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "First Round Review",
+      "language": "unknown",
+      "published_at": "",
+      "captured_at": "2026-10-29T00:37:24.449Z",
+      "captured_issue": "2026-10-29",
+      "summary": "First Round Review · This Founder Built Startups in 2008, 2016 and 2018. Here’s What He’s Learned About Resiliency",
+      "excerpt": "First Round Review · This Founder Built Startups in 2008, 2016 and 2018. Here’s What He’s Learned About Resiliency",
+      "raw_text_available": false,
+      "topics": [
+        "Startups",
+        "Product"
+      ],
+      "tags": [
+        "playbook",
+        "product",
+        "startup"
+      ],
+      "entities": [
+        "First Round Review"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://review.firstround.com/this-founder-built-startups-in-2008-2016-and-2018-heres-what-hes-learned-about-resiliency",
+        "https://review.firstround.com",
+        "https://x.com/firstround"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 42,
+      "originality_score": 50,
+      "trend_score": 57,
+      "evidence_score": 84,
+      "heat_score": 40,
+      "site_fit_score": 74,
+      "total_score": 63,
+      "rank": 731,
+      "cluster_id": "review_firstround_com_c58ee6f6",
+      "dedupe_key": "20044154b10f54f5",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：This Founder Built Startups in 2008, 2016 and 2018. Here’s What He’s Learned About Resiliency 来自 First Round Review 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-29",
+      "last_seen_issue": "2026-10-29",
+      "used_in_issue": "2026-10-29"
+    }
+  ],
+  "hot_rank": [
+    {
+      "id": "cand_7a771847d01bd889",
+      "canonical_url": "https://vercel.com/changelog/virtual-models-now-available-on-ai-gateway",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Virtual models now available on AI Gateway",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-10-28T00:00:00.000Z",
+      "captured_at": "2026-10-29T00:37:22.732Z",
+      "captured_issue": "2026-10-29",
+      "summary": "Virtual models are now available on AI Gateway . A virtual model is a saved configuration that tells AI Gateway which model and settings to use. Your apps and agents call it with a custom model ID, such as vmc/coding-agent . You can change the model or settings centrally in AI Gateway without redeploying your apps or reconfiguring your agents. Use virtual models to: Configure coding agents: Set reasoning effort, fast mode, prompt caching, and other options even when your agen",
+      "excerpt": "Virtual models are now available on AI Gateway . A virtual model is a saved configuration that tells AI Gateway which model and settings to use. Your apps and agents call it with a custom model ID, such as vmc/coding-agent . You can change the model or settings centrally in AI Gateway without redeploying your apps or reconfiguring your agents. Use virtual models to: Configure coding agents: Set reasoning effort, fast mode, prompt caching, and other options even when your agen",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/changelog/virtual-models-now-available-on-ai-gateway",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 93,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 98,
+      "total_score": 71,
+      "rank": 24,
+      "cluster_id": "vercel_com_e7b0e75c",
+      "dedupe_key": "750405730281257d",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Virtual models now available on AI Gateway 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-29",
+      "last_seen_issue": "2026-10-29",
+      "used_in_issue": "2026-10-29"
+    },
+    {
+      "id": "cand_3b9863b47bbf991e",
+      "canonical_url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "source_url": "https://openai.com/news/rss.xml",
+      "source_fetch_url": "https://openai.com/news/rss.xml",
+      "source_platform": "web",
+      "source_domain": "openai.com",
+      "source_name": "OpenAI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "subtitle": "官方发布、研究、模型与开发者文档优先来源。",
+      "author": "OpenAI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "OpenAI",
+      "language": "unknown",
+      "published_at": "Wed, 28 Oct 2026 13:15:00 GMT",
+      "captured_at": "2026-10-29T00:37:17.133Z",
+      "captured_issue": "2026-10-29",
+      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+      "excerpt": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+      "raw_text_available": false,
+      "topics": [
+        "Research"
+      ],
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://openai.com/index/openai-servicenow-partnership-expansion",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news",
+        "https://x.com/OpenAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 50,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 98,
+      "total_score": 70,
+      "rank": 27,
+      "cluster_id": "openai_com_56b230b1",
+      "dedupe_key": "14ed24e75f7af7a8",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：OpenAI and ServiceNow expand partnership across enterprise workflows 来自 OpenAI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-29",
+      "last_seen_issue": "2026-10-29",
+      "used_in_issue": "2026-10-29"
+    },
+    {
+      "id": "cand_9979e3b125fcc800",
+      "canonical_url": "https://openai.com/index/legora",
+      "source_url": "https://openai.com/news/rss.xml",
+      "source_fetch_url": "https://openai.com/news/rss.xml",
+      "source_platform": "web",
+      "source_domain": "openai.com",
+      "source_name": "OpenAI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Legora is building the agentic operating system for legal work",
+      "subtitle": "官方发布、研究、模型与开发者文档优先来源。",
+      "author": "OpenAI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "OpenAI",
+      "language": "unknown",
+      "published_at": "Wed, 28 Oct 2026 09:30:00 GMT",
+      "captured_at": "2026-10-29T00:37:17.133Z",
+      "captured_issue": "2026-10-29",
+      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+      "excerpt": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+      "raw_text_available": false,
+      "topics": [
+        "Research"
+      ],
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://openai.com/index/legora",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news",
+        "https://x.com/OpenAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 50,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 98,
+      "total_score": 70,
+      "rank": 28,
+      "cluster_id": "openai_com_b80d7207",
+      "dedupe_key": "d5178ba5361355c2",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Legora is building the agentic operating system for legal work 来自 OpenAI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-29",
+      "last_seen_issue": "2026-10-29",
+      "used_in_issue": "2026-10-29"
+    },
+    {
+      "id": "cand_30324a2fd8fd67e9",
+      "canonical_url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents",
+      "source_url": "https://github.blog/feed",
+      "source_fetch_url": "https://github.blog/feed",
+      "source_platform": "web",
+      "source_domain": "github.blog",
+      "source_name": "GitHub Copilot",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
+      "subtitle": "",
+      "author": "GitHub Copilot",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "GitHub Copilot",
+      "language": "unknown",
+      "published_at": "Wed, 28 Oct 2026 16:07:40 +0000",
+      "captured_at": "2026-10-29T00:37:22.435Z",
+      "captured_issue": "2026-10-29",
+      "summary": "See how a record year of growth reached every industry, every field, and every kind of builder in the 2026 Octoverse report. The post Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents appeared first on The GitHub Blog .",
+      "excerpt": "See how a record year of growth reached every industry, every field, and every kind of builder in the 2026 Octoverse report. The post Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents appeared first on The GitHub Blog .",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "ai_coding",
+        "developer_tools"
+      ],
+      "entities": [
+        "GitHub Copilot"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [
+        "https://github.com/features/copilot"
+      ],
+      "evidence_links": [
+        "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents",
+        "https://github.blog/feed",
+        "https://github.com/features/copilot",
+        "https://github.blog",
+        "https://x.com/github"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 66,
+      "originality_score": 38,
+      "trend_score": 69,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 70,
+      "rank": 53,
+      "cluster_id": "github_blog_0554d35f",
+      "dedupe_key": "04d308237341f17e",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents 来自 GitHub Copilot 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-29",
+      "last_seen_issue": "2026-10-29",
+      "used_in_issue": "2026-10-29"
+    },
+    {
+      "id": "cand_446c86d7272269fb",
+      "canonical_url": "https://vercel.com/changelog/vercel-ci-is-now-in-beta",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Vercel CI is now in beta",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-10-28T19:00:00.000Z",
+      "captured_at": "2026-10-29T00:37:22.731Z",
+      "captured_issue": "2026-10-29",
+      "summary": "You can now run CI for your Turborepo with one line of configuration. In Vercel's internal repositories, our wait time from git push to \"CI passed\" is 2-6x shorter, dramatically improving our CI's ability to keep up with our coding agents. To get started, prompt your agent in your repo: Each task marked with a ci tag runs on every push. Vercel CI automatically takes care of: Only running CI that is affected by your code changes Task caching with Vercel Remote Cache Installing",
+      "excerpt": "You can now run CI for your Turborepo with one line of configuration. In Vercel's internal repositories, our wait time from git push to \"CI passed\" is 2-6x shorter, dramatically improving our CI's ability to keep up with our coding agents. To get started, prompt your agent in your repo: Each task marked with a ci tag runs on every push. Vercel CI automatically takes care of: Only running CI that is affected by your code changes Task caching with Vercel Remote Cache Installing",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/changelog/vercel-ci-is-now-in-beta",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 81,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 98,
+      "total_score": 69,
+      "rank": 80,
+      "cluster_id": "vercel_com_4c55c27f",
+      "dedupe_key": "0c0bd85bd2130d7d",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Vercel CI is now in beta 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-29",
+      "last_seen_issue": "2026-10-29",
+      "used_in_issue": "2026-10-29"
+    },
+    {
+      "id": "cand_d75c9c13c58d1dba",
+      "canonical_url": "https://vercel.com/changelog/vercel-container-registry-now-supports-2-gb-compressed-image-layers-new",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Vercel Container Registry now supports 2 GB compressed image layers",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-10-28T09:32:00.000Z",
+      "captured_at": "2026-10-29T00:37:22.731Z",
+      "captured_issue": "2026-10-29",
+      "summary": "Vercel Container Registry now supports up to 2 GB per compressed image layer, up from 500 MB, allowing larger layers to be pushed without splitting them. The total image size limit remains 15 GB. The higher layer limit is useful for images with large toolchains or dependency sets, such as custom Vercel Sandbox environments for coding-agent evaluations. With Docker and the Vercel CLI installed, run these commands from the directory containing your Dockerfile: Read the Vercel C",
+      "excerpt": "Vercel Container Registry now supports up to 2 GB per compressed image layer, up from 500 MB, allowing larger layers to be pushed without splitting them. The total image size limit remains 15 GB. The higher layer limit is useful for images with large toolchains or dependency sets, such as custom Vercel Sandbox environments for coding-agent evaluations. With Docker and the Vercel CLI installed, run these commands from the directory containing your Dockerfile: Read the Vercel C",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/changelog/vercel-container-registry-now-supports-2-gb-compressed-image-layers-new",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 81,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 98,
+      "total_score": 69,
+      "rank": 81,
+      "cluster_id": "vercel_com_a265b042",
+      "dedupe_key": "dbfcf647c136fbaa",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Vercel Container Registry now supports 2 GB compressed image layers 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-29",
+      "last_seen_issue": "2026-10-29",
+      "used_in_issue": "2026-10-29"
+    },
+    {
+      "id": "cand_fdcd6c2ca737193a",
+      "canonical_url": "https://vercel.com/blog/introducing-vercel-ci",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Introducing Vercel CI",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-10-28T07:00:00.000Z",
+      "captured_at": "2026-10-29T00:37:22.731Z",
+      "captured_issue": "2026-10-29",
+      "summary": "Coding agents are opening more pull requests than ever, and each one waits on CI before anyone can review or merge it. Most CI systems run the entire workflow on every push, even a one-line change. The more your agents push, the more time you spend waiting on CI. Today, we're announcing Vercel CI in Beta. It runs only the tasks affected by your code change, and spins up only the compute those checks need, the same way Fluid compute scales with your traffic. At Vercel, our CI ",
+      "excerpt": "Coding agents are opening more pull requests than ever, and each one waits on CI before anyone can review or merge it. Most CI systems run the entire workflow on every push, even a one-line change. The more your agents push, the more time you spend waiting on CI. Today, we're announcing Vercel CI in Beta. It runs only the tasks affected by your code change, and spins up only the compute those checks need, the same way Fluid compute scales with your traffic. At Vercel, our CI ",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/blog/introducing-vercel-ci",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 81,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 98,
+      "total_score": 69,
+      "rank": 82,
+      "cluster_id": "vercel_com_01fb4c43",
+      "dedupe_key": "2f5bd08f89146cfd",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Introducing Vercel CI 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-29",
+      "last_seen_issue": "2026-10-29",
+      "used_in_issue": "2026-10-29"
+    },
+    {
+      "id": "cand_2b4c0bd8fd30642f",
+      "canonical_url": "https://vercel.com/changelog/fx-is-now-available-in-t3-code",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "fx is now available in T3 Code",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-10-28T00:00:00.000Z",
+      "captured_at": "2026-10-29T00:37:22.732Z",
+      "captured_issue": "2026-10-29",
+      "summary": "You can now use fx , our open-source coding agent harness, in T3 Code on web, desktop, and mobile. T3 Code is an open-source control plane for coding agents, allowing you to add agents like fx as providers for your coding sessions. The built-in fx provider supports Supervised and Auto modes, along with the models and skills you already use with fx. Get started by installing fx and setting up your model provider . Then download T3 Code and add fx from Settings > Providers > Ad",
+      "excerpt": "You can now use fx , our open-source coding agent harness, in T3 Code on web, desktop, and mobile. T3 Code is an open-source control plane for coding agents, allowing you to add agents like fx as providers for your coding sessions. The built-in fx provider supports Supervised and Auto modes, along with the models and skills you already use with fx. Get started by installing fx and setting up your model provider . Then download T3 Code and add fx from Settings > Providers > Ad",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/changelog/fx-is-now-available-in-t3-code",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 81,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 98,
+      "total_score": 69,
+      "rank": 83,
+      "cluster_id": "vercel_com_41e5ae35",
+      "dedupe_key": "3bb053bd321f3108",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：fx is now available in T3 Code 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-29",
+      "last_seen_issue": "2026-10-29",
+      "used_in_issue": "2026-10-29"
+    },
+    {
+      "id": "cand_5581abc8796325f1",
+      "canonical_url": "https://openai.com/index/the-future-of-the-firm",
+      "source_url": "https://openai.com/news/rss.xml",
+      "source_fetch_url": "https://openai.com/news/rss.xml",
+      "source_platform": "web",
+      "source_domain": "openai.com",
+      "source_name": "OpenAI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "The future of the firm",
+      "subtitle": "官方发布、研究、模型与开发者文档优先来源。",
+      "author": "OpenAI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "OpenAI",
+      "language": "unknown",
+      "published_at": "Wed, 28 Oct 2026 10:00:00 GMT",
+      "captured_at": "2026-10-29T00:37:17.133Z",
+      "captured_issue": "2026-10-29",
+      "summary": "How AI might enter the org chart—beneath, beside, and between us.",
+      "excerpt": "How AI might enter the org chart—beneath, beside, and between us.",
+      "raw_text_available": false,
+      "topics": [
+        "Research"
+      ],
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://openai.com/index/the-future-of-the-firm",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news",
+        "https://x.com/OpenAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 50,
+      "trend_score": 45,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 67,
+      "rank": 169,
+      "cluster_id": "openai_com_69674d88",
+      "dedupe_key": "43d7a13d813209f3",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：The future of the firm 来自 OpenAI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-29",
+      "last_seen_issue": "2026-10-29",
+      "used_in_issue": "2026-10-29"
+    },
+    {
+      "id": "cand_86ab366e7d625706",
+      "canonical_url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack",
+      "source_url": "https://github.blog/feed",
+      "source_fetch_url": "https://github.blog/feed",
+      "source_platform": "web",
+      "source_domain": "github.blog",
+      "source_name": "GitHub Copilot",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "GitHub Universe 2026: Evolving every layer of the stack",
+      "subtitle": "",
+      "author": "GitHub Copilot",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "GitHub Copilot",
+      "language": "unknown",
+      "published_at": "Wed, 28 Oct 2026 16:09:28 +0000",
+      "captured_at": "2026-10-29T00:37:22.435Z",
+      "captured_issue": "2026-10-29",
+      "summary": "Today, we laid out our vision for GitHub as the most comprehensive, end-to-end software delivery system in the world. The post GitHub Universe 2026: Evolving every layer of the stack appeared first on The GitHub Blog .",
+      "excerpt": "Today, we laid out our vision for GitHub as the most comprehensive, end-to-end software delivery system in the world. The post GitHub Universe 2026: Evolving every layer of the stack appeared first on The GitHub Blog .",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "ai_coding",
+        "developer_tools"
+      ],
+      "entities": [
+        "GitHub Copilot"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [
+        "https://github.com/features/copilot"
+      ],
+      "evidence_links": [
+        "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack",
+        "https://github.blog/feed",
+        "https://github.com/features/copilot",
+        "https://github.blog",
+        "https://x.com/github"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 66,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 74,
+      "total_score": 67,
+      "rank": 308,
+      "cluster_id": "github_blog_24c8f011",
+      "dedupe_key": "da5c3b5f9ffa2425",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：GitHub Universe 2026: Evolving every layer of the stack 来自 GitHub Copilot 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-29",
+      "last_seen_issue": "2026-10-29",
+      "used_in_issue": "2026-10-29"
+    },
+    {
+      "id": "cand_92526c01061b302e",
+      "canonical_url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+      "source_url": "https://www.anthropic.com/news",
+      "source_fetch_url": "https://www.anthropic.com/news",
+      "source_platform": "web",
+      "source_domain": "anthropic.com",
+      "source_name": "Anthropic",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "AI for Science expands to foundations and research institutions",
+      "subtitle": "",
+      "author": "Anthropic",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Anthropic",
+      "language": "unknown",
+      "published_at": "",
+      "captured_at": "2026-10-29T00:37:17.394Z",
+      "captured_issue": "2026-10-29",
+      "summary": "Newsroom \\ Anthropic · AI for Science expands to foundations and research institutions",
+      "excerpt": "Newsroom \\ Anthropic · AI for Science expands to foundations and research institutions",
+      "raw_text_available": false,
+      "topics": [
+        "Research",
+        "Safety"
+      ],
+      "tags": [
+        "ai_models",
+        "safety",
+        "official"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+        "https://www.anthropic.com/news",
+        "https://www.anthropic.com",
+        "https://x.com/AnthropicAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 50,
+      "trend_score": 45,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 74,
+      "total_score": 66,
+      "rank": 324,
+      "cluster_id": "anthropic_com_ed900a4e",
+      "dedupe_key": "07933cd124cd3bd2",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：AI for Science expands to foundations and research institutions 来自 Anthropic 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-29",
+      "last_seen_issue": "2026-10-29",
+      "used_in_issue": "2026-10-29"
+    },
+    {
+      "id": "cand_3c7754c43979be48",
+      "canonical_url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
+      "source_url": "https://deepmind.google/discover/blog/feed",
+      "source_fetch_url": "https://deepmind.google/discover/blog/feed",
+      "source_platform": "web",
+      "source_domain": "deepmind.google",
+      "source_name": "Google DeepMind",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Gemini 4 Carbon: Our next frontier model",
+      "subtitle": "",
+      "author": "Google DeepMind",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Google DeepMind",
+      "language": "unknown",
+      "published_at": "Wed, 28 Oct 2026 17:00:58 +0000",
+      "captured_at": "2026-10-29T00:37:18.508Z",
+      "captured_issue": "2026-10-29",
+      "summary": "Gemini 4 Carbon: Our next frontier model 是 Google DeepMind 当日抓取到的公开新增条目。",
+      "excerpt": "Gemini 4 Carbon: Our next frontier model 是 Google DeepMind 当日抓取到的公开新增条目。",
+      "raw_text_available": false,
+      "topics": [
+        "Multimodal",
+        "Research"
+      ],
+      "tags": [
+        "research",
+        "multimodal",
+        "science",
+        "official"
+      ],
+      "entities": [
+        "Google DeepMind"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
+        "https://deepmind.google/discover/blog/feed",
+        "https://deepmind.google",
+        "https://deepmind.google/discover/blog",
+        "https://x.com/GoogleDeepMind"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 50,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 62,
+      "total_score": 66,
+      "rank": 325,
+      "cluster_id": "deepmind_google_ab097862",
+      "dedupe_key": "bc9223bdc3e6b778",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Gemini 4 Carbon: Our next frontier model 来自 Google DeepMind 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-29",
+      "last_seen_issue": "2026-10-29",
+      "used_in_issue": "2026-10-29"
+    },
+    {
+      "id": "cand_eb58a9be029f5f03",
+      "canonical_url": "https://vercel.com/changelog/box-mount-now-runs-in-vercel-sandbox",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Box Mount now runs in Vercel Sandbox",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-10-28T18:00:00.000Z",
+      "captured_at": "2026-10-29T00:37:22.731Z",
+      "captured_issue": "2026-10-29",
+      "summary": "Box Mount lets agents running in Vercel Sandbox read and write Box files through standard filesystem operations. It syncs a Box folder with a directory inside the sandbox. Unmount before you stop the sandbox, and everything the agent wrote is in Box after the sandbox is deleted. The contract-review example uses AI Gateway to review a synthetic contract in Vercel Sandbox and save the review back to Box. The sync process and agent run as separate sandbox users, keeping the Box ",
+      "excerpt": "Box Mount lets agents running in Vercel Sandbox read and write Box files through standard filesystem operations. It syncs a Box folder with a directory inside the sandbox. Unmount before you stop the sandbox, and everything the agent wrote is in Box after the sandbox is deleted. The contract-review example uses AI Gateway to review a synthetic contract in Vercel Sandbox and save the review back to Box. The sync process and agent run as separate sandbox users, keeping the Box ",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/changelog/box-mount-now-runs-in-vercel-sandbox",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 69,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 66,
+      "rank": 393,
+      "cluster_id": "vercel_com_bfe57296",
+      "dedupe_key": "f2afe235fb8347f4",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Box Mount now runs in Vercel Sandbox 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-29",
+      "last_seen_issue": "2026-10-29",
+      "used_in_issue": "2026-10-29"
+    },
+    {
+      "id": "cand_a7cf8ea6e5352946",
+      "canonical_url": "https://vercel.com/blog/ai-gateway-virtual-models",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Introducing Virtual Models on AI Gateway",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-10-28T07:25:00.000Z",
+      "captured_at": "2026-10-29T00:37:22.731Z",
+      "captured_issue": "2026-10-29",
+      "summary": "Today, we are introducing Virtual Models on AI Gateway . Virtual Models are an abstraction of the model string and configurations your apps and developers use. With a single virtual model ID, you can change and update models, configure fallbacks and priority, and enforce Zero Data Retention centrally. The virtual model configuration applies wherever the ID is used. Assign a virtual model ID to an agent task, and pass it as the model string wherever that task is called. You ca",
+      "excerpt": "Today, we are introducing Virtual Models on AI Gateway . Virtual Models are an abstraction of the model string and configurations your apps and developers use. With a single virtual model ID, you can change and update models, configure fallbacks and priority, and enforce Zero Data Retention centrally. The virtual model configuration applies wherever the ID is used. Assign a virtual model ID to an agent task, and pass it as the model string wherever that task is called. You ca",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/blog/ai-gateway-virtual-models",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 69,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 66,
+      "rank": 394,
+      "cluster_id": "vercel_com_0b2ef302",
+      "dedupe_key": "7d849a757718f3a2",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Introducing Virtual Models on AI Gateway 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-29",
+      "last_seen_issue": "2026-10-29",
+      "used_in_issue": "2026-10-29"
+    },
+    {
+      "id": "cand_d6b260684c2b45da",
+      "canonical_url": "https://vercel.com/changelog/run-paseo-agents-on-vercel-sandbox",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Run Paseo agents on Vercel Sandbox",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-10-28T00:00:00.000Z",
+      "captured_at": "2026-10-29T00:37:22.732Z",
+      "captured_issue": "2026-10-29",
+      "summary": "Paseo now supports running fx, Codex, Claude Code, OpenCode, and Pi in the cloud with the Vercel Sandbox plugin . You can now start an agent in Vercel Sandbox from Paseo on your laptop, then connect from your phone to control the same session, even when your laptop is closed. Stopping a sandbox saves your files and conversation history so you can pick up where you left off. Active processes stop with the sandbox. Enter your Vercel AI Gateway key once during setup. The plugin ",
+      "excerpt": "Paseo now supports running fx, Codex, Claude Code, OpenCode, and Pi in the cloud with the Vercel Sandbox plugin . You can now start an agent in Vercel Sandbox from Paseo on your laptop, then connect from your phone to control the same session, even when your laptop is closed. Stopping a sandbox saves your files and conversation history so you can pick up where you left off. Active processes stop with the sandbox. Enter your Vercel AI Gateway key once during setup. The plugin ",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/changelog/run-paseo-agents-on-vercel-sandbox",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 69,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 66,
+      "rank": 395,
+      "cluster_id": "vercel_com_fd8fa0e1",
+      "dedupe_key": "94f5a6cba9c0b601",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Run Paseo agents on Vercel Sandbox 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-29",
+      "last_seen_issue": "2026-10-29",
+      "used_in_issue": "2026-10-29"
+    },
+    {
+      "id": "cand_573879538d6e093a",
+      "canonical_url": "https://vercel.com/changelog/agents-can-now-enable-web-analytics-and-observability-plus-with-vercel-cli",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Agents can now enable Web Analytics and Observability Plus with Vercel CLI",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-10-28T00:00:00.000Z",
+      "captured_at": "2026-10-29T00:37:22.732Z",
+      "captured_issue": "2026-10-29",
+      "summary": "Vercel CLI no longer requires an interactive terminal to enable Web Analytics or Observability Plus . Agents can now turn them on for your projects without asking you to run the commands yourself. To get started, run either command from a linked project directory: Teams must already be subscribed to Observability Plus to be able to enable it for a project. Update Vercel CLI to version 64.2.0 or later and learn more in the Vercel CLI project documentation . Read more",
+      "excerpt": "Vercel CLI no longer requires an interactive terminal to enable Web Analytics or Observability Plus . Agents can now turn them on for your projects without asking you to run the commands yourself. To get started, run either command from a linked project directory: Teams must already be subscribed to Observability Plus to be able to enable it for a project. Update Vercel CLI to version 64.2.0 or later and learn more in the Vercel CLI project documentation . Read more",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/changelog/agents-can-now-enable-web-analytics-and-observability-plus-with-vercel-cli",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 69,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 66,
+      "rank": 396,
+      "cluster_id": "vercel_com_59189af2",
+      "dedupe_key": "200b357c023c50e5",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Agents can now enable Web Analytics and Observability Plus with Vercel CLI 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-29",
+      "last_seen_issue": "2026-10-29",
+      "used_in_issue": "2026-10-29"
+    },
+    {
+      "id": "cand_1fff3a578ea6e03e",
+      "canonical_url": "https://vercel.com/changelog/fx-harness-adapter-now-separates-host-and-sandbox",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "The fx adapter now runs the harness on the host",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-10-27T06:00:00.000Z",
+      "captured_at": "2026-10-29T00:37:22.732Z",
+      "captured_issue": "2026-10-29",
+      "summary": "The fx adapter for the AI SDK’s HarnessAgent now runs the harness and model requests in the same process as your application. Built-in filesystem and shell operations remain isolated in the sandbox. The adapter uses libfx , the TypeScript library for fx. It no longer needs to install fx inside the sandbox, run a sandbox bridge, or expose a sandbox port. Model credentials stay on the host rather than being forwarded into the sandbox. The rewrite also adds: Built-in tool filter",
+      "excerpt": "The fx adapter for the AI SDK’s HarnessAgent now runs the harness and model requests in the same process as your application. Built-in filesystem and shell operations remain isolated in the sandbox. The adapter uses libfx , the TypeScript library for fx. It no longer needs to install fx inside the sandbox, run a sandbox bridge, or expose a sandbox port. Model credentials stay on the host rather than being forwarded into the sandbox. The rewrite also adds: Built-in tool filter",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/changelog/fx-harness-adapter-now-separates-host-and-sandbox",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 69,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 66,
+      "rank": 398,
+      "cluster_id": "vercel_com_f179f1e7",
+      "dedupe_key": "a497e3f9ea86cf24",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：The fx adapter now runs the harness on the host 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-29",
+      "last_seen_issue": "2026-10-29",
+      "used_in_issue": "2026-10-29"
+    },
+    {
+      "id": "cand_f27dcb3e473c4a16",
+      "canonical_url": "https://vercel.com/changelog/particle-1-is-now-available-on-ai-gateway",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Particle-1 is now available on AI Gateway",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-10-28T00:00:00.000Z",
+      "captured_at": "2026-10-29T00:37:22.732Z",
+      "captured_issue": "2026-10-29",
+      "summary": "Particle-1 from Particle AI is now available on AI Gateway . It is post-trained on DeepSeek V4.1 Flash, with a focus on completing software engineering tasks using fewer tokens. Particle describes the gains as shorter reasoning, fewer rounds of trial and repair, and more focused exploration. Use it for debugging, planning code changes, and breaking down multi-step engineering problems. Particle-1 has a 1M-token context window for working with code and extended task histories.",
+      "excerpt": "Particle-1 from Particle AI is now available on AI Gateway . It is post-trained on DeepSeek V4.1 Flash, with a focus on completing software engineering tasks using fewer tokens. Particle describes the gains as shorter reasoning, fewer rounds of trial and repair, and more focused exploration. Use it for debugging, planning code changes, and breaking down multi-step engineering problems. Particle-1 has a 1M-token context window for working with code and extended task histories.",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/changelog/particle-1-is-now-available-on-ai-gateway",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 69,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 74,
+      "total_score": 65,
+      "rank": 461,
+      "cluster_id": "vercel_com_a12f85d1",
+      "dedupe_key": "58a7fa944f01a59b",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Particle-1 is now available on AI Gateway 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-29",
+      "last_seen_issue": "2026-10-29",
+      "used_in_issue": "2026-10-29"
+    },
+    {
+      "id": "cand_840e884d3beabf3e",
+      "canonical_url": "https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories",
+      "source_url": "https://huggingface.co/blog",
+      "source_fetch_url": "https://huggingface.co/blog",
+      "source_platform": "web",
+      "source_domain": "huggingface.co",
+      "source_name": "Hugging Face",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories nvidia • 8 days ago • 52",
+      "subtitle": "",
+      "author": "Hugging Face",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Hugging Face",
+      "language": "unknown",
+      "published_at": "",
+      "captured_at": "2026-10-29T00:37:23.185Z",
+      "captured_issue": "2026-10-29",
+      "summary": "Hugging Face – Blog · Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories nvidia • 8 days ago • 52",
+      "excerpt": "Hugging Face – Blog · Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories nvidia • 8 days ago • 52",
+      "raw_text_available": false,
+      "topics": [
+        "Robotics"
+      ],
+      "tags": [
+        "open_source",
+        "papers",
+        "models"
+      ],
+      "entities": [
+        "Hugging Face"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories",
+        "https://huggingface.co/blog",
+        "https://huggingface.co",
+        "https://x.com/huggingface"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 66,
+      "originality_score": 38,
+      "trend_score": 45,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 62,
+      "total_score": 65,
+      "rank": 464,
+      "cluster_id": "huggingface_co_b9d14737",
+      "dedupe_key": "da9549a7d51d98b4",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories nvidia • 8 days ago • 52 来自 Hugging Face 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-29",
+      "last_seen_issue": "2026-10-29",
+      "used_in_issue": "2026-10-29"
+    },
+    {
+      "id": "cand_9c837a23c06b972e",
+      "canonical_url": "https://www.langchain.com/blog/building-agent-memory-openwiki-graphs",
+      "source_url": "https://blog.langchain.com/rss.xml",
+      "source_fetch_url": "https://blog.langchain.com/rss.xml",
+      "source_platform": "web",
+      "source_domain": "langchain.com",
+      "source_name": "LangChain",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "external_article",
+      "title": "How to build evidence-grounded agent memory with OpenWiki and Graphs",
+      "subtitle": "",
+      "author": "LangChain",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "LangChain",
+      "language": "unknown",
+      "published_at": "Wed, 28 Oct 2026 17:28:42 GMT",
+      "captured_at": "2026-10-29T00:37:23.406Z",
+      "captured_issue": "2026-10-29",
+      "summary": "LangChain used OpenWiki, its open-source wiki compiler, and an evidence graph to build a persistent memory layer that preserves knowledge for agents to reuse across tasks. Learn how.",
+      "excerpt": "LangChain used OpenWiki, its open-source wiki compiler, and an evidence graph to build a persistent memory layer that preserves knowledge for agents to reuse across tasks. Learn how.",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "agents",
+        "rag",
+        "framework"
+      ],
+      "entities": [
+        "LangChain"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://www.langchain.com/blog/building-agent-memory-openwiki-graphs",
+        "https://blog.langchain.com/rss.xml",
+        "https://www.langchain.com",
+        "https://blog.langchain.com",
+        "https://x.com/LangChainAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 54,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 74,
+      "total_score": 65,
+      "rank": 508,
+      "cluster_id": "langchain_com_fb9bd833",
+      "dedupe_key": "b37b1119011f47bc",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：How to build evidence-grounded agent memory with OpenWiki and Graphs 来自 LangChain 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-10-29",
+      "last_seen_issue": "2026-10-29",
+      "used_in_issue": "2026-10-29"
+    }
+  ],
+  "clusters": [
+    {
+      "cluster_id": "vercel_com_e7b0e75c",
+      "title": "Virtual models now available on AI Gateway",
+      "summary": "Virtual models are now available on AI Gateway . A virtual model is a saved configuration that tells AI Gateway which model and settings to use. Your apps and agents call it with a custom model ID, such as vmc/coding-agent . You can change the model or settings centrally in AI Gateway without redeploying your apps or reconfiguring your agents. Use virtual models to: Configure coding agents: Set reasoning effort, fast mode, prompt caching, and other options even when your agen",
+      "primary_source": "https://vercel.com/changelog/virtual-models-now-available-on-ai-gateway",
+      "supporting_sources": [
+        "https://vercel.com/changelog/virtual-models-now-available-on-ai-gateway",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "related_x_posts": [
+        "https://x.com/vercel"
+      ],
+      "related_articles": [
+        "https://vercel.com/changelog/virtual-models-now-available-on-ai-gateway",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "score": 71,
+      "selected_item_id": "cand_7a771847d01bd889"
+    },
+    {
+      "cluster_id": "openai_com_56b230b1",
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+      "primary_source": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "supporting_sources": [
+        "https://openai.com/index/openai-servicenow-partnership-expansion",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news",
+        "https://x.com/OpenAI"
+      ],
+      "related_x_posts": [
+        "https://x.com/OpenAI"
+      ],
+      "related_articles": [
+        "https://openai.com/index/openai-servicenow-partnership-expansion",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "score": 70,
+      "selected_item_id": "cand_3b9863b47bbf991e"
+    },
+    {
+      "cluster_id": "openai_com_b80d7207",
+      "title": "Legora is building the agentic operating system for legal work",
+      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+      "primary_source": "https://openai.com/index/legora",
+      "supporting_sources": [
+        "https://openai.com/index/legora",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news",
+        "https://x.com/OpenAI"
+      ],
+      "related_x_posts": [
+        "https://x.com/OpenAI"
+      ],
+      "related_articles": [
+        "https://openai.com/index/legora",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "score": 70,
+      "selected_item_id": "cand_9979e3b125fcc800"
+    },
+    {
+      "cluster_id": "github_blog_0554d35f",
+      "title": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
+      "summary": "See how a record year of growth reached every industry, every field, and every kind of builder in the 2026 Octoverse report. The post Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents appeared first on The GitHub Blog .",
+      "primary_source": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents",
+      "supporting_sources": [
+        "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents",
+        "https://github.blog/feed",
+        "https://github.com/features/copilot",
+        "https://github.blog",
+        "https://x.com/github"
+      ],
+      "related_x_posts": [
+        "https://x.com/github"
+      ],
+      "related_articles": [
+        "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents",
+        "https://github.blog/feed",
+        "https://github.com/features/copilot",
+        "https://github.blog"
+      ],
+      "entities": [
+        "GitHub Copilot"
+      ],
+      "tags": [
+        "ai_coding",
+        "developer_tools"
+      ],
+      "score": 70,
+      "selected_item_id": "cand_30324a2fd8fd67e9"
+    },
+    {
+      "cluster_id": "vercel_com_4c55c27f",
+      "title": "Vercel CI is now in beta",
+      "summary": "You can now run CI for your Turborepo with one line of configuration. In Vercel's internal repositories, our wait time from git push to \"CI passed\" is 2-6x shorter, dramatically improving our CI's ability to keep up with our coding agents. To get started, prompt your agent in your repo: Each task marked with a ci tag runs on every push. Vercel CI automatically takes care of: Only running CI that is affected by your code changes Task caching with Vercel Remote Cache Installing",
+      "primary_source": "https://vercel.com/changelog/vercel-ci-is-now-in-beta",
+      "supporting_sources": [
+        "https://vercel.com/changelog/vercel-ci-is-now-in-beta",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "related_x_posts": [
+        "https://x.com/vercel"
+      ],
+      "related_articles": [
+        "https://vercel.com/changelog/vercel-ci-is-now-in-beta",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "score": 69,
+      "selected_item_id": "cand_446c86d7272269fb"
+    },
+    {
+      "cluster_id": "vercel_com_a265b042",
+      "title": "Vercel Container Registry now supports 2 GB compressed image layers",
+      "summary": "Vercel Container Registry now supports up to 2 GB per compressed image layer, up from 500 MB, allowing larger layers to be pushed without splitting them. The total image size limit remains 15 GB. The higher layer limit is useful for images with large toolchains or dependency sets, such as custom Vercel Sandbox environments for coding-agent evaluations. With Docker and the Vercel CLI installed, run these commands from the directory containing your Dockerfile: Read the Vercel C",
+      "primary_source": "https://vercel.com/changelog/vercel-container-registry-now-supports-2-gb-compressed-image-layers-new",
+      "supporting_sources": [
+        "https://vercel.com/changelog/vercel-container-registry-now-supports-2-gb-compressed-image-layers-new",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "related_x_posts": [
+        "https://x.com/vercel"
+      ],
+      "related_articles": [
+        "https://vercel.com/changelog/vercel-container-registry-now-supports-2-gb-compressed-image-layers-new",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "score": 69,
+      "selected_item_id": "cand_d75c9c13c58d1dba"
+    },
+    {
+      "cluster_id": "vercel_com_01fb4c43",
+      "title": "Introducing Vercel CI",
+      "summary": "Coding agents are opening more pull requests than ever, and each one waits on CI before anyone can review or merge it. Most CI systems run the entire workflow on every push, even a one-line change. The more your agents push, the more time you spend waiting on CI. Today, we're announcing Vercel CI in Beta. It runs only the tasks affected by your code change, and spins up only the compute those checks need, the same way Fluid compute scales with your traffic. At Vercel, our CI ",
+      "primary_source": "https://vercel.com/blog/introducing-vercel-ci",
+      "supporting_sources": [
+        "https://vercel.com/blog/introducing-vercel-ci",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "related_x_posts": [
+        "https://x.com/vercel"
+      ],
+      "related_articles": [
+        "https://vercel.com/blog/introducing-vercel-ci",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "score": 69,
+      "selected_item_id": "cand_fdcd6c2ca737193a"
+    },
+    {
+      "cluster_id": "vercel_com_41e5ae35",
+      "title": "fx is now available in T3 Code",
+      "summary": "You can now use fx , our open-source coding agent harness, in T3 Code on web, desktop, and mobile. T3 Code is an open-source control plane for coding agents, allowing you to add agents like fx as providers for your coding sessions. The built-in fx provider supports Supervised and Auto modes, along with the models and skills you already use with fx. Get started by installing fx and setting up your model provider . Then download T3 Code and add fx from Settings > Providers > Ad",
+      "primary_source": "https://vercel.com/changelog/fx-is-now-available-in-t3-code",
+      "supporting_sources": [
+        "https://vercel.com/changelog/fx-is-now-available-in-t3-code",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "related_x_posts": [
+        "https://x.com/vercel"
+      ],
+      "related_articles": [
+        "https://vercel.com/changelog/fx-is-now-available-in-t3-code",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "score": 69,
+      "selected_item_id": "cand_2b4c0bd8fd30642f"
+    },
+    {
+      "cluster_id": "openai_com_69674d88",
+      "title": "The future of the firm",
+      "summary": "How AI might enter the org chart—beneath, beside, and between us.",
+      "primary_source": "https://openai.com/index/the-future-of-the-firm",
+      "supporting_sources": [
+        "https://openai.com/index/the-future-of-the-firm",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news",
+        "https://x.com/OpenAI"
+      ],
+      "related_x_posts": [
+        "https://x.com/OpenAI"
+      ],
+      "related_articles": [
+        "https://openai.com/index/the-future-of-the-firm",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "score": 67,
+      "selected_item_id": "cand_5581abc8796325f1"
+    },
+    {
+      "cluster_id": "github_blog_24c8f011",
+      "title": "GitHub Universe 2026: Evolving every layer of the stack",
+      "summary": "Today, we laid out our vision for GitHub as the most comprehensive, end-to-end software delivery system in the world. The post GitHub Universe 2026: Evolving every layer of the stack appeared first on The GitHub Blog .",
+      "primary_source": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack",
+      "supporting_sources": [
+        "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack",
+        "https://github.blog/feed",
+        "https://github.com/features/copilot",
+        "https://github.blog",
+        "https://x.com/github"
+      ],
+      "related_x_posts": [
+        "https://x.com/github"
+      ],
+      "related_articles": [
+        "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack",
+        "https://github.blog/feed",
+        "https://github.com/features/copilot",
+        "https://github.blog"
+      ],
+      "entities": [
+        "GitHub Copilot"
+      ],
+      "tags": [
+        "ai_coding",
+        "developer_tools"
+      ],
+      "score": 67,
+      "selected_item_id": "cand_86ab366e7d625706"
+    },
+    {
+      "cluster_id": "anthropic_com_ed900a4e",
+      "title": "AI for Science expands to foundations and research institutions",
+      "summary": "Newsroom \\ Anthropic · AI for Science expands to foundations and research institutions",
+      "primary_source": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+      "supporting_sources": [
+        "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+        "https://www.anthropic.com/news",
+        "https://www.anthropic.com",
+        "https://x.com/AnthropicAI"
+      ],
+      "related_x_posts": [
+        "https://x.com/AnthropicAI"
+      ],
+      "related_articles": [
+        "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+        "https://www.anthropic.com/news",
+        "https://www.anthropic.com"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "tags": [
+        "ai_models",
+        "safety",
+        "official"
+      ],
+      "score": 66,
+      "selected_item_id": "cand_92526c01061b302e"
+    },
+    {
+      "cluster_id": "deepmind_google_ab097862",
+      "title": "Gemini 4 Carbon: Our next frontier model",
+      "summary": "Gemini 4 Carbon: Our next frontier model 是 Google DeepMind 当日抓取到的公开新增条目。",
+      "primary_source": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
+      "supporting_sources": [
+        "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
+        "https://deepmind.google/discover/blog/feed",
+        "https://deepmind.google",
+        "https://deepmind.google/discover/blog",
+        "https://x.com/GoogleDeepMind"
+      ],
+      "related_x_posts": [
+        "https://x.com/GoogleDeepMind"
+      ],
+      "related_articles": [
+        "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
+        "https://deepmind.google/discover/blog/feed",
+        "https://deepmind.google",
+        "https://deepmind.google/discover/blog"
+      ],
+      "entities": [
+        "Google DeepMind"
+      ],
+      "tags": [
+        "research",
+        "multimodal",
+        "science",
+        "official"
+      ],
+      "score": 66,
+      "selected_item_id": "cand_3c7754c43979be48"
+    },
+    {
+      "cluster_id": "vercel_com_bfe57296",
+      "title": "Box Mount now runs in Vercel Sandbox",
+      "summary": "Box Mount lets agents running in Vercel Sandbox read and write Box files through standard filesystem operations. It syncs a Box folder with a directory inside the sandbox. Unmount before you stop the sandbox, and everything the agent wrote is in Box after the sandbox is deleted. The contract-review example uses AI Gateway to review a synthetic contract in Vercel Sandbox and save the review back to Box. The sync process and agent run as separate sandbox users, keeping the Box ",
+      "primary_source": "https://vercel.com/changelog/box-mount-now-runs-in-vercel-sandbox",
+      "supporting_sources": [
+        "https://vercel.com/changelog/box-mount-now-runs-in-vercel-sandbox",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "related_x_posts": [
+        "https://x.com/vercel"
+      ],
+      "related_articles": [
+        "https://vercel.com/changelog/box-mount-now-runs-in-vercel-sandbox",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "score": 66,
+      "selected_item_id": "cand_eb58a9be029f5f03"
+    },
+    {
+      "cluster_id": "vercel_com_0b2ef302",
+      "title": "Introducing Virtual Models on AI Gateway",
+      "summary": "Today, we are introducing Virtual Models on AI Gateway . Virtual Models are an abstraction of the model string and configurations your apps and developers use. With a single virtual model ID, you can change and update models, configure fallbacks and priority, and enforce Zero Data Retention centrally. The virtual model configuration applies wherever the ID is used. Assign a virtual model ID to an agent task, and pass it as the model string wherever that task is called. You ca",
+      "primary_source": "https://vercel.com/blog/ai-gateway-virtual-models",
+      "supporting_sources": [
+        "https://vercel.com/blog/ai-gateway-virtual-models",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "related_x_posts": [
+        "https://x.com/vercel"
+      ],
+      "related_articles": [
+        "https://vercel.com/blog/ai-gateway-virtual-models",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "score": 66,
+      "selected_item_id": "cand_a7cf8ea6e5352946"
+    },
+    {
+      "cluster_id": "vercel_com_fd8fa0e1",
+      "title": "Run Paseo agents on Vercel Sandbox",
+      "summary": "Paseo now supports running fx, Codex, Claude Code, OpenCode, and Pi in the cloud with the Vercel Sandbox plugin . You can now start an agent in Vercel Sandbox from Paseo on your laptop, then connect from your phone to control the same session, even when your laptop is closed. Stopping a sandbox saves your files and conversation history so you can pick up where you left off. Active processes stop with the sandbox. Enter your Vercel AI Gateway key once during setup. The plugin ",
+      "primary_source": "https://vercel.com/changelog/run-paseo-agents-on-vercel-sandbox",
+      "supporting_sources": [
+        "https://vercel.com/changelog/run-paseo-agents-on-vercel-sandbox",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "related_x_posts": [
+        "https://x.com/vercel"
+      ],
+      "related_articles": [
+        "https://vercel.com/changelog/run-paseo-agents-on-vercel-sandbox",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "score": 66,
+      "selected_item_id": "cand_d6b260684c2b45da"
+    },
+    {
+      "cluster_id": "vercel_com_59189af2",
+      "title": "Agents can now enable Web Analytics and Observability Plus with Vercel CLI",
+      "summary": "Vercel CLI no longer requires an interactive terminal to enable Web Analytics or Observability Plus . Agents can now turn them on for your projects without asking you to run the commands yourself. To get started, run either command from a linked project directory: Teams must already be subscribed to Observability Plus to be able to enable it for a project. Update Vercel CLI to version 64.2.0 or later and learn more in the Vercel CLI project documentation . Read more",
+      "primary_source": "https://vercel.com/changelog/agents-can-now-enable-web-analytics-and-observability-plus-with-vercel-cli",
+      "supporting_sources": [
+        "https://vercel.com/changelog/agents-can-now-enable-web-analytics-and-observability-plus-with-vercel-cli",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "related_x_posts": [
+        "https://x.com/vercel"
+      ],
+      "related_articles": [
+        "https://vercel.com/changelog/agents-can-now-enable-web-analytics-and-observability-plus-with-vercel-cli",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "score": 66,
+      "selected_item_id": "cand_573879538d6e093a"
+    },
+    {
+      "cluster_id": "vercel_com_f179f1e7",
+      "title": "The fx adapter now runs the harness on the host",
+      "summary": "The fx adapter for the AI SDK’s HarnessAgent now runs the harness and model requests in the same process as your application. Built-in filesystem and shell operations remain isolated in the sandbox. The adapter uses libfx , the TypeScript library for fx. It no longer needs to install fx inside the sandbox, run a sandbox bridge, or expose a sandbox port. Model credentials stay on the host rather than being forwarded into the sandbox. The rewrite also adds: Built-in tool filter",
+      "primary_source": "https://vercel.com/changelog/fx-harness-adapter-now-separates-host-and-sandbox",
+      "supporting_sources": [
+        "https://vercel.com/changelog/fx-harness-adapter-now-separates-host-and-sandbox",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "related_x_posts": [
+        "https://x.com/vercel"
+      ],
+      "related_articles": [
+        "https://vercel.com/changelog/fx-harness-adapter-now-separates-host-and-sandbox",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "score": 66,
+      "selected_item_id": "cand_1fff3a578ea6e03e"
+    },
+    {
+      "cluster_id": "vercel_com_a12f85d1",
+      "title": "Particle-1 is now available on AI Gateway",
+      "summary": "Particle-1 from Particle AI is now available on AI Gateway . It is post-trained on DeepSeek V4.1 Flash, with a focus on completing software engineering tasks using fewer tokens. Particle describes the gains as shorter reasoning, fewer rounds of trial and repair, and more focused exploration. Use it for debugging, planning code changes, and breaking down multi-step engineering problems. Particle-1 has a 1M-token context window for working with code and extended task histories.",
+      "primary_source": "https://vercel.com/changelog/particle-1-is-now-available-on-ai-gateway",
+      "supporting_sources": [
+        "https://vercel.com/changelog/particle-1-is-now-available-on-ai-gateway",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "related_x_posts": [
+        "https://x.com/vercel"
+      ],
+      "related_articles": [
+        "https://vercel.com/changelog/particle-1-is-now-available-on-ai-gateway",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "score": 65,
+      "selected_item_id": "cand_f27dcb3e473c4a16"
+    },
+    {
+      "cluster_id": "huggingface_co_b9d14737",
+      "title": "Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories nvidia • 8 days ago • 52",
+      "summary": "Hugging Face – Blog · Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories nvidia • 8 days ago • 52",
+      "primary_source": "https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories",
+      "supporting_sources": [
+        "https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories",
+        "https://huggingface.co/blog",
+        "https://huggingface.co",
+        "https://x.com/huggingface"
+      ],
+      "related_x_posts": [
+        "https://x.com/huggingface"
+      ],
+      "related_articles": [
+        "https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories",
+        "https://huggingface.co/blog",
+        "https://huggingface.co"
+      ],
+      "entities": [
+        "Hugging Face"
+      ],
+      "tags": [
+        "open_source",
+        "papers",
+        "models"
+      ],
+      "score": 65,
+      "selected_item_id": "cand_840e884d3beabf3e"
+    },
+    {
+      "cluster_id": "langchain_com_fb9bd833",
+      "title": "How to build evidence-grounded agent memory with OpenWiki and Graphs",
+      "summary": "LangChain used OpenWiki, its open-source wiki compiler, and an evidence graph to build a persistent memory layer that preserves knowledge for agents to reuse across tasks. Learn how.",
+      "primary_source": "https://www.langchain.com/blog/building-agent-memory-openwiki-graphs",
+      "supporting_sources": [
+        "https://www.langchain.com/blog/building-agent-memory-openwiki-graphs",
+        "https://blog.langchain.com/rss.xml",
+        "https://www.langchain.com",
+        "https://blog.langchain.com",
+        "https://x.com/LangChainAI"
+      ],
+      "related_x_posts": [
+        "https://x.com/LangChainAI"
+      ],
+      "related_articles": [
+        "https://www.langchain.com/blog/building-agent-memory-openwiki-graphs",
+        "https://blog.langchain.com/rss.xml",
+        "https://www.langchain.com",
+        "https://blog.langchain.com"
+      ],
+      "entities": [
+        "LangChain"
+      ],
+      "tags": [
+        "agents",
+        "rag",
+        "framework"
+      ],
+      "score": 65,
+      "selected_item_id": "cand_9c837a23c06b972e"
+    },
+    {
+      "cluster_id": "langchain_com_88ba5cf5",
+      "title": "How to Build Proactive, Always-On Agents with the Schedules SDK in Managed Deep Agents",
+      "summary": "Most proactive agents run on a simple cron. Learn what scheduled runs unlock, from memory to smart triage, and how to add them to Managed Deep Agents.",
+      "primary_source": "https://www.langchain.com/blog/proactive-agents",
+      "supporting_sources": [
+        "https://www.langchain.com/blog/proactive-agents",
+        "https://blog.langchain.com/rss.xml",
+        "https://www.langchain.com",
+        "https://blog.langchain.com",
+        "https://x.com/LangChainAI"
+      ],
+      "related_x_posts": [
+        "https://x.com/LangChainAI"
+      ],
+      "related_articles": [
+        "https://www.langchain.com/blog/proactive-agents",
+        "https://blog.langchain.com/rss.xml",
+        "https://www.langchain.com",
+        "https://blog.langchain.com"
+      ],
+      "entities": [
+        "LangChain"
+      ],
+      "tags": [
+        "agents",
+        "rag",
+        "framework"
+      ],
+      "score": 64,
+      "selected_item_id": "cand_bb0334743b61db97"
+    },
+    {
+      "cluster_id": "ycombinator_com_1592c997",
+      "title": "How Alex Lee became the first engineer at Magic Patterns",
+      "summary": "Alex Lee left his own startup to join Magic Patterns as founding engineer — and built a slide deck feature in a weekend.",
+      "primary_source": "https://www.ycombinator.com/blog/how-alex-lee-became-the-first-engineer-at-magic-patterns",
+      "supporting_sources": [
+        "https://www.ycombinator.com/blog/how-alex-lee-became-the-first-engineer-at-magic-patterns",
+        "https://www.ycombinator.com/blog/feed.xml",
+        "https://www.ycombinator.com",
+        "https://www.ycombinator.com/blog",
+        "https://x.com/ycombinator"
+      ],
+      "related_x_posts": [
+        "https://x.com/ycombinator"
+      ],
+      "related_articles": [
+        "https://www.ycombinator.com/blog/how-alex-lee-became-the-first-engineer-at-magic-patterns",
+        "https://www.ycombinator.com/blog/feed.xml",
+        "https://www.ycombinator.com",
+        "https://www.ycombinator.com/blog"
+      ],
+      "entities": [
+        "Y Combinator"
+      ],
+      "tags": [
+        "startup",
+        "product",
+        "founder"
+      ],
+      "score": 64,
+      "selected_item_id": "cand_95aff88b4a4ee0dd"
+    },
+    {
+      "cluster_id": "lennysnewsletter_com_359de789",
+      "title": "Grok vs. Dot vs. Muse vs. Claude Duet: which one crushes the competition?",
+      "summary": "Listen now | &#127897;&#65039; I ranked Grok Bot, Dot, Muse, and Claude Duet across 9 real tasks&#8212;and the scores told me which agent runs my work and which runs my life",
+      "primary_source": "https://www.lennysnewsletter.com/p/grok-vs-dot-vs-muse-vs-claude-duet",
+      "supporting_sources": [
+        "https://www.lennysnewsletter.com/p/grok-vs-dot-vs-muse-vs-claude-duet",
+        "https://www.lennysnewsletter.com/feed.xml",
+        "https://www.lennysnewsletter.com"
+      ],
+      "related_x_posts": [],
+      "related_articles": [
+        "https://www.lennysnewsletter.com/p/grok-vs-dot-vs-muse-vs-claude-duet",
+        "https://www.lennysnewsletter.com/feed.xml",
+        "https://www.lennysnewsletter.com"
+      ],
+      "entities": [
+        "Lenny's Newsletter"
+      ],
+      "tags": [
+        "product",
+        "growth",
+        "startup"
+      ],
+      "score": 64,
+      "selected_item_id": "cand_22a4d1f7a2e88488"
+    },
+    {
+      "cluster_id": "review_firstround_com_c58ee6f6",
+      "title": "This Founder Built Startups in 2008, 2016 and 2018. Here’s What He’s Learned About Resiliency",
+      "summary": "First Round Review · This Founder Built Startups in 2008, 2016 and 2018. Here’s What He’s Learned About Resiliency",
+      "primary_source": "https://review.firstround.com/this-founder-built-startups-in-2008-2016-and-2018-heres-what-hes-learned-about-resiliency",
+      "supporting_sources": [
+        "https://review.firstround.com/this-founder-built-startups-in-2008-2016-and-2018-heres-what-hes-learned-about-resiliency",
+        "https://review.firstround.com",
+        "https://x.com/firstround"
+      ],
+      "related_x_posts": [
+        "https://x.com/firstround"
+      ],
+      "related_articles": [
+        "https://review.firstround.com/this-founder-built-startups-in-2008-2016-and-2018-heres-what-hes-learned-about-resiliency",
+        "https://review.firstround.com"
+      ],
+      "entities": [
+        "First Round Review"
+      ],
+      "tags": [
+        "playbook",
+        "product",
+        "startup"
+      ],
+      "score": 63,
+      "selected_item_id": "cand_3d879ea8e8ff1afe"
+    }
+  ],
+  "sources": [
+    "vercel.com",
+    "openai.com",
+    "github.blog",
+    "anthropic.com",
+    "deepmind.google",
+    "huggingface.co",
+    "langchain.com",
+    "ycombinator.com",
+    "lennysnewsletter.com",
+    "review.firstround.com"
+  ]
+}
