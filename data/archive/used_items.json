@@ -27686,5 +27686,235 @@
     "cluster_id": "review_firstround_com_c58ee6f6",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4205f78cb4f4c5e7",
+    "canonical_url": "https://vercel.com/changelog/mistral-large-4-updated-weights-and-lower-pricing-on-ai-gateway",
+    "dedupe_key": "8ecb6055d8d4fcdf",
+    "title": "Mistral Large 4 updated weights and lower pricing on AI Gateway",
+    "issue_date": "2026-10-30",
+    "cluster_id": "vercel_com_be713207",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_41cd680acf382eaa",
+    "canonical_url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+    "dedupe_key": "d54de86e8ad866b9",
+    "title": "How we detect frontier model misalignment",
+    "issue_date": "2026-10-30",
+    "cluster_id": "openai_com_f9c5e4d0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b7c4bbcc8856bd87",
+    "canonical_url": "https://mistral.ai/news/mistral-large-4-oss",
+    "dedupe_key": "a53d7270ebc3a935",
+    "title": "Research Le Chonk: Built for Coders, Trusted by Defenders. We release the weights of Le Chonk, advancing the frontier of open models in agentic coding and cybersecurity. October 29, 2026 By Mistral",
+    "issue_date": "2026-10-30",
+    "cluster_id": "mistral_ai_f231551c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3d1bc9984b94e524",
+    "canonical_url": "https://vercel.com/changelog/vercel-plugin-is-now-available-in-antigravity",
+    "dedupe_key": "b8399b5ba995f297",
+    "title": "Vercel Plugin is now available in Antigravity",
+    "issue_date": "2026-10-30",
+    "cluster_id": "vercel_com_4d5a5422",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_fd4aab138f2dfcea",
+    "canonical_url": "https://openai.com/index/updated-model-spec",
+    "dedupe_key": "4c2f2c0fd098b924",
+    "title": "An updated Model Spec for more capable and beneficial AI",
+    "issue_date": "2026-10-30",
+    "cluster_id": "openai_com_fde8d2ef",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_856bab48e23f0e85",
+    "canonical_url": "https://openai.com/index/ropes-gray-ai-diligence",
+    "dedupe_key": "ba77f3dc51d9416b",
+    "title": "How Ropes & Gray is developing AI for transactional diligence",
+    "issue_date": "2026-10-30",
+    "cluster_id": "openai_com_069fab67",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_39e215d0dbc691d9",
+    "canonical_url": "https://developer.nvidia.com/blog/unlocking-tensor-core-performance-for-machine-learning-interatomic-potentials",
+    "dedupe_key": "a080cdf0701c4554",
+    "title": "Unlocking Tensor Core Performance for Machine Learning Interatomic Potentials",
+    "issue_date": "2026-10-30",
+    "cluster_id": "developer_nvidia_com_a7e466e4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9f84e6aee77c0093",
+    "canonical_url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time",
+    "dedupe_key": "9fa8b3b23f753a39",
+    "title": "We urgently need to monitor AI agents’ actions in real time",
+    "issue_date": "2026-10-30",
+    "cluster_id": "technologyreview_com_24344a9d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9625ef0f23286241",
+    "canonical_url": "https://elevenlabs.io/blog/internal-ops-agents",
+    "dedupe_key": "50e45cb791390ee6",
+    "title": "How we use ElevenAgents to save 1,200 hours a month in daily operations",
+    "issue_date": "2026-10-30",
+    "cluster_id": "elevenlabs_io_45920e29",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7299ab24f7adbd9f",
+    "canonical_url": "https://www.langchain.com/blog/managed-deep-agents-browser-use-and-asynchronous-subagents",
+    "dedupe_key": "f617045b088c85ec",
+    "title": "Managed Deep Agents v0.10: Browser Use and Async Subagents",
+    "issue_date": "2026-10-30",
+    "cluster_id": "langchain_com_7486eb9d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e38fe53ef6acb5d1",
+    "canonical_url": "https://www.langchain.com/blog/browser-use-in-managed-deep-agents",
+    "dedupe_key": "a95970c3568071b2",
+    "title": "Browser Use in Managed Deep Agents",
+    "issue_date": "2026-10-30",
+    "cluster_id": "langchain_com_d5889b90",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8373eec60dc08892",
+    "canonical_url": "https://vercel.com/changelog/strix-now-supports-vercel-ai-gateway",
+    "dedupe_key": "9a4cf29c05e96468",
+    "title": "Strix now supports Vercel AI Gateway",
+    "issue_date": "2026-10-30",
+    "cluster_id": "vercel_com_9e3f629a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_00095ee3f0bafe73",
+    "canonical_url": "https://vercel.com/changelog/improved-ip-geolocation-data",
+    "dedupe_key": "a3d2b66f224255cd",
+    "title": "IP geolocation now covers more visitors at higher resolution",
+    "issue_date": "2026-10-30",
+    "cluster_id": "vercel_com_94380115",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7ebf205bfa4c209d",
+    "canonical_url": "https://vercel.com/changelog/vercel-flags-starts-7x-faster-and-no-longer-extends-function-duration",
+    "dedupe_key": "ea0c40086fee2b79",
+    "title": "Vercel Flags starts 7x faster and no longer extends function duration",
+    "issue_date": "2026-10-30",
+    "cluster_id": "vercel_com_c8c4e42f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ebf72a004dafccb1",
+    "canonical_url": "https://vercel.com/changelog/node-js-26-lts-is-now-generally-available-on-vercel",
+    "dedupe_key": "425a7780427e8ed0",
+    "title": "Node.js 26 LTS is now Generally Available on Vercel",
+    "issue_date": "2026-10-30",
+    "cluster_id": "vercel_com_bf8ea21d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0c260eabd96e9aaa",
+    "canonical_url": "https://vercel.com/changelog/vercel-connect-adds-webhook-triggers-for-more-providers",
+    "dedupe_key": "4bf4cb3762ab1ade",
+    "title": "Vercel Connect adds webhook triggers for more providers",
+    "issue_date": "2026-10-30",
+    "cluster_id": "vercel_com_8f728950",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3cfa4d8e081944d6",
+    "canonical_url": "https://vercel.com/changelog/block-ai-crawlers-and-assistants-independently-with-managed-rules",
+    "dedupe_key": "51535db4d821cd7a",
+    "title": "Control AI crawlers and assistants separately in Vercel Firewall",
+    "issue_date": "2026-10-30",
+    "cluster_id": "vercel_com_232da80c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_735a22b96d6139e6",
+    "canonical_url": "https://huggingface.co/blog/announcing-project-protostar",
+    "dedupe_key": "09ba7ced8dce54d4",
+    "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+    "issue_date": "2026-10-30",
+    "cluster_id": "huggingface_co_e62d61cc",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_254890e8aa65105f",
+    "canonical_url": "https://elevenlabs.io/blog/what-is-turn-taking",
+    "dedupe_key": "df7cfc674ed7435d",
+    "title": "What is turn taking in conversational AI: A guide to natural flow",
+    "issue_date": "2026-10-30",
+    "cluster_id": "elevenlabs_io_eb932e44",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2a8b966c14ac22bb",
+    "canonical_url": "https://elevenlabs.io/blog/conversational-ai-in-banking",
+    "dedupe_key": "81f48a4742b03ae8",
+    "title": "Conversational AI in banking: Use cases, benefits, examples",
+    "issue_date": "2026-10-30",
+    "cluster_id": "elevenlabs_io_3c8fc90b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_95f989dd8bf9af09",
+    "canonical_url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+    "dedupe_key": "c25cc69f3667629d",
+    "title": "Granite Switch 4.1.1 — Update models like you update software",
+    "issue_date": "2026-10-30",
+    "cluster_id": "huggingface_co_a66bdf84",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_abd41ab0b2b59d20",
+    "canonical_url": "https://huggingface.co/blog/mistral-large4",
+    "dedupe_key": "d28df5adb48966ec",
+    "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+    "issue_date": "2026-10-30",
+    "cluster_id": "huggingface_co_af3fb447",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c06a8b72916c2451",
+    "canonical_url": "https://huggingface.co/blog/anydecisionmodel",
+    "dedupe_key": "f88e6992380c8363",
+    "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+    "issue_date": "2026-10-30",
+    "cluster_id": "huggingface_co_2a57e242",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]

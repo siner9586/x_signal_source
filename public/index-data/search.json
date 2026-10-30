@@ -1,8 +1,8 @@
 [
   {
-    "title": "Virtual models now available on AI Gateway",
-    "url": "https://vercel.com/changelog/virtual-models-now-available-on-ai-gateway",
-    "summary": "Virtual models are now available on AI Gateway . A virtual model is a saved configuration that tells AI Gateway which model and settings to use. Your apps and agents call it with a custom model ID, such as vmc/coding-agent . You can change the model or settings centrally in AI Gateway without redeploying your apps or reconfiguring your agents. Use virtual models to: Configure coding agents: Set reasoning effort, fast mode, prompt caching, and other options even when your agen",
+    "title": "Mistral Large 4 updated weights and lower pricing on AI Gateway",
+    "url": "https://vercel.com/changelog/mistral-large-4-updated-weights-and-lower-pricing-on-ai-gateway",
+    "summary": "Mistral Large 4 from Mistral now uses updated weights on AI Gateway , with lower pricing for input, cached input, and output tokens. According to Mistral’s release announcement , the updated weights improve agentic coding and defensive cybersecurity, with greater token efficiency on coding tasks. The release also improves spreadsheet creation and editing, web research, and resistance to prompt injection. If you were already using mistral/mistral-large-4 via AI Gateway, there ",
     "tags": [
       "sdk",
       "ai_infra",
@@ -10,13 +10,13 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-10-29",
-    "score": 71
+    "date": "2026-10-30",
+    "score": 72
   },
   {
-    "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-    "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-    "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+    "title": "How we detect frontier model misalignment",
+    "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+    "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
     "tags": [
       "ai_models",
       "official",
@@ -25,13 +25,40 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-10-29",
+    "date": "2026-10-30",
     "score": 70
   },
   {
-    "title": "Legora is building the agentic operating system for legal work",
-    "url": "https://openai.com/index/legora",
-    "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+    "title": "Research Le Chonk: Built for Coders, Trusted by Defenders. We release the weights of Le Chonk, advancing the frontier of open models in agentic coding and cybersecurity. October 29, 2026 By Mistral",
+    "url": "https://mistral.ai/news/mistral-large-4-oss",
+    "summary": "Latest news | Mistral · Research Le Chonk: Built for Coders, Trusted by Defenders. We release the weights of Le Chonk, advancing the frontier of open models in agentic coding and cybersecurity. October 29, 2026 By Mistral",
+    "tags": [
+      "open_model",
+      "european_ai"
+    ],
+    "author": "Mistral AI",
+    "source": "mistral.ai",
+    "date": "2026-10-30",
+    "score": 70
+  },
+  {
+    "title": "Vercel Plugin is now available in Antigravity",
+    "url": "https://vercel.com/changelog/vercel-plugin-is-now-available-in-antigravity",
+    "summary": "The Vercel Plugin is now available in the Google Antigravity marketplace. Use the Vercel Plugin to give your Antigravity agent guidance on Vercel APIs and recommended patterns, with skills for products such as AI SDK , Vercel Functions , and Workflow . This demo shows an Antigravity agent using the Vercel Plugin to build and deploy a Python backend with Vercel Sandbox : Install the Vercel Plugin by opening Customizations → Marketplace in the Antigravity App and searching for ",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-10-30",
+    "score": 68
+  },
+  {
+    "title": "An updated Model Spec for more capable and beneficial AI",
+    "url": "https://openai.com/index/updated-model-spec",
+    "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
     "tags": [
       "ai_models",
       "official",
@@ -40,139 +67,97 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-10-29",
-    "score": 70
-  },
-  {
-    "title": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
-    "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents",
-    "summary": "See how a record year of growth reached every industry, every field, and every kind of builder in the 2026 Octoverse report. The post Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents appeared first on The GitHub Blog .",
-    "tags": [
-      "ai_coding",
-      "developer_tools"
-    ],
-    "author": "GitHub Copilot",
-    "source": "github.blog",
-    "date": "2026-10-29",
-    "score": 70
-  },
-  {
-    "title": "Vercel CI is now in beta",
-    "url": "https://vercel.com/changelog/vercel-ci-is-now-in-beta",
-    "summary": "You can now run CI for your Turborepo with one line of configuration. In Vercel's internal repositories, our wait time from git push to \"CI passed\" is 2-6x shorter, dramatically improving our CI's ability to keep up with our coding agents. To get started, prompt your agent in your repo: Each task marked with a ci tag runs on every push. Vercel CI automatically takes care of: Only running CI that is affected by your code changes Task caching with Vercel Remote Cache Installing",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-29",
-    "score": 69
-  },
-  {
-    "title": "Vercel Container Registry now supports 2 GB compressed image layers",
-    "url": "https://vercel.com/changelog/vercel-container-registry-now-supports-2-gb-compressed-image-layers-new",
-    "summary": "Vercel Container Registry now supports up to 2 GB per compressed image layer, up from 500 MB, allowing larger layers to be pushed without splitting them. The total image size limit remains 15 GB. The higher layer limit is useful for images with large toolchains or dependency sets, such as custom Vercel Sandbox environments for coding-agent evaluations. With Docker and the Vercel CLI installed, run these commands from the directory containing your Dockerfile: Read the Vercel C",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-29",
-    "score": 69
-  },
-  {
-    "title": "Introducing Vercel CI",
-    "url": "https://vercel.com/blog/introducing-vercel-ci",
-    "summary": "Coding agents are opening more pull requests than ever, and each one waits on CI before anyone can review or merge it. Most CI systems run the entire workflow on every push, even a one-line change. The more your agents push, the more time you spend waiting on CI. Today, we're announcing Vercel CI in Beta. It runs only the tasks affected by your code change, and spins up only the compute those checks need, the same way Fluid compute scales with your traffic. At Vercel, our CI ",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-29",
-    "score": 69
-  },
-  {
-    "title": "fx is now available in T3 Code",
-    "url": "https://vercel.com/changelog/fx-is-now-available-in-t3-code",
-    "summary": "You can now use fx , our open-source coding agent harness, in T3 Code on web, desktop, and mobile. T3 Code is an open-source control plane for coding agents, allowing you to add agents like fx as providers for your coding sessions. The built-in fx provider supports Supervised and Auto modes, along with the models and skills you already use with fx. Get started by installing fx and setting up your model provider . Then download T3 Code and add fx from Settings > Providers > Ad",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-29",
-    "score": 69
-  },
-  {
-    "title": "The future of the firm",
-    "url": "https://openai.com/index/the-future-of-the-firm",
-    "summary": "How AI might enter the org chart—beneath, beside, and between us.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-10-29",
+    "date": "2026-10-30",
     "score": 67
   },
   {
-    "title": "GitHub Universe 2026: Evolving every layer of the stack",
-    "url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack",
-    "summary": "Today, we laid out our vision for GitHub as the most comprehensive, end-to-end software delivery system in the world. The post GitHub Universe 2026: Evolving every layer of the stack appeared first on The GitHub Blog .",
+    "title": "How Ropes & Gray is developing AI for transactional diligence",
+    "url": "https://openai.com/index/ropes-gray-ai-diligence",
+    "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
     "tags": [
-      "ai_coding",
-      "developer_tools"
+      "ai_models",
+      "official",
+      "research",
+      "developer"
     ],
-    "author": "GitHub Copilot",
-    "source": "github.blog",
-    "date": "2026-10-29",
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-10-30",
     "score": 67
   },
   {
-    "title": "AI for Science expands to foundations and research institutions",
-    "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
-    "summary": "Newsroom \\ Anthropic · AI for Science expands to foundations and research institutions",
+    "title": "Unlocking Tensor Core Performance for Machine Learning Interatomic Potentials",
+    "url": "https://developer.nvidia.com/blog/unlocking-tensor-core-performance-for-machine-learning-interatomic-potentials",
+    "summary": "NVIDIA Technical Blog · Unlocking Tensor Core Performance for Machine Learning Interatomic Potentials",
     "tags": [
-      "ai_models",
-      "safety",
-      "official"
+      "gpu",
+      "inference",
+      "ai_infra"
     ],
-    "author": "Anthropic",
-    "source": "anthropic.com",
-    "date": "2026-10-29",
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-10-30",
     "score": 66
   },
   {
-    "title": "Gemini 4 Carbon: Our next frontier model",
-    "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
-    "summary": "Gemini 4 Carbon: Our next frontier model 是 Google DeepMind 当日抓取到的公开新增条目。",
+    "title": "We urgently need to monitor AI agents’ actions in real time",
+    "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time",
+    "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Australian government website. It’s a problem&#8230;",
     "tags": [
+      "ai",
       "research",
-      "multimodal",
-      "science",
-      "official"
+      "society"
     ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-10-29",
+    "author": "MIT Technology Review AI",
+    "source": "technologyreview.com",
+    "date": "2026-10-30",
     "score": 66
   },
   {
-    "title": "Box Mount now runs in Vercel Sandbox",
-    "url": "https://vercel.com/changelog/box-mount-now-runs-in-vercel-sandbox",
-    "summary": "Box Mount lets agents running in Vercel Sandbox read and write Box files through standard filesystem operations. It syncs a Box folder with a directory inside the sandbox. Unmount before you stop the sandbox, and everything the agent wrote is in Box after the sandbox is deleted. The contract-review example uses AI Gateway to review a synthetic contract in Vercel Sandbox and save the review back to Box. The sync process and agent run as separate sandbox users, keeping the Box ",
+    "title": "How we use ElevenAgents to save 1,200 hours a month in daily operations",
+    "url": "https://elevenlabs.io/blog/internal-ops-agents",
+    "summary": "How we use ElevenAgents to save 1,200 hours a month in daily operations across GTM, product, support, and engineering",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-10-30",
+    "score": 64
+  },
+  {
+    "title": "Managed Deep Agents v0.10: Browser Use and Async Subagents",
+    "url": "https://www.langchain.com/blog/managed-deep-agents-browser-use-and-asynchronous-subagents",
+    "summary": "Managed Deep Agents v0.10 adds browser use, so agents can work on sites with no API and hand you the window to sign in, and async subagents for background work.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-10-30",
+    "score": 64
+  },
+  {
+    "title": "Browser Use in Managed Deep Agents",
+    "url": "https://www.langchain.com/blog/browser-use-in-managed-deep-agents",
+    "summary": "Managed Deep Agents now runs a browser for your agent, with tools tuned for context-efficient browser use and a handoff so you can sign in yourself.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-10-30",
+    "score": 64
+  },
+  {
+    "title": "Strix now supports Vercel AI Gateway",
+    "url": "https://vercel.com/changelog/strix-now-supports-vercel-ai-gateway",
+    "summary": "Strix , the open-source AI penetration testing tool, can now run on any of the 400+ models on Vercel AI Gateway . Strix can reach models from Anthropic, OpenAI, Kimi, GLM, Deepseek, and others through a single API with no markup, removing the need to sign up for multiple providers. Usage and cost are tracked across all models in AI Gateway. Strix selects the Gateway through STRIX_LLM , where the model is the standard AI Gateway / ID behind a vercel_ai_gateway/ prefix: See Str",
     "tags": [
       "sdk",
       "ai_infra",
@@ -180,13 +165,13 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-10-29",
-    "score": 66
+    "date": "2026-10-30",
+    "score": 63
   },
   {
-    "title": "Introducing Virtual Models on AI Gateway",
-    "url": "https://vercel.com/blog/ai-gateway-virtual-models",
-    "summary": "Today, we are introducing Virtual Models on AI Gateway . Virtual Models are an abstraction of the model string and configurations your apps and developers use. With a single virtual model ID, you can change and update models, configure fallbacks and priority, and enforce Zero Data Retention centrally. The virtual model configuration applies wherever the ID is used. Assign a virtual model ID to an agent task, and pass it as the model string wherever that task is called. You ca",
+    "title": "IP geolocation now covers more visitors at higher resolution",
+    "url": "https://vercel.com/changelog/improved-ip-geolocation-data",
+    "summary": "IP geolocation on Vercel now resolves visitor locations with finer network granularity, delivering city-level data for nearly all requests and postal-code data for 90% of traffic. Geolocation data is now refreshed more often, so locations keep up as IP ranges are reassigned and routing changes. This is enabled for all projects with no code or configuration changes required. Existing geolocation headers along with the geolocation() helper in @vercel/functions , return the same",
     "tags": [
       "sdk",
       "ai_infra",
@@ -194,13 +179,13 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-10-29",
-    "score": 66
+    "date": "2026-10-30",
+    "score": 63
   },
   {
-    "title": "Run Paseo agents on Vercel Sandbox",
-    "url": "https://vercel.com/changelog/run-paseo-agents-on-vercel-sandbox",
-    "summary": "Paseo now supports running fx, Codex, Claude Code, OpenCode, and Pi in the cloud with the Vercel Sandbox plugin . You can now start an agent in Vercel Sandbox from Paseo on your laptop, then connect from your phone to control the same session, even when your laptop is closed. Stopping a sandbox saves your files and conversation history so you can pick up where you left off. Active processes stop with the sandbox. Enter your Vercel AI Gateway key once during setup. The plugin ",
+    "title": "Vercel Flags starts 7x faster and no longer extends function duration",
+    "url": "https://vercel.com/changelog/vercel-flags-starts-7x-faster-and-no-longer-extends-function-duration",
+    "summary": "On Vercel, the Vercel Flags SDK now initializes faster on cold starts, and usage reporting no longer keeps functions running after the response. Faster cold starts Two changes speed up SDK initialization on cold starts: The SDK loads and parses the flags datafile bundled with your deployment as soon as the client is created, so it’s ready before your code evaluates its first flag. Every function invocation now includes the current datafile revision, so the SDK can check wheth",
     "tags": [
       "sdk",
       "ai_infra",
@@ -208,13 +193,13 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-10-29",
-    "score": 66
+    "date": "2026-10-30",
+    "score": 63
   },
   {
-    "title": "Agents can now enable Web Analytics and Observability Plus with Vercel CLI",
-    "url": "https://vercel.com/changelog/agents-can-now-enable-web-analytics-and-observability-plus-with-vercel-cli",
-    "summary": "Vercel CLI no longer requires an interactive terminal to enable Web Analytics or Observability Plus . Agents can now turn them on for your projects without asking you to run the commands yourself. To get started, run either command from a linked project directory: Teams must already be subscribed to Observability Plus to be able to enable it for a project. Update Vercel CLI to version 64.2.0 or later and learn more in the Vercel CLI project documentation . Read more",
+    "title": "Node.js 26 LTS is now Generally Available on Vercel",
+    "url": "https://vercel.com/changelog/node-js-26-lts-is-now-generally-available-on-vercel",
+    "summary": "Node.js 26 LTS is now Generally Available for builds and Vercel Functions . This release includes: HTTP/2 by default for built-in fetch ( Undici 8 ) lets multiple requests share a connection with servers that support it. This can reduce latency when your functions call APIs or databases over HTTP. Temporal API offers an alternative to Date with immutable values and built-in time zone and calendar support. V8 version 14.6 , the updated JavaScript engine, adds features such as ",
     "tags": [
       "sdk",
       "ai_infra",
@@ -222,13 +207,13 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-10-29",
-    "score": 66
+    "date": "2026-10-30",
+    "score": 63
   },
   {
-    "title": "The fx adapter now runs the harness on the host",
-    "url": "https://vercel.com/changelog/fx-harness-adapter-now-separates-host-and-sandbox",
-    "summary": "The fx adapter for the AI SDK’s HarnessAgent now runs the harness and model requests in the same process as your application. Built-in filesystem and shell operations remain isolated in the sandbox. The adapter uses libfx , the TypeScript library for fx. It no longer needs to install fx inside the sandbox, run a sandbox bridge, or expose a sandbox port. Model credentials stay on the host rather than being forwarded into the sandbox. The rewrite also adds: Built-in tool filter",
+    "title": "Vercel Connect adds webhook triggers for more providers",
+    "url": "https://vercel.com/changelog/vercel-connect-adds-webhook-triggers-for-more-providers",
+    "summary": "Vercel Connect now supports webhook triggers for Resend , X , Twilio , Notion , and Telegram . Connect receives webhook events, such as Telegram bot messages or emails received by your Resend domain, and forwards them to an endpoint in your Vercel project. It verifies incoming requests and handles provider heartbeats and verification challenges for you. To get started: Open Vercel Connect in the dashboard. Enable triggers when creating a connector for your provider or in an e",
     "tags": [
       "sdk",
       "ai_infra",
@@ -236,13 +221,13 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-10-29",
-    "score": 66
+    "date": "2026-10-30",
+    "score": 63
   },
   {
-    "title": "Particle-1 is now available on AI Gateway",
-    "url": "https://vercel.com/changelog/particle-1-is-now-available-on-ai-gateway",
-    "summary": "Particle-1 from Particle AI is now available on AI Gateway . It is post-trained on DeepSeek V4.1 Flash, with a focus on completing software engineering tasks using fewer tokens. Particle describes the gains as shorter reasoning, fewer rounds of trial and repair, and more focused exploration. Use it for debugging, planning code changes, and breaking down multi-step engineering problems. Particle-1 has a 1M-token context window for working with code and extended task histories.",
+    "title": "Control AI crawlers and assistants separately in Vercel Firewall",
+    "url": "https://vercel.com/changelog/block-ai-crawlers-and-assistants-independently-with-managed-rules",
+    "summary": "You can now log or block requests from AI crawlers and AI assistants separately with the AI Bots managed ruleset in Vercel Firewall . AI crawlers: bots that collect content for indexing and model training AI assistants: bots that fetch pages in response to user actions or search queries For example, you can block AI crawlers while allowing AI assistants to retrieve your content to answer users’ questions. Vercel updates the rules as new bots are added. To configure these cont",
     "tags": [
       "sdk",
       "ai_infra",
@@ -250,13 +235,13 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-10-29",
-    "score": 65
+    "date": "2026-10-30",
+    "score": 63
   },
   {
-    "title": "Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories nvidia • 8 days ago • 52",
-    "url": "https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories",
-    "summary": "Hugging Face – Blog · Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories nvidia • 8 days ago • 52",
+    "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+    "url": "https://huggingface.co/blog/announcing-project-protostar",
+    "summary": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -264,77 +249,75 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-10-29",
-    "score": 65
-  },
-  {
-    "title": "How to build evidence-grounded agent memory with OpenWiki and Graphs",
-    "url": "https://www.langchain.com/blog/building-agent-memory-openwiki-graphs",
-    "summary": "LangChain used OpenWiki, its open-source wiki compiler, and an evidence graph to build a persistent memory layer that preserves knowledge for agents to reuse across tasks. Learn how.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-10-29",
-    "score": 65
-  },
-  {
-    "title": "How to Build Proactive, Always-On Agents with the Schedules SDK in Managed Deep Agents",
-    "url": "https://www.langchain.com/blog/proactive-agents",
-    "summary": "Most proactive agents run on a simple cron. Learn what scheduled runs unlock, from memory to smart triage, and how to add them to Managed Deep Agents.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-10-29",
-    "score": 64
-  },
-  {
-    "title": "How Alex Lee became the first engineer at Magic Patterns",
-    "url": "https://www.ycombinator.com/blog/how-alex-lee-became-the-first-engineer-at-magic-patterns",
-    "summary": "Alex Lee left his own startup to join Magic Patterns as founding engineer — and built a slide deck feature in a weekend.",
-    "tags": [
-      "startup",
-      "product",
-      "founder"
-    ],
-    "author": "Y Combinator",
-    "source": "ycombinator.com",
-    "date": "2026-10-29",
-    "score": 64
-  },
-  {
-    "title": "Grok vs. Dot vs. Muse vs. Claude Duet: which one crushes the competition?",
-    "url": "https://www.lennysnewsletter.com/p/grok-vs-dot-vs-muse-vs-claude-duet",
-    "summary": "Listen now | &#127897;&#65039; I ranked Grok Bot, Dot, Muse, and Claude Duet across 9 real tasks&#8212;and the scores told me which agent runs my work and which runs my life",
-    "tags": [
-      "product",
-      "growth",
-      "startup"
-    ],
-    "author": "Lenny's Newsletter",
-    "source": "lennysnewsletter.com",
-    "date": "2026-10-29",
-    "score": 64
-  },
-  {
-    "title": "This Founder Built Startups in 2008, 2016 and 2018. Here’s What He’s Learned About Resiliency",
-    "url": "https://review.firstround.com/this-founder-built-startups-in-2008-2016-and-2018-heres-what-hes-learned-about-resiliency",
-    "summary": "First Round Review · This Founder Built Startups in 2008, 2016 and 2018. Here’s What He’s Learned About Resiliency",
-    "tags": [
-      "playbook",
-      "product",
-      "startup"
-    ],
-    "author": "First Round Review",
-    "source": "review.firstround.com",
-    "date": "2026-10-29",
+    "date": "2026-10-30",
     "score": 63
+  },
+  {
+    "title": "What is turn taking in conversational AI: A guide to natural flow",
+    "url": "https://elevenlabs.io/blog/what-is-turn-taking",
+    "summary": "Turn taking decides when a voice agent speaks, pauses, or listens. Learn how it works, how barge-in is handled, and how to measure and tune it.",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-10-30",
+    "score": 62
+  },
+  {
+    "title": "Conversational AI in banking: Use cases, benefits, examples",
+    "url": "https://elevenlabs.io/blog/conversational-ai-in-banking",
+    "summary": "Learn what conversational AI in banking is, how voice agents handle phone calls, use cases, core metrics, and how banks and fintechs use ElevenAgents today",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-10-30",
+    "score": 62
+  },
+  {
+    "title": "Granite Switch 4.1.1 — Update models like you update software",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+    "summary": "Granite Switch 4.1.1 — Update models like you update software 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-10-30",
+    "score": 62
+  },
+  {
+    "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+    "url": "https://huggingface.co/blog/mistral-large4",
+    "summary": "Welcome Le Chonk: Mistral Large 4 on Hugging Face 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-10-30",
+    "score": 62
+  },
+  {
+    "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+    "url": "https://huggingface.co/blog/anydecisionmodel",
+    "summary": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-10-30",
+    "score": 62
   }
 ]
