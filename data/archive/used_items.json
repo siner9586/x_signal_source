@@ -28146,5 +28146,205 @@
     "cluster_id": "vercel_com_ce39c8c5",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4b34c24ed85e2805",
+    "canonical_url": "https://elevenlabs.io/blog/warm-transfer-vs-cold-transfer",
+    "dedupe_key": "b4cd75c7caef67c5",
+    "title": "Warm transfer vs cold transfer: choosing the right call",
+    "issue_date": "2026-11-01",
+    "cluster_id": "elevenlabs_io_0dd42f03",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_82e08301d49fef18",
+    "canonical_url": "https://elevenlabs.io/blog/telus-digital-early-cancellations",
+    "dedupe_key": "74e86d8bed477e6d",
+    "title": "TELUS Digital cut early cancellations by more than half with ElevenAgents",
+    "issue_date": "2026-11-01",
+    "cluster_id": "elevenlabs_io_5960e283",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_10529da62bf72c6c",
+    "canonical_url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+    "dedupe_key": "c546ab9bf5fb0fe3",
+    "title": "nemotron-halloween",
+    "issue_date": "2026-11-01",
+    "cluster_id": "huggingface_co_76bc5b97",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_070302eb7f604a8d",
+    "canonical_url": "https://www.lennysnewsletter.com/p/community-wisdom-the-biggest-sources",
+    "dedupe_key": "89a138df1cf8d066",
+    "title": "🧠 Community Wisdom: The biggest sources of interruptions for PMs, hiring junior PMs with case studies vs. behavioral interviews, building a product harness for AI-driven development, and more",
+    "issue_date": "2026-11-01",
+    "cluster_id": "lennysnewsletter_com_8f12892e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_37cf5b22bede47a3",
+    "canonical_url": "https://elevenlabs.io/blog/lettuce",
+    "dedupe_key": "05e56ba767b3eb9c",
+    "title": "Lettuce cuts creative ad production from over a week to under a minute with ElevenLabs",
+    "issue_date": "2026-11-01",
+    "cluster_id": "elevenlabs_io_46d1771f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4057340b68365766",
+    "canonical_url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context",
+    "dedupe_key": "a339e12b78b517cf",
+    "title": "Creating AI value with enterprise context",
+    "issue_date": "2026-11-01",
+    "cluster_id": "technologyreview_com_98d78a7b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4171a180e96d52f3",
+    "canonical_url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control",
+    "dedupe_key": "580ec11bf9ec3ff7",
+    "title": "Pairing industrial AI autonomy and human control",
+    "issue_date": "2026-11-01",
+    "cluster_id": "technologyreview_com_ed296c60",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_83a7b1afa034f499",
+    "canonical_url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing",
+    "dedupe_key": "24599223bbe7b9a1",
+    "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
+    "issue_date": "2026-11-01",
+    "cluster_id": "technologyreview_com_e00be53a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0e7e181ff3340f2f",
+    "canonical_url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up",
+    "dedupe_key": "af17b585a56f69b2",
+    "title": "Will the real Anthropic please stand up",
+    "issue_date": "2026-11-01",
+    "cluster_id": "technologyreview_com_453e8d37",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f0a03bfb0162ff40",
+    "canonical_url": "https://arxiv.org/list/cs.AI/recent?skip=392&amp%3Bshow=50",
+    "dedupe_key": "3ab4a417b0a4dec9",
+    "title": "Wed, 28 Oct 2026",
+    "issue_date": "2026-11-01",
+    "cluster_id": "arxiv_org_69fade87",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a9ba0d89bf27dc89",
+    "canonical_url": "https://arxiv.org/list/cs.AI/recent?skip=646&amp%3Bshow=50",
+    "dedupe_key": "c5d56027b3ae4803",
+    "title": "Tue, 27 Oct 2026",
+    "issue_date": "2026-11-01",
+    "cluster_id": "arxiv_org_79c32ef8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2feea44ae70526d3",
+    "canonical_url": "https://arxiv.org/list/cs.AI/recent?skip=1079&amp%3Bshow=50",
+    "dedupe_key": "ac26affc2734b8d5",
+    "title": "Mon, 26 Oct 2026",
+    "issue_date": "2026-11-01",
+    "cluster_id": "arxiv_org_7d87d5e4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d21dd3244ae339c7",
+    "canonical_url": "https://arxiv.org/list/cs.AI/recent?skip=1268&amp%3Bshow=50",
+    "dedupe_key": "38951abd761fdff6",
+    "title": "Fri, 23 Oct 2026",
+    "issue_date": "2026-11-01",
+    "cluster_id": "arxiv_org_7315cf28",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_89daa7de1eb4e3ca",
+    "canonical_url": "https://elevenlabs.io/blog/sound-effects-v3",
+    "dedupe_key": "f3cf1f0ece972557",
+    "title": "Introducing SFX v3 in ElevenCreative and ElevenAPI",
+    "issue_date": "2026-11-01",
+    "cluster_id": "elevenlabs_io_3d16583a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4c1a470f340bab87",
+    "canonical_url": "https://elevenlabs.io/blog/elevenlabs-adela",
+    "dedupe_key": "e795622c43f55a97",
+    "title": "ElevenLabs and adELA bring free voice restoration to Spain",
+    "issue_date": "2026-11-01",
+    "cluster_id": "elevenlabs_io_c385dd97",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7e8095079fe9528a",
+    "canonical_url": "https://elevenlabs.io/blog/cue-aligner",
+    "dedupe_key": "ab0b0edd88e7fd99",
+    "title": "How your transcript knows where each word is spoken",
+    "issue_date": "2026-11-01",
+    "cluster_id": "elevenlabs_io_2b09bf03",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_458446ee9ca319d5",
+    "canonical_url": "https://elevenlabs.io/blog/voice-ai-for-karnataka",
+    "dedupe_key": "c4e9565fe30f46fd",
+    "title": "Voice AI for Karnataka",
+    "issue_date": "2026-11-01",
+    "cluster_id": "elevenlabs_io_0caa0a6d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_83b2ff67c4226550",
+    "canonical_url": "https://elevenlabs.io/blog/build-an-ai-voice-assistant",
+    "dedupe_key": "1bd0869896419ad8",
+    "title": "How to build an AI voice assistant: Brand-aligned voice AI",
+    "issue_date": "2026-11-01",
+    "cluster_id": "elevenlabs_io_c85911a2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2c6463c8869a536e",
+    "canonical_url": "https://elevenlabs.io/blog/how-text-to-speech-technology-works",
+    "dedupe_key": "2b27e11393237b25",
+    "title": "How text to speech technology works: From text to natural voice",
+    "issue_date": "2026-11-01",
+    "cluster_id": "elevenlabs_io_872dc407",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e69f5534c4b20130",
+    "canonical_url": "https://stratechery.com/2026/sharp-tech-on-video-anthropics-s-1-and-what-it-means-for-meta-and-muse-you-can-see-everything-and-brewers",
+    "dedupe_key": "8dcebcb58a346230",
+    "title": "Sharp Tech on Video: Anthropic&#8217;s S-1 and What It Means for Meta and Muse, You Can See Everything, and Brewers!",
+    "issue_date": "2026-11-01",
+    "cluster_id": "stratechery_com_dc93382c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]

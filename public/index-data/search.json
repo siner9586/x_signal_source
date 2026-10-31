@@ -1,222 +1,34 @@
 [
   {
-    "title": "Ling 3.1 Flash 1019 now available on AI Gateway for free",
-    "url": "https://vercel.com/changelog/ling-3-1-flash-1019-now-available-on-ai-gateway-for-free",
-    "summary": "Ling 3.1 Flash 1019 from InclusionAI is now available on AI Gateway , free until November 3, 2026. The updated model is designed for coding, multi-step reasoning, and agents that use tools. Its 1M-token context window supports workflows involving long documents, code, and extended task histories. Use inclusionai/ling-3.1-flash-1019 as the model name: Free requests still appear in your spend dashboard with a full request trace, they just cost nothing. On November 3, requests w",
+    "title": "Warm transfer vs cold transfer: choosing the right call",
+    "url": "https://elevenlabs.io/blog/warm-transfer-vs-cold-transfer",
+    "summary": "Learn the difference between a warm transfer vs cold transfer, when to use each, and how AI voice agents hand calls to a human with full context.",
     "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
+      "voice_ai",
+      "audio"
     ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-31",
-    "score": 71
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-11-01",
+    "score": 62
   },
   {
-    "title": "How Yair Alon went from building Portrait Mode at Google to founding researcher at Poetiq",
-    "url": "https://www.ycombinator.com/blog/how-yair-alon-went-from-building-portrait-mode-at-google-to-founding-researcher-at-poetiq",
-    "summary": "After 10 years at Google Research and DeepMind, Yair Alon joined Poetiq to build an AI that improves itself.",
+    "title": "TELUS Digital cut early cancellations by more than half with ElevenAgents",
+    "url": "https://elevenlabs.io/blog/telus-digital-early-cancellations",
+    "summary": "TELUS Digital uses ElevenAgents to call new internet customers in their first 90 days, cutting early cancellations by more than half",
     "tags": [
-      "startup",
-      "product",
-      "founder"
+      "voice_ai",
+      "audio"
     ],
-    "author": "Y Combinator",
-    "source": "ycombinator.com",
-    "date": "2026-10-31",
-    "score": 71
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-11-01",
+    "score": 62
   },
   {
-    "title": "How Dylan Anderson became founding engineer at Adam",
-    "url": "https://www.ycombinator.com/blog/how-dylan-anderson-became-founding-engineer-at-adam",
-    "summary": "Dylan left Minnesota for San Francisco to build AI agents for CAD software as the first engineer at Adam (W25).",
-    "tags": [
-      "startup",
-      "product",
-      "founder"
-    ],
-    "author": "Y Combinator",
-    "source": "ycombinator.com",
-    "date": "2026-10-31",
-    "score": 70
-  },
-  {
-    "title": "Fair use benefits everyone",
-    "url": "https://openai.com/index/fair-use-benefits-everyone",
-    "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-10-31",
-    "score": 69
-  },
-  {
-    "title": "Build Specialized Agents on a Stack You Control with NVIDIA NemoClaw",
-    "url": "https://developer.nvidia.com/blog/build-specialized-agents-on-a-stack-you-control-with-nvidia-nemoclaw",
-    "summary": "NVIDIA Technical Blog · Build Specialized Agents on a Stack You Control with NVIDIA NemoClaw",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-10-31",
-    "score": 69
-  },
-  {
-    "title": "Making it easier for websites to express AI training preferences",
-    "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-    "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-10-31",
-    "score": 67
-  },
-  {
-    "title": "Community safety report and new protections for teens",
-    "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-    "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-10-31",
-    "score": 67
-  },
-  {
-    "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
-    "url": "https://openai.com/index/credit-saison",
-    "summary": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-10-31",
-    "score": 67
-  },
-  {
-    "title": "Simplifying runtime caching on Vercel",
-    "url": "https://vercel.com/blog/simplifying-runtime-caching-on-vercel",
-    "summary": "Today, we’re bringing Data Cache into Runtime Cache, giving developers one product for data caching across frameworks and APIs. If you use Next.js fetch caching or unstable_cache , you won’t need to change your code. Pro and Enterprise projects will get larger storage allocations. Runtime Cache lets your code reuse fetched or computed data across requests without operating a separate caching service. Over the past year, we’ve improved read performance during traffic bursts, i",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-31",
-    "score": 67
-  },
-  {
-    "title": "Build a Validated Kubernetes Runtime for NVIDIA Dynamo",
-    "url": "https://developer.nvidia.com/blog/build-a-validated-kubernetes-runtime-for-nvidia-dynamo",
-    "summary": "NVIDIA Technical Blog · Build a Validated Kubernetes Runtime for NVIDIA Dynamo",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-10-31",
-    "score": 66
-  },
-  {
-    "title": "Run AI Models for Edge Application Development with Just a Few Commands",
-    "url": "https://developer.nvidia.com/blog/run-ai-models-for-edge-application-development-with-just-a-few-commands",
-    "summary": "NVIDIA Technical Blog · Run AI Models for Edge Application Development with Just a Few Commands",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-10-31",
-    "score": 66
-  },
-  {
-    "title": "How to Check and Configure NVIDIA GPUDirect Storage for Your Platform",
-    "url": "https://developer.nvidia.com/blog/how-to-check-and-configure-nvidia-gpudirect-storage-for-your-platform",
-    "summary": "NVIDIA Technical Blog · How to Check and Configure NVIDIA GPUDirect Storage for Your Platform",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-10-31",
-    "score": 66
-  },
-  {
-    "title": "Introducing Geist Serif",
-    "url": "https://vercel.com/blog/introducing-geist-serif",
-    "summary": "Geist started as a monospace typeface for developers, built for the editors and terminals where they spend their day doing their work. From there it grew into Geist Sans for product interfaces, and then into Geist Pixel, which was inspired by the grids of early computer screens. Today, we're adding a new member to the family: Geist Serif . Geist Serif is a high-contrast display serif built on the same foundations as Geist Sans, Geist Mono, and Geist Pixel. It has fine, saw-to",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-31",
-    "score": 65
-  },
-  {
-    "title": "How Andrew HunzekerHesed became Employee #1 at 10x Science",
-    "url": "https://www.ycombinator.com/blog/how-andrew-hunzekerhesed-became-employee-1-at-10x-science",
-    "summary": "A principal engineer left consumer-scale software to build AI-native scientific analysis tools as the founding engineer at 10x Science.",
-    "tags": [
-      "startup",
-      "product",
-      "founder"
-    ],
-    "author": "Y Combinator",
-    "source": "ycombinator.com",
-    "date": "2026-10-31",
-    "score": 65
-  },
-  {
-    "title": "How Max Friedlander became founding operations at Petrarch",
-    "url": "https://www.ycombinator.com/blog/how-max-friedlander-became-founding-operations-at-petrarch",
-    "summary": "A math major who turned down safe internships to lead high-stakes deals at a YC S26 startup supplying data for frontier AI labs.",
-    "tags": [
-      "startup",
-      "product",
-      "founder"
-    ],
-    "author": "Y Combinator",
-    "source": "ycombinator.com",
-    "date": "2026-10-31",
-    "score": 65
-  },
-  {
-    "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt nvidia • 2 days ago • 83",
-    "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-    "summary": "Hugging Face – Blog · NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt nvidia • 2 days ago • 83",
+    "title": "nemotron-halloween",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+    "summary": "nemotron-halloween 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -224,105 +36,238 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-10-31",
-    "score": 64
+    "date": "2026-11-01",
+    "score": 62
   },
   {
-    "title": "How Harsh Vardhan Goenka became founding engineer #1 at Kalpa Labs",
-    "url": "https://www.ycombinator.com/blog/how-harsh-vardhan-goenka-became-founding-engineer-1-at-kalpa-labs",
-    "summary": "From ICPC World Finals to competitive programming clubs to building generalist audio models as the first engineer at a YC startup.",
+    "title": "🧠 Community Wisdom: The biggest sources of interruptions for PMs, hiring junior PMs with case studies vs. behavioral interviews, building a product harness for AI-driven development, and more",
+    "url": "https://www.lennysnewsletter.com/p/community-wisdom-the-biggest-sources",
+    "summary": "Community Wisdom 304",
     "tags": [
-      "startup",
       "product",
-      "founder"
+      "growth",
+      "startup"
     ],
-    "author": "Y Combinator",
-    "source": "ycombinator.com",
-    "date": "2026-10-31",
-    "score": 64
+    "author": "Lenny's Newsletter",
+    "source": "lennysnewsletter.com",
+    "date": "2026-11-01",
+    "score": 62
   },
   {
-    "title": "How David Mount became employee #2 (for the second time) at 10x Science",
-    "url": "https://www.ycombinator.com/blog/how-david-mount-became-employee-2-for-the-second-time-at-10x-science",
-    "summary": "A veteran engineer finds his next act helping scientists discover cures, one amino acid at a time, at YC W26 startup 10x Science.",
+    "title": "Lettuce cuts creative ad production from over a week to under a minute with ElevenLabs",
+    "url": "https://elevenlabs.io/blog/lettuce",
+    "summary": "Lettuce uses Ads Engine in ElevenCreative to generate Meta ad variants in 45 seconds, cutting creative costs by 75% and cost per lead by 40-60%.",
     "tags": [
-      "startup",
-      "product",
-      "founder"
+      "voice_ai",
+      "audio"
     ],
-    "author": "Y Combinator",
-    "source": "ycombinator.com",
-    "date": "2026-10-31",
-    "score": 64
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-11-01",
+    "score": 61
   },
   {
-    "title": "How Varsha Parthasarathy became engineer #1 at Flex — solving a problem she'd experienced",
-    "url": "https://www.ycombinator.com/blog/how-varsha-parthasarathy-became-engineer-1-at-flex-four-months-postpartum-chasing-a-problem-shed-lived",
-    "summary": "From Lyft's self-driving division to fixing HSA/FSA payments, Varsha joined Flex as its first engineer and built from scratch.",
+    "title": "Creating AI value with enterprise context",
+    "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context",
+    "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outcomes and actions that emerge may be wrong, confused, or lacking a&#8230;",
     "tags": [
-      "startup",
-      "product",
-      "founder"
+      "ai",
+      "research",
+      "society"
     ],
-    "author": "Y Combinator",
-    "source": "ycombinator.com",
-    "date": "2026-10-31",
-    "score": 64
+    "author": "MIT Technology Review AI",
+    "source": "technologyreview.com",
+    "date": "2026-11-01",
+    "score": 61
   },
   {
-    "title": "How Sherif Amer went from electronics engineer to employee #1 at Indemni",
-    "url": "https://www.ycombinator.com/blog/how-sherif-amer-went-from-electronics-engineer-to-employee-1-at-indemni",
-    "summary": "A layoff, two years of travel, and a self-taught pivot to software led Sherif Amer to become the founding engineer at Indemni.",
+    "title": "Pairing industrial AI autonomy and human control",
+    "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control",
+    "summary": "Pairing industrial AI autonomy and human control 是 MIT Technology Review AI 当日抓取到的公开新增条目。",
     "tags": [
-      "startup",
-      "product",
-      "founder"
+      "ai",
+      "research",
+      "society"
     ],
-    "author": "Y Combinator",
-    "source": "ycombinator.com",
-    "date": "2026-10-31",
-    "score": 64
+    "author": "MIT Technology Review AI",
+    "source": "technologyreview.com",
+    "date": "2026-11-01",
+    "score": 61
   },
   {
-    "title": "Data Cache is moving to Runtime Cache",
-    "url": "https://vercel.com/changelog/data-cache-is-moving-to-runtime-cache",
-    "summary": "Data Cache is exiting beta and moving to Runtime Cache . Next.js fetch caching and unstable_cache will switch over on every version without code changes. On Pro, each project and environment gets its own Runtime Cache storage allocation, with 8x the space of Data Cache’s previous team-wide pool. Enterprise projects get 10x their previous Data Cache storage. Once your team migrates, Data Cache reads and writes that were previously unbilled are charged at Runtime Cache pricing ",
+    "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
+    "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing",
+    "summary": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The machine settings matter, but so does knowing how a particular material behaves, what happened during the previous shift, and when an apparently minor&#8230;",
     "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
+      "ai",
+      "research",
+      "society"
     ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-31",
-    "score": 63
+    "author": "MIT Technology Review AI",
+    "source": "technologyreview.com",
+    "date": "2026-11-01",
+    "score": 61
   },
   {
-    "title": "Vercel Daemons can now call services with bindings",
-    "url": "https://vercel.com/changelog/vercel-daemons-can-now-call-services-with-bindings",
-    "summary": "Vercel Daemons can now call the services in their deployment through service bindings . Declare the binding on the daemon. It names the target service and the environment variable that receives the service's URL: The daemon calls that URL like any other HTTP endpoint. Vercel handles the internal routing, authentication, and TLS, and the service stays private: Bindings point one way: services can't bind to daemons. Each instance keeps calling the deployment that started it, ev",
+    "title": "Will the real Anthropic please stand up",
+    "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s unique view of the technology it&#8230;",
     "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
+      "ai",
+      "research",
+      "society"
     ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-31",
-    "score": 63
+    "author": "MIT Technology Review AI",
+    "source": "technologyreview.com",
+    "date": "2026-11-01",
+    "score": 61
   },
   {
-    "title": "Add liveness checks to your Daemons",
-    "url": "https://vercel.com/changelog/add-liveness-checks-to-your-daemons",
-    "summary": "Vercel Daemons now support configuring HTTP liveness checks. Start with an HTTP endpoint in your daemon that reports its health. Keep it lightweight so it responds quickly, and have it return an error status when the daemon is no longer healthy: The daemon configuration now accepts a livenessProbe value pointing at that endpoint: Vercel periodically requests the endpoint and restarts the daemon's container when the check fails, catching a daemon that is still running but no l",
+    "title": "Wed, 28 Oct 2026",
+    "url": "https://arxiv.org/list/cs.AI/recent?skip=392&amp%3Bshow=50",
+    "summary": "Artificial Intelligence · Wed, 28 Oct 2026",
     "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
+      "paper",
+      "ai",
+      "arxiv"
     ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-31",
-    "score": 63
+    "author": "arXiv CS AI",
+    "source": "arxiv.org",
+    "date": "2026-11-01",
+    "score": 60
+  },
+  {
+    "title": "Tue, 27 Oct 2026",
+    "url": "https://arxiv.org/list/cs.AI/recent?skip=646&amp%3Bshow=50",
+    "summary": "Artificial Intelligence · Tue, 27 Oct 2026",
+    "tags": [
+      "paper",
+      "ai",
+      "arxiv"
+    ],
+    "author": "arXiv CS AI",
+    "source": "arxiv.org",
+    "date": "2026-11-01",
+    "score": 60
+  },
+  {
+    "title": "Mon, 26 Oct 2026",
+    "url": "https://arxiv.org/list/cs.AI/recent?skip=1079&amp%3Bshow=50",
+    "summary": "Artificial Intelligence · Mon, 26 Oct 2026",
+    "tags": [
+      "paper",
+      "ai",
+      "arxiv"
+    ],
+    "author": "arXiv CS AI",
+    "source": "arxiv.org",
+    "date": "2026-11-01",
+    "score": 60
+  },
+  {
+    "title": "Fri, 23 Oct 2026",
+    "url": "https://arxiv.org/list/cs.AI/recent?skip=1268&amp%3Bshow=50",
+    "summary": "Artificial Intelligence · Fri, 23 Oct 2026",
+    "tags": [
+      "paper",
+      "ai",
+      "arxiv"
+    ],
+    "author": "arXiv CS AI",
+    "source": "arxiv.org",
+    "date": "2026-11-01",
+    "score": 60
+  },
+  {
+    "title": "Introducing SFX v3 in ElevenCreative and ElevenAPI",
+    "url": "https://elevenlabs.io/blog/sound-effects-v3",
+    "summary": "SFX v3 is here: more reliable multi-sound prompts, more convincing music and vocals, and cleaner audio. Now in ElevenCreative and ElevenAPI.",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-11-01",
+    "score": 59
+  },
+  {
+    "title": "ElevenLabs and adELA bring free voice restoration to Spain",
+    "url": "https://elevenlabs.io/blog/elevenlabs-adela",
+    "summary": "ElevenLabs partners with adELA, Spain’s leading ALS association, to restore the voices of patients living with ALS for free.",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-11-01",
+    "score": 59
+  },
+  {
+    "title": "How your transcript knows where each word is spoken",
+    "url": "https://elevenlabs.io/blog/cue-aligner",
+    "summary": "Meet Cue, ElevenLabs’ forced alignment model: character-level timestamps, any recording length, and an hour of audio aligned in under a second.",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-11-01",
+    "score": 59
+  },
+  {
+    "title": "Voice AI for Karnataka",
+    "url": "https://elevenlabs.io/blog/voice-ai-for-karnataka",
+    "summary": "ElevenLabs signs an MoU with the Government of Karnataka to bring voice AI to citizen services, voice AI safety and voice restoration.",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-11-01",
+    "score": 59
+  },
+  {
+    "title": "How to build an AI voice assistant: Brand-aligned voice AI",
+    "url": "https://elevenlabs.io/blog/build-an-ai-voice-assistant",
+    "summary": "Discover how to build an AI voice assistant with reliable speech, natural dialogue, and safeguards that earn users' trust at scale using ElevenAPI.",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-11-01",
+    "score": 59
+  },
+  {
+    "title": "How text to speech technology works: From text to natural voice",
+    "url": "https://elevenlabs.io/blog/how-text-to-speech-technology-works",
+    "summary": "Learn how text to speech technology works by turning text into natural voice, from normalization and prosody to neural models, with a worked examples.",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-11-01",
+    "score": 59
+  },
+  {
+    "title": "Sharp Tech on Video: Anthropic&#8217;s S-1 and What It Means for Meta and Muse, You Can See Everything, and Brewers!",
+    "url": "https://stratechery.com/2026/sharp-tech-on-video-anthropics-s-1-and-what-it-means-for-meta-and-muse-you-can-see-everything-and-brewers",
+    "summary": "Sharp Tech is, for the first time, available on video. You have three ways to consume it: YouTube, Spotify, and here on Stratechery.",
+    "tags": [
+      "strategy",
+      "tech",
+      "business"
+    ],
+    "author": "Stratechery",
+    "source": "stratechery.com",
+    "date": "2026-11-01",
+    "score": 58
   }
 ]
