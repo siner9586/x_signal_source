@@ -1,8 +1,8 @@
 [
   {
-    "title": "Mistral Large 4 updated weights and lower pricing on AI Gateway",
-    "url": "https://vercel.com/changelog/mistral-large-4-updated-weights-and-lower-pricing-on-ai-gateway",
-    "summary": "Mistral Large 4 from Mistral now uses updated weights on AI Gateway , with lower pricing for input, cached input, and output tokens. According to Mistral’s release announcement , the updated weights improve agentic coding and defensive cybersecurity, with greater token efficiency on coding tasks. The release also improves spreadsheet creation and editing, web research, and resistance to prompt injection. If you were already using mistral/mistral-large-4 via AI Gateway, there ",
+    "title": "Ling 3.1 Flash 1019 now available on AI Gateway for free",
+    "url": "https://vercel.com/changelog/ling-3-1-flash-1019-now-available-on-ai-gateway-for-free",
+    "summary": "Ling 3.1 Flash 1019 from InclusionAI is now available on AI Gateway , free until November 3, 2026. The updated model is designed for coding, multi-step reasoning, and agents that use tools. Its 1M-token context window supports workflows involving long documents, code, and extended task histories. Use inclusionai/ling-3.1-flash-1019 as the model name: Free requests still appear in your spend dashboard with a full request trace, they just cost nothing. On November 3, requests w",
     "tags": [
       "sdk",
       "ai_infra",
@@ -10,55 +10,41 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-10-30",
-    "score": 72
+    "date": "2026-10-31",
+    "score": 71
   },
   {
-    "title": "How we detect frontier model misalignment",
-    "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-    "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+    "title": "How Yair Alon went from building Portrait Mode at Google to founding researcher at Poetiq",
+    "url": "https://www.ycombinator.com/blog/how-yair-alon-went-from-building-portrait-mode-at-google-to-founding-researcher-at-poetiq",
+    "summary": "After 10 years at Google Research and DeepMind, Yair Alon joined Poetiq to build an AI that improves itself.",
     "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
+      "startup",
+      "product",
+      "founder"
     ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-10-30",
+    "author": "Y Combinator",
+    "source": "ycombinator.com",
+    "date": "2026-10-31",
+    "score": 71
+  },
+  {
+    "title": "How Dylan Anderson became founding engineer at Adam",
+    "url": "https://www.ycombinator.com/blog/how-dylan-anderson-became-founding-engineer-at-adam",
+    "summary": "Dylan left Minnesota for San Francisco to build AI agents for CAD software as the first engineer at Adam (W25).",
+    "tags": [
+      "startup",
+      "product",
+      "founder"
+    ],
+    "author": "Y Combinator",
+    "source": "ycombinator.com",
+    "date": "2026-10-31",
     "score": 70
   },
   {
-    "title": "Research Le Chonk: Built for Coders, Trusted by Defenders. We release the weights of Le Chonk, advancing the frontier of open models in agentic coding and cybersecurity. October 29, 2026 By Mistral",
-    "url": "https://mistral.ai/news/mistral-large-4-oss",
-    "summary": "Latest news | Mistral · Research Le Chonk: Built for Coders, Trusted by Defenders. We release the weights of Le Chonk, advancing the frontier of open models in agentic coding and cybersecurity. October 29, 2026 By Mistral",
-    "tags": [
-      "open_model",
-      "european_ai"
-    ],
-    "author": "Mistral AI",
-    "source": "mistral.ai",
-    "date": "2026-10-30",
-    "score": 70
-  },
-  {
-    "title": "Vercel Plugin is now available in Antigravity",
-    "url": "https://vercel.com/changelog/vercel-plugin-is-now-available-in-antigravity",
-    "summary": "The Vercel Plugin is now available in the Google Antigravity marketplace. Use the Vercel Plugin to give your Antigravity agent guidance on Vercel APIs and recommended patterns, with skills for products such as AI SDK , Vercel Functions , and Workflow . This demo shows an Antigravity agent using the Vercel Plugin to build and deploy a Python backend with Vercel Sandbox : Install the Vercel Plugin by opening Customizations → Marketplace in the Antigravity App and searching for ",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-30",
-    "score": 68
-  },
-  {
-    "title": "An updated Model Spec for more capable and beneficial AI",
-    "url": "https://openai.com/index/updated-model-spec",
-    "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+    "title": "Fair use benefits everyone",
+    "url": "https://openai.com/index/fair-use-benefits-everyone",
+    "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
     "tags": [
       "ai_models",
       "official",
@@ -67,28 +53,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-10-30",
-    "score": 67
+    "date": "2026-10-31",
+    "score": 69
   },
   {
-    "title": "How Ropes & Gray is developing AI for transactional diligence",
-    "url": "https://openai.com/index/ropes-gray-ai-diligence",
-    "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-10-30",
-    "score": 67
-  },
-  {
-    "title": "Unlocking Tensor Core Performance for Machine Learning Interatomic Potentials",
-    "url": "https://developer.nvidia.com/blog/unlocking-tensor-core-performance-for-machine-learning-interatomic-potentials",
-    "summary": "NVIDIA Technical Blog · Unlocking Tensor Core Performance for Machine Learning Interatomic Potentials",
+    "title": "Build Specialized Agents on a Stack You Control with NVIDIA NemoClaw",
+    "url": "https://developer.nvidia.com/blog/build-specialized-agents-on-a-stack-you-control-with-nvidia-nemoclaw",
+    "summary": "NVIDIA Technical Blog · Build Specialized Agents on a Stack You Control with NVIDIA NemoClaw",
     "tags": [
       "gpu",
       "inference",
@@ -96,68 +67,226 @@
     ],
     "author": "NVIDIA AI",
     "source": "developer.nvidia.com",
-    "date": "2026-10-30",
-    "score": 66
+    "date": "2026-10-31",
+    "score": 69
   },
   {
-    "title": "We urgently need to monitor AI agents’ actions in real time",
-    "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time",
-    "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Australian government website. It’s a problem&#8230;",
+    "title": "Making it easier for websites to express AI training preferences",
+    "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+    "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
     "tags": [
-      "ai",
+      "ai_models",
+      "official",
       "research",
-      "society"
+      "developer"
     ],
-    "author": "MIT Technology Review AI",
-    "source": "technologyreview.com",
-    "date": "2026-10-30",
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-10-31",
+    "score": 67
+  },
+  {
+    "title": "Community safety report and new protections for teens",
+    "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+    "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-10-31",
+    "score": 67
+  },
+  {
+    "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+    "url": "https://openai.com/index/credit-saison",
+    "summary": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-10-31",
+    "score": 67
+  },
+  {
+    "title": "Simplifying runtime caching on Vercel",
+    "url": "https://vercel.com/blog/simplifying-runtime-caching-on-vercel",
+    "summary": "Today, we’re bringing Data Cache into Runtime Cache, giving developers one product for data caching across frameworks and APIs. If you use Next.js fetch caching or unstable_cache , you won’t need to change your code. Pro and Enterprise projects will get larger storage allocations. Runtime Cache lets your code reuse fetched or computed data across requests without operating a separate caching service. Over the past year, we’ve improved read performance during traffic bursts, i",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-10-31",
+    "score": 67
+  },
+  {
+    "title": "Build a Validated Kubernetes Runtime for NVIDIA Dynamo",
+    "url": "https://developer.nvidia.com/blog/build-a-validated-kubernetes-runtime-for-nvidia-dynamo",
+    "summary": "NVIDIA Technical Blog · Build a Validated Kubernetes Runtime for NVIDIA Dynamo",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-10-31",
     "score": 66
   },
   {
-    "title": "How we use ElevenAgents to save 1,200 hours a month in daily operations",
-    "url": "https://elevenlabs.io/blog/internal-ops-agents",
-    "summary": "How we use ElevenAgents to save 1,200 hours a month in daily operations across GTM, product, support, and engineering",
+    "title": "Run AI Models for Edge Application Development with Just a Few Commands",
+    "url": "https://developer.nvidia.com/blog/run-ai-models-for-edge-application-development-with-just-a-few-commands",
+    "summary": "NVIDIA Technical Blog · Run AI Models for Edge Application Development with Just a Few Commands",
     "tags": [
-      "voice_ai",
-      "audio"
+      "gpu",
+      "inference",
+      "ai_infra"
     ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-10-30",
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-10-31",
+    "score": 66
+  },
+  {
+    "title": "How to Check and Configure NVIDIA GPUDirect Storage for Your Platform",
+    "url": "https://developer.nvidia.com/blog/how-to-check-and-configure-nvidia-gpudirect-storage-for-your-platform",
+    "summary": "NVIDIA Technical Blog · How to Check and Configure NVIDIA GPUDirect Storage for Your Platform",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-10-31",
+    "score": 66
+  },
+  {
+    "title": "Introducing Geist Serif",
+    "url": "https://vercel.com/blog/introducing-geist-serif",
+    "summary": "Geist started as a monospace typeface for developers, built for the editors and terminals where they spend their day doing their work. From there it grew into Geist Sans for product interfaces, and then into Geist Pixel, which was inspired by the grids of early computer screens. Today, we're adding a new member to the family: Geist Serif . Geist Serif is a high-contrast display serif built on the same foundations as Geist Sans, Geist Mono, and Geist Pixel. It has fine, saw-to",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-10-31",
+    "score": 65
+  },
+  {
+    "title": "How Andrew HunzekerHesed became Employee #1 at 10x Science",
+    "url": "https://www.ycombinator.com/blog/how-andrew-hunzekerhesed-became-employee-1-at-10x-science",
+    "summary": "A principal engineer left consumer-scale software to build AI-native scientific analysis tools as the founding engineer at 10x Science.",
+    "tags": [
+      "startup",
+      "product",
+      "founder"
+    ],
+    "author": "Y Combinator",
+    "source": "ycombinator.com",
+    "date": "2026-10-31",
+    "score": 65
+  },
+  {
+    "title": "How Max Friedlander became founding operations at Petrarch",
+    "url": "https://www.ycombinator.com/blog/how-max-friedlander-became-founding-operations-at-petrarch",
+    "summary": "A math major who turned down safe internships to lead high-stakes deals at a YC S26 startup supplying data for frontier AI labs.",
+    "tags": [
+      "startup",
+      "product",
+      "founder"
+    ],
+    "author": "Y Combinator",
+    "source": "ycombinator.com",
+    "date": "2026-10-31",
+    "score": 65
+  },
+  {
+    "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt nvidia • 2 days ago • 83",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+    "summary": "Hugging Face – Blog · NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt nvidia • 2 days ago • 83",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-10-31",
     "score": 64
   },
   {
-    "title": "Managed Deep Agents v0.10: Browser Use and Async Subagents",
-    "url": "https://www.langchain.com/blog/managed-deep-agents-browser-use-and-asynchronous-subagents",
-    "summary": "Managed Deep Agents v0.10 adds browser use, so agents can work on sites with no API and hand you the window to sign in, and async subagents for background work.",
+    "title": "How Harsh Vardhan Goenka became founding engineer #1 at Kalpa Labs",
+    "url": "https://www.ycombinator.com/blog/how-harsh-vardhan-goenka-became-founding-engineer-1-at-kalpa-labs",
+    "summary": "From ICPC World Finals to competitive programming clubs to building generalist audio models as the first engineer at a YC startup.",
     "tags": [
-      "agents",
-      "rag",
-      "framework"
+      "startup",
+      "product",
+      "founder"
     ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-10-30",
+    "author": "Y Combinator",
+    "source": "ycombinator.com",
+    "date": "2026-10-31",
     "score": 64
   },
   {
-    "title": "Browser Use in Managed Deep Agents",
-    "url": "https://www.langchain.com/blog/browser-use-in-managed-deep-agents",
-    "summary": "Managed Deep Agents now runs a browser for your agent, with tools tuned for context-efficient browser use and a handoff so you can sign in yourself.",
+    "title": "How David Mount became employee #2 (for the second time) at 10x Science",
+    "url": "https://www.ycombinator.com/blog/how-david-mount-became-employee-2-for-the-second-time-at-10x-science",
+    "summary": "A veteran engineer finds his next act helping scientists discover cures, one amino acid at a time, at YC W26 startup 10x Science.",
     "tags": [
-      "agents",
-      "rag",
-      "framework"
+      "startup",
+      "product",
+      "founder"
     ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-10-30",
+    "author": "Y Combinator",
+    "source": "ycombinator.com",
+    "date": "2026-10-31",
     "score": 64
   },
   {
-    "title": "Strix now supports Vercel AI Gateway",
-    "url": "https://vercel.com/changelog/strix-now-supports-vercel-ai-gateway",
-    "summary": "Strix , the open-source AI penetration testing tool, can now run on any of the 400+ models on Vercel AI Gateway . Strix can reach models from Anthropic, OpenAI, Kimi, GLM, Deepseek, and others through a single API with no markup, removing the need to sign up for multiple providers. Usage and cost are tracked across all models in AI Gateway. Strix selects the Gateway through STRIX_LLM , where the model is the standard AI Gateway / ID behind a vercel_ai_gateway/ prefix: See Str",
+    "title": "How Varsha Parthasarathy became engineer #1 at Flex — solving a problem she'd experienced",
+    "url": "https://www.ycombinator.com/blog/how-varsha-parthasarathy-became-engineer-1-at-flex-four-months-postpartum-chasing-a-problem-shed-lived",
+    "summary": "From Lyft's self-driving division to fixing HSA/FSA payments, Varsha joined Flex as its first engineer and built from scratch.",
+    "tags": [
+      "startup",
+      "product",
+      "founder"
+    ],
+    "author": "Y Combinator",
+    "source": "ycombinator.com",
+    "date": "2026-10-31",
+    "score": 64
+  },
+  {
+    "title": "How Sherif Amer went from electronics engineer to employee #1 at Indemni",
+    "url": "https://www.ycombinator.com/blog/how-sherif-amer-went-from-electronics-engineer-to-employee-1-at-indemni",
+    "summary": "A layoff, two years of travel, and a self-taught pivot to software led Sherif Amer to become the founding engineer at Indemni.",
+    "tags": [
+      "startup",
+      "product",
+      "founder"
+    ],
+    "author": "Y Combinator",
+    "source": "ycombinator.com",
+    "date": "2026-10-31",
+    "score": 64
+  },
+  {
+    "title": "Data Cache is moving to Runtime Cache",
+    "url": "https://vercel.com/changelog/data-cache-is-moving-to-runtime-cache",
+    "summary": "Data Cache is exiting beta and moving to Runtime Cache . Next.js fetch caching and unstable_cache will switch over on every version without code changes. On Pro, each project and environment gets its own Runtime Cache storage allocation, with 8x the space of Data Cache’s previous team-wide pool. Enterprise projects get 10x their previous Data Cache storage. Once your team migrates, Data Cache reads and writes that were previously unbilled are charged at Runtime Cache pricing ",
     "tags": [
       "sdk",
       "ai_infra",
@@ -165,13 +294,13 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-10-30",
+    "date": "2026-10-31",
     "score": 63
   },
   {
-    "title": "IP geolocation now covers more visitors at higher resolution",
-    "url": "https://vercel.com/changelog/improved-ip-geolocation-data",
-    "summary": "IP geolocation on Vercel now resolves visitor locations with finer network granularity, delivering city-level data for nearly all requests and postal-code data for 90% of traffic. Geolocation data is now refreshed more often, so locations keep up as IP ranges are reassigned and routing changes. This is enabled for all projects with no code or configuration changes required. Existing geolocation headers along with the geolocation() helper in @vercel/functions , return the same",
+    "title": "Vercel Daemons can now call services with bindings",
+    "url": "https://vercel.com/changelog/vercel-daemons-can-now-call-services-with-bindings",
+    "summary": "Vercel Daemons can now call the services in their deployment through service bindings . Declare the binding on the daemon. It names the target service and the environment variable that receives the service's URL: The daemon calls that URL like any other HTTP endpoint. Vercel handles the internal routing, authentication, and TLS, and the service stays private: Bindings point one way: services can't bind to daemons. Each instance keeps calling the deployment that started it, ev",
     "tags": [
       "sdk",
       "ai_infra",
@@ -179,13 +308,13 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-10-30",
+    "date": "2026-10-31",
     "score": 63
   },
   {
-    "title": "Vercel Flags starts 7x faster and no longer extends function duration",
-    "url": "https://vercel.com/changelog/vercel-flags-starts-7x-faster-and-no-longer-extends-function-duration",
-    "summary": "On Vercel, the Vercel Flags SDK now initializes faster on cold starts, and usage reporting no longer keeps functions running after the response. Faster cold starts Two changes speed up SDK initialization on cold starts: The SDK loads and parses the flags datafile bundled with your deployment as soon as the client is created, so it’s ready before your code evaluates its first flag. Every function invocation now includes the current datafile revision, so the SDK can check wheth",
+    "title": "Add liveness checks to your Daemons",
+    "url": "https://vercel.com/changelog/add-liveness-checks-to-your-daemons",
+    "summary": "Vercel Daemons now support configuring HTTP liveness checks. Start with an HTTP endpoint in your daemon that reports its health. Keep it lightweight so it responds quickly, and have it return an error status when the daemon is no longer healthy: The daemon configuration now accepts a livenessProbe value pointing at that endpoint: Vercel periodically requests the endpoint and restarts the daemon's container when the check fails, catching a daemon that is still running but no l",
     "tags": [
       "sdk",
       "ai_infra",
@@ -193,131 +322,7 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-10-30",
+    "date": "2026-10-31",
     "score": 63
-  },
-  {
-    "title": "Node.js 26 LTS is now Generally Available on Vercel",
-    "url": "https://vercel.com/changelog/node-js-26-lts-is-now-generally-available-on-vercel",
-    "summary": "Node.js 26 LTS is now Generally Available for builds and Vercel Functions . This release includes: HTTP/2 by default for built-in fetch ( Undici 8 ) lets multiple requests share a connection with servers that support it. This can reduce latency when your functions call APIs or databases over HTTP. Temporal API offers an alternative to Date with immutable values and built-in time zone and calendar support. V8 version 14.6 , the updated JavaScript engine, adds features such as ",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-30",
-    "score": 63
-  },
-  {
-    "title": "Vercel Connect adds webhook triggers for more providers",
-    "url": "https://vercel.com/changelog/vercel-connect-adds-webhook-triggers-for-more-providers",
-    "summary": "Vercel Connect now supports webhook triggers for Resend , X , Twilio , Notion , and Telegram . Connect receives webhook events, such as Telegram bot messages or emails received by your Resend domain, and forwards them to an endpoint in your Vercel project. It verifies incoming requests and handles provider heartbeats and verification challenges for you. To get started: Open Vercel Connect in the dashboard. Enable triggers when creating a connector for your provider or in an e",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-30",
-    "score": 63
-  },
-  {
-    "title": "Control AI crawlers and assistants separately in Vercel Firewall",
-    "url": "https://vercel.com/changelog/block-ai-crawlers-and-assistants-independently-with-managed-rules",
-    "summary": "You can now log or block requests from AI crawlers and AI assistants separately with the AI Bots managed ruleset in Vercel Firewall . AI crawlers: bots that collect content for indexing and model training AI assistants: bots that fetch pages in response to user actions or search queries For example, you can block AI crawlers while allowing AI assistants to retrieve your content to answer users’ questions. Vercel updates the rules as new bots are added. To configure these cont",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-10-30",
-    "score": 63
-  },
-  {
-    "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
-    "url": "https://huggingface.co/blog/announcing-project-protostar",
-    "summary": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-10-30",
-    "score": 63
-  },
-  {
-    "title": "What is turn taking in conversational AI: A guide to natural flow",
-    "url": "https://elevenlabs.io/blog/what-is-turn-taking",
-    "summary": "Turn taking decides when a voice agent speaks, pauses, or listens. Learn how it works, how barge-in is handled, and how to measure and tune it.",
-    "tags": [
-      "voice_ai",
-      "audio"
-    ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-10-30",
-    "score": 62
-  },
-  {
-    "title": "Conversational AI in banking: Use cases, benefits, examples",
-    "url": "https://elevenlabs.io/blog/conversational-ai-in-banking",
-    "summary": "Learn what conversational AI in banking is, how voice agents handle phone calls, use cases, core metrics, and how banks and fintechs use ElevenAgents today",
-    "tags": [
-      "voice_ai",
-      "audio"
-    ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-10-30",
-    "score": 62
-  },
-  {
-    "title": "Granite Switch 4.1.1 — Update models like you update software",
-    "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
-    "summary": "Granite Switch 4.1.1 — Update models like you update software 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-10-30",
-    "score": 62
-  },
-  {
-    "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-    "url": "https://huggingface.co/blog/mistral-large4",
-    "summary": "Welcome Le Chonk: Mistral Large 4 on Hugging Face 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-10-30",
-    "score": 62
-  },
-  {
-    "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-    "url": "https://huggingface.co/blog/anydecisionmodel",
-    "summary": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-10-30",
-    "score": 62
   }
 ]

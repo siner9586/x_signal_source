@@ -27916,5 +27916,235 @@
     "cluster_id": "huggingface_co_2a57e242",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6fea088d26bb4b51",
+    "canonical_url": "https://vercel.com/changelog/ling-3-1-flash-1019-now-available-on-ai-gateway-for-free",
+    "dedupe_key": "3b67644e30669019",
+    "title": "Ling 3.1 Flash 1019 now available on AI Gateway for free",
+    "issue_date": "2026-10-31",
+    "cluster_id": "vercel_com_d9a6f7c8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7bb7aa5c897b86ea",
+    "canonical_url": "https://www.ycombinator.com/blog/how-yair-alon-went-from-building-portrait-mode-at-google-to-founding-researcher-at-poetiq",
+    "dedupe_key": "fef607db67ded5fd",
+    "title": "How Yair Alon went from building Portrait Mode at Google to founding researcher at Poetiq",
+    "issue_date": "2026-10-31",
+    "cluster_id": "ycombinator_com_ed4c815b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_394a005cc8df897e",
+    "canonical_url": "https://www.ycombinator.com/blog/how-dylan-anderson-became-founding-engineer-at-adam",
+    "dedupe_key": "04c904ea5cbcbe73",
+    "title": "How Dylan Anderson became founding engineer at Adam",
+    "issue_date": "2026-10-31",
+    "cluster_id": "ycombinator_com_b42dbad9",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_faf21d820d503df9",
+    "canonical_url": "https://openai.com/index/fair-use-benefits-everyone",
+    "dedupe_key": "5e83506d020498c0",
+    "title": "Fair use benefits everyone",
+    "issue_date": "2026-10-31",
+    "cluster_id": "openai_com_d97e57ce",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b36c3c2e30ecb2f0",
+    "canonical_url": "https://developer.nvidia.com/blog/build-specialized-agents-on-a-stack-you-control-with-nvidia-nemoclaw",
+    "dedupe_key": "88ef0b5fb885b597",
+    "title": "Build Specialized Agents on a Stack You Control with NVIDIA NemoClaw",
+    "issue_date": "2026-10-31",
+    "cluster_id": "developer_nvidia_com_9cbcee6d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f1bcdeeaec64288a",
+    "canonical_url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+    "dedupe_key": "49c89daeb96f09ab",
+    "title": "Making it easier for websites to express AI training preferences",
+    "issue_date": "2026-10-31",
+    "cluster_id": "openai_com_619fe30e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_508cbadde8356b31",
+    "canonical_url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+    "dedupe_key": "c3ebe6a382f8a9db",
+    "title": "Community safety report and new protections for teens",
+    "issue_date": "2026-10-31",
+    "cluster_id": "openai_com_89287d13",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a85bb588ebe7f822",
+    "canonical_url": "https://openai.com/index/credit-saison",
+    "dedupe_key": "7125468c86917021",
+    "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+    "issue_date": "2026-10-31",
+    "cluster_id": "openai_com_6de9d9f0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_171eb630ec5397eb",
+    "canonical_url": "https://vercel.com/blog/simplifying-runtime-caching-on-vercel",
+    "dedupe_key": "624a675f187642d4",
+    "title": "Simplifying runtime caching on Vercel",
+    "issue_date": "2026-10-31",
+    "cluster_id": "vercel_com_a565f453",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a79737ea149b19a0",
+    "canonical_url": "https://developer.nvidia.com/blog/build-a-validated-kubernetes-runtime-for-nvidia-dynamo",
+    "dedupe_key": "f6c0ba83fe024d9c",
+    "title": "Build a Validated Kubernetes Runtime for NVIDIA Dynamo",
+    "issue_date": "2026-10-31",
+    "cluster_id": "developer_nvidia_com_84364440",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f6d2d9ff72ca21ef",
+    "canonical_url": "https://developer.nvidia.com/blog/run-ai-models-for-edge-application-development-with-just-a-few-commands",
+    "dedupe_key": "1ecf646e4a77c286",
+    "title": "Run AI Models for Edge Application Development with Just a Few Commands",
+    "issue_date": "2026-10-31",
+    "cluster_id": "developer_nvidia_com_760dbcf8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_95f3201717fc1e34",
+    "canonical_url": "https://developer.nvidia.com/blog/how-to-check-and-configure-nvidia-gpudirect-storage-for-your-platform",
+    "dedupe_key": "bfbcfa7ac59a8f52",
+    "title": "How to Check and Configure NVIDIA GPUDirect Storage for Your Platform",
+    "issue_date": "2026-10-31",
+    "cluster_id": "developer_nvidia_com_2e6e191e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_806598fb23be3ad0",
+    "canonical_url": "https://vercel.com/blog/introducing-geist-serif",
+    "dedupe_key": "b893b154c102aa0c",
+    "title": "Introducing Geist Serif",
+    "issue_date": "2026-10-31",
+    "cluster_id": "vercel_com_dcc39fb9",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3314d9d1bbf8cbf6",
+    "canonical_url": "https://www.ycombinator.com/blog/how-andrew-hunzekerhesed-became-employee-1-at-10x-science",
+    "dedupe_key": "6c280b2fea4983e2",
+    "title": "How Andrew HunzekerHesed became Employee #1 at 10x Science",
+    "issue_date": "2026-10-31",
+    "cluster_id": "ycombinator_com_c9505f23",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_61c1f94f7fa3e9fe",
+    "canonical_url": "https://www.ycombinator.com/blog/how-max-friedlander-became-founding-operations-at-petrarch",
+    "dedupe_key": "5671b460e7ecd0bf",
+    "title": "How Max Friedlander became founding operations at Petrarch",
+    "issue_date": "2026-10-31",
+    "cluster_id": "ycombinator_com_7f26f639",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_90752c292c904149",
+    "canonical_url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+    "dedupe_key": "89c4d70a3f795a36",
+    "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt nvidia • 2 days ago • 83",
+    "issue_date": "2026-10-31",
+    "cluster_id": "huggingface_co_eb47f92c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8f32f2feb9766d31",
+    "canonical_url": "https://www.ycombinator.com/blog/how-harsh-vardhan-goenka-became-founding-engineer-1-at-kalpa-labs",
+    "dedupe_key": "687c29e7f412c9af",
+    "title": "How Harsh Vardhan Goenka became founding engineer #1 at Kalpa Labs",
+    "issue_date": "2026-10-31",
+    "cluster_id": "ycombinator_com_a9f0ee09",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_769745e9acc880f5",
+    "canonical_url": "https://www.ycombinator.com/blog/how-david-mount-became-employee-2-for-the-second-time-at-10x-science",
+    "dedupe_key": "451f7978f4bc91ad",
+    "title": "How David Mount became employee #2 (for the second time) at 10x Science",
+    "issue_date": "2026-10-31",
+    "cluster_id": "ycombinator_com_23eac640",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_faf9320acbf21051",
+    "canonical_url": "https://www.ycombinator.com/blog/how-varsha-parthasarathy-became-engineer-1-at-flex-four-months-postpartum-chasing-a-problem-shed-lived",
+    "dedupe_key": "ee541ba924c0de92",
+    "title": "How Varsha Parthasarathy became engineer #1 at Flex — solving a problem she'd experienced",
+    "issue_date": "2026-10-31",
+    "cluster_id": "ycombinator_com_9de01af6",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_135d3e14428f5cd6",
+    "canonical_url": "https://www.ycombinator.com/blog/how-sherif-amer-went-from-electronics-engineer-to-employee-1-at-indemni",
+    "dedupe_key": "1a0ec231bd47f0d7",
+    "title": "How Sherif Amer went from electronics engineer to employee #1 at Indemni",
+    "issue_date": "2026-10-31",
+    "cluster_id": "ycombinator_com_3b578fab",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_77b6de6ca4d6a537",
+    "canonical_url": "https://vercel.com/changelog/data-cache-is-moving-to-runtime-cache",
+    "dedupe_key": "fd374ea64e2148fd",
+    "title": "Data Cache is moving to Runtime Cache",
+    "issue_date": "2026-10-31",
+    "cluster_id": "vercel_com_0a786cc6",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8d5dfdcdafe26677",
+    "canonical_url": "https://vercel.com/changelog/vercel-daemons-can-now-call-services-with-bindings",
+    "dedupe_key": "f9b9f8c251604781",
+    "title": "Vercel Daemons can now call services with bindings",
+    "issue_date": "2026-10-31",
+    "cluster_id": "vercel_com_09b94ca5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_48d0a243d1c0e6b5",
+    "canonical_url": "https://vercel.com/changelog/add-liveness-checks-to-your-daemons",
+    "dedupe_key": "f9a354b9caa7f90a",
+    "title": "Add liveness checks to your Daemons",
+    "issue_date": "2026-10-31",
+    "cluster_id": "vercel_com_ce39c8c5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
