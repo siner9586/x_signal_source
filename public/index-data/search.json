@@ -1,48 +1,21 @@
 [
   {
-    "title": "Warm transfer vs cold transfer: choosing the right call",
-    "url": "https://elevenlabs.io/blog/warm-transfer-vs-cold-transfer",
-    "summary": "Learn the difference between a warm transfer vs cold transfer, when to use each, and how AI voice agents hand calls to a human with full context.",
+    "title": "Game Off 2026: The theme is SHIFT",
+    "url": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift",
+    "summary": "GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key. The post Game Off 2026: The theme is SHIFT appeared first on The GitHub Blog .",
     "tags": [
-      "voice_ai",
-      "audio"
+      "ai_coding",
+      "developer_tools"
     ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-11-01",
-    "score": 62
+    "author": "GitHub Copilot",
+    "source": "github.blog",
+    "date": "2026-11-02",
+    "score": 67
   },
   {
-    "title": "TELUS Digital cut early cancellations by more than half with ElevenAgents",
-    "url": "https://elevenlabs.io/blog/telus-digital-early-cancellations",
-    "summary": "TELUS Digital uses ElevenAgents to call new internet customers in their first 90 days, cutting early cancellations by more than half",
-    "tags": [
-      "voice_ai",
-      "audio"
-    ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-11-01",
-    "score": 62
-  },
-  {
-    "title": "nemotron-halloween",
-    "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
-    "summary": "nemotron-halloween 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-11-01",
-    "score": 62
-  },
-  {
-    "title": "🧠 Community Wisdom: The biggest sources of interruptions for PMs, hiring junior PMs with case studies vs. behavioral interviews, building a product harness for AI-driven development, and more",
-    "url": "https://www.lennysnewsletter.com/p/community-wisdom-the-biggest-sources",
-    "summary": "Community Wisdom 304",
+    "title": "How a 19-year-old intern built the growth engine behind this $2B AI company | Hector Serrano",
+    "url": "https://www.lennysnewsletter.com/p/how-a-19-year-old-intern-built-the",
+    "summary": "Listen now (88 mins) | Hector Serrano on building Wispr Flow&#8217;s paid-UGC machine, hiring young talent over polished resumes, and why the best marketers are &#8220;allergic to AI&#8221;",
     "tags": [
       "product",
       "growth",
@@ -50,216 +23,13 @@
     ],
     "author": "Lenny's Newsletter",
     "source": "lennysnewsletter.com",
-    "date": "2026-11-01",
+    "date": "2026-11-02",
     "score": 62
   },
   {
-    "title": "Lettuce cuts creative ad production from over a week to under a minute with ElevenLabs",
-    "url": "https://elevenlabs.io/blog/lettuce",
-    "summary": "Lettuce uses Ads Engine in ElevenCreative to generate Meta ad variants in 45 seconds, cutting creative costs by 75% and cost per lead by 40-60%.",
-    "tags": [
-      "voice_ai",
-      "audio"
-    ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-11-01",
-    "score": 61
-  },
-  {
-    "title": "Creating AI value with enterprise context",
-    "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context",
-    "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outcomes and actions that emerge may be wrong, confused, or lacking a&#8230;",
-    "tags": [
-      "ai",
-      "research",
-      "society"
-    ],
-    "author": "MIT Technology Review AI",
-    "source": "technologyreview.com",
-    "date": "2026-11-01",
-    "score": 61
-  },
-  {
-    "title": "Pairing industrial AI autonomy and human control",
-    "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control",
-    "summary": "Pairing industrial AI autonomy and human control 是 MIT Technology Review AI 当日抓取到的公开新增条目。",
-    "tags": [
-      "ai",
-      "research",
-      "society"
-    ],
-    "author": "MIT Technology Review AI",
-    "source": "technologyreview.com",
-    "date": "2026-11-01",
-    "score": 61
-  },
-  {
-    "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
-    "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing",
-    "summary": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The machine settings matter, but so does knowing how a particular material behaves, what happened during the previous shift, and when an apparently minor&#8230;",
-    "tags": [
-      "ai",
-      "research",
-      "society"
-    ],
-    "author": "MIT Technology Review AI",
-    "source": "technologyreview.com",
-    "date": "2026-11-01",
-    "score": 61
-  },
-  {
-    "title": "Will the real Anthropic please stand up",
-    "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s unique view of the technology it&#8230;",
-    "tags": [
-      "ai",
-      "research",
-      "society"
-    ],
-    "author": "MIT Technology Review AI",
-    "source": "technologyreview.com",
-    "date": "2026-11-01",
-    "score": 61
-  },
-  {
-    "title": "Wed, 28 Oct 2026",
-    "url": "https://arxiv.org/list/cs.AI/recent?skip=392&amp%3Bshow=50",
-    "summary": "Artificial Intelligence · Wed, 28 Oct 2026",
-    "tags": [
-      "paper",
-      "ai",
-      "arxiv"
-    ],
-    "author": "arXiv CS AI",
-    "source": "arxiv.org",
-    "date": "2026-11-01",
-    "score": 60
-  },
-  {
-    "title": "Tue, 27 Oct 2026",
-    "url": "https://arxiv.org/list/cs.AI/recent?skip=646&amp%3Bshow=50",
-    "summary": "Artificial Intelligence · Tue, 27 Oct 2026",
-    "tags": [
-      "paper",
-      "ai",
-      "arxiv"
-    ],
-    "author": "arXiv CS AI",
-    "source": "arxiv.org",
-    "date": "2026-11-01",
-    "score": 60
-  },
-  {
-    "title": "Mon, 26 Oct 2026",
-    "url": "https://arxiv.org/list/cs.AI/recent?skip=1079&amp%3Bshow=50",
-    "summary": "Artificial Intelligence · Mon, 26 Oct 2026",
-    "tags": [
-      "paper",
-      "ai",
-      "arxiv"
-    ],
-    "author": "arXiv CS AI",
-    "source": "arxiv.org",
-    "date": "2026-11-01",
-    "score": 60
-  },
-  {
-    "title": "Fri, 23 Oct 2026",
-    "url": "https://arxiv.org/list/cs.AI/recent?skip=1268&amp%3Bshow=50",
-    "summary": "Artificial Intelligence · Fri, 23 Oct 2026",
-    "tags": [
-      "paper",
-      "ai",
-      "arxiv"
-    ],
-    "author": "arXiv CS AI",
-    "source": "arxiv.org",
-    "date": "2026-11-01",
-    "score": 60
-  },
-  {
-    "title": "Introducing SFX v3 in ElevenCreative and ElevenAPI",
-    "url": "https://elevenlabs.io/blog/sound-effects-v3",
-    "summary": "SFX v3 is here: more reliable multi-sound prompts, more convincing music and vocals, and cleaner audio. Now in ElevenCreative and ElevenAPI.",
-    "tags": [
-      "voice_ai",
-      "audio"
-    ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-11-01",
-    "score": 59
-  },
-  {
-    "title": "ElevenLabs and adELA bring free voice restoration to Spain",
-    "url": "https://elevenlabs.io/blog/elevenlabs-adela",
-    "summary": "ElevenLabs partners with adELA, Spain’s leading ALS association, to restore the voices of patients living with ALS for free.",
-    "tags": [
-      "voice_ai",
-      "audio"
-    ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-11-01",
-    "score": 59
-  },
-  {
-    "title": "How your transcript knows where each word is spoken",
-    "url": "https://elevenlabs.io/blog/cue-aligner",
-    "summary": "Meet Cue, ElevenLabs’ forced alignment model: character-level timestamps, any recording length, and an hour of audio aligned in under a second.",
-    "tags": [
-      "voice_ai",
-      "audio"
-    ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-11-01",
-    "score": 59
-  },
-  {
-    "title": "Voice AI for Karnataka",
-    "url": "https://elevenlabs.io/blog/voice-ai-for-karnataka",
-    "summary": "ElevenLabs signs an MoU with the Government of Karnataka to bring voice AI to citizen services, voice AI safety and voice restoration.",
-    "tags": [
-      "voice_ai",
-      "audio"
-    ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-11-01",
-    "score": 59
-  },
-  {
-    "title": "How to build an AI voice assistant: Brand-aligned voice AI",
-    "url": "https://elevenlabs.io/blog/build-an-ai-voice-assistant",
-    "summary": "Discover how to build an AI voice assistant with reliable speech, natural dialogue, and safeguards that earn users' trust at scale using ElevenAPI.",
-    "tags": [
-      "voice_ai",
-      "audio"
-    ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-11-01",
-    "score": 59
-  },
-  {
-    "title": "How text to speech technology works: From text to natural voice",
-    "url": "https://elevenlabs.io/blog/how-text-to-speech-technology-works",
-    "summary": "Learn how text to speech technology works by turning text into natural voice, from normalization and prosody to neural models, with a worked examples.",
-    "tags": [
-      "voice_ai",
-      "audio"
-    ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-11-01",
-    "score": 59
-  },
-  {
-    "title": "Sharp Tech on Video: Anthropic&#8217;s S-1 and What It Means for Meta and Muse, You Can See Everything, and Brewers!",
-    "url": "https://stratechery.com/2026/sharp-tech-on-video-anthropics-s-1-and-what-it-means-for-meta-and-muse-you-can-see-everything-and-brewers",
-    "summary": "Sharp Tech is, for the first time, available on video. You have three ways to consume it: YouTube, Spotify, and here on Stratechery.",
+    "title": "An Interview with Palantir CTO Shyam Sankar About the AI Religious War",
+    "url": "https://stratechery.com/2026/an-interview-with-palantir-cto-shyam-sankar-about-the-ai-religious-war",
+    "summary": "An interview with Palantir CTO Shyam Sankar about AI diffusion and safety, forward-deployed engineer, and what the battle in tech is actually about.",
     "tags": [
       "strategy",
       "tech",
@@ -267,7 +37,49 @@
     ],
     "author": "Stratechery",
     "source": "stratechery.com",
-    "date": "2026-11-01",
+    "date": "2026-11-02",
     "score": 58
+  },
+  {
+    "title": "2026.44: At Long Last&#8230;",
+    "url": "https://stratechery.com/2026/at-long-last",
+    "summary": "The best Stratechery content from the week of October 26, 2026 including Anthropic numbers, the end of the Internet as we know it, and autocracies then and now.",
+    "tags": [
+      "strategy",
+      "tech",
+      "business"
+    ],
+    "author": "Stratechery",
+    "source": "stratechery.com",
+    "date": "2026-11-02",
+    "score": 56
+  },
+  {
+    "title": "Meta Earnings, Muse and the Frontier, Musebook",
+    "url": "https://stratechery.com/2026/meta-earnings-muse-and-the-frontier-musebook",
+    "summary": "Meta's earnings come in the context of Zuckerberg delivering on his promise; if investors believe in Muse they must support Meta's spending on compute.",
+    "tags": [
+      "strategy",
+      "tech",
+      "business"
+    ],
+    "author": "Stratechery",
+    "source": "stratechery.com",
+    "date": "2026-11-02",
+    "score": 56
+  },
+  {
+    "title": "Anthropic S-1, The Cost of Compute, Who Is Paying?",
+    "url": "https://stratechery.com/2026/anthropic-s-1-the-cost-of-compute-who-is-paying",
+    "summary": "Anthropic's IPO is finally here; the core business is very profitable, but competition may eat all of the profits, even as investors are set up for endless dilution.",
+    "tags": [
+      "strategy",
+      "tech",
+      "business"
+    ],
+    "author": "Stratechery",
+    "source": "stratechery.com",
+    "date": "2026-11-02",
+    "score": 56
   }
 ]

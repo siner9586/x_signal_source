@@ -1,0 +1,1119 @@
+{
+  "metadata": {
+    "issue_date": "2026-11-02",
+    "generated_at": "2026-11-02T00:17:53.952Z",
+    "timezone": "Asia/Shanghai",
+    "source_mode": "live_fetch_only",
+    "strict_new_only": true,
+    "sources_scanned": 118,
+    "fetch_jobs": 224,
+    "candidates_count": 1144,
+    "selected_count": 6,
+    "duplicates_blocked": 1138,
+    "stale_candidates_blocked": 0,
+    "fetch_failures": 80,
+    "no_new_content": false,
+    "initial_source_index": false
+  },
+  "summary": {
+    "one_liner": "本期由每日自动流水线生成：仅展示当日 live fetch 抓取、且未在历史期展示过的新内容。",
+    "trends": [
+      "AI Agent",
+      "AI Coding",
+      "AI Infra",
+      "Research",
+      "Startup / Investment"
+    ],
+    "watch_next": [
+      "公开 RSS / Atom / HTML 新条目",
+      "GitHub releases 与技术博客",
+      "人工维护 X Article / Thread seed list",
+      "播客长访谈中的一手判断"
+    ]
+  },
+  "must_read": [],
+  "worth_reading": [],
+  "signal_watch": [
+    {
+      "id": "cand_fa60d774214f8084",
+      "canonical_url": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift",
+      "source_url": "https://github.blog/feed",
+      "source_fetch_url": "https://github.blog/feed",
+      "source_platform": "web",
+      "source_domain": "github.blog",
+      "source_name": "GitHub Copilot",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Game Off 2026: The theme is SHIFT",
+      "subtitle": "",
+      "author": "GitHub Copilot",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "GitHub Copilot",
+      "language": "unknown",
+      "published_at": "Sun, 01 Nov 2026 21:36:00 +0000",
+      "captured_at": "2026-11-02T00:17:46.335Z",
+      "captured_issue": "2026-11-02",
+      "summary": "GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key. The post Game Off 2026: The theme is SHIFT appeared first on The GitHub Blog .",
+      "excerpt": "GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key. The post Game Off 2026: The theme is SHIFT appeared first on The GitHub Blog .",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "ai_coding",
+        "developer_tools"
+      ],
+      "entities": [
+        "GitHub Copilot"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [
+        "https://github.com/features/copilot"
+      ],
+      "evidence_links": [
+        "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift",
+        "https://github.blog/feed",
+        "https://github.com/features/copilot",
+        "https://github.blog",
+        "https://x.com/github"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 66,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 74,
+      "total_score": 67,
+      "rank": 310,
+      "cluster_id": "github_blog_3fe950ca",
+      "dedupe_key": "45383e6e1d1de514",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Game Off 2026: The theme is SHIFT 来自 GitHub Copilot 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-02",
+      "last_seen_issue": "2026-11-02",
+      "used_in_issue": "2026-11-02"
+    },
+    {
+      "id": "cand_4b12af3de37c9a25",
+      "canonical_url": "https://www.lennysnewsletter.com/p/how-a-19-year-old-intern-built-the",
+      "source_url": "https://www.lennysnewsletter.com/feed.xml",
+      "source_fetch_url": "https://www.lennysnewsletter.com/feed.xml",
+      "source_platform": "web",
+      "source_domain": "lennysnewsletter.com",
+      "source_name": "Lenny's Newsletter",
+      "source_file": "media.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "external_article",
+      "title": "How a 19-year-old intern built the growth engine behind this $2B AI company | Hector Serrano",
+      "subtitle": "",
+      "author": "Lenny's Newsletter",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Lenny's Newsletter",
+      "language": "unknown",
+      "published_at": "Sun, 01 Nov 2026 13:31:36 GMT",
+      "captured_at": "2026-11-02T00:17:52.147Z",
+      "captured_issue": "2026-11-02",
+      "summary": "Listen now (88 mins) | Hector Serrano on building Wispr Flow&#8217;s paid-UGC machine, hiring young talent over polished resumes, and why the best marketers are &#8220;allergic to AI&#8221;",
+      "excerpt": "Listen now (88 mins) | Hector Serrano on building Wispr Flow&#8217;s paid-UGC machine, hiring young talent over polished resumes, and why the best marketers are &#8220;allergic to AI&#8221;",
+      "raw_text_available": false,
+      "topics": [
+        "Product"
+      ],
+      "tags": [
+        "product",
+        "growth",
+        "startup"
+      ],
+      "entities": [
+        "Lenny's Newsletter"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://www.lennysnewsletter.com/p/how-a-19-year-old-intern-built-the",
+        "https://www.lennysnewsletter.com/feed.xml",
+        "https://www.lennysnewsletter.com"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 75,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 62,
+      "rank": 979,
+      "cluster_id": "lennysnewsletter_com_b007e456",
+      "dedupe_key": "7fb516e5bda62ce8",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：How a 19-year-old intern built the growth engine behind this $2B AI company | Hector Serrano 来自 Lenny's Newsletter 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-02",
+      "last_seen_issue": "2026-11-02",
+      "used_in_issue": "2026-11-02"
+    },
+    {
+      "id": "cand_b1f27d85501bdc74",
+      "canonical_url": "https://stratechery.com/2026/an-interview-with-palantir-cto-shyam-sankar-about-the-ai-religious-war",
+      "source_url": "https://stratechery.com/feed",
+      "source_fetch_url": "https://stratechery.com/feed",
+      "source_platform": "web",
+      "source_domain": "stratechery.com",
+      "source_name": "Stratechery",
+      "source_file": "media.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "external_article",
+      "title": "An Interview with Palantir CTO Shyam Sankar About the AI Religious War",
+      "subtitle": "",
+      "author": "Stratechery",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Stratechery",
+      "language": "unknown",
+      "published_at": "Thu, 29 Oct 2026 10:00:00 +0000",
+      "captured_at": "2026-11-02T00:17:51.079Z",
+      "captured_issue": "2026-11-02",
+      "summary": "An interview with Palantir CTO Shyam Sankar about AI diffusion and safety, forward-deployed engineer, and what the battle in tech is actually about.",
+      "excerpt": "An interview with Palantir CTO Shyam Sankar about AI diffusion and safety, forward-deployed engineer, and what the battle in tech is actually about.",
+      "raw_text_available": false,
+      "topics": [
+        "Safety"
+      ],
+      "tags": [
+        "strategy",
+        "tech",
+        "business"
+      ],
+      "entities": [
+        "Stratechery"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://stratechery.com/2026/an-interview-with-palantir-cto-shyam-sankar-about-the-ai-religious-war",
+        "https://stratechery.com/feed",
+        "https://stratechery.com"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 45,
+      "evidence_score": 75,
+      "heat_score": 40,
+      "site_fit_score": 62,
+      "total_score": 58,
+      "rank": 1137,
+      "cluster_id": "stratechery_com_7d72d5a7",
+      "dedupe_key": "f7e317994c0bade5",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：An Interview with Palantir CTO Shyam Sankar About the AI Religious War 来自 Stratechery 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-02",
+      "last_seen_issue": "2026-11-02",
+      "used_in_issue": "2026-11-02"
+    },
+    {
+      "id": "cand_0a0a24a43b088e52",
+      "canonical_url": "https://stratechery.com/2026/at-long-last",
+      "source_url": "https://stratechery.com/feed",
+      "source_fetch_url": "https://stratechery.com/feed",
+      "source_platform": "web",
+      "source_domain": "stratechery.com",
+      "source_name": "Stratechery",
+      "source_file": "media.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "external_article",
+      "title": "2026.44: At Long Last&#8230;",
+      "subtitle": "",
+      "author": "Stratechery",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Stratechery",
+      "language": "unknown",
+      "published_at": "Fri, 30 Oct 2026 17:00:00 +0000",
+      "captured_at": "2026-11-02T00:17:51.079Z",
+      "captured_issue": "2026-11-02",
+      "summary": "The best Stratechery content from the week of October 26, 2026 including Anthropic numbers, the end of the Internet as we know it, and autocracies then and now.",
+      "excerpt": "The best Stratechery content from the week of October 26, 2026 including Anthropic numbers, the end of the Internet as we know it, and autocracies then and now.",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "strategy",
+        "tech",
+        "business"
+      ],
+      "entities": [
+        "Stratechery"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://stratechery.com/2026/at-long-last",
+        "https://stratechery.com/feed",
+        "https://stratechery.com"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 45,
+      "evidence_score": 75,
+      "heat_score": 40,
+      "site_fit_score": 50,
+      "total_score": 56,
+      "rank": 1142,
+      "cluster_id": "stratechery_com_128bc02b",
+      "dedupe_key": "daf23dfeac8fb785",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：2026.44: At Long Last&#8230; 来自 Stratechery 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-02",
+      "last_seen_issue": "2026-11-02",
+      "used_in_issue": "2026-11-02"
+    },
+    {
+      "id": "cand_5100dd0eb288765c",
+      "canonical_url": "https://stratechery.com/2026/meta-earnings-muse-and-the-frontier-musebook",
+      "source_url": "https://stratechery.com/feed",
+      "source_fetch_url": "https://stratechery.com/feed",
+      "source_platform": "web",
+      "source_domain": "stratechery.com",
+      "source_name": "Stratechery",
+      "source_file": "media.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "external_article",
+      "title": "Meta Earnings, Muse and the Frontier, Musebook",
+      "subtitle": "",
+      "author": "Stratechery",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Stratechery",
+      "language": "unknown",
+      "published_at": "Wed, 28 Oct 2026 10:06:13 +0000",
+      "captured_at": "2026-11-02T00:17:51.079Z",
+      "captured_issue": "2026-11-02",
+      "summary": "Meta's earnings come in the context of Zuckerberg delivering on his promise; if investors believe in Muse they must support Meta's spending on compute.",
+      "excerpt": "Meta's earnings come in the context of Zuckerberg delivering on his promise; if investors believe in Muse they must support Meta's spending on compute.",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "strategy",
+        "tech",
+        "business"
+      ],
+      "entities": [
+        "Stratechery"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://stratechery.com/2026/meta-earnings-muse-and-the-frontier-musebook",
+        "https://stratechery.com/feed",
+        "https://stratechery.com"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 45,
+      "evidence_score": 75,
+      "heat_score": 40,
+      "site_fit_score": 50,
+      "total_score": 56,
+      "rank": 1143,
+      "cluster_id": "stratechery_com_b350735f",
+      "dedupe_key": "edc916902296cdef",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Meta Earnings, Muse and the Frontier, Musebook 来自 Stratechery 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-02",
+      "last_seen_issue": "2026-11-02",
+      "used_in_issue": "2026-11-02"
+    },
+    {
+      "id": "cand_fc08db72dca36a04",
+      "canonical_url": "https://stratechery.com/2026/anthropic-s-1-the-cost-of-compute-who-is-paying",
+      "source_url": "https://stratechery.com/feed",
+      "source_fetch_url": "https://stratechery.com/feed",
+      "source_platform": "web",
+      "source_domain": "stratechery.com",
+      "source_name": "Stratechery",
+      "source_file": "media.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "external_article",
+      "title": "Anthropic S-1, The Cost of Compute, Who Is Paying?",
+      "subtitle": "",
+      "author": "Stratechery",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Stratechery",
+      "language": "unknown",
+      "published_at": "Tue, 27 Oct 2026 10:32:57 +0000",
+      "captured_at": "2026-11-02T00:17:51.079Z",
+      "captured_issue": "2026-11-02",
+      "summary": "Anthropic's IPO is finally here; the core business is very profitable, but competition may eat all of the profits, even as investors are set up for endless dilution.",
+      "excerpt": "Anthropic's IPO is finally here; the core business is very profitable, but competition may eat all of the profits, even as investors are set up for endless dilution.",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "strategy",
+        "tech",
+        "business"
+      ],
+      "entities": [
+        "Stratechery"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://stratechery.com/2026/anthropic-s-1-the-cost-of-compute-who-is-paying",
+        "https://stratechery.com/feed",
+        "https://stratechery.com"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 45,
+      "evidence_score": 75,
+      "heat_score": 40,
+      "site_fit_score": 50,
+      "total_score": 56,
+      "rank": 1144,
+      "cluster_id": "stratechery_com_823a8acd",
+      "dedupe_key": "8c100ba781cc1f66",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Anthropic S-1, The Cost of Compute, Who Is Paying? 来自 Stratechery 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-02",
+      "last_seen_issue": "2026-11-02",
+      "used_in_issue": "2026-11-02"
+    }
+  ],
+  "hot_rank": [
+    {
+      "id": "cand_fa60d774214f8084",
+      "canonical_url": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift",
+      "source_url": "https://github.blog/feed",
+      "source_fetch_url": "https://github.blog/feed",
+      "source_platform": "web",
+      "source_domain": "github.blog",
+      "source_name": "GitHub Copilot",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Game Off 2026: The theme is SHIFT",
+      "subtitle": "",
+      "author": "GitHub Copilot",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "GitHub Copilot",
+      "language": "unknown",
+      "published_at": "Sun, 01 Nov 2026 21:36:00 +0000",
+      "captured_at": "2026-11-02T00:17:46.335Z",
+      "captured_issue": "2026-11-02",
+      "summary": "GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key. The post Game Off 2026: The theme is SHIFT appeared first on The GitHub Blog .",
+      "excerpt": "GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key. The post Game Off 2026: The theme is SHIFT appeared first on The GitHub Blog .",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "ai_coding",
+        "developer_tools"
+      ],
+      "entities": [
+        "GitHub Copilot"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [
+        "https://github.com/features/copilot"
+      ],
+      "evidence_links": [
+        "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift",
+        "https://github.blog/feed",
+        "https://github.com/features/copilot",
+        "https://github.blog",
+        "https://x.com/github"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 66,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 74,
+      "total_score": 67,
+      "rank": 310,
+      "cluster_id": "github_blog_3fe950ca",
+      "dedupe_key": "45383e6e1d1de514",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Game Off 2026: The theme is SHIFT 来自 GitHub Copilot 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-02",
+      "last_seen_issue": "2026-11-02",
+      "used_in_issue": "2026-11-02"
+    },
+    {
+      "id": "cand_4b12af3de37c9a25",
+      "canonical_url": "https://www.lennysnewsletter.com/p/how-a-19-year-old-intern-built-the",
+      "source_url": "https://www.lennysnewsletter.com/feed.xml",
+      "source_fetch_url": "https://www.lennysnewsletter.com/feed.xml",
+      "source_platform": "web",
+      "source_domain": "lennysnewsletter.com",
+      "source_name": "Lenny's Newsletter",
+      "source_file": "media.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "external_article",
+      "title": "How a 19-year-old intern built the growth engine behind this $2B AI company | Hector Serrano",
+      "subtitle": "",
+      "author": "Lenny's Newsletter",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Lenny's Newsletter",
+      "language": "unknown",
+      "published_at": "Sun, 01 Nov 2026 13:31:36 GMT",
+      "captured_at": "2026-11-02T00:17:52.147Z",
+      "captured_issue": "2026-11-02",
+      "summary": "Listen now (88 mins) | Hector Serrano on building Wispr Flow&#8217;s paid-UGC machine, hiring young talent over polished resumes, and why the best marketers are &#8220;allergic to AI&#8221;",
+      "excerpt": "Listen now (88 mins) | Hector Serrano on building Wispr Flow&#8217;s paid-UGC machine, hiring young talent over polished resumes, and why the best marketers are &#8220;allergic to AI&#8221;",
+      "raw_text_available": false,
+      "topics": [
+        "Product"
+      ],
+      "tags": [
+        "product",
+        "growth",
+        "startup"
+      ],
+      "entities": [
+        "Lenny's Newsletter"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://www.lennysnewsletter.com/p/how-a-19-year-old-intern-built-the",
+        "https://www.lennysnewsletter.com/feed.xml",
+        "https://www.lennysnewsletter.com"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 75,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 62,
+      "rank": 979,
+      "cluster_id": "lennysnewsletter_com_b007e456",
+      "dedupe_key": "7fb516e5bda62ce8",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：How a 19-year-old intern built the growth engine behind this $2B AI company | Hector Serrano 来自 Lenny's Newsletter 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-02",
+      "last_seen_issue": "2026-11-02",
+      "used_in_issue": "2026-11-02"
+    },
+    {
+      "id": "cand_b1f27d85501bdc74",
+      "canonical_url": "https://stratechery.com/2026/an-interview-with-palantir-cto-shyam-sankar-about-the-ai-religious-war",
+      "source_url": "https://stratechery.com/feed",
+      "source_fetch_url": "https://stratechery.com/feed",
+      "source_platform": "web",
+      "source_domain": "stratechery.com",
+      "source_name": "Stratechery",
+      "source_file": "media.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "external_article",
+      "title": "An Interview with Palantir CTO Shyam Sankar About the AI Religious War",
+      "subtitle": "",
+      "author": "Stratechery",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Stratechery",
+      "language": "unknown",
+      "published_at": "Thu, 29 Oct 2026 10:00:00 +0000",
+      "captured_at": "2026-11-02T00:17:51.079Z",
+      "captured_issue": "2026-11-02",
+      "summary": "An interview with Palantir CTO Shyam Sankar about AI diffusion and safety, forward-deployed engineer, and what the battle in tech is actually about.",
+      "excerpt": "An interview with Palantir CTO Shyam Sankar about AI diffusion and safety, forward-deployed engineer, and what the battle in tech is actually about.",
+      "raw_text_available": false,
+      "topics": [
+        "Safety"
+      ],
+      "tags": [
+        "strategy",
+        "tech",
+        "business"
+      ],
+      "entities": [
+        "Stratechery"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://stratechery.com/2026/an-interview-with-palantir-cto-shyam-sankar-about-the-ai-religious-war",
+        "https://stratechery.com/feed",
+        "https://stratechery.com"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 45,
+      "evidence_score": 75,
+      "heat_score": 40,
+      "site_fit_score": 62,
+      "total_score": 58,
+      "rank": 1137,
+      "cluster_id": "stratechery_com_7d72d5a7",
+      "dedupe_key": "f7e317994c0bade5",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：An Interview with Palantir CTO Shyam Sankar About the AI Religious War 来自 Stratechery 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-02",
+      "last_seen_issue": "2026-11-02",
+      "used_in_issue": "2026-11-02"
+    },
+    {
+      "id": "cand_0a0a24a43b088e52",
+      "canonical_url": "https://stratechery.com/2026/at-long-last",
+      "source_url": "https://stratechery.com/feed",
+      "source_fetch_url": "https://stratechery.com/feed",
+      "source_platform": "web",
+      "source_domain": "stratechery.com",
+      "source_name": "Stratechery",
+      "source_file": "media.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "external_article",
+      "title": "2026.44: At Long Last&#8230;",
+      "subtitle": "",
+      "author": "Stratechery",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Stratechery",
+      "language": "unknown",
+      "published_at": "Fri, 30 Oct 2026 17:00:00 +0000",
+      "captured_at": "2026-11-02T00:17:51.079Z",
+      "captured_issue": "2026-11-02",
+      "summary": "The best Stratechery content from the week of October 26, 2026 including Anthropic numbers, the end of the Internet as we know it, and autocracies then and now.",
+      "excerpt": "The best Stratechery content from the week of October 26, 2026 including Anthropic numbers, the end of the Internet as we know it, and autocracies then and now.",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "strategy",
+        "tech",
+        "business"
+      ],
+      "entities": [
+        "Stratechery"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://stratechery.com/2026/at-long-last",
+        "https://stratechery.com/feed",
+        "https://stratechery.com"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 45,
+      "evidence_score": 75,
+      "heat_score": 40,
+      "site_fit_score": 50,
+      "total_score": 56,
+      "rank": 1142,
+      "cluster_id": "stratechery_com_128bc02b",
+      "dedupe_key": "daf23dfeac8fb785",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：2026.44: At Long Last&#8230; 来自 Stratechery 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-02",
+      "last_seen_issue": "2026-11-02",
+      "used_in_issue": "2026-11-02"
+    },
+    {
+      "id": "cand_5100dd0eb288765c",
+      "canonical_url": "https://stratechery.com/2026/meta-earnings-muse-and-the-frontier-musebook",
+      "source_url": "https://stratechery.com/feed",
+      "source_fetch_url": "https://stratechery.com/feed",
+      "source_platform": "web",
+      "source_domain": "stratechery.com",
+      "source_name": "Stratechery",
+      "source_file": "media.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "external_article",
+      "title": "Meta Earnings, Muse and the Frontier, Musebook",
+      "subtitle": "",
+      "author": "Stratechery",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Stratechery",
+      "language": "unknown",
+      "published_at": "Wed, 28 Oct 2026 10:06:13 +0000",
+      "captured_at": "2026-11-02T00:17:51.079Z",
+      "captured_issue": "2026-11-02",
+      "summary": "Meta's earnings come in the context of Zuckerberg delivering on his promise; if investors believe in Muse they must support Meta's spending on compute.",
+      "excerpt": "Meta's earnings come in the context of Zuckerberg delivering on his promise; if investors believe in Muse they must support Meta's spending on compute.",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "strategy",
+        "tech",
+        "business"
+      ],
+      "entities": [
+        "Stratechery"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://stratechery.com/2026/meta-earnings-muse-and-the-frontier-musebook",
+        "https://stratechery.com/feed",
+        "https://stratechery.com"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 45,
+      "evidence_score": 75,
+      "heat_score": 40,
+      "site_fit_score": 50,
+      "total_score": 56,
+      "rank": 1143,
+      "cluster_id": "stratechery_com_b350735f",
+      "dedupe_key": "edc916902296cdef",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Meta Earnings, Muse and the Frontier, Musebook 来自 Stratechery 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-02",
+      "last_seen_issue": "2026-11-02",
+      "used_in_issue": "2026-11-02"
+    },
+    {
+      "id": "cand_fc08db72dca36a04",
+      "canonical_url": "https://stratechery.com/2026/anthropic-s-1-the-cost-of-compute-who-is-paying",
+      "source_url": "https://stratechery.com/feed",
+      "source_fetch_url": "https://stratechery.com/feed",
+      "source_platform": "web",
+      "source_domain": "stratechery.com",
+      "source_name": "Stratechery",
+      "source_file": "media.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "external_article",
+      "title": "Anthropic S-1, The Cost of Compute, Who Is Paying?",
+      "subtitle": "",
+      "author": "Stratechery",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Stratechery",
+      "language": "unknown",
+      "published_at": "Tue, 27 Oct 2026 10:32:57 +0000",
+      "captured_at": "2026-11-02T00:17:51.079Z",
+      "captured_issue": "2026-11-02",
+      "summary": "Anthropic's IPO is finally here; the core business is very profitable, but competition may eat all of the profits, even as investors are set up for endless dilution.",
+      "excerpt": "Anthropic's IPO is finally here; the core business is very profitable, but competition may eat all of the profits, even as investors are set up for endless dilution.",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "strategy",
+        "tech",
+        "business"
+      ],
+      "entities": [
+        "Stratechery"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://stratechery.com/2026/anthropic-s-1-the-cost-of-compute-who-is-paying",
+        "https://stratechery.com/feed",
+        "https://stratechery.com"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 45,
+      "evidence_score": 75,
+      "heat_score": 40,
+      "site_fit_score": 50,
+      "total_score": 56,
+      "rank": 1144,
+      "cluster_id": "stratechery_com_823a8acd",
+      "dedupe_key": "8c100ba781cc1f66",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Anthropic S-1, The Cost of Compute, Who Is Paying? 来自 Stratechery 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-02",
+      "last_seen_issue": "2026-11-02",
+      "used_in_issue": "2026-11-02"
+    }
+  ],
+  "clusters": [
+    {
+      "cluster_id": "github_blog_3fe950ca",
+      "title": "Game Off 2026: The theme is SHIFT",
+      "summary": "GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key. The post Game Off 2026: The theme is SHIFT appeared first on The GitHub Blog .",
+      "primary_source": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift",
+      "supporting_sources": [
+        "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift",
+        "https://github.blog/feed",
+        "https://github.com/features/copilot",
+        "https://github.blog",
+        "https://x.com/github"
+      ],
+      "related_x_posts": [
+        "https://x.com/github"
+      ],
+      "related_articles": [
+        "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift",
+        "https://github.blog/feed",
+        "https://github.com/features/copilot",
+        "https://github.blog"
+      ],
+      "entities": [
+        "GitHub Copilot"
+      ],
+      "tags": [
+        "ai_coding",
+        "developer_tools"
+      ],
+      "score": 67,
+      "selected_item_id": "cand_fa60d774214f8084"
+    },
+    {
+      "cluster_id": "lennysnewsletter_com_b007e456",
+      "title": "How a 19-year-old intern built the growth engine behind this $2B AI company | Hector Serrano",
+      "summary": "Listen now (88 mins) | Hector Serrano on building Wispr Flow&#8217;s paid-UGC machine, hiring young talent over polished resumes, and why the best marketers are &#8220;allergic to AI&#8221;",
+      "primary_source": "https://www.lennysnewsletter.com/p/how-a-19-year-old-intern-built-the",
+      "supporting_sources": [
+        "https://www.lennysnewsletter.com/p/how-a-19-year-old-intern-built-the",
+        "https://www.lennysnewsletter.com/feed.xml",
+        "https://www.lennysnewsletter.com"
+      ],
+      "related_x_posts": [],
+      "related_articles": [
+        "https://www.lennysnewsletter.com/p/how-a-19-year-old-intern-built-the",
+        "https://www.lennysnewsletter.com/feed.xml",
+        "https://www.lennysnewsletter.com"
+      ],
+      "entities": [
+        "Lenny's Newsletter"
+      ],
+      "tags": [
+        "product",
+        "growth",
+        "startup"
+      ],
+      "score": 62,
+      "selected_item_id": "cand_4b12af3de37c9a25"
+    },
+    {
+      "cluster_id": "stratechery_com_7d72d5a7",
+      "title": "An Interview with Palantir CTO Shyam Sankar About the AI Religious War",
+      "summary": "An interview with Palantir CTO Shyam Sankar about AI diffusion and safety, forward-deployed engineer, and what the battle in tech is actually about.",
+      "primary_source": "https://stratechery.com/2026/an-interview-with-palantir-cto-shyam-sankar-about-the-ai-religious-war",
+      "supporting_sources": [
+        "https://stratechery.com/2026/an-interview-with-palantir-cto-shyam-sankar-about-the-ai-religious-war",
+        "https://stratechery.com/feed",
+        "https://stratechery.com"
+      ],
+      "related_x_posts": [],
+      "related_articles": [
+        "https://stratechery.com/2026/an-interview-with-palantir-cto-shyam-sankar-about-the-ai-religious-war",
+        "https://stratechery.com/feed",
+        "https://stratechery.com"
+      ],
+      "entities": [
+        "Stratechery"
+      ],
+      "tags": [
+        "strategy",
+        "tech",
+        "business"
+      ],
+      "score": 58,
+      "selected_item_id": "cand_b1f27d85501bdc74"
+    },
+    {
+      "cluster_id": "stratechery_com_128bc02b",
+      "title": "2026.44: At Long Last&#8230;",
+      "summary": "The best Stratechery content from the week of October 26, 2026 including Anthropic numbers, the end of the Internet as we know it, and autocracies then and now.",
+      "primary_source": "https://stratechery.com/2026/at-long-last",
+      "supporting_sources": [
+        "https://stratechery.com/2026/at-long-last",
+        "https://stratechery.com/feed",
+        "https://stratechery.com"
+      ],
+      "related_x_posts": [],
+      "related_articles": [
+        "https://stratechery.com/2026/at-long-last",
+        "https://stratechery.com/feed",
+        "https://stratechery.com"
+      ],
+      "entities": [
+        "Stratechery"
+      ],
+      "tags": [
+        "strategy",
+        "tech",
+        "business"
+      ],
+      "score": 56,
+      "selected_item_id": "cand_0a0a24a43b088e52"
+    },
+    {
+      "cluster_id": "stratechery_com_b350735f",
+      "title": "Meta Earnings, Muse and the Frontier, Musebook",
+      "summary": "Meta's earnings come in the context of Zuckerberg delivering on his promise; if investors believe in Muse they must support Meta's spending on compute.",
+      "primary_source": "https://stratechery.com/2026/meta-earnings-muse-and-the-frontier-musebook",
+      "supporting_sources": [
+        "https://stratechery.com/2026/meta-earnings-muse-and-the-frontier-musebook",
+        "https://stratechery.com/feed",
+        "https://stratechery.com"
+      ],
+      "related_x_posts": [],
+      "related_articles": [
+        "https://stratechery.com/2026/meta-earnings-muse-and-the-frontier-musebook",
+        "https://stratechery.com/feed",
+        "https://stratechery.com"
+      ],
+      "entities": [
+        "Stratechery"
+      ],
+      "tags": [
+        "strategy",
+        "tech",
+        "business"
+      ],
+      "score": 56,
+      "selected_item_id": "cand_5100dd0eb288765c"
+    },
+    {
+      "cluster_id": "stratechery_com_823a8acd",
+      "title": "Anthropic S-1, The Cost of Compute, Who Is Paying?",
+      "summary": "Anthropic's IPO is finally here; the core business is very profitable, but competition may eat all of the profits, even as investors are set up for endless dilution.",
+      "primary_source": "https://stratechery.com/2026/anthropic-s-1-the-cost-of-compute-who-is-paying",
+      "supporting_sources": [
+        "https://stratechery.com/2026/anthropic-s-1-the-cost-of-compute-who-is-paying",
+        "https://stratechery.com/feed",
+        "https://stratechery.com"
+      ],
+      "related_x_posts": [],
+      "related_articles": [
+        "https://stratechery.com/2026/anthropic-s-1-the-cost-of-compute-who-is-paying",
+        "https://stratechery.com/feed",
+        "https://stratechery.com"
+      ],
+      "entities": [
+        "Stratechery"
+      ],
+      "tags": [
+        "strategy",
+        "tech",
+        "business"
+      ],
+      "score": 56,
+      "selected_item_id": "cand_fc08db72dca36a04"
+    }
+  ],
+  "sources": [
+    "github.blog",
+    "lennysnewsletter.com",
+    "stratechery.com"
+  ]
+}

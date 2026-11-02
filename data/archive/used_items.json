@@ -28346,5 +28346,65 @@
     "cluster_id": "stratechery_com_dc93382c",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_fa60d774214f8084",
+    "canonical_url": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift",
+    "dedupe_key": "45383e6e1d1de514",
+    "title": "Game Off 2026: The theme is SHIFT",
+    "issue_date": "2026-11-02",
+    "cluster_id": "github_blog_3fe950ca",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4b12af3de37c9a25",
+    "canonical_url": "https://www.lennysnewsletter.com/p/how-a-19-year-old-intern-built-the",
+    "dedupe_key": "7fb516e5bda62ce8",
+    "title": "How a 19-year-old intern built the growth engine behind this $2B AI company | Hector Serrano",
+    "issue_date": "2026-11-02",
+    "cluster_id": "lennysnewsletter_com_b007e456",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b1f27d85501bdc74",
+    "canonical_url": "https://stratechery.com/2026/an-interview-with-palantir-cto-shyam-sankar-about-the-ai-religious-war",
+    "dedupe_key": "f7e317994c0bade5",
+    "title": "An Interview with Palantir CTO Shyam Sankar About the AI Religious War",
+    "issue_date": "2026-11-02",
+    "cluster_id": "stratechery_com_7d72d5a7",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0a0a24a43b088e52",
+    "canonical_url": "https://stratechery.com/2026/at-long-last",
+    "dedupe_key": "daf23dfeac8fb785",
+    "title": "2026.44: At Long Last&#8230;",
+    "issue_date": "2026-11-02",
+    "cluster_id": "stratechery_com_128bc02b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5100dd0eb288765c",
+    "canonical_url": "https://stratechery.com/2026/meta-earnings-muse-and-the-frontier-musebook",
+    "dedupe_key": "edc916902296cdef",
+    "title": "Meta Earnings, Muse and the Frontier, Musebook",
+    "issue_date": "2026-11-02",
+    "cluster_id": "stratechery_com_b350735f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_fc08db72dca36a04",
+    "canonical_url": "https://stratechery.com/2026/anthropic-s-1-the-cost-of-compute-who-is-paying",
+    "dedupe_key": "8c100ba781cc1f66",
+    "title": "Anthropic S-1, The Cost of Compute, Who Is Paying?",
+    "issue_date": "2026-11-02",
+    "cluster_id": "stratechery_com_823a8acd",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
