@@ -1,21 +1,210 @@
 [
   {
-    "title": "Game Off 2026: The theme is SHIFT",
-    "url": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift",
-    "summary": "GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key. The post Game Off 2026: The theme is SHIFT appeared first on The GitHub Blog .",
+    "title": "LifeVal",
+    "url": "https://openai.com/index/lifeval",
+    "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
     "tags": [
-      "ai_coding",
-      "developer_tools"
+      "ai_models",
+      "official",
+      "research",
+      "developer"
     ],
-    "author": "GitHub Copilot",
-    "source": "github.blog",
-    "date": "2026-11-02",
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-11-03",
+    "score": 72
+  },
+  {
+    "title": "Qodo builds context into AI code review with Codex",
+    "url": "https://openai.com/index/qodo-codex-plugin",
+    "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-11-03",
+    "score": 70
+  },
+  {
+    "title": "LongCat 2.5 now available on AI Gateway",
+    "url": "https://vercel.com/changelog/longcat-2-5-now-available-on-ai-gateway",
+    "summary": "LongCat 2.5 from Meituan is now available on AI Gateway. This model combines native visual understanding with coding and multi-step tool use for agents working across complex codebases and full-project builds. Meituan highlights improvements in visual programming, creative design, and 3D tasks, alongside longer agent workflows that carry engineering work from planning through execution. The model supports text and image inputs with a 1M-token context window for code, document",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-11-03",
+    "score": 69
+  },
+  {
+    "title": "Stop counting tokens, start counting what ships",
+    "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships",
+    "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls&#8230;",
+    "tags": [
+      "ai",
+      "research",
+      "society"
+    ],
+    "author": "MIT Technology Review AI",
+    "source": "technologyreview.com",
+    "date": "2026-11-03",
+    "score": 69
+  },
+  {
+    "title": "Speeding up planning decisions with AI",
+    "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai",
+    "summary": "Google DeepMind and UK government work together to reduce planning assessment times",
+    "tags": [
+      "research",
+      "multimodal",
+      "science",
+      "official"
+    ],
+    "author": "Google DeepMind",
+    "source": "deepmind.google",
+    "date": "2026-11-03",
+    "score": 68
+  },
+  {
+    "title": "Support New AI Frameworks Faster Using NVIDIA Workload Map",
+    "url": "https://developer.nvidia.com/blog/support-new-ai-frameworks-faster-using-nvidia-workload-map",
+    "summary": "NVIDIA Technical Blog · Support New AI Frameworks Faster Using NVIDIA Workload Map",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-11-03",
+    "score": 68
+  },
+  {
+    "title": "Scaling Git at OpenAI",
+    "url": "https://openai.com/index/scaling-git-at-openai",
+    "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-11-03",
     "score": 67
   },
   {
-    "title": "How a 19-year-old intern built the growth engine behind this $2B AI company | Hector Serrano",
-    "url": "https://www.lennysnewsletter.com/p/how-a-19-year-old-intern-built-the",
-    "summary": "Listen now (88 mins) | Hector Serrano on building Wispr Flow&#8217;s paid-UGC machine, hiring young talent over polished resumes, and why the best marketers are &#8220;allergic to AI&#8221;",
+    "title": "Introducing the Grid Protectors Program",
+    "url": "https://openai.com/index/grid-protectors-program",
+    "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-11-03",
+    "score": 67
+  },
+  {
+    "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+    "url": "https://openai.com/index/dan-driscoll-joins-openai",
+    "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-11-03",
+    "score": 67
+  },
+  {
+    "title": "Diagnose Distributed AI Workload Failures with NVIDIA Attribution",
+    "url": "https://developer.nvidia.com/blog/diagnose-distributed-ai-workload-failures-with-nvidia-attribution",
+    "summary": "NVIDIA Technical Blog · Diagnose Distributed AI Workload Failures with NVIDIA Attribution",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-11-03",
+    "score": 66
+  },
+  {
+    "title": "Keep Distributed Training Running with Automated Workload Recovery",
+    "url": "https://developer.nvidia.com/blog/keep-distributed-training-running-with-automated-workload-recovery",
+    "summary": "NVIDIA Technical Blog · Keep Distributed Training Running with Automated Workload Recovery",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-11-03",
+    "score": 66
+  },
+  {
+    "title": "Making Kubernetes AI-Ready for NVIDIA Vera Rubin on Day One",
+    "url": "https://developer.nvidia.com/blog/making-kubernetes-ai-ready-for-nvidia-vera-rubin-on-day-one",
+    "summary": "NVIDIA Technical Blog · Making Kubernetes AI-Ready for NVIDIA Vera Rubin on Day One",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-11-03",
+    "score": 66
+  },
+  {
+    "title": "Build World Models for Interactive Simulation with NVIDIA Cosmos",
+    "url": "https://developer.nvidia.com/blog/build-world-models-for-interactive-simulation-with-nvidia-cosmos",
+    "summary": "NVIDIA Technical Blog · Build World Models for Interactive Simulation with NVIDIA Cosmos",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-11-03",
+    "score": 66
+  },
+  {
+    "title": "New context engineering challenges in late 2026",
+    "url": "https://www.langchain.com/blog/context-engineering-challenges-late-2026",
+    "summary": "LangChain CEO Harrison Chase shares insights into the biggest harness engineering challenges with the emergence of proactive agents.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-11-03",
+    "score": 65
+  },
+  {
+    "title": "How Figma’s PMs actually use AI every day | Ezra Mechaber (PM, Figma)",
+    "url": "https://www.lennysnewsletter.com/p/how-figmas-pms-actually-use-ai-every",
+    "summary": "Listen now | &#127897;&#65039; Figma growth PM Ezra Mechaber demos PM OS, a 31-skill repo used by 60+ PMs, and AutoXP, an agent that runs growth experiments with one human checkpoint",
     "tags": [
       "product",
       "growth",
@@ -23,63 +212,104 @@
     ],
     "author": "Lenny's Newsletter",
     "source": "lennysnewsletter.com",
-    "date": "2026-11-02",
-    "score": 62
+    "date": "2026-11-03",
+    "score": 65
   },
   {
-    "title": "An Interview with Palantir CTO Shyam Sankar About the AI Religious War",
-    "url": "https://stratechery.com/2026/an-interview-with-palantir-cto-shyam-sankar-about-the-ai-religious-war",
-    "summary": "An interview with Palantir CTO Shyam Sankar about AI diffusion and safety, forward-deployed engineer, and what the battle in tech is actually about.",
+    "title": "When AI comes knocking, how governments can prepare",
+    "url": "https://elevenlabs.io/blog/ai-knocking-how-governments-prepare",
+    "summary": "Citizens are using AI agents to call government services. Learn how to prepare for agentic flooding with synthetic voice detection and AI agents.",
     "tags": [
-      "strategy",
-      "tech",
-      "business"
+      "voice_ai",
+      "audio"
     ],
-    "author": "Stratechery",
-    "source": "stratechery.com",
-    "date": "2026-11-02",
-    "score": 58
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-11-03",
+    "score": 64
   },
   {
-    "title": "2026.44: At Long Last&#8230;",
-    "url": "https://stratechery.com/2026/at-long-last",
-    "summary": "The best Stratechery content from the week of October 26, 2026 including Anthropic numbers, the end of the Internet as we know it, and autocracies then and now.",
+    "title": "Raising the quality of insights in agentic analytics",
+    "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics",
+    "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The quality of insights that agents currently generate&#8230;",
     "tags": [
-      "strategy",
-      "tech",
-      "business"
+      "ai",
+      "research",
+      "society"
     ],
-    "author": "Stratechery",
-    "source": "stratechery.com",
-    "date": "2026-11-02",
-    "score": 56
+    "author": "MIT Technology Review AI",
+    "source": "technologyreview.com",
+    "date": "2026-11-03",
+    "score": 64
   },
   {
-    "title": "Meta Earnings, Muse and the Frontier, Musebook",
-    "url": "https://stratechery.com/2026/meta-earnings-muse-and-the-frontier-musebook",
-    "summary": "Meta's earnings come in the context of Zuckerberg delivering on his promise; if investors believe in Muse they must support Meta's spending on compute.",
+    "title": "The agentic web is here",
+    "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here",
+    "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an internet designed to be navigated by autonomous software agents that could address our every&#8230;",
     "tags": [
-      "strategy",
-      "tech",
-      "business"
+      "ai",
+      "research",
+      "society"
     ],
-    "author": "Stratechery",
-    "source": "stratechery.com",
-    "date": "2026-11-02",
-    "score": 56
+    "author": "MIT Technology Review AI",
+    "source": "technologyreview.com",
+    "date": "2026-11-03",
+    "score": 64
   },
   {
-    "title": "Anthropic S-1, The Cost of Compute, Who Is Paying?",
-    "url": "https://stratechery.com/2026/anthropic-s-1-the-cost-of-compute-who-is-paying",
-    "summary": "Anthropic's IPO is finally here; the core business is very profitable, but competition may eat all of the profits, even as investors are set up for endless dilution.",
+    "title": "Projects can now be configured with vercel.toml",
+    "url": "https://vercel.com/changelog/projects-can-now-be-configured-with-vercel-toml",
+    "summary": "Vercel now supports vercel.toml , which allows you to to configure your project using the TOML configuration format . All of the same configuration properties are supported as in vercel.json , but it supports comments and has a flatter structure. All projects can now use vercel.toml . Use only one project configuration file: vercel.toml, vercel.json, or vercel.ts. For example, configuring Services : Read the documentation . Read more",
     "tags": [
-      "strategy",
-      "tech",
-      "business"
+      "sdk",
+      "ai_infra",
+      "frontend"
     ],
-    "author": "Stratechery",
-    "source": "stratechery.com",
-    "date": "2026-11-02",
-    "score": 56
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-11-03",
+    "score": 63
+  },
+  {
+    "title": "Vercel MCP now supports Client ID Metadata Documents",
+    "url": "https://vercel.com/changelog/vercel-mcp-now-supports-client-id-metadata-documents",
+    "summary": "Any MCP client can now ask to connect to Vercel MCP . You still log in and approve each connection, but the client no longer has to be reviewed by Vercel first. Previously, Vercel reviewed and allowlisted each client and its redirect URIs by hand, and anything not on the list was rejected. To connect, a client publishes a Client ID Metadata Document (CIMD), a JSON file on its own domain that describes it, and uses that file's HTTPS URL as its OAuth client_id . This follows th",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-11-03",
+    "score": 63
+  },
+  {
+    "title": "Vercel MCP now renders deployments as an interactive card",
+    "url": "https://vercel.com/changelog/monitor-vercel-deployments-in-chatgpt",
+    "summary": "Vercel MCP can now show your deployments as an interactive card inside ChatGPT and other chat clients that support MCP Apps . The card shows live deployment status, build logs, and source and commit details, with a Visit button once the deployment URL is ready. You can send logs into the chat to debug with the model, or open the fullscreen view to read them beneath the card. For repositories linked to multiple projects, a project list lets you switch between them. The card is",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-11-03",
+    "score": 63
+  },
+  {
+    "title": "Flags Explorer redesigned for easier override sharing",
+    "url": "https://vercel.com/changelog/flags-explorer-redesigned-for-easier-override-sharing",
+    "summary": "Flags Explorer is a tool in the Vercel Toolbar where you can see which feature flags are active on your end, and share them with your team, either by setting them for the branch or through a URL. The Explorer surface has been redesigned to co-locate overrides, branch recommendations, and any related actions. Whenever a branch has overrides set, they will be recommended to teammates visiting the deployment through a dialog. Flags Explorer is available on all plans. Read the do",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-11-03",
+    "score": 63
   }
 ]

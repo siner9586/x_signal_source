@@ -28406,5 +28406,225 @@
     "cluster_id": "stratechery_com_823a8acd",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_26275b9ca16f9ef3",
+    "canonical_url": "https://openai.com/index/lifeval",
+    "dedupe_key": "fd87c1ad008d2e42",
+    "title": "LifeVal",
+    "issue_date": "2026-11-03",
+    "cluster_id": "openai_com_e8f2f093",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6f8067a8c0ee82e6",
+    "canonical_url": "https://openai.com/index/qodo-codex-plugin",
+    "dedupe_key": "4b850d7dcbdb9336",
+    "title": "Qodo builds context into AI code review with Codex",
+    "issue_date": "2026-11-03",
+    "cluster_id": "openai_com_7655c93a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ce73741adf58d1e1",
+    "canonical_url": "https://vercel.com/changelog/longcat-2-5-now-available-on-ai-gateway",
+    "dedupe_key": "18774c0014f49abd",
+    "title": "LongCat 2.5 now available on AI Gateway",
+    "issue_date": "2026-11-03",
+    "cluster_id": "vercel_com_4d17ff45",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_738251de3004a007",
+    "canonical_url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships",
+    "dedupe_key": "169c59a3d5358105",
+    "title": "Stop counting tokens, start counting what ships",
+    "issue_date": "2026-11-03",
+    "cluster_id": "technologyreview_com_23483adb",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_20b958853a92c987",
+    "canonical_url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai",
+    "dedupe_key": "12c688e73642abfa",
+    "title": "Speeding up planning decisions with AI",
+    "issue_date": "2026-11-03",
+    "cluster_id": "deepmind_google_12d92384",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_133af1d284452ba5",
+    "canonical_url": "https://developer.nvidia.com/blog/support-new-ai-frameworks-faster-using-nvidia-workload-map",
+    "dedupe_key": "ee8e945128e53f56",
+    "title": "Support New AI Frameworks Faster Using NVIDIA Workload Map",
+    "issue_date": "2026-11-03",
+    "cluster_id": "developer_nvidia_com_63daa61e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e821e5516724586b",
+    "canonical_url": "https://openai.com/index/scaling-git-at-openai",
+    "dedupe_key": "1332d09706ea2d7d",
+    "title": "Scaling Git at OpenAI",
+    "issue_date": "2026-11-03",
+    "cluster_id": "openai_com_dd282005",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_31d83b432cf9cac9",
+    "canonical_url": "https://openai.com/index/grid-protectors-program",
+    "dedupe_key": "33b316c6ea9a3e5a",
+    "title": "Introducing the Grid Protectors Program",
+    "issue_date": "2026-11-03",
+    "cluster_id": "openai_com_ec4e8dbe",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7cee4688a27890e1",
+    "canonical_url": "https://openai.com/index/dan-driscoll-joins-openai",
+    "dedupe_key": "9ae5d017fedeb4e6",
+    "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+    "issue_date": "2026-11-03",
+    "cluster_id": "openai_com_de17d7d5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_878c867c9d9f355e",
+    "canonical_url": "https://developer.nvidia.com/blog/diagnose-distributed-ai-workload-failures-with-nvidia-attribution",
+    "dedupe_key": "3e384af43f377782",
+    "title": "Diagnose Distributed AI Workload Failures with NVIDIA Attribution",
+    "issue_date": "2026-11-03",
+    "cluster_id": "developer_nvidia_com_e15aaedb",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a89f0ca542caa620",
+    "canonical_url": "https://developer.nvidia.com/blog/keep-distributed-training-running-with-automated-workload-recovery",
+    "dedupe_key": "98c539f01aadc2c0",
+    "title": "Keep Distributed Training Running with Automated Workload Recovery",
+    "issue_date": "2026-11-03",
+    "cluster_id": "developer_nvidia_com_fc1e8e5c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_56be85f1b6777440",
+    "canonical_url": "https://developer.nvidia.com/blog/making-kubernetes-ai-ready-for-nvidia-vera-rubin-on-day-one",
+    "dedupe_key": "c2b644c5ee400045",
+    "title": "Making Kubernetes AI-Ready for NVIDIA Vera Rubin on Day One",
+    "issue_date": "2026-11-03",
+    "cluster_id": "developer_nvidia_com_27bde349",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_88d1860bd5f5611c",
+    "canonical_url": "https://developer.nvidia.com/blog/build-world-models-for-interactive-simulation-with-nvidia-cosmos",
+    "dedupe_key": "476fbcb73a4a1061",
+    "title": "Build World Models for Interactive Simulation with NVIDIA Cosmos",
+    "issue_date": "2026-11-03",
+    "cluster_id": "developer_nvidia_com_279b58a5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2b52c565dc7ff709",
+    "canonical_url": "https://www.langchain.com/blog/context-engineering-challenges-late-2026",
+    "dedupe_key": "5094c2502cf5f2dc",
+    "title": "New context engineering challenges in late 2026",
+    "issue_date": "2026-11-03",
+    "cluster_id": "langchain_com_fd16afa0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9ae9b47462f58641",
+    "canonical_url": "https://www.lennysnewsletter.com/p/how-figmas-pms-actually-use-ai-every",
+    "dedupe_key": "b1efdf94616d1afc",
+    "title": "How Figma’s PMs actually use AI every day | Ezra Mechaber (PM, Figma)",
+    "issue_date": "2026-11-03",
+    "cluster_id": "lennysnewsletter_com_c3982aa5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3837fc8931f980ab",
+    "canonical_url": "https://elevenlabs.io/blog/ai-knocking-how-governments-prepare",
+    "dedupe_key": "fae35233ce7a5a9c",
+    "title": "When AI comes knocking, how governments can prepare",
+    "issue_date": "2026-11-03",
+    "cluster_id": "elevenlabs_io_babf6d8d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2e4252aa36e1bc2c",
+    "canonical_url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics",
+    "dedupe_key": "b55379069abb905a",
+    "title": "Raising the quality of insights in agentic analytics",
+    "issue_date": "2026-11-03",
+    "cluster_id": "technologyreview_com_ae1033ca",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_eb17f32d6d35ba15",
+    "canonical_url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here",
+    "dedupe_key": "ab1f13b59eed8063",
+    "title": "The agentic web is here",
+    "issue_date": "2026-11-03",
+    "cluster_id": "technologyreview_com_a8a203c3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_45fc35a2924f10b3",
+    "canonical_url": "https://vercel.com/changelog/projects-can-now-be-configured-with-vercel-toml",
+    "dedupe_key": "7e4cb236129385bb",
+    "title": "Projects can now be configured with vercel.toml",
+    "issue_date": "2026-11-03",
+    "cluster_id": "vercel_com_c085dc6a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4fdf07aa74e0e646",
+    "canonical_url": "https://vercel.com/changelog/vercel-mcp-now-supports-client-id-metadata-documents",
+    "dedupe_key": "e1700fd134051899",
+    "title": "Vercel MCP now supports Client ID Metadata Documents",
+    "issue_date": "2026-11-03",
+    "cluster_id": "vercel_com_c63bfe87",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b02c460b366e5c87",
+    "canonical_url": "https://vercel.com/changelog/monitor-vercel-deployments-in-chatgpt",
+    "dedupe_key": "37297427883fcd41",
+    "title": "Vercel MCP now renders deployments as an interactive card",
+    "issue_date": "2026-11-03",
+    "cluster_id": "vercel_com_febc4e7d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_91bbeca35023a85d",
+    "canonical_url": "https://vercel.com/changelog/flags-explorer-redesigned-for-easier-override-sharing",
+    "dedupe_key": "508d6e7313eb3402",
+    "title": "Flags Explorer redesigned for easier override sharing",
+    "issue_date": "2026-11-03",
+    "cluster_id": "vercel_com_5c26151a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
