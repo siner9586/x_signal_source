@@ -28626,5 +28626,205 @@
     "cluster_id": "vercel_com_5c26151a",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_299b379e77b87451",
+    "canonical_url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+    "dedupe_key": "9429b2183290abae",
+    "title": "Rewarding defenders with bigger bug bounties",
+    "issue_date": "2026-11-04",
+    "cluster_id": "openai_com_6656883e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a1e99c1c30857906",
+    "canonical_url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity",
+    "dedupe_key": "720ce6fcc6e58b7d",
+    "title": "Agentic cheminformatics with Google Antigravity",
+    "issue_date": "2026-11-04",
+    "cluster_id": "deepmind_google_52b2a76c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_147fe57939bd7d11",
+    "canonical_url": "https://vercel.com/blog/vercel-security-review",
+    "dedupe_key": "005099f1a2367b0a",
+    "title": "Introducing Vercel Security Review",
+    "issue_date": "2026-11-04",
+    "cluster_id": "vercel_com_2b7e46e6",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7cd0534bfafd7496",
+    "canonical_url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment",
+    "dedupe_key": "9dc4a7c3fdf4cf2e",
+    "title": "How “reverse game theory” could keep AI agents in check",
+    "issue_date": "2026-11-04",
+    "cluster_id": "technologyreview_com_6e21ba44",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c755d83a034b92aa",
+    "canonical_url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+    "dedupe_key": "72d7ec61ac22aa18",
+    "title": "Accelerating engineering for the physical world",
+    "issue_date": "2026-11-04",
+    "cluster_id": "openai_com_0772a3fc",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d991d88f45f709c8",
+    "canonical_url": "https://openai.com/index/cisco-cyber",
+    "dedupe_key": "cc2b266d9f2e644a",
+    "title": "How Cisco defends at machine speed with OpenAI",
+    "issue_date": "2026-11-04",
+    "cluster_id": "openai_com_93be83bf",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_983c14bbc0144982",
+    "canonical_url": "https://openai.com/index/heimstaden",
+    "dedupe_key": "53bc9e690ce80389",
+    "title": "Heimstaden is changing residential real estate management with AI",
+    "issue_date": "2026-11-04",
+    "cluster_id": "openai_com_16e748e1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_983d9072dc020967",
+    "canonical_url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+    "dedupe_key": "e500ecdce2d5fb2c",
+    "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+    "issue_date": "2026-11-04",
+    "cluster_id": "openai_com_02f34d9e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_96b097a287d74b65",
+    "canonical_url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+    "dedupe_key": "8ab4baa415c873c2",
+    "title": "Preparing our next security sprint to harden OpenAI",
+    "issue_date": "2026-11-04",
+    "cluster_id": "openai_com_ba452cd4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_32e15ec8184948a7",
+    "canonical_url": "https://openai.com/ads/customers/evernote",
+    "dedupe_key": "ae7a021534c85326",
+    "title": "Evernote turns AI-driven discovery into paid subscriptions",
+    "issue_date": "2026-11-04",
+    "cluster_id": "openai_com_dc559e61",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_27602c58500c8cc8",
+    "canonical_url": "https://vercel.com/changelog/vercel-security-review-public-beta",
+    "dedupe_key": "e585dd1820d737c3",
+    "title": "Vercel Security Review now in public beta",
+    "issue_date": "2026-11-04",
+    "cluster_id": "vercel_com_791b870a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_82065bab6a1a66a4",
+    "canonical_url": "https://github.blog/open-source/maintainers/arnis-turns-any-place-on-earth-into-a-minecraft-world",
+    "dedupe_key": "9ce47e12eb7dfd39",
+    "title": "Arnis turns any place on Earth into a Minecraft world",
+    "issue_date": "2026-11-04",
+    "cluster_id": "github_blog_27069205",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5de2d3877f15b6b6",
+    "canonical_url": "https://vercel.com/changelog/vercel-ci-no-longer-requires-a-linked-vercel-project",
+    "dedupe_key": "cf518610cd84629a",
+    "title": "Vercel CI no longer requires a linked Vercel project",
+    "issue_date": "2026-11-04",
+    "cluster_id": "vercel_com_46a27cac",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c7dffc51c8cfb31e",
+    "canonical_url": "https://vercel.com/blog/how-zapier-turns-ideas-into-working-software-in-hours-with-vercel",
+    "dedupe_key": "461130f2194e68f6",
+    "title": "How Zapier turns ideas into working software in hours with Vercel",
+    "issue_date": "2026-11-04",
+    "cluster_id": "vercel_com_26197743",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5068335277cafe83",
+    "canonical_url": "https://vercel.com/blog/how-mercor-ships-internal-apps-and-billions-of-production-tokens-on-one-platform",
+    "dedupe_key": "15ca110f675586dd",
+    "title": "How Mercor ships internal apps and billions of production tokens on one platform",
+    "issue_date": "2026-11-04",
+    "cluster_id": "vercel_com_eeaad715",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3258f9f8cd40d850",
+    "canonical_url": "https://vercel.com/blog/how-openevidence-scales-medical-search-for-doctors",
+    "dedupe_key": "3cc1a53683bc980b",
+    "title": "How OpenEvidence scales medical search for 650K doctors",
+    "issue_date": "2026-11-04",
+    "cluster_id": "vercel_com_50ef324b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_cf49cf3a3ac6246a",
+    "canonical_url": "https://www.langchain.com/blog/langsmith-byoc-aws-gc-azure",
+    "dedupe_key": "449dd35f22602a00",
+    "title": "LangSmith BYOC is now available on AWS, Azure, and Google Cloud",
+    "issue_date": "2026-11-04",
+    "cluster_id": "langchain_com_86024e01",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_26d57a888d8fa342",
+    "canonical_url": "https://www.langchain.com/blog/human-insight-strategic-advantage-agents",
+    "dedupe_key": "dce64c8446cff1b6",
+    "title": "Why human insight is a strategic advantage for building better agents",
+    "issue_date": "2026-11-04",
+    "cluster_id": "langchain_com_887379d1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2a7323ff746b42d2",
+    "canonical_url": "https://www.langchain.com/blog/how-we-optimized-browser-use-for-deep-agents",
+    "dedupe_key": "ff98b45a0375c892",
+    "title": "How We Optimized Browser Use for Deep Agents",
+    "issue_date": "2026-11-04",
+    "cluster_id": "langchain_com_71907009",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_999a35b6ab35eeb8",
+    "canonical_url": "https://vercel.com/changelog/vercel-cli-now-diagnoses-setup-problems-with-vercel-doctor",
+    "dedupe_key": "091732ae672aeb8a",
+    "title": "Diagnose Vercel CLI setup problems with vercel doctor",
+    "issue_date": "2026-11-04",
+    "cluster_id": "vercel_com_b9b43916",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
