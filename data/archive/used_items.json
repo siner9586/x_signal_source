@@ -28826,5 +28826,225 @@
     "cluster_id": "vercel_com_b9b43916",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_236bd6c0dda597c8",
+    "canonical_url": "https://developer.nvidia.com/blog/how-nvidia-factory-operations-blueprint-coordinates-ai-agents-to-investigate-production-issues",
+    "dedupe_key": "7eaad8003b9ca731",
+    "title": "How NVIDIA Factory Operations Blueprint Coordinates AI Agents to Investigate Production Issues",
+    "issue_date": "2026-11-05",
+    "cluster_id": "developer_nvidia_com_4b832dfc",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_38f62ecb6df6b5f4",
+    "canonical_url": "https://developer.nvidia.com/blog/how-nvidia-uses-ai-agents-to-streamline-ai-factory-operations",
+    "dedupe_key": "2e6145557656bf6a",
+    "title": "How NVIDIA Uses AI Agents to Streamline AI Factory Operations",
+    "issue_date": "2026-11-05",
+    "cluster_id": "developer_nvidia_com_dc3dc014",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7bb280929a6c9d06",
+    "canonical_url": "https://openai.com/index/devrev-enterprise-self-service",
+    "dedupe_key": "e7789e5edb27cb2a",
+    "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+    "issue_date": "2026-11-05",
+    "cluster_id": "openai_com_ca50994c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_de74df6786ead032",
+    "canonical_url": "https://developer.nvidia.com/blog/use-nvidia-nemo-to-turn-agent-failures-into-tests-and-harness-fixes",
+    "dedupe_key": "209f081b96f8f3ef",
+    "title": "Use NVIDIA NeMo to Turn Agent Failures into Tests and Harness Fixes",
+    "issue_date": "2026-11-05",
+    "cluster_id": "developer_nvidia_com_622b7894",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2aecedc980d3aa5f",
+    "canonical_url": "https://vercel.com/changelog/kimi-k3-1-pro-now-has-more-zdr-providers-on-ai-gateway",
+    "dedupe_key": "83ed0fd22f90bcc1",
+    "title": "Kimi K3.1 Pro now has more ZDR providers on AI Gateway",
+    "issue_date": "2026-11-05",
+    "cluster_id": "vercel_com_d1882147",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_554ea2b0a53f2a5f",
+    "canonical_url": "https://huggingface.co/blog/huggingface/train-agents",
+    "dedupe_key": "2b784a2d90a82a42",
+    "title": "A curriculum for post-training agents huggingface • 15 days ago • 101",
+    "issue_date": "2026-11-05",
+    "cluster_id": "huggingface_co_76c91ce8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c0bd5f3fa7d4356a",
+    "canonical_url": "https://openai.com/index/openai-to-acquire-pierre",
+    "dedupe_key": "71592e441618f572",
+    "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+    "issue_date": "2026-11-05",
+    "cluster_id": "openai_com_daabf105",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_eefd55fd791aaf11",
+    "canonical_url": "https://openai.com/index/daybreak-red-aws-govcloud",
+    "dedupe_key": "fdf89c52396545b9",
+    "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+    "issue_date": "2026-11-05",
+    "cluster_id": "openai_com_0fa28d90",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d2655d4b7823df91",
+    "canonical_url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+    "dedupe_key": "56c86969bbda1105",
+    "title": "A thousand fewer paths to root",
+    "issue_date": "2026-11-05",
+    "cluster_id": "openai_com_2ff27a2f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_54668cfd74ddef9a",
+    "canonical_url": "https://openai.com/index/introducing-images-2-6",
+    "dedupe_key": "7881922816f3974f",
+    "title": "Introducing Images 2.6",
+    "issue_date": "2026-11-05",
+    "cluster_id": "openai_com_7a086a99",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_bca38d7207d5ce4d",
+    "canonical_url": "https://developer.nvidia.com/blog/nvidia-cuda-13-5-brings-nvidia-vera-rubin-ga-support",
+    "dedupe_key": "54491645eac4c18d",
+    "title": "NVIDIA CUDA 13.5 Brings NVIDIA Vera Rubin GA Support",
+    "issue_date": "2026-11-05",
+    "cluster_id": "developer_nvidia_com_a6e4d884",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9a9c5ae7c78b6299",
+    "canonical_url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage",
+    "dedupe_key": "20f848d8a4190114",
+    "title": "Securing the agentic enterprise with data lineage",
+    "issue_date": "2026-11-05",
+    "cluster_id": "technologyreview_com_d615a8a2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4528a7915f34fc50",
+    "canonical_url": "https://vercel.com/changelog/tencent-hy4-now-available-on-ai-gateway",
+    "dedupe_key": "d8f7293a694387c1",
+    "title": "Tencent Hy4 now available on AI Gateway",
+    "issue_date": "2026-11-05",
+    "cluster_id": "vercel_com_0c9fa07f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d798f148116edfe6",
+    "canonical_url": "https://vercel.com/changelog/atomic-start-hooks-in-the-workflow-sdk",
+    "dedupe_key": "e6bbd93b25ed4bb2",
+    "title": "Workflow SDK adds idempotent starts",
+    "issue_date": "2026-11-05",
+    "cluster_id": "vercel_com_73160f7f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_04d8ec99d20af1bb",
+    "canonical_url": "https://vercel.com/changelog/vercel-sandbox-with-drives-now-starts-up-to-2-4x-faster",
+    "dedupe_key": "03fd9b9ac59eb67a",
+    "title": "Vercel Sandbox with Drives now starts up to 2.4× faster",
+    "issue_date": "2026-11-05",
+    "cluster_id": "vercel_com_b0677d49",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e523832fddaef502",
+    "canonical_url": "https://vercel.com/changelog/evaluate-vercel-flags-from-another-project-without-sharing-sdk-keys",
+    "dedupe_key": "b56930328a049ed0",
+    "title": "Evaluate Vercel Flags from another project without sharing SDK keys.",
+    "issue_date": "2026-11-05",
+    "cluster_id": "vercel_com_7ff5058f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_104690d27c2f3bcb",
+    "canonical_url": "https://vercel.com/changelog/blocking-malicious-npm-packages-before-and-during-installation",
+    "dedupe_key": "09fb101d0b07afb0",
+    "title": "Blocking malicious npm packages before and during installation",
+    "issue_date": "2026-11-05",
+    "cluster_id": "vercel_com_05ab29e6",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9f596606f0f2eef5",
+    "canonical_url": "https://elevenlabs.io/blog/ai-voice-agent-pricing-guide",
+    "dedupe_key": "0d544e3b74c00891",
+    "title": "AI voice agent pricing: What it costs for your business",
+    "issue_date": "2026-11-05",
+    "cluster_id": "elevenlabs_io_d7b1f16e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_726eb1d6ba7e06cc",
+    "canonical_url": "https://elevenlabs.io/blog/elevenagents-contact-center-integrations",
+    "dedupe_key": "419533a1189e1045",
+    "title": "ElevenAgents integrates natively with leading contact center platforms to deliver enterprise-ready agents",
+    "issue_date": "2026-11-05",
+    "cluster_id": "elevenlabs_io_fc875f1c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a4530ba3a9a3157e",
+    "canonical_url": "https://elevenlabs.io/blog/angle-health",
+    "dedupe_key": "b133a81416c27246",
+    "title": "Angle Health’s ElevenAgents pilot handles 90% of provider calls without a transfer",
+    "issue_date": "2026-11-05",
+    "cluster_id": "elevenlabs_io_e813b54a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_87289ff54017e073",
+    "canonical_url": "https://x.ai/news/data-bot",
+    "dedupe_key": "2b4a41f40a56f4fb",
+    "title": "Product · Nov 2, 2026 Giving every team a data scientist with Grok Bot",
+    "issue_date": "2026-11-05",
+    "cluster_id": "x_ai_8fe353ac",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7dae9462b4a4d3cf",
+    "canonical_url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+    "dedupe_key": "681d53d53bcf0c76",
+    "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+    "issue_date": "2026-11-05",
+    "cluster_id": "huggingface_co_15165f52",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
