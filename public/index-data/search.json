@@ -1,36 +1,8 @@
 [
   {
-    "title": "How NVIDIA Factory Operations Blueprint Coordinates AI Agents to Investigate Production Issues",
-    "url": "https://developer.nvidia.com/blog/how-nvidia-factory-operations-blueprint-coordinates-ai-agents-to-investigate-production-issues",
-    "summary": "NVIDIA Technical Blog · How NVIDIA Factory Operations Blueprint Coordinates AI Agents to Investigate Production Issues",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-11-05",
-    "score": 72
-  },
-  {
-    "title": "How NVIDIA Uses AI Agents to Streamline AI Factory Operations",
-    "url": "https://developer.nvidia.com/blog/how-nvidia-uses-ai-agents-to-streamline-ai-factory-operations",
-    "summary": "NVIDIA Technical Blog · How NVIDIA Uses AI Agents to Streamline AI Factory Operations",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-11-05",
-    "score": 71
-  },
-  {
-    "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
-    "url": "https://openai.com/index/devrev-enterprise-self-service",
-    "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+    "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+    "url": "https://openai.com/index/introducing-gpt-6-cyber",
+    "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
     "tags": [
       "ai_models",
       "official",
@@ -39,13 +11,142 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-11-05",
+    "date": "2026-11-06",
+    "score": 70
+  },
+  {
+    "title": "Setting a new standard for responsible AI infrastructure",
+    "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+    "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-11-06",
+    "score": 70
+  },
+  {
+    "title": "Franklin Templeton uses OpenAI to support investment research",
+    "url": "https://openai.com/index/franklin-templeton",
+    "summary": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-11-06",
+    "score": 70
+  },
+  {
+    "title": "Inside GitHub&#8217;s new Git storage architecture",
+    "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture",
+    "summary": "GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works. The post Inside GitHub&#8217;s new Git storage architecture appeared first on The GitHub Blog .",
+    "tags": [
+      "ai_coding",
+      "developer_tools"
+    ],
+    "author": "GitHub Copilot",
+    "source": "github.blog",
+    "date": "2026-11-06",
+    "score": 70
+  },
+  {
+    "title": "Accessibility statements now have a home on GitHub",
+    "url": "https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github",
+    "summary": "GitHub now highlights ACCESSIBILITY.md files and helps maintainers document accessibility goals, known barriers, supported environments, contributor expectations, and reporting processes. The post Accessibility statements now have a home on GitHub appeared first on The GitHub Blog .",
+    "tags": [
+      "ai_coding",
+      "developer_tools"
+    ],
+    "author": "GitHub Copilot",
+    "source": "github.blog",
+    "date": "2026-11-06",
     "score": 69
   },
   {
-    "title": "Use NVIDIA NeMo to Turn Agent Failures into Tests and Harness Fixes",
-    "url": "https://developer.nvidia.com/blog/use-nvidia-nemo-to-turn-agent-failures-into-tests-and-harness-fixes",
-    "summary": "NVIDIA Technical Blog · Use NVIDIA NeMo to Turn Agent Failures into Tests and Harness Fixes",
+    "title": "Merge builds product and business tools with OpenAI technology",
+    "url": "https://openai.com/index/merge-builds-with-openai",
+    "summary": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-11-06",
+    "score": 68
+  },
+  {
+    "title": "Flipsnack grows product signups with conversion optimization",
+    "url": "https://openai.com/ads/customers/flipsnack",
+    "summary": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-11-06",
+    "score": 68
+  },
+  {
+    "title": "Product Le Chonk brings the brains. Studio puts it to work. Build and deploy enterprise agents, workflows and apps faster, with control over your models, data and infrastructure. November 5, 2026 By Mistral",
+    "url": "https://mistral.ai/news/build-with-studio",
+    "summary": "Latest news | Mistral · Product Le Chonk brings the brains. Studio puts it to work. Build and deploy enterprise agents, workflows and apps faster, with control over your models, data and infrastructure. November 5, 2026 By Mistral",
+    "tags": [
+      "open_model",
+      "european_ai"
+    ],
+    "author": "Mistral AI",
+    "source": "mistral.ai",
+    "date": "2026-11-06",
+    "score": 68
+  },
+  {
+    "title": "Cult.fit builds operational muscle with Codex",
+    "url": "https://openai.com/index/cultfit-builds-with-codex",
+    "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-11-06",
+    "score": 67
+  },
+  {
+    "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+    "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips",
+    "summary": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips 是 Google DeepMind 当日抓取到的公开新增条目。",
+    "tags": [
+      "research",
+      "multimodal",
+      "science",
+      "official"
+    ],
+    "author": "Google DeepMind",
+    "source": "deepmind.google",
+    "date": "2026-11-06",
+    "score": 66
+  },
+  {
+    "title": "Configure, Certify, and Operate Kubernetes GPU Clusters with NVIDIA DSX OS",
+    "url": "https://developer.nvidia.com/blog/configure-certify-and-operate-kubernetes-gpu-clusters-with-nvidia-dsx-os",
+    "summary": "NVIDIA Technical Blog · Configure, Certify, and Operate Kubernetes GPU Clusters with NVIDIA DSX OS",
     "tags": [
       "gpu",
       "inference",
@@ -53,13 +154,27 @@
     ],
     "author": "NVIDIA AI",
     "source": "developer.nvidia.com",
-    "date": "2026-11-05",
-    "score": 69
+    "date": "2026-11-06",
+    "score": 66
   },
   {
-    "title": "Kimi K3.1 Pro now has more ZDR providers on AI Gateway",
-    "url": "https://vercel.com/changelog/kimi-k3-1-pro-now-has-more-zdr-providers-on-ai-gateway",
-    "summary": "Kimi K3.1 Pro and its higher-speed version, Kimi K3.1 Pro Highspeed , are now available on AI Gateway from more Zero Data Retention (ZDR) providers. Until today, Moonshot AI was the only provider serving either model. K3.1 Pro improves on earlier Kimi models in coding, 3D modeling, and financial analysis, and can carry long agent runs from a small fix to a full project. Both models have a 1M-token context window and accept image input, and Highspeed suits interactive work lik",
+    "title": "Five Ways NVIDIA Co-Design Maximizes the Value of Every Byte in the AI Factory",
+    "url": "https://developer.nvidia.com/blog/five-ways-nvidia-co-design-maximizes-the-value-of-every-byte-in-the-ai-factory",
+    "summary": "NVIDIA Technical Blog · Five Ways NVIDIA Co-Design Maximizes the Value of Every Byte in the AI Factory",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-11-06",
+    "score": 66
+  },
+  {
+    "title": "Introducing Vercel Schedules",
+    "url": "https://vercel.com/blog/introducing-vercel-schedules",
+    "summary": "Cron jobs are useful for work that needs to happen regularly. You can use them to do things such as back up your database on a schedule, or keep data in sync between two systems. You define them once in code and then can update them by editing their config and redeploying. But today, agents interact with users as work evolves, and schedules need to be updated in real time. We built Vercel Schedules to allow agents and applications to create, change, or cancel one-time and rec",
     "tags": [
       "sdk",
       "ai_infra",
@@ -67,13 +182,27 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-11-05",
-    "score": 69
+    "date": "2026-11-06",
+    "score": 66
   },
   {
-    "title": "A curriculum for post-training agents huggingface • 15 days ago • 101",
-    "url": "https://huggingface.co/blog/huggingface/train-agents",
-    "summary": "Hugging Face – Blog · A curriculum for post-training agents huggingface • 15 days ago • 101",
+    "title": "Vercel Schedules is now in public beta",
+    "url": "https://vercel.com/changelog/vercel-schedules-is-now-in-public-beta",
+    "summary": "Vercel Schedules is now in public beta on all plans. Run tasks on a recurring cadence or at a single point in time, in production, preview, or custom environments. Schedules in vercel.json can target a private Vercel Function, an HTTP path, or a Vercel Queue topic, and schedules created at runtime target a Queue topic. Any schedule can be enabled, disabled, or run on demand without redeploying. Define a static schedule: Adding a schedule/v1beta trigger makes the function priv",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-11-06",
+    "score": 65
+  },
+  {
+    "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+    "url": "https://huggingface.co/blog/phonon-tts",
+    "summary": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks. 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -81,87 +210,125 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-11-05",
-    "score": 68
+    "date": "2026-11-06",
+    "score": 64
   },
   {
-    "title": "OpenAI to acquire Pierre Computer Company, Inc.",
-    "url": "https://openai.com/index/openai-to-acquire-pierre",
-    "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+    "title": "Agents Are Going Async",
+    "url": "https://www.langchain.com/blog/agents-are-going-async",
+    "summary": "Async subagents let an agent stay responsive while background workers run long tasks. How the orchestrator, notifications and approvals work in Deep Agents.",
     "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
+      "agents",
+      "rag",
+      "framework"
     ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-11-05",
-    "score": 67
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-11-06",
+    "score": 64
   },
   {
-    "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-    "url": "https://openai.com/index/daybreak-red-aws-govcloud",
-    "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+    "title": "Token Pass credit now applies automatically across AI Gateway",
+    "url": "https://vercel.com/changelog/token-pass-credit-now-applies-automatically-across-ai-gateway",
+    "summary": "Token Pass credit now applies automatically to included model usage through AI Gateway , whether a request authenticates with an API key, OIDC token, or fx login. No dedicated Token Pass API key is required, though you can still create one from the dashboard or the CLI for keys scoped only to featured models and providers. When Token Pass credit runs out for the billing period, requests from a standard key or OIDC token fall back to your team's AI Gateway credits. Token Pass ",
     "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
+      "sdk",
+      "ai_infra",
+      "frontend"
     ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-11-05",
-    "score": 67
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-11-06",
+    "score": 63
   },
   {
-    "title": "A thousand fewer paths to root",
-    "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-    "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+    "title": "Gemini Omni 1.2 Flash now available on AI Gateway",
+    "url": "https://vercel.com/changelog/gemini-omni-1-2-flash-now-available-on-ai-gateway",
+    "summary": "Gemini Omni 1.2 Flash from Google is now available on AI Gateway. Generate videos from text prompts with one API key and no separate Google account. Gemini Omni 1.2 Flash generates 3–15 second videos with native audio and edits 3–15 second source clips with up to six reference images. Extend videos by 3–10 seconds per call, up to 30 seconds total, or refine generated clips in follow-up calls using previousInteractionId . Output supports 360p, 720p, 1080p, and 4K in 16:9 or 9:",
     "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
+      "sdk",
+      "ai_infra",
+      "frontend"
     ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-11-05",
-    "score": 67
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-11-06",
+    "score": 63
   },
   {
-    "title": "Introducing Images 2.6",
-    "url": "https://openai.com/index/introducing-images-2-6",
-    "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
+    "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+    "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+    "summary": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
+      "open_source",
+      "papers",
+      "models"
     ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-11-05",
-    "score": 67
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-11-06",
+    "score": 62
   },
   {
-    "title": "NVIDIA CUDA 13.5 Brings NVIDIA Vera Rubin GA Support",
-    "url": "https://developer.nvidia.com/blog/nvidia-cuda-13-5-brings-nvidia-vera-rubin-ga-support",
-    "summary": "NVIDIA Technical Blog · NVIDIA CUDA 13.5 Brings NVIDIA Vera Rubin GA Support",
+    "title": "StateBench: Testing how language models track state changes over long documents",
+    "url": "https://huggingface.co/blog/allenai/statebench",
+    "summary": "StateBench: Testing how language models track state changes over long documents 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
+      "open_source",
+      "papers",
+      "models"
     ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-11-05",
-    "score": 66
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-11-06",
+    "score": 62
   },
   {
-    "title": "Securing the agentic enterprise with data lineage",
-    "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage",
-    "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No human checks either handoff. When it’s&#8230;",
+    "title": "Palette: teaching a small model to build decks in your design language",
+    "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+    "summary": "Palette: teaching a small model to build decks in your design language 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-11-06",
+    "score": 62
+  },
+  {
+    "title": "CWE-bench v2: More coverage, quality, and transparency",
+    "url": "https://huggingface.co/blog/cwe-bench",
+    "summary": "CWE-bench v2: More coverage, quality, and transparency 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-11-06",
+    "score": 62
+  },
+  {
+    "title": "Transformers Model Integration Contracts",
+    "url": "https://huggingface.co/blog/transformers-mic",
+    "summary": "Transformers Model Integration Contracts 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-11-06",
+    "score": 62
+  },
+  {
+    "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+    "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput",
+    "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor against the Republican incumbent,&#8230;",
     "tags": [
       "ai",
       "research",
@@ -169,143 +336,7 @@
     ],
     "author": "MIT Technology Review AI",
     "source": "technologyreview.com",
-    "date": "2026-11-05",
-    "score": 66
-  },
-  {
-    "title": "Tencent Hy4 now available on AI Gateway",
-    "url": "https://vercel.com/changelog/tencent-hy4-now-available-on-ai-gateway",
-    "summary": "Hy4 from Tencent is now available on AI Gateway , at 50% off through December 31, 2026. Hy4 supports reasoning , tool calling , structured outputs , and image input, and has a 1M-token context window for work across a codebase or many documents. Hy4 is the first Hy model with vision. It can pick out fine detail in an image and read complex charts. It also supports computer use in both command-line and graphical interfaces. Compared with Hy4 Preview , it follows instructions m",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-11-05",
-    "score": 65
-  },
-  {
-    "title": "Workflow SDK adds idempotent starts",
-    "url": "https://vercel.com/changelog/atomic-start-hooks-in-the-workflow-sdk",
-    "summary": "The Workflow SDK 's start() function can now admit a run and claim a hook in one atomic step. Duplicate workflow starts fail safely. The atomic start replaces the previous getHookByToken() -then- start() pattern, whose gap between the lookup and the start left a documented duplicate-start race. Subscribe to messages inside the run The claimed Hook exists from the moment the run is admitted, so resumeHook works even before the run begins executing, and early payloads are buffe",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-11-05",
-    "score": 63
-  },
-  {
-    "title": "Vercel Sandbox with Drives now starts up to 2.4× faster",
-    "url": "https://vercel.com/changelog/vercel-sandbox-with-drives-now-starts-up-to-2-4x-faster",
-    "summary": "Vercel Sandboxes that mount Drives now start faster. Median creation time dropped from 1.7s to 0.7s, and p95 dropped from 2.2s to 1.6s. The speedup applies automatically to every sandbox that uses Drives, with no SDK upgrade or configuration changes needed. Pricing stays the same. Learn more in the Vercel Drives documentation . Read more",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-11-05",
-    "score": 63
-  },
-  {
-    "title": "Evaluate Vercel Flags from another project without sharing SDK keys.",
-    "url": "https://vercel.com/changelog/evaluate-vercel-flags-from-another-project-without-sharing-sdk-keys",
-    "summary": "Project Connections let applications evaluate flags defined in another Vercel project within the same team, without managing SDK keys. Previously, sharing flags between projects required copying a server SDK key into an environment variable and managing it manually. Connected projects authenticate using their deployment’s identity. For local development, vercel env pull retrieves your project’s OIDC token. Manage access from the Connections page under your project's Flags sec",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-11-05",
-    "score": 63
-  },
-  {
-    "title": "Blocking malicious npm packages before and during installation",
-    "url": "https://vercel.com/changelog/blocking-malicious-npm-packages-before-and-during-installation",
-    "summary": "Vercel now checks for blocked npm packages before and during dependency installation in builds , helping prevent malicious install scripts from running. The checks use a blocklist of specific package versions selected for blocking because of malware or security vulnerabilities, with new rules typically reaching new builds within minutes. Before installation , Vercel checks supported lockfiles, including when dependencies are restored from the build cache. During installation ",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-11-05",
-    "score": 63
-  },
-  {
-    "title": "AI voice agent pricing: What it costs for your business",
-    "url": "https://elevenlabs.io/blog/ai-voice-agent-pricing-guide",
-    "summary": "See AI voice agent pricing from $0 to custom Enterprise, what sets your price per minute, and how to calculate ROI against staffing costs.",
-    "tags": [
-      "voice_ai",
-      "audio"
-    ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-11-05",
-    "score": 62
-  },
-  {
-    "title": "ElevenAgents integrates natively with leading contact center platforms to deliver enterprise-ready agents",
-    "url": "https://elevenlabs.io/blog/elevenagents-contact-center-integrations",
-    "summary": "ElevenAgents now integrates natively with NiCE, Genesys Cloud, Amazon Connect, and Five9, and connects to any other platform over SIP.",
-    "tags": [
-      "voice_ai",
-      "audio"
-    ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-11-05",
-    "score": 62
-  },
-  {
-    "title": "Angle Health’s ElevenAgents pilot handles 90% of provider calls without a transfer",
-    "url": "https://elevenlabs.io/blog/angle-health",
-    "summary": "Angle Health’s voice agents answer provider calls 24/7 with almost no wait, freeing about 9,000 minutes a day for complex escalations.",
-    "tags": [
-      "voice_ai",
-      "audio"
-    ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-11-05",
-    "score": 62
-  },
-  {
-    "title": "Product · Nov 2, 2026 Giving every team a data scientist with Grok Bot",
-    "url": "https://x.ai/news/data-bot",
-    "summary": "SpaceXSI · Product · Nov 2, 2026 Giving every team a data scientist with Grok Bot",
-    "tags": [
-      "ai_models",
-      "reasoning"
-    ],
-    "author": "xAI",
-    "source": "x.ai",
-    "date": "2026-11-05",
-    "score": 62
-  },
-  {
-    "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-    "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
-    "summary": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-11-05",
-    "score": 62
+    "date": "2026-11-06",
+    "score": 61
   }
 ]

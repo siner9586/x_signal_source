@@ -1,0 +1,4221 @@
+{
+  "metadata": {
+    "issue_date": "2026-11-06",
+    "generated_at": "2026-11-06T01:23:28.944Z",
+    "timezone": "Asia/Shanghai",
+    "source_mode": "live_fetch_only",
+    "strict_new_only": true,
+    "sources_scanned": 118,
+    "fetch_jobs": 224,
+    "candidates_count": 1132,
+    "selected_count": 24,
+    "duplicates_blocked": 1091,
+    "stale_candidates_blocked": 0,
+    "fetch_failures": 80,
+    "no_new_content": false,
+    "initial_source_index": false
+  },
+  "summary": {
+    "one_liner": "本期由每日自动流水线生成：仅展示当日 live fetch 抓取、且未在历史期展示过的新内容。",
+    "trends": [
+      "AI Agent",
+      "AI Coding",
+      "AI Infra",
+      "Research",
+      "Startup / Investment"
+    ],
+    "watch_next": [
+      "公开 RSS / Atom / HTML 新条目",
+      "GitHub releases 与技术博客",
+      "人工维护 X Article / Thread seed list",
+      "播客长访谈中的一手判断"
+    ]
+  },
+  "must_read": [],
+  "worth_reading": [
+    {
+      "id": "cand_bd817910d55780c2",
+      "canonical_url": "https://openai.com/index/introducing-gpt-6-cyber",
+      "source_url": "https://openai.com/news/rss.xml",
+      "source_fetch_url": "https://openai.com/news/rss.xml",
+      "source_platform": "web",
+      "source_domain": "openai.com",
+      "source_name": "OpenAI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+      "subtitle": "官方发布、研究、模型与开发者文档优先来源。",
+      "author": "OpenAI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "OpenAI",
+      "language": "unknown",
+      "published_at": "Thu, 05 Nov 2026 09:00:00 GMT",
+      "captured_at": "2026-11-06T01:23:16.898Z",
+      "captured_issue": "2026-11-06",
+      "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
+      "excerpt": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
+      "raw_text_available": false,
+      "topics": [
+        "Research"
+      ],
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://openai.com/index/introducing-gpt-6-cyber",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news",
+        "https://x.com/OpenAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 50,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 98,
+      "total_score": 70,
+      "rank": 29,
+      "cluster_id": "openai_com_8efebb60",
+      "dedupe_key": "78d9c2a243fd42c8",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents 来自 OpenAI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-06",
+      "last_seen_issue": "2026-11-06",
+      "used_in_issue": "2026-11-06"
+    },
+    {
+      "id": "cand_7b59423c348f1892",
+      "canonical_url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+      "source_url": "https://openai.com/news/rss.xml",
+      "source_fetch_url": "https://openai.com/news/rss.xml",
+      "source_platform": "web",
+      "source_domain": "openai.com",
+      "source_name": "OpenAI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Setting a new standard for responsible AI infrastructure",
+      "subtitle": "官方发布、研究、模型与开发者文档优先来源。",
+      "author": "OpenAI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "OpenAI",
+      "language": "unknown",
+      "published_at": "Thu, 05 Nov 2026 02:00:00 GMT",
+      "captured_at": "2026-11-06T01:23:16.898Z",
+      "captured_issue": "2026-11-06",
+      "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+      "excerpt": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+      "raw_text_available": false,
+      "topics": [
+        "AI Infra",
+        "Research"
+      ],
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news",
+        "https://x.com/OpenAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 50,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 98,
+      "total_score": 70,
+      "rank": 30,
+      "cluster_id": "openai_com_65e3236c",
+      "dedupe_key": "aaf74c34bd681229",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Setting a new standard for responsible AI infrastructure 来自 OpenAI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-06",
+      "last_seen_issue": "2026-11-06",
+      "used_in_issue": "2026-11-06"
+    },
+    {
+      "id": "cand_e69ed4b4f8bab251",
+      "canonical_url": "https://openai.com/index/franklin-templeton",
+      "source_url": "https://openai.com/news/rss.xml",
+      "source_fetch_url": "https://openai.com/news/rss.xml",
+      "source_platform": "web",
+      "source_domain": "openai.com",
+      "source_name": "OpenAI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Franklin Templeton uses OpenAI to support investment research",
+      "subtitle": "官方发布、研究、模型与开发者文档优先来源。",
+      "author": "OpenAI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "OpenAI",
+      "language": "unknown",
+      "published_at": "Thu, 05 Nov 2026 00:00:00 GMT",
+      "captured_at": "2026-11-06T01:23:16.898Z",
+      "captured_issue": "2026-11-06",
+      "summary": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
+      "excerpt": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
+      "raw_text_available": false,
+      "topics": [
+        "Investment",
+        "Research"
+      ],
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://openai.com/index/franklin-templeton",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news",
+        "https://x.com/OpenAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 50,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 98,
+      "total_score": 70,
+      "rank": 31,
+      "cluster_id": "openai_com_dc073a76",
+      "dedupe_key": "f4927bd78f66dfef",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Franklin Templeton uses OpenAI to support investment research 来自 OpenAI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-06",
+      "last_seen_issue": "2026-11-06",
+      "used_in_issue": "2026-11-06"
+    },
+    {
+      "id": "cand_e6371526788b196c",
+      "canonical_url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture",
+      "source_url": "https://github.blog/feed",
+      "source_fetch_url": "https://github.blog/feed",
+      "source_platform": "web",
+      "source_domain": "github.blog",
+      "source_name": "GitHub Copilot",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Inside GitHub&#8217;s new Git storage architecture",
+      "subtitle": "",
+      "author": "GitHub Copilot",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "GitHub Copilot",
+      "language": "unknown",
+      "published_at": "Thu, 05 Nov 2026 20:23:21 +0000",
+      "captured_at": "2026-11-06T01:23:22.031Z",
+      "captured_issue": "2026-11-06",
+      "summary": "GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works. The post Inside GitHub&#8217;s new Git storage architecture appeared first on The GitHub Blog .",
+      "excerpt": "GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works. The post Inside GitHub&#8217;s new Git storage architecture appeared first on The GitHub Blog .",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "ai_coding",
+        "developer_tools"
+      ],
+      "entities": [
+        "GitHub Copilot"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [
+        "https://github.com/features/copilot"
+      ],
+      "evidence_links": [
+        "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture",
+        "https://github.blog/feed",
+        "https://github.com/features/copilot",
+        "https://github.blog",
+        "https://x.com/github"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 66,
+      "originality_score": 38,
+      "trend_score": 69,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 70,
+      "rank": 57,
+      "cluster_id": "github_blog_358d3486",
+      "dedupe_key": "964bf4c0ee4e2780",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Inside GitHub&#8217;s new Git storage architecture 来自 GitHub Copilot 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-06",
+      "last_seen_issue": "2026-11-06",
+      "used_in_issue": "2026-11-06"
+    }
+  ],
+  "signal_watch": [
+    {
+      "id": "cand_d0b8beacb9708af4",
+      "canonical_url": "https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github",
+      "source_url": "https://github.blog/feed",
+      "source_fetch_url": "https://github.blog/feed",
+      "source_platform": "web",
+      "source_domain": "github.blog",
+      "source_name": "GitHub Copilot",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Accessibility statements now have a home on GitHub",
+      "subtitle": "",
+      "author": "GitHub Copilot",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "GitHub Copilot",
+      "language": "unknown",
+      "published_at": "Thu, 05 Nov 2026 16:00:00 +0000",
+      "captured_at": "2026-11-06T01:23:22.031Z",
+      "captured_issue": "2026-11-06",
+      "summary": "GitHub now highlights ACCESSIBILITY.md files and helps maintainers document accessibility goals, known barriers, supported environments, contributor expectations, and reporting processes. The post Accessibility statements now have a home on GitHub appeared first on The GitHub Blog .",
+      "excerpt": "GitHub now highlights ACCESSIBILITY.md files and helps maintainers document accessibility goals, known barriers, supported environments, contributor expectations, and reporting processes. The post Accessibility statements now have a home on GitHub appeared first on The GitHub Blog .",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "ai_coding",
+        "developer_tools"
+      ],
+      "entities": [
+        "GitHub Copilot"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [
+        "https://github.com/features/copilot"
+      ],
+      "evidence_links": [
+        "https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github",
+        "https://github.blog/feed",
+        "https://github.com/features/copilot",
+        "https://github.blog",
+        "https://x.com/github"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 66,
+      "originality_score": 50,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 74,
+      "total_score": 69,
+      "rank": 93,
+      "cluster_id": "github_blog_4fa00812",
+      "dedupe_key": "8a290c9728b0db02",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Accessibility statements now have a home on GitHub 来自 GitHub Copilot 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-06",
+      "last_seen_issue": "2026-11-06",
+      "used_in_issue": "2026-11-06"
+    },
+    {
+      "id": "cand_98abf921a06ff740",
+      "canonical_url": "https://openai.com/index/merge-builds-with-openai",
+      "source_url": "https://openai.com/news/rss.xml",
+      "source_fetch_url": "https://openai.com/news/rss.xml",
+      "source_platform": "web",
+      "source_domain": "openai.com",
+      "source_name": "OpenAI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Merge builds product and business tools with OpenAI technology",
+      "subtitle": "官方发布、研究、模型与开发者文档优先来源。",
+      "author": "OpenAI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "OpenAI",
+      "language": "unknown",
+      "published_at": "Thu, 05 Nov 2026 08:00:00 GMT",
+      "captured_at": "2026-11-06T01:23:16.898Z",
+      "captured_issue": "2026-11-06",
+      "summary": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
+      "excerpt": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
+      "raw_text_available": false,
+      "topics": [
+        "Product",
+        "Research"
+      ],
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://openai.com/index/merge-builds-with-openai",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news",
+        "https://x.com/OpenAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 50,
+      "trend_score": 45,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 98,
+      "total_score": 68,
+      "rank": 99,
+      "cluster_id": "openai_com_7e4be579",
+      "dedupe_key": "173f1068a54b0bee",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Merge builds product and business tools with OpenAI technology 来自 OpenAI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-06",
+      "last_seen_issue": "2026-11-06",
+      "used_in_issue": "2026-11-06"
+    },
+    {
+      "id": "cand_59c8862a0845319e",
+      "canonical_url": "https://openai.com/ads/customers/flipsnack",
+      "source_url": "https://openai.com/news/rss.xml",
+      "source_fetch_url": "https://openai.com/news/rss.xml",
+      "source_platform": "web",
+      "source_domain": "openai.com",
+      "source_name": "OpenAI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Flipsnack grows product signups with conversion optimization",
+      "subtitle": "官方发布、研究、模型与开发者文档优先来源。",
+      "author": "OpenAI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "OpenAI",
+      "language": "unknown",
+      "published_at": "Thu, 05 Nov 2026 00:45:15 GMT",
+      "captured_at": "2026-11-06T01:23:16.898Z",
+      "captured_issue": "2026-11-06",
+      "summary": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
+      "excerpt": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
+      "raw_text_available": false,
+      "topics": [
+        "Product",
+        "Research"
+      ],
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://openai.com/ads/customers/flipsnack",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news",
+        "https://x.com/OpenAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 50,
+      "trend_score": 45,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 98,
+      "total_score": 68,
+      "rank": 100,
+      "cluster_id": "openai_com_3c538a33",
+      "dedupe_key": "279310ec94018e9e",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Flipsnack grows product signups with conversion optimization 来自 OpenAI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-06",
+      "last_seen_issue": "2026-11-06",
+      "used_in_issue": "2026-11-06"
+    },
+    {
+      "id": "cand_de7c578331933775",
+      "canonical_url": "https://mistral.ai/news/build-with-studio",
+      "source_url": "https://mistral.ai/news",
+      "source_fetch_url": "https://mistral.ai/news",
+      "source_platform": "web",
+      "source_domain": "mistral.ai",
+      "source_name": "Mistral AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Product Le Chonk brings the brains. Studio puts it to work. Build and deploy enterprise agents, workflows and apps faster, with control over your models, data and infrastructure. November 5, 2026 By Mistral",
+      "subtitle": "",
+      "author": "Mistral AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Mistral AI",
+      "language": "unknown",
+      "published_at": "",
+      "captured_at": "2026-11-06T01:23:20.394Z",
+      "captured_issue": "2026-11-06",
+      "summary": "Latest news | Mistral · Product Le Chonk brings the brains. Studio puts it to work. Build and deploy enterprise agents, workflows and apps faster, with control over your models, data and infrastructure. November 5, 2026 By Mistral",
+      "excerpt": "Latest news | Mistral · Product Le Chonk brings the brains. Studio puts it to work. Build and deploy enterprise agents, workflows and apps faster, with control over your models, data and infrastructure. November 5, 2026 By Mistral",
+      "raw_text_available": false,
+      "topics": [
+        "Product"
+      ],
+      "tags": [
+        "open_model",
+        "european_ai"
+      ],
+      "entities": [
+        "Mistral AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://mistral.ai/news/build-with-studio",
+        "https://mistral.ai/news",
+        "https://mistral.ai",
+        "https://x.com/MistralAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 69,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 98,
+      "total_score": 68,
+      "rank": 147,
+      "cluster_id": "mistral_ai_75226479",
+      "dedupe_key": "1ad6919c93cc88d4",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Product Le Chonk brings the brains. Studio puts it to work. Build and deploy enterprise agents, workflows and apps faster, with control over your models, data and infrastructure. November 5, 2026 By Mistral 来自 Mistral AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-06",
+      "last_seen_issue": "2026-11-06",
+      "used_in_issue": "2026-11-06"
+    },
+    {
+      "id": "cand_41b57df35bdcfaf8",
+      "canonical_url": "https://openai.com/index/cultfit-builds-with-codex",
+      "source_url": "https://openai.com/news/rss.xml",
+      "source_fetch_url": "https://openai.com/news/rss.xml",
+      "source_platform": "web",
+      "source_domain": "openai.com",
+      "source_name": "OpenAI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Cult.fit builds operational muscle with Codex",
+      "subtitle": "官方发布、研究、模型与开发者文档优先来源。",
+      "author": "OpenAI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "OpenAI",
+      "language": "unknown",
+      "published_at": "Thu, 05 Nov 2026 20:00:00 GMT",
+      "captured_at": "2026-11-06T01:23:16.898Z",
+      "captured_issue": "2026-11-06",
+      "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+      "excerpt": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+      "raw_text_available": false,
+      "topics": [
+        "Research"
+      ],
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://openai.com/index/cultfit-builds-with-codex",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news",
+        "https://x.com/OpenAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 50,
+      "trend_score": 45,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 67,
+      "rank": 170,
+      "cluster_id": "openai_com_eba11b40",
+      "dedupe_key": "fd55ea84524cd469",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Cult.fit builds operational muscle with Codex 来自 OpenAI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-06",
+      "last_seen_issue": "2026-11-06",
+      "used_in_issue": "2026-11-06"
+    },
+    {
+      "id": "cand_930f37654eeccf47",
+      "canonical_url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips",
+      "source_url": "https://deepmind.google/discover/blog/feed",
+      "source_fetch_url": "https://deepmind.google/discover/blog/feed",
+      "source_platform": "web",
+      "source_domain": "deepmind.google",
+      "source_name": "Google DeepMind",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "subtitle": "",
+      "author": "Google DeepMind",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Google DeepMind",
+      "language": "unknown",
+      "published_at": "Thu, 05 Nov 2026 17:05:16 +0000",
+      "captured_at": "2026-11-06T01:23:17.964Z",
+      "captured_issue": "2026-11-06",
+      "summary": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips 是 Google DeepMind 当日抓取到的公开新增条目。",
+      "excerpt": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips 是 Google DeepMind 当日抓取到的公开新增条目。",
+      "raw_text_available": false,
+      "topics": [
+        "Multimodal",
+        "Research"
+      ],
+      "tags": [
+        "research",
+        "multimodal",
+        "science",
+        "official"
+      ],
+      "entities": [
+        "Google DeepMind"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips",
+        "https://deepmind.google/discover/blog/feed",
+        "https://deepmind.google",
+        "https://deepmind.google/discover/blog",
+        "https://x.com/GoogleDeepMind"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 50,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 62,
+      "total_score": 66,
+      "rank": 324,
+      "cluster_id": "deepmind_google_4d3d72a5",
+      "dedupe_key": "399a00061880a347",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips 来自 Google DeepMind 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-06",
+      "last_seen_issue": "2026-11-06",
+      "used_in_issue": "2026-11-06"
+    },
+    {
+      "id": "cand_584d4273f5936685",
+      "canonical_url": "https://developer.nvidia.com/blog/configure-certify-and-operate-kubernetes-gpu-clusters-with-nvidia-dsx-os",
+      "source_url": "https://developer.nvidia.com/blog",
+      "source_fetch_url": "https://developer.nvidia.com/blog",
+      "source_platform": "web",
+      "source_domain": "developer.nvidia.com",
+      "source_name": "NVIDIA AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Configure, Certify, and Operate Kubernetes GPU Clusters with NVIDIA DSX OS",
+      "subtitle": "",
+      "author": "NVIDIA AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "NVIDIA AI",
+      "language": "unknown",
+      "published_at": "",
+      "captured_at": "2026-11-06T01:23:20.296Z",
+      "captured_issue": "2026-11-06",
+      "summary": "NVIDIA Technical Blog · Configure, Certify, and Operate Kubernetes GPU Clusters with NVIDIA DSX OS",
+      "excerpt": "NVIDIA Technical Blog · Configure, Certify, and Operate Kubernetes GPU Clusters with NVIDIA DSX OS",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "gpu",
+        "inference",
+        "ai_infra"
+      ],
+      "entities": [
+        "NVIDIA AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://developer.nvidia.com/blog/configure-certify-and-operate-kubernetes-gpu-clusters-with-nvidia-dsx-os",
+        "https://developer.nvidia.com/blog",
+        "https://blogs.nvidia.com/blog/category/deep-learning",
+        "https://x.com/NVIDIAAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 74,
+      "total_score": 66,
+      "rank": 384,
+      "cluster_id": "developer_nvidia_com_547bea94",
+      "dedupe_key": "f34c209bf161a01e",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Configure, Certify, and Operate Kubernetes GPU Clusters with NVIDIA DSX OS 来自 NVIDIA AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-06",
+      "last_seen_issue": "2026-11-06",
+      "used_in_issue": "2026-11-06"
+    },
+    {
+      "id": "cand_bf6ebf6cf2479cb0",
+      "canonical_url": "https://developer.nvidia.com/blog/five-ways-nvidia-co-design-maximizes-the-value-of-every-byte-in-the-ai-factory",
+      "source_url": "https://developer.nvidia.com/blog",
+      "source_fetch_url": "https://developer.nvidia.com/blog",
+      "source_platform": "web",
+      "source_domain": "developer.nvidia.com",
+      "source_name": "NVIDIA AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Five Ways NVIDIA Co-Design Maximizes the Value of Every Byte in the AI Factory",
+      "subtitle": "",
+      "author": "NVIDIA AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "NVIDIA AI",
+      "language": "unknown",
+      "published_at": "",
+      "captured_at": "2026-11-06T01:23:20.296Z",
+      "captured_issue": "2026-11-06",
+      "summary": "NVIDIA Technical Blog · Five Ways NVIDIA Co-Design Maximizes the Value of Every Byte in the AI Factory",
+      "excerpt": "NVIDIA Technical Blog · Five Ways NVIDIA Co-Design Maximizes the Value of Every Byte in the AI Factory",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "gpu",
+        "inference",
+        "ai_infra"
+      ],
+      "entities": [
+        "NVIDIA AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://developer.nvidia.com/blog/five-ways-nvidia-co-design-maximizes-the-value-of-every-byte-in-the-ai-factory",
+        "https://developer.nvidia.com/blog",
+        "https://blogs.nvidia.com/blog/category/deep-learning",
+        "https://x.com/NVIDIAAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 74,
+      "total_score": 66,
+      "rank": 385,
+      "cluster_id": "developer_nvidia_com_d0200d8c",
+      "dedupe_key": "4cf97346c1358c7a",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Five Ways NVIDIA Co-Design Maximizes the Value of Every Byte in the AI Factory 来自 NVIDIA AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-06",
+      "last_seen_issue": "2026-11-06",
+      "used_in_issue": "2026-11-06"
+    },
+    {
+      "id": "cand_a4ca6c5a7df7699c",
+      "canonical_url": "https://vercel.com/blog/introducing-vercel-schedules",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Introducing Vercel Schedules",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-11-04T13:00:00.000Z",
+      "captured_at": "2026-11-06T01:23:22.278Z",
+      "captured_issue": "2026-11-06",
+      "summary": "Cron jobs are useful for work that needs to happen regularly. You can use them to do things such as back up your database on a schedule, or keep data in sync between two systems. You define them once in code and then can update them by editing their config and redeploying. But today, agents interact with users as work evolves, and schedules need to be updated in real time. We built Vercel Schedules to allow agents and applications to create, change, or cancel one-time and rec",
+      "excerpt": "Cron jobs are useful for work that needs to happen regularly. You can use them to do things such as back up your database on a schedule, or keep data in sync between two systems. You define them once in code and then can update them by editing their config and redeploying. But today, agents interact with users as work evolves, and schedules need to be updated in real time. We built Vercel Schedules to allow agents and applications to create, change, or cancel one-time and rec",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/blog/introducing-vercel-schedules",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 69,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 66,
+      "rank": 391,
+      "cluster_id": "vercel_com_983e1aca",
+      "dedupe_key": "1d32dbe35608ea72",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Introducing Vercel Schedules 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-06",
+      "last_seen_issue": "2026-11-06",
+      "used_in_issue": "2026-11-06"
+    },
+    {
+      "id": "cand_757ae2a00a3c560f",
+      "canonical_url": "https://vercel.com/changelog/vercel-schedules-is-now-in-public-beta",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Vercel Schedules is now in public beta",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-11-05T17:00:00.000Z",
+      "captured_at": "2026-11-06T01:23:22.277Z",
+      "captured_issue": "2026-11-06",
+      "summary": "Vercel Schedules is now in public beta on all plans. Run tasks on a recurring cadence or at a single point in time, in production, preview, or custom environments. Schedules in vercel.json can target a private Vercel Function, an HTTP path, or a Vercel Queue topic, and schedules created at runtime target a Queue topic. Any schedule can be enabled, disabled, or run on demand without redeploying. Define a static schedule: Adding a schedule/v1beta trigger makes the function priv",
+      "excerpt": "Vercel Schedules is now in public beta on all plans. Run tasks on a recurring cadence or at a single point in time, in production, preview, or custom environments. Schedules in vercel.json can target a private Vercel Function, an HTTP path, or a Vercel Queue topic, and schedules created at runtime target a Queue topic. Any schedule can be enabled, disabled, or run on demand without redeploying. Define a static schedule: Adding a schedule/v1beta trigger makes the function priv",
+      "raw_text_available": false,
+      "topics": [
+        "Product"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/changelog/vercel-schedules-is-now-in-public-beta",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 65,
+      "rank": 451,
+      "cluster_id": "vercel_com_5abfffea",
+      "dedupe_key": "8a310ffaa56cb7ab",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Vercel Schedules is now in public beta 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-06",
+      "last_seen_issue": "2026-11-06",
+      "used_in_issue": "2026-11-06"
+    },
+    {
+      "id": "cand_085284ed8e2ddf7f",
+      "canonical_url": "https://huggingface.co/blog/phonon-tts",
+      "source_url": "https://huggingface.co/blog/feed.xml",
+      "source_fetch_url": "https://huggingface.co/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "huggingface.co",
+      "source_name": "Hugging Face",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+      "subtitle": "",
+      "author": "Hugging Face",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Hugging Face",
+      "language": "unknown",
+      "published_at": "Thu, 05 Nov 2026 00:00:00 GMT",
+      "captured_at": "2026-11-06T01:23:22.763Z",
+      "captured_issue": "2026-11-06",
+      "summary": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks. 是 Hugging Face 当日抓取到的公开新增条目。",
+      "excerpt": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks. 是 Hugging Face 当日抓取到的公开新增条目。",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "open_source",
+        "papers",
+        "models"
+      ],
+      "entities": [
+        "Hugging Face"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://huggingface.co/blog/phonon-tts",
+        "https://huggingface.co/blog/feed.xml",
+        "https://huggingface.co",
+        "https://huggingface.co/blog",
+        "https://x.com/huggingface"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 66,
+      "originality_score": 38,
+      "trend_score": 45,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 50,
+      "total_score": 64,
+      "rank": 554,
+      "cluster_id": "huggingface_co_a32d59db",
+      "dedupe_key": "76b9ac9f451d325a",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks. 来自 Hugging Face 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-06",
+      "last_seen_issue": "2026-11-06",
+      "used_in_issue": "2026-11-06"
+    },
+    {
+      "id": "cand_7f6ba401029f71de",
+      "canonical_url": "https://www.langchain.com/blog/agents-are-going-async",
+      "source_url": "https://blog.langchain.com/rss.xml",
+      "source_fetch_url": "https://blog.langchain.com/rss.xml",
+      "source_platform": "web",
+      "source_domain": "langchain.com",
+      "source_name": "LangChain",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "external_article",
+      "title": "Agents Are Going Async",
+      "subtitle": "",
+      "author": "LangChain",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "LangChain",
+      "language": "unknown",
+      "published_at": "Thu, 05 Nov 2026 20:03:27 GMT",
+      "captured_at": "2026-11-06T01:23:22.912Z",
+      "captured_issue": "2026-11-06",
+      "summary": "Async subagents let an agent stay responsive while background workers run long tasks. How the orchestrator, notifications and approvals work in Deep Agents.",
+      "excerpt": "Async subagents let an agent stay responsive while background workers run long tasks. How the orchestrator, notifications and approvals work in Deep Agents.",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "agents",
+        "rag",
+        "framework"
+      ],
+      "entities": [
+        "LangChain"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://www.langchain.com/blog/agents-are-going-async",
+        "https://blog.langchain.com/rss.xml",
+        "https://www.langchain.com",
+        "https://blog.langchain.com",
+        "https://x.com/LangChainAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 54,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 62,
+      "total_score": 64,
+      "rank": 565,
+      "cluster_id": "langchain_com_75b7a75f",
+      "dedupe_key": "ee046f60b276e50e",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Agents Are Going Async 来自 LangChain 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-06",
+      "last_seen_issue": "2026-11-06",
+      "used_in_issue": "2026-11-06"
+    },
+    {
+      "id": "cand_5c9ee443d2bc2c00",
+      "canonical_url": "https://vercel.com/changelog/token-pass-credit-now-applies-automatically-across-ai-gateway",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Token Pass credit now applies automatically across AI Gateway",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-11-06T01:00:00.000Z",
+      "captured_at": "2026-11-06T01:23:22.277Z",
+      "captured_issue": "2026-11-06",
+      "summary": "Token Pass credit now applies automatically to included model usage through AI Gateway , whether a request authenticates with an API key, OIDC token, or fx login. No dedicated Token Pass API key is required, though you can still create one from the dashboard or the CLI for keys scoped only to featured models and providers. When Token Pass credit runs out for the billing period, requests from a standard key or OIDC token fall back to your team's AI Gateway credits. Token Pass ",
+      "excerpt": "Token Pass credit now applies automatically to included model usage through AI Gateway , whether a request authenticates with an API key, OIDC token, or fx login. No dedicated Token Pass API key is required, though you can still create one from the dashboard or the CLI for keys scoped only to featured models and providers. When Token Pass credit runs out for the billing period, requests from a standard key or OIDC token fall back to your team's AI Gateway credits. Token Pass ",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/changelog/token-pass-credit-now-applies-automatically-across-ai-gateway",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 74,
+      "total_score": 63,
+      "rank": 617,
+      "cluster_id": "vercel_com_0c2f61a5",
+      "dedupe_key": "be1952b1f85ed9d9",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Token Pass credit now applies automatically across AI Gateway 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-06",
+      "last_seen_issue": "2026-11-06",
+      "used_in_issue": "2026-11-06"
+    },
+    {
+      "id": "cand_c657767829ef97e7",
+      "canonical_url": "https://vercel.com/changelog/gemini-omni-1-2-flash-now-available-on-ai-gateway",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Gemini Omni 1.2 Flash now available on AI Gateway",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-11-05T00:00:00.000Z",
+      "captured_at": "2026-11-06T01:23:22.277Z",
+      "captured_issue": "2026-11-06",
+      "summary": "Gemini Omni 1.2 Flash from Google is now available on AI Gateway. Generate videos from text prompts with one API key and no separate Google account. Gemini Omni 1.2 Flash generates 3–15 second videos with native audio and edits 3–15 second source clips with up to six reference images. Extend videos by 3–10 seconds per call, up to 30 seconds total, or refine generated clips in follow-up calls using previousInteractionId . Output supports 360p, 720p, 1080p, and 4K in 16:9 or 9:",
+      "excerpt": "Gemini Omni 1.2 Flash from Google is now available on AI Gateway. Generate videos from text prompts with one API key and no separate Google account. Gemini Omni 1.2 Flash generates 3–15 second videos with native audio and edits 3–15 second source clips with up to six reference images. Extend videos by 3–10 seconds per call, up to 30 seconds total, or refine generated clips in follow-up calls using previousInteractionId . Output supports 360p, 720p, 1080p, and 4K in 16:9 or 9:",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/changelog/gemini-omni-1-2-flash-now-available-on-ai-gateway",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 74,
+      "total_score": 63,
+      "rank": 618,
+      "cluster_id": "vercel_com_3b97fc50",
+      "dedupe_key": "eaca5a970ddfe36c",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Gemini Omni 1.2 Flash now available on AI Gateway 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-06",
+      "last_seen_issue": "2026-11-06",
+      "used_in_issue": "2026-11-06"
+    },
+    {
+      "id": "cand_9357bc5d9c238735",
+      "canonical_url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+      "source_url": "https://huggingface.co/blog/feed.xml",
+      "source_fetch_url": "https://huggingface.co/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "huggingface.co",
+      "source_name": "Hugging Face",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+      "subtitle": "",
+      "author": "Hugging Face",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Hugging Face",
+      "language": "unknown",
+      "published_at": "Thu, 05 Nov 2026 19:35:16 GMT",
+      "captured_at": "2026-11-06T01:23:22.763Z",
+      "captured_issue": "2026-11-06",
+      "summary": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation 是 Hugging Face 当日抓取到的公开新增条目。",
+      "excerpt": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation 是 Hugging Face 当日抓取到的公开新增条目。",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "open_source",
+        "papers",
+        "models"
+      ],
+      "entities": [
+        "Hugging Face"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+        "https://huggingface.co/blog/feed.xml",
+        "https://huggingface.co",
+        "https://huggingface.co/blog",
+        "https://x.com/huggingface"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 38,
+      "trend_score": 45,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 50,
+      "total_score": 62,
+      "rank": 750,
+      "cluster_id": "huggingface_co_1c862dae",
+      "dedupe_key": "15bb88ec8ec90999",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：New NVIDIA Cosmos 3 Open Models for Interactive World Simulation 来自 Hugging Face 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-06",
+      "last_seen_issue": "2026-11-06",
+      "used_in_issue": "2026-11-06"
+    },
+    {
+      "id": "cand_003387e1d3cb86aa",
+      "canonical_url": "https://huggingface.co/blog/allenai/statebench",
+      "source_url": "https://huggingface.co/blog/feed.xml",
+      "source_fetch_url": "https://huggingface.co/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "huggingface.co",
+      "source_name": "Hugging Face",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "StateBench: Testing how language models track state changes over long documents",
+      "subtitle": "",
+      "author": "Hugging Face",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Hugging Face",
+      "language": "unknown",
+      "published_at": "Tue, 03 Nov 2026 17:15:21 GMT",
+      "captured_at": "2026-11-06T01:23:22.763Z",
+      "captured_issue": "2026-11-06",
+      "summary": "StateBench: Testing how language models track state changes over long documents 是 Hugging Face 当日抓取到的公开新增条目。",
+      "excerpt": "StateBench: Testing how language models track state changes over long documents 是 Hugging Face 当日抓取到的公开新增条目。",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "open_source",
+        "papers",
+        "models"
+      ],
+      "entities": [
+        "Hugging Face"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://huggingface.co/blog/allenai/statebench",
+        "https://huggingface.co/blog/feed.xml",
+        "https://huggingface.co",
+        "https://huggingface.co/blog",
+        "https://x.com/huggingface"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 38,
+      "trend_score": 45,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 50,
+      "total_score": 62,
+      "rank": 752,
+      "cluster_id": "huggingface_co_3de80007",
+      "dedupe_key": "0f228bb2b7e11440",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：StateBench: Testing how language models track state changes over long documents 来自 Hugging Face 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-06",
+      "last_seen_issue": "2026-11-06",
+      "used_in_issue": "2026-11-06"
+    },
+    {
+      "id": "cand_3c1825a63dc23c06",
+      "canonical_url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+      "source_url": "https://huggingface.co/blog/feed.xml",
+      "source_fetch_url": "https://huggingface.co/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "huggingface.co",
+      "source_name": "Hugging Face",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Palette: teaching a small model to build decks in your design language",
+      "subtitle": "",
+      "author": "Hugging Face",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Hugging Face",
+      "language": "unknown",
+      "published_at": "Tue, 03 Nov 2026 16:35:36 GMT",
+      "captured_at": "2026-11-06T01:23:22.763Z",
+      "captured_issue": "2026-11-06",
+      "summary": "Palette: teaching a small model to build decks in your design language 是 Hugging Face 当日抓取到的公开新增条目。",
+      "excerpt": "Palette: teaching a small model to build decks in your design language 是 Hugging Face 当日抓取到的公开新增条目。",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "open_source",
+        "papers",
+        "models"
+      ],
+      "entities": [
+        "Hugging Face"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://huggingface.co/blog/ibm-research/palette-deck-building",
+        "https://huggingface.co/blog/feed.xml",
+        "https://huggingface.co",
+        "https://huggingface.co/blog",
+        "https://x.com/huggingface"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 38,
+      "trend_score": 45,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 50,
+      "total_score": 62,
+      "rank": 753,
+      "cluster_id": "huggingface_co_70336cbd",
+      "dedupe_key": "fb5441599196955f",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Palette: teaching a small model to build decks in your design language 来自 Hugging Face 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-06",
+      "last_seen_issue": "2026-11-06",
+      "used_in_issue": "2026-11-06"
+    },
+    {
+      "id": "cand_d5b21cebb85391de",
+      "canonical_url": "https://huggingface.co/blog/cwe-bench",
+      "source_url": "https://huggingface.co/blog/feed.xml",
+      "source_fetch_url": "https://huggingface.co/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "huggingface.co",
+      "source_name": "Hugging Face",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "CWE-bench v2: More coverage, quality, and transparency",
+      "subtitle": "",
+      "author": "Hugging Face",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Hugging Face",
+      "language": "unknown",
+      "published_at": "Tue, 03 Nov 2026 00:00:00 GMT",
+      "captured_at": "2026-11-06T01:23:22.763Z",
+      "captured_issue": "2026-11-06",
+      "summary": "CWE-bench v2: More coverage, quality, and transparency 是 Hugging Face 当日抓取到的公开新增条目。",
+      "excerpt": "CWE-bench v2: More coverage, quality, and transparency 是 Hugging Face 当日抓取到的公开新增条目。",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "open_source",
+        "papers",
+        "models"
+      ],
+      "entities": [
+        "Hugging Face"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://huggingface.co/blog/cwe-bench",
+        "https://huggingface.co/blog/feed.xml",
+        "https://huggingface.co",
+        "https://huggingface.co/blog",
+        "https://x.com/huggingface"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 38,
+      "trend_score": 45,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 50,
+      "total_score": 62,
+      "rank": 754,
+      "cluster_id": "huggingface_co_32f409a0",
+      "dedupe_key": "b4a79652bc91cce3",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：CWE-bench v2: More coverage, quality, and transparency 来自 Hugging Face 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-06",
+      "last_seen_issue": "2026-11-06",
+      "used_in_issue": "2026-11-06"
+    },
+    {
+      "id": "cand_6b53354c87531de9",
+      "canonical_url": "https://huggingface.co/blog/transformers-mic",
+      "source_url": "https://huggingface.co/blog/feed.xml",
+      "source_fetch_url": "https://huggingface.co/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "huggingface.co",
+      "source_name": "Hugging Face",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Transformers Model Integration Contracts",
+      "subtitle": "",
+      "author": "Hugging Face",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Hugging Face",
+      "language": "unknown",
+      "published_at": "Tue, 03 Nov 2026 00:00:00 GMT",
+      "captured_at": "2026-11-06T01:23:22.763Z",
+      "captured_issue": "2026-11-06",
+      "summary": "Transformers Model Integration Contracts 是 Hugging Face 当日抓取到的公开新增条目。",
+      "excerpt": "Transformers Model Integration Contracts 是 Hugging Face 当日抓取到的公开新增条目。",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "open_source",
+        "papers",
+        "models"
+      ],
+      "entities": [
+        "Hugging Face"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://huggingface.co/blog/transformers-mic",
+        "https://huggingface.co/blog/feed.xml",
+        "https://huggingface.co",
+        "https://huggingface.co/blog",
+        "https://x.com/huggingface"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 38,
+      "trend_score": 45,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 50,
+      "total_score": 62,
+      "rank": 755,
+      "cluster_id": "huggingface_co_a09becde",
+      "dedupe_key": "099869fe060f5911",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Transformers Model Integration Contracts 来自 Hugging Face 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-06",
+      "last_seen_issue": "2026-11-06",
+      "used_in_issue": "2026-11-06"
+    },
+    {
+      "id": "cand_8ede9b2e39e887e1",
+      "canonical_url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput",
+      "source_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "source_fetch_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "source_platform": "web",
+      "source_domain": "technologyreview.com",
+      "source_name": "MIT Technology Review AI",
+      "source_file": "media.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "media_report",
+      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+      "subtitle": "",
+      "author": "MIT Technology Review AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "MIT Technology Review AI",
+      "language": "unknown",
+      "published_at": "Wed, 04 Nov 2026 18:50:55 +0000",
+      "captured_at": "2026-11-06T01:23:25.192Z",
+      "captured_issue": "2026-11-06",
+      "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor against the Republican incumbent,&#8230;",
+      "excerpt": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor against the Republican incumbent,&#8230;",
+      "raw_text_available": false,
+      "topics": [
+        "Research"
+      ],
+      "tags": [
+        "ai",
+        "research",
+        "society"
+      ],
+      "entities": [
+        "MIT Technology Review AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput",
+        "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+        "https://www.technologyreview.com/topic/artificial-intelligence"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 54,
+      "originality_score": 38,
+      "trend_score": 45,
+      "evidence_score": 75,
+      "heat_score": 40,
+      "site_fit_score": 74,
+      "total_score": 61,
+      "rank": 1000,
+      "cluster_id": "technologyreview_com_ccdd9811",
+      "dedupe_key": "fadfc18293b5359c",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Texas was the new epicenter of the AI data center buildout. That might be kaput. 来自 MIT Technology Review AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-06",
+      "last_seen_issue": "2026-11-06",
+      "used_in_issue": "2026-11-06"
+    }
+  ],
+  "hot_rank": [
+    {
+      "id": "cand_bd817910d55780c2",
+      "canonical_url": "https://openai.com/index/introducing-gpt-6-cyber",
+      "source_url": "https://openai.com/news/rss.xml",
+      "source_fetch_url": "https://openai.com/news/rss.xml",
+      "source_platform": "web",
+      "source_domain": "openai.com",
+      "source_name": "OpenAI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+      "subtitle": "官方发布、研究、模型与开发者文档优先来源。",
+      "author": "OpenAI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "OpenAI",
+      "language": "unknown",
+      "published_at": "Thu, 05 Nov 2026 09:00:00 GMT",
+      "captured_at": "2026-11-06T01:23:16.898Z",
+      "captured_issue": "2026-11-06",
+      "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
+      "excerpt": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
+      "raw_text_available": false,
+      "topics": [
+        "Research"
+      ],
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://openai.com/index/introducing-gpt-6-cyber",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news",
+        "https://x.com/OpenAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 50,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 98,
+      "total_score": 70,
+      "rank": 29,
+      "cluster_id": "openai_com_8efebb60",
+      "dedupe_key": "78d9c2a243fd42c8",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents 来自 OpenAI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-06",
+      "last_seen_issue": "2026-11-06",
+      "used_in_issue": "2026-11-06"
+    },
+    {
+      "id": "cand_7b59423c348f1892",
+      "canonical_url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+      "source_url": "https://openai.com/news/rss.xml",
+      "source_fetch_url": "https://openai.com/news/rss.xml",
+      "source_platform": "web",
+      "source_domain": "openai.com",
+      "source_name": "OpenAI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Setting a new standard for responsible AI infrastructure",
+      "subtitle": "官方发布、研究、模型与开发者文档优先来源。",
+      "author": "OpenAI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "OpenAI",
+      "language": "unknown",
+      "published_at": "Thu, 05 Nov 2026 02:00:00 GMT",
+      "captured_at": "2026-11-06T01:23:16.898Z",
+      "captured_issue": "2026-11-06",
+      "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+      "excerpt": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+      "raw_text_available": false,
+      "topics": [
+        "AI Infra",
+        "Research"
+      ],
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news",
+        "https://x.com/OpenAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 50,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 98,
+      "total_score": 70,
+      "rank": 30,
+      "cluster_id": "openai_com_65e3236c",
+      "dedupe_key": "aaf74c34bd681229",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Setting a new standard for responsible AI infrastructure 来自 OpenAI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-06",
+      "last_seen_issue": "2026-11-06",
+      "used_in_issue": "2026-11-06"
+    },
+    {
+      "id": "cand_e69ed4b4f8bab251",
+      "canonical_url": "https://openai.com/index/franklin-templeton",
+      "source_url": "https://openai.com/news/rss.xml",
+      "source_fetch_url": "https://openai.com/news/rss.xml",
+      "source_platform": "web",
+      "source_domain": "openai.com",
+      "source_name": "OpenAI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Franklin Templeton uses OpenAI to support investment research",
+      "subtitle": "官方发布、研究、模型与开发者文档优先来源。",
+      "author": "OpenAI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "OpenAI",
+      "language": "unknown",
+      "published_at": "Thu, 05 Nov 2026 00:00:00 GMT",
+      "captured_at": "2026-11-06T01:23:16.898Z",
+      "captured_issue": "2026-11-06",
+      "summary": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
+      "excerpt": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
+      "raw_text_available": false,
+      "topics": [
+        "Investment",
+        "Research"
+      ],
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://openai.com/index/franklin-templeton",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news",
+        "https://x.com/OpenAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 50,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 98,
+      "total_score": 70,
+      "rank": 31,
+      "cluster_id": "openai_com_dc073a76",
+      "dedupe_key": "f4927bd78f66dfef",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Franklin Templeton uses OpenAI to support investment research 来自 OpenAI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-06",
+      "last_seen_issue": "2026-11-06",
+      "used_in_issue": "2026-11-06"
+    },
+    {
+      "id": "cand_e6371526788b196c",
+      "canonical_url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture",
+      "source_url": "https://github.blog/feed",
+      "source_fetch_url": "https://github.blog/feed",
+      "source_platform": "web",
+      "source_domain": "github.blog",
+      "source_name": "GitHub Copilot",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Inside GitHub&#8217;s new Git storage architecture",
+      "subtitle": "",
+      "author": "GitHub Copilot",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "GitHub Copilot",
+      "language": "unknown",
+      "published_at": "Thu, 05 Nov 2026 20:23:21 +0000",
+      "captured_at": "2026-11-06T01:23:22.031Z",
+      "captured_issue": "2026-11-06",
+      "summary": "GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works. The post Inside GitHub&#8217;s new Git storage architecture appeared first on The GitHub Blog .",
+      "excerpt": "GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works. The post Inside GitHub&#8217;s new Git storage architecture appeared first on The GitHub Blog .",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "ai_coding",
+        "developer_tools"
+      ],
+      "entities": [
+        "GitHub Copilot"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [
+        "https://github.com/features/copilot"
+      ],
+      "evidence_links": [
+        "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture",
+        "https://github.blog/feed",
+        "https://github.com/features/copilot",
+        "https://github.blog",
+        "https://x.com/github"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 66,
+      "originality_score": 38,
+      "trend_score": 69,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 70,
+      "rank": 57,
+      "cluster_id": "github_blog_358d3486",
+      "dedupe_key": "964bf4c0ee4e2780",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Inside GitHub&#8217;s new Git storage architecture 来自 GitHub Copilot 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-06",
+      "last_seen_issue": "2026-11-06",
+      "used_in_issue": "2026-11-06"
+    },
+    {
+      "id": "cand_d0b8beacb9708af4",
+      "canonical_url": "https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github",
+      "source_url": "https://github.blog/feed",
+      "source_fetch_url": "https://github.blog/feed",
+      "source_platform": "web",
+      "source_domain": "github.blog",
+      "source_name": "GitHub Copilot",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Accessibility statements now have a home on GitHub",
+      "subtitle": "",
+      "author": "GitHub Copilot",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "GitHub Copilot",
+      "language": "unknown",
+      "published_at": "Thu, 05 Nov 2026 16:00:00 +0000",
+      "captured_at": "2026-11-06T01:23:22.031Z",
+      "captured_issue": "2026-11-06",
+      "summary": "GitHub now highlights ACCESSIBILITY.md files and helps maintainers document accessibility goals, known barriers, supported environments, contributor expectations, and reporting processes. The post Accessibility statements now have a home on GitHub appeared first on The GitHub Blog .",
+      "excerpt": "GitHub now highlights ACCESSIBILITY.md files and helps maintainers document accessibility goals, known barriers, supported environments, contributor expectations, and reporting processes. The post Accessibility statements now have a home on GitHub appeared first on The GitHub Blog .",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "ai_coding",
+        "developer_tools"
+      ],
+      "entities": [
+        "GitHub Copilot"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [
+        "https://github.com/features/copilot"
+      ],
+      "evidence_links": [
+        "https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github",
+        "https://github.blog/feed",
+        "https://github.com/features/copilot",
+        "https://github.blog",
+        "https://x.com/github"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 66,
+      "originality_score": 50,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 74,
+      "total_score": 69,
+      "rank": 93,
+      "cluster_id": "github_blog_4fa00812",
+      "dedupe_key": "8a290c9728b0db02",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Accessibility statements now have a home on GitHub 来自 GitHub Copilot 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-06",
+      "last_seen_issue": "2026-11-06",
+      "used_in_issue": "2026-11-06"
+    },
+    {
+      "id": "cand_98abf921a06ff740",
+      "canonical_url": "https://openai.com/index/merge-builds-with-openai",
+      "source_url": "https://openai.com/news/rss.xml",
+      "source_fetch_url": "https://openai.com/news/rss.xml",
+      "source_platform": "web",
+      "source_domain": "openai.com",
+      "source_name": "OpenAI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Merge builds product and business tools with OpenAI technology",
+      "subtitle": "官方发布、研究、模型与开发者文档优先来源。",
+      "author": "OpenAI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "OpenAI",
+      "language": "unknown",
+      "published_at": "Thu, 05 Nov 2026 08:00:00 GMT",
+      "captured_at": "2026-11-06T01:23:16.898Z",
+      "captured_issue": "2026-11-06",
+      "summary": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
+      "excerpt": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
+      "raw_text_available": false,
+      "topics": [
+        "Product",
+        "Research"
+      ],
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://openai.com/index/merge-builds-with-openai",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news",
+        "https://x.com/OpenAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 50,
+      "trend_score": 45,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 98,
+      "total_score": 68,
+      "rank": 99,
+      "cluster_id": "openai_com_7e4be579",
+      "dedupe_key": "173f1068a54b0bee",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Merge builds product and business tools with OpenAI technology 来自 OpenAI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-06",
+      "last_seen_issue": "2026-11-06",
+      "used_in_issue": "2026-11-06"
+    },
+    {
+      "id": "cand_59c8862a0845319e",
+      "canonical_url": "https://openai.com/ads/customers/flipsnack",
+      "source_url": "https://openai.com/news/rss.xml",
+      "source_fetch_url": "https://openai.com/news/rss.xml",
+      "source_platform": "web",
+      "source_domain": "openai.com",
+      "source_name": "OpenAI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Flipsnack grows product signups with conversion optimization",
+      "subtitle": "官方发布、研究、模型与开发者文档优先来源。",
+      "author": "OpenAI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "OpenAI",
+      "language": "unknown",
+      "published_at": "Thu, 05 Nov 2026 00:45:15 GMT",
+      "captured_at": "2026-11-06T01:23:16.898Z",
+      "captured_issue": "2026-11-06",
+      "summary": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
+      "excerpt": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
+      "raw_text_available": false,
+      "topics": [
+        "Product",
+        "Research"
+      ],
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://openai.com/ads/customers/flipsnack",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news",
+        "https://x.com/OpenAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 50,
+      "trend_score": 45,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 98,
+      "total_score": 68,
+      "rank": 100,
+      "cluster_id": "openai_com_3c538a33",
+      "dedupe_key": "279310ec94018e9e",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Flipsnack grows product signups with conversion optimization 来自 OpenAI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-06",
+      "last_seen_issue": "2026-11-06",
+      "used_in_issue": "2026-11-06"
+    },
+    {
+      "id": "cand_de7c578331933775",
+      "canonical_url": "https://mistral.ai/news/build-with-studio",
+      "source_url": "https://mistral.ai/news",
+      "source_fetch_url": "https://mistral.ai/news",
+      "source_platform": "web",
+      "source_domain": "mistral.ai",
+      "source_name": "Mistral AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Product Le Chonk brings the brains. Studio puts it to work. Build and deploy enterprise agents, workflows and apps faster, with control over your models, data and infrastructure. November 5, 2026 By Mistral",
+      "subtitle": "",
+      "author": "Mistral AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Mistral AI",
+      "language": "unknown",
+      "published_at": "",
+      "captured_at": "2026-11-06T01:23:20.394Z",
+      "captured_issue": "2026-11-06",
+      "summary": "Latest news | Mistral · Product Le Chonk brings the brains. Studio puts it to work. Build and deploy enterprise agents, workflows and apps faster, with control over your models, data and infrastructure. November 5, 2026 By Mistral",
+      "excerpt": "Latest news | Mistral · Product Le Chonk brings the brains. Studio puts it to work. Build and deploy enterprise agents, workflows and apps faster, with control over your models, data and infrastructure. November 5, 2026 By Mistral",
+      "raw_text_available": false,
+      "topics": [
+        "Product"
+      ],
+      "tags": [
+        "open_model",
+        "european_ai"
+      ],
+      "entities": [
+        "Mistral AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://mistral.ai/news/build-with-studio",
+        "https://mistral.ai/news",
+        "https://mistral.ai",
+        "https://x.com/MistralAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 69,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 98,
+      "total_score": 68,
+      "rank": 147,
+      "cluster_id": "mistral_ai_75226479",
+      "dedupe_key": "1ad6919c93cc88d4",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Product Le Chonk brings the brains. Studio puts it to work. Build and deploy enterprise agents, workflows and apps faster, with control over your models, data and infrastructure. November 5, 2026 By Mistral 来自 Mistral AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-06",
+      "last_seen_issue": "2026-11-06",
+      "used_in_issue": "2026-11-06"
+    },
+    {
+      "id": "cand_41b57df35bdcfaf8",
+      "canonical_url": "https://openai.com/index/cultfit-builds-with-codex",
+      "source_url": "https://openai.com/news/rss.xml",
+      "source_fetch_url": "https://openai.com/news/rss.xml",
+      "source_platform": "web",
+      "source_domain": "openai.com",
+      "source_name": "OpenAI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Cult.fit builds operational muscle with Codex",
+      "subtitle": "官方发布、研究、模型与开发者文档优先来源。",
+      "author": "OpenAI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "OpenAI",
+      "language": "unknown",
+      "published_at": "Thu, 05 Nov 2026 20:00:00 GMT",
+      "captured_at": "2026-11-06T01:23:16.898Z",
+      "captured_issue": "2026-11-06",
+      "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+      "excerpt": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+      "raw_text_available": false,
+      "topics": [
+        "Research"
+      ],
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://openai.com/index/cultfit-builds-with-codex",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news",
+        "https://x.com/OpenAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 50,
+      "trend_score": 45,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 67,
+      "rank": 170,
+      "cluster_id": "openai_com_eba11b40",
+      "dedupe_key": "fd55ea84524cd469",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Cult.fit builds operational muscle with Codex 来自 OpenAI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-06",
+      "last_seen_issue": "2026-11-06",
+      "used_in_issue": "2026-11-06"
+    },
+    {
+      "id": "cand_930f37654eeccf47",
+      "canonical_url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips",
+      "source_url": "https://deepmind.google/discover/blog/feed",
+      "source_fetch_url": "https://deepmind.google/discover/blog/feed",
+      "source_platform": "web",
+      "source_domain": "deepmind.google",
+      "source_name": "Google DeepMind",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "subtitle": "",
+      "author": "Google DeepMind",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Google DeepMind",
+      "language": "unknown",
+      "published_at": "Thu, 05 Nov 2026 17:05:16 +0000",
+      "captured_at": "2026-11-06T01:23:17.964Z",
+      "captured_issue": "2026-11-06",
+      "summary": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips 是 Google DeepMind 当日抓取到的公开新增条目。",
+      "excerpt": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips 是 Google DeepMind 当日抓取到的公开新增条目。",
+      "raw_text_available": false,
+      "topics": [
+        "Multimodal",
+        "Research"
+      ],
+      "tags": [
+        "research",
+        "multimodal",
+        "science",
+        "official"
+      ],
+      "entities": [
+        "Google DeepMind"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips",
+        "https://deepmind.google/discover/blog/feed",
+        "https://deepmind.google",
+        "https://deepmind.google/discover/blog",
+        "https://x.com/GoogleDeepMind"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 50,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 62,
+      "total_score": 66,
+      "rank": 324,
+      "cluster_id": "deepmind_google_4d3d72a5",
+      "dedupe_key": "399a00061880a347",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips 来自 Google DeepMind 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-06",
+      "last_seen_issue": "2026-11-06",
+      "used_in_issue": "2026-11-06"
+    },
+    {
+      "id": "cand_584d4273f5936685",
+      "canonical_url": "https://developer.nvidia.com/blog/configure-certify-and-operate-kubernetes-gpu-clusters-with-nvidia-dsx-os",
+      "source_url": "https://developer.nvidia.com/blog",
+      "source_fetch_url": "https://developer.nvidia.com/blog",
+      "source_platform": "web",
+      "source_domain": "developer.nvidia.com",
+      "source_name": "NVIDIA AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Configure, Certify, and Operate Kubernetes GPU Clusters with NVIDIA DSX OS",
+      "subtitle": "",
+      "author": "NVIDIA AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "NVIDIA AI",
+      "language": "unknown",
+      "published_at": "",
+      "captured_at": "2026-11-06T01:23:20.296Z",
+      "captured_issue": "2026-11-06",
+      "summary": "NVIDIA Technical Blog · Configure, Certify, and Operate Kubernetes GPU Clusters with NVIDIA DSX OS",
+      "excerpt": "NVIDIA Technical Blog · Configure, Certify, and Operate Kubernetes GPU Clusters with NVIDIA DSX OS",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "gpu",
+        "inference",
+        "ai_infra"
+      ],
+      "entities": [
+        "NVIDIA AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://developer.nvidia.com/blog/configure-certify-and-operate-kubernetes-gpu-clusters-with-nvidia-dsx-os",
+        "https://developer.nvidia.com/blog",
+        "https://blogs.nvidia.com/blog/category/deep-learning",
+        "https://x.com/NVIDIAAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 74,
+      "total_score": 66,
+      "rank": 384,
+      "cluster_id": "developer_nvidia_com_547bea94",
+      "dedupe_key": "f34c209bf161a01e",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Configure, Certify, and Operate Kubernetes GPU Clusters with NVIDIA DSX OS 来自 NVIDIA AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-06",
+      "last_seen_issue": "2026-11-06",
+      "used_in_issue": "2026-11-06"
+    },
+    {
+      "id": "cand_bf6ebf6cf2479cb0",
+      "canonical_url": "https://developer.nvidia.com/blog/five-ways-nvidia-co-design-maximizes-the-value-of-every-byte-in-the-ai-factory",
+      "source_url": "https://developer.nvidia.com/blog",
+      "source_fetch_url": "https://developer.nvidia.com/blog",
+      "source_platform": "web",
+      "source_domain": "developer.nvidia.com",
+      "source_name": "NVIDIA AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Five Ways NVIDIA Co-Design Maximizes the Value of Every Byte in the AI Factory",
+      "subtitle": "",
+      "author": "NVIDIA AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "NVIDIA AI",
+      "language": "unknown",
+      "published_at": "",
+      "captured_at": "2026-11-06T01:23:20.296Z",
+      "captured_issue": "2026-11-06",
+      "summary": "NVIDIA Technical Blog · Five Ways NVIDIA Co-Design Maximizes the Value of Every Byte in the AI Factory",
+      "excerpt": "NVIDIA Technical Blog · Five Ways NVIDIA Co-Design Maximizes the Value of Every Byte in the AI Factory",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "gpu",
+        "inference",
+        "ai_infra"
+      ],
+      "entities": [
+        "NVIDIA AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://developer.nvidia.com/blog/five-ways-nvidia-co-design-maximizes-the-value-of-every-byte-in-the-ai-factory",
+        "https://developer.nvidia.com/blog",
+        "https://blogs.nvidia.com/blog/category/deep-learning",
+        "https://x.com/NVIDIAAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 74,
+      "total_score": 66,
+      "rank": 385,
+      "cluster_id": "developer_nvidia_com_d0200d8c",
+      "dedupe_key": "4cf97346c1358c7a",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Five Ways NVIDIA Co-Design Maximizes the Value of Every Byte in the AI Factory 来自 NVIDIA AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-06",
+      "last_seen_issue": "2026-11-06",
+      "used_in_issue": "2026-11-06"
+    },
+    {
+      "id": "cand_a4ca6c5a7df7699c",
+      "canonical_url": "https://vercel.com/blog/introducing-vercel-schedules",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Introducing Vercel Schedules",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-11-04T13:00:00.000Z",
+      "captured_at": "2026-11-06T01:23:22.278Z",
+      "captured_issue": "2026-11-06",
+      "summary": "Cron jobs are useful for work that needs to happen regularly. You can use them to do things such as back up your database on a schedule, or keep data in sync between two systems. You define them once in code and then can update them by editing their config and redeploying. But today, agents interact with users as work evolves, and schedules need to be updated in real time. We built Vercel Schedules to allow agents and applications to create, change, or cancel one-time and rec",
+      "excerpt": "Cron jobs are useful for work that needs to happen regularly. You can use them to do things such as back up your database on a schedule, or keep data in sync between two systems. You define them once in code and then can update them by editing their config and redeploying. But today, agents interact with users as work evolves, and schedules need to be updated in real time. We built Vercel Schedules to allow agents and applications to create, change, or cancel one-time and rec",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/blog/introducing-vercel-schedules",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 69,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 66,
+      "rank": 391,
+      "cluster_id": "vercel_com_983e1aca",
+      "dedupe_key": "1d32dbe35608ea72",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Introducing Vercel Schedules 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-06",
+      "last_seen_issue": "2026-11-06",
+      "used_in_issue": "2026-11-06"
+    },
+    {
+      "id": "cand_757ae2a00a3c560f",
+      "canonical_url": "https://vercel.com/changelog/vercel-schedules-is-now-in-public-beta",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Vercel Schedules is now in public beta",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-11-05T17:00:00.000Z",
+      "captured_at": "2026-11-06T01:23:22.277Z",
+      "captured_issue": "2026-11-06",
+      "summary": "Vercel Schedules is now in public beta on all plans. Run tasks on a recurring cadence or at a single point in time, in production, preview, or custom environments. Schedules in vercel.json can target a private Vercel Function, an HTTP path, or a Vercel Queue topic, and schedules created at runtime target a Queue topic. Any schedule can be enabled, disabled, or run on demand without redeploying. Define a static schedule: Adding a schedule/v1beta trigger makes the function priv",
+      "excerpt": "Vercel Schedules is now in public beta on all plans. Run tasks on a recurring cadence or at a single point in time, in production, preview, or custom environments. Schedules in vercel.json can target a private Vercel Function, an HTTP path, or a Vercel Queue topic, and schedules created at runtime target a Queue topic. Any schedule can be enabled, disabled, or run on demand without redeploying. Define a static schedule: Adding a schedule/v1beta trigger makes the function priv",
+      "raw_text_available": false,
+      "topics": [
+        "Product"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/changelog/vercel-schedules-is-now-in-public-beta",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 65,
+      "rank": 451,
+      "cluster_id": "vercel_com_5abfffea",
+      "dedupe_key": "8a310ffaa56cb7ab",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Vercel Schedules is now in public beta 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-06",
+      "last_seen_issue": "2026-11-06",
+      "used_in_issue": "2026-11-06"
+    },
+    {
+      "id": "cand_085284ed8e2ddf7f",
+      "canonical_url": "https://huggingface.co/blog/phonon-tts",
+      "source_url": "https://huggingface.co/blog/feed.xml",
+      "source_fetch_url": "https://huggingface.co/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "huggingface.co",
+      "source_name": "Hugging Face",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+      "subtitle": "",
+      "author": "Hugging Face",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Hugging Face",
+      "language": "unknown",
+      "published_at": "Thu, 05 Nov 2026 00:00:00 GMT",
+      "captured_at": "2026-11-06T01:23:22.763Z",
+      "captured_issue": "2026-11-06",
+      "summary": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks. 是 Hugging Face 当日抓取到的公开新增条目。",
+      "excerpt": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks. 是 Hugging Face 当日抓取到的公开新增条目。",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "open_source",
+        "papers",
+        "models"
+      ],
+      "entities": [
+        "Hugging Face"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://huggingface.co/blog/phonon-tts",
+        "https://huggingface.co/blog/feed.xml",
+        "https://huggingface.co",
+        "https://huggingface.co/blog",
+        "https://x.com/huggingface"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 66,
+      "originality_score": 38,
+      "trend_score": 45,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 50,
+      "total_score": 64,
+      "rank": 554,
+      "cluster_id": "huggingface_co_a32d59db",
+      "dedupe_key": "76b9ac9f451d325a",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks. 来自 Hugging Face 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-06",
+      "last_seen_issue": "2026-11-06",
+      "used_in_issue": "2026-11-06"
+    },
+    {
+      "id": "cand_7f6ba401029f71de",
+      "canonical_url": "https://www.langchain.com/blog/agents-are-going-async",
+      "source_url": "https://blog.langchain.com/rss.xml",
+      "source_fetch_url": "https://blog.langchain.com/rss.xml",
+      "source_platform": "web",
+      "source_domain": "langchain.com",
+      "source_name": "LangChain",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "external_article",
+      "title": "Agents Are Going Async",
+      "subtitle": "",
+      "author": "LangChain",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "LangChain",
+      "language": "unknown",
+      "published_at": "Thu, 05 Nov 2026 20:03:27 GMT",
+      "captured_at": "2026-11-06T01:23:22.912Z",
+      "captured_issue": "2026-11-06",
+      "summary": "Async subagents let an agent stay responsive while background workers run long tasks. How the orchestrator, notifications and approvals work in Deep Agents.",
+      "excerpt": "Async subagents let an agent stay responsive while background workers run long tasks. How the orchestrator, notifications and approvals work in Deep Agents.",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "agents",
+        "rag",
+        "framework"
+      ],
+      "entities": [
+        "LangChain"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://www.langchain.com/blog/agents-are-going-async",
+        "https://blog.langchain.com/rss.xml",
+        "https://www.langchain.com",
+        "https://blog.langchain.com",
+        "https://x.com/LangChainAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 54,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 62,
+      "total_score": 64,
+      "rank": 565,
+      "cluster_id": "langchain_com_75b7a75f",
+      "dedupe_key": "ee046f60b276e50e",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Agents Are Going Async 来自 LangChain 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-06",
+      "last_seen_issue": "2026-11-06",
+      "used_in_issue": "2026-11-06"
+    },
+    {
+      "id": "cand_5c9ee443d2bc2c00",
+      "canonical_url": "https://vercel.com/changelog/token-pass-credit-now-applies-automatically-across-ai-gateway",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Token Pass credit now applies automatically across AI Gateway",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-11-06T01:00:00.000Z",
+      "captured_at": "2026-11-06T01:23:22.277Z",
+      "captured_issue": "2026-11-06",
+      "summary": "Token Pass credit now applies automatically to included model usage through AI Gateway , whether a request authenticates with an API key, OIDC token, or fx login. No dedicated Token Pass API key is required, though you can still create one from the dashboard or the CLI for keys scoped only to featured models and providers. When Token Pass credit runs out for the billing period, requests from a standard key or OIDC token fall back to your team's AI Gateway credits. Token Pass ",
+      "excerpt": "Token Pass credit now applies automatically to included model usage through AI Gateway , whether a request authenticates with an API key, OIDC token, or fx login. No dedicated Token Pass API key is required, though you can still create one from the dashboard or the CLI for keys scoped only to featured models and providers. When Token Pass credit runs out for the billing period, requests from a standard key or OIDC token fall back to your team's AI Gateway credits. Token Pass ",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/changelog/token-pass-credit-now-applies-automatically-across-ai-gateway",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 74,
+      "total_score": 63,
+      "rank": 617,
+      "cluster_id": "vercel_com_0c2f61a5",
+      "dedupe_key": "be1952b1f85ed9d9",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Token Pass credit now applies automatically across AI Gateway 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-06",
+      "last_seen_issue": "2026-11-06",
+      "used_in_issue": "2026-11-06"
+    },
+    {
+      "id": "cand_c657767829ef97e7",
+      "canonical_url": "https://vercel.com/changelog/gemini-omni-1-2-flash-now-available-on-ai-gateway",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Gemini Omni 1.2 Flash now available on AI Gateway",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-11-05T00:00:00.000Z",
+      "captured_at": "2026-11-06T01:23:22.277Z",
+      "captured_issue": "2026-11-06",
+      "summary": "Gemini Omni 1.2 Flash from Google is now available on AI Gateway. Generate videos from text prompts with one API key and no separate Google account. Gemini Omni 1.2 Flash generates 3–15 second videos with native audio and edits 3–15 second source clips with up to six reference images. Extend videos by 3–10 seconds per call, up to 30 seconds total, or refine generated clips in follow-up calls using previousInteractionId . Output supports 360p, 720p, 1080p, and 4K in 16:9 or 9:",
+      "excerpt": "Gemini Omni 1.2 Flash from Google is now available on AI Gateway. Generate videos from text prompts with one API key and no separate Google account. Gemini Omni 1.2 Flash generates 3–15 second videos with native audio and edits 3–15 second source clips with up to six reference images. Extend videos by 3–10 seconds per call, up to 30 seconds total, or refine generated clips in follow-up calls using previousInteractionId . Output supports 360p, 720p, 1080p, and 4K in 16:9 or 9:",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/changelog/gemini-omni-1-2-flash-now-available-on-ai-gateway",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 74,
+      "total_score": 63,
+      "rank": 618,
+      "cluster_id": "vercel_com_3b97fc50",
+      "dedupe_key": "eaca5a970ddfe36c",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Gemini Omni 1.2 Flash now available on AI Gateway 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-06",
+      "last_seen_issue": "2026-11-06",
+      "used_in_issue": "2026-11-06"
+    },
+    {
+      "id": "cand_9357bc5d9c238735",
+      "canonical_url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+      "source_url": "https://huggingface.co/blog/feed.xml",
+      "source_fetch_url": "https://huggingface.co/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "huggingface.co",
+      "source_name": "Hugging Face",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+      "subtitle": "",
+      "author": "Hugging Face",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Hugging Face",
+      "language": "unknown",
+      "published_at": "Thu, 05 Nov 2026 19:35:16 GMT",
+      "captured_at": "2026-11-06T01:23:22.763Z",
+      "captured_issue": "2026-11-06",
+      "summary": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation 是 Hugging Face 当日抓取到的公开新增条目。",
+      "excerpt": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation 是 Hugging Face 当日抓取到的公开新增条目。",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "open_source",
+        "papers",
+        "models"
+      ],
+      "entities": [
+        "Hugging Face"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+        "https://huggingface.co/blog/feed.xml",
+        "https://huggingface.co",
+        "https://huggingface.co/blog",
+        "https://x.com/huggingface"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 38,
+      "trend_score": 45,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 50,
+      "total_score": 62,
+      "rank": 750,
+      "cluster_id": "huggingface_co_1c862dae",
+      "dedupe_key": "15bb88ec8ec90999",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：New NVIDIA Cosmos 3 Open Models for Interactive World Simulation 来自 Hugging Face 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-06",
+      "last_seen_issue": "2026-11-06",
+      "used_in_issue": "2026-11-06"
+    },
+    {
+      "id": "cand_003387e1d3cb86aa",
+      "canonical_url": "https://huggingface.co/blog/allenai/statebench",
+      "source_url": "https://huggingface.co/blog/feed.xml",
+      "source_fetch_url": "https://huggingface.co/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "huggingface.co",
+      "source_name": "Hugging Face",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "StateBench: Testing how language models track state changes over long documents",
+      "subtitle": "",
+      "author": "Hugging Face",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Hugging Face",
+      "language": "unknown",
+      "published_at": "Tue, 03 Nov 2026 17:15:21 GMT",
+      "captured_at": "2026-11-06T01:23:22.763Z",
+      "captured_issue": "2026-11-06",
+      "summary": "StateBench: Testing how language models track state changes over long documents 是 Hugging Face 当日抓取到的公开新增条目。",
+      "excerpt": "StateBench: Testing how language models track state changes over long documents 是 Hugging Face 当日抓取到的公开新增条目。",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "open_source",
+        "papers",
+        "models"
+      ],
+      "entities": [
+        "Hugging Face"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://huggingface.co/blog/allenai/statebench",
+        "https://huggingface.co/blog/feed.xml",
+        "https://huggingface.co",
+        "https://huggingface.co/blog",
+        "https://x.com/huggingface"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 38,
+      "trend_score": 45,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 50,
+      "total_score": 62,
+      "rank": 752,
+      "cluster_id": "huggingface_co_3de80007",
+      "dedupe_key": "0f228bb2b7e11440",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：StateBench: Testing how language models track state changes over long documents 来自 Hugging Face 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-06",
+      "last_seen_issue": "2026-11-06",
+      "used_in_issue": "2026-11-06"
+    }
+  ],
+  "clusters": [
+    {
+      "cluster_id": "openai_com_8efebb60",
+      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+      "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
+      "primary_source": "https://openai.com/index/introducing-gpt-6-cyber",
+      "supporting_sources": [
+        "https://openai.com/index/introducing-gpt-6-cyber",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news",
+        "https://x.com/OpenAI"
+      ],
+      "related_x_posts": [
+        "https://x.com/OpenAI"
+      ],
+      "related_articles": [
+        "https://openai.com/index/introducing-gpt-6-cyber",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "score": 70,
+      "selected_item_id": "cand_bd817910d55780c2"
+    },
+    {
+      "cluster_id": "openai_com_65e3236c",
+      "title": "Setting a new standard for responsible AI infrastructure",
+      "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+      "primary_source": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+      "supporting_sources": [
+        "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news",
+        "https://x.com/OpenAI"
+      ],
+      "related_x_posts": [
+        "https://x.com/OpenAI"
+      ],
+      "related_articles": [
+        "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "score": 70,
+      "selected_item_id": "cand_7b59423c348f1892"
+    },
+    {
+      "cluster_id": "openai_com_dc073a76",
+      "title": "Franklin Templeton uses OpenAI to support investment research",
+      "summary": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
+      "primary_source": "https://openai.com/index/franklin-templeton",
+      "supporting_sources": [
+        "https://openai.com/index/franklin-templeton",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news",
+        "https://x.com/OpenAI"
+      ],
+      "related_x_posts": [
+        "https://x.com/OpenAI"
+      ],
+      "related_articles": [
+        "https://openai.com/index/franklin-templeton",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "score": 70,
+      "selected_item_id": "cand_e69ed4b4f8bab251"
+    },
+    {
+      "cluster_id": "github_blog_358d3486",
+      "title": "Inside GitHub&#8217;s new Git storage architecture",
+      "summary": "GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works. The post Inside GitHub&#8217;s new Git storage architecture appeared first on The GitHub Blog .",
+      "primary_source": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture",
+      "supporting_sources": [
+        "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture",
+        "https://github.blog/feed",
+        "https://github.com/features/copilot",
+        "https://github.blog",
+        "https://x.com/github"
+      ],
+      "related_x_posts": [
+        "https://x.com/github"
+      ],
+      "related_articles": [
+        "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture",
+        "https://github.blog/feed",
+        "https://github.com/features/copilot",
+        "https://github.blog"
+      ],
+      "entities": [
+        "GitHub Copilot"
+      ],
+      "tags": [
+        "ai_coding",
+        "developer_tools"
+      ],
+      "score": 70,
+      "selected_item_id": "cand_e6371526788b196c"
+    },
+    {
+      "cluster_id": "github_blog_4fa00812",
+      "title": "Accessibility statements now have a home on GitHub",
+      "summary": "GitHub now highlights ACCESSIBILITY.md files and helps maintainers document accessibility goals, known barriers, supported environments, contributor expectations, and reporting processes. The post Accessibility statements now have a home on GitHub appeared first on The GitHub Blog .",
+      "primary_source": "https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github",
+      "supporting_sources": [
+        "https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github",
+        "https://github.blog/feed",
+        "https://github.com/features/copilot",
+        "https://github.blog",
+        "https://x.com/github"
+      ],
+      "related_x_posts": [
+        "https://x.com/github"
+      ],
+      "related_articles": [
+        "https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github",
+        "https://github.blog/feed",
+        "https://github.com/features/copilot",
+        "https://github.blog"
+      ],
+      "entities": [
+        "GitHub Copilot"
+      ],
+      "tags": [
+        "ai_coding",
+        "developer_tools"
+      ],
+      "score": 69,
+      "selected_item_id": "cand_d0b8beacb9708af4"
+    },
+    {
+      "cluster_id": "openai_com_7e4be579",
+      "title": "Merge builds product and business tools with OpenAI technology",
+      "summary": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
+      "primary_source": "https://openai.com/index/merge-builds-with-openai",
+      "supporting_sources": [
+        "https://openai.com/index/merge-builds-with-openai",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news",
+        "https://x.com/OpenAI"
+      ],
+      "related_x_posts": [
+        "https://x.com/OpenAI"
+      ],
+      "related_articles": [
+        "https://openai.com/index/merge-builds-with-openai",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "score": 68,
+      "selected_item_id": "cand_98abf921a06ff740"
+    },
+    {
+      "cluster_id": "openai_com_3c538a33",
+      "title": "Flipsnack grows product signups with conversion optimization",
+      "summary": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
+      "primary_source": "https://openai.com/ads/customers/flipsnack",
+      "supporting_sources": [
+        "https://openai.com/ads/customers/flipsnack",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news",
+        "https://x.com/OpenAI"
+      ],
+      "related_x_posts": [
+        "https://x.com/OpenAI"
+      ],
+      "related_articles": [
+        "https://openai.com/ads/customers/flipsnack",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "score": 68,
+      "selected_item_id": "cand_59c8862a0845319e"
+    },
+    {
+      "cluster_id": "mistral_ai_75226479",
+      "title": "Product Le Chonk brings the brains. Studio puts it to work. Build and deploy enterprise agents, workflows and apps faster, with control over your models, data and infrastructure. November 5, 2026 By Mistral",
+      "summary": "Latest news | Mistral · Product Le Chonk brings the brains. Studio puts it to work. Build and deploy enterprise agents, workflows and apps faster, with control over your models, data and infrastructure. November 5, 2026 By Mistral",
+      "primary_source": "https://mistral.ai/news/build-with-studio",
+      "supporting_sources": [
+        "https://mistral.ai/news/build-with-studio",
+        "https://mistral.ai/news",
+        "https://mistral.ai",
+        "https://x.com/MistralAI"
+      ],
+      "related_x_posts": [
+        "https://x.com/MistralAI"
+      ],
+      "related_articles": [
+        "https://mistral.ai/news/build-with-studio",
+        "https://mistral.ai/news",
+        "https://mistral.ai"
+      ],
+      "entities": [
+        "Mistral AI"
+      ],
+      "tags": [
+        "open_model",
+        "european_ai"
+      ],
+      "score": 68,
+      "selected_item_id": "cand_de7c578331933775"
+    },
+    {
+      "cluster_id": "openai_com_eba11b40",
+      "title": "Cult.fit builds operational muscle with Codex",
+      "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+      "primary_source": "https://openai.com/index/cultfit-builds-with-codex",
+      "supporting_sources": [
+        "https://openai.com/index/cultfit-builds-with-codex",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news",
+        "https://x.com/OpenAI"
+      ],
+      "related_x_posts": [
+        "https://x.com/OpenAI"
+      ],
+      "related_articles": [
+        "https://openai.com/index/cultfit-builds-with-codex",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "score": 67,
+      "selected_item_id": "cand_41b57df35bdcfaf8"
+    },
+    {
+      "cluster_id": "deepmind_google_4d3d72a5",
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "summary": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips 是 Google DeepMind 当日抓取到的公开新增条目。",
+      "primary_source": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips",
+      "supporting_sources": [
+        "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips",
+        "https://deepmind.google/discover/blog/feed",
+        "https://deepmind.google",
+        "https://deepmind.google/discover/blog",
+        "https://x.com/GoogleDeepMind"
+      ],
+      "related_x_posts": [
+        "https://x.com/GoogleDeepMind"
+      ],
+      "related_articles": [
+        "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips",
+        "https://deepmind.google/discover/blog/feed",
+        "https://deepmind.google",
+        "https://deepmind.google/discover/blog"
+      ],
+      "entities": [
+        "Google DeepMind"
+      ],
+      "tags": [
+        "research",
+        "multimodal",
+        "science",
+        "official"
+      ],
+      "score": 66,
+      "selected_item_id": "cand_930f37654eeccf47"
+    },
+    {
+      "cluster_id": "developer_nvidia_com_547bea94",
+      "title": "Configure, Certify, and Operate Kubernetes GPU Clusters with NVIDIA DSX OS",
+      "summary": "NVIDIA Technical Blog · Configure, Certify, and Operate Kubernetes GPU Clusters with NVIDIA DSX OS",
+      "primary_source": "https://developer.nvidia.com/blog/configure-certify-and-operate-kubernetes-gpu-clusters-with-nvidia-dsx-os",
+      "supporting_sources": [
+        "https://developer.nvidia.com/blog/configure-certify-and-operate-kubernetes-gpu-clusters-with-nvidia-dsx-os",
+        "https://developer.nvidia.com/blog",
+        "https://blogs.nvidia.com/blog/category/deep-learning",
+        "https://x.com/NVIDIAAI"
+      ],
+      "related_x_posts": [
+        "https://x.com/NVIDIAAI"
+      ],
+      "related_articles": [
+        "https://developer.nvidia.com/blog/configure-certify-and-operate-kubernetes-gpu-clusters-with-nvidia-dsx-os",
+        "https://developer.nvidia.com/blog",
+        "https://blogs.nvidia.com/blog/category/deep-learning"
+      ],
+      "entities": [
+        "NVIDIA AI"
+      ],
+      "tags": [
+        "gpu",
+        "inference",
+        "ai_infra"
+      ],
+      "score": 66,
+      "selected_item_id": "cand_584d4273f5936685"
+    },
+    {
+      "cluster_id": "developer_nvidia_com_d0200d8c",
+      "title": "Five Ways NVIDIA Co-Design Maximizes the Value of Every Byte in the AI Factory",
+      "summary": "NVIDIA Technical Blog · Five Ways NVIDIA Co-Design Maximizes the Value of Every Byte in the AI Factory",
+      "primary_source": "https://developer.nvidia.com/blog/five-ways-nvidia-co-design-maximizes-the-value-of-every-byte-in-the-ai-factory",
+      "supporting_sources": [
+        "https://developer.nvidia.com/blog/five-ways-nvidia-co-design-maximizes-the-value-of-every-byte-in-the-ai-factory",
+        "https://developer.nvidia.com/blog",
+        "https://blogs.nvidia.com/blog/category/deep-learning",
+        "https://x.com/NVIDIAAI"
+      ],
+      "related_x_posts": [
+        "https://x.com/NVIDIAAI"
+      ],
+      "related_articles": [
+        "https://developer.nvidia.com/blog/five-ways-nvidia-co-design-maximizes-the-value-of-every-byte-in-the-ai-factory",
+        "https://developer.nvidia.com/blog",
+        "https://blogs.nvidia.com/blog/category/deep-learning"
+      ],
+      "entities": [
+        "NVIDIA AI"
+      ],
+      "tags": [
+        "gpu",
+        "inference",
+        "ai_infra"
+      ],
+      "score": 66,
+      "selected_item_id": "cand_bf6ebf6cf2479cb0"
+    },
+    {
+      "cluster_id": "vercel_com_983e1aca",
+      "title": "Introducing Vercel Schedules",
+      "summary": "Cron jobs are useful for work that needs to happen regularly. You can use them to do things such as back up your database on a schedule, or keep data in sync between two systems. You define them once in code and then can update them by editing their config and redeploying. But today, agents interact with users as work evolves, and schedules need to be updated in real time. We built Vercel Schedules to allow agents and applications to create, change, or cancel one-time and rec",
+      "primary_source": "https://vercel.com/blog/introducing-vercel-schedules",
+      "supporting_sources": [
+        "https://vercel.com/blog/introducing-vercel-schedules",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "related_x_posts": [
+        "https://x.com/vercel"
+      ],
+      "related_articles": [
+        "https://vercel.com/blog/introducing-vercel-schedules",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "score": 66,
+      "selected_item_id": "cand_a4ca6c5a7df7699c"
+    },
+    {
+      "cluster_id": "vercel_com_5abfffea",
+      "title": "Vercel Schedules is now in public beta",
+      "summary": "Vercel Schedules is now in public beta on all plans. Run tasks on a recurring cadence or at a single point in time, in production, preview, or custom environments. Schedules in vercel.json can target a private Vercel Function, an HTTP path, or a Vercel Queue topic, and schedules created at runtime target a Queue topic. Any schedule can be enabled, disabled, or run on demand without redeploying. Define a static schedule: Adding a schedule/v1beta trigger makes the function priv",
+      "primary_source": "https://vercel.com/changelog/vercel-schedules-is-now-in-public-beta",
+      "supporting_sources": [
+        "https://vercel.com/changelog/vercel-schedules-is-now-in-public-beta",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "related_x_posts": [
+        "https://x.com/vercel"
+      ],
+      "related_articles": [
+        "https://vercel.com/changelog/vercel-schedules-is-now-in-public-beta",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "score": 65,
+      "selected_item_id": "cand_757ae2a00a3c560f"
+    },
+    {
+      "cluster_id": "huggingface_co_a32d59db",
+      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+      "summary": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks. 是 Hugging Face 当日抓取到的公开新增条目。",
+      "primary_source": "https://huggingface.co/blog/phonon-tts",
+      "supporting_sources": [
+        "https://huggingface.co/blog/phonon-tts",
+        "https://huggingface.co/blog/feed.xml",
+        "https://huggingface.co",
+        "https://huggingface.co/blog",
+        "https://x.com/huggingface"
+      ],
+      "related_x_posts": [
+        "https://x.com/huggingface"
+      ],
+      "related_articles": [
+        "https://huggingface.co/blog/phonon-tts",
+        "https://huggingface.co/blog/feed.xml",
+        "https://huggingface.co",
+        "https://huggingface.co/blog"
+      ],
+      "entities": [
+        "Hugging Face"
+      ],
+      "tags": [
+        "open_source",
+        "papers",
+        "models"
+      ],
+      "score": 64,
+      "selected_item_id": "cand_085284ed8e2ddf7f"
+    },
+    {
+      "cluster_id": "langchain_com_75b7a75f",
+      "title": "Agents Are Going Async",
+      "summary": "Async subagents let an agent stay responsive while background workers run long tasks. How the orchestrator, notifications and approvals work in Deep Agents.",
+      "primary_source": "https://www.langchain.com/blog/agents-are-going-async",
+      "supporting_sources": [
+        "https://www.langchain.com/blog/agents-are-going-async",
+        "https://blog.langchain.com/rss.xml",
+        "https://www.langchain.com",
+        "https://blog.langchain.com",
+        "https://x.com/LangChainAI"
+      ],
+      "related_x_posts": [
+        "https://x.com/LangChainAI"
+      ],
+      "related_articles": [
+        "https://www.langchain.com/blog/agents-are-going-async",
+        "https://blog.langchain.com/rss.xml",
+        "https://www.langchain.com",
+        "https://blog.langchain.com"
+      ],
+      "entities": [
+        "LangChain"
+      ],
+      "tags": [
+        "agents",
+        "rag",
+        "framework"
+      ],
+      "score": 64,
+      "selected_item_id": "cand_7f6ba401029f71de"
+    },
+    {
+      "cluster_id": "vercel_com_0c2f61a5",
+      "title": "Token Pass credit now applies automatically across AI Gateway",
+      "summary": "Token Pass credit now applies automatically to included model usage through AI Gateway , whether a request authenticates with an API key, OIDC token, or fx login. No dedicated Token Pass API key is required, though you can still create one from the dashboard or the CLI for keys scoped only to featured models and providers. When Token Pass credit runs out for the billing period, requests from a standard key or OIDC token fall back to your team's AI Gateway credits. Token Pass ",
+      "primary_source": "https://vercel.com/changelog/token-pass-credit-now-applies-automatically-across-ai-gateway",
+      "supporting_sources": [
+        "https://vercel.com/changelog/token-pass-credit-now-applies-automatically-across-ai-gateway",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "related_x_posts": [
+        "https://x.com/vercel"
+      ],
+      "related_articles": [
+        "https://vercel.com/changelog/token-pass-credit-now-applies-automatically-across-ai-gateway",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "score": 63,
+      "selected_item_id": "cand_5c9ee443d2bc2c00"
+    },
+    {
+      "cluster_id": "vercel_com_3b97fc50",
+      "title": "Gemini Omni 1.2 Flash now available on AI Gateway",
+      "summary": "Gemini Omni 1.2 Flash from Google is now available on AI Gateway. Generate videos from text prompts with one API key and no separate Google account. Gemini Omni 1.2 Flash generates 3–15 second videos with native audio and edits 3–15 second source clips with up to six reference images. Extend videos by 3–10 seconds per call, up to 30 seconds total, or refine generated clips in follow-up calls using previousInteractionId . Output supports 360p, 720p, 1080p, and 4K in 16:9 or 9:",
+      "primary_source": "https://vercel.com/changelog/gemini-omni-1-2-flash-now-available-on-ai-gateway",
+      "supporting_sources": [
+        "https://vercel.com/changelog/gemini-omni-1-2-flash-now-available-on-ai-gateway",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "related_x_posts": [
+        "https://x.com/vercel"
+      ],
+      "related_articles": [
+        "https://vercel.com/changelog/gemini-omni-1-2-flash-now-available-on-ai-gateway",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "score": 63,
+      "selected_item_id": "cand_c657767829ef97e7"
+    },
+    {
+      "cluster_id": "huggingface_co_1c862dae",
+      "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+      "summary": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation 是 Hugging Face 当日抓取到的公开新增条目。",
+      "primary_source": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+      "supporting_sources": [
+        "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+        "https://huggingface.co/blog/feed.xml",
+        "https://huggingface.co",
+        "https://huggingface.co/blog",
+        "https://x.com/huggingface"
+      ],
+      "related_x_posts": [
+        "https://x.com/huggingface"
+      ],
+      "related_articles": [
+        "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+        "https://huggingface.co/blog/feed.xml",
+        "https://huggingface.co",
+        "https://huggingface.co/blog"
+      ],
+      "entities": [
+        "Hugging Face"
+      ],
+      "tags": [
+        "open_source",
+        "papers",
+        "models"
+      ],
+      "score": 62,
+      "selected_item_id": "cand_9357bc5d9c238735"
+    },
+    {
+      "cluster_id": "huggingface_co_3de80007",
+      "title": "StateBench: Testing how language models track state changes over long documents",
+      "summary": "StateBench: Testing how language models track state changes over long documents 是 Hugging Face 当日抓取到的公开新增条目。",
+      "primary_source": "https://huggingface.co/blog/allenai/statebench",
+      "supporting_sources": [
+        "https://huggingface.co/blog/allenai/statebench",
+        "https://huggingface.co/blog/feed.xml",
+        "https://huggingface.co",
+        "https://huggingface.co/blog",
+        "https://x.com/huggingface"
+      ],
+      "related_x_posts": [
+        "https://x.com/huggingface"
+      ],
+      "related_articles": [
+        "https://huggingface.co/blog/allenai/statebench",
+        "https://huggingface.co/blog/feed.xml",
+        "https://huggingface.co",
+        "https://huggingface.co/blog"
+      ],
+      "entities": [
+        "Hugging Face"
+      ],
+      "tags": [
+        "open_source",
+        "papers",
+        "models"
+      ],
+      "score": 62,
+      "selected_item_id": "cand_003387e1d3cb86aa"
+    },
+    {
+      "cluster_id": "huggingface_co_70336cbd",
+      "title": "Palette: teaching a small model to build decks in your design language",
+      "summary": "Palette: teaching a small model to build decks in your design language 是 Hugging Face 当日抓取到的公开新增条目。",
+      "primary_source": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+      "supporting_sources": [
+        "https://huggingface.co/blog/ibm-research/palette-deck-building",
+        "https://huggingface.co/blog/feed.xml",
+        "https://huggingface.co",
+        "https://huggingface.co/blog",
+        "https://x.com/huggingface"
+      ],
+      "related_x_posts": [
+        "https://x.com/huggingface"
+      ],
+      "related_articles": [
+        "https://huggingface.co/blog/ibm-research/palette-deck-building",
+        "https://huggingface.co/blog/feed.xml",
+        "https://huggingface.co",
+        "https://huggingface.co/blog"
+      ],
+      "entities": [
+        "Hugging Face"
+      ],
+      "tags": [
+        "open_source",
+        "papers",
+        "models"
+      ],
+      "score": 62,
+      "selected_item_id": "cand_3c1825a63dc23c06"
+    },
+    {
+      "cluster_id": "huggingface_co_32f409a0",
+      "title": "CWE-bench v2: More coverage, quality, and transparency",
+      "summary": "CWE-bench v2: More coverage, quality, and transparency 是 Hugging Face 当日抓取到的公开新增条目。",
+      "primary_source": "https://huggingface.co/blog/cwe-bench",
+      "supporting_sources": [
+        "https://huggingface.co/blog/cwe-bench",
+        "https://huggingface.co/blog/feed.xml",
+        "https://huggingface.co",
+        "https://huggingface.co/blog",
+        "https://x.com/huggingface"
+      ],
+      "related_x_posts": [
+        "https://x.com/huggingface"
+      ],
+      "related_articles": [
+        "https://huggingface.co/blog/cwe-bench",
+        "https://huggingface.co/blog/feed.xml",
+        "https://huggingface.co",
+        "https://huggingface.co/blog"
+      ],
+      "entities": [
+        "Hugging Face"
+      ],
+      "tags": [
+        "open_source",
+        "papers",
+        "models"
+      ],
+      "score": 62,
+      "selected_item_id": "cand_d5b21cebb85391de"
+    },
+    {
+      "cluster_id": "huggingface_co_a09becde",
+      "title": "Transformers Model Integration Contracts",
+      "summary": "Transformers Model Integration Contracts 是 Hugging Face 当日抓取到的公开新增条目。",
+      "primary_source": "https://huggingface.co/blog/transformers-mic",
+      "supporting_sources": [
+        "https://huggingface.co/blog/transformers-mic",
+        "https://huggingface.co/blog/feed.xml",
+        "https://huggingface.co",
+        "https://huggingface.co/blog",
+        "https://x.com/huggingface"
+      ],
+      "related_x_posts": [
+        "https://x.com/huggingface"
+      ],
+      "related_articles": [
+        "https://huggingface.co/blog/transformers-mic",
+        "https://huggingface.co/blog/feed.xml",
+        "https://huggingface.co",
+        "https://huggingface.co/blog"
+      ],
+      "entities": [
+        "Hugging Face"
+      ],
+      "tags": [
+        "open_source",
+        "papers",
+        "models"
+      ],
+      "score": 62,
+      "selected_item_id": "cand_6b53354c87531de9"
+    },
+    {
+      "cluster_id": "technologyreview_com_ccdd9811",
+      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+      "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor against the Republican incumbent,&#8230;",
+      "primary_source": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput",
+      "supporting_sources": [
+        "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput",
+        "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+        "https://www.technologyreview.com/topic/artificial-intelligence"
+      ],
+      "related_x_posts": [],
+      "related_articles": [
+        "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput",
+        "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+        "https://www.technologyreview.com/topic/artificial-intelligence"
+      ],
+      "entities": [
+        "MIT Technology Review AI"
+      ],
+      "tags": [
+        "ai",
+        "research",
+        "society"
+      ],
+      "score": 61,
+      "selected_item_id": "cand_8ede9b2e39e887e1"
+    }
+  ],
+  "sources": [
+    "openai.com",
+    "github.blog",
+    "mistral.ai",
+    "deepmind.google",
+    "developer.nvidia.com",
+    "vercel.com",
+    "huggingface.co",
+    "langchain.com",
+    "technologyreview.com"
+  ]
+}
