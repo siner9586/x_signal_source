@@ -29286,5 +29286,235 @@
     "cluster_id": "technologyreview_com_ccdd9811",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f2a3e104a207c238",
+    "canonical_url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+    "dedupe_key": "7572e14287e1e6f4",
+    "title": "Measuring how AI agents handle everyday wet-lab science",
+    "issue_date": "2026-11-07",
+    "cluster_id": "openai_com_56b68135",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4d1242de3a46e776",
+    "canonical_url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering",
+    "dedupe_key": "ffeb629248ffbb74",
+    "title": "Beyond code generation: A developer&#8217;s guide to agentic engineering",
+    "issue_date": "2026-11-07",
+    "cluster_id": "github_blog_440a3f5f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f5a006783f29c143",
+    "canonical_url": "https://blog.langchain.com/blog",
+    "dedupe_key": "c2de0274676a1fa1",
+    "title": "Blog Product news and deep dives",
+    "issue_date": "2026-11-07",
+    "cluster_id": "blog_langchain_com_d843ec81",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_21850ed6717f4f3b",
+    "canonical_url": "https://elevenlabs.io/blog/voice-ai-infrastructure-guide",
+    "dedupe_key": "2eb4dfc1bddff67e",
+    "title": "Voice AI infrastructure: The 2026 stack explained",
+    "issue_date": "2026-11-07",
+    "cluster_id": "elevenlabs_io_3018adf0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d5296cceb1ba0724",
+    "canonical_url": "https://openai.com/index/partnering-with-hacktron",
+    "dedupe_key": "da9cb487e07acb42",
+    "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+    "issue_date": "2026-11-07",
+    "cluster_id": "openai_com_2050f364",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_305b7b6798cc0bbd",
+    "canonical_url": "https://openai.com/index/australian-universities-ai-native-graduates",
+    "dedupe_key": "4157a9f5bcb4cb75",
+    "title": "Australian universities are creating AI-native graduates",
+    "issue_date": "2026-11-07",
+    "cluster_id": "openai_com_e7fa2050",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_cc4085ddb84cc3a1",
+    "canonical_url": "https://developer.nvidia.com/blog/speed-up-image-generation-with-flux-3-image-klein-on-nvidia-blackwell-gpus",
+    "dedupe_key": "4f3afabe40c1e517",
+    "title": "Speed Up Image Generation with FLUX 3 Image Klein on NVIDIA Blackwell GPUs",
+    "issue_date": "2026-11-07",
+    "cluster_id": "developer_nvidia_com_3780ae07",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7a35ea3283bdad55",
+    "canonical_url": "https://developer.nvidia.com/blog/accelerating-reinforcement-learning-weight-refit-with-the-reshard-collective",
+    "dedupe_key": "182a089e31aa8de5",
+    "title": "Accelerating Reinforcement Learning Weight Refit with the Reshard Collective",
+    "issue_date": "2026-11-07",
+    "cluster_id": "developer_nvidia_com_66944ccd",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_04368017d1d32aba",
+    "canonical_url": "https://vercel.com/changelog/json-render-and-chat-sdk-agents",
+    "dedupe_key": "6f15c76e7ce2059a",
+    "title": "Chat SDK agents can now stream generative UI with json-render",
+    "issue_date": "2026-11-07",
+    "cluster_id": "vercel_com_92776cd8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9bf221e389a68326",
+    "canonical_url": "https://vercel.com/changelog/vercel-token-scanning-expands-to-more-public-sources",
+    "dedupe_key": "b0d003d4204b1aa1",
+    "title": "Vercel token scanning expands to more public sources",
+    "issue_date": "2026-11-07",
+    "cluster_id": "vercel_com_3c7b5f65",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b4af3da7533d2854",
+    "canonical_url": "https://vercel.com/changelog/ai-gateway-adds-deepseek-search-and-fetch-tools",
+    "dedupe_key": "624fd4f9585fb418",
+    "title": "AI Gateway adds DeepSeek Search and Fetch tools",
+    "issue_date": "2026-11-07",
+    "cluster_id": "vercel_com_abe68af1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_93ca12a70b0934d5",
+    "canonical_url": "https://vercel.com/changelog/vercel-cli-can-now-set-new-projects-to-expire",
+    "dedupe_key": "ac3e9a483582b6c6",
+    "title": "Vercel CLI can now set new projects to expire",
+    "issue_date": "2026-11-07",
+    "cluster_id": "vercel_com_cec401e7",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0e90cb7e5bf510c6",
+    "canonical_url": "https://vercel.com/changelog/vercel-tracing-is-now-generally-available",
+    "dedupe_key": "05ad691265e047c4",
+    "title": "Vercel Tracing is now generally available",
+    "issue_date": "2026-11-07",
+    "cluster_id": "vercel_com_4f2300ed",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1738407dab51d197",
+    "canonical_url": "https://vercel.com/changelog/humans-and-ampersand-now-available-on-ai-gateway",
+    "dedupe_key": "5f2d732f24d80ada",
+    "title": "Ampersand from Humans& now available on AI Gateway",
+    "issue_date": "2026-11-07",
+    "cluster_id": "vercel_com_355e5e44",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_791a46fb280aa2a3",
+    "canonical_url": "https://elevenlabs.io/blog/unity-sdk-release",
+    "dedupe_key": "1853576df16c6897",
+    "title": "Give your Unity NPCs a voice with ElevenAgents",
+    "issue_date": "2026-11-07",
+    "cluster_id": "elevenlabs_io_b9145fb5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_321b7fc7d9ca81b6",
+    "canonical_url": "https://huggingface.co/blog/allenai/toyblocks",
+    "dedupe_key": "aedbe23e14f374d1",
+    "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+    "issue_date": "2026-11-07",
+    "cluster_id": "huggingface_co_d1f0e805",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_81b620391573104d",
+    "canonical_url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+    "dedupe_key": "a411cf0615a20600",
+    "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+    "issue_date": "2026-11-07",
+    "cluster_id": "huggingface_co_dfd4f4b1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9fe8d009e450734a",
+    "canonical_url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future",
+    "dedupe_key": "214909988a9d89fa",
+    "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+    "issue_date": "2026-11-07",
+    "cluster_id": "technologyreview_com_fa61d357",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3ff11b6bb9a640a0",
+    "canonical_url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test",
+    "dedupe_key": "e479d13693fa6189",
+    "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+    "issue_date": "2026-11-07",
+    "cluster_id": "technologyreview_com_c81e5c71",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5c679ebf2cc42912",
+    "canonical_url": "https://arxiv.org/list/cs.AI/recent?skip=198&amp%3Bshow=50",
+    "dedupe_key": "81f542bd2d74d3df",
+    "title": "Thu, 5 Nov 2026",
+    "issue_date": "2026-11-07",
+    "cluster_id": "arxiv_org_4fdeff73",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_69fb87b2602d9e56",
+    "canonical_url": "https://arxiv.org/list/cs.AI/recent?skip=415&amp%3Bshow=50",
+    "dedupe_key": "acda4fbfca1527f4",
+    "title": "Wed, 4 Nov 2026",
+    "issue_date": "2026-11-07",
+    "cluster_id": "arxiv_org_b7370bb5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5ceec12e62d16e94",
+    "canonical_url": "https://arxiv.org/list/cs.AI/recent?skip=667&amp%3Bshow=50",
+    "dedupe_key": "b040e1332ef7c19d",
+    "title": "Tue, 3 Nov 2026",
+    "issue_date": "2026-11-07",
+    "cluster_id": "arxiv_org_73ad4feb",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6608d2a4b5366712",
+    "canonical_url": "https://arxiv.org/list/cs.AI/recent?skip=1188&amp%3Bshow=50",
+    "dedupe_key": "00ea0f2f3aba6f57",
+    "title": "Mon, 2 Nov 2026",
+    "issue_date": "2026-11-07",
+    "cluster_id": "arxiv_org_c94ec640",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
