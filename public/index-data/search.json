@@ -1,324 +1,188 @@
 [
   {
-    "title": "Measuring how AI agents handle everyday wet-lab science",
-    "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-    "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+    "title": "DeepSeek V4.1 Flash 1017 Ultrafast now available on AI Gateway",
+    "url": "https://vercel.com/changelog/deepseek-v4-1-flash-1017-ultrafast-now-available-on-ai-gateway",
+    "summary": "DeepSeek V4.1 Flash 1017 Ultrafast is now available on AI Gateway through Fireworks. This model can generate upwards of 1,000 tokens per second . Ultrafast serves the October 17 update of DeepSeek V4.1 Flash through Fireworks' accelerated serverless endpoint. It is suited to interactive coding, reasoning, and agentic workflows where applications need to generate output and move to the next step quickly. The model has a 1M-token context window for working with large codebases ",
     "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
+      "sdk",
+      "ai_infra",
+      "frontend"
     ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-11-07",
-    "score": 74
-  },
-  {
-    "title": "Beyond code generation: A developer&#8217;s guide to agentic engineering",
-    "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering",
-    "summary": "Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. The post Beyond code generation: A developer&#8217;s guide to agentic engineering appeared first on The GitHub Blog .",
-    "tags": [
-      "ai_coding",
-      "developer_tools"
-    ],
-    "author": "GitHub Copilot",
-    "source": "github.blog",
-    "date": "2026-11-07",
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-11-08",
     "score": 71
   },
   {
-    "title": "Blog Product news and deep dives",
-    "url": "https://blog.langchain.com/blog",
-    "summary": "LangChain Blog · Blog Product news and deep dives",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "blog.langchain.com",
-    "date": "2026-11-07",
-    "score": 71
-  },
-  {
-    "title": "Voice AI infrastructure: The 2026 stack explained",
-    "url": "https://elevenlabs.io/blog/voice-ai-infrastructure-guide",
-    "summary": "Explore every layer of voice AI infrastructure and AI agent architecture, from speech recognition to guardrails, with ElevenAgents examples.",
+    "title": "Share your ElevenMusic creations directly to SoundCloud",
+    "url": "https://elevenlabs.io/blog/soundcloud",
+    "summary": "Create a track in ElevenMusic and publish it to SoundCloud in a few clicks. SoundCloud Artist Pro members get 3 months of ElevenMusic free.",
     "tags": [
       "voice_ai",
       "audio"
     ],
     "author": "ElevenLabs",
     "source": "elevenlabs.io",
-    "date": "2026-11-07",
-    "score": 67
+    "date": "2026-11-08",
+    "score": 59
   },
   {
-    "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-    "url": "https://openai.com/index/partnering-with-hacktron",
-    "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-11-07",
-    "score": 67
-  },
-  {
-    "title": "Australian universities are creating AI-native graduates",
-    "url": "https://openai.com/index/australian-universities-ai-native-graduates",
-    "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-11-07",
-    "score": 67
-  },
-  {
-    "title": "Speed Up Image Generation with FLUX 3 Image Klein on NVIDIA Blackwell GPUs",
-    "url": "https://developer.nvidia.com/blog/speed-up-image-generation-with-flux-3-image-klein-on-nvidia-blackwell-gpus",
-    "summary": "NVIDIA Technical Blog · Speed Up Image Generation with FLUX 3 Image Klein on NVIDIA Blackwell GPUs",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-11-07",
-    "score": 66
-  },
-  {
-    "title": "Accelerating Reinforcement Learning Weight Refit with the Reshard Collective",
-    "url": "https://developer.nvidia.com/blog/accelerating-reinforcement-learning-weight-refit-with-the-reshard-collective",
-    "summary": "NVIDIA Technical Blog · Accelerating Reinforcement Learning Weight Refit with the Reshard Collective",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-11-07",
-    "score": 66
-  },
-  {
-    "title": "Chat SDK agents can now stream generative UI with json-render",
-    "url": "https://vercel.com/changelog/json-render-and-chat-sdk-agents",
-    "summary": "You can now stream generative UI from your Chat SDK agent with json-render . With a typed catalog of components, the agent writes a JSON spec that json-render converts into a Chat SDK card. Each adapter then posts the card in its platform’s native format, such as Block Kit on Slack and Adaptive Cards on Teams. The catalog covers tables, charts, buttons, and more, so there’s no separate tool to build and maintain for each message shape. Stream cards as the model writes streamC",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-11-07",
-    "score": 66
-  },
-  {
-    "title": "Vercel token scanning expands to more public sources",
-    "url": "https://vercel.com/changelog/vercel-token-scanning-expands-to-more-public-sources",
-    "summary": "Vercel has partnered with Truffle Security to expand automated detection and revocation of publicly exposed Vercel tokens. Revoking exposed credentials helps prevent unauthorized access to your projects and unexpected costs from unauthorized use of services such as Vercel Sandbox and Vercel AI Gateway . If your token is revoked, you’ll receive an email from us explaining why. Truffle Security reports tokens exposed in public sources including GitHub, GitLab, Docker, npm, PyPI",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-11-07",
-    "score": 66
-  },
-  {
-    "title": "AI Gateway adds DeepSeek Search and Fetch tools",
-    "url": "https://vercel.com/changelog/ai-gateway-adds-deepseek-search-and-fetch-tools",
-    "summary": "DeepSeek Search and DeepSeek Fetch are now available through AI Gateway . Search finds relevant pages with titles, URLs, and summaries. Fetch retrieves page content as Markdown for your model to read. Use both tools with any model that supports tool calling, using one AI Gateway API key. No separate DeepSeek account is required, and you can keep the same tools when switching model providers. These helpers are available in AI SDK 6.0.321 and later on v6, or 7.0.160 and later o",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-11-07",
-    "score": 63
-  },
-  {
-    "title": "Vercel CLI can now set new projects to expire",
-    "url": "https://vercel.com/changelog/vercel-cli-can-now-set-new-projects-to-expire",
-    "summary": "You can now set a new project to expire when you deploy it with Vercel CLI . Expired projects are deleted automatically, so prototypes, demos, and test apps don't need cleaning up by hand. Run vercel deploy with --delete-project-after and a duration: Supported durations are 1h , 1d , 1w , 2w , and 30d , and the CLI prints the date and time when the project expires. The flag only applies when vercel deploy creates the project. If you deploy to an existing project with the flag",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-11-07",
-    "score": 63
-  },
-  {
-    "title": "Vercel Tracing is now generally available",
-    "url": "https://vercel.com/changelog/vercel-tracing-is-now-generally-available",
-    "summary": "Vercel Tracing is now generally available on all plans. You can now search and inspect traces from the dashboard or the Vercel CLI , and new Next.js projects get tracing by default. Pricing is unchanged from the beta. Browse and search traces in the dashboard In beta, you could only open a trace per request from the Logs page. The new Traces page shows every trace and span in one place, for a project or your whole team. Switch between a Spans list and a Traces list, filter ea",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-11-07",
-    "score": 63
-  },
-  {
-    "title": "Ampersand from Humans& now available on AI Gateway",
-    "url": "https://vercel.com/changelog/humans-and-ampersand-now-available-on-ai-gateway",
-    "summary": "Ampersand from Humans& is now available on AI Gateway for free through November 13, 2026. Ampersand is a language model built to take part in group conversations, such as a team chat, and to decide on each turn whether to speak or stay quiet. It is designed to understand individual and shared goals, help people work through disagreements, and recognize when a contribution would be useful. That can mean asking a clarifying question, sharing relevant context, or waiting while p",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-11-07",
-    "score": 63
-  },
-  {
-    "title": "Give your Unity NPCs a voice with ElevenAgents",
-    "url": "https://elevenlabs.io/blog/unity-sdk-release",
-    "summary": "The ElevenAgents Unity SDK connects your Unity scene to a voice agent. See what it does, where it runs, and how to start.",
+    "title": "Ads Engine adds human review from localization experts and creative specialists",
+    "url": "https://elevenlabs.io/blog/ads-engine-human-review",
+    "summary": "Ads Engine now adds human review from localization experts and creative specialists. Discover how to ship on-brand, localized ads in every market.",
     "tags": [
       "voice_ai",
       "audio"
     ],
     "author": "ElevenLabs",
     "source": "elevenlabs.io",
-    "date": "2026-11-07",
-    "score": 62
+    "date": "2026-11-08",
+    "score": 59
   },
   {
-    "title": "ToyBlocks: A controlled world for robot learning and evaluation",
-    "url": "https://huggingface.co/blog/allenai/toyblocks",
-    "summary": "ToyBlocks: A controlled world for robot learning and evaluation 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "SRT file guide: Create, edit, and use subtitles in video",
+    "url": "https://elevenlabs.io/blog/srt-file-guide",
+    "summary": "Learn what an SRT file is, how the SRT file format works, and how to open, edit, and create SRT files from audio or text. Compare SRT vs WebVTT.",
     "tags": [
-      "open_source",
-      "papers",
-      "models"
+      "voice_ai",
+      "audio"
     ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-11-07",
-    "score": 62
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-11-08",
+    "score": 59
   },
   {
-    "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
-    "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
-    "summary": "Egyptian and Nigerian English join the Open ASR Leaderboard 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Fix speech to text accuracy problems with a smarter workflow",
+    "url": "https://elevenlabs.io/blog/fix-speech-to-text-accuracy-problems",
+    "summary": "Learn why speech to text accuracy drops and how to fix it, from audio quality and accents to keyterm prompting, plus how to measure it with WER.",
     "tags": [
-      "open_source",
-      "papers",
-      "models"
+      "voice_ai",
+      "audio"
     ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-11-07",
-    "score": 62
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-11-08",
+    "score": 59
   },
   {
-    "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
-    "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future",
-    "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed&#8230;",
+    "title": "What is call transcription? A practical business guide",
+    "url": "https://elevenlabs.io/blog/what-is-call-transcription",
+    "summary": "Learn what call transcription is, how it works, and how to transcribe phone calls with AI. Compare software types and see a sample transcript.",
     "tags": [
-      "ai",
-      "research",
-      "society"
+      "voice_ai",
+      "audio"
     ],
-    "author": "MIT Technology Review AI",
-    "source": "technologyreview.com",
-    "date": "2026-11-07",
-    "score": 61
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-11-08",
+    "score": 59
   },
   {
-    "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
-    "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been calling artificial intelligence as “Super Intelligence.” That&#8230;",
+    "title": "How are synthetic voices created for natural speech?",
+    "url": "https://elevenlabs.io/blog/synthetic-voices",
+    "summary": "Learn how synthetic voices are created, from speech data to neural text to speech, plus voice cloning, voice design, and how to spot an AI voice.",
     "tags": [
-      "ai",
-      "research",
-      "society"
+      "voice_ai",
+      "audio"
     ],
-    "author": "MIT Technology Review AI",
-    "source": "technologyreview.com",
-    "date": "2026-11-07",
-    "score": 61
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-11-08",
+    "score": 59
   },
   {
-    "title": "Thu, 5 Nov 2026",
-    "url": "https://arxiv.org/list/cs.AI/recent?skip=198&amp%3Bshow=50",
-    "summary": "Artificial Intelligence · Thu, 5 Nov 2026",
+    "title": "How KPN is bringing voice AI to the Netherlands' entrepreneurs with Mobiel AI",
+    "url": "https://elevenlabs.io/blog/kpn-mobiel-ai",
+    "summary": "KPN partnered with ElevenLabs to build Mobiel AI, an AI assistant inside KPN's business mobile plans that helps Dutch entrepreneurs manage every call.",
     "tags": [
-      "paper",
-      "ai",
-      "arxiv"
+      "voice_ai",
+      "audio"
     ],
-    "author": "arXiv CS AI",
-    "source": "arxiv.org",
-    "date": "2026-11-07",
-    "score": 60
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-11-08",
+    "score": 59
   },
   {
-    "title": "Wed, 4 Nov 2026",
-    "url": "https://arxiv.org/list/cs.AI/recent?skip=415&amp%3Bshow=50",
-    "summary": "Artificial Intelligence · Wed, 4 Nov 2026",
+    "title": "Introducing SFX v3 for developers",
+    "url": "https://elevenlabs.io/blog/sfx-v3-for-developers",
+    "summary": "SFX v3 is our newest sound effects model. Switch with one model_id change for better multi-part prompts, vocals, and fewer clipped high notes.",
     "tags": [
-      "paper",
-      "ai",
-      "arxiv"
+      "voice_ai",
+      "audio"
     ],
-    "author": "arXiv CS AI",
-    "source": "arxiv.org",
-    "date": "2026-11-07",
-    "score": 60
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-11-08",
+    "score": 59
   },
   {
-    "title": "Tue, 3 Nov 2026",
-    "url": "https://arxiv.org/list/cs.AI/recent?skip=667&amp%3Bshow=50",
-    "summary": "Artificial Intelligence · Tue, 3 Nov 2026",
+    "title": "Why voice wins for complex, stressful conversations",
+    "url": "https://elevenlabs.io/blog/voice-wins-complex-stressful-conversations",
+    "summary": "In conversations longer than two minutes, voice succeeded 32% more often than text-based chat. Voice also resolves longer conversations faster.",
     "tags": [
-      "paper",
-      "ai",
-      "arxiv"
+      "voice_ai",
+      "audio"
     ],
-    "author": "arXiv CS AI",
-    "source": "arxiv.org",
-    "date": "2026-11-07",
-    "score": 60
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-11-08",
+    "score": 59
   },
   {
-    "title": "Mon, 2 Nov 2026",
-    "url": "https://arxiv.org/list/cs.AI/recent?skip=1188&amp%3Bshow=50",
-    "summary": "Artificial Intelligence · Mon, 2 Nov 2026",
+    "title": "4,830 candidate prequalifications completed in three weeks, with data processed in Europe",
+    "url": "https://elevenlabs.io/blog/hippolyte",
+    "summary": "Une voix naturelle pour les candidats, conforme pour les clients grands comptes.",
     "tags": [
-      "paper",
-      "ai",
-      "arxiv"
+      "voice_ai",
+      "audio"
     ],
-    "author": "arXiv CS AI",
-    "source": "arxiv.org",
-    "date": "2026-11-07",
-    "score": 60
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-11-08",
+    "score": 59
+  },
+  {
+    "title": "2026.45: Falling Leaves (and Stocks)",
+    "url": "https://stratechery.com/2026/falling-leaves-and-stocks",
+    "summary": "The best Stratechery content from the week of November 2, 2026, including AI on the ballot, a Google state of the union, and China.",
+    "tags": [
+      "strategy",
+      "tech",
+      "business"
+    ],
+    "author": "Stratechery",
+    "source": "stratechery.com",
+    "date": "2026-11-08",
+    "score": 58
+  },
+  {
+    "title": "Sharp Tech on Video: The U.S. Votes on Data Centers, Implications for Big Tech, Google’s Response to AI",
+    "url": "https://stratechery.com/2026/sharp-tech-on-video-the-u-s-votes-on-data-centers-implications-for-big-tech-googles-response-to-ai",
+    "summary": "Sharp Tech is, for the first time, available on video. You have two ways to consume it: YouTube, and here on Stratechery",
+    "tags": [
+      "strategy",
+      "tech",
+      "business"
+    ],
+    "author": "Stratechery",
+    "source": "stratechery.com",
+    "date": "2026-11-08",
+    "score": 58
+  },
+  {
+    "title": "An Interview With Intuit CEO Sasan Goodarzi About Accounting and AI",
+    "url": "https://stratechery.com/2026/an-interview-with-intuit-ceo-sasan-goodarzi-about-accounting-and-ai",
+    "summary": "An interview with Intuit CEO Sasan Goodarzi about the working for one of tech's oldest software companies, and how Intuit is leaning into the AI paradigm shift.",
+    "tags": [
+      "strategy",
+      "tech",
+      "business"
+    ],
+    "author": "Stratechery",
+    "source": "stratechery.com",
+    "date": "2026-11-08",
+    "score": 58
   }
 ]

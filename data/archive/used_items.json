@@ -29516,5 +29516,145 @@
     "cluster_id": "arxiv_org_c94ec640",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_780232a478ef03a8",
+    "canonical_url": "https://vercel.com/changelog/deepseek-v4-1-flash-1017-ultrafast-now-available-on-ai-gateway",
+    "dedupe_key": "7ee6b559faf2b33b",
+    "title": "DeepSeek V4.1 Flash 1017 Ultrafast now available on AI Gateway",
+    "issue_date": "2026-11-08",
+    "cluster_id": "vercel_com_9e5de032",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4b14600a76acde6e",
+    "canonical_url": "https://elevenlabs.io/blog/soundcloud",
+    "dedupe_key": "9f07fc70cf13fac7",
+    "title": "Share your ElevenMusic creations directly to SoundCloud",
+    "issue_date": "2026-11-08",
+    "cluster_id": "elevenlabs_io_8415b504",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5c131a6381afe904",
+    "canonical_url": "https://elevenlabs.io/blog/ads-engine-human-review",
+    "dedupe_key": "df536f9824347271",
+    "title": "Ads Engine adds human review from localization experts and creative specialists",
+    "issue_date": "2026-11-08",
+    "cluster_id": "elevenlabs_io_8e06bf0a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4bf7642808986372",
+    "canonical_url": "https://elevenlabs.io/blog/srt-file-guide",
+    "dedupe_key": "8205ff902e78d16d",
+    "title": "SRT file guide: Create, edit, and use subtitles in video",
+    "issue_date": "2026-11-08",
+    "cluster_id": "elevenlabs_io_791e6071",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ff7bbb2bb0055d28",
+    "canonical_url": "https://elevenlabs.io/blog/fix-speech-to-text-accuracy-problems",
+    "dedupe_key": "277f646d9947219e",
+    "title": "Fix speech to text accuracy problems with a smarter workflow",
+    "issue_date": "2026-11-08",
+    "cluster_id": "elevenlabs_io_050b66ab",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9eec02ed1d6f79eb",
+    "canonical_url": "https://elevenlabs.io/blog/what-is-call-transcription",
+    "dedupe_key": "4f211830ace29623",
+    "title": "What is call transcription? A practical business guide",
+    "issue_date": "2026-11-08",
+    "cluster_id": "elevenlabs_io_1529ea41",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e410b9f647d1a0a1",
+    "canonical_url": "https://elevenlabs.io/blog/synthetic-voices",
+    "dedupe_key": "45d40835db50d6f3",
+    "title": "How are synthetic voices created for natural speech?",
+    "issue_date": "2026-11-08",
+    "cluster_id": "elevenlabs_io_dd904fbb",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e8eb9bb899a92513",
+    "canonical_url": "https://elevenlabs.io/blog/kpn-mobiel-ai",
+    "dedupe_key": "118eab4231ecff9a",
+    "title": "How KPN is bringing voice AI to the Netherlands' entrepreneurs with Mobiel AI",
+    "issue_date": "2026-11-08",
+    "cluster_id": "elevenlabs_io_4b90e4b1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_53f78fbe74f5296c",
+    "canonical_url": "https://elevenlabs.io/blog/sfx-v3-for-developers",
+    "dedupe_key": "afb69d0f04368d60",
+    "title": "Introducing SFX v3 for developers",
+    "issue_date": "2026-11-08",
+    "cluster_id": "elevenlabs_io_b7914879",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d120e4a04a4d5af2",
+    "canonical_url": "https://elevenlabs.io/blog/voice-wins-complex-stressful-conversations",
+    "dedupe_key": "6b0cf4e1c78be312",
+    "title": "Why voice wins for complex, stressful conversations",
+    "issue_date": "2026-11-08",
+    "cluster_id": "elevenlabs_io_e5b41359",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f253df887b6445d9",
+    "canonical_url": "https://elevenlabs.io/blog/hippolyte",
+    "dedupe_key": "f0f06dd34114a9f2",
+    "title": "4,830 candidate prequalifications completed in three weeks, with data processed in Europe",
+    "issue_date": "2026-11-08",
+    "cluster_id": "elevenlabs_io_4522b235",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3d9c6fa19e23c5df",
+    "canonical_url": "https://stratechery.com/2026/falling-leaves-and-stocks",
+    "dedupe_key": "6bd147d453e38704",
+    "title": "2026.45: Falling Leaves (and Stocks)",
+    "issue_date": "2026-11-08",
+    "cluster_id": "stratechery_com_8feb9de4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ef0d49276da75072",
+    "canonical_url": "https://stratechery.com/2026/sharp-tech-on-video-the-u-s-votes-on-data-centers-implications-for-big-tech-googles-response-to-ai",
+    "dedupe_key": "b6419c76cb700ddd",
+    "title": "Sharp Tech on Video: The U.S. Votes on Data Centers, Implications for Big Tech, Google’s Response to AI",
+    "issue_date": "2026-11-08",
+    "cluster_id": "stratechery_com_4d5fac30",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_77764a412bb7b628",
+    "canonical_url": "https://stratechery.com/2026/an-interview-with-intuit-ceo-sasan-goodarzi-about-accounting-and-ai",
+    "dedupe_key": "08a961084549dad9",
+    "title": "An Interview With Intuit CEO Sasan Goodarzi About Accounting and AI",
+    "issue_date": "2026-11-08",
+    "cluster_id": "stratechery_com_ec78ce7b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
