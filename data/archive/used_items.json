@@ -29656,5 +29656,15 @@
     "cluster_id": "stratechery_com_ec78ce7b",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f53354dcc12904b1",
+    "canonical_url": "https://www.lennysnewsletter.com/p/what-it-actually-takes-to-build-frontier",
+    "dedupe_key": "82f913871b1eb5ca",
+    "title": "Why PMs are suddenly valuable again | Tulsee Doshi (Head of Product, Gemini)",
+    "issue_date": "2026-11-09",
+    "cluster_id": "lennysnewsletter_com_d965743f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
