@@ -29666,5 +29666,245 @@
     "cluster_id": "lennysnewsletter_com_d965743f",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9f96a7f0073ea207",
+    "canonical_url": "https://vercel.com/changelog/glm-5-3-flash-is-now-available-in-token-pass",
+    "dedupe_key": "2e566e61db7a55c5",
+    "title": "GLM 5.3 Flash is now available in Token Pass",
+    "issue_date": "2026-11-10",
+    "cluster_id": "vercel_com_82777f08",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6b3fe29deb29f0f5",
+    "canonical_url": "https://vercel.com/changelog/muse-ember-now-available-on-ai-gateway",
+    "dedupe_key": "948864b366140046",
+    "title": "Muse Ember now available on AI Gateway",
+    "issue_date": "2026-11-10",
+    "cluster_id": "vercel_com_ac283f3e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_199f0f8c7880fcb6",
+    "canonical_url": "https://openai.com/index/control-room",
+    "dedupe_key": "6bccb330d019461a",
+    "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+    "issue_date": "2026-11-10",
+    "cluster_id": "openai_com_f40a9176",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_69d078a107168356",
+    "canonical_url": "https://openai.com/index/coderabbit-codex-daybreak",
+    "dedupe_key": "ae2019e80a8656a3",
+    "title": "CodeRabbit scales agentic software development and ships 20x more",
+    "issue_date": "2026-11-10",
+    "cluster_id": "openai_com_0f3ef6d3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_75bd5004e8cc1181",
+    "canonical_url": "https://vercel.com/blog/ai-gateway-production-index-november-2026",
+    "dedupe_key": "17be30611c4517ee",
+    "title": "Decision models take 26% of requests; Anthropic now wins new teams 2:1",
+    "issue_date": "2026-11-10",
+    "cluster_id": "vercel_com_d45568d8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8f7f077c6b10c7f1",
+    "canonical_url": "https://vercel.com/changelog/claude-fable-5-2-now-available-on-ai-gateway",
+    "dedupe_key": "a241c5d7f1273f0b",
+    "title": "Claude Fable 5.2 now available on AI Gateway",
+    "issue_date": "2026-11-10",
+    "cluster_id": "vercel_com_60d1036f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_773e3a7ce3b65960",
+    "canonical_url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+    "dedupe_key": "ce83f6e64c728e41",
+    "title": "ChatGPT Enterprise now available in AWS Marketplace",
+    "issue_date": "2026-11-10",
+    "cluster_id": "openai_com_2e601c57",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e04405467611cd1c",
+    "canonical_url": "https://openai.com/index/kuken",
+    "dedupe_key": "de8de1ba55e58587",
+    "title": "Kuken Industries searches 70 years of drawings in minutes",
+    "issue_date": "2026-11-10",
+    "cluster_id": "openai_com_1caf5372",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_40d9e630f3f28732",
+    "canonical_url": "https://www.langchain.com/blog/what-is-eval-driven-development",
+    "dedupe_key": "240297485ddf05c0",
+    "title": "What Is Eval-Driven Development? How to Improve AI Agents",
+    "issue_date": "2026-11-10",
+    "cluster_id": "langchain_com_1eb7f337",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7690e1bdf333988d",
+    "canonical_url": "https://developer.nvidia.com/blog/make-a-robot-arm-feel-weightless-with-nvidia-holoscan-5",
+    "dedupe_key": "d5cac453bfef7188",
+    "title": "Make a Robot Arm Feel Weightless with NVIDIA Holoscan 5",
+    "issue_date": "2026-11-10",
+    "cluster_id": "developer_nvidia_com_a19948fe",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6b8f54b397ddc03a",
+    "canonical_url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry",
+    "dedupe_key": "7317eab3e097990d",
+    "title": "Innovating with AI in the special chemicals industry",
+    "issue_date": "2026-11-10",
+    "cluster_id": "technologyreview_com_7200f6a1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_cdfcfdff0b0e99c6",
+    "canonical_url": "https://www.lennysnewsletter.com/p/how-i-ai-how-this-founder-built-a",
+    "dedupe_key": "46d57a45d37a8694",
+    "title": "🎙️ How I AI: How this founder built a better Duolingo with Codex",
+    "issue_date": "2026-11-10",
+    "cluster_id": "lennysnewsletter_com_9096e690",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d27d3d73830023b1",
+    "canonical_url": "https://vercel.com/changelog/vercel-sandbox-snapshot-creation-is-now-up-to-10x-faster",
+    "dedupe_key": "07796ca398f8c96c",
+    "title": "Vercel Sandbox snapshot creation is now up to 10x faster",
+    "issue_date": "2026-11-10",
+    "cluster_id": "vercel_com_058c5393",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a835eef99b0c8f94",
+    "canonical_url": "https://vercel.com/changelog/workflow-writes-now-use-websockets-on-vercel",
+    "dedupe_key": "b759fdf5acc65d98",
+    "title": "Workflow SDK now writes over WebSockets on Vercel",
+    "issue_date": "2026-11-10",
+    "cluster_id": "vercel_com_4d89c1e6",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8200177a22ddc5d8",
+    "canonical_url": "https://vercel.com/changelog/build-disk-space-on-vercel-increased-to-64-gb",
+    "dedupe_key": "f62c9bb856584cc6",
+    "title": "Build disk space on Vercel increased to 64 GB",
+    "issue_date": "2026-11-10",
+    "cluster_id": "vercel_com_de9f2cfc",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5cd9570b0c5cb22a",
+    "canonical_url": "https://elevenlabs.io/blog/elevenagents-campaign-manager",
+    "dedupe_key": "9be4d0719d107757",
+    "title": "ElevenAgents Campaign Manager works every contact to an outcome",
+    "issue_date": "2026-11-10",
+    "cluster_id": "elevenlabs_io_dc861160",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f6dcd24054653b97",
+    "canonical_url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+    "dedupe_key": "c6275c8b3e618d7d",
+    "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan&apos;s Demographics and Financial Context",
+    "issue_date": "2026-11-10",
+    "cluster_id": "huggingface_co_170e8183",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_703a3ede17b2de77",
+    "canonical_url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+    "dedupe_key": "ed9ae2583b9f83ef",
+    "title": "Your Experts Have Partners. There&apos;s HOPE for Keeping Them Together",
+    "issue_date": "2026-11-10",
+    "cluster_id": "huggingface_co_f3748f0c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5b74fc52f5b40b77",
+    "canonical_url": "https://www.lennysnewsletter.com/p/claude-fable-52-review-fast-creative",
+    "dedupe_key": "0b5bd4bd3df57fad",
+    "title": "Claude Fable 5.2 review: fast, creative, and finally not annoying",
+    "issue_date": "2026-11-10",
+    "cluster_id": "lennysnewsletter_com_db5aef43",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1787175f23d74d27",
+    "canonical_url": "https://www.lennysnewsletter.com/p/how-this-founder-built-a-better-duolingo",
+    "dedupe_key": "1c23c4bb2c653cec",
+    "title": "How this founder built a better Duolingo with Codex | William Imoh",
+    "issue_date": "2026-11-10",
+    "cluster_id": "lennysnewsletter_com_daa89973",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_44c7f299e1c68ccd",
+    "canonical_url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity",
+    "dedupe_key": "439c28e960e62e38",
+    "title": "The backlash about data centers might really just be about electricity",
+    "issue_date": "2026-11-10",
+    "cluster_id": "technologyreview_com_14605b62",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b1e3d77dfa987c1d",
+    "canonical_url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai",
+    "dedupe_key": "14292c6301d72373",
+    "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+    "issue_date": "2026-11-10",
+    "cluster_id": "technologyreview_com_62609196",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a632cfe232ac104a",
+    "canonical_url": "https://arxiv.org/list/cs.AI/recent?skip=220&amp%3Bshow=50",
+    "dedupe_key": "61b2f0b18e8dba77",
+    "title": "Fri, 6 Nov 2026",
+    "issue_date": "2026-11-10",
+    "cluster_id": "arxiv_org_3c925fc7",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9422cabfdf21a876",
+    "canonical_url": "https://elevenlabs.io/blog/what-is-an-api-endpoint",
+    "dedupe_key": "953cf2e17a672123",
+    "title": "What is an API endpoint? A guide to connected software",
+    "issue_date": "2026-11-10",
+    "cluster_id": "elevenlabs_io_b827ebc6",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
