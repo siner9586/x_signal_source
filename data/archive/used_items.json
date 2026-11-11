@@ -29906,5 +29906,215 @@
     "cluster_id": "elevenlabs_io_b827ebc6",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1b8aa1d80e1363b5",
+    "canonical_url": "https://vercel.com/changelog/gemini-4-carbon-now-available-on-ai-gateway",
+    "dedupe_key": "8281003c99d26c94",
+    "title": "Gemini 4 Carbon now available on AI Gateway",
+    "issue_date": "2026-11-11",
+    "cluster_id": "vercel_com_eb647dba",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_bfe8d2563df68b4a",
+    "canonical_url": "https://deepmind.google/blog/introducing-alphaproof-code",
+    "dedupe_key": "d2b8dc38a8fd82eb",
+    "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+    "issue_date": "2026-11-11",
+    "cluster_id": "deepmind_google_124778f8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8dc28fb5bee7ac7b",
+    "canonical_url": "https://developer.nvidia.com/blog/agent-substrate-advancing-kubernetes-for-agents-at-scale",
+    "dedupe_key": "472c396b46e433b5",
+    "title": "Agent Substrate: Advancing Kubernetes for Agents at Scale",
+    "issue_date": "2026-11-11",
+    "cluster_id": "developer_nvidia_com_d3cb5877",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_89375e54fd63528d",
+    "canonical_url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available",
+    "dedupe_key": "08e12b5efd291bed",
+    "title": "Gemini 4 Carbon is now available",
+    "issue_date": "2026-11-11",
+    "cluster_id": "deepmind_google_fbf4110d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2bff1c3f0998e70c",
+    "canonical_url": "https://developer.nvidia.com/blog/running-av-reasoning-models-within-onboard-compute-and-latency-limits",
+    "dedupe_key": "c5f7da79e1d5c5ed",
+    "title": "Running AV Reasoning Models Within Onboard Compute and Latency Limits",
+    "issue_date": "2026-11-11",
+    "cluster_id": "developer_nvidia_com_8ef826e7",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2ba4158eedd46775",
+    "canonical_url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+    "dedupe_key": "48702233915f395c",
+    "title": "Gilbert + Tobin rethinks the business of law with AI",
+    "issue_date": "2026-11-11",
+    "cluster_id": "openai_com_01e1e211",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_51e5a775fd772b8a",
+    "canonical_url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+    "dedupe_key": "bdbb35cce6e02b58",
+    "title": "Helping caregivers use AI in everyday life",
+    "issue_date": "2026-11-11",
+    "cluster_id": "openai_com_cb70af39",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_14ea6b362ab25917",
+    "canonical_url": "https://openai.com/index/introducing-businesses-chatgpt",
+    "dedupe_key": "ab94c439e1e12152",
+    "title": "Introducing Businesses in ChatGPT",
+    "issue_date": "2026-11-11",
+    "cluster_id": "openai_com_3e3b52b8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8ae77eb41d4dcec0",
+    "canonical_url": "https://openai.com/index/closing-ai-guidance-gap-education",
+    "dedupe_key": "97514b1d69ba8faf",
+    "title": "Closing the AI guidance gap in education",
+    "issue_date": "2026-11-11",
+    "cluster_id": "openai_com_0b9feed9",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5b351352a3b48b0e",
+    "canonical_url": "https://openai.com/index/ai-effect-on-freelance-work",
+    "dedupe_key": "54a227e161ce5dcd",
+    "title": "Work at the Frontier: AI’s effect on freelance work",
+    "issue_date": "2026-11-11",
+    "cluster_id": "openai_com_91dd78e5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ec7bf3e6f9a7d458",
+    "canonical_url": "https://github.blog/open-source/git/git-security-vulnerabilities-announced-7",
+    "dedupe_key": "8458eb1026ea358f",
+    "title": "Git security vulnerabilities announced",
+    "issue_date": "2026-11-11",
+    "cluster_id": "github_blog_5c97f0c3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_259fc225ec3ff327",
+    "canonical_url": "https://www.langchain.com/blog/how-workday-built-an-enterprise-scale-ai-agent-platform-with-langgraph-and-langsmith",
+    "dedupe_key": "94e426a5b949c073",
+    "title": "How Workday Built an Enterprise-Scale AI Agent Platform with LangGraph and LangSmith",
+    "issue_date": "2026-11-11",
+    "cluster_id": "langchain_com_bb3a8f74",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_544af108303433bf",
+    "canonical_url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence",
+    "dedupe_key": "a4d068d180f187a4",
+    "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+    "issue_date": "2026-11-11",
+    "cluster_id": "deepmind_google_dd49d1c6",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_67025842631c8ff8",
+    "canonical_url": "https://developer.nvidia.com/blog/start-and-restore-gpu-workloads-in-seconds-with-nvidia-snapshot",
+    "dedupe_key": "f7964d4ec509bddf",
+    "title": "Start and Restore GPU Workloads in Seconds with NVIDIA Snapshot",
+    "issue_date": "2026-11-11",
+    "cluster_id": "developer_nvidia_com_5b5fe5ef",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0dd8d167e27024bb",
+    "canonical_url": "https://developer.nvidia.com/blog/manage-kubernetes-clusters-for-gpu-infrastructure-with-nvidia-kubernetes-engine",
+    "dedupe_key": "b964617ece9219d3",
+    "title": "Manage Kubernetes Clusters for GPU Infrastructure with NVIDIA Kubernetes Engine",
+    "issue_date": "2026-11-11",
+    "cluster_id": "developer_nvidia_com_8413d021",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5f6a9f8bb6c7f70a",
+    "canonical_url": "https://vercel.com/changelog/speed-insights-and-web-analytics-now-support-custom-environments",
+    "dedupe_key": "c8fe92bddbcdbd8f",
+    "title": "Speed Insights and Web Analytics now support custom environments",
+    "issue_date": "2026-11-11",
+    "cluster_id": "vercel_com_b2ceba84",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_11bd77d27b98a24a",
+    "canonical_url": "https://www.anthropic.com/news/roadshow-launch",
+    "dedupe_key": "b86054c135082f11",
+    "title": "Anthropic launches roadshow for proposed initial public offering",
+    "issue_date": "2026-11-11",
+    "cluster_id": "anthropic_com_d7ea589d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b6397f489660e19f",
+    "canonical_url": "https://huggingface.co/blog/hub-gcp-marketplace",
+    "dedupe_key": "b28b69d74c806993",
+    "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+    "issue_date": "2026-11-11",
+    "cluster_id": "huggingface_co_5aba5556",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_980de4fc0abaa149",
+    "canonical_url": "https://huggingface.co/blog/decision",
+    "dedupe_key": "c1495c96877322ce",
+    "title": "Decision Models in Hugging Face",
+    "issue_date": "2026-11-11",
+    "cluster_id": "huggingface_co_5c9051bf",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3aaa1a345f344e2a",
+    "canonical_url": "https://arxiv.org/list/cs.AI/recent?skip=480&amp%3Bshow=50",
+    "dedupe_key": "37ef04779c3cfdee",
+    "title": "Mon, 9 Nov 2026",
+    "issue_date": "2026-11-11",
+    "cluster_id": "arxiv_org_ab43209a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5e9b464d9ab2cc6b",
+    "canonical_url": "https://elevenlabs.io/blog/wav-vs-mp3",
+    "dedupe_key": "bbadb79a0598d66f",
+    "title": "WAV vs MP3: How to choose the right audio file format",
+    "issue_date": "2026-11-11",
+    "cluster_id": "elevenlabs_io_18059a1b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]

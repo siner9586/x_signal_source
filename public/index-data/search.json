@@ -1,8 +1,8 @@
 [
   {
-    "title": "GLM 5.3 Flash is now available in Token Pass",
-    "url": "https://vercel.com/changelog/glm-5-3-flash-is-now-available-in-token-pass",
-    "summary": "Token Pass now includes GLM 5.3 Flash , alongside Kimi K3, GLM 5.3, and DeepSeek V4.1 Flash (with more models to come). GLM 5.3 Flash is Z.ai's native multimodal coding model with a 1M-token context window. Token Pass is a $30/month subscription on Pro teams that grants $80 in monthly credit and runs through AI Gateway . Use it with any coding agent such as fx , Pi , Cline , Command Code etc. or build your own with the AI SDK, with Zero Data Retention enabled by default. Add ",
+    "title": "Gemini 4 Carbon now available on AI Gateway",
+    "url": "https://vercel.com/changelog/gemini-4-carbon-now-available-on-ai-gateway",
+    "summary": "Gemini 4 Carbon from Google is now available on AI Gateway. It is available at 50% off through November 30, 2026: Gemini 4 Carbon is built for complex software engineering, sustained agentic work, and cybersecurity defense. It has a 1M-token context window for working with large codebases and long inputs. On engineering tasks, Carbon carries demanding work through multiple stages, with improvements in coding, full-stack web development, and scientific reasoning. Its cybersecu",
     "tags": [
       "sdk",
       "ai_infra",
@@ -10,129 +10,28 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-11-10",
+    "date": "2026-11-11",
     "score": 71
   },
   {
-    "title": "Muse Ember now available on AI Gateway",
-    "url": "https://vercel.com/changelog/muse-ember-now-available-on-ai-gateway",
-    "summary": "Muse Ember from Meta is now available on AI Gateway . It is a lightweight reasoning model for the high-volume parts of an agent run, such as coding sub-tasks, tool calls, and document analysis. Muse Ember handles the bounded tasks agents repeat many times in a single run, like implementing a helper function, calling a tool, or summarizing a document. The model accepts text, image, and video input with a 1M-token context window, so an agent can pass it code, screenshots, docum",
+    "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+    "url": "https://deepmind.google/blog/introducing-alphaproof-code",
+    "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
     "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-11-10",
-    "score": 71
-  },
-  {
-    "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-    "url": "https://openai.com/index/control-room",
-    "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
-    "tags": [
-      "ai_models",
-      "official",
       "research",
-      "developer"
+      "multimodal",
+      "science",
+      "official"
     ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-11-10",
-    "score": 70
+    "author": "Google DeepMind",
+    "source": "deepmind.google",
+    "date": "2026-11-11",
+    "score": 69
   },
   {
-    "title": "CodeRabbit scales agentic software development and ships 20x more",
-    "url": "https://openai.com/index/coderabbit-codex-daybreak",
-    "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-11-10",
-    "score": 70
-  },
-  {
-    "title": "Decision models take 26% of requests; Anthropic now wins new teams 2:1",
-    "url": "https://vercel.com/blog/ai-gateway-production-index-november-2026",
-    "summary": "AI Gateway Production Index — November 2026 Every month, AI Gateway routes more than 100 trillion tokens between production applications and AI labs. That traffic gives us a view of what AI usage looks like in today’s enterprise and startup landscape across language, decision, voice, image, and video models. We publish it here monthly. See the Production Index reports from August , September , and October . November 2026 Summary In six weeks, decision models grew to one in fo",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-11-10",
-    "score": 68
-  },
-  {
-    "title": "Claude Fable 5.2 now available on AI Gateway",
-    "url": "https://vercel.com/changelog/claude-fable-5-2-now-available-on-ai-gateway",
-    "summary": "Claude Fable 5.2 from Anthropic is now available on AI Gateway . Fable 5.2 is built for open-ended technical work and improves on earlier Fable models in coding, reasoning, and vision. It can run long, ambiguous tasks unattended, and works as an orchestrator that hands simpler tasks to smaller models, or as an advisor that other Claude models consult on harder problems. It also communicates more clearly and generates output faster than earlier Fable models. Effort runs from l",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-11-10",
-    "score": 68
-  },
-  {
-    "title": "ChatGPT Enterprise now available in AWS Marketplace",
-    "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-    "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-11-10",
-    "score": 67
-  },
-  {
-    "title": "Kuken Industries searches 70 years of drawings in minutes",
-    "url": "https://openai.com/index/kuken",
-    "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-11-10",
-    "score": 67
-  },
-  {
-    "title": "What Is Eval-Driven Development? How to Improve AI Agents",
-    "url": "https://www.langchain.com/blog/what-is-eval-driven-development",
-    "summary": "Eval-driven development helps you build AI agents against a consistent set of metrics. Define good behavior, write the eval first, then compare experiments.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-11-10",
-    "score": 67
-  },
-  {
-    "title": "Make a Robot Arm Feel Weightless with NVIDIA Holoscan 5",
-    "url": "https://developer.nvidia.com/blog/make-a-robot-arm-feel-weightless-with-nvidia-holoscan-5",
-    "summary": "NVIDIA Technical Blog · Make a Robot Arm Feel Weightless with NVIDIA Holoscan 5",
+    "title": "Agent Substrate: Advancing Kubernetes for Agents at Scale",
+    "url": "https://developer.nvidia.com/blog/agent-substrate-advancing-kubernetes-for-agents-at-scale",
+    "summary": "NVIDIA Technical Blog · Agent Substrate: Advancing Kubernetes for Agents at Scale",
     "tags": [
       "gpu",
       "inference",
@@ -140,41 +39,187 @@
     ],
     "author": "NVIDIA AI",
     "source": "developer.nvidia.com",
-    "date": "2026-11-10",
+    "date": "2026-11-11",
+    "score": 69
+  },
+  {
+    "title": "Gemini 4 Carbon is now available",
+    "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available",
+    "summary": "Gemini 4 Carbon is now available 是 Google DeepMind 当日抓取到的公开新增条目。",
+    "tags": [
+      "research",
+      "multimodal",
+      "science",
+      "official"
+    ],
+    "author": "Google DeepMind",
+    "source": "deepmind.google",
+    "date": "2026-11-11",
+    "score": 68
+  },
+  {
+    "title": "Running AV Reasoning Models Within Onboard Compute and Latency Limits",
+    "url": "https://developer.nvidia.com/blog/running-av-reasoning-models-within-onboard-compute-and-latency-limits",
+    "summary": "NVIDIA Technical Blog · Running AV Reasoning Models Within Onboard Compute and Latency Limits",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-11-11",
+    "score": 68
+  },
+  {
+    "title": "Gilbert + Tobin rethinks the business of law with AI",
+    "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+    "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-11-11",
+    "score": 67
+  },
+  {
+    "title": "Helping caregivers use AI in everyday life",
+    "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+    "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-11-11",
+    "score": 67
+  },
+  {
+    "title": "Introducing Businesses in ChatGPT",
+    "url": "https://openai.com/index/introducing-businesses-chatgpt",
+    "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-11-11",
+    "score": 67
+  },
+  {
+    "title": "Closing the AI guidance gap in education",
+    "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+    "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-11-11",
+    "score": 67
+  },
+  {
+    "title": "Work at the Frontier: AI’s effect on freelance work",
+    "url": "https://openai.com/index/ai-effect-on-freelance-work",
+    "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-11-11",
+    "score": 67
+  },
+  {
+    "title": "Git security vulnerabilities announced",
+    "url": "https://github.blog/open-source/git/git-security-vulnerabilities-announced-7",
+    "summary": "Git is releasing updates addressing six security vulnerabilities affecting recursive clones, reference handling, merges, binary patches, and imports. Here is what users need to know. The post Git security vulnerabilities announced appeared first on The GitHub Blog .",
+    "tags": [
+      "ai_coding",
+      "developer_tools"
+    ],
+    "author": "GitHub Copilot",
+    "source": "github.blog",
+    "date": "2026-11-11",
+    "score": 67
+  },
+  {
+    "title": "How Workday Built an Enterprise-Scale AI Agent Platform with LangGraph and LangSmith",
+    "url": "https://www.langchain.com/blog/how-workday-built-an-enterprise-scale-ai-agent-platform-with-langgraph-and-langsmith",
+    "summary": "See how Workday used LangGraph and LangSmith to build an internal AI agent platform that cut prototype time from months to less than a day and compliance needs.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-11-11",
+    "score": 67
+  },
+  {
+    "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+    "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence",
+    "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+    "tags": [
+      "research",
+      "multimodal",
+      "science",
+      "official"
+    ],
+    "author": "Google DeepMind",
+    "source": "deepmind.google",
+    "date": "2026-11-11",
     "score": 66
   },
   {
-    "title": "Innovating with AI in the special chemicals industry",
-    "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry",
-    "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufacturer Lubrizol, digital transformation is all about giving researchers the tools to test ideas faster, make better-informed&#8230;",
+    "title": "Start and Restore GPU Workloads in Seconds with NVIDIA Snapshot",
+    "url": "https://developer.nvidia.com/blog/start-and-restore-gpu-workloads-in-seconds-with-nvidia-snapshot",
+    "summary": "NVIDIA Technical Blog · Start and Restore GPU Workloads in Seconds with NVIDIA Snapshot",
     "tags": [
-      "ai",
-      "research",
-      "society"
+      "gpu",
+      "inference",
+      "ai_infra"
     ],
-    "author": "MIT Technology Review AI",
-    "source": "technologyreview.com",
-    "date": "2026-11-10",
-    "score": 64
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-11-11",
+    "score": 66
   },
   {
-    "title": "🎙️ How I AI: How this founder built a better Duolingo with Codex",
-    "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-this-founder-built-a",
-    "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+    "title": "Manage Kubernetes Clusters for GPU Infrastructure with NVIDIA Kubernetes Engine",
+    "url": "https://developer.nvidia.com/blog/manage-kubernetes-clusters-for-gpu-infrastructure-with-nvidia-kubernetes-engine",
+    "summary": "NVIDIA Technical Blog · Manage Kubernetes Clusters for GPU Infrastructure with NVIDIA Kubernetes Engine",
     "tags": [
-      "product",
-      "growth",
-      "startup"
+      "gpu",
+      "inference",
+      "ai_infra"
     ],
-    "author": "Lenny's Newsletter",
-    "source": "lennysnewsletter.com",
-    "date": "2026-11-10",
-    "score": 64
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-11-11",
+    "score": 66
   },
   {
-    "title": "Vercel Sandbox snapshot creation is now up to 10x faster",
-    "url": "https://vercel.com/changelog/vercel-sandbox-snapshot-creation-is-now-up-to-10x-faster",
-    "summary": "Vercel Sandbox now creates snapshots up to 10x faster. Median time to snapshot is under 0.4 seconds, down from 4.4 seconds. Snapshot restore speed has also improved by 50% from 500ms to 250ms at p50. Snapshots are now able to write and restore by re-using frames within the Vercel Hive Snapshot (VHS) format. VHS now indexes data in a more efficient way which means that more read and write operations can be done in parallel. Snapshots can now restore more of your Sandbox base i",
+    "title": "Speed Insights and Web Analytics now support custom environments",
+    "url": "https://vercel.com/changelog/speed-insights-and-web-analytics-now-support-custom-environments",
+    "summary": "Speed Insights and Web Analytics now fully support custom environments . Previously, data captured on deployments to a custom environment was attributed to the Preview environment. That data is now attributed to the custom environment it came from, so you can track performance and traffic for staging, QA, or canary environments separately from Production and Preview. You can view this data in several places: Dashboard: use the Environment dropdown in Speed Insights and Web An",
     "tags": [
       "sdk",
       "ai_infra",
@@ -182,54 +227,27 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-11-10",
-    "score": 63
+    "date": "2026-11-11",
+    "score": 65
   },
   {
-    "title": "Workflow SDK now writes over WebSockets on Vercel",
-    "url": "https://vercel.com/changelog/workflow-writes-now-use-websockets-on-vercel",
-    "summary": "The Workflow SDK now sends event writes and stream writes to Vercel Workflows over a WebSocket by default, replacing one HTTP request per write, or per write group for streams. No code change is needed beyond upgrading to workflow@5.2.0 or later. Once you deploy the upgrade, new runs use it. In-flight runs finish on the deployment they started on. Existing streaming code works as is. A step that writes a burst of chunks, like AI tokens, sends them over the WebSocket once it o",
+    "title": "Anthropic launches roadshow for proposed initial public offering",
+    "url": "https://www.anthropic.com/news/roadshow-launch",
+    "summary": "Newsroom \\ Anthropic · Anthropic launches roadshow for proposed initial public offering",
     "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
+      "ai_models",
+      "safety",
+      "official"
     ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-11-10",
-    "score": 63
-  },
-  {
-    "title": "Build disk space on Vercel increased to 64 GB",
-    "url": "https://vercel.com/changelog/build-disk-space-on-vercel-increased-to-64-gb",
-    "summary": "Disk space for Vercel builds has increased from 32 GB to 64 GB on Basic and Standard machines, matching the capacity already available on Enhanced and Turbo. The additional space provides more room for the packages your project uses and the files generated during a build, reducing the risk of running out of disk space. The change applies automatically across all plans and build machine types at no additional charge, with no configuration changes required. Learn more in the bu",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-11-10",
-    "score": 63
-  },
-  {
-    "title": "ElevenAgents Campaign Manager works every contact to an outcome",
-    "url": "https://elevenlabs.io/blog/elevenagents-campaign-manager",
-    "summary": "Run outbound voice campaigns at scale with ElevenAgents. Upload contacts, set policies, and track every call, callback, and outcome in one view.",
-    "tags": [
-      "voice_ai",
-      "audio"
-    ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-11-10",
+    "author": "Anthropic",
+    "source": "anthropic.com",
+    "date": "2026-11-11",
     "score": 62
   },
   {
-    "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan&apos;s Demographics and Financial Context",
-    "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
-    "summary": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan&apos;s Demographics and Financial Context 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+    "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+    "summary": "Pay for Hugging Face Hub with your Google Cloud Account 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -237,13 +255,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-11-10",
+    "date": "2026-11-11",
     "score": 62
   },
   {
-    "title": "Your Experts Have Partners. There&apos;s HOPE for Keeping Them Together",
-    "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-    "summary": "Your Experts Have Partners. There&apos;s HOPE for Keeping Them Together 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Decision Models in Hugging Face",
+    "url": "https://huggingface.co/blog/decision",
+    "summary": "Decision Models in Hugging Face 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -251,69 +269,13 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-11-10",
+    "date": "2026-11-11",
     "score": 62
   },
   {
-    "title": "Claude Fable 5.2 review: fast, creative, and finally not annoying",
-    "url": "https://www.lennysnewsletter.com/p/claude-fable-52-review-fast-creative",
-    "summary": "Watch now (25 mins) | &#127897;&#65039; My first-look at Fable 5.2: what it built for me, where it fell down, and whether it belongs in your daily AI stack",
-    "tags": [
-      "product",
-      "growth",
-      "startup"
-    ],
-    "author": "Lenny's Newsletter",
-    "source": "lennysnewsletter.com",
-    "date": "2026-11-10",
-    "score": 62
-  },
-  {
-    "title": "How this founder built a better Duolingo with Codex | William Imoh",
-    "url": "https://www.lennysnewsletter.com/p/how-this-founder-built-a-better-duolingo",
-    "summary": "Watch now (39 mins) | &#127897;&#65039; Hackmamba founder William Imoh shows the native app he built with Codex to learn Norwegian, and the Lord of the Rings Grok bot fellowship that helps run his company",
-    "tags": [
-      "product",
-      "growth",
-      "startup"
-    ],
-    "author": "Lenny's Newsletter",
-    "source": "lennysnewsletter.com",
-    "date": "2026-11-10",
-    "score": 62
-  },
-  {
-    "title": "The backlash about data centers might really just be about electricity",
-    "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It’s also where&#8230;",
-    "tags": [
-      "ai",
-      "research",
-      "society"
-    ],
-    "author": "MIT Technology Review AI",
-    "source": "technologyreview.com",
-    "date": "2026-11-10",
-    "score": 61
-  },
-  {
-    "title": "Nancy Pelosi’s replacement is ready to regulate AI",
-    "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai",
-    "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy.&#160; I spoke with Wiener on Friday, only a&#8230;",
-    "tags": [
-      "ai",
-      "research",
-      "society"
-    ],
-    "author": "MIT Technology Review AI",
-    "source": "technologyreview.com",
-    "date": "2026-11-10",
-    "score": 61
-  },
-  {
-    "title": "Fri, 6 Nov 2026",
-    "url": "https://arxiv.org/list/cs.AI/recent?skip=220&amp%3Bshow=50",
-    "summary": "Artificial Intelligence · Fri, 6 Nov 2026",
+    "title": "Mon, 9 Nov 2026",
+    "url": "https://arxiv.org/list/cs.AI/recent?skip=480&amp%3Bshow=50",
+    "summary": "Artificial Intelligence · Mon, 9 Nov 2026",
     "tags": [
       "paper",
       "ai",
@@ -321,20 +283,20 @@
     ],
     "author": "arXiv CS AI",
     "source": "arxiv.org",
-    "date": "2026-11-10",
+    "date": "2026-11-11",
     "score": 60
   },
   {
-    "title": "What is an API endpoint? A guide to connected software",
-    "url": "https://elevenlabs.io/blog/what-is-an-api-endpoint",
-    "summary": "Learn what an API endpoint is, how requests and responses work, common HTTP methods, and how to test and secure endpoints, with ElevenAPI examples.",
+    "title": "WAV vs MP3: How to choose the right audio file format",
+    "url": "https://elevenlabs.io/blog/wav-vs-mp3",
+    "summary": "WAV vs MP3? Compare file size, sound quality, and compatibility, and learn which audio format to use for recording, editing, sharing, and voice cloning",
     "tags": [
       "voice_ai",
       "audio"
     ],
     "author": "ElevenLabs",
     "source": "elevenlabs.io",
-    "date": "2026-11-10",
+    "date": "2026-11-11",
     "score": 59
   }
 ]
