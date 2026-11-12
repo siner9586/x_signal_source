@@ -1,8 +1,53 @@
 [
   {
-    "title": "Gemini 4 Carbon now available on AI Gateway",
-    "url": "https://vercel.com/changelog/gemini-4-carbon-now-available-on-ai-gateway",
-    "summary": "Gemini 4 Carbon from Google is now available on AI Gateway. It is available at 50% off through November 30, 2026: Gemini 4 Carbon is built for complex software engineering, sustained agentic work, and cybersecurity defense. It has a 1M-token context window for working with large codebases and long inputs. On engineering tasks, Carbon carries demanding work through multiple stages, with improvements in coding, full-stack web development, and scientific reasoning. Its cybersecu",
+    "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+    "url": "https://openai.com/index/cogent-security",
+    "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-11-12",
+    "score": 70
+  },
+  {
+    "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+    "url": "https://openai.com/index/jiostar-vijay-seshadri",
+    "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-11-12",
+    "score": 68
+  },
+  {
+    "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+    "url": "https://openai.com/index/singapore-airlines-travel-work",
+    "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-11-12",
+    "score": 68
+  },
+  {
+    "title": "Gemini Decision 1 now available on AI Gateway",
+    "url": "https://vercel.com/changelog/gemini-decision-1-now-available-on-ai-gateway",
+    "summary": "Gemini Decision 1 from Google is now available on AI Gateway. The multimodal decision model works with text, images, audio, video, and PDF documents, returning Boolean probabilities, choices, and scores. Use it to route requests, check policies, filter agent tools, or rank results without generating output tokens. Use google/gemini-decision-1 with the AI SDK, TypeSafe-compatible API, or Decisions API. PDF, audio, and video inputs are supported through AI SDK 7. The TypeSafe-c",
     "tags": [
       "sdk",
       "ai_infra",
@@ -10,13 +55,55 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-11-11",
-    "score": 71
+    "date": "2026-11-12",
+    "score": 68
   },
   {
-    "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-    "url": "https://deepmind.google/blog/introducing-alphaproof-code",
-    "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
+    "title": "Building the interaction layer for AI: Everything announced at ElevenLabs Summit NYC",
+    "url": "https://elevenlabs.io/blog/nyc-summit",
+    "summary": "ElevenLabs Blog - Company, Research & Product Updates · Building the interaction layer for AI: Everything announced at ElevenLabs Summit NYC",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-11-12",
+    "score": 67
+  },
+  {
+    "title": "ChatGPT Plus for veterans and servicemembers",
+    "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+    "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-11-12",
+    "score": 67
+  },
+  {
+    "title": "Harness adapters: Safe RL for efficient agentic development harness-hub • 5 days ago • 48",
+    "url": "https://huggingface.co/blog/harness-hub/harness-adapters",
+    "summary": "Hugging Face – Blog · Harness adapters: Safe RL for efficient agentic development harness-hub • 5 days ago • 48",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-11-12",
+    "score": 67
+  },
+  {
+    "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+    "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease",
+    "summary": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
     "tags": [
       "research",
       "multimodal",
@@ -25,13 +112,13 @@
     ],
     "author": "Google DeepMind",
     "source": "deepmind.google",
-    "date": "2026-11-11",
-    "score": 69
+    "date": "2026-11-12",
+    "score": 66
   },
   {
-    "title": "Agent Substrate: Advancing Kubernetes for Agents at Scale",
-    "url": "https://developer.nvidia.com/blog/agent-substrate-advancing-kubernetes-for-agents-at-scale",
-    "summary": "NVIDIA Technical Blog · Agent Substrate: Advancing Kubernetes for Agents at Scale",
+    "title": "Validating GPU Platforms with Runtime AI Inventory via the NVIDIA DSX AI Factory",
+    "url": "https://developer.nvidia.com/blog/validating-gpu-platforms-with-runtime-ai-inventory-via-the-nvidia-dsx-ai-factory",
+    "summary": "NVIDIA Technical Blog · Validating GPU Platforms with Runtime AI Inventory via the NVIDIA DSX AI Factory",
     "tags": [
       "gpu",
       "inference",
@@ -39,130 +126,41 @@
     ],
     "author": "NVIDIA AI",
     "source": "developer.nvidia.com",
-    "date": "2026-11-11",
-    "score": 69
+    "date": "2026-11-12",
+    "score": 66
   },
   {
-    "title": "Gemini 4 Carbon is now available",
-    "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available",
-    "summary": "Gemini 4 Carbon is now available 是 Google DeepMind 当日抓取到的公开新增条目。",
+    "title": "MiniMax H3 Image and Highspeed now available on AI Gateway",
+    "url": "https://vercel.com/changelog/minimax-h3-image-and-highspeed-now-available-on-ai-gateway",
+    "summary": "MiniMax H3 Image and MiniMax H3 Image Highspeed are now available on AI Gateway. Generate images from text or edit existing images with one API key and no separate MiniMax account. Both models support custom dimensions and aspect ratios, including 2K and 4K outputs. Use a text prompt to create a product visual or illustration, then pass the image back with instructions to change colors, subjects, or composition. The Highspeed variant offers faster generation with the same gen",
     "tags": [
-      "research",
-      "multimodal",
-      "science",
-      "official"
+      "sdk",
+      "ai_infra",
+      "frontend"
     ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-11-11",
-    "score": 68
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-11-12",
+    "score": 65
   },
   {
-    "title": "Running AV Reasoning Models Within Onboard Compute and Latency Limits",
-    "url": "https://developer.nvidia.com/blog/running-av-reasoning-models-within-onboard-compute-and-latency-limits",
-    "summary": "NVIDIA Technical Blog · Running AV Reasoning Models Within Onboard Compute and Latency Limits",
+    "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+    "url": "https://huggingface.co/blog/qvac/botpsy",
+    "summary": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
+      "open_source",
+      "papers",
+      "models"
     ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-11-11",
-    "score": 68
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-11-12",
+    "score": 65
   },
   {
-    "title": "Gilbert + Tobin rethinks the business of law with AI",
-    "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
-    "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-11-11",
-    "score": 67
-  },
-  {
-    "title": "Helping caregivers use AI in everyday life",
-    "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-    "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-11-11",
-    "score": 67
-  },
-  {
-    "title": "Introducing Businesses in ChatGPT",
-    "url": "https://openai.com/index/introducing-businesses-chatgpt",
-    "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-11-11",
-    "score": 67
-  },
-  {
-    "title": "Closing the AI guidance gap in education",
-    "url": "https://openai.com/index/closing-ai-guidance-gap-education",
-    "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-11-11",
-    "score": 67
-  },
-  {
-    "title": "Work at the Frontier: AI’s effect on freelance work",
-    "url": "https://openai.com/index/ai-effect-on-freelance-work",
-    "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-11-11",
-    "score": 67
-  },
-  {
-    "title": "Git security vulnerabilities announced",
-    "url": "https://github.blog/open-source/git/git-security-vulnerabilities-announced-7",
-    "summary": "Git is releasing updates addressing six security vulnerabilities affecting recursive clones, reference handling, merges, binary patches, and imports. Here is what users need to know. The post Git security vulnerabilities announced appeared first on The GitHub Blog .",
-    "tags": [
-      "ai_coding",
-      "developer_tools"
-    ],
-    "author": "GitHub Copilot",
-    "source": "github.blog",
-    "date": "2026-11-11",
-    "score": 67
-  },
-  {
-    "title": "How Workday Built an Enterprise-Scale AI Agent Platform with LangGraph and LangSmith",
-    "url": "https://www.langchain.com/blog/how-workday-built-an-enterprise-scale-ai-agent-platform-with-langgraph-and-langsmith",
-    "summary": "See how Workday used LangGraph and LangSmith to build an internal AI agent platform that cut prototype time from months to less than a day and compliance needs.",
+    "title": "How our GTM Agent builds consistent, high-quality sales artifacts",
+    "url": "https://www.langchain.com/blog/gtm-agent-high-quality-sales-artifacts",
+    "summary": "Learn how LangChain built GTM Agent on Deep Agents to build high-quality, custom sales artifacts trained on business context.",
     "tags": [
       "agents",
       "rag",
@@ -170,133 +168,126 @@
     ],
     "author": "LangChain",
     "source": "langchain.com",
-    "date": "2026-11-11",
-    "score": 67
-  },
-  {
-    "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
-    "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence",
-    "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
-    "tags": [
-      "research",
-      "multimodal",
-      "science",
-      "official"
-    ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-11-11",
-    "score": 66
-  },
-  {
-    "title": "Start and Restore GPU Workloads in Seconds with NVIDIA Snapshot",
-    "url": "https://developer.nvidia.com/blog/start-and-restore-gpu-workloads-in-seconds-with-nvidia-snapshot",
-    "summary": "NVIDIA Technical Blog · Start and Restore GPU Workloads in Seconds with NVIDIA Snapshot",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-11-11",
-    "score": 66
-  },
-  {
-    "title": "Manage Kubernetes Clusters for GPU Infrastructure with NVIDIA Kubernetes Engine",
-    "url": "https://developer.nvidia.com/blog/manage-kubernetes-clusters-for-gpu-infrastructure-with-nvidia-kubernetes-engine",
-    "summary": "NVIDIA Technical Blog · Manage Kubernetes Clusters for GPU Infrastructure with NVIDIA Kubernetes Engine",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-11-11",
-    "score": 66
-  },
-  {
-    "title": "Speed Insights and Web Analytics now support custom environments",
-    "url": "https://vercel.com/changelog/speed-insights-and-web-analytics-now-support-custom-environments",
-    "summary": "Speed Insights and Web Analytics now fully support custom environments . Previously, data captured on deployments to a custom environment was attributed to the Preview environment. That data is now attributed to the custom environment it came from, so you can track performance and traffic for staging, QA, or canary environments separately from Production and Preview. You can view this data in several places: Dashboard: use the Environment dropdown in Speed Insights and Web An",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-11-11",
+    "date": "2026-11-12",
     "score": 65
   },
   {
-    "title": "Anthropic launches roadshow for proposed initial public offering",
-    "url": "https://www.anthropic.com/news/roadshow-launch",
-    "summary": "Newsroom \\ Anthropic · Anthropic launches roadshow for proposed initial public offering",
-    "tags": [
-      "ai_models",
-      "safety",
-      "official"
-    ],
-    "author": "Anthropic",
-    "source": "anthropic.com",
-    "date": "2026-11-11",
-    "score": 62
-  },
-  {
-    "title": "Pay for Hugging Face Hub with your Google Cloud Account",
-    "url": "https://huggingface.co/blog/hub-gcp-marketplace",
-    "summary": "Pay for Hugging Face Hub with your Google Cloud Account 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-11-11",
-    "score": 62
-  },
-  {
-    "title": "Decision Models in Hugging Face",
-    "url": "https://huggingface.co/blog/decision",
-    "summary": "Decision Models in Hugging Face 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-11-11",
-    "score": 62
-  },
-  {
-    "title": "Mon, 9 Nov 2026",
-    "url": "https://arxiv.org/list/cs.AI/recent?skip=480&amp%3Bshow=50",
-    "summary": "Artificial Intelligence · Mon, 9 Nov 2026",
-    "tags": [
-      "paper",
-      "ai",
-      "arxiv"
-    ],
-    "author": "arXiv CS AI",
-    "source": "arxiv.org",
-    "date": "2026-11-11",
-    "score": 60
-  },
-  {
-    "title": "WAV vs MP3: How to choose the right audio file format",
-    "url": "https://elevenlabs.io/blog/wav-vs-mp3",
-    "summary": "WAV vs MP3? Compare file size, sound quality, and compatibility, and learn which audio format to use for recording, editing, sharing, and voice cloning",
+    "title": "Introducing the ElevenLabs Marketplace for enterprise-ready AI applications",
+    "url": "https://elevenlabs.io/blog/marketplace",
+    "summary": "Introducing the ElevenLabs Marketplace: discover industry-specific AI agents from partners like Salesforce, IBM, Zendesk, and Twilio.",
     "tags": [
       "voice_ai",
       "audio"
     ],
     "author": "ElevenLabs",
     "source": "elevenlabs.io",
-    "date": "2026-11-11",
-    "score": 59
+    "date": "2026-11-12",
+    "score": 64
+  },
+  {
+    "title": "ElevenLabs expands partner program to help enterprises adopt AI agents faster",
+    "url": "https://elevenlabs.io/blog/partner-program",
+    "summary": "ElevenLabs launches its Partner Program: more than 550 partners in 44 countries, new certifications, and co-selling to speed enterprise AI adoption.",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-11-12",
+    "score": 64
+  },
+  {
+    "title": "McKinsey and ElevenLabs collaborate to take natural AI conversations to enterprise scale",
+    "url": "https://elevenlabs.io/blog/mckinsey",
+    "summary": "McKinsey and ElevenLabs announce an alliance to help enterprises prove and scale conversational AI agents, starting with telecom and insurance.",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-11-12",
+    "score": 64
+  },
+  {
+    "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+    "url": "https://huggingface.co/blog/token-pooling",
+    "summary": "Token Pooling-Aware Training for Multi-Vector Embedding Models 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-11-12",
+    "score": 63
+  },
+  {
+    "title": "How enterprise clients are putting ElevenLabs AI to work",
+    "url": "https://elevenlabs.io/blog/enterprise-nyc-summit",
+    "summary": "See how Yahoo, Westgate, KPN, Doppel, Pocket, and Twilio put ElevenLabs voice AI to work, from front-desk agents to Dutch fine-tuning.",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-11-12",
+    "score": 62
+  },
+  {
+    "title": "ElevenLabs and NVIDIA expand collaboration to bring voice agents to enterprises and governments globally",
+    "url": "https://elevenlabs.io/blog/nvidia",
+    "summary": "ElevenLabs and NVIDIA expand their partnership with Nemotron in ElevenAgents, 15MW of compute, and a sovereign voice agent for Poland’s e-Health.",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-11-12",
+    "score": 62
+  },
+  {
+    "title": "Product · Nov 2, 2026 Introducing Grok Bot 1.0",
+    "url": "https://x.ai/news/grok-bot-1-0",
+    "summary": "SpaceXSI · Product · Nov 2, 2026 Introducing Grok Bot 1.0",
+    "tags": [
+      "ai_models",
+      "reasoning"
+    ],
+    "author": "xAI",
+    "source": "x.ai",
+    "date": "2026-11-12",
+    "score": 62
+  },
+  {
+    "title": "Claude Code + Obsidian: My family’s AI brain | Scott Farrar",
+    "url": "https://www.lennysnewsletter.com/p/claude-code-obsidian-my-familys-ai",
+    "summary": "Watch now (34 mins) | &#127897;&#65039; Scott Farrar walks through the Claude Code and Obsidian system he built to track appliances, chase insurance quotes, and keep household projects moving",
+    "tags": [
+      "product",
+      "growth",
+      "startup"
+    ],
+    "author": "Lenny's Newsletter",
+    "source": "lennysnewsletter.com",
+    "date": "2026-11-12",
+    "score": 62
+  },
+  {
+    "title": "Voice cloning for content creators: Scale your content workflows with voice AI",
+    "url": "https://elevenlabs.io/blog/voice-cloning-for-content-creators",
+    "summary": "Learn how voice cloning for content creators helps improve existing workflows across podcasts, YouTube, digital classes, and more with ElevenCreative",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-11-12",
+    "score": 61
   }
 ]

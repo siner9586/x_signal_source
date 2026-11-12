@@ -30116,5 +30116,215 @@
     "cluster_id": "elevenlabs_io_18059a1b",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_01647e784642a10f",
+    "canonical_url": "https://openai.com/index/cogent-security",
+    "dedupe_key": "e39fcc6d8f269e06",
+    "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+    "issue_date": "2026-11-12",
+    "cluster_id": "openai_com_41dd8024",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4bd9ce1dc168e3b0",
+    "canonical_url": "https://openai.com/index/jiostar-vijay-seshadri",
+    "dedupe_key": "63985686135d8e31",
+    "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+    "issue_date": "2026-11-12",
+    "cluster_id": "openai_com_032ef03c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d6c7bd8e1accd18e",
+    "canonical_url": "https://openai.com/index/singapore-airlines-travel-work",
+    "dedupe_key": "b45e166bfe0230af",
+    "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+    "issue_date": "2026-11-12",
+    "cluster_id": "openai_com_9793fa47",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ce85ef490040465d",
+    "canonical_url": "https://vercel.com/changelog/gemini-decision-1-now-available-on-ai-gateway",
+    "dedupe_key": "53c6a341c2c495c5",
+    "title": "Gemini Decision 1 now available on AI Gateway",
+    "issue_date": "2026-11-12",
+    "cluster_id": "vercel_com_86a4bdbe",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0fda9edd2cabf5c6",
+    "canonical_url": "https://elevenlabs.io/blog/nyc-summit",
+    "dedupe_key": "d4918a99ed6f841a",
+    "title": "Building the interaction layer for AI: Everything announced at ElevenLabs Summit NYC",
+    "issue_date": "2026-11-12",
+    "cluster_id": "elevenlabs_io_56a05815",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d9a9725fb0f21f7b",
+    "canonical_url": "https://openai.com/index/chatgpt-plus-for-veterans",
+    "dedupe_key": "011653f2e7fe0a5f",
+    "title": "ChatGPT Plus for veterans and servicemembers",
+    "issue_date": "2026-11-12",
+    "cluster_id": "openai_com_d8665e51",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_60ad1fed1b0551a1",
+    "canonical_url": "https://huggingface.co/blog/harness-hub/harness-adapters",
+    "dedupe_key": "2997e7dc0a50aa34",
+    "title": "Harness adapters: Safe RL for efficient agentic development harness-hub • 5 days ago • 48",
+    "issue_date": "2026-11-12",
+    "cluster_id": "huggingface_co_730df350",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_50fb12d7c88e4cb2",
+    "canonical_url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease",
+    "dedupe_key": "cdaac619189c90e9",
+    "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+    "issue_date": "2026-11-12",
+    "cluster_id": "deepmind_google_87a29925",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1548689912fd2755",
+    "canonical_url": "https://developer.nvidia.com/blog/validating-gpu-platforms-with-runtime-ai-inventory-via-the-nvidia-dsx-ai-factory",
+    "dedupe_key": "f533da3239968a8d",
+    "title": "Validating GPU Platforms with Runtime AI Inventory via the NVIDIA DSX AI Factory",
+    "issue_date": "2026-11-12",
+    "cluster_id": "developer_nvidia_com_7dfbc358",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_371485d7629701c9",
+    "canonical_url": "https://vercel.com/changelog/minimax-h3-image-and-highspeed-now-available-on-ai-gateway",
+    "dedupe_key": "9401827772be2b65",
+    "title": "MiniMax H3 Image and Highspeed now available on AI Gateway",
+    "issue_date": "2026-11-12",
+    "cluster_id": "vercel_com_b157fd1f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_cd8a3d41b916497c",
+    "canonical_url": "https://huggingface.co/blog/qvac/botpsy",
+    "dedupe_key": "ff4540b380f97ae7",
+    "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+    "issue_date": "2026-11-12",
+    "cluster_id": "huggingface_co_75830c06",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1386788305659611",
+    "canonical_url": "https://www.langchain.com/blog/gtm-agent-high-quality-sales-artifacts",
+    "dedupe_key": "2412558443dc0b8d",
+    "title": "How our GTM Agent builds consistent, high-quality sales artifacts",
+    "issue_date": "2026-11-12",
+    "cluster_id": "langchain_com_bac68d5d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c6db661b47aa4950",
+    "canonical_url": "https://elevenlabs.io/blog/marketplace",
+    "dedupe_key": "9dc59262374bace6",
+    "title": "Introducing the ElevenLabs Marketplace for enterprise-ready AI applications",
+    "issue_date": "2026-11-12",
+    "cluster_id": "elevenlabs_io_a8f79bc3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b3a6a04a5607c203",
+    "canonical_url": "https://elevenlabs.io/blog/partner-program",
+    "dedupe_key": "41f1526aa9291ce3",
+    "title": "ElevenLabs expands partner program to help enterprises adopt AI agents faster",
+    "issue_date": "2026-11-12",
+    "cluster_id": "elevenlabs_io_4f8dbf98",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e2e51ca44e2e73bc",
+    "canonical_url": "https://elevenlabs.io/blog/mckinsey",
+    "dedupe_key": "be5920802a1735c1",
+    "title": "McKinsey and ElevenLabs collaborate to take natural AI conversations to enterprise scale",
+    "issue_date": "2026-11-12",
+    "cluster_id": "elevenlabs_io_96436279",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ab7b01b3d2677519",
+    "canonical_url": "https://huggingface.co/blog/token-pooling",
+    "dedupe_key": "c3be67a358788347",
+    "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+    "issue_date": "2026-11-12",
+    "cluster_id": "huggingface_co_e5a81a64",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0f44e86e3c0a59a9",
+    "canonical_url": "https://elevenlabs.io/blog/enterprise-nyc-summit",
+    "dedupe_key": "a1e5f2bfc1f537aa",
+    "title": "How enterprise clients are putting ElevenLabs AI to work",
+    "issue_date": "2026-11-12",
+    "cluster_id": "elevenlabs_io_7f9dcdfe",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2541622a01e99b4f",
+    "canonical_url": "https://elevenlabs.io/blog/nvidia",
+    "dedupe_key": "2fc5093b8db35288",
+    "title": "ElevenLabs and NVIDIA expand collaboration to bring voice agents to enterprises and governments globally",
+    "issue_date": "2026-11-12",
+    "cluster_id": "elevenlabs_io_97db7e5f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_74a4c212f436edff",
+    "canonical_url": "https://x.ai/news/grok-bot-1-0",
+    "dedupe_key": "7fb4f9bddbacb845",
+    "title": "Product · Nov 2, 2026 Introducing Grok Bot 1.0",
+    "issue_date": "2026-11-12",
+    "cluster_id": "x_ai_67a8f7e2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c2b71702cb054733",
+    "canonical_url": "https://www.lennysnewsletter.com/p/claude-code-obsidian-my-familys-ai",
+    "dedupe_key": "c1267fd41375e38d",
+    "title": "Claude Code + Obsidian: My family’s AI brain | Scott Farrar",
+    "issue_date": "2026-11-12",
+    "cluster_id": "lennysnewsletter_com_a64e50f4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_74791588826a04f5",
+    "canonical_url": "https://elevenlabs.io/blog/voice-cloning-for-content-creators",
+    "dedupe_key": "9df42bb1df25e4f1",
+    "title": "Voice cloning for content creators: Scale your content workflows with voice AI",
+    "issue_date": "2026-11-12",
+    "cluster_id": "elevenlabs_io_3e383435",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
