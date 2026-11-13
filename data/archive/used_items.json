@@ -30326,5 +30326,205 @@
     "cluster_id": "elevenlabs_io_3e383435",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5f5bf4c661c7e893",
+    "canonical_url": "https://openai.com/business/customer-stories/amplitude",
+    "dedupe_key": "bc3f1cfd688dd11a",
+    "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+    "issue_date": "2026-11-13",
+    "cluster_id": "openai_com_0c70a89e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_558af3df9e0462ab",
+    "canonical_url": "https://vercel.com/changelog/gemini-4-hydrogen-now-available-on-ai-gateway",
+    "dedupe_key": "6ed1aa0627c48159",
+    "title": "Gemini 4 Hydrogen now available on AI Gateway",
+    "issue_date": "2026-11-13",
+    "cluster_id": "vercel_com_1449f853",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5066c03c7e58af66",
+    "canonical_url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills",
+    "dedupe_key": "42fba243da4bcb08",
+    "title": "Build once, run on any agent: A practical guide to agent skills",
+    "issue_date": "2026-11-13",
+    "cluster_id": "github_blog_a11bc865",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_db0f124cb93e1db8",
+    "canonical_url": "https://openai.com/business/customer-stories/gondola",
+    "dedupe_key": "8eb213789a2b29df",
+    "title": "Gondola doubles revenue as its team builds more with Codex",
+    "issue_date": "2026-11-13",
+    "cluster_id": "openai_com_3d44bd20",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5cc7861ef94fae68",
+    "canonical_url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+    "dedupe_key": "015b9a79de698b6b",
+    "title": "Holiday Extras is rethinking what it can build with Codex",
+    "issue_date": "2026-11-13",
+    "cluster_id": "openai_com_09915538",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_76dd9d196cf13f3f",
+    "canonical_url": "https://openai.com/index/children-first-declaration",
+    "dedupe_key": "4698485524878dd2",
+    "title": "Supporting research on AI and children’s safety",
+    "issue_date": "2026-11-13",
+    "cluster_id": "openai_com_380c1efe",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_10221aae26b09812",
+    "canonical_url": "https://github.blog/news-insights/company-news/github-availability-report-october-2026",
+    "dedupe_key": "7544906fc56cfaa6",
+    "title": "GitHub availability report: October 2026",
+    "issue_date": "2026-11-13",
+    "cluster_id": "github_blog_0bbc254e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5e7b12c1c4ac5f67",
+    "canonical_url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
+    "dedupe_key": "e42ce0be85c2653e",
+    "title": "Introducing Gemini 4 Hydrogen",
+    "issue_date": "2026-11-13",
+    "cluster_id": "deepmind_google_a8a719d9",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_eab9e4cade333afe",
+    "canonical_url": "https://www.llamaindex.ai/blog/introducing-parsebench-v2",
+    "dedupe_key": "af9bb559d968b662",
+    "title": "Introducing ParseBench-2: The New Standard for Document Parsing->",
+    "issue_date": "2026-11-13",
+    "cluster_id": "llamaindex_ai_f2213e17",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a9e9f5a6585e8918",
+    "canonical_url": "https://elevenlabs.io/blog/customer-service-skills",
+    "dedupe_key": "441d0e11e050e828",
+    "title": "7 customer service skills every human and AI agent needs (with examples)",
+    "issue_date": "2026-11-13",
+    "cluster_id": "elevenlabs_io_3dc9b259",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_260acce0ec749584",
+    "canonical_url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+    "dedupe_key": "04338d55d911c886",
+    "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+    "issue_date": "2026-11-13",
+    "cluster_id": "huggingface_co_7bce64ba",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f23ecb3ee19ab44e",
+    "canonical_url": "https://huggingface.co/blog/3d-lora-finetuning",
+    "dedupe_key": "2fb787822a7d5526",
+    "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+    "issue_date": "2026-11-13",
+    "cluster_id": "huggingface_co_5ed56b1a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_310f768ec34f7fa6",
+    "canonical_url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking",
+    "dedupe_key": "77b3b6e00c203544",
+    "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+    "issue_date": "2026-11-13",
+    "cluster_id": "technologyreview_com_cb68a107",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d129a4c73bffb979",
+    "canonical_url": "https://arxiv.org/list/cs.AI/recent?skip=248&amp%3Bshow=50",
+    "dedupe_key": "99036d20a1282b7e",
+    "title": "Tue, 10 Nov 2026",
+    "issue_date": "2026-11-13",
+    "cluster_id": "arxiv_org_293de165",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9933e7d1b3f512f1",
+    "canonical_url": "https://elevenlabs.io/blog/impact-nyc-summit",
+    "dedupe_key": "08939bcc5ed47a14",
+    "title": "ElevenLabs brings free voice restoration to veterans, songwriters, and more patients",
+    "issue_date": "2026-11-13",
+    "cluster_id": "elevenlabs_io_867e449e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a6c5aa34f0f8c4f1",
+    "canonical_url": "https://elevenlabs.io/blog/scribe-v3",
+    "dedupe_key": "bd3667566033b319",
+    "title": "Introducing Scribe v3 and v3 Live, our most accurate speech to text models",
+    "issue_date": "2026-11-13",
+    "cluster_id": "elevenlabs_io_68a45fb5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_084743474560282d",
+    "canonical_url": "https://stratechery.com/2026/an-interview-with-roblox-ceo-david-baszucki-about-aggregating-play",
+    "dedupe_key": "ec673fefdec35e78",
+    "title": "An Interview With Roblox CEO David Baszucki About Aggregating Play",
+    "issue_date": "2026-11-13",
+    "cluster_id": "stratechery_com_1c4c33cf",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_08ba531d7bf28edc",
+    "canonical_url": "https://stratechery.com/2026/jensen-huangs-affair-the-culper-report-huangs-righteousness",
+    "dedupe_key": "0ac75216d0f1c975",
+    "title": "Jensen Huang&#8217;s Affair, The Culper Report, Huang&#8217;s Righteousness",
+    "issue_date": "2026-11-13",
+    "cluster_id": "stratechery_com_2939d1f2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1543d1f1249ec5fb",
+    "canonical_url": "https://stratechery.com/2026/intel-earnings-amd-earnings-intel-and-amds-divergence",
+    "dedupe_key": "00864296e7c85cf7",
+    "title": "Intel Earnings, AMD Earnings, Intel and AMD&#8217;s Divergence",
+    "issue_date": "2026-11-13",
+    "cluster_id": "stratechery_com_fcf2c00c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b3d12d68efd9c436",
+    "canonical_url": "https://stratechery.com/2026/the-jensen-huang-story-gets-worse-washington-vs-new-york-silicon-valley",
+    "dedupe_key": "bb110f87639733e2",
+    "title": "The Jensen Huang Story Gets Worse, Washington vs. New York, Silicon Valley",
+    "issue_date": "2026-11-13",
+    "cluster_id": "stratechery_com_d9f9d5f1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
