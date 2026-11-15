@@ -30766,5 +30766,95 @@
     "cluster_id": "huggingface_co_16aac141",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ade42168e81ef069",
+    "canonical_url": "https://www.lennysnewsletter.com/p/community-wisdom-when-you-become",
+    "dedupe_key": "71341de3638672ec",
+    "title": "🧠 Community Wisdom: When you become the bottleneck for your AI agents, the PULL framework for PMs, product growth vs. growth marketing, boosting feedback response rates, and more",
+    "issue_date": "2026-11-15",
+    "cluster_id": "lennysnewsletter_com_e8c873fd",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ad87b474e30bf275",
+    "canonical_url": "https://www.langchain.com/blog/goal-engineering",
+    "dedupe_key": "b9ad1b9f22af6f6d",
+    "title": "Goal Engineering",
+    "issue_date": "2026-11-15",
+    "cluster_id": "langchain_com_1658959a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9fe89ccbc5aab0bb",
+    "canonical_url": "https://huggingface.co/blog/allenai/xybench",
+    "dedupe_key": "46635a088d2f3a39",
+    "title": "XYBench: Helping with the problem behind the question",
+    "issue_date": "2026-11-15",
+    "cluster_id": "huggingface_co_2659946f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a47993c28c48d9ad",
+    "canonical_url": "https://elevenlabs.io/blog/open-source-tts-vs-paid-apis",
+    "dedupe_key": "374fb5622eb8a6f7",
+    "title": "Open source TTS vs paid APIs: How to choose wisely",
+    "issue_date": "2026-11-15",
+    "cluster_id": "elevenlabs_io_b242a11b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d15d06a35b34d33f",
+    "canonical_url": "https://elevenlabs.io/blog/introducing-forward-deployed-creatives",
+    "dedupe_key": "acb35390b189ef89",
+    "title": "Introducing Forward Deployed Creatives in ElevenCreative",
+    "issue_date": "2026-11-15",
+    "cluster_id": "elevenlabs_io_3de1e596",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_35e99869fd3f7b02",
+    "canonical_url": "https://arxiv.org/list/cs.CL/recent?skip=135&amp%3Bshow=50",
+    "dedupe_key": "7a95d998629a71a1",
+    "title": "Wed, 11 Nov 2026",
+    "issue_date": "2026-11-15",
+    "cluster_id": "arxiv_org_155043a9",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_597b2d64cdb99ea1",
+    "canonical_url": "https://arxiv.org/abs/2310.02774",
+    "dedupe_key": "5cf5272571896329",
+    "title": "arXiv:2310.02774",
+    "issue_date": "2026-11-15",
+    "cluster_id": "arxiv_org_037828b2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f29bf56efae92b7b",
+    "canonical_url": "https://stratechery.com/2026/sharp-tech-on-video-nvidia-after-jensen-huang-ominous-news-for-american-ai-d-c-gets-its-revenge",
+    "dedupe_key": "22b25b74c36dfdd0",
+    "title": "Sharp Tech on Video: Nvidia After Jensen Huang, Ominous News for American AI, D.C. Gets Its Revenge",
+    "issue_date": "2026-11-15",
+    "cluster_id": "stratechery_com_77597002",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9e090bfeda84badd",
+    "canonical_url": "https://stratechery.com/2026/the-end-of-jensen",
+    "dedupe_key": "1eecf7f04a05f29f",
+    "title": "2026.46: The End of Jensen",
+    "issue_date": "2026-11-15",
+    "cluster_id": "stratechery_com_bb337453",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
