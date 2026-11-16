@@ -1,8 +1,38 @@
 [
   {
-    "title": "🧠 Community Wisdom: When you become the bottleneck for your AI agents, the PULL framework for PMs, product growth vs. growth marketing, boosting feedback response rates, and more",
-    "url": "https://www.lennysnewsletter.com/p/community-wisdom-when-you-become",
-    "summary": "Community Wisdom 305",
+    "title": "Our new blog for science",
+    "url": "https://openai.com/index/our-new-blog-for-science",
+    "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-11-16",
+    "score": 71
+  },
+  {
+    "title": "A step toward defining the Standard Model on a lattice",
+    "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+    "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-11-16",
+    "score": 67
+  },
+  {
+    "title": "Meta’s Muse: How we launched the most successful consumer product this year | Mona Sarantakos",
+    "url": "https://www.lennysnewsletter.com/p/metas-muse-how-we-launched-the-most",
+    "summary": "Listen now | Mona Sarantakos on going from a weekend with OpenClaw to shipping the fastest-growing consumer AI product in history",
     "tags": [
       "product",
       "growth",
@@ -10,117 +40,7 @@
     ],
     "author": "Lenny's Newsletter",
     "source": "lennysnewsletter.com",
-    "date": "2026-11-15",
-    "score": 69
-  },
-  {
-    "title": "Goal Engineering",
-    "url": "https://www.langchain.com/blog/goal-engineering",
-    "summary": "The future of agents is them taking on open ended goals and driving towards completion of those goals. Learn more.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-11-15",
-    "score": 64
-  },
-  {
-    "title": "XYBench: Helping with the problem behind the question",
-    "url": "https://huggingface.co/blog/allenai/xybench",
-    "summary": "XYBench: Helping with the problem behind the question 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-11-15",
+    "date": "2026-11-16",
     "score": 62
-  },
-  {
-    "title": "Open source TTS vs paid APIs: How to choose wisely",
-    "url": "https://elevenlabs.io/blog/open-source-tts-vs-paid-apis",
-    "summary": "Compare open source TTS vs paid APIs on cost, control, licensing, and data residency, and learn how to evaluate models before you commit.",
-    "tags": [
-      "voice_ai",
-      "audio"
-    ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-11-15",
-    "score": 59
-  },
-  {
-    "title": "Introducing Forward Deployed Creatives in ElevenCreative",
-    "url": "https://elevenlabs.io/blog/introducing-forward-deployed-creatives",
-    "summary": "Forward Deployed Creatives build workflows in ElevenCreative alongside your team, or produce finished, on-brand creative for your team to approve.",
-    "tags": [
-      "voice_ai",
-      "audio"
-    ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-11-15",
-    "score": 59
-  },
-  {
-    "title": "Wed, 11 Nov 2026",
-    "url": "https://arxiv.org/list/cs.CL/recent?skip=135&amp%3Bshow=50",
-    "summary": "Computation and Language · Wed, 11 Nov 2026",
-    "tags": [
-      "paper",
-      "nlp",
-      "arxiv"
-    ],
-    "author": "arXiv CS CL",
-    "source": "arxiv.org",
-    "date": "2026-11-15",
-    "score": 59
-  },
-  {
-    "title": "arXiv:2310.02774",
-    "url": "https://arxiv.org/abs/2310.02774",
-    "summary": "Machine Learning · arXiv:2310.02774",
-    "tags": [
-      "paper",
-      "machine_learning",
-      "arxiv"
-    ],
-    "author": "arXiv CS LG",
-    "source": "arxiv.org",
-    "date": "2026-11-15",
-    "score": 59
-  },
-  {
-    "title": "Sharp Tech on Video: Nvidia After Jensen Huang, Ominous News for American AI, D.C. Gets Its Revenge",
-    "url": "https://stratechery.com/2026/sharp-tech-on-video-nvidia-after-jensen-huang-ominous-news-for-american-ai-d-c-gets-its-revenge",
-    "summary": "Sharp Tech is, for the first time, available on video. You have three ways to consume it: YouTube, Spotify, and here on Stratechery",
-    "tags": [
-      "strategy",
-      "tech",
-      "business"
-    ],
-    "author": "Stratechery",
-    "source": "stratechery.com",
-    "date": "2026-11-15",
-    "score": 58
-  },
-  {
-    "title": "2026.46: The End of Jensen",
-    "url": "https://stratechery.com/2026/the-end-of-jensen",
-    "summary": "The best Stratechery content from the week of November 9, 2026, including the shocking demise of Jensen Huang; enterprise, consumer and Intel; and professional basketbal.",
-    "tags": [
-      "strategy",
-      "tech",
-      "business"
-    ],
-    "author": "Stratechery",
-    "source": "stratechery.com",
-    "date": "2026-11-15",
-    "score": 56
   }
 ]

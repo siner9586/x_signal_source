@@ -30856,5 +30856,35 @@
     "cluster_id": "stratechery_com_bb337453",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7d34f7e2cd7f20ab",
+    "canonical_url": "https://openai.com/index/our-new-blog-for-science",
+    "dedupe_key": "7a390bd178b757ec",
+    "title": "Our new blog for science",
+    "issue_date": "2026-11-16",
+    "cluster_id": "openai_com_0879055f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_752c8ecd3b6d2698",
+    "canonical_url": "https://openai.com/index/step-toward-defining-the-standard-model",
+    "dedupe_key": "59ad9b40fd682cc9",
+    "title": "A step toward defining the Standard Model on a lattice",
+    "issue_date": "2026-11-16",
+    "cluster_id": "openai_com_5b350102",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1b48f20323d44627",
+    "canonical_url": "https://www.lennysnewsletter.com/p/metas-muse-how-we-launched-the-most",
+    "dedupe_key": "faa598cbf945286d",
+    "title": "Meta’s Muse: How we launched the most successful consumer product this year | Mona Sarantakos",
+    "issue_date": "2026-11-16",
+    "cluster_id": "lennysnewsletter_com_d9c939d3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
