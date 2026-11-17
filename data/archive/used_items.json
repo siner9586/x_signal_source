@@ -30886,5 +30886,235 @@
     "cluster_id": "lennysnewsletter_com_d9c939d3",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_34e78b2983a8834e",
+    "canonical_url": "https://vercel.com/changelog/qwen4-max-now-available-on-ai-gateway",
+    "dedupe_key": "82665909aef8afb5",
+    "title": "Qwen4-Max now available on AI Gateway",
+    "issue_date": "2026-11-17",
+    "cluster_id": "vercel_com_c03ea738",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f4dd2682417c1357",
+    "canonical_url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+    "dedupe_key": "b2a9c5bd693f178e",
+    "title": "Advancing computer-use agents for healthcare teams",
+    "issue_date": "2026-11-17",
+    "cluster_id": "openai_com_9ef84f7b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_fba76b60cbdeb7de",
+    "canonical_url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+    "dedupe_key": "b186bf808cf8c7b2",
+    "title": "More ways to move care forward with ChatGPT for Healthcare",
+    "issue_date": "2026-11-17",
+    "cluster_id": "openai_com_2d0f664a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_772fe604d1805cc0",
+    "canonical_url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+    "dedupe_key": "52b8ccd999cfc133",
+    "title": "Broadening access to AI for scientists",
+    "issue_date": "2026-11-17",
+    "cluster_id": "openai_com_5a29c622",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f028556e54672037",
+    "canonical_url": "https://developer.nvidia.com/blog/nvidia-vera-rubin-nvl72-leads-agentic-inference-performance-on-mlperf-endpoints-v1-0",
+    "dedupe_key": "cf92def8524c1631",
+    "title": "NVIDIA Vera Rubin NVL72 Leads Agentic Inference Performance on MLPerf Endpoints v1.0",
+    "issue_date": "2026-11-17",
+    "cluster_id": "developer_nvidia_com_679bc6af",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a534b5aa56b3394d",
+    "canonical_url": "https://openai.com/index/science-at-the-frontier",
+    "dedupe_key": "f62a98d2d7752415",
+    "title": "Science at the Frontier: How scientists use ChatGPT",
+    "issue_date": "2026-11-17",
+    "cluster_id": "openai_com_ac4f8582",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3f9164c8d6e8383b",
+    "canonical_url": "https://vercel.com/blog/agent-evals",
+    "dedupe_key": "186a496a46fe1864",
+    "title": "Agents are users, so your software needs evals",
+    "issue_date": "2026-11-17",
+    "cluster_id": "vercel_com_9633383e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_17faff960a5c0db6",
+    "canonical_url": "https://openai.com/index/strengthening-online-child-safety",
+    "dedupe_key": "90fe3b1b97e2ced6",
+    "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+    "issue_date": "2026-11-17",
+    "cluster_id": "openai_com_ad4cc669",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_dc8d8df5015e889b",
+    "canonical_url": "https://openai.com/index/lvmh-media-division-partnership",
+    "dedupe_key": "76fe648edb99ae64",
+    "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+    "issue_date": "2026-11-17",
+    "cluster_id": "openai_com_81952325",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1281df0b56de0f46",
+    "canonical_url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+    "dedupe_key": "5850fb4064390077",
+    "title": "Our first phase of embedded assessments",
+    "issue_date": "2026-11-17",
+    "cluster_id": "openai_com_81761b50",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_81a4380f3ade7a1f",
+    "canonical_url": "https://openai.com/index/the-kings-trust-and-openai",
+    "dedupe_key": "a77f064f44086d57",
+    "title": "The King’s Trust and OpenAI launch £1m partnership",
+    "issue_date": "2026-11-17",
+    "cluster_id": "openai_com_acf00e5f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0856df208c7b2c4f",
+    "canonical_url": "https://openai.com/business/customer-stories/holiday-extras-dots",
+    "dedupe_key": "e1badbb56c479c1d",
+    "title": "At Holiday Extras, dots get to work before anyone asks",
+    "issue_date": "2026-11-17",
+    "cluster_id": "openai_com_a0faa3fb",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4164b613a142713b",
+    "canonical_url": "https://www.langchain.com/blog/from-tasks-to-goals",
+    "dedupe_key": "0f50ee7b20de53cb",
+    "title": "From tasks to goals",
+    "issue_date": "2026-11-17",
+    "cluster_id": "langchain_com_82c46408",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_61e74bdc7b73abc4",
+    "canonical_url": "https://developer.nvidia.com/blog/nvidia-vera-rubin-nvl72-achieves-up-to-2x-blackwell-ultra-performance-in-mlperf-training-v6-1",
+    "dedupe_key": "21bf7595aca99768",
+    "title": "NVIDIA Vera Rubin NVL72 Achieves up to 2x Blackwell Ultra Performance in MLPerf Training v6.1",
+    "issue_date": "2026-11-17",
+    "cluster_id": "developer_nvidia_com_ea40a364",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_64d3ea8fe3bff9ac",
+    "canonical_url": "https://developer.nvidia.com/blog/accelerate-molecular-dynamics-simulations-with-accurate-flexible-primitives-using-nvidia-cupotential",
+    "dedupe_key": "53d00961b8f00e9e",
+    "title": "Accelerate Molecular Dynamics Simulations with Accurate, Flexible Primitives Using NVIDIA cuPotential",
+    "issue_date": "2026-11-17",
+    "cluster_id": "developer_nvidia_com_451ab4e9",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_bc3469433d96270f",
+    "canonical_url": "https://developer.nvidia.com/blog/post-training-nvidia-nemotron-to-increase-accuracy-in-your-scientific-domain",
+    "dedupe_key": "1849e79726886e9d",
+    "title": "Post-Training NVIDIA Nemotron to Increase Accuracy in Your Scientific Domain",
+    "issue_date": "2026-11-17",
+    "cluster_id": "developer_nvidia_com_f7049bcc",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1e95314358fc19f5",
+    "canonical_url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it",
+    "dedupe_key": "39abe25363139859",
+    "title": "Building trustworthy AI by fencing it in, not predicting it",
+    "issue_date": "2026-11-17",
+    "cluster_id": "technologyreview_com_b68af867",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_41b911f414e6e36a",
+    "canonical_url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise",
+    "dedupe_key": "22562323c2eaf439",
+    "title": "Building AI that can work across the enterprise",
+    "issue_date": "2026-11-17",
+    "cluster_id": "technologyreview_com_021d80c4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_dcd87529eb40fd56",
+    "canonical_url": "https://vercel.com/changelog/hy4-flash-now-available-on-ai-gateway-for-50-off",
+    "dedupe_key": "688409f32dbd1457",
+    "title": "Hy4 Flash now available on AI Gateway for 50% off",
+    "issue_date": "2026-11-17",
+    "cluster_id": "vercel_com_19462003",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a096a859b387dea0",
+    "canonical_url": "https://vercel.com/changelog/set-budgets-for-projects-and-products-in-spend-management",
+    "dedupe_key": "e59a1d4178da05d4",
+    "title": "Set budgets for projects and products in Spend Management",
+    "issue_date": "2026-11-17",
+    "cluster_id": "vercel_com_b4fcc5a5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_95af68586d40a6b8",
+    "canonical_url": "https://elevenlabs.io/blog/postnord",
+    "dedupe_key": "28c00e3a2c8fff03",
+    "title": "How the Nordics' leading postal operator rebuilt its customer support on ElevenAgents",
+    "issue_date": "2026-11-17",
+    "cluster_id": "elevenlabs_io_cea18684",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_39a791416899973b",
+    "canonical_url": "https://elevenlabs.io/blog/kotoba",
+    "dedupe_key": "0b8d8d3df9dc4fe5",
+    "title": "Kotoba is joining ElevenLabs",
+    "issue_date": "2026-11-17",
+    "cluster_id": "elevenlabs_io_275486ed",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8449dd17eb89f6f8",
+    "canonical_url": "https://www.langchain.com/blog/we-rebuilt-langsmith-around-the-agent",
+    "dedupe_key": "75030fa825b5fc86",
+    "title": "Why we rebuilt LangSmith around the agent",
+    "issue_date": "2026-11-17",
+    "cluster_id": "langchain_com_0516bbff",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
