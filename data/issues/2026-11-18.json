@@ -1,0 +1,4329 @@
+{
+  "metadata": {
+    "issue_date": "2026-11-18",
+    "generated_at": "2026-11-18T02:44:40.701Z",
+    "timezone": "Asia/Shanghai",
+    "source_mode": "live_fetch_only",
+    "strict_new_only": true,
+    "sources_scanned": 118,
+    "fetch_jobs": 224,
+    "candidates_count": 1136,
+    "selected_count": 25,
+    "duplicates_blocked": 1089,
+    "stale_candidates_blocked": 0,
+    "fetch_failures": 80,
+    "no_new_content": false,
+    "initial_source_index": false
+  },
+  "summary": {
+    "one_liner": "本期由每日自动流水线生成：仅展示当日 live fetch 抓取、且未在历史期展示过的新内容。",
+    "trends": [
+      "AI Agent",
+      "AI Coding",
+      "AI Infra",
+      "Research",
+      "Startup / Investment"
+    ],
+    "watch_next": [
+      "公开 RSS / Atom / HTML 新条目",
+      "GitHub releases 与技术博客",
+      "人工维护 X Article / Thread seed list",
+      "播客长访谈中的一手判断"
+    ]
+  },
+  "must_read": [],
+  "worth_reading": [
+    {
+      "id": "cand_c470dbb6019e8535",
+      "canonical_url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "source_url": "https://openai.com/news/rss.xml",
+      "source_fetch_url": "https://openai.com/news/rss.xml",
+      "source_platform": "web",
+      "source_domain": "openai.com",
+      "source_name": "OpenAI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "subtitle": "官方发布、研究、模型与开发者文档优先来源。",
+      "author": "OpenAI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "OpenAI",
+      "language": "unknown",
+      "published_at": "Tue, 17 Nov 2026 17:45:00 GMT",
+      "captured_at": "2026-11-18T02:44:23.224Z",
+      "captured_issue": "2026-11-18",
+      "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+      "excerpt": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+      "raw_text_available": false,
+      "topics": [
+        "Research"
+      ],
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news",
+        "https://x.com/OpenAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 50,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 98,
+      "total_score": 70,
+      "rank": 31,
+      "cluster_id": "openai_com_ca9ae2ac",
+      "dedupe_key": "cb2415f731e936e4",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Introducing GPT-6.2 Astra and Sol 来自 OpenAI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-18",
+      "last_seen_issue": "2026-11-18",
+      "used_in_issue": "2026-11-18"
+    },
+    {
+      "id": "cand_bc59c7d4acc5e8a7",
+      "canonical_url": "https://openai.com/index/introducing-openai-for-chile",
+      "source_url": "https://openai.com/news/rss.xml",
+      "source_fetch_url": "https://openai.com/news/rss.xml",
+      "source_platform": "web",
+      "source_domain": "openai.com",
+      "source_name": "OpenAI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Introducing OpenAI for Chile",
+      "subtitle": "官方发布、研究、模型与开发者文档优先来源。",
+      "author": "OpenAI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "OpenAI",
+      "language": "unknown",
+      "published_at": "Tue, 17 Nov 2026 00:00:00 GMT",
+      "captured_at": "2026-11-18T02:44:23.225Z",
+      "captured_issue": "2026-11-18",
+      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+      "excerpt": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+      "raw_text_available": false,
+      "topics": [
+        "Startups",
+        "Research"
+      ],
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://openai.com/index/introducing-openai-for-chile",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news",
+        "https://x.com/OpenAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 50,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 98,
+      "total_score": 70,
+      "rank": 32,
+      "cluster_id": "openai_com_027c6b77",
+      "dedupe_key": "7d0a16a6717738f7",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Introducing OpenAI for Chile 来自 OpenAI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-18",
+      "last_seen_issue": "2026-11-18",
+      "used_in_issue": "2026-11-18"
+    },
+    {
+      "id": "cand_bf0ff91c42a27de8",
+      "canonical_url": "https://openai.com/business/customer-stories/revolut",
+      "source_url": "https://openai.com/news/rss.xml",
+      "source_fetch_url": "https://openai.com/news/rss.xml",
+      "source_platform": "web",
+      "source_domain": "openai.com",
+      "source_name": "OpenAI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "How Revolut raises ambition without lowering the bar",
+      "subtitle": "官方发布、研究、模型与开发者文档优先来源。",
+      "author": "OpenAI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "OpenAI",
+      "language": "unknown",
+      "published_at": "Mon, 16 Nov 2026 09:30:00 GMT",
+      "captured_at": "2026-11-18T02:44:23.225Z",
+      "captured_issue": "2026-11-18",
+      "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
+      "excerpt": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
+      "raw_text_available": false,
+      "topics": [
+        "Research"
+      ],
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://openai.com/business/customer-stories/revolut",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news",
+        "https://x.com/OpenAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 50,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 98,
+      "total_score": 70,
+      "rank": 33,
+      "cluster_id": "openai_com_6a9f772f",
+      "dedupe_key": "9119d7e3516fbdf5",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：How Revolut raises ambition without lowering the bar 来自 OpenAI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-18",
+      "last_seen_issue": "2026-11-18",
+      "used_in_issue": "2026-11-18"
+    },
+    {
+      "id": "cand_3cbf9203341eb960",
+      "canonical_url": "https://vercel.com/blog/eve-is-now-generally-available",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Introducing eve 1.0",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-11-17T00:00:00.000Z",
+      "captured_at": "2026-11-18T02:44:34.234Z",
+      "captured_issue": "2026-11-18",
+      "summary": "Today we're announcing eve 1.0 , the open-source framework for building production-ready agents. Since the public preview in June , we've worked with early adopters to prepare eve for 1.0, shipping 230+ releases and merging thousands of pull requests. With this release, eve is now generally available. We've made eve faster, expanded integrations, and improved observability. Security controls let you decide which actions need approval and what data gets collected. We've also m",
+      "excerpt": "Today we're announcing eve 1.0 , the open-source framework for building production-ready agents. Since the public preview in June , we've worked with early adopters to prepare eve for 1.0, shipping 230+ releases and merging thousands of pull requests. With this release, eve is now generally available. We've made eve faster, expanded integrations, and improved observability. Security controls let you decide which actions need approval and what data gets collected. We've also m",
+      "raw_text_available": false,
+      "topics": [
+        "Product"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/blog/eve-is-now-generally-available",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 38,
+      "trend_score": 69,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 98,
+      "total_score": 70,
+      "rank": 65,
+      "cluster_id": "vercel_com_9713dd01",
+      "dedupe_key": "a2f5ed478cd71e35",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Introducing eve 1.0 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-18",
+      "last_seen_issue": "2026-11-18",
+      "used_in_issue": "2026-11-18"
+    },
+    {
+      "id": "cand_23c4a47b88fe9186",
+      "canonical_url": "https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices",
+      "source_url": "https://github.blog/feed",
+      "source_fetch_url": "https://github.blog/feed",
+      "source_platform": "web",
+      "source_domain": "github.blog",
+      "source_name": "GitHub Copilot",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Building the Agent Host Protocol for sessions that continue across devices",
+      "subtitle": "",
+      "author": "GitHub Copilot",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "GitHub Copilot",
+      "language": "unknown",
+      "published_at": "Tue, 17 Nov 2026 18:20:40 +0000",
+      "captured_at": "2026-11-18T02:44:34.717Z",
+      "captured_issue": "2026-11-18",
+      "summary": "Discover how we built the open Agent Host Protocol to keep your agent sessions accessible across editors, apps, phones, and the cloud. The post Building the Agent Host Protocol for sessions that continue across devices appeared first on The GitHub Blog .",
+      "excerpt": "Discover how we built the open Agent Host Protocol to keep your agent sessions accessible across editors, apps, phones, and the cloud. The post Building the Agent Host Protocol for sessions that continue across devices appeared first on The GitHub Blog .",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "ai_coding",
+        "developer_tools"
+      ],
+      "entities": [
+        "GitHub Copilot"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [
+        "https://github.com/features/copilot"
+      ],
+      "evidence_links": [
+        "https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices",
+        "https://github.blog/feed",
+        "https://github.com/features/copilot",
+        "https://github.blog",
+        "https://x.com/github"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 66,
+      "originality_score": 38,
+      "trend_score": 69,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 70,
+      "rank": 66,
+      "cluster_id": "github_blog_446a363b",
+      "dedupe_key": "790763f79bb3fd61",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Building the Agent Host Protocol for sessions that continue across devices 来自 GitHub Copilot 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-18",
+      "last_seen_issue": "2026-11-18",
+      "used_in_issue": "2026-11-18"
+    }
+  ],
+  "signal_watch": [
+    {
+      "id": "cand_fef3245db9c0c6b9",
+      "canonical_url": "https://vercel.com/changelog/gpt-6-2-astra-and-sol-now-available-on-ai-gateway",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "GPT-6.2 Astra and Sol now available on AI Gateway",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-11-17T00:00:00.000Z",
+      "captured_at": "2026-11-18T02:44:34.234Z",
+      "captured_issue": "2026-11-18",
+      "summary": "GPT-6.2 Astra and GPT-6.2 Sol from OpenAI are now available on AI Gateway . GPT-6.2 Astra: for complex, multi-step projects, with improvements to implementing and testing changes in existing codebases, following document templates, and computer use GPT-6.2 Sol: for everyday coding, writing, and agent workflows, including building interactive web applications from a written brief Use openai/gpt-6.2-astra or openai/gpt-6.2-sol as the model ID. For the API examples, set AI_GATEW",
+      "excerpt": "GPT-6.2 Astra and GPT-6.2 Sol from OpenAI are now available on AI Gateway . GPT-6.2 Astra: for complex, multi-step projects, with improvements to implementing and testing changes in existing codebases, following document templates, and computer use GPT-6.2 Sol: for everyday coding, writing, and agent workflows, including building interactive web applications from a written brief Use openai/gpt-6.2-astra or openai/gpt-6.2-sol as the model ID. For the API examples, set AI_GATEW",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/changelog/gpt-6-2-astra-and-sol-now-available-on-ai-gateway",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 81,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 98,
+      "total_score": 69,
+      "rank": 97,
+      "cluster_id": "vercel_com_f825012e",
+      "dedupe_key": "7e06c9be55cccd71",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：GPT-6.2 Astra and Sol now available on AI Gateway 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-18",
+      "last_seen_issue": "2026-11-18",
+      "used_in_issue": "2026-11-18"
+    },
+    {
+      "id": "cand_ddd51250ad696242",
+      "canonical_url": "https://vercel.com/changelog/single-second-static-deployments-now-support-more-assets",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Single-second static deployments now support more assets",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-11-16T00:00:00.000Z",
+      "captured_at": "2026-11-18T02:44:34.235Z",
+      "captured_issue": "2026-11-18",
+      "summary": "Instant deployments let you deploy eligible static sites to Vercel in about a second, without a build step. They now support CSS, images, fonts, and other assets alongside HTML and Markdown. Deploy a landing page with its stylesheet and images, or a report created by your coding agent, through the Vercel CLI or REST API . With the CLI, run: Newly supported file types include: Styles and data: CSS, JSON, XML, plain text, and web manifests Images: SVG, PNG, JPEG, GIF, WebP, AVI",
+      "excerpt": "Instant deployments let you deploy eligible static sites to Vercel in about a second, without a build step. They now support CSS, images, fonts, and other assets alongside HTML and Markdown. Deploy a landing page with its stylesheet and images, or a report created by your coding agent, through the Vercel CLI or REST API . With the CLI, run: Newly supported file types include: Styles and data: CSS, JSON, XML, plain text, and web manifests Images: SVG, PNG, JPEG, GIF, WebP, AVI",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/changelog/single-second-static-deployments-now-support-more-assets",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 81,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 98,
+      "total_score": 69,
+      "rank": 98,
+      "cluster_id": "vercel_com_b98e4619",
+      "dedupe_key": "e91fc3a3269637c3",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Single-second static deployments now support more assets 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-18",
+      "last_seen_issue": "2026-11-18",
+      "used_in_issue": "2026-11-18"
+    },
+    {
+      "id": "cand_f6ff4c3df9653698",
+      "canonical_url": "https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes",
+      "source_url": "https://github.blog/feed",
+      "source_fetch_url": "https://github.blog/feed",
+      "source_platform": "web",
+      "source_domain": "github.blog",
+      "source_name": "GitHub Copilot",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Maintainers don&#8217;t need more AI bug reports. They need fixes.",
+      "subtitle": "",
+      "author": "GitHub Copilot",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "GitHub Copilot",
+      "language": "unknown",
+      "published_at": "Tue, 17 Nov 2026 18:29:29 +0000",
+      "captured_at": "2026-11-18T02:44:34.717Z",
+      "captured_issue": "2026-11-18",
+      "summary": "In the Codename MDASH pilot, GitHub and Microsoft turned thousands of raw AI findings into 99 checked, private reports with suggested fixes for six widely used open source projects. Maintainers have already fixed more than half. The post Maintainers don&#8217;t need more AI bug reports. They need fixes. appeared first on The GitHub Blog .",
+      "excerpt": "In the Codename MDASH pilot, GitHub and Microsoft turned thousands of raw AI findings into 99 checked, private reports with suggested fixes for six widely used open source projects. Maintainers have already fixed more than half. The post Maintainers don&#8217;t need more AI bug reports. They need fixes. appeared first on The GitHub Blog .",
+      "raw_text_available": false,
+      "topics": [
+        "Open Source"
+      ],
+      "tags": [
+        "ai_coding",
+        "developer_tools"
+      ],
+      "entities": [
+        "GitHub Copilot"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [
+        "https://github.com/features/copilot"
+      ],
+      "evidence_links": [
+        "https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes",
+        "https://github.blog/feed",
+        "https://github.com/features/copilot",
+        "https://github.blog",
+        "https://x.com/github"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 66,
+      "originality_score": 50,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 74,
+      "total_score": 69,
+      "rank": 101,
+      "cluster_id": "github_blog_a1f65915",
+      "dedupe_key": "a5790205ce17d382",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Maintainers don&#8217;t need more AI bug reports. They need fixes. 来自 GitHub Copilot 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-18",
+      "last_seen_issue": "2026-11-18",
+      "used_in_issue": "2026-11-18"
+    },
+    {
+      "id": "cand_904dcd38af77c53a",
+      "canonical_url": "https://openai.com/ads/customers/vistaprint",
+      "source_url": "https://openai.com/news/rss.xml",
+      "source_fetch_url": "https://openai.com/news/rss.xml",
+      "source_platform": "web",
+      "source_domain": "openai.com",
+      "source_name": "OpenAI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "How VistaPrint helps small businesses get the word out",
+      "subtitle": "官方发布、研究、模型与开发者文档优先来源。",
+      "author": "OpenAI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "OpenAI",
+      "language": "unknown",
+      "published_at": "Mon, 09 Nov 2026 00:00:00 GMT",
+      "captured_at": "2026-11-18T02:44:23.227Z",
+      "captured_issue": "2026-11-18",
+      "summary": "Small business owners preparing for a launch or an event often know what they want to accomplish before they know what to print. VistaPrint uses ChatGPT Ads to show how products like signs and branded merchandise can help them get the word out.",
+      "excerpt": "Small business owners preparing for a launch or an event often know what they want to accomplish before they know what to print. VistaPrint uses ChatGPT Ads to show how products like signs and branded merchandise can help them get the word out.",
+      "raw_text_available": false,
+      "topics": [
+        "Product",
+        "Research"
+      ],
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://openai.com/ads/customers/vistaprint",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news",
+        "https://x.com/OpenAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 50,
+      "trend_score": 45,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 98,
+      "total_score": 68,
+      "rank": 110,
+      "cluster_id": "openai_com_d247f3e1",
+      "dedupe_key": "49abc21f89482148",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：How VistaPrint helps small businesses get the word out 来自 OpenAI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-18",
+      "last_seen_issue": "2026-11-18",
+      "used_in_issue": "2026-11-18"
+    },
+    {
+      "id": "cand_d5eadbcf04af68d4",
+      "canonical_url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "source_url": "https://openai.com/news/rss.xml",
+      "source_fetch_url": "https://openai.com/news/rss.xml",
+      "source_platform": "web",
+      "source_domain": "openai.com",
+      "source_name": "OpenAI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "subtitle": "官方发布、研究、模型与开发者文档优先来源。",
+      "author": "OpenAI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "OpenAI",
+      "language": "unknown",
+      "published_at": "Tue, 17 Nov 2026 00:00:00 GMT",
+      "captured_at": "2026-11-18T02:44:23.224Z",
+      "captured_issue": "2026-11-18",
+      "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+      "excerpt": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+      "raw_text_available": false,
+      "topics": [
+        "Research"
+      ],
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news",
+        "https://x.com/OpenAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 50,
+      "trend_score": 45,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 67,
+      "rank": 179,
+      "cluster_id": "openai_com_816217c2",
+      "dedupe_key": "635242b24851f100",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Strengthening NATO and allied cyber defenses with AI 来自 OpenAI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-18",
+      "last_seen_issue": "2026-11-18",
+      "used_in_issue": "2026-11-18"
+    },
+    {
+      "id": "cand_64ebff2635738d7b",
+      "canonical_url": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "source_url": "https://openai.com/news/rss.xml",
+      "source_fetch_url": "https://openai.com/news/rss.xml",
+      "source_platform": "web",
+      "source_domain": "openai.com",
+      "source_name": "OpenAI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Introducing ChatGPT for Sales",
+      "subtitle": "官方发布、研究、模型与开发者文档优先来源。",
+      "author": "OpenAI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "OpenAI",
+      "language": "unknown",
+      "published_at": "Tue, 17 Nov 2026 08:00:00 GMT",
+      "captured_at": "2026-11-18T02:44:23.224Z",
+      "captured_issue": "2026-11-18",
+      "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+      "excerpt": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+      "raw_text_available": false,
+      "topics": [
+        "Research"
+      ],
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://openai.com/index/introducing-chatgpt-for-sales",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news",
+        "https://x.com/OpenAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 50,
+      "trend_score": 45,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 67,
+      "rank": 180,
+      "cluster_id": "openai_com_07dd8beb",
+      "dedupe_key": "6c198c5aacca7c4f",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Introducing ChatGPT for Sales 来自 OpenAI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-18",
+      "last_seen_issue": "2026-11-18",
+      "used_in_issue": "2026-11-18"
+    },
+    {
+      "id": "cand_3f996ae261737fea",
+      "canonical_url": "https://openai.com/index/astra-law-6-2",
+      "source_url": "https://openai.com/news/rss.xml",
+      "source_fetch_url": "https://openai.com/news/rss.xml",
+      "source_platform": "web",
+      "source_domain": "openai.com",
+      "source_name": "OpenAI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Astra for Law leads in legal intelligence",
+      "subtitle": "官方发布、研究、模型与开发者文档优先来源。",
+      "author": "OpenAI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "OpenAI",
+      "language": "unknown",
+      "published_at": "Tue, 17 Nov 2026 00:00:00 GMT",
+      "captured_at": "2026-11-18T02:44:23.224Z",
+      "captured_issue": "2026-11-18",
+      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+      "excerpt": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+      "raw_text_available": false,
+      "topics": [
+        "Research"
+      ],
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://openai.com/index/astra-law-6-2",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news",
+        "https://x.com/OpenAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 50,
+      "trend_score": 45,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 67,
+      "rank": 181,
+      "cluster_id": "openai_com_d2e36fdc",
+      "dedupe_key": "9e8b9598a84f7a2a",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Astra for Law leads in legal intelligence 来自 OpenAI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-18",
+      "last_seen_issue": "2026-11-18",
+      "used_in_issue": "2026-11-18"
+    },
+    {
+      "id": "cand_11b6db62981fe7df",
+      "canonical_url": "https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence",
+      "source_url": "https://openai.com/news/rss.xml",
+      "source_fetch_url": "https://openai.com/news/rss.xml",
+      "source_platform": "web",
+      "source_domain": "openai.com",
+      "source_name": "OpenAI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "ChatGPT Ads increases its market presence in 44 countries",
+      "subtitle": "官方发布、研究、模型与开发者文档优先来源。",
+      "author": "OpenAI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "OpenAI",
+      "language": "unknown",
+      "published_at": "Thu, 12 Nov 2026 00:00:00 GMT",
+      "captured_at": "2026-11-18T02:44:23.226Z",
+      "captured_issue": "2026-11-18",
+      "summary": "Aleph selected as ChatGPT Ads’ exclusive reseller in 44 countries to offer local invoicing, in-person support and local market expertise to brands and agencies",
+      "excerpt": "Aleph selected as ChatGPT Ads’ exclusive reseller in 44 countries to offer local invoicing, in-person support and local market expertise to brands and agencies",
+      "raw_text_available": false,
+      "topics": [
+        "Research"
+      ],
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news",
+        "https://x.com/OpenAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 50,
+      "trend_score": 45,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 67,
+      "rank": 191,
+      "cluster_id": "openai_com_6221f4ee",
+      "dedupe_key": "160919f480fdc2eb",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：ChatGPT Ads increases its market presence in 44 countries 来自 OpenAI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-18",
+      "last_seen_issue": "2026-11-18",
+      "used_in_issue": "2026-11-18"
+    },
+    {
+      "id": "cand_c50d6504c1bf6386",
+      "canonical_url": "https://vercel.com/changelog/pull-request-only-preset-now-available-for-preview-builds",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Pull-request-only preset now available for preview builds",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-11-17T02:37:03.997Z",
+      "captured_at": "2026-11-18T02:44:34.234Z",
+      "captured_issue": "2026-11-18",
+      "summary": "A new Ignored Build Step preset lets you skip preview builds for branches without an open pull request. Production deployments and previews for branches with open pull requests continue to build. On GitHub and GitLab projects, skipped preview deployments are canceled before consuming any Build CPU Minutes. To enable this, open your project’s Deployments > Configuration . Under Ignored Build Step , select Only build previews for pull requests from the Behavior menu and click S",
+      "excerpt": "A new Ignored Build Step preset lets you skip preview builds for branches without an open pull request. Production deployments and previews for branches with open pull requests continue to build. On GitHub and GitLab projects, skipped preview deployments are canceled before consuming any Build CPU Minutes. To enable this, open your project’s Deployments > Configuration . Under Ignored Build Step , select Only build previews for pull requests from the Behavior menu and click S",
+      "raw_text_available": false,
+      "topics": [
+        "Product"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/changelog/pull-request-only-preset-now-available-for-preview-builds",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 67,
+      "rank": 306,
+      "cluster_id": "vercel_com_2acf4d45",
+      "dedupe_key": "be5683bedaedbbae",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Pull-request-only preset now available for preview builds 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-18",
+      "last_seen_issue": "2026-11-18",
+      "used_in_issue": "2026-11-18"
+    },
+    {
+      "id": "cand_cc9f2eba3a83c37b",
+      "canonical_url": "https://developer.nvidia.com/blog/co-designing-sparse-attention-for-efficient-long-context-inference",
+      "source_url": "https://developer.nvidia.com/blog",
+      "source_fetch_url": "https://developer.nvidia.com/blog",
+      "source_platform": "web",
+      "source_domain": "developer.nvidia.com",
+      "source_name": "NVIDIA AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Co-Designing Sparse Attention for Efficient Long-Context Inference",
+      "subtitle": "",
+      "author": "NVIDIA AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "NVIDIA AI",
+      "language": "unknown",
+      "published_at": "",
+      "captured_at": "2026-11-18T02:44:26.891Z",
+      "captured_issue": "2026-11-18",
+      "summary": "NVIDIA Technical Blog · Co-Designing Sparse Attention for Efficient Long-Context Inference",
+      "excerpt": "NVIDIA Technical Blog · Co-Designing Sparse Attention for Efficient Long-Context Inference",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "gpu",
+        "inference",
+        "ai_infra"
+      ],
+      "entities": [
+        "NVIDIA AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://developer.nvidia.com/blog/co-designing-sparse-attention-for-efficient-long-context-inference",
+        "https://developer.nvidia.com/blog",
+        "https://blogs.nvidia.com/blog/category/deep-learning",
+        "https://x.com/NVIDIAAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 74,
+      "total_score": 66,
+      "rank": 390,
+      "cluster_id": "developer_nvidia_com_6586420a",
+      "dedupe_key": "f0932ac09d9e656a",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Co-Designing Sparse Attention for Efficient Long-Context Inference 来自 NVIDIA AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-18",
+      "last_seen_issue": "2026-11-18",
+      "used_in_issue": "2026-11-18"
+    },
+    {
+      "id": "cand_97fb5ffb0f4850f5",
+      "canonical_url": "https://developer.nvidia.com/blog/integrating-qpus-into-supercomputing-centers-using-slurm-hres-plugins",
+      "source_url": "https://developer.nvidia.com/blog",
+      "source_fetch_url": "https://developer.nvidia.com/blog",
+      "source_platform": "web",
+      "source_domain": "developer.nvidia.com",
+      "source_name": "NVIDIA AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Integrating QPUs into Supercomputing Centers Using Slurm HRES Plugins",
+      "subtitle": "",
+      "author": "NVIDIA AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "NVIDIA AI",
+      "language": "unknown",
+      "published_at": "",
+      "captured_at": "2026-11-18T02:44:26.891Z",
+      "captured_issue": "2026-11-18",
+      "summary": "NVIDIA Technical Blog · Integrating QPUs into Supercomputing Centers Using Slurm HRES Plugins",
+      "excerpt": "NVIDIA Technical Blog · Integrating QPUs into Supercomputing Centers Using Slurm HRES Plugins",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "gpu",
+        "inference",
+        "ai_infra"
+      ],
+      "entities": [
+        "NVIDIA AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://developer.nvidia.com/blog/integrating-qpus-into-supercomputing-centers-using-slurm-hres-plugins",
+        "https://developer.nvidia.com/blog",
+        "https://blogs.nvidia.com/blog/category/deep-learning",
+        "https://x.com/NVIDIAAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 74,
+      "total_score": 66,
+      "rank": 391,
+      "cluster_id": "developer_nvidia_com_cfd2c613",
+      "dedupe_key": "685b9bb13f9239f1",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Integrating QPUs into Supercomputing Centers Using Slurm HRES Plugins 来自 NVIDIA AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-18",
+      "last_seen_issue": "2026-11-18",
+      "used_in_issue": "2026-11-18"
+    },
+    {
+      "id": "cand_6eab2937afc9448e",
+      "canonical_url": "https://vercel.com/changelog/native-lint-and-typecheck-deployment-checks-are-being-deprecated",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Native lint and typecheck Deployment Checks are being deprecated",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-11-17T13:00:00.000Z",
+      "captured_at": "2026-11-18T02:44:34.234Z",
+      "captured_issue": "2026-11-18",
+      "summary": "Native lint and typecheck Deployment Checks are being deprecated. Use Vercel CI or your own CI workflows to continue running these tasks. What this means These checks run your repository’s lint and typecheck tasks on Vercel in parallel with deployment builds. New checks can no longer be added. Existing checks continue running until November 30, 2026, when they’re removed. Other Deployment Checks and commands already running in GitHub Actions or your Build Command are unaffect",
+      "excerpt": "Native lint and typecheck Deployment Checks are being deprecated. Use Vercel CI or your own CI workflows to continue running these tasks. What this means These checks run your repository’s lint and typecheck tasks on Vercel in parallel with deployment builds. New checks can no longer be added. Existing checks continue running until November 30, 2026, when they’re removed. Other Deployment Checks and commands already running in GitHub Actions or your Build Command are unaffect",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/changelog/native-lint-and-typecheck-deployment-checks-are-being-deprecated",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 74,
+      "total_score": 66,
+      "rank": 395,
+      "cluster_id": "vercel_com_8aa5c619",
+      "dedupe_key": "5c99647421bb6a97",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Native lint and typecheck Deployment Checks are being deprecated 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-18",
+      "last_seen_issue": "2026-11-18",
+      "used_in_issue": "2026-11-18"
+    },
+    {
+      "id": "cand_a9679762209c1b4e",
+      "canonical_url": "https://vercel.com/changelog/mai-image-2-7-and-mai-image-2-7-flash-now-available-on-ai-gateway",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "MAI-Image-2.7 and MAI-Image-2.7-Flash now available on AI Gateway",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-11-17T00:00:00.000Z",
+      "captured_at": "2026-11-18T02:44:34.234Z",
+      "captured_issue": "2026-11-18",
+      "summary": "Microsoft’s MAI-Image-2.7 and MAI-Image-2.7-Flash are now available in public preview on AI Gateway . Both increase the maximum output size to 2048 x 2048 pixels and add transparent backgrounds for generated and edited images. Generate images from text or edit existing images with one AI Gateway API key, without a Microsoft account. Both models support photorealistic images, text rendering, and targeted edits to products, portraits, and layouts. Use up to five reference image",
+      "excerpt": "Microsoft’s MAI-Image-2.7 and MAI-Image-2.7-Flash are now available in public preview on AI Gateway . Both increase the maximum output size to 2048 x 2048 pixels and add transparent backgrounds for generated and edited images. Generate images from text or edit existing images with one AI Gateway API key, without a Microsoft account. Both models support photorealistic images, text rendering, and targeted edits to products, portraits, and layouts. Use up to five reference image",
+      "raw_text_available": false,
+      "topics": [
+        "Product"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/changelog/mai-image-2-7-and-mai-image-2-7-flash-now-available-on-ai-gateway",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 65,
+      "rank": 456,
+      "cluster_id": "vercel_com_a496dc2a",
+      "dedupe_key": "01654682a5dfe930",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：MAI-Image-2.7 and MAI-Image-2.7-Flash now available on AI Gateway 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-18",
+      "last_seen_issue": "2026-11-18",
+      "used_in_issue": "2026-11-18"
+    },
+    {
+      "id": "cand_8b463e8cd1b27a23",
+      "canonical_url": "https://elevenlabs.io/blog/retail-ai-assistant-webinar-recap",
+      "source_url": "https://elevenlabs.io/blog/rss.xml",
+      "source_fetch_url": "https://elevenlabs.io/blog/rss.xml",
+      "source_platform": "web",
+      "source_domain": "elevenlabs.io",
+      "source_name": "ElevenLabs",
+      "source_file": "ai_apps_infra_vc_extra.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "The AI retail assistant: from customer question to completed transaction",
+      "subtitle": "",
+      "author": "ElevenLabs",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "ElevenLabs",
+      "language": "unknown",
+      "published_at": "Tue, 17 Nov 2026 12:00:00 GMT",
+      "captured_at": "2026-11-18T02:44:22.692Z",
+      "captured_issue": "2026-11-18",
+      "summary": "Learn how to build an AI agent to handle customer booking conversations from start to finish with ElevenAgents",
+      "excerpt": "Learn how to build an AI agent to handle customer booking conversations from start to finish with ElevenAgents",
+      "raw_text_available": false,
+      "topics": [
+        "AI Agent"
+      ],
+      "tags": [
+        "voice_ai",
+        "audio"
+      ],
+      "entities": [
+        "ElevenLabs"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://elevenlabs.io/blog/retail-ai-assistant-webinar-recap",
+        "https://elevenlabs.io/blog/rss.xml",
+        "https://elevenlabs.io",
+        "https://elevenlabs.io/blog",
+        "https://x.com/elevenlabsio"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 69,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 74,
+      "total_score": 64,
+      "rank": 546,
+      "cluster_id": "elevenlabs_io_019505c2",
+      "dedupe_key": "4c4bb00a80da85d0",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：The AI retail assistant: from customer question to completed transaction 来自 ElevenLabs 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-18",
+      "last_seen_issue": "2026-11-18",
+      "used_in_issue": "2026-11-18"
+    },
+    {
+      "id": "cand_0c4514358fcb1343",
+      "canonical_url": "https://www.langchain.com/blog/protect-sensitive-data-in-your-traces-new-controls-in-langsmith",
+      "source_url": "https://blog.langchain.com/rss.xml",
+      "source_fetch_url": "https://blog.langchain.com/rss.xml",
+      "source_platform": "web",
+      "source_domain": "langchain.com",
+      "source_name": "LangChain",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "external_article",
+      "title": "Protect sensitive data in your traces: new controls in LangSmith",
+      "subtitle": "",
+      "author": "LangChain",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "LangChain",
+      "language": "unknown",
+      "published_at": "Tue, 17 Nov 2026 21:31:36 GMT",
+      "captured_at": "2026-11-18T02:44:35.381Z",
+      "captured_issue": "2026-11-18",
+      "summary": "New controls are now in LangSmith to help teams manage access to sensitive trace data. Learn more.",
+      "excerpt": "New controls are now in LangSmith to help teams manage access to sensitive trace data. Learn more.",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "agents",
+        "rag",
+        "framework"
+      ],
+      "entities": [
+        "LangChain"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://www.langchain.com/blog/protect-sensitive-data-in-your-traces-new-controls-in-langsmith",
+        "https://blog.langchain.com/rss.xml",
+        "https://www.langchain.com",
+        "https://blog.langchain.com",
+        "https://x.com/LangChainAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 54,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 62,
+      "total_score": 64,
+      "rank": 566,
+      "cluster_id": "langchain_com_db86c153",
+      "dedupe_key": "c763c6f5b4e50aa7",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Protect sensitive data in your traces: new controls in LangSmith 来自 LangChain 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-18",
+      "last_seen_issue": "2026-11-18",
+      "used_in_issue": "2026-11-18"
+    },
+    {
+      "id": "cand_298ee80f83e8a629",
+      "canonical_url": "https://www.langchain.com/blog/what-weve-learned-building-proactive-agents",
+      "source_url": "https://blog.langchain.com/rss.xml",
+      "source_fetch_url": "https://blog.langchain.com/rss.xml",
+      "source_platform": "web",
+      "source_domain": "langchain.com",
+      "source_name": "LangChain",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "external_article",
+      "title": "What We’ve Learned Building Proactive Agents",
+      "subtitle": "",
+      "author": "LangChain",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "LangChain",
+      "language": "unknown",
+      "published_at": "Tue, 17 Nov 2026 16:49:23 GMT",
+      "captured_at": "2026-11-18T02:44:35.381Z",
+      "captured_issue": "2026-11-18",
+      "summary": "Proactive agents work toward goals in the background and check in when they need you. What we've learned about memory and UX from building GTM Agent and Robin.",
+      "excerpt": "Proactive agents work toward goals in the background and check in when they need you. What we've learned about memory and UX from building GTM Agent and Robin.",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "agents",
+        "rag",
+        "framework"
+      ],
+      "entities": [
+        "LangChain"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://www.langchain.com/blog/what-weve-learned-building-proactive-agents",
+        "https://blog.langchain.com/rss.xml",
+        "https://www.langchain.com",
+        "https://blog.langchain.com",
+        "https://x.com/LangChainAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 54,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 62,
+      "total_score": 64,
+      "rank": 568,
+      "cluster_id": "langchain_com_ad784fd4",
+      "dedupe_key": "cb524d8ba121aaa8",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：What We’ve Learned Building Proactive Agents 来自 LangChain 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-18",
+      "last_seen_issue": "2026-11-18",
+      "used_in_issue": "2026-11-18"
+    },
+    {
+      "id": "cand_804ae350d911ded4",
+      "canonical_url": "https://www.lennysnewsletter.com/p/how-i-ai-fable-52-review-how-i-fight",
+      "source_url": "https://www.lennysnewsletter.com/feed.xml",
+      "source_fetch_url": "https://www.lennysnewsletter.com/feed.xml",
+      "source_platform": "web",
+      "source_domain": "lennysnewsletter.com",
+      "source_name": "Lenny's Newsletter",
+      "source_file": "media.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "external_article",
+      "title": "🎙️ How I AI: Fable 5.2 Review + How I fight token fraud as a solo founder + Building a Claude Code family OS",
+      "subtitle": "",
+      "author": "Lenny's Newsletter",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Lenny's Newsletter",
+      "language": "unknown",
+      "published_at": "Mon, 16 Nov 2026 16:02:55 GMT",
+      "captured_at": "2026-11-18T02:44:39.172Z",
+      "captured_issue": "2026-11-18",
+      "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+      "excerpt": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+      "raw_text_available": false,
+      "topics": [
+        "Product"
+      ],
+      "tags": [
+        "product",
+        "growth",
+        "startup"
+      ],
+      "entities": [
+        "Lenny's Newsletter"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://www.lennysnewsletter.com/p/how-i-ai-fable-52-review-how-i-fight",
+        "https://www.lennysnewsletter.com/feed.xml",
+        "https://www.lennysnewsletter.com"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 42,
+      "originality_score": 50,
+      "trend_score": 57,
+      "evidence_score": 75,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 64,
+      "rank": 609,
+      "cluster_id": "lennysnewsletter_com_0f0c1212",
+      "dedupe_key": "1a3daa12b30d556b",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：🎙️ How I AI: Fable 5.2 Review + How I fight token fraud as a solo founder + Building a Claude Code family OS 来自 Lenny's Newsletter 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-18",
+      "last_seen_issue": "2026-11-18",
+      "used_in_issue": "2026-11-18"
+    },
+    {
+      "id": "cand_ba08316771644433",
+      "canonical_url": "https://vercel.com/changelog/standard-build-billing-new-teams",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Standard builds move to usage-based billing for new teams",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-11-17T20:00:00.000Z",
+      "captured_at": "2026-11-18T02:44:34.234Z",
+      "captured_issue": "2026-11-18",
+      "summary": "Starting today, new Pro and Enterprise teams no longer include a Standard build slot. This brings Standard builds under the same usage-based billing model as other build machines. On Pro, Standard builds cost $0.014 per build minute, and your monthly usage credit applies to build usage. Enterprise rates follow your contract. Standard builds remain billable after switching from Elastic to Standard for teams covered by this change. Select a build machine in team settings or pro",
+      "excerpt": "Starting today, new Pro and Enterprise teams no longer include a Standard build slot. This brings Standard builds under the same usage-based billing model as other build machines. On Pro, Standard builds cost $0.014 per build minute, and your monthly usage credit applies to build usage. Enterprise rates follow your contract. Standard builds remain billable after switching from Elastic to Standard for teams covered by this change. Select a build machine in team settings or pro",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/changelog/standard-build-billing-new-teams",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 74,
+      "total_score": 63,
+      "rank": 625,
+      "cluster_id": "vercel_com_0cea1545",
+      "dedupe_key": "685973f9f78a4691",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Standard builds move to usage-based billing for new teams 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-18",
+      "last_seen_issue": "2026-11-18",
+      "used_in_issue": "2026-11-18"
+    },
+    {
+      "id": "cand_10750ed2f92c07a7",
+      "canonical_url": "https://vercel.com/changelog/vercel-blob-now-supports-ttls-for-automatic-deletion",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Vercel Blob now supports TTLs for automatic deletion",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-11-17T18:00:00.000Z",
+      "captured_at": "2026-11-18T02:44:34.234Z",
+      "captured_issue": "2026-11-18",
+      "summary": "Vercel Blob can now delete blobs automatically. Pass ttlDays when you write a blob and it is deleted that many days after upload, from 1 to 730 days. The TTL counts from the blob's upload date. Use TTLs for blobs you would otherwise delete yourself, such as session transcripts, exports, and temporary uploads. ttlDays works on put() , copy() , putImage() , multipart uploads, and presigned upload URLs. Every write result and head() response now includes expiresAt , so you know ",
+      "excerpt": "Vercel Blob can now delete blobs automatically. Pass ttlDays when you write a blob and it is deleted that many days after upload, from 1 to 730 days. The TTL counts from the blob's upload date. Use TTLs for blobs you would otherwise delete yourself, such as session transcripts, exports, and temporary uploads. ttlDays works on put() , copy() , putImage() , multipart uploads, and presigned upload URLs. Every write result and head() response now includes expiresAt , so you know ",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/changelog/vercel-blob-now-supports-ttls-for-automatic-deletion",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 74,
+      "total_score": 63,
+      "rank": 626,
+      "cluster_id": "vercel_com_2f6b112e",
+      "dedupe_key": "90ccd933cee1c051",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Vercel Blob now supports TTLs for automatic deletion 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-18",
+      "last_seen_issue": "2026-11-18",
+      "used_in_issue": "2026-11-18"
+    },
+    {
+      "id": "cand_50c846edf2b9f406",
+      "canonical_url": "https://vercel.com/changelog/decision-1-1-now-available-on-ai-gateway",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Decision-1.1 now available on AI Gateway",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-11-17T00:00:00.000Z",
+      "captured_at": "2026-11-18T02:44:34.234Z",
+      "captured_issue": "2026-11-18",
+      "summary": "Decision-1.1 from Microsoft AI is now available on AI Gateway. It is more accurate, better calibrated, and faster than Decision-1. The decision model returns structured answers instead of free-form text for tasks such as routing support requests, choosing which model should handle a request, selecting the next step in a workflow, or grading AI responses. Boolean: the probability that a condition is true Choice: a selected category and probabilities for each option Score: a nu",
+      "excerpt": "Decision-1.1 from Microsoft AI is now available on AI Gateway. It is more accurate, better calibrated, and faster than Decision-1. The decision model returns structured answers instead of free-form text for tasks such as routing support requests, choosing which model should handle a request, selecting the next step in a workflow, or grading AI responses. Boolean: the probability that a condition is true Choice: a selected category and probabilities for each option Score: a nu",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/changelog/decision-1-1-now-available-on-ai-gateway",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 74,
+      "total_score": 63,
+      "rank": 627,
+      "cluster_id": "vercel_com_a8f9c60a",
+      "dedupe_key": "e0edc346913e5643",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Decision-1.1 now available on AI Gateway 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-18",
+      "last_seen_issue": "2026-11-18",
+      "used_in_issue": "2026-11-18"
+    }
+  ],
+  "hot_rank": [
+    {
+      "id": "cand_c470dbb6019e8535",
+      "canonical_url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "source_url": "https://openai.com/news/rss.xml",
+      "source_fetch_url": "https://openai.com/news/rss.xml",
+      "source_platform": "web",
+      "source_domain": "openai.com",
+      "source_name": "OpenAI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "subtitle": "官方发布、研究、模型与开发者文档优先来源。",
+      "author": "OpenAI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "OpenAI",
+      "language": "unknown",
+      "published_at": "Tue, 17 Nov 2026 17:45:00 GMT",
+      "captured_at": "2026-11-18T02:44:23.224Z",
+      "captured_issue": "2026-11-18",
+      "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+      "excerpt": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+      "raw_text_available": false,
+      "topics": [
+        "Research"
+      ],
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news",
+        "https://x.com/OpenAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 50,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 98,
+      "total_score": 70,
+      "rank": 31,
+      "cluster_id": "openai_com_ca9ae2ac",
+      "dedupe_key": "cb2415f731e936e4",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Introducing GPT-6.2 Astra and Sol 来自 OpenAI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-18",
+      "last_seen_issue": "2026-11-18",
+      "used_in_issue": "2026-11-18"
+    },
+    {
+      "id": "cand_bc59c7d4acc5e8a7",
+      "canonical_url": "https://openai.com/index/introducing-openai-for-chile",
+      "source_url": "https://openai.com/news/rss.xml",
+      "source_fetch_url": "https://openai.com/news/rss.xml",
+      "source_platform": "web",
+      "source_domain": "openai.com",
+      "source_name": "OpenAI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Introducing OpenAI for Chile",
+      "subtitle": "官方发布、研究、模型与开发者文档优先来源。",
+      "author": "OpenAI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "OpenAI",
+      "language": "unknown",
+      "published_at": "Tue, 17 Nov 2026 00:00:00 GMT",
+      "captured_at": "2026-11-18T02:44:23.225Z",
+      "captured_issue": "2026-11-18",
+      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+      "excerpt": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+      "raw_text_available": false,
+      "topics": [
+        "Startups",
+        "Research"
+      ],
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://openai.com/index/introducing-openai-for-chile",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news",
+        "https://x.com/OpenAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 50,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 98,
+      "total_score": 70,
+      "rank": 32,
+      "cluster_id": "openai_com_027c6b77",
+      "dedupe_key": "7d0a16a6717738f7",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Introducing OpenAI for Chile 来自 OpenAI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-18",
+      "last_seen_issue": "2026-11-18",
+      "used_in_issue": "2026-11-18"
+    },
+    {
+      "id": "cand_bf0ff91c42a27de8",
+      "canonical_url": "https://openai.com/business/customer-stories/revolut",
+      "source_url": "https://openai.com/news/rss.xml",
+      "source_fetch_url": "https://openai.com/news/rss.xml",
+      "source_platform": "web",
+      "source_domain": "openai.com",
+      "source_name": "OpenAI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "How Revolut raises ambition without lowering the bar",
+      "subtitle": "官方发布、研究、模型与开发者文档优先来源。",
+      "author": "OpenAI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "OpenAI",
+      "language": "unknown",
+      "published_at": "Mon, 16 Nov 2026 09:30:00 GMT",
+      "captured_at": "2026-11-18T02:44:23.225Z",
+      "captured_issue": "2026-11-18",
+      "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
+      "excerpt": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
+      "raw_text_available": false,
+      "topics": [
+        "Research"
+      ],
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://openai.com/business/customer-stories/revolut",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news",
+        "https://x.com/OpenAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 50,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 98,
+      "total_score": 70,
+      "rank": 33,
+      "cluster_id": "openai_com_6a9f772f",
+      "dedupe_key": "9119d7e3516fbdf5",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：How Revolut raises ambition without lowering the bar 来自 OpenAI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-18",
+      "last_seen_issue": "2026-11-18",
+      "used_in_issue": "2026-11-18"
+    },
+    {
+      "id": "cand_3cbf9203341eb960",
+      "canonical_url": "https://vercel.com/blog/eve-is-now-generally-available",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Introducing eve 1.0",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-11-17T00:00:00.000Z",
+      "captured_at": "2026-11-18T02:44:34.234Z",
+      "captured_issue": "2026-11-18",
+      "summary": "Today we're announcing eve 1.0 , the open-source framework for building production-ready agents. Since the public preview in June , we've worked with early adopters to prepare eve for 1.0, shipping 230+ releases and merging thousands of pull requests. With this release, eve is now generally available. We've made eve faster, expanded integrations, and improved observability. Security controls let you decide which actions need approval and what data gets collected. We've also m",
+      "excerpt": "Today we're announcing eve 1.0 , the open-source framework for building production-ready agents. Since the public preview in June , we've worked with early adopters to prepare eve for 1.0, shipping 230+ releases and merging thousands of pull requests. With this release, eve is now generally available. We've made eve faster, expanded integrations, and improved observability. Security controls let you decide which actions need approval and what data gets collected. We've also m",
+      "raw_text_available": false,
+      "topics": [
+        "Product"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/blog/eve-is-now-generally-available",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 38,
+      "trend_score": 69,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 98,
+      "total_score": 70,
+      "rank": 65,
+      "cluster_id": "vercel_com_9713dd01",
+      "dedupe_key": "a2f5ed478cd71e35",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Introducing eve 1.0 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-18",
+      "last_seen_issue": "2026-11-18",
+      "used_in_issue": "2026-11-18"
+    },
+    {
+      "id": "cand_23c4a47b88fe9186",
+      "canonical_url": "https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices",
+      "source_url": "https://github.blog/feed",
+      "source_fetch_url": "https://github.blog/feed",
+      "source_platform": "web",
+      "source_domain": "github.blog",
+      "source_name": "GitHub Copilot",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Building the Agent Host Protocol for sessions that continue across devices",
+      "subtitle": "",
+      "author": "GitHub Copilot",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "GitHub Copilot",
+      "language": "unknown",
+      "published_at": "Tue, 17 Nov 2026 18:20:40 +0000",
+      "captured_at": "2026-11-18T02:44:34.717Z",
+      "captured_issue": "2026-11-18",
+      "summary": "Discover how we built the open Agent Host Protocol to keep your agent sessions accessible across editors, apps, phones, and the cloud. The post Building the Agent Host Protocol for sessions that continue across devices appeared first on The GitHub Blog .",
+      "excerpt": "Discover how we built the open Agent Host Protocol to keep your agent sessions accessible across editors, apps, phones, and the cloud. The post Building the Agent Host Protocol for sessions that continue across devices appeared first on The GitHub Blog .",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "ai_coding",
+        "developer_tools"
+      ],
+      "entities": [
+        "GitHub Copilot"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [
+        "https://github.com/features/copilot"
+      ],
+      "evidence_links": [
+        "https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices",
+        "https://github.blog/feed",
+        "https://github.com/features/copilot",
+        "https://github.blog",
+        "https://x.com/github"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 66,
+      "originality_score": 38,
+      "trend_score": 69,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 70,
+      "rank": 66,
+      "cluster_id": "github_blog_446a363b",
+      "dedupe_key": "790763f79bb3fd61",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Building the Agent Host Protocol for sessions that continue across devices 来自 GitHub Copilot 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-18",
+      "last_seen_issue": "2026-11-18",
+      "used_in_issue": "2026-11-18"
+    },
+    {
+      "id": "cand_fef3245db9c0c6b9",
+      "canonical_url": "https://vercel.com/changelog/gpt-6-2-astra-and-sol-now-available-on-ai-gateway",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "GPT-6.2 Astra and Sol now available on AI Gateway",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-11-17T00:00:00.000Z",
+      "captured_at": "2026-11-18T02:44:34.234Z",
+      "captured_issue": "2026-11-18",
+      "summary": "GPT-6.2 Astra and GPT-6.2 Sol from OpenAI are now available on AI Gateway . GPT-6.2 Astra: for complex, multi-step projects, with improvements to implementing and testing changes in existing codebases, following document templates, and computer use GPT-6.2 Sol: for everyday coding, writing, and agent workflows, including building interactive web applications from a written brief Use openai/gpt-6.2-astra or openai/gpt-6.2-sol as the model ID. For the API examples, set AI_GATEW",
+      "excerpt": "GPT-6.2 Astra and GPT-6.2 Sol from OpenAI are now available on AI Gateway . GPT-6.2 Astra: for complex, multi-step projects, with improvements to implementing and testing changes in existing codebases, following document templates, and computer use GPT-6.2 Sol: for everyday coding, writing, and agent workflows, including building interactive web applications from a written brief Use openai/gpt-6.2-astra or openai/gpt-6.2-sol as the model ID. For the API examples, set AI_GATEW",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/changelog/gpt-6-2-astra-and-sol-now-available-on-ai-gateway",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 81,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 98,
+      "total_score": 69,
+      "rank": 97,
+      "cluster_id": "vercel_com_f825012e",
+      "dedupe_key": "7e06c9be55cccd71",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：GPT-6.2 Astra and Sol now available on AI Gateway 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-18",
+      "last_seen_issue": "2026-11-18",
+      "used_in_issue": "2026-11-18"
+    },
+    {
+      "id": "cand_ddd51250ad696242",
+      "canonical_url": "https://vercel.com/changelog/single-second-static-deployments-now-support-more-assets",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Single-second static deployments now support more assets",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-11-16T00:00:00.000Z",
+      "captured_at": "2026-11-18T02:44:34.235Z",
+      "captured_issue": "2026-11-18",
+      "summary": "Instant deployments let you deploy eligible static sites to Vercel in about a second, without a build step. They now support CSS, images, fonts, and other assets alongside HTML and Markdown. Deploy a landing page with its stylesheet and images, or a report created by your coding agent, through the Vercel CLI or REST API . With the CLI, run: Newly supported file types include: Styles and data: CSS, JSON, XML, plain text, and web manifests Images: SVG, PNG, JPEG, GIF, WebP, AVI",
+      "excerpt": "Instant deployments let you deploy eligible static sites to Vercel in about a second, without a build step. They now support CSS, images, fonts, and other assets alongside HTML and Markdown. Deploy a landing page with its stylesheet and images, or a report created by your coding agent, through the Vercel CLI or REST API . With the CLI, run: Newly supported file types include: Styles and data: CSS, JSON, XML, plain text, and web manifests Images: SVG, PNG, JPEG, GIF, WebP, AVI",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/changelog/single-second-static-deployments-now-support-more-assets",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 81,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 98,
+      "total_score": 69,
+      "rank": 98,
+      "cluster_id": "vercel_com_b98e4619",
+      "dedupe_key": "e91fc3a3269637c3",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Single-second static deployments now support more assets 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-18",
+      "last_seen_issue": "2026-11-18",
+      "used_in_issue": "2026-11-18"
+    },
+    {
+      "id": "cand_f6ff4c3df9653698",
+      "canonical_url": "https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes",
+      "source_url": "https://github.blog/feed",
+      "source_fetch_url": "https://github.blog/feed",
+      "source_platform": "web",
+      "source_domain": "github.blog",
+      "source_name": "GitHub Copilot",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Maintainers don&#8217;t need more AI bug reports. They need fixes.",
+      "subtitle": "",
+      "author": "GitHub Copilot",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "GitHub Copilot",
+      "language": "unknown",
+      "published_at": "Tue, 17 Nov 2026 18:29:29 +0000",
+      "captured_at": "2026-11-18T02:44:34.717Z",
+      "captured_issue": "2026-11-18",
+      "summary": "In the Codename MDASH pilot, GitHub and Microsoft turned thousands of raw AI findings into 99 checked, private reports with suggested fixes for six widely used open source projects. Maintainers have already fixed more than half. The post Maintainers don&#8217;t need more AI bug reports. They need fixes. appeared first on The GitHub Blog .",
+      "excerpt": "In the Codename MDASH pilot, GitHub and Microsoft turned thousands of raw AI findings into 99 checked, private reports with suggested fixes for six widely used open source projects. Maintainers have already fixed more than half. The post Maintainers don&#8217;t need more AI bug reports. They need fixes. appeared first on The GitHub Blog .",
+      "raw_text_available": false,
+      "topics": [
+        "Open Source"
+      ],
+      "tags": [
+        "ai_coding",
+        "developer_tools"
+      ],
+      "entities": [
+        "GitHub Copilot"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [
+        "https://github.com/features/copilot"
+      ],
+      "evidence_links": [
+        "https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes",
+        "https://github.blog/feed",
+        "https://github.com/features/copilot",
+        "https://github.blog",
+        "https://x.com/github"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 66,
+      "originality_score": 50,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 74,
+      "total_score": 69,
+      "rank": 101,
+      "cluster_id": "github_blog_a1f65915",
+      "dedupe_key": "a5790205ce17d382",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Maintainers don&#8217;t need more AI bug reports. They need fixes. 来自 GitHub Copilot 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-18",
+      "last_seen_issue": "2026-11-18",
+      "used_in_issue": "2026-11-18"
+    },
+    {
+      "id": "cand_904dcd38af77c53a",
+      "canonical_url": "https://openai.com/ads/customers/vistaprint",
+      "source_url": "https://openai.com/news/rss.xml",
+      "source_fetch_url": "https://openai.com/news/rss.xml",
+      "source_platform": "web",
+      "source_domain": "openai.com",
+      "source_name": "OpenAI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "How VistaPrint helps small businesses get the word out",
+      "subtitle": "官方发布、研究、模型与开发者文档优先来源。",
+      "author": "OpenAI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "OpenAI",
+      "language": "unknown",
+      "published_at": "Mon, 09 Nov 2026 00:00:00 GMT",
+      "captured_at": "2026-11-18T02:44:23.227Z",
+      "captured_issue": "2026-11-18",
+      "summary": "Small business owners preparing for a launch or an event often know what they want to accomplish before they know what to print. VistaPrint uses ChatGPT Ads to show how products like signs and branded merchandise can help them get the word out.",
+      "excerpt": "Small business owners preparing for a launch or an event often know what they want to accomplish before they know what to print. VistaPrint uses ChatGPT Ads to show how products like signs and branded merchandise can help them get the word out.",
+      "raw_text_available": false,
+      "topics": [
+        "Product",
+        "Research"
+      ],
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://openai.com/ads/customers/vistaprint",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news",
+        "https://x.com/OpenAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 50,
+      "trend_score": 45,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 98,
+      "total_score": 68,
+      "rank": 110,
+      "cluster_id": "openai_com_d247f3e1",
+      "dedupe_key": "49abc21f89482148",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：How VistaPrint helps small businesses get the word out 来自 OpenAI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-18",
+      "last_seen_issue": "2026-11-18",
+      "used_in_issue": "2026-11-18"
+    },
+    {
+      "id": "cand_d5eadbcf04af68d4",
+      "canonical_url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "source_url": "https://openai.com/news/rss.xml",
+      "source_fetch_url": "https://openai.com/news/rss.xml",
+      "source_platform": "web",
+      "source_domain": "openai.com",
+      "source_name": "OpenAI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "subtitle": "官方发布、研究、模型与开发者文档优先来源。",
+      "author": "OpenAI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "OpenAI",
+      "language": "unknown",
+      "published_at": "Tue, 17 Nov 2026 00:00:00 GMT",
+      "captured_at": "2026-11-18T02:44:23.224Z",
+      "captured_issue": "2026-11-18",
+      "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+      "excerpt": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+      "raw_text_available": false,
+      "topics": [
+        "Research"
+      ],
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news",
+        "https://x.com/OpenAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 50,
+      "trend_score": 45,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 67,
+      "rank": 179,
+      "cluster_id": "openai_com_816217c2",
+      "dedupe_key": "635242b24851f100",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Strengthening NATO and allied cyber defenses with AI 来自 OpenAI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-18",
+      "last_seen_issue": "2026-11-18",
+      "used_in_issue": "2026-11-18"
+    },
+    {
+      "id": "cand_64ebff2635738d7b",
+      "canonical_url": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "source_url": "https://openai.com/news/rss.xml",
+      "source_fetch_url": "https://openai.com/news/rss.xml",
+      "source_platform": "web",
+      "source_domain": "openai.com",
+      "source_name": "OpenAI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Introducing ChatGPT for Sales",
+      "subtitle": "官方发布、研究、模型与开发者文档优先来源。",
+      "author": "OpenAI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "OpenAI",
+      "language": "unknown",
+      "published_at": "Tue, 17 Nov 2026 08:00:00 GMT",
+      "captured_at": "2026-11-18T02:44:23.224Z",
+      "captured_issue": "2026-11-18",
+      "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+      "excerpt": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+      "raw_text_available": false,
+      "topics": [
+        "Research"
+      ],
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://openai.com/index/introducing-chatgpt-for-sales",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news",
+        "https://x.com/OpenAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 50,
+      "trend_score": 45,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 67,
+      "rank": 180,
+      "cluster_id": "openai_com_07dd8beb",
+      "dedupe_key": "6c198c5aacca7c4f",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Introducing ChatGPT for Sales 来自 OpenAI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-18",
+      "last_seen_issue": "2026-11-18",
+      "used_in_issue": "2026-11-18"
+    },
+    {
+      "id": "cand_3f996ae261737fea",
+      "canonical_url": "https://openai.com/index/astra-law-6-2",
+      "source_url": "https://openai.com/news/rss.xml",
+      "source_fetch_url": "https://openai.com/news/rss.xml",
+      "source_platform": "web",
+      "source_domain": "openai.com",
+      "source_name": "OpenAI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Astra for Law leads in legal intelligence",
+      "subtitle": "官方发布、研究、模型与开发者文档优先来源。",
+      "author": "OpenAI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "OpenAI",
+      "language": "unknown",
+      "published_at": "Tue, 17 Nov 2026 00:00:00 GMT",
+      "captured_at": "2026-11-18T02:44:23.224Z",
+      "captured_issue": "2026-11-18",
+      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+      "excerpt": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+      "raw_text_available": false,
+      "topics": [
+        "Research"
+      ],
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://openai.com/index/astra-law-6-2",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news",
+        "https://x.com/OpenAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 50,
+      "trend_score": 45,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 67,
+      "rank": 181,
+      "cluster_id": "openai_com_d2e36fdc",
+      "dedupe_key": "9e8b9598a84f7a2a",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Astra for Law leads in legal intelligence 来自 OpenAI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-18",
+      "last_seen_issue": "2026-11-18",
+      "used_in_issue": "2026-11-18"
+    },
+    {
+      "id": "cand_11b6db62981fe7df",
+      "canonical_url": "https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence",
+      "source_url": "https://openai.com/news/rss.xml",
+      "source_fetch_url": "https://openai.com/news/rss.xml",
+      "source_platform": "web",
+      "source_domain": "openai.com",
+      "source_name": "OpenAI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "ChatGPT Ads increases its market presence in 44 countries",
+      "subtitle": "官方发布、研究、模型与开发者文档优先来源。",
+      "author": "OpenAI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "OpenAI",
+      "language": "unknown",
+      "published_at": "Thu, 12 Nov 2026 00:00:00 GMT",
+      "captured_at": "2026-11-18T02:44:23.226Z",
+      "captured_issue": "2026-11-18",
+      "summary": "Aleph selected as ChatGPT Ads’ exclusive reseller in 44 countries to offer local invoicing, in-person support and local market expertise to brands and agencies",
+      "excerpt": "Aleph selected as ChatGPT Ads’ exclusive reseller in 44 countries to offer local invoicing, in-person support and local market expertise to brands and agencies",
+      "raw_text_available": false,
+      "topics": [
+        "Research"
+      ],
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news",
+        "https://x.com/OpenAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 50,
+      "trend_score": 45,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 67,
+      "rank": 191,
+      "cluster_id": "openai_com_6221f4ee",
+      "dedupe_key": "160919f480fdc2eb",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：ChatGPT Ads increases its market presence in 44 countries 来自 OpenAI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-18",
+      "last_seen_issue": "2026-11-18",
+      "used_in_issue": "2026-11-18"
+    },
+    {
+      "id": "cand_c50d6504c1bf6386",
+      "canonical_url": "https://vercel.com/changelog/pull-request-only-preset-now-available-for-preview-builds",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Pull-request-only preset now available for preview builds",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-11-17T02:37:03.997Z",
+      "captured_at": "2026-11-18T02:44:34.234Z",
+      "captured_issue": "2026-11-18",
+      "summary": "A new Ignored Build Step preset lets you skip preview builds for branches without an open pull request. Production deployments and previews for branches with open pull requests continue to build. On GitHub and GitLab projects, skipped preview deployments are canceled before consuming any Build CPU Minutes. To enable this, open your project’s Deployments > Configuration . Under Ignored Build Step , select Only build previews for pull requests from the Behavior menu and click S",
+      "excerpt": "A new Ignored Build Step preset lets you skip preview builds for branches without an open pull request. Production deployments and previews for branches with open pull requests continue to build. On GitHub and GitLab projects, skipped preview deployments are canceled before consuming any Build CPU Minutes. To enable this, open your project’s Deployments > Configuration . Under Ignored Build Step , select Only build previews for pull requests from the Behavior menu and click S",
+      "raw_text_available": false,
+      "topics": [
+        "Product"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/changelog/pull-request-only-preset-now-available-for-preview-builds",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 67,
+      "rank": 306,
+      "cluster_id": "vercel_com_2acf4d45",
+      "dedupe_key": "be5683bedaedbbae",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Pull-request-only preset now available for preview builds 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-18",
+      "last_seen_issue": "2026-11-18",
+      "used_in_issue": "2026-11-18"
+    },
+    {
+      "id": "cand_cc9f2eba3a83c37b",
+      "canonical_url": "https://developer.nvidia.com/blog/co-designing-sparse-attention-for-efficient-long-context-inference",
+      "source_url": "https://developer.nvidia.com/blog",
+      "source_fetch_url": "https://developer.nvidia.com/blog",
+      "source_platform": "web",
+      "source_domain": "developer.nvidia.com",
+      "source_name": "NVIDIA AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Co-Designing Sparse Attention for Efficient Long-Context Inference",
+      "subtitle": "",
+      "author": "NVIDIA AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "NVIDIA AI",
+      "language": "unknown",
+      "published_at": "",
+      "captured_at": "2026-11-18T02:44:26.891Z",
+      "captured_issue": "2026-11-18",
+      "summary": "NVIDIA Technical Blog · Co-Designing Sparse Attention for Efficient Long-Context Inference",
+      "excerpt": "NVIDIA Technical Blog · Co-Designing Sparse Attention for Efficient Long-Context Inference",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "gpu",
+        "inference",
+        "ai_infra"
+      ],
+      "entities": [
+        "NVIDIA AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://developer.nvidia.com/blog/co-designing-sparse-attention-for-efficient-long-context-inference",
+        "https://developer.nvidia.com/blog",
+        "https://blogs.nvidia.com/blog/category/deep-learning",
+        "https://x.com/NVIDIAAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 74,
+      "total_score": 66,
+      "rank": 390,
+      "cluster_id": "developer_nvidia_com_6586420a",
+      "dedupe_key": "f0932ac09d9e656a",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Co-Designing Sparse Attention for Efficient Long-Context Inference 来自 NVIDIA AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-18",
+      "last_seen_issue": "2026-11-18",
+      "used_in_issue": "2026-11-18"
+    },
+    {
+      "id": "cand_97fb5ffb0f4850f5",
+      "canonical_url": "https://developer.nvidia.com/blog/integrating-qpus-into-supercomputing-centers-using-slurm-hres-plugins",
+      "source_url": "https://developer.nvidia.com/blog",
+      "source_fetch_url": "https://developer.nvidia.com/blog",
+      "source_platform": "web",
+      "source_domain": "developer.nvidia.com",
+      "source_name": "NVIDIA AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Integrating QPUs into Supercomputing Centers Using Slurm HRES Plugins",
+      "subtitle": "",
+      "author": "NVIDIA AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "NVIDIA AI",
+      "language": "unknown",
+      "published_at": "",
+      "captured_at": "2026-11-18T02:44:26.891Z",
+      "captured_issue": "2026-11-18",
+      "summary": "NVIDIA Technical Blog · Integrating QPUs into Supercomputing Centers Using Slurm HRES Plugins",
+      "excerpt": "NVIDIA Technical Blog · Integrating QPUs into Supercomputing Centers Using Slurm HRES Plugins",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "gpu",
+        "inference",
+        "ai_infra"
+      ],
+      "entities": [
+        "NVIDIA AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://developer.nvidia.com/blog/integrating-qpus-into-supercomputing-centers-using-slurm-hres-plugins",
+        "https://developer.nvidia.com/blog",
+        "https://blogs.nvidia.com/blog/category/deep-learning",
+        "https://x.com/NVIDIAAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 74,
+      "total_score": 66,
+      "rank": 391,
+      "cluster_id": "developer_nvidia_com_cfd2c613",
+      "dedupe_key": "685b9bb13f9239f1",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Integrating QPUs into Supercomputing Centers Using Slurm HRES Plugins 来自 NVIDIA AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-18",
+      "last_seen_issue": "2026-11-18",
+      "used_in_issue": "2026-11-18"
+    },
+    {
+      "id": "cand_6eab2937afc9448e",
+      "canonical_url": "https://vercel.com/changelog/native-lint-and-typecheck-deployment-checks-are-being-deprecated",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Native lint and typecheck Deployment Checks are being deprecated",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-11-17T13:00:00.000Z",
+      "captured_at": "2026-11-18T02:44:34.234Z",
+      "captured_issue": "2026-11-18",
+      "summary": "Native lint and typecheck Deployment Checks are being deprecated. Use Vercel CI or your own CI workflows to continue running these tasks. What this means These checks run your repository’s lint and typecheck tasks on Vercel in parallel with deployment builds. New checks can no longer be added. Existing checks continue running until November 30, 2026, when they’re removed. Other Deployment Checks and commands already running in GitHub Actions or your Build Command are unaffect",
+      "excerpt": "Native lint and typecheck Deployment Checks are being deprecated. Use Vercel CI or your own CI workflows to continue running these tasks. What this means These checks run your repository’s lint and typecheck tasks on Vercel in parallel with deployment builds. New checks can no longer be added. Existing checks continue running until November 30, 2026, when they’re removed. Other Deployment Checks and commands already running in GitHub Actions or your Build Command are unaffect",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/changelog/native-lint-and-typecheck-deployment-checks-are-being-deprecated",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 74,
+      "total_score": 66,
+      "rank": 395,
+      "cluster_id": "vercel_com_8aa5c619",
+      "dedupe_key": "5c99647421bb6a97",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Native lint and typecheck Deployment Checks are being deprecated 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-18",
+      "last_seen_issue": "2026-11-18",
+      "used_in_issue": "2026-11-18"
+    },
+    {
+      "id": "cand_a9679762209c1b4e",
+      "canonical_url": "https://vercel.com/changelog/mai-image-2-7-and-mai-image-2-7-flash-now-available-on-ai-gateway",
+      "source_url": "https://vercel.com/blog/feed.xml",
+      "source_fetch_url": "https://vercel.com/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "vercel.com",
+      "source_name": "Vercel AI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "MAI-Image-2.7 and MAI-Image-2.7-Flash now available on AI Gateway",
+      "subtitle": "",
+      "author": "Vercel AI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Vercel AI",
+      "language": "unknown",
+      "published_at": "2026-11-17T00:00:00.000Z",
+      "captured_at": "2026-11-18T02:44:34.234Z",
+      "captured_issue": "2026-11-18",
+      "summary": "Microsoft’s MAI-Image-2.7 and MAI-Image-2.7-Flash are now available in public preview on AI Gateway . Both increase the maximum output size to 2048 x 2048 pixels and add transparent backgrounds for generated and edited images. Generate images from text or edit existing images with one AI Gateway API key, without a Microsoft account. Both models support photorealistic images, text rendering, and targeted edits to products, portraits, and layouts. Use up to five reference image",
+      "excerpt": "Microsoft’s MAI-Image-2.7 and MAI-Image-2.7-Flash are now available in public preview on AI Gateway . Both increase the maximum output size to 2048 x 2048 pixels and add transparent backgrounds for generated and edited images. Generate images from text or edit existing images with one AI Gateway API key, without a Microsoft account. Both models support photorealistic images, text rendering, and targeted edits to products, portraits, and layouts. Use up to five reference image",
+      "raw_text_available": false,
+      "topics": [
+        "Product"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://vercel.com/changelog/mai-image-2-7-and-mai-image-2-7-flash-now-available-on-ai-gateway",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 65,
+      "rank": 456,
+      "cluster_id": "vercel_com_a496dc2a",
+      "dedupe_key": "01654682a5dfe930",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：MAI-Image-2.7 and MAI-Image-2.7-Flash now available on AI Gateway 来自 Vercel AI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-18",
+      "last_seen_issue": "2026-11-18",
+      "used_in_issue": "2026-11-18"
+    },
+    {
+      "id": "cand_8b463e8cd1b27a23",
+      "canonical_url": "https://elevenlabs.io/blog/retail-ai-assistant-webinar-recap",
+      "source_url": "https://elevenlabs.io/blog/rss.xml",
+      "source_fetch_url": "https://elevenlabs.io/blog/rss.xml",
+      "source_platform": "web",
+      "source_domain": "elevenlabs.io",
+      "source_name": "ElevenLabs",
+      "source_file": "ai_apps_infra_vc_extra.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "The AI retail assistant: from customer question to completed transaction",
+      "subtitle": "",
+      "author": "ElevenLabs",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "ElevenLabs",
+      "language": "unknown",
+      "published_at": "Tue, 17 Nov 2026 12:00:00 GMT",
+      "captured_at": "2026-11-18T02:44:22.692Z",
+      "captured_issue": "2026-11-18",
+      "summary": "Learn how to build an AI agent to handle customer booking conversations from start to finish with ElevenAgents",
+      "excerpt": "Learn how to build an AI agent to handle customer booking conversations from start to finish with ElevenAgents",
+      "raw_text_available": false,
+      "topics": [
+        "AI Agent"
+      ],
+      "tags": [
+        "voice_ai",
+        "audio"
+      ],
+      "entities": [
+        "ElevenLabs"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://elevenlabs.io/blog/retail-ai-assistant-webinar-recap",
+        "https://elevenlabs.io/blog/rss.xml",
+        "https://elevenlabs.io",
+        "https://elevenlabs.io/blog",
+        "https://x.com/elevenlabsio"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 69,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 74,
+      "total_score": 64,
+      "rank": 546,
+      "cluster_id": "elevenlabs_io_019505c2",
+      "dedupe_key": "4c4bb00a80da85d0",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：The AI retail assistant: from customer question to completed transaction 来自 ElevenLabs 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-18",
+      "last_seen_issue": "2026-11-18",
+      "used_in_issue": "2026-11-18"
+    },
+    {
+      "id": "cand_0c4514358fcb1343",
+      "canonical_url": "https://www.langchain.com/blog/protect-sensitive-data-in-your-traces-new-controls-in-langsmith",
+      "source_url": "https://blog.langchain.com/rss.xml",
+      "source_fetch_url": "https://blog.langchain.com/rss.xml",
+      "source_platform": "web",
+      "source_domain": "langchain.com",
+      "source_name": "LangChain",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "external_article",
+      "title": "Protect sensitive data in your traces: new controls in LangSmith",
+      "subtitle": "",
+      "author": "LangChain",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "LangChain",
+      "language": "unknown",
+      "published_at": "Tue, 17 Nov 2026 21:31:36 GMT",
+      "captured_at": "2026-11-18T02:44:35.381Z",
+      "captured_issue": "2026-11-18",
+      "summary": "New controls are now in LangSmith to help teams manage access to sensitive trace data. Learn more.",
+      "excerpt": "New controls are now in LangSmith to help teams manage access to sensitive trace data. Learn more.",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "agents",
+        "rag",
+        "framework"
+      ],
+      "entities": [
+        "LangChain"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://www.langchain.com/blog/protect-sensitive-data-in-your-traces-new-controls-in-langsmith",
+        "https://blog.langchain.com/rss.xml",
+        "https://www.langchain.com",
+        "https://blog.langchain.com",
+        "https://x.com/LangChainAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 54,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 62,
+      "total_score": 64,
+      "rank": 566,
+      "cluster_id": "langchain_com_db86c153",
+      "dedupe_key": "c763c6f5b4e50aa7",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Protect sensitive data in your traces: new controls in LangSmith 来自 LangChain 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-18",
+      "last_seen_issue": "2026-11-18",
+      "used_in_issue": "2026-11-18"
+    }
+  ],
+  "clusters": [
+    {
+      "cluster_id": "openai_com_ca9ae2ac",
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+      "primary_source": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "supporting_sources": [
+        "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news",
+        "https://x.com/OpenAI"
+      ],
+      "related_x_posts": [
+        "https://x.com/OpenAI"
+      ],
+      "related_articles": [
+        "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "score": 70,
+      "selected_item_id": "cand_c470dbb6019e8535"
+    },
+    {
+      "cluster_id": "openai_com_027c6b77",
+      "title": "Introducing OpenAI for Chile",
+      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+      "primary_source": "https://openai.com/index/introducing-openai-for-chile",
+      "supporting_sources": [
+        "https://openai.com/index/introducing-openai-for-chile",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news",
+        "https://x.com/OpenAI"
+      ],
+      "related_x_posts": [
+        "https://x.com/OpenAI"
+      ],
+      "related_articles": [
+        "https://openai.com/index/introducing-openai-for-chile",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "score": 70,
+      "selected_item_id": "cand_bc59c7d4acc5e8a7"
+    },
+    {
+      "cluster_id": "openai_com_6a9f772f",
+      "title": "How Revolut raises ambition without lowering the bar",
+      "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
+      "primary_source": "https://openai.com/business/customer-stories/revolut",
+      "supporting_sources": [
+        "https://openai.com/business/customer-stories/revolut",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news",
+        "https://x.com/OpenAI"
+      ],
+      "related_x_posts": [
+        "https://x.com/OpenAI"
+      ],
+      "related_articles": [
+        "https://openai.com/business/customer-stories/revolut",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "score": 70,
+      "selected_item_id": "cand_bf0ff91c42a27de8"
+    },
+    {
+      "cluster_id": "vercel_com_9713dd01",
+      "title": "Introducing eve 1.0",
+      "summary": "Today we're announcing eve 1.0 , the open-source framework for building production-ready agents. Since the public preview in June , we've worked with early adopters to prepare eve for 1.0, shipping 230+ releases and merging thousands of pull requests. With this release, eve is now generally available. We've made eve faster, expanded integrations, and improved observability. Security controls let you decide which actions need approval and what data gets collected. We've also m",
+      "primary_source": "https://vercel.com/blog/eve-is-now-generally-available",
+      "supporting_sources": [
+        "https://vercel.com/blog/eve-is-now-generally-available",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "related_x_posts": [
+        "https://x.com/vercel"
+      ],
+      "related_articles": [
+        "https://vercel.com/blog/eve-is-now-generally-available",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "score": 70,
+      "selected_item_id": "cand_3cbf9203341eb960"
+    },
+    {
+      "cluster_id": "github_blog_446a363b",
+      "title": "Building the Agent Host Protocol for sessions that continue across devices",
+      "summary": "Discover how we built the open Agent Host Protocol to keep your agent sessions accessible across editors, apps, phones, and the cloud. The post Building the Agent Host Protocol for sessions that continue across devices appeared first on The GitHub Blog .",
+      "primary_source": "https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices",
+      "supporting_sources": [
+        "https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices",
+        "https://github.blog/feed",
+        "https://github.com/features/copilot",
+        "https://github.blog",
+        "https://x.com/github"
+      ],
+      "related_x_posts": [
+        "https://x.com/github"
+      ],
+      "related_articles": [
+        "https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices",
+        "https://github.blog/feed",
+        "https://github.com/features/copilot",
+        "https://github.blog"
+      ],
+      "entities": [
+        "GitHub Copilot"
+      ],
+      "tags": [
+        "ai_coding",
+        "developer_tools"
+      ],
+      "score": 70,
+      "selected_item_id": "cand_23c4a47b88fe9186"
+    },
+    {
+      "cluster_id": "vercel_com_f825012e",
+      "title": "GPT-6.2 Astra and Sol now available on AI Gateway",
+      "summary": "GPT-6.2 Astra and GPT-6.2 Sol from OpenAI are now available on AI Gateway . GPT-6.2 Astra: for complex, multi-step projects, with improvements to implementing and testing changes in existing codebases, following document templates, and computer use GPT-6.2 Sol: for everyday coding, writing, and agent workflows, including building interactive web applications from a written brief Use openai/gpt-6.2-astra or openai/gpt-6.2-sol as the model ID. For the API examples, set AI_GATEW",
+      "primary_source": "https://vercel.com/changelog/gpt-6-2-astra-and-sol-now-available-on-ai-gateway",
+      "supporting_sources": [
+        "https://vercel.com/changelog/gpt-6-2-astra-and-sol-now-available-on-ai-gateway",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "related_x_posts": [
+        "https://x.com/vercel"
+      ],
+      "related_articles": [
+        "https://vercel.com/changelog/gpt-6-2-astra-and-sol-now-available-on-ai-gateway",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "score": 69,
+      "selected_item_id": "cand_fef3245db9c0c6b9"
+    },
+    {
+      "cluster_id": "vercel_com_b98e4619",
+      "title": "Single-second static deployments now support more assets",
+      "summary": "Instant deployments let you deploy eligible static sites to Vercel in about a second, without a build step. They now support CSS, images, fonts, and other assets alongside HTML and Markdown. Deploy a landing page with its stylesheet and images, or a report created by your coding agent, through the Vercel CLI or REST API . With the CLI, run: Newly supported file types include: Styles and data: CSS, JSON, XML, plain text, and web manifests Images: SVG, PNG, JPEG, GIF, WebP, AVI",
+      "primary_source": "https://vercel.com/changelog/single-second-static-deployments-now-support-more-assets",
+      "supporting_sources": [
+        "https://vercel.com/changelog/single-second-static-deployments-now-support-more-assets",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "related_x_posts": [
+        "https://x.com/vercel"
+      ],
+      "related_articles": [
+        "https://vercel.com/changelog/single-second-static-deployments-now-support-more-assets",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "score": 69,
+      "selected_item_id": "cand_ddd51250ad696242"
+    },
+    {
+      "cluster_id": "github_blog_a1f65915",
+      "title": "Maintainers don&#8217;t need more AI bug reports. They need fixes.",
+      "summary": "In the Codename MDASH pilot, GitHub and Microsoft turned thousands of raw AI findings into 99 checked, private reports with suggested fixes for six widely used open source projects. Maintainers have already fixed more than half. The post Maintainers don&#8217;t need more AI bug reports. They need fixes. appeared first on The GitHub Blog .",
+      "primary_source": "https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes",
+      "supporting_sources": [
+        "https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes",
+        "https://github.blog/feed",
+        "https://github.com/features/copilot",
+        "https://github.blog",
+        "https://x.com/github"
+      ],
+      "related_x_posts": [
+        "https://x.com/github"
+      ],
+      "related_articles": [
+        "https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes",
+        "https://github.blog/feed",
+        "https://github.com/features/copilot",
+        "https://github.blog"
+      ],
+      "entities": [
+        "GitHub Copilot"
+      ],
+      "tags": [
+        "ai_coding",
+        "developer_tools"
+      ],
+      "score": 69,
+      "selected_item_id": "cand_f6ff4c3df9653698"
+    },
+    {
+      "cluster_id": "openai_com_d247f3e1",
+      "title": "How VistaPrint helps small businesses get the word out",
+      "summary": "Small business owners preparing for a launch or an event often know what they want to accomplish before they know what to print. VistaPrint uses ChatGPT Ads to show how products like signs and branded merchandise can help them get the word out.",
+      "primary_source": "https://openai.com/ads/customers/vistaprint",
+      "supporting_sources": [
+        "https://openai.com/ads/customers/vistaprint",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news",
+        "https://x.com/OpenAI"
+      ],
+      "related_x_posts": [
+        "https://x.com/OpenAI"
+      ],
+      "related_articles": [
+        "https://openai.com/ads/customers/vistaprint",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "score": 68,
+      "selected_item_id": "cand_904dcd38af77c53a"
+    },
+    {
+      "cluster_id": "openai_com_816217c2",
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+      "primary_source": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "supporting_sources": [
+        "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news",
+        "https://x.com/OpenAI"
+      ],
+      "related_x_posts": [
+        "https://x.com/OpenAI"
+      ],
+      "related_articles": [
+        "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "score": 67,
+      "selected_item_id": "cand_d5eadbcf04af68d4"
+    },
+    {
+      "cluster_id": "openai_com_07dd8beb",
+      "title": "Introducing ChatGPT for Sales",
+      "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+      "primary_source": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "supporting_sources": [
+        "https://openai.com/index/introducing-chatgpt-for-sales",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news",
+        "https://x.com/OpenAI"
+      ],
+      "related_x_posts": [
+        "https://x.com/OpenAI"
+      ],
+      "related_articles": [
+        "https://openai.com/index/introducing-chatgpt-for-sales",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "score": 67,
+      "selected_item_id": "cand_64ebff2635738d7b"
+    },
+    {
+      "cluster_id": "openai_com_d2e36fdc",
+      "title": "Astra for Law leads in legal intelligence",
+      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+      "primary_source": "https://openai.com/index/astra-law-6-2",
+      "supporting_sources": [
+        "https://openai.com/index/astra-law-6-2",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news",
+        "https://x.com/OpenAI"
+      ],
+      "related_x_posts": [
+        "https://x.com/OpenAI"
+      ],
+      "related_articles": [
+        "https://openai.com/index/astra-law-6-2",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "score": 67,
+      "selected_item_id": "cand_3f996ae261737fea"
+    },
+    {
+      "cluster_id": "openai_com_6221f4ee",
+      "title": "ChatGPT Ads increases its market presence in 44 countries",
+      "summary": "Aleph selected as ChatGPT Ads’ exclusive reseller in 44 countries to offer local invoicing, in-person support and local market expertise to brands and agencies",
+      "primary_source": "https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence",
+      "supporting_sources": [
+        "https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news",
+        "https://x.com/OpenAI"
+      ],
+      "related_x_posts": [
+        "https://x.com/OpenAI"
+      ],
+      "related_articles": [
+        "https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com",
+        "https://openai.com/news"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "score": 67,
+      "selected_item_id": "cand_11b6db62981fe7df"
+    },
+    {
+      "cluster_id": "vercel_com_2acf4d45",
+      "title": "Pull-request-only preset now available for preview builds",
+      "summary": "A new Ignored Build Step preset lets you skip preview builds for branches without an open pull request. Production deployments and previews for branches with open pull requests continue to build. On GitHub and GitLab projects, skipped preview deployments are canceled before consuming any Build CPU Minutes. To enable this, open your project’s Deployments > Configuration . Under Ignored Build Step , select Only build previews for pull requests from the Behavior menu and click S",
+      "primary_source": "https://vercel.com/changelog/pull-request-only-preset-now-available-for-preview-builds",
+      "supporting_sources": [
+        "https://vercel.com/changelog/pull-request-only-preset-now-available-for-preview-builds",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "related_x_posts": [
+        "https://x.com/vercel"
+      ],
+      "related_articles": [
+        "https://vercel.com/changelog/pull-request-only-preset-now-available-for-preview-builds",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "score": 67,
+      "selected_item_id": "cand_c50d6504c1bf6386"
+    },
+    {
+      "cluster_id": "developer_nvidia_com_6586420a",
+      "title": "Co-Designing Sparse Attention for Efficient Long-Context Inference",
+      "summary": "NVIDIA Technical Blog · Co-Designing Sparse Attention for Efficient Long-Context Inference",
+      "primary_source": "https://developer.nvidia.com/blog/co-designing-sparse-attention-for-efficient-long-context-inference",
+      "supporting_sources": [
+        "https://developer.nvidia.com/blog/co-designing-sparse-attention-for-efficient-long-context-inference",
+        "https://developer.nvidia.com/blog",
+        "https://blogs.nvidia.com/blog/category/deep-learning",
+        "https://x.com/NVIDIAAI"
+      ],
+      "related_x_posts": [
+        "https://x.com/NVIDIAAI"
+      ],
+      "related_articles": [
+        "https://developer.nvidia.com/blog/co-designing-sparse-attention-for-efficient-long-context-inference",
+        "https://developer.nvidia.com/blog",
+        "https://blogs.nvidia.com/blog/category/deep-learning"
+      ],
+      "entities": [
+        "NVIDIA AI"
+      ],
+      "tags": [
+        "gpu",
+        "inference",
+        "ai_infra"
+      ],
+      "score": 66,
+      "selected_item_id": "cand_cc9f2eba3a83c37b"
+    },
+    {
+      "cluster_id": "developer_nvidia_com_cfd2c613",
+      "title": "Integrating QPUs into Supercomputing Centers Using Slurm HRES Plugins",
+      "summary": "NVIDIA Technical Blog · Integrating QPUs into Supercomputing Centers Using Slurm HRES Plugins",
+      "primary_source": "https://developer.nvidia.com/blog/integrating-qpus-into-supercomputing-centers-using-slurm-hres-plugins",
+      "supporting_sources": [
+        "https://developer.nvidia.com/blog/integrating-qpus-into-supercomputing-centers-using-slurm-hres-plugins",
+        "https://developer.nvidia.com/blog",
+        "https://blogs.nvidia.com/blog/category/deep-learning",
+        "https://x.com/NVIDIAAI"
+      ],
+      "related_x_posts": [
+        "https://x.com/NVIDIAAI"
+      ],
+      "related_articles": [
+        "https://developer.nvidia.com/blog/integrating-qpus-into-supercomputing-centers-using-slurm-hres-plugins",
+        "https://developer.nvidia.com/blog",
+        "https://blogs.nvidia.com/blog/category/deep-learning"
+      ],
+      "entities": [
+        "NVIDIA AI"
+      ],
+      "tags": [
+        "gpu",
+        "inference",
+        "ai_infra"
+      ],
+      "score": 66,
+      "selected_item_id": "cand_97fb5ffb0f4850f5"
+    },
+    {
+      "cluster_id": "vercel_com_8aa5c619",
+      "title": "Native lint and typecheck Deployment Checks are being deprecated",
+      "summary": "Native lint and typecheck Deployment Checks are being deprecated. Use Vercel CI or your own CI workflows to continue running these tasks. What this means These checks run your repository’s lint and typecheck tasks on Vercel in parallel with deployment builds. New checks can no longer be added. Existing checks continue running until November 30, 2026, when they’re removed. Other Deployment Checks and commands already running in GitHub Actions or your Build Command are unaffect",
+      "primary_source": "https://vercel.com/changelog/native-lint-and-typecheck-deployment-checks-are-being-deprecated",
+      "supporting_sources": [
+        "https://vercel.com/changelog/native-lint-and-typecheck-deployment-checks-are-being-deprecated",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "related_x_posts": [
+        "https://x.com/vercel"
+      ],
+      "related_articles": [
+        "https://vercel.com/changelog/native-lint-and-typecheck-deployment-checks-are-being-deprecated",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "score": 66,
+      "selected_item_id": "cand_6eab2937afc9448e"
+    },
+    {
+      "cluster_id": "vercel_com_a496dc2a",
+      "title": "MAI-Image-2.7 and MAI-Image-2.7-Flash now available on AI Gateway",
+      "summary": "Microsoft’s MAI-Image-2.7 and MAI-Image-2.7-Flash are now available in public preview on AI Gateway . Both increase the maximum output size to 2048 x 2048 pixels and add transparent backgrounds for generated and edited images. Generate images from text or edit existing images with one AI Gateway API key, without a Microsoft account. Both models support photorealistic images, text rendering, and targeted edits to products, portraits, and layouts. Use up to five reference image",
+      "primary_source": "https://vercel.com/changelog/mai-image-2-7-and-mai-image-2-7-flash-now-available-on-ai-gateway",
+      "supporting_sources": [
+        "https://vercel.com/changelog/mai-image-2-7-and-mai-image-2-7-flash-now-available-on-ai-gateway",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "related_x_posts": [
+        "https://x.com/vercel"
+      ],
+      "related_articles": [
+        "https://vercel.com/changelog/mai-image-2-7-and-mai-image-2-7-flash-now-available-on-ai-gateway",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "score": 65,
+      "selected_item_id": "cand_a9679762209c1b4e"
+    },
+    {
+      "cluster_id": "elevenlabs_io_019505c2",
+      "title": "The AI retail assistant: from customer question to completed transaction",
+      "summary": "Learn how to build an AI agent to handle customer booking conversations from start to finish with ElevenAgents",
+      "primary_source": "https://elevenlabs.io/blog/retail-ai-assistant-webinar-recap",
+      "supporting_sources": [
+        "https://elevenlabs.io/blog/retail-ai-assistant-webinar-recap",
+        "https://elevenlabs.io/blog/rss.xml",
+        "https://elevenlabs.io",
+        "https://elevenlabs.io/blog",
+        "https://x.com/elevenlabsio"
+      ],
+      "related_x_posts": [
+        "https://x.com/elevenlabsio"
+      ],
+      "related_articles": [
+        "https://elevenlabs.io/blog/retail-ai-assistant-webinar-recap",
+        "https://elevenlabs.io/blog/rss.xml",
+        "https://elevenlabs.io",
+        "https://elevenlabs.io/blog"
+      ],
+      "entities": [
+        "ElevenLabs"
+      ],
+      "tags": [
+        "voice_ai",
+        "audio"
+      ],
+      "score": 64,
+      "selected_item_id": "cand_8b463e8cd1b27a23"
+    },
+    {
+      "cluster_id": "langchain_com_db86c153",
+      "title": "Protect sensitive data in your traces: new controls in LangSmith",
+      "summary": "New controls are now in LangSmith to help teams manage access to sensitive trace data. Learn more.",
+      "primary_source": "https://www.langchain.com/blog/protect-sensitive-data-in-your-traces-new-controls-in-langsmith",
+      "supporting_sources": [
+        "https://www.langchain.com/blog/protect-sensitive-data-in-your-traces-new-controls-in-langsmith",
+        "https://blog.langchain.com/rss.xml",
+        "https://www.langchain.com",
+        "https://blog.langchain.com",
+        "https://x.com/LangChainAI"
+      ],
+      "related_x_posts": [
+        "https://x.com/LangChainAI"
+      ],
+      "related_articles": [
+        "https://www.langchain.com/blog/protect-sensitive-data-in-your-traces-new-controls-in-langsmith",
+        "https://blog.langchain.com/rss.xml",
+        "https://www.langchain.com",
+        "https://blog.langchain.com"
+      ],
+      "entities": [
+        "LangChain"
+      ],
+      "tags": [
+        "agents",
+        "rag",
+        "framework"
+      ],
+      "score": 64,
+      "selected_item_id": "cand_0c4514358fcb1343"
+    },
+    {
+      "cluster_id": "langchain_com_ad784fd4",
+      "title": "What We’ve Learned Building Proactive Agents",
+      "summary": "Proactive agents work toward goals in the background and check in when they need you. What we've learned about memory and UX from building GTM Agent and Robin.",
+      "primary_source": "https://www.langchain.com/blog/what-weve-learned-building-proactive-agents",
+      "supporting_sources": [
+        "https://www.langchain.com/blog/what-weve-learned-building-proactive-agents",
+        "https://blog.langchain.com/rss.xml",
+        "https://www.langchain.com",
+        "https://blog.langchain.com",
+        "https://x.com/LangChainAI"
+      ],
+      "related_x_posts": [
+        "https://x.com/LangChainAI"
+      ],
+      "related_articles": [
+        "https://www.langchain.com/blog/what-weve-learned-building-proactive-agents",
+        "https://blog.langchain.com/rss.xml",
+        "https://www.langchain.com",
+        "https://blog.langchain.com"
+      ],
+      "entities": [
+        "LangChain"
+      ],
+      "tags": [
+        "agents",
+        "rag",
+        "framework"
+      ],
+      "score": 64,
+      "selected_item_id": "cand_298ee80f83e8a629"
+    },
+    {
+      "cluster_id": "lennysnewsletter_com_0f0c1212",
+      "title": "🎙️ How I AI: Fable 5.2 Review + How I fight token fraud as a solo founder + Building a Claude Code family OS",
+      "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+      "primary_source": "https://www.lennysnewsletter.com/p/how-i-ai-fable-52-review-how-i-fight",
+      "supporting_sources": [
+        "https://www.lennysnewsletter.com/p/how-i-ai-fable-52-review-how-i-fight",
+        "https://www.lennysnewsletter.com/feed.xml",
+        "https://www.lennysnewsletter.com"
+      ],
+      "related_x_posts": [],
+      "related_articles": [
+        "https://www.lennysnewsletter.com/p/how-i-ai-fable-52-review-how-i-fight",
+        "https://www.lennysnewsletter.com/feed.xml",
+        "https://www.lennysnewsletter.com"
+      ],
+      "entities": [
+        "Lenny's Newsletter"
+      ],
+      "tags": [
+        "product",
+        "growth",
+        "startup"
+      ],
+      "score": 64,
+      "selected_item_id": "cand_804ae350d911ded4"
+    },
+    {
+      "cluster_id": "vercel_com_0cea1545",
+      "title": "Standard builds move to usage-based billing for new teams",
+      "summary": "Starting today, new Pro and Enterprise teams no longer include a Standard build slot. This brings Standard builds under the same usage-based billing model as other build machines. On Pro, Standard builds cost $0.014 per build minute, and your monthly usage credit applies to build usage. Enterprise rates follow your contract. Standard builds remain billable after switching from Elastic to Standard for teams covered by this change. Select a build machine in team settings or pro",
+      "primary_source": "https://vercel.com/changelog/standard-build-billing-new-teams",
+      "supporting_sources": [
+        "https://vercel.com/changelog/standard-build-billing-new-teams",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "related_x_posts": [
+        "https://x.com/vercel"
+      ],
+      "related_articles": [
+        "https://vercel.com/changelog/standard-build-billing-new-teams",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "score": 63,
+      "selected_item_id": "cand_ba08316771644433"
+    },
+    {
+      "cluster_id": "vercel_com_2f6b112e",
+      "title": "Vercel Blob now supports TTLs for automatic deletion",
+      "summary": "Vercel Blob can now delete blobs automatically. Pass ttlDays when you write a blob and it is deleted that many days after upload, from 1 to 730 days. The TTL counts from the blob's upload date. Use TTLs for blobs you would otherwise delete yourself, such as session transcripts, exports, and temporary uploads. ttlDays works on put() , copy() , putImage() , multipart uploads, and presigned upload URLs. Every write result and head() response now includes expiresAt , so you know ",
+      "primary_source": "https://vercel.com/changelog/vercel-blob-now-supports-ttls-for-automatic-deletion",
+      "supporting_sources": [
+        "https://vercel.com/changelog/vercel-blob-now-supports-ttls-for-automatic-deletion",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "related_x_posts": [
+        "https://x.com/vercel"
+      ],
+      "related_articles": [
+        "https://vercel.com/changelog/vercel-blob-now-supports-ttls-for-automatic-deletion",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "score": 63,
+      "selected_item_id": "cand_10750ed2f92c07a7"
+    },
+    {
+      "cluster_id": "vercel_com_a8f9c60a",
+      "title": "Decision-1.1 now available on AI Gateway",
+      "summary": "Decision-1.1 from Microsoft AI is now available on AI Gateway. It is more accurate, better calibrated, and faster than Decision-1. The decision model returns structured answers instead of free-form text for tasks such as routing support requests, choosing which model should handle a request, selecting the next step in a workflow, or grading AI responses. Boolean: the probability that a condition is true Choice: a selected category and probabilities for each option Score: a nu",
+      "primary_source": "https://vercel.com/changelog/decision-1-1-now-available-on-ai-gateway",
+      "supporting_sources": [
+        "https://vercel.com/changelog/decision-1-1-now-available-on-ai-gateway",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog",
+        "https://x.com/vercel"
+      ],
+      "related_x_posts": [
+        "https://x.com/vercel"
+      ],
+      "related_articles": [
+        "https://vercel.com/changelog/decision-1-1-now-available-on-ai-gateway",
+        "https://vercel.com/blog/feed.xml",
+        "https://vercel.com/ai",
+        "https://vercel.com/blog"
+      ],
+      "entities": [
+        "Vercel AI"
+      ],
+      "tags": [
+        "sdk",
+        "ai_infra",
+        "frontend"
+      ],
+      "score": 63,
+      "selected_item_id": "cand_50c846edf2b9f406"
+    }
+  ],
+  "sources": [
+    "openai.com",
+    "vercel.com",
+    "github.blog",
+    "developer.nvidia.com",
+    "elevenlabs.io",
+    "langchain.com",
+    "lennysnewsletter.com"
+  ]
+}
