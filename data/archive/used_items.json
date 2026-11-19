@@ -31366,5 +31366,225 @@
     "cluster_id": "vercel_com_a8f9c60a",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ec786099d84a29e4",
+    "canonical_url": "https://openai.com/index/research-acceleration-jagged-frontier",
+    "dedupe_key": "e8041ae7576626ee",
+    "title": "Research acceleration: The jagged frontier",
+    "issue_date": "2026-11-19",
+    "cluster_id": "openai_com_1678c09f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6202ab4c8bdcea99",
+    "canonical_url": "https://openai.com/business/customer-stories/sumitomo-life",
+    "dedupe_key": "2d506d92e6979c7e",
+    "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+    "issue_date": "2026-11-19",
+    "cluster_id": "openai_com_54d3a11f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_51e856c7b130d4b9",
+    "canonical_url": "https://vercel.com/changelog/vercel-board-is-now-available",
+    "dedupe_key": "b76b72e09d7f93c8",
+    "title": "Vercel Board is now available",
+    "issue_date": "2026-11-19",
+    "cluster_id": "vercel_com_5774c177",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_53615b0057596ff0",
+    "canonical_url": "https://vercel.com/changelog/gemini-4-neon-now-available-on-ai-gateway",
+    "dedupe_key": "0dafab2c3b792d2b",
+    "title": "Gemini 4 Neon now available on AI Gateway",
+    "issue_date": "2026-11-19",
+    "cluster_id": "vercel_com_d3a9cc30",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f21d7c3aee74f2c4",
+    "canonical_url": "https://deepmind.google/blog/genie-4-is-now-available",
+    "dedupe_key": "828e038f4bdccb00",
+    "title": "Genie 4 is now available",
+    "issue_date": "2026-11-19",
+    "cluster_id": "deepmind_google_27beecfc",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0e6fc8816fcd6944",
+    "canonical_url": "https://openai.com/index/the-silent-consensus",
+    "dedupe_key": "b9be17a375bb6970",
+    "title": "The Silent Consensus",
+    "issue_date": "2026-11-19",
+    "cluster_id": "openai_com_259bd336",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2ad2a13a6b8c2054",
+    "canonical_url": "https://openai.com/index/inside-the-codex-sandbox",
+    "dedupe_key": "ee99e0ed38315458",
+    "title": "Inside the Codex sandbox",
+    "issue_date": "2026-11-19",
+    "cluster_id": "openai_com_1cf6500f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_977e4038b82f92f2",
+    "canonical_url": "https://openai.com/index/managing-frontier-ai-risk",
+    "dedupe_key": "9d53dd33782945a3",
+    "title": "Managing frontier AI risk: From training to deployment",
+    "issue_date": "2026-11-19",
+    "cluster_id": "openai_com_a8496718",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3911d4a2673b9bc4",
+    "canonical_url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+    "dedupe_key": "8606225c6c9877f9",
+    "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+    "issue_date": "2026-11-19",
+    "cluster_id": "openai_com_36211a00",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_33246a752bc23c6c",
+    "canonical_url": "https://openai.com/index/advancing-chip-design-with-our-models",
+    "dedupe_key": "bf07492591590e9e",
+    "title": "Advancing chip design with OpenAI models",
+    "issue_date": "2026-11-19",
+    "cluster_id": "openai_com_eec83baa",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_aadf02640fdb4d59",
+    "canonical_url": "https://www.langchain.com/blog/langsmith-coding-agents-roi",
+    "dedupe_key": "ce96f6cc342c07c3",
+    "title": "LangSmith for Coding Agents: Now track spend by outcome",
+    "issue_date": "2026-11-19",
+    "cluster_id": "langchain_com_4666c555",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_13bac3d1c97c4d73",
+    "canonical_url": "https://deepmind.google/blog/introducing-gemini-4-neon",
+    "dedupe_key": "08d71f1cd3f77a67",
+    "title": "Introducing Gemini 4 Neon",
+    "issue_date": "2026-11-19",
+    "cluster_id": "deepmind_google_9ff50b55",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d50e00382e2028ed",
+    "canonical_url": "https://developer.nvidia.com/blog/build-training-ready-physical-ai-datasets-with-two-prompts-in-nvidia-cosmos",
+    "dedupe_key": "440cee6219f6340b",
+    "title": "Build Training-Ready Physical AI Datasets with Two Prompts in NVIDIA Cosmos",
+    "issue_date": "2026-11-19",
+    "cluster_id": "developer_nvidia_com_0781dbb2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_570c881cd0a8db34",
+    "canonical_url": "https://developer.nvidia.com/blog/tackling-gpu-bottlenecks-in-plane-wave-dft-with-k-point-batching-and-mixed-precision",
+    "dedupe_key": "33e2b62ac0d70edc",
+    "title": "Tackling GPU Bottlenecks in Plane-Wave DFT with K-Point Batching and Mixed Precision",
+    "issue_date": "2026-11-19",
+    "cluster_id": "developer_nvidia_com_43e2ef4b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8e2c48212e9f1aec",
+    "canonical_url": "https://vercel.com/blog/introducing-vercel-board",
+    "dedupe_key": "1486894951fde805",
+    "title": "Introducing Vercel Board",
+    "issue_date": "2026-11-19",
+    "cluster_id": "vercel_com_ba8eccf5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_956539a98394692f",
+    "canonical_url": "https://vercel.com/changelog/parallel-web-search-is-free-on-ai-gateway-and-eve-through-january-31",
+    "dedupe_key": "9f36ca7b5f1e7760",
+    "title": "Parallel web search is free on AI Gateway and eve through January 31",
+    "issue_date": "2026-11-19",
+    "cluster_id": "vercel_com_9e160cf0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b6832d6ffb8e4f5b",
+    "canonical_url": "https://vercel.com/blog/vercel-x",
+    "dedupe_key": "b9079ff52677fad0",
+    "title": "Introducing Vercel X",
+    "issue_date": "2026-11-19",
+    "cluster_id": "vercel_com_534a8dd5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_83f867e35fb73c83",
+    "canonical_url": "https://a16z.com/the-dream-of-the-1990s-is-alive-again-in-cybersecurity",
+    "dedupe_key": "624f3338a7dac97f",
+    "title": "The Dream of the 1990s Is Alive Again in Cybersecurity",
+    "issue_date": "2026-11-19",
+    "cluster_id": "a16z_com_47ee785a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_49654c8ab46e308d",
+    "canonical_url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans",
+    "dedupe_key": "6a55a598ec4a9bcc",
+    "title": "This smell startup says its AI nose is as good as a human’s",
+    "issue_date": "2026-11-19",
+    "cluster_id": "technologyreview_com_154f9a7b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_deb690932dd35337",
+    "canonical_url": "https://vercel.com/changelog/vercel-drives-now-reads-files-up-to-6x-faster",
+    "dedupe_key": "e78c0e2a24a882d4",
+    "title": "Vercel Drives now reads files up to 6x faster",
+    "issue_date": "2026-11-19",
+    "cluster_id": "vercel_com_a1a5d39c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_19f420b05b31bce1",
+    "canonical_url": "https://vercel.com/changelog/speed-insights-now-measures-soft-navigations",
+    "dedupe_key": "b659633a02b48b75",
+    "title": "Speed Insights now measures soft navigations",
+    "issue_date": "2026-11-19",
+    "cluster_id": "vercel_com_41ce650d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0b375b6e2fc4a2c4",
+    "canonical_url": "https://vercel.com/changelog/ai-gateway-now-supports-private-inference",
+    "dedupe_key": "1fb2623822607a4d",
+    "title": "AI Gateway now supports Private Inference",
+    "issue_date": "2026-11-19",
+    "cluster_id": "vercel_com_d74e08e1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
