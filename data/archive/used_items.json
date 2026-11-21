@@ -31806,5 +31806,225 @@
     "cluster_id": "elevenlabs_io_29347827",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_33c8ecf84455a60c",
+    "canonical_url": "https://vercel.com/blog/vercel-completes-iso-iec-42001-2023-certification",
+    "dedupe_key": "bd8271259d2ec6e6",
+    "title": "Vercel completes ISO/IEC 42001:2023 certification",
+    "issue_date": "2026-11-21",
+    "cluster_id": "vercel_com_0dad5a9e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_748c6aa287f3c3f4",
+    "canonical_url": "https://vercel.com/changelog/agents-can-now-find-vercel-cli-commands-by-describing-the-task",
+    "dedupe_key": "f4034374ac3ae041",
+    "title": "Agents can now find Vercel CLI commands by describing the task",
+    "issue_date": "2026-11-21",
+    "cluster_id": "vercel_com_ad4b23aa",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_173783ec5964404d",
+    "canonical_url": "https://openai.com/index/introducing-medchembench",
+    "dedupe_key": "05d745ff59857556",
+    "title": "MedChemBench: Benchmarking AI for medicinal chemistry Research Nov 20, 2026",
+    "issue_date": "2026-11-21",
+    "cluster_id": "openai_com_5b889651",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f725f4cc3ba206e9",
+    "canonical_url": "https://openai.com/index/combatting-adversarial-distillation",
+    "dedupe_key": "ba02f26399a9fc20",
+    "title": "Combatting adversarial distillation",
+    "issue_date": "2026-11-21",
+    "cluster_id": "openai_com_e8891ba5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2f49c5a0cc43c5f6",
+    "canonical_url": "https://openai.com/business/customer-stories/hebbia",
+    "dedupe_key": "d1bea7ee981367b7",
+    "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+    "issue_date": "2026-11-21",
+    "cluster_id": "openai_com_5239519b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4dfc698f6011e821",
+    "canonical_url": "https://vercel.com/changelog/vercel-functions-now-support-request-bodies-up-to-20mib",
+    "dedupe_key": "ef39aac9f80dde5d",
+    "title": "Vercel Functions now support request bodies up to 20MiB",
+    "issue_date": "2026-11-21",
+    "cluster_id": "vercel_com_7dbd0944",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_df12ebbb47399bc9",
+    "canonical_url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update",
+    "dedupe_key": "6077f18b4adea695",
+    "title": "The most misunderstood graph in AI just got a major update",
+    "issue_date": "2026-11-21",
+    "cluster_id": "technologyreview_com_ad7c0e4d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_99e8855d84aa744a",
+    "canonical_url": "https://vercel.com/changelog/priority-projects-now-in-public-beta",
+    "dedupe_key": "c3c9300f5bd4964a",
+    "title": "Priority Projects now in public beta",
+    "issue_date": "2026-11-21",
+    "cluster_id": "vercel_com_c4398dbc",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_320b05c78240bd4b",
+    "canonical_url": "https://elevenlabs.io/blog/fundacion-televisa-posible",
+    "dedupe_key": "a7ba6d7a4bed7775",
+    "title": "How Fundación Televisa interviewed more than 1,000 entrepreneurs with voice AI",
+    "issue_date": "2026-11-21",
+    "cluster_id": "elevenlabs_io_67b9d16f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8c247eaa37cd6c4b",
+    "canonical_url": "https://elevenlabs.io/blog/build-an-outbound-reminder-agent-with-architect",
+    "dedupe_key": "d02d92d1d1220d09",
+    "title": "ElevenAgents for Healthcare: Build an outbound appointment reminder agent with Architect",
+    "issue_date": "2026-11-21",
+    "cluster_id": "elevenlabs_io_e5b19b0e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_fad0d61ff9389932",
+    "canonical_url": "https://elevenlabs.io/blog/scribe-v3-live-medical",
+    "dedupe_key": "40ca4b2f3cab3df6",
+    "title": "Scribe v3 Live Medical helps conversational agents get clinical details right",
+    "issue_date": "2026-11-21",
+    "cluster_id": "elevenlabs_io_7a0bf3b6",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c9842d2f99c37d7a",
+    "canonical_url": "https://elevenlabs.io/blog/autotorino-agents",
+    "dedupe_key": "89d8f6eef2457339",
+    "title": "Autotorino automates dealership calls with ElevenAgents",
+    "issue_date": "2026-11-21",
+    "cluster_id": "elevenlabs_io_8e470d73",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f1f7e48311ceb235",
+    "canonical_url": "https://www.anthropic.com/news/ipo-close",
+    "dedupe_key": "2bcd14773fb26a1c",
+    "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
+    "issue_date": "2026-11-21",
+    "cluster_id": "anthropic_com_d4a10669",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2caabe19241da55e",
+    "canonical_url": "https://x.ai/news/grok-bot-accounting",
+    "dedupe_key": "0c2d8395086b4704",
+    "title": "Product · Nov 16, 2026 Building an accounting team with Grok Bot",
+    "issue_date": "2026-11-21",
+    "cluster_id": "x_ai_c894f7e9",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9dfaa94f9b9c5448",
+    "canonical_url": "https://huggingface.co/blog/inkling2mini",
+    "dedupe_key": "4fa4a66886d6d7ef",
+    "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+    "issue_date": "2026-11-21",
+    "cluster_id": "huggingface_co_27fd696c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_271aa467eb797e66",
+    "canonical_url": "https://huggingface.co/blog/harness-adapters-at-scale",
+    "dedupe_key": "b0cb20c858f9b167",
+    "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+    "issue_date": "2026-11-21",
+    "cluster_id": "huggingface_co_d7c2dc34",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_56440c7d401f2673",
+    "canonical_url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+    "dedupe_key": "dd50c644f473f29d",
+    "title": "Why your fine-tuning job takes longer than the FLOPs say",
+    "issue_date": "2026-11-21",
+    "cluster_id": "huggingface_co_7202c4c4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0288c628ed48fb9f",
+    "canonical_url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+    "dedupe_key": "f7f7192693659999",
+    "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+    "issue_date": "2026-11-21",
+    "cluster_id": "huggingface_co_fda08e47",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_50952364b3b4c702",
+    "canonical_url": "https://huggingface.co/blog/moe-expert-streaming",
+    "dedupe_key": "d0827a530d26964c",
+    "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+    "issue_date": "2026-11-21",
+    "cluster_id": "huggingface_co_b86ce7e8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5f8513214ad856ed",
+    "canonical_url": "https://huggingface.co/blog/rumble-2-flash",
+    "dedupe_key": "388e2bb813a9d598",
+    "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+    "issue_date": "2026-11-21",
+    "cluster_id": "huggingface_co_30bdae12",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_12450d69420458a3",
+    "canonical_url": "https://huggingface.co/blog/openrouter",
+    "dedupe_key": "7641eefbca6b91db",
+    "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+    "issue_date": "2026-11-21",
+    "cluster_id": "huggingface_co_efc06e54",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_49a64f7facc6349f",
+    "canonical_url": "https://www.lennysnewsletter.com/p/35-premium-tools-free-for-a-yearnow",
+    "dedupe_key": "0d0763c0e67b2fc3",
+    "title": "35 premium tools free for a year—now with OpenRouter, LangChain, Sentry, TextExpander, and Ploy 💥",
+    "issue_date": "2026-11-21",
+    "cluster_id": "lennysnewsletter_com_71c3e68d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]

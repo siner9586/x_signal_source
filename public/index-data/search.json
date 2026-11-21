@@ -1,35 +1,36 @@
 [
   {
-    "title": "Build Tool-Calling Parsers in Rust with AI Agents",
-    "url": "https://developer.nvidia.com/blog/build-tool-calling-parsers-in-rust-with-ai-agents",
-    "summary": "NVIDIA Technical Blog · Build Tool-Calling Parsers in Rust with AI Agents",
+    "title": "Vercel completes ISO/IEC 42001:2023 certification",
+    "url": "https://vercel.com/blog/vercel-completes-iso-iec-42001-2023-certification",
+    "summary": "Vercel has completed its ISO/IEC 42001:2023 certification, meeting the international standard for AI management systems. This certification gives our customers confidence to ship fast with agents on Vercel, demonstrating how Vercel designs, builds, operates, and governs our AI products. Our AI management system covers Vercel’s underlying infrastructure and core AI products, including AI Gateway, Vercel Agent, v0, AI-based open source software and frameworks, as well as the pe",
     "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
+      "sdk",
+      "ai_infra",
+      "frontend"
     ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-11-20",
-    "score": 71
-  },
-  {
-    "title": "The best things in open source are built together",
-    "url": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together",
-    "summary": "Introducing Replica and the Open Source Accessibility Framework, new open source projects for collaboration and inclusion. The post The best things in open source are built together appeared first on The GitHub Blog .",
-    "tags": [
-      "ai_coding",
-      "developer_tools"
-    ],
-    "author": "GitHub Copilot",
-    "source": "github.blog",
-    "date": "2026-11-20",
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-11-21",
     "score": 70
   },
   {
-    "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-    "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-    "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+    "title": "Agents can now find Vercel CLI commands by describing the task",
+    "url": "https://vercel.com/changelog/agents-can-now-find-vercel-cli-commands-by-describing-the-task",
+    "summary": "Coding agents can now use vercel help search to find Vercel CLI commands by describing a task in plain language. The search returns a list of matching commands. Add --with-help to include the help page for the first result in the same call. For example, vercel help search \"roll back production\" --with-help returns the options and examples for vercel rollback . Search also supports: API endpoints: When a Vercel API endpoint matches the task, search returns a vercel api command",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-11-21",
+    "score": 70
+  },
+  {
+    "title": "MedChemBench: Benchmarking AI for medicinal chemistry Research Nov 20, 2026",
+    "url": "https://openai.com/index/introducing-medchembench",
+    "summary": "OpenAI News | OpenAI · MedChemBench: Benchmarking AI for medicinal chemistry Research Nov 20, 2026",
     "tags": [
       "ai_models",
       "official",
@@ -38,13 +39,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-11-20",
-    "score": 67
+    "date": "2026-11-21",
+    "score": 69
   },
   {
-    "title": "Deploying Daybreak Red",
-    "url": "https://openai.com/business/learn/deploying-daybreak-red",
-    "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+    "title": "Combatting adversarial distillation",
+    "url": "https://openai.com/index/combatting-adversarial-distillation",
+    "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
     "tags": [
       "ai_models",
       "official",
@@ -53,13 +54,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-11-20",
+    "date": "2026-11-21",
     "score": 67
   },
   {
-    "title": "See PR scans in action",
-    "url": "https://openai.com/business/learn/pr-scans-demo",
-    "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+    "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+    "url": "https://openai.com/business/customer-stories/hebbia",
+    "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
     "tags": [
       "ai_models",
       "official",
@@ -68,127 +69,41 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-11-20",
+    "date": "2026-11-21",
     "score": 67
   },
   {
-    "title": "Explore the Codex Security Plugin",
-    "url": "https://openai.com/business/learn/codex-security-plugin-demo",
-    "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+    "title": "Vercel Functions now support request bodies up to 20MiB",
+    "url": "https://vercel.com/changelog/vercel-functions-now-support-request-bodies-up-to-20mib",
+    "summary": "Vercel Functions now accept inbound request bodies up to 20MiB, up from 4.5MB, in Public Beta. To turn this on, set the VERCEL_SUPPORT_LARGE_REQUEST_BODY=1 environment variable. The opt-in applies to the whole project in the environment where you set it, so you can test the larger limit on preview before enabling it in production. It requires the project's functions to use the performance memory setting of 4GB. It applies to functions on the Node.js, Python, and Bun runtimes,",
     "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
+      "sdk",
+      "ai_infra",
+      "frontend"
     ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-11-20",
-    "score": 67
-  },
-  {
-    "title": "Get started with Daybreak Blue",
-    "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
-    "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-11-20",
-    "score": 67
-  },
-  {
-    "title": "Why agent governance starts with observability",
-    "url": "https://www.langchain.com/blog/agent-governance-observability",
-    "summary": "A strong AI agent governance strategy",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-11-20",
-    "score": 67
-  },
-  {
-    "title": "Reducing Rollout Bottlenecks in Reinforcement Learning with NVIDIA Dynamo",
-    "url": "https://developer.nvidia.com/blog/reducing-rollout-bottlenecks-in-reinforcement-learning-with-nvidia-dynamo",
-    "summary": "NVIDIA Technical Blog · Reducing Rollout Bottlenecks in Reinforcement Learning with NVIDIA Dynamo",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-11-20",
-    "score": 66
-  },
-  {
-    "title": "Enabling Real-Time AI for Scientific Instruments with GPU-Native Data Acquisition",
-    "url": "https://developer.nvidia.com/blog/enabling-real-time-ai-for-scientific-instruments-with-gpu-native-data-acquisition",
-    "summary": "NVIDIA Technical Blog · Enabling Real-Time AI for Scientific Instruments with GPU-Native Data Acquisition",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-11-20",
-    "score": 66
-  },
-  {
-    "title": "Catch production failures early with LangSmith Alerts",
-    "url": "https://www.langchain.com/blog/langsmith-alerts",
-    "summary": "Set up real‑time notifications on error rates, run latency & feedback scores to spot failures before your customers do.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-11-20",
-    "score": 66
-  },
-  {
-    "title": "Announcing Data Annotation Queues",
-    "url": "https://www.langchain.com/blog/announcing-data-annotation-queue",
-    "summary": "Review logs, annotate data, and build datasets with LangSmith's Data Annotation Queues. Improve LLM app performance from prototype to production.",
-    "tags": [
-      "agents",
-      "rag",
-      "framework"
-    ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-11-20",
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-11-21",
     "score": 65
   },
   {
-    "title": "LangSmith Tool Gateway: Secure, governed tool use for agents",
-    "url": "https://www.langchain.com/blog/langsmith-tool-gateway",
-    "summary": "LangSmith Tool Gateway, now in Public Beta, handles credentials, identity, and access for every agent tool call, with policies, approvals, and traces.",
+    "title": "The most misunderstood graph in AI just got a major update",
+    "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update",
+    "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the organization’s time horizon plot, which was widely&#8230;",
     "tags": [
-      "agents",
-      "rag",
-      "framework"
+      "ai",
+      "research",
+      "society"
     ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-11-20",
+    "author": "MIT Technology Review AI",
+    "source": "technologyreview.com",
+    "date": "2026-11-21",
     "score": 64
   },
   {
-    "title": "Vercel Billing CLI is now available",
-    "url": "https://vercel.com/changelog/vercel-billing-cli-is-now-available",
-    "summary": "You can now check your team’s billing overview, review and download invoices, and preview upcoming charges with the Vercel CLI . All billing commands, including usage, contracts, and budgets, are now grouped under vercel billing . Billing overview and invoice history are available on all plans, subject to your team’s existing billing permissions. Upcoming invoice estimates require an active paid subscription. Billing overview Check your team’s plan, billing status, billing cy",
+    "title": "Priority Projects now in public beta",
+    "url": "https://vercel.com/changelog/priority-projects-now-in-public-beta",
+    "summary": "Priority Projects are now in public beta for Pro and Enterprise teams. This optional upgrade for individual Vercel projects adds bot and traffic-source signals, Page Integrity for monitoring and controlling client-side scripts and connections, and additional Firewall controls and alerts. Bot signals Bot protection is free on all plans. You can enable it to challenge non-browser traffic while allowing verified bots. Priority adds more detailed bot signals: categories, verifica",
     "tags": [
       "sdk",
       "ai_infra",
@@ -196,69 +111,92 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-11-20",
+    "date": "2026-11-21",
     "score": 63
   },
   {
-    "title": "GPT-Live 1.1 now available on AI Gateway",
-    "url": "https://vercel.com/changelog/gpt-live-1-1-now-available-on-ai-gateway",
-    "summary": "GPT-Live 1.1 from OpenAI is now available on AI Gateway. GPT-Live 1.1 is a full-duplex voice model, so it listens while it speaks and a caller can pause, interrupt, or add detail mid-reply. Compared with the previous GPT-Live model, it transcribes speech more accurately and keeps a more consistent accent and voice across languages. It uses the same Live endpoint and client delegation, so an existing GPT-Live integration only needs the new model ID. Simple example without dele",
+    "title": "How Fundación Televisa interviewed more than 1,000 entrepreneurs with voice AI",
+    "url": "https://elevenlabs.io/blog/fundacion-televisa-posible",
+    "summary": "Fundación Televisa used ElevenAgents to interview more than 1,000 entrepreneurs for POSiBLE, Mexico’s largest entrepreneurship accelerator.",
     "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
+      "voice_ai",
+      "audio"
     ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-11-20",
-    "score": 63
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-11-21",
+    "score": 62
   },
   {
-    "title": "Liquid AI's d1.2 and d1.2-ultra are now available on AI Gateway",
-    "url": "https://vercel.com/changelog/liquid-ais-d1-2-and-d1-2-ultra-are-now-available-on-ai-gateway",
-    "summary": "Liquid AI’s d1.2 and d1.2-ultra are now available on AI Gateway with audio input and bounding box support. These decision models return structured answers instead of generating text. Ask Boolean questions for yes/no probabilities, Choice questions to select a category, or Score questions to rate an input against a rubric. Multiple questions can share the same input in one request. d1.2 is the faster, lower-cost model. d1.2-ultra is Liquid AI’s most accurate decision model. Us",
+    "title": "ElevenAgents for Healthcare: Build an outbound appointment reminder agent with Architect",
+    "url": "https://elevenlabs.io/blog/build-an-outbound-reminder-agent-with-architect",
+    "summary": "Build an outbound voice agent on ElevenAgents that verifies patients and confirms, reschedules, or cancels appointments in the EHR during the call.",
     "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
+      "voice_ai",
+      "audio"
     ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-11-20",
-    "score": 63
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-11-21",
+    "score": 62
   },
   {
-    "title": "Vercel Sandbox Python SDK 1.0 is now available",
-    "url": "https://vercel.com/changelog/vercel-sandbox-python-sdk-1-0-is-now-available",
-    "summary": "The Vercel Sandbox Python SDK has reached 1.0, stabilizing its public API and bringing feature parity with the TypeScript SDK. Use it to run AI-generated code, test changes, and analyze datasets in isolated sandboxes from your Python application. The SDK includes context managers for automatic sandbox cleanup and AnyIO -based async support for asyncio and Trio. For synchronous code, use vercel.sandbox.sync . Install with uv add 'vercel-sandbox>=1.0' and configure authenticati",
+    "title": "Scribe v3 Live Medical helps conversational agents get clinical details right",
+    "url": "https://elevenlabs.io/blog/scribe-v3-live-medical",
+    "summary": "Scribe v3 Live Medical helps agents catch drug names and clinical terms on live calls, with the lowest WER of the medical models we tested.",
     "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
+      "voice_ai",
+      "audio"
     ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-11-20",
-    "score": 63
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-11-21",
+    "score": 62
   },
   {
-    "title": "Seedance 2.5 Flash now available on AI Gateway",
-    "url": "https://vercel.com/changelog/seedance-2-5-flash-now-available-on-ai-gateway",
-    "summary": "ByteDance’s Seedance 2.5 Flash is now available on AI Gateway . Seedance 2.5 Flash is a faster, lower-cost version of Seedance 2.5 . The output is close to the standard model in human realism, reference-based editing, and prompt adherence. Generate videos with synchronized audio from text prompts or image, video, and audio references. Clips can be 4 to 30 seconds long at up to 720p and 24 frames per second, in landscape, square, or portrait formats. You can also edit or exten",
+    "title": "Autotorino automates dealership calls with ElevenAgents",
+    "url": "https://elevenlabs.io/blog/autotorino-agents",
+    "summary": "Automated call handling more than doubled call volume capacity across the dealer network by using ElevenLabs.",
     "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
+      "voice_ai",
+      "audio"
     ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-11-20",
-    "score": 63
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-11-21",
+    "score": 62
   },
   {
-    "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
-    "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
-    "summary": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
+    "url": "https://www.anthropic.com/news/ipo-close",
+    "summary": "Newsroom \\ Anthropic · Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
+    "tags": [
+      "ai_models",
+      "safety",
+      "official"
+    ],
+    "author": "Anthropic",
+    "source": "anthropic.com",
+    "date": "2026-11-21",
+    "score": 62
+  },
+  {
+    "title": "Product · Nov 16, 2026 Building an accounting team with Grok Bot",
+    "url": "https://x.ai/news/grok-bot-accounting",
+    "summary": "SpaceXSI · Product · Nov 16, 2026 Building an accounting team with Grok Bot",
+    "tags": [
+      "ai_models",
+      "reasoning"
+    ],
+    "author": "xAI",
+    "source": "x.ai",
+    "date": "2026-11-21",
+    "score": 62
+  },
+  {
+    "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+    "url": "https://huggingface.co/blog/inkling2mini",
+    "summary": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -266,46 +204,105 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-11-20",
-    "score": 63
-  },
-  {
-    "title": "How many calls can an AI voice agent handle at scale?",
-    "url": "https://elevenlabs.io/blog/how-many-calls-can-an-ai-voice-agent-handle",
-    "summary": "Learn how many calls can an AI voice agent handle at scale, how to estimate your peak needs, and how burst, queueing, and plan tiers affect capacity.",
-    "tags": [
-      "voice_ai",
-      "audio"
-    ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-11-20",
+    "date": "2026-11-21",
     "score": 62
   },
   {
-    "title": "How Candid Health automates payer calls with ElevenAgents",
-    "url": "https://elevenlabs.io/blog/candid-health",
-    "summary": "Candid Health uses ElevenAgents to investigate claim denials and verify eligibility on payer calls, saving 850+ staff hours in a one-month pilot.",
+    "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+    "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+    "summary": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
-      "voice_ai",
-      "audio"
+      "open_source",
+      "papers",
+      "models"
     ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-11-20",
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-11-21",
     "score": 62
   },
   {
-    "title": "ElevenAgents for Healthcare: agents patients and medical teams trust in clinical settings",
-    "url": "https://elevenlabs.io/blog/elevenagents-for-healthcare",
-    "summary": "Build healthcare voice agents that patients trust, with Scribe v3 Live Medical, EHR integrations, custom guardrails, and HIPAA-eligible deployments.",
+    "title": "Why your fine-tuning job takes longer than the FLOPs say",
+    "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+    "summary": "Why your fine-tuning job takes longer than the FLOPs say 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
-      "voice_ai",
-      "audio"
+      "open_source",
+      "papers",
+      "models"
     ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-11-20",
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-11-21",
+    "score": 62
+  },
+  {
+    "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+    "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+    "summary": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-11-21",
+    "score": 62
+  },
+  {
+    "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+    "url": "https://huggingface.co/blog/moe-expert-streaming",
+    "summary": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-11-21",
+    "score": 62
+  },
+  {
+    "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+    "url": "https://huggingface.co/blog/rumble-2-flash",
+    "summary": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-11-21",
+    "score": 62
+  },
+  {
+    "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+    "url": "https://huggingface.co/blog/openrouter",
+    "summary": "Hugging Face and OpenRouter join forces to make open-weight models easy to run 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-11-21",
+    "score": 62
+  },
+  {
+    "title": "35 premium tools free for a year—now with OpenRouter, LangChain, Sentry, TextExpander, and Ploy 💥",
+    "url": "https://www.lennysnewsletter.com/p/35-premium-tools-free-for-a-yearnow",
+    "summary": "Over $40,000 in value, exclusively for Lenny&#8217;s Newsletter subscribers",
+    "tags": [
+      "product",
+      "growth",
+      "startup"
+    ],
+    "author": "Lenny's Newsletter",
+    "source": "lennysnewsletter.com",
+    "date": "2026-11-21",
     "score": 62
   }
 ]
