@@ -1,300 +1,22 @@
 [
   {
-    "title": "Vercel completes ISO/IEC 42001:2023 certification",
-    "url": "https://vercel.com/blog/vercel-completes-iso-iec-42001-2023-certification",
-    "summary": "Vercel has completed its ISO/IEC 42001:2023 certification, meeting the international standard for AI management systems. This certification gives our customers confidence to ship fast with agents on Vercel, demonstrating how Vercel designs, builds, operates, and governs our AI products. Our AI management system covers Vercel’s underlying infrastructure and core AI products, including AI Gateway, Vercel Agent, v0, AI-based open source software and frameworks, as well as the pe",
+    "title": "How to build a knowledge factory for AI agents",
+    "url": "https://www.langchain.com/blog/knowledge-factory",
+    "summary": "The knowledge factory is how LangChain keeps its agents' company knowledge current: agents flag what's missing, and a curator agent fixes it in the background.",
     "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
+      "agents",
+      "rag",
+      "framework"
     ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-11-21",
-    "score": 70
-  },
-  {
-    "title": "Agents can now find Vercel CLI commands by describing the task",
-    "url": "https://vercel.com/changelog/agents-can-now-find-vercel-cli-commands-by-describing-the-task",
-    "summary": "Coding agents can now use vercel help search to find Vercel CLI commands by describing a task in plain language. The search returns a list of matching commands. Add --with-help to include the help page for the first result in the same call. For example, vercel help search \"roll back production\" --with-help returns the options and examples for vercel rollback . Search also supports: API endpoints: When a Vercel API endpoint matches the task, search returns a vercel api command",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-11-21",
-    "score": 70
-  },
-  {
-    "title": "MedChemBench: Benchmarking AI for medicinal chemistry Research Nov 20, 2026",
-    "url": "https://openai.com/index/introducing-medchembench",
-    "summary": "OpenAI News | OpenAI · MedChemBench: Benchmarking AI for medicinal chemistry Research Nov 20, 2026",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-11-21",
-    "score": 69
-  },
-  {
-    "title": "Combatting adversarial distillation",
-    "url": "https://openai.com/index/combatting-adversarial-distillation",
-    "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-11-21",
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-11-22",
     "score": 67
   },
   {
-    "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
-    "url": "https://openai.com/business/customer-stories/hebbia",
-    "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-11-21",
-    "score": 67
-  },
-  {
-    "title": "Vercel Functions now support request bodies up to 20MiB",
-    "url": "https://vercel.com/changelog/vercel-functions-now-support-request-bodies-up-to-20mib",
-    "summary": "Vercel Functions now accept inbound request bodies up to 20MiB, up from 4.5MB, in Public Beta. To turn this on, set the VERCEL_SUPPORT_LARGE_REQUEST_BODY=1 environment variable. The opt-in applies to the whole project in the environment where you set it, so you can test the larger limit on preview before enabling it in production. It requires the project's functions to use the performance memory setting of 4GB. It applies to functions on the Node.js, Python, and Bun runtimes,",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-11-21",
-    "score": 65
-  },
-  {
-    "title": "The most misunderstood graph in AI just got a major update",
-    "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update",
-    "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the organization’s time horizon plot, which was widely&#8230;",
-    "tags": [
-      "ai",
-      "research",
-      "society"
-    ],
-    "author": "MIT Technology Review AI",
-    "source": "technologyreview.com",
-    "date": "2026-11-21",
-    "score": 64
-  },
-  {
-    "title": "Priority Projects now in public beta",
-    "url": "https://vercel.com/changelog/priority-projects-now-in-public-beta",
-    "summary": "Priority Projects are now in public beta for Pro and Enterprise teams. This optional upgrade for individual Vercel projects adds bot and traffic-source signals, Page Integrity for monitoring and controlling client-side scripts and connections, and additional Firewall controls and alerts. Bot signals Bot protection is free on all plans. You can enable it to challenge non-browser traffic while allowing verified bots. Priority adds more detailed bot signals: categories, verifica",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-11-21",
-    "score": 63
-  },
-  {
-    "title": "How Fundación Televisa interviewed more than 1,000 entrepreneurs with voice AI",
-    "url": "https://elevenlabs.io/blog/fundacion-televisa-posible",
-    "summary": "Fundación Televisa used ElevenAgents to interview more than 1,000 entrepreneurs for POSiBLE, Mexico’s largest entrepreneurship accelerator.",
-    "tags": [
-      "voice_ai",
-      "audio"
-    ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-11-21",
-    "score": 62
-  },
-  {
-    "title": "ElevenAgents for Healthcare: Build an outbound appointment reminder agent with Architect",
-    "url": "https://elevenlabs.io/blog/build-an-outbound-reminder-agent-with-architect",
-    "summary": "Build an outbound voice agent on ElevenAgents that verifies patients and confirms, reschedules, or cancels appointments in the EHR during the call.",
-    "tags": [
-      "voice_ai",
-      "audio"
-    ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-11-21",
-    "score": 62
-  },
-  {
-    "title": "Scribe v3 Live Medical helps conversational agents get clinical details right",
-    "url": "https://elevenlabs.io/blog/scribe-v3-live-medical",
-    "summary": "Scribe v3 Live Medical helps agents catch drug names and clinical terms on live calls, with the lowest WER of the medical models we tested.",
-    "tags": [
-      "voice_ai",
-      "audio"
-    ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-11-21",
-    "score": 62
-  },
-  {
-    "title": "Autotorino automates dealership calls with ElevenAgents",
-    "url": "https://elevenlabs.io/blog/autotorino-agents",
-    "summary": "Automated call handling more than doubled call volume capacity across the dealer network by using ElevenLabs.",
-    "tags": [
-      "voice_ai",
-      "audio"
-    ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-11-21",
-    "score": 62
-  },
-  {
-    "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
-    "url": "https://www.anthropic.com/news/ipo-close",
-    "summary": "Newsroom \\ Anthropic · Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
-    "tags": [
-      "ai_models",
-      "safety",
-      "official"
-    ],
-    "author": "Anthropic",
-    "source": "anthropic.com",
-    "date": "2026-11-21",
-    "score": 62
-  },
-  {
-    "title": "Product · Nov 16, 2026 Building an accounting team with Grok Bot",
-    "url": "https://x.ai/news/grok-bot-accounting",
-    "summary": "SpaceXSI · Product · Nov 16, 2026 Building an accounting team with Grok Bot",
-    "tags": [
-      "ai_models",
-      "reasoning"
-    ],
-    "author": "xAI",
-    "source": "x.ai",
-    "date": "2026-11-21",
-    "score": 62
-  },
-  {
-    "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
-    "url": "https://huggingface.co/blog/inkling2mini",
-    "summary": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-11-21",
-    "score": 62
-  },
-  {
-    "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
-    "url": "https://huggingface.co/blog/harness-adapters-at-scale",
-    "summary": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-11-21",
-    "score": 62
-  },
-  {
-    "title": "Why your fine-tuning job takes longer than the FLOPs say",
-    "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
-    "summary": "Why your fine-tuning job takes longer than the FLOPs say 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-11-21",
-    "score": 62
-  },
-  {
-    "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-    "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
-    "summary": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-11-21",
-    "score": 62
-  },
-  {
-    "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
-    "url": "https://huggingface.co/blog/moe-expert-streaming",
-    "summary": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-11-21",
-    "score": 62
-  },
-  {
-    "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
-    "url": "https://huggingface.co/blog/rumble-2-flash",
-    "summary": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-11-21",
-    "score": 62
-  },
-  {
-    "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
-    "url": "https://huggingface.co/blog/openrouter",
-    "summary": "Hugging Face and OpenRouter join forces to make open-weight models easy to run 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-11-21",
-    "score": 62
-  },
-  {
-    "title": "35 premium tools free for a year—now with OpenRouter, LangChain, Sentry, TextExpander, and Ploy 💥",
-    "url": "https://www.lennysnewsletter.com/p/35-premium-tools-free-for-a-yearnow",
-    "summary": "Over $40,000 in value, exclusively for Lenny&#8217;s Newsletter subscribers",
+    "title": "🧠 Community Wisdom: Handling context switching with multiple agents, giving feedback on AI-generated designs, getting AI to write less like AI, why PMs don’t share what they’re really working on",
+    "url": "https://www.lennysnewsletter.com/p/community-wisdom-handling-context",
+    "summary": "Community Wisdom 306",
     "tags": [
       "product",
       "growth",
@@ -302,7 +24,252 @@
     ],
     "author": "Lenny's Newsletter",
     "source": "lennysnewsletter.com",
-    "date": "2026-11-21",
+    "date": "2026-11-22",
+    "score": 65
+  },
+  {
+    "title": "How I fight token fraud as a solo founder",
+    "url": "https://www.lennysnewsletter.com/p/how-i-fight-token-fraud-as-a-solo",
+    "summary": "Watch now (40 mins) | &#127897;&#65039; After losing tens of thousands of dollars to token fraud, I walk through six attack patterns, the defenses I built, and why I killed free trials",
+    "tags": [
+      "product",
+      "growth",
+      "startup"
+    ],
+    "author": "Lenny's Newsletter",
+    "source": "lennysnewsletter.com",
+    "date": "2026-11-22",
     "score": 62
+  },
+  {
+    "title": "The AI Hype Index: AI is everywhere",
+    "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere",
+    "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms. Go to the supermarket, and&#8230;",
+    "tags": [
+      "ai",
+      "research",
+      "society"
+    ],
+    "author": "MIT Technology Review AI",
+    "source": "technologyreview.com",
+    "date": "2026-11-22",
+    "score": 61
+  },
+  {
+    "title": "Research Reports",
+    "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports",
+    "summary": "To access a report, click on the corresponding image below.",
+    "tags": [
+      "ai",
+      "research",
+      "society"
+    ],
+    "author": "MIT Technology Review AI",
+    "source": "technologyreview.com",
+    "date": "2026-11-22",
+    "score": 61
+  },
+  {
+    "title": "The open-source movement wants Jensen Huang back",
+    "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including Elon Musk and several influential Nvidia&#8230;",
+    "tags": [
+      "ai",
+      "research",
+      "society"
+    ],
+    "author": "MIT Technology Review AI",
+    "source": "technologyreview.com",
+    "date": "2026-11-22",
+    "score": 61
+  },
+  {
+    "title": "An Interview With Eric Seufert About Agentic Commerce",
+    "url": "https://stratechery.com/2026/an-interview-with-eric-seufert-about-agentic-commerce",
+    "summary": "An interview with Eric Seufert about agentic commerce, including why he thinks ads will be the answer, and why I want retailers who cater to agents.",
+    "tags": [
+      "strategy",
+      "tech",
+      "business"
+    ],
+    "author": "Stratechery",
+    "source": "stratechery.com",
+    "date": "2026-11-22",
+    "score": 61
+  },
+  {
+    "title": "Apple Permissions Update, The New App Paradigm, My iPhone Duo Review",
+    "url": "https://stratechery.com/2026/apple-permissions-update-the-new-app-paradigm-my-iphone-duo-review",
+    "summary": "Apple doesn't ruin the Mac, but they don't fix the agent problem, raising questions if they can think outside the app paradigm. Then, my iPhone Duo review.",
+    "tags": [
+      "strategy",
+      "tech",
+      "business"
+    ],
+    "author": "Stratechery",
+    "source": "stratechery.com",
+    "date": "2026-11-22",
+    "score": 61
+  },
+  {
+    "title": "Thu, 19 Nov 2026",
+    "url": "https://arxiv.org/list/cs.AI/recent?skip=252&amp%3Bshow=50",
+    "summary": "Artificial Intelligence · Thu, 19 Nov 2026",
+    "tags": [
+      "paper",
+      "ai",
+      "arxiv"
+    ],
+    "author": "arXiv CS AI",
+    "source": "arxiv.org",
+    "date": "2026-11-22",
+    "score": 60
+  },
+  {
+    "title": "Wed, 18 Nov 2026",
+    "url": "https://arxiv.org/list/cs.AI/recent?skip=482&amp%3Bshow=50",
+    "summary": "Artificial Intelligence · Wed, 18 Nov 2026",
+    "tags": [
+      "paper",
+      "ai",
+      "arxiv"
+    ],
+    "author": "arXiv CS AI",
+    "source": "arxiv.org",
+    "date": "2026-11-22",
+    "score": 60
+  },
+  {
+    "title": "Tue, 17 Nov 2026",
+    "url": "https://arxiv.org/list/cs.AI/recent?skip=741&amp%3Bshow=50",
+    "summary": "Artificial Intelligence · Tue, 17 Nov 2026",
+    "tags": [
+      "paper",
+      "ai",
+      "arxiv"
+    ],
+    "author": "arXiv CS AI",
+    "source": "arxiv.org",
+    "date": "2026-11-22",
+    "score": 60
+  },
+  {
+    "title": "Mon, 16 Nov 2026",
+    "url": "https://arxiv.org/list/cs.AI/recent?skip=1169&amp%3Bshow=50",
+    "summary": "Artificial Intelligence · Mon, 16 Nov 2026",
+    "tags": [
+      "paper",
+      "ai",
+      "arxiv"
+    ],
+    "author": "arXiv CS AI",
+    "source": "arxiv.org",
+    "date": "2026-11-22",
+    "score": 60
+  },
+  {
+    "title": "Introducing video ad variants and localization in Ads Engine",
+    "url": "https://elevenlabs.io/blog/video-variants-localization-ads-engine",
+    "summary": "Ads Engine makes new versions of the video ads you already run: new hooks, new soundtracks, and dubbed versions with translated captions.",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-11-22",
+    "score": 59
+  },
+  {
+    "title": "How to fix text to speech accuracy problems",
+    "url": "https://elevenlabs.io/blog/fix-text-to-speech-accuracy-problems",
+    "summary": "Text to speech not working? Learn how to fix text to speech accuracy problems like mispronounced words, robotic delivery, and API errors with these tips.",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-11-22",
+    "score": 59
+  },
+  {
+    "title": "What is a vector database? How AI search finds meaning",
+    "url": "https://elevenlabs.io/blog/vector-database",
+    "summary": "Learn what a vector database is, how it works, and where it’s used. See examples, types, and how it compares to relational and graph databases.",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-11-22",
+    "score": 59
+  },
+  {
+    "title": "What is WebRTC? A guide to real-time web communication",
+    "url": "https://elevenlabs.io/blog/what-is-webrtc",
+    "summary": "Learn what WebRTC is, how it works, and how STUN, TURN, and media servers fit in. Compare WebRTC vs WebSocket and see use cases and limitations.",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-11-22",
+    "score": 59
+  },
+  {
+    "title": "What is an LLM? A practical guide to language models",
+    "url": "https://elevenlabs.io/blog/what-is-an-llm",
+    "summary": "Learn what a large language model (LLM) is, how LLMs work, how they are trained, the main architectures, real examples, and their limitations.",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-11-22",
+    "score": 59
+  },
+  {
+    "title": "The Year of More: $200,000 for what you create next",
+    "url": "https://elevenlabs.io/blog/the-year-of-more",
+    "summary": "The new ElevenCreative competition rewards work that brings voice, sound, image, and video together.",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-11-22",
+    "score": 59
+  },
+  {
+    "title": "What's new in Audiobooks in ElevenCreative",
+    "url": "https://elevenlabs.io/blog/whatsnewinaudiobooks",
+    "summary": "What's new in Audiobooks",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-11-22",
+    "score": 59
+  },
+  {
+    "title": "2026.47: Down in DC",
+    "url": "https://stratechery.com/2026/down-in-dc",
+    "summary": "The best Stratechery content from the week of November 16, 2026, including obituaries and exceptionalism, arguments about agents, and Ben gets a Duo.",
+    "tags": [
+      "strategy",
+      "tech",
+      "business"
+    ],
+    "author": "Stratechery",
+    "source": "stratechery.com",
+    "date": "2026-11-22",
+    "score": 59
   }
 ]

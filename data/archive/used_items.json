@@ -32026,5 +32026,205 @@
     "cluster_id": "lennysnewsletter_com_71c3e68d",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_cc1d9d6d1149fff0",
+    "canonical_url": "https://www.langchain.com/blog/knowledge-factory",
+    "dedupe_key": "da51e09fc81efdf1",
+    "title": "How to build a knowledge factory for AI agents",
+    "issue_date": "2026-11-22",
+    "cluster_id": "langchain_com_b0090d9f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_62f9e465309ff3ca",
+    "canonical_url": "https://www.lennysnewsletter.com/p/community-wisdom-handling-context",
+    "dedupe_key": "9a196f4669d1690c",
+    "title": "🧠 Community Wisdom: Handling context switching with multiple agents, giving feedback on AI-generated designs, getting AI to write less like AI, why PMs don’t share what they’re really working on",
+    "issue_date": "2026-11-22",
+    "cluster_id": "lennysnewsletter_com_79a9f76c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_86289de38d7c629e",
+    "canonical_url": "https://www.lennysnewsletter.com/p/how-i-fight-token-fraud-as-a-solo",
+    "dedupe_key": "8ae4bf96a440be47",
+    "title": "How I fight token fraud as a solo founder",
+    "issue_date": "2026-11-22",
+    "cluster_id": "lennysnewsletter_com_d99cc1e8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ae31ca8accc20c64",
+    "canonical_url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere",
+    "dedupe_key": "1f11f1fb3d29607a",
+    "title": "The AI Hype Index: AI is everywhere",
+    "issue_date": "2026-11-22",
+    "cluster_id": "technologyreview_com_e8c985c8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_db148967c2b7505c",
+    "canonical_url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports",
+    "dedupe_key": "6b6c865eba3c553a",
+    "title": "Research Reports",
+    "issue_date": "2026-11-22",
+    "cluster_id": "technologyreview_com_017a1dae",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e9001b8e86ae53eb",
+    "canonical_url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back",
+    "dedupe_key": "e6b8d2c41c9e0ba3",
+    "title": "The open-source movement wants Jensen Huang back",
+    "issue_date": "2026-11-22",
+    "cluster_id": "technologyreview_com_d22cbee9",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_212e453c96be281a",
+    "canonical_url": "https://stratechery.com/2026/an-interview-with-eric-seufert-about-agentic-commerce",
+    "dedupe_key": "1c822645b3a969c5",
+    "title": "An Interview With Eric Seufert About Agentic Commerce",
+    "issue_date": "2026-11-22",
+    "cluster_id": "stratechery_com_7a8ba1a0",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8e1b16ddc5305e15",
+    "canonical_url": "https://stratechery.com/2026/apple-permissions-update-the-new-app-paradigm-my-iphone-duo-review",
+    "dedupe_key": "aefdb5519a821ff2",
+    "title": "Apple Permissions Update, The New App Paradigm, My iPhone Duo Review",
+    "issue_date": "2026-11-22",
+    "cluster_id": "stratechery_com_78e65c8e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2907775b9a2fca59",
+    "canonical_url": "https://arxiv.org/list/cs.AI/recent?skip=252&amp%3Bshow=50",
+    "dedupe_key": "a64dbb8e80fdb519",
+    "title": "Thu, 19 Nov 2026",
+    "issue_date": "2026-11-22",
+    "cluster_id": "arxiv_org_3b7e94a5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4fff298c79e51cdf",
+    "canonical_url": "https://arxiv.org/list/cs.AI/recent?skip=482&amp%3Bshow=50",
+    "dedupe_key": "b50226d996797d51",
+    "title": "Wed, 18 Nov 2026",
+    "issue_date": "2026-11-22",
+    "cluster_id": "arxiv_org_c3556268",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_36bfffb149923fac",
+    "canonical_url": "https://arxiv.org/list/cs.AI/recent?skip=741&amp%3Bshow=50",
+    "dedupe_key": "e7b17fca99e2da65",
+    "title": "Tue, 17 Nov 2026",
+    "issue_date": "2026-11-22",
+    "cluster_id": "arxiv_org_a66b3742",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_17d3b45c4c72ccef",
+    "canonical_url": "https://arxiv.org/list/cs.AI/recent?skip=1169&amp%3Bshow=50",
+    "dedupe_key": "ce82d6af2b26b9c9",
+    "title": "Mon, 16 Nov 2026",
+    "issue_date": "2026-11-22",
+    "cluster_id": "arxiv_org_6eced75b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a622a8e452f1cb6c",
+    "canonical_url": "https://elevenlabs.io/blog/video-variants-localization-ads-engine",
+    "dedupe_key": "0b4251c994bfb51b",
+    "title": "Introducing video ad variants and localization in Ads Engine",
+    "issue_date": "2026-11-22",
+    "cluster_id": "elevenlabs_io_118f687b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ee9cf3ef4e2ccb81",
+    "canonical_url": "https://elevenlabs.io/blog/fix-text-to-speech-accuracy-problems",
+    "dedupe_key": "7e8b45699fe0b6ca",
+    "title": "How to fix text to speech accuracy problems",
+    "issue_date": "2026-11-22",
+    "cluster_id": "elevenlabs_io_1ae27f00",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_63885de8179530cf",
+    "canonical_url": "https://elevenlabs.io/blog/vector-database",
+    "dedupe_key": "b1b2e83042a1c852",
+    "title": "What is a vector database? How AI search finds meaning",
+    "issue_date": "2026-11-22",
+    "cluster_id": "elevenlabs_io_2caf9f88",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ba84340174bd3e1f",
+    "canonical_url": "https://elevenlabs.io/blog/what-is-webrtc",
+    "dedupe_key": "7a470d619f8205db",
+    "title": "What is WebRTC? A guide to real-time web communication",
+    "issue_date": "2026-11-22",
+    "cluster_id": "elevenlabs_io_c5dde161",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a8849ac6b1d58fde",
+    "canonical_url": "https://elevenlabs.io/blog/what-is-an-llm",
+    "dedupe_key": "350aeeff141efba5",
+    "title": "What is an LLM? A practical guide to language models",
+    "issue_date": "2026-11-22",
+    "cluster_id": "elevenlabs_io_3dc206a2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8780a87bc44ca454",
+    "canonical_url": "https://elevenlabs.io/blog/the-year-of-more",
+    "dedupe_key": "955d8e9e4dc7efd1",
+    "title": "The Year of More: $200,000 for what you create next",
+    "issue_date": "2026-11-22",
+    "cluster_id": "elevenlabs_io_d6a01b5d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c9ce34b0f532a992",
+    "canonical_url": "https://elevenlabs.io/blog/whatsnewinaudiobooks",
+    "dedupe_key": "ca4ed73653a94c29",
+    "title": "What's new in Audiobooks in ElevenCreative",
+    "issue_date": "2026-11-22",
+    "cluster_id": "elevenlabs_io_85121f40",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_aefaa75944a78ae7",
+    "canonical_url": "https://stratechery.com/2026/down-in-dc",
+    "dedupe_key": "9e9cfa5a0e611d88",
+    "title": "2026.47: Down in DC",
+    "issue_date": "2026-11-22",
+    "cluster_id": "stratechery_com_e2633e5b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
