@@ -32276,5 +32276,215 @@
     "cluster_id": "stratechery_com_bdcae1db",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7c5f5f743ac5f3d9",
+    "canonical_url": "https://www.llamaindex.ai/blog/building-toward-a-perfect-document-parsing-benchmark",
+    "dedupe_key": "2284f5d6a9a75c1e",
+    "title": "Nov 19, 2026 Company Building Toward a Perfect Document Parsing Benchmark Read",
+    "issue_date": "2026-11-24",
+    "cluster_id": "llamaindex_ai_602a2dab",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b181b232aecc8aa5",
+    "canonical_url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification",
+    "dedupe_key": "36d27b9ba884b707",
+    "title": "Finding faster quantum algorithms with agents and formal verification",
+    "issue_date": "2026-11-24",
+    "cluster_id": "deepmind_google_7d0f7115",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1e54cb73267328b9",
+    "canonical_url": "https://www.llamaindex.ai/blog/introducing-ocria-1-5",
+    "dedupe_key": "df9d080ffa5197cd",
+    "title": "Nov 18, 2026 Product Introducing OCRia-1.5 Read",
+    "issue_date": "2026-11-24",
+    "cluster_id": "llamaindex_ai_f985630c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b35e2ff3d7231ba2",
+    "canonical_url": "https://www.llamaindex.ai/blog/ocr-for-forms",
+    "dedupe_key": "59651aeacfb7fca3",
+    "title": "Nov 24, 2026 Guides OCR for Forms: Why Position-Based Extraction Fails and What Replaces It Read",
+    "issue_date": "2026-11-24",
+    "cluster_id": "llamaindex_ai_65f923ae",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0898915655de5d66",
+    "canonical_url": "https://www.llamaindex.ai/blog/schema-drift",
+    "dedupe_key": "b90a3d3e6ed0b095",
+    "title": "Nov 20, 2026 Guides Schema Drift: What It Is, Why It Breaks Pipelines, and How to Stop It Read",
+    "issue_date": "2026-11-24",
+    "cluster_id": "llamaindex_ai_e4634945",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_fd27065ebe014763",
+    "canonical_url": "https://www.llamaindex.ai/blog/how-to-extract-data-from-pdfs",
+    "dedupe_key": "1cab51e1167ecd46",
+    "title": "Nov 19, 2026 Guides How to Extract Data From PDFs Programmatically, Starting With What the File Actually Contains Read",
+    "issue_date": "2026-11-24",
+    "cluster_id": "llamaindex_ai_304c0fa4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b3060819340a371c",
+    "canonical_url": "https://www.llamaindex.ai/blog/best-ocr-models",
+    "dedupe_key": "350b43d021b48606",
+    "title": "Nov 18, 2026 Guides Best OCR Models in 2026, Ranked by How They Handle Tables Read",
+    "issue_date": "2026-11-24",
+    "cluster_id": "llamaindex_ai_078b45bb",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4d9e8d4a56459c09",
+    "canonical_url": "https://www.llamaindex.ai/blog/how-we-harden-application-testing-for-the-most-sensitive-documents",
+    "dedupe_key": "c587447f9ca6360f",
+    "title": "Nov 11, 2026 Engineering How We Harden Application Testing For the Most Sensitive Documents Read",
+    "issue_date": "2026-11-24",
+    "cluster_id": "llamaindex_ai_c4f6e3ae",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3d80efdd6200cb88",
+    "canonical_url": "https://developer.nvidia.com/blog/get-started-with-gpu-accelerated-duckdb-analytics-using-the-sirius-core-extension",
+    "dedupe_key": "d7517deb23850497",
+    "title": "Get Started with GPU-Accelerated DuckDB Analytics Using the Sirius Core Extension",
+    "issue_date": "2026-11-24",
+    "cluster_id": "developer_nvidia_com_9642bfd3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_582eb7eac4319c2b",
+    "canonical_url": "https://developer.nvidia.com/blog/connecting-energy-use-to-scientific-output-with-science-per-joule",
+    "dedupe_key": "627e4ed5e67ad665",
+    "title": "Connecting Energy Use to Scientific Output with Science per Joule",
+    "issue_date": "2026-11-24",
+    "cluster_id": "developer_nvidia_com_0a0cff4b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c6c202a6c0436caa",
+    "canonical_url": "https://huggingface.co/blog/agentic-evals",
+    "dedupe_key": "a3ab26a0c796ee00",
+    "title": "How to build and maintain an agentic evaluation",
+    "issue_date": "2026-11-24",
+    "cluster_id": "huggingface_co_51a77314",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_75f60fe6227f16d0",
+    "canonical_url": "https://vercel.com/changelog/ai-gateway-now-runs-canary-zdr-audits",
+    "dedupe_key": "6a42b186767a3ca5",
+    "title": "AI Gateway now runs canary ZDR audits",
+    "issue_date": "2026-11-24",
+    "cluster_id": "vercel_com_83d5d34f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9a841654eb28c414",
+    "canonical_url": "https://vercel.com/changelog/catch-missing-feature-flags-before-they-reach-production",
+    "dedupe_key": "6d5c5590bc1931d8",
+    "title": "Catch missing feature flags before they reach production",
+    "issue_date": "2026-11-24",
+    "cluster_id": "vercel_com_f8b79a23",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9d91246390dd405e",
+    "canonical_url": "https://elevenlabs.io/blog/yahoo",
+    "dedupe_key": "5621b61a93d0a4b5",
+    "title": "How Yahoo Scout, a new AI answer tool from Yahoo, got a voice",
+    "issue_date": "2026-11-24",
+    "cluster_id": "elevenlabs_io_3a4a2399",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1d1f87015b603d08",
+    "canonical_url": "https://vercel.com/blog/introducing-audited-zdr-on-ai-gateway",
+    "dedupe_key": "0a2557136c5adc6a",
+    "title": "Introducing Audited ZDR on AI Gateway",
+    "issue_date": "2026-11-24",
+    "cluster_id": "vercel_com_99f16f0d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_413d193c6111a17d",
+    "canonical_url": "https://vercel.com/changelog/choose-ai-gateway-providers-by-headquarters-country",
+    "dedupe_key": "6a74f9f9c5ec6bf5",
+    "title": "Choose AI Gateway providers by headquarters country",
+    "issue_date": "2026-11-24",
+    "cluster_id": "vercel_com_94baa96e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_cc4265c52dd52f7d",
+    "canonical_url": "https://huggingface.co/blog/allenai/robotrack",
+    "dedupe_key": "26830dc2bc095c4e",
+    "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+    "issue_date": "2026-11-24",
+    "cluster_id": "huggingface_co_74ed15a1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e71bfbc711de37c3",
+    "canonical_url": "https://www.lennysnewsletter.com/p/how-i-ai-openclaw-for-executives",
+    "dedupe_key": "a7d1ea37051e4b7f",
+    "title": "🎙️ How I AI: OpenClaw for executives: Automate every 1% annoyance",
+    "issue_date": "2026-11-24",
+    "cluster_id": "lennysnewsletter_com_2bf68492",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_93468b668b949ca8",
+    "canonical_url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument",
+    "dedupe_key": "97c3e9bfb6383eae",
+    "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+    "issue_date": "2026-11-24",
+    "cluster_id": "technologyreview_com_efb23e35",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e9b69efb5a3c77c6",
+    "canonical_url": "https://www.lennysnewsletter.com/p/openclaw-for-executives-automate",
+    "dedupe_key": "5e93b3dddf3e9235",
+    "title": "OpenClaw for executives: Automate every 1% annoyance | Ankit Maheshwari (Innovaccer)",
+    "issue_date": "2026-11-24",
+    "cluster_id": "lennysnewsletter_com_be8732f3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_945c9bc533fbfe4f",
+    "canonical_url": "https://arxiv.org/list/cs.AI/recent?skip=214&amp%3Bshow=50",
+    "dedupe_key": "fd31dfa8907056d4",
+    "title": "Fri, 20 Nov 2026",
+    "issue_date": "2026-11-24",
+    "cluster_id": "arxiv_org_096b1c9e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]

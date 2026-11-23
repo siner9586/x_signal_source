@@ -1,23 +1,246 @@
 [
   {
-    "title": "Perplexity and Intelligence Research Nov 22, 2026",
-    "url": "https://openai.com/index/perplexity-and-intelligence",
-    "summary": "OpenAI News | OpenAI · Perplexity and Intelligence Research Nov 22, 2026",
+    "title": "Nov 19, 2026 Company Building Toward a Perfect Document Parsing Benchmark Read",
+    "url": "https://www.llamaindex.ai/blog/building-toward-a-perfect-document-parsing-benchmark",
+    "summary": "Blog – LlamaIndex · Nov 19, 2026 Company Building Toward a Perfect Document Parsing Benchmark Read",
     "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
+      "rag",
+      "agents",
+      "framework"
     ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-11-23",
+    "author": "LlamaIndex",
+    "source": "llamaindex.ai",
+    "date": "2026-11-24",
+    "score": 70
+  },
+  {
+    "title": "Finding faster quantum algorithms with agents and formal verification",
+    "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification",
+    "summary": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+    "tags": [
+      "research",
+      "multimodal",
+      "science",
+      "official"
+    ],
+    "author": "Google DeepMind",
+    "source": "deepmind.google",
+    "date": "2026-11-24",
+    "score": 69
+  },
+  {
+    "title": "Nov 18, 2026 Product Introducing OCRia-1.5 Read",
+    "url": "https://www.llamaindex.ai/blog/introducing-ocria-1-5",
+    "summary": "Blog – LlamaIndex · Nov 18, 2026 Product Introducing OCRia-1.5 Read",
+    "tags": [
+      "rag",
+      "agents",
+      "framework"
+    ],
+    "author": "LlamaIndex",
+    "source": "llamaindex.ai",
+    "date": "2026-11-24",
+    "score": 68
+  },
+  {
+    "title": "Nov 24, 2026 Guides OCR for Forms: Why Position-Based Extraction Fails and What Replaces It Read",
+    "url": "https://www.llamaindex.ai/blog/ocr-for-forms",
+    "summary": "Blog – LlamaIndex · Nov 24, 2026 Guides OCR for Forms: Why Position-Based Extraction Fails and What Replaces It Read",
+    "tags": [
+      "rag",
+      "agents",
+      "framework"
+    ],
+    "author": "LlamaIndex",
+    "source": "llamaindex.ai",
+    "date": "2026-11-24",
     "score": 67
   },
   {
-    "title": "First principles: What it takes to be a great product manager in the AI era | Sherif Mansour",
-    "url": "https://www.lennysnewsletter.com/p/first-principles-what-it-takes-to",
-    "summary": "Sherif Mansour on why PMs are thriving in the AI era, the artist PM advantage, and why juniors are your secret weapon now",
+    "title": "Nov 20, 2026 Guides Schema Drift: What It Is, Why It Breaks Pipelines, and How to Stop It Read",
+    "url": "https://www.llamaindex.ai/blog/schema-drift",
+    "summary": "Blog – LlamaIndex · Nov 20, 2026 Guides Schema Drift: What It Is, Why It Breaks Pipelines, and How to Stop It Read",
+    "tags": [
+      "rag",
+      "agents",
+      "framework"
+    ],
+    "author": "LlamaIndex",
+    "source": "llamaindex.ai",
+    "date": "2026-11-24",
+    "score": 67
+  },
+  {
+    "title": "Nov 19, 2026 Guides How to Extract Data From PDFs Programmatically, Starting With What the File Actually Contains Read",
+    "url": "https://www.llamaindex.ai/blog/how-to-extract-data-from-pdfs",
+    "summary": "Blog – LlamaIndex · Nov 19, 2026 Guides How to Extract Data From PDFs Programmatically, Starting With What the File Actually Contains Read",
+    "tags": [
+      "rag",
+      "agents",
+      "framework"
+    ],
+    "author": "LlamaIndex",
+    "source": "llamaindex.ai",
+    "date": "2026-11-24",
+    "score": 67
+  },
+  {
+    "title": "Nov 18, 2026 Guides Best OCR Models in 2026, Ranked by How They Handle Tables Read",
+    "url": "https://www.llamaindex.ai/blog/best-ocr-models",
+    "summary": "Blog – LlamaIndex · Nov 18, 2026 Guides Best OCR Models in 2026, Ranked by How They Handle Tables Read",
+    "tags": [
+      "rag",
+      "agents",
+      "framework"
+    ],
+    "author": "LlamaIndex",
+    "source": "llamaindex.ai",
+    "date": "2026-11-24",
+    "score": 67
+  },
+  {
+    "title": "Nov 11, 2026 Engineering How We Harden Application Testing For the Most Sensitive Documents Read",
+    "url": "https://www.llamaindex.ai/blog/how-we-harden-application-testing-for-the-most-sensitive-documents",
+    "summary": "Blog – LlamaIndex · Nov 11, 2026 Engineering How We Harden Application Testing For the Most Sensitive Documents Read",
+    "tags": [
+      "rag",
+      "agents",
+      "framework"
+    ],
+    "author": "LlamaIndex",
+    "source": "llamaindex.ai",
+    "date": "2026-11-24",
+    "score": 67
+  },
+  {
+    "title": "Get Started with GPU-Accelerated DuckDB Analytics Using the Sirius Core Extension",
+    "url": "https://developer.nvidia.com/blog/get-started-with-gpu-accelerated-duckdb-analytics-using-the-sirius-core-extension",
+    "summary": "NVIDIA Technical Blog · Get Started with GPU-Accelerated DuckDB Analytics Using the Sirius Core Extension",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-11-24",
+    "score": 66
+  },
+  {
+    "title": "Connecting Energy Use to Scientific Output with Science per Joule",
+    "url": "https://developer.nvidia.com/blog/connecting-energy-use-to-scientific-output-with-science-per-joule",
+    "summary": "NVIDIA Technical Blog · Connecting Energy Use to Scientific Output with Science per Joule",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-11-24",
+    "score": 66
+  },
+  {
+    "title": "How to build and maintain an agentic evaluation",
+    "url": "https://huggingface.co/blog/agentic-evals",
+    "summary": "How to build and maintain an agentic evaluation 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-11-24",
+    "score": 66
+  },
+  {
+    "title": "AI Gateway now runs canary ZDR audits",
+    "url": "https://vercel.com/changelog/ai-gateway-now-runs-canary-zdr-audits",
+    "summary": "AI Gateway now runs canary audits against inference providers to detect when prompt content is read outside the inference path. Contractual Zero Data Retention (ZDR) agreements and point-in-time security audits establish how a provider should handle your data, but production infrastructure changes continuously. Canary audits add a detection layer on top. Each canary audit run: Mints unique URLs that exist nowhere else, each mapped privately to a specific provider, model, and ",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-11-24",
+    "score": 65
+  },
+  {
+    "title": "Catch missing feature flags before they reach production",
+    "url": "https://vercel.com/changelog/catch-missing-feature-flags-before-they-reach-production",
+    "summary": "Vercel Flags can now block a deployment from reaching production if you’ve declared a flag in code but haven’t created it in your project. Without that definition, your app can silently fall back to the flag’s default value, even if that turns on a feature you meant to keep off. The Flag Definitions Present Deployment Check runs when a deployment is ready. If any flags are missing, the check fails and lists them in the results, where you can create each one before redeploying",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-11-24",
+    "score": 65
+  },
+  {
+    "title": "How Yahoo Scout, a new AI answer tool from Yahoo, got a voice",
+    "url": "https://elevenlabs.io/blog/yahoo",
+    "summary": "Yahoo used the ElevenAgents platform to add conversational voice to its new Yahoo Scout AI answer tool, going from kickoff to production in 6 weeks.",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-11-24",
+    "score": 64
+  },
+  {
+    "title": "Introducing Audited ZDR on AI Gateway",
+    "url": "https://vercel.com/blog/introducing-audited-zdr-on-ai-gateway",
+    "summary": "AI is now used in every part of a business, and as a result, companies send source code, customer records, and regulated data through inference providers. The assurance that no data is retained after processing is still publicly unverified. Payment platforms, cloud infrastructure, and most other layers that handle data this sensitive have a way to prove their controls to outside parties, and inference will follow the same path. Today we are introducing Audited ZDR on AI Gatew",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-11-24",
+    "score": 63
+  },
+  {
+    "title": "Choose AI Gateway providers by headquarters country",
+    "url": "https://vercel.com/changelog/choose-ai-gateway-providers-by-headquarters-country",
+    "summary": "Provider headquarters sends your AI Gateway requests only to providers headquartered in countries you choose, so you can meet compliance and procurement rules about where your AI vendors are located. You can configure provider headquarters to be an allowlist of the countries to use, or a denylist of the countries to block. AI Gateway skips providers in blocked countries and routes requests to the rest of the list, so a model stays accessible as long as it is available in one ",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-11-24",
+    "score": 63
+  },
+  {
+    "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+    "url": "https://huggingface.co/blog/allenai/robotrack",
+    "summary": "RoboTrack: Point tracking for real-world robotic manipulation 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-11-24",
+    "score": 62
+  },
+  {
+    "title": "🎙️ How I AI: OpenClaw for executives: Automate every 1% annoyance",
+    "url": "https://www.lennysnewsletter.com/p/how-i-ai-openclaw-for-executives",
+    "summary": "Your weekly listens from How I AI, part of the Lenny&#8217;s Podcast Network",
     "tags": [
       "product",
       "growth",
@@ -25,49 +248,49 @@
     ],
     "author": "Lenny's Newsletter",
     "source": "lennysnewsletter.com",
-    "date": "2026-11-23",
+    "date": "2026-11-24",
     "score": 62
   },
   {
-    "title": "Sharp Tech on Video: Jensen’s Not Coming Back, AI Shopping, The iPhone Duo",
-    "url": "https://stratechery.com/2026/sharp-tech-on-video-jensens-not-coming-back-ai-shopping-the-iphone-duo",
-    "summary": "Sharp Tech is, for the first time, available on video. You have three ways to consume it: YouTube, Spotify, and here on Stratechery",
+    "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+    "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. Given “the way we approach model sentience and moral&#8230;",
     "tags": [
-      "strategy",
-      "tech",
-      "business"
+      "ai",
+      "research",
+      "society"
     ],
-    "author": "Stratechery",
-    "source": "stratechery.com",
-    "date": "2026-11-23",
-    "score": 58
+    "author": "MIT Technology Review AI",
+    "source": "technologyreview.com",
+    "date": "2026-11-24",
+    "score": 61
   },
   {
-    "title": "Nvidia Earnings; Office Convergence; OS Wars, AI Edition",
-    "url": "https://stratechery.com/2026/nvidia-earnings-office-convergence-os-wars-ai-edition",
-    "summary": "Nvidia's earnings were boring, and also a statement as to why Jensen Huang probably isn't coming back; then, Microsoft and Anthropic ship dueling operating system updates.",
+    "title": "OpenClaw for executives: Automate every 1% annoyance | Ankit Maheshwari (Innovaccer)",
+    "url": "https://www.lennysnewsletter.com/p/openclaw-for-executives-automate",
+    "summary": "Watch now (31 mins) | &#127897;&#65039; Ankit Maheshwari (CTO, Innovaccer) walks me through the OpenClaw Jarvis he runs on a Mac Mini to clear every 1% annoyance in his life",
     "tags": [
-      "strategy",
-      "tech",
-      "business"
+      "product",
+      "growth",
+      "startup"
     ],
-    "author": "Stratechery",
-    "source": "stratechery.com",
-    "date": "2026-11-23",
-    "score": 58
+    "author": "Lenny's Newsletter",
+    "source": "lennysnewsletter.com",
+    "date": "2026-11-24",
+    "score": 61
   },
   {
-    "title": "Obituaries",
-    "url": "https://stratechery.com/2026/obituaries",
-    "summary": "The demise of Jensen Huang was the end of a great many things, including Nvidia's long-term prospects, the AI bubble, and the exceptional way in which the U.S. viewed itself in the world.",
+    "title": "Fri, 20 Nov 2026",
+    "url": "https://arxiv.org/list/cs.AI/recent?skip=214&amp%3Bshow=50",
+    "summary": "Artificial Intelligence · Fri, 20 Nov 2026",
     "tags": [
-      "strategy",
-      "tech",
-      "business"
+      "paper",
+      "ai",
+      "arxiv"
     ],
-    "author": "Stratechery",
-    "source": "stratechery.com",
-    "date": "2026-11-23",
-    "score": 58
+    "author": "arXiv CS AI",
+    "source": "arxiv.org",
+    "date": "2026-11-24",
+    "score": 60
   }
 ]
