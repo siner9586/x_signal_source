@@ -1,0 +1,940 @@
+{
+  "metadata": {
+    "issue_date": "2026-11-23",
+    "generated_at": "2026-11-23T01:25:18.146Z",
+    "timezone": "Asia/Shanghai",
+    "source_mode": "live_fetch_only",
+    "strict_new_only": true,
+    "sources_scanned": 118,
+    "fetch_jobs": 224,
+    "candidates_count": 1137,
+    "selected_count": 5,
+    "duplicates_blocked": 1132,
+    "stale_candidates_blocked": 0,
+    "fetch_failures": 80,
+    "no_new_content": false,
+    "initial_source_index": false
+  },
+  "summary": {
+    "one_liner": "本期由每日自动流水线生成：仅展示当日 live fetch 抓取、且未在历史期展示过的新内容。",
+    "trends": [
+      "AI Agent",
+      "AI Coding",
+      "AI Infra",
+      "Research",
+      "Startup / Investment"
+    ],
+    "watch_next": [
+      "公开 RSS / Atom / HTML 新条目",
+      "GitHub releases 与技术博客",
+      "人工维护 X Article / Thread seed list",
+      "播客长访谈中的一手判断"
+    ]
+  },
+  "must_read": [],
+  "worth_reading": [],
+  "signal_watch": [
+    {
+      "id": "cand_8f19bf55f98d46c3",
+      "canonical_url": "https://openai.com/index/perplexity-and-intelligence",
+      "source_url": "https://openai.com/news",
+      "source_fetch_url": "https://openai.com/news",
+      "source_platform": "web",
+      "source_domain": "openai.com",
+      "source_name": "OpenAI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Perplexity and Intelligence Research Nov 22, 2026",
+      "subtitle": "官方发布、研究、模型与开发者文档优先来源。",
+      "author": "OpenAI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "OpenAI",
+      "language": "unknown",
+      "published_at": "",
+      "captured_at": "2026-11-23T01:25:05.850Z",
+      "captured_issue": "2026-11-23",
+      "summary": "OpenAI News | OpenAI · Perplexity and Intelligence Research Nov 22, 2026",
+      "excerpt": "OpenAI News | OpenAI · Perplexity and Intelligence Research Nov 22, 2026",
+      "raw_text_available": false,
+      "topics": [
+        "Research"
+      ],
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://openai.com/index/perplexity-and-intelligence",
+        "https://openai.com/news",
+        "https://openai.com",
+        "https://x.com/OpenAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 50,
+      "trend_score": 45,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 67,
+      "rank": 178,
+      "cluster_id": "openai_com_9eeae228",
+      "dedupe_key": "ca6b35f8dd28794d",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Perplexity and Intelligence Research Nov 22, 2026 来自 OpenAI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-23",
+      "last_seen_issue": "2026-11-23",
+      "used_in_issue": "2026-11-23"
+    },
+    {
+      "id": "cand_5cddf86d6493c828",
+      "canonical_url": "https://www.lennysnewsletter.com/p/first-principles-what-it-takes-to",
+      "source_url": "https://www.lennysnewsletter.com/feed.xml",
+      "source_fetch_url": "https://www.lennysnewsletter.com/feed.xml",
+      "source_platform": "web",
+      "source_domain": "lennysnewsletter.com",
+      "source_name": "Lenny's Newsletter",
+      "source_file": "media.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "external_article",
+      "title": "First principles: What it takes to be a great product manager in the AI era | Sherif Mansour",
+      "subtitle": "",
+      "author": "Lenny's Newsletter",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Lenny's Newsletter",
+      "language": "unknown",
+      "published_at": "Sun, 22 Nov 2026 13:31:53 GMT",
+      "captured_at": "2026-11-23T01:25:16.320Z",
+      "captured_issue": "2026-11-23",
+      "summary": "Sherif Mansour on why PMs are thriving in the AI era, the artist PM advantage, and why juniors are your secret weapon now",
+      "excerpt": "Sherif Mansour on why PMs are thriving in the AI era, the artist PM advantage, and why juniors are your secret weapon now",
+      "raw_text_available": false,
+      "topics": [
+        "Product"
+      ],
+      "tags": [
+        "product",
+        "growth",
+        "startup"
+      ],
+      "entities": [
+        "Lenny's Newsletter"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://www.lennysnewsletter.com/p/first-principles-what-it-takes-to",
+        "https://www.lennysnewsletter.com/feed.xml",
+        "https://www.lennysnewsletter.com"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 75,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 62,
+      "rank": 980,
+      "cluster_id": "lennysnewsletter_com_5e01e086",
+      "dedupe_key": "f6b007286ed3bfdd",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：First principles: What it takes to be a great product manager in the AI era | Sherif Mansour 来自 Lenny's Newsletter 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-23",
+      "last_seen_issue": "2026-11-23",
+      "used_in_issue": "2026-11-23"
+    },
+    {
+      "id": "cand_0ad8c49164daadfe",
+      "canonical_url": "https://stratechery.com/2026/sharp-tech-on-video-jensens-not-coming-back-ai-shopping-the-iphone-duo",
+      "source_url": "https://stratechery.com/feed",
+      "source_fetch_url": "https://stratechery.com/feed",
+      "source_platform": "web",
+      "source_domain": "stratechery.com",
+      "source_name": "Stratechery",
+      "source_file": "media.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "external_article",
+      "title": "Sharp Tech on Video: Jensen’s Not Coming Back, AI Shopping, The iPhone Duo",
+      "subtitle": "",
+      "author": "Stratechery",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Stratechery",
+      "language": "unknown",
+      "published_at": "Fri, 20 Nov 2026 11:00:00 +0000",
+      "captured_at": "2026-11-23T01:25:15.200Z",
+      "captured_issue": "2026-11-23",
+      "summary": "Sharp Tech is, for the first time, available on video. You have three ways to consume it: YouTube, Spotify, and here on Stratechery",
+      "excerpt": "Sharp Tech is, for the first time, available on video. You have three ways to consume it: YouTube, Spotify, and here on Stratechery",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "strategy",
+        "tech",
+        "business"
+      ],
+      "entities": [
+        "Stratechery"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://stratechery.com/2026/sharp-tech-on-video-jensens-not-coming-back-ai-shopping-the-iphone-duo",
+        "https://stratechery.com/feed",
+        "https://stratechery.com"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 45,
+      "evidence_score": 75,
+      "heat_score": 40,
+      "site_fit_score": 62,
+      "total_score": 58,
+      "rank": 1129,
+      "cluster_id": "stratechery_com_eb1fbebd",
+      "dedupe_key": "88e24288db8cfd9c",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Sharp Tech on Video: Jensen’s Not Coming Back, AI Shopping, The iPhone Duo 来自 Stratechery 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-23",
+      "last_seen_issue": "2026-11-23",
+      "used_in_issue": "2026-11-23"
+    },
+    {
+      "id": "cand_f688c701b0eb7b5a",
+      "canonical_url": "https://stratechery.com/2026/nvidia-earnings-office-convergence-os-wars-ai-edition",
+      "source_url": "https://stratechery.com/feed",
+      "source_fetch_url": "https://stratechery.com/feed",
+      "source_platform": "web",
+      "source_domain": "stratechery.com",
+      "source_name": "Stratechery",
+      "source_file": "media.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "external_article",
+      "title": "Nvidia Earnings; Office Convergence; OS Wars, AI Edition",
+      "subtitle": "",
+      "author": "Stratechery",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Stratechery",
+      "language": "unknown",
+      "published_at": "Wed, 18 Nov 2026 11:00:00 +0000",
+      "captured_at": "2026-11-23T01:25:15.200Z",
+      "captured_issue": "2026-11-23",
+      "summary": "Nvidia's earnings were boring, and also a statement as to why Jensen Huang probably isn't coming back; then, Microsoft and Anthropic ship dueling operating system updates.",
+      "excerpt": "Nvidia's earnings were boring, and also a statement as to why Jensen Huang probably isn't coming back; then, Microsoft and Anthropic ship dueling operating system updates.",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "strategy",
+        "tech",
+        "business"
+      ],
+      "entities": [
+        "Stratechery"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://stratechery.com/2026/nvidia-earnings-office-convergence-os-wars-ai-edition",
+        "https://stratechery.com/feed",
+        "https://stratechery.com"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 45,
+      "evidence_score": 75,
+      "heat_score": 40,
+      "site_fit_score": 62,
+      "total_score": 58,
+      "rank": 1130,
+      "cluster_id": "stratechery_com_e23b3f87",
+      "dedupe_key": "7c95e050d1d30d48",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Nvidia Earnings; Office Convergence; OS Wars, AI Edition 来自 Stratechery 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-23",
+      "last_seen_issue": "2026-11-23",
+      "used_in_issue": "2026-11-23"
+    },
+    {
+      "id": "cand_d1bba2740dd772cc",
+      "canonical_url": "https://stratechery.com/2026/obituaries",
+      "source_url": "https://stratechery.com/feed",
+      "source_fetch_url": "https://stratechery.com/feed",
+      "source_platform": "web",
+      "source_domain": "stratechery.com",
+      "source_name": "Stratechery",
+      "source_file": "media.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "external_article",
+      "title": "Obituaries",
+      "subtitle": "",
+      "author": "Stratechery",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Stratechery",
+      "language": "unknown",
+      "published_at": "Mon, 16 Nov 2026 11:02:49 +0000",
+      "captured_at": "2026-11-23T01:25:15.200Z",
+      "captured_issue": "2026-11-23",
+      "summary": "The demise of Jensen Huang was the end of a great many things, including Nvidia's long-term prospects, the AI bubble, and the exceptional way in which the U.S. viewed itself in the world.",
+      "excerpt": "The demise of Jensen Huang was the end of a great many things, including Nvidia's long-term prospects, the AI bubble, and the exceptional way in which the U.S. viewed itself in the world.",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "strategy",
+        "tech",
+        "business"
+      ],
+      "entities": [
+        "Stratechery"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://stratechery.com/2026/obituaries",
+        "https://stratechery.com/feed",
+        "https://stratechery.com"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 45,
+      "evidence_score": 75,
+      "heat_score": 40,
+      "site_fit_score": 62,
+      "total_score": 58,
+      "rank": 1131,
+      "cluster_id": "stratechery_com_bdcae1db",
+      "dedupe_key": "4cbf30590b2fdca7",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Obituaries 来自 Stratechery 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-23",
+      "last_seen_issue": "2026-11-23",
+      "used_in_issue": "2026-11-23"
+    }
+  ],
+  "hot_rank": [
+    {
+      "id": "cand_8f19bf55f98d46c3",
+      "canonical_url": "https://openai.com/index/perplexity-and-intelligence",
+      "source_url": "https://openai.com/news",
+      "source_fetch_url": "https://openai.com/news",
+      "source_platform": "web",
+      "source_domain": "openai.com",
+      "source_name": "OpenAI",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Perplexity and Intelligence Research Nov 22, 2026",
+      "subtitle": "官方发布、研究、模型与开发者文档优先来源。",
+      "author": "OpenAI",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "OpenAI",
+      "language": "unknown",
+      "published_at": "",
+      "captured_at": "2026-11-23T01:25:05.850Z",
+      "captured_issue": "2026-11-23",
+      "summary": "OpenAI News | OpenAI · Perplexity and Intelligence Research Nov 22, 2026",
+      "excerpt": "OpenAI News | OpenAI · Perplexity and Intelligence Research Nov 22, 2026",
+      "raw_text_available": false,
+      "topics": [
+        "Research"
+      ],
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://openai.com/index/perplexity-and-intelligence",
+        "https://openai.com/news",
+        "https://openai.com",
+        "https://x.com/OpenAI"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 50,
+      "trend_score": 45,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 67,
+      "rank": 178,
+      "cluster_id": "openai_com_9eeae228",
+      "dedupe_key": "ca6b35f8dd28794d",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Perplexity and Intelligence Research Nov 22, 2026 来自 OpenAI 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-23",
+      "last_seen_issue": "2026-11-23",
+      "used_in_issue": "2026-11-23"
+    },
+    {
+      "id": "cand_5cddf86d6493c828",
+      "canonical_url": "https://www.lennysnewsletter.com/p/first-principles-what-it-takes-to",
+      "source_url": "https://www.lennysnewsletter.com/feed.xml",
+      "source_fetch_url": "https://www.lennysnewsletter.com/feed.xml",
+      "source_platform": "web",
+      "source_domain": "lennysnewsletter.com",
+      "source_name": "Lenny's Newsletter",
+      "source_file": "media.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "external_article",
+      "title": "First principles: What it takes to be a great product manager in the AI era | Sherif Mansour",
+      "subtitle": "",
+      "author": "Lenny's Newsletter",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Lenny's Newsletter",
+      "language": "unknown",
+      "published_at": "Sun, 22 Nov 2026 13:31:53 GMT",
+      "captured_at": "2026-11-23T01:25:16.320Z",
+      "captured_issue": "2026-11-23",
+      "summary": "Sherif Mansour on why PMs are thriving in the AI era, the artist PM advantage, and why juniors are your secret weapon now",
+      "excerpt": "Sherif Mansour on why PMs are thriving in the AI era, the artist PM advantage, and why juniors are your secret weapon now",
+      "raw_text_available": false,
+      "topics": [
+        "Product"
+      ],
+      "tags": [
+        "product",
+        "growth",
+        "startup"
+      ],
+      "entities": [
+        "Lenny's Newsletter"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://www.lennysnewsletter.com/p/first-principles-what-it-takes-to",
+        "https://www.lennysnewsletter.com/feed.xml",
+        "https://www.lennysnewsletter.com"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 57,
+      "evidence_score": 75,
+      "heat_score": 40,
+      "site_fit_score": 86,
+      "total_score": 62,
+      "rank": 980,
+      "cluster_id": "lennysnewsletter_com_5e01e086",
+      "dedupe_key": "f6b007286ed3bfdd",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：First principles: What it takes to be a great product manager in the AI era | Sherif Mansour 来自 Lenny's Newsletter 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-23",
+      "last_seen_issue": "2026-11-23",
+      "used_in_issue": "2026-11-23"
+    },
+    {
+      "id": "cand_0ad8c49164daadfe",
+      "canonical_url": "https://stratechery.com/2026/sharp-tech-on-video-jensens-not-coming-back-ai-shopping-the-iphone-duo",
+      "source_url": "https://stratechery.com/feed",
+      "source_fetch_url": "https://stratechery.com/feed",
+      "source_platform": "web",
+      "source_domain": "stratechery.com",
+      "source_name": "Stratechery",
+      "source_file": "media.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "external_article",
+      "title": "Sharp Tech on Video: Jensen’s Not Coming Back, AI Shopping, The iPhone Duo",
+      "subtitle": "",
+      "author": "Stratechery",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Stratechery",
+      "language": "unknown",
+      "published_at": "Fri, 20 Nov 2026 11:00:00 +0000",
+      "captured_at": "2026-11-23T01:25:15.200Z",
+      "captured_issue": "2026-11-23",
+      "summary": "Sharp Tech is, for the first time, available on video. You have three ways to consume it: YouTube, Spotify, and here on Stratechery",
+      "excerpt": "Sharp Tech is, for the first time, available on video. You have three ways to consume it: YouTube, Spotify, and here on Stratechery",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "strategy",
+        "tech",
+        "business"
+      ],
+      "entities": [
+        "Stratechery"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://stratechery.com/2026/sharp-tech-on-video-jensens-not-coming-back-ai-shopping-the-iphone-duo",
+        "https://stratechery.com/feed",
+        "https://stratechery.com"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 45,
+      "evidence_score": 75,
+      "heat_score": 40,
+      "site_fit_score": 62,
+      "total_score": 58,
+      "rank": 1129,
+      "cluster_id": "stratechery_com_eb1fbebd",
+      "dedupe_key": "88e24288db8cfd9c",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Sharp Tech on Video: Jensen’s Not Coming Back, AI Shopping, The iPhone Duo 来自 Stratechery 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-23",
+      "last_seen_issue": "2026-11-23",
+      "used_in_issue": "2026-11-23"
+    },
+    {
+      "id": "cand_f688c701b0eb7b5a",
+      "canonical_url": "https://stratechery.com/2026/nvidia-earnings-office-convergence-os-wars-ai-edition",
+      "source_url": "https://stratechery.com/feed",
+      "source_fetch_url": "https://stratechery.com/feed",
+      "source_platform": "web",
+      "source_domain": "stratechery.com",
+      "source_name": "Stratechery",
+      "source_file": "media.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "external_article",
+      "title": "Nvidia Earnings; Office Convergence; OS Wars, AI Edition",
+      "subtitle": "",
+      "author": "Stratechery",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Stratechery",
+      "language": "unknown",
+      "published_at": "Wed, 18 Nov 2026 11:00:00 +0000",
+      "captured_at": "2026-11-23T01:25:15.200Z",
+      "captured_issue": "2026-11-23",
+      "summary": "Nvidia's earnings were boring, and also a statement as to why Jensen Huang probably isn't coming back; then, Microsoft and Anthropic ship dueling operating system updates.",
+      "excerpt": "Nvidia's earnings were boring, and also a statement as to why Jensen Huang probably isn't coming back; then, Microsoft and Anthropic ship dueling operating system updates.",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "strategy",
+        "tech",
+        "business"
+      ],
+      "entities": [
+        "Stratechery"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://stratechery.com/2026/nvidia-earnings-office-convergence-os-wars-ai-edition",
+        "https://stratechery.com/feed",
+        "https://stratechery.com"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 45,
+      "evidence_score": 75,
+      "heat_score": 40,
+      "site_fit_score": 62,
+      "total_score": 58,
+      "rank": 1130,
+      "cluster_id": "stratechery_com_e23b3f87",
+      "dedupe_key": "7c95e050d1d30d48",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Nvidia Earnings; Office Convergence; OS Wars, AI Edition 来自 Stratechery 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-23",
+      "last_seen_issue": "2026-11-23",
+      "used_in_issue": "2026-11-23"
+    },
+    {
+      "id": "cand_d1bba2740dd772cc",
+      "canonical_url": "https://stratechery.com/2026/obituaries",
+      "source_url": "https://stratechery.com/feed",
+      "source_fetch_url": "https://stratechery.com/feed",
+      "source_platform": "web",
+      "source_domain": "stratechery.com",
+      "source_name": "Stratechery",
+      "source_file": "media.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "external_article",
+      "title": "Obituaries",
+      "subtitle": "",
+      "author": "Stratechery",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Stratechery",
+      "language": "unknown",
+      "published_at": "Mon, 16 Nov 2026 11:02:49 +0000",
+      "captured_at": "2026-11-23T01:25:15.200Z",
+      "captured_issue": "2026-11-23",
+      "summary": "The demise of Jensen Huang was the end of a great many things, including Nvidia's long-term prospects, the AI bubble, and the exceptional way in which the U.S. viewed itself in the world.",
+      "excerpt": "The demise of Jensen Huang was the end of a great many things, including Nvidia's long-term prospects, the AI bubble, and the exceptional way in which the U.S. viewed itself in the world.",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "strategy",
+        "tech",
+        "business"
+      ],
+      "entities": [
+        "Stratechery"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://stratechery.com/2026/obituaries",
+        "https://stratechery.com/feed",
+        "https://stratechery.com"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 45,
+      "evidence_score": 75,
+      "heat_score": 40,
+      "site_fit_score": 62,
+      "total_score": 58,
+      "rank": 1131,
+      "cluster_id": "stratechery_com_bdcae1db",
+      "dedupe_key": "4cbf30590b2fdca7",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Obituaries 来自 Stratechery 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-23",
+      "last_seen_issue": "2026-11-23",
+      "used_in_issue": "2026-11-23"
+    }
+  ],
+  "clusters": [
+    {
+      "cluster_id": "openai_com_9eeae228",
+      "title": "Perplexity and Intelligence Research Nov 22, 2026",
+      "summary": "OpenAI News | OpenAI · Perplexity and Intelligence Research Nov 22, 2026",
+      "primary_source": "https://openai.com/index/perplexity-and-intelligence",
+      "supporting_sources": [
+        "https://openai.com/index/perplexity-and-intelligence",
+        "https://openai.com/news",
+        "https://openai.com",
+        "https://x.com/OpenAI"
+      ],
+      "related_x_posts": [
+        "https://x.com/OpenAI"
+      ],
+      "related_articles": [
+        "https://openai.com/index/perplexity-and-intelligence",
+        "https://openai.com/news",
+        "https://openai.com"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "tags": [
+        "ai_models",
+        "official",
+        "research",
+        "developer"
+      ],
+      "score": 67,
+      "selected_item_id": "cand_8f19bf55f98d46c3"
+    },
+    {
+      "cluster_id": "lennysnewsletter_com_5e01e086",
+      "title": "First principles: What it takes to be a great product manager in the AI era | Sherif Mansour",
+      "summary": "Sherif Mansour on why PMs are thriving in the AI era, the artist PM advantage, and why juniors are your secret weapon now",
+      "primary_source": "https://www.lennysnewsletter.com/p/first-principles-what-it-takes-to",
+      "supporting_sources": [
+        "https://www.lennysnewsletter.com/p/first-principles-what-it-takes-to",
+        "https://www.lennysnewsletter.com/feed.xml",
+        "https://www.lennysnewsletter.com"
+      ],
+      "related_x_posts": [],
+      "related_articles": [
+        "https://www.lennysnewsletter.com/p/first-principles-what-it-takes-to",
+        "https://www.lennysnewsletter.com/feed.xml",
+        "https://www.lennysnewsletter.com"
+      ],
+      "entities": [
+        "Lenny's Newsletter"
+      ],
+      "tags": [
+        "product",
+        "growth",
+        "startup"
+      ],
+      "score": 62,
+      "selected_item_id": "cand_5cddf86d6493c828"
+    },
+    {
+      "cluster_id": "stratechery_com_eb1fbebd",
+      "title": "Sharp Tech on Video: Jensen’s Not Coming Back, AI Shopping, The iPhone Duo",
+      "summary": "Sharp Tech is, for the first time, available on video. You have three ways to consume it: YouTube, Spotify, and here on Stratechery",
+      "primary_source": "https://stratechery.com/2026/sharp-tech-on-video-jensens-not-coming-back-ai-shopping-the-iphone-duo",
+      "supporting_sources": [
+        "https://stratechery.com/2026/sharp-tech-on-video-jensens-not-coming-back-ai-shopping-the-iphone-duo",
+        "https://stratechery.com/feed",
+        "https://stratechery.com"
+      ],
+      "related_x_posts": [],
+      "related_articles": [
+        "https://stratechery.com/2026/sharp-tech-on-video-jensens-not-coming-back-ai-shopping-the-iphone-duo",
+        "https://stratechery.com/feed",
+        "https://stratechery.com"
+      ],
+      "entities": [
+        "Stratechery"
+      ],
+      "tags": [
+        "strategy",
+        "tech",
+        "business"
+      ],
+      "score": 58,
+      "selected_item_id": "cand_0ad8c49164daadfe"
+    },
+    {
+      "cluster_id": "stratechery_com_e23b3f87",
+      "title": "Nvidia Earnings; Office Convergence; OS Wars, AI Edition",
+      "summary": "Nvidia's earnings were boring, and also a statement as to why Jensen Huang probably isn't coming back; then, Microsoft and Anthropic ship dueling operating system updates.",
+      "primary_source": "https://stratechery.com/2026/nvidia-earnings-office-convergence-os-wars-ai-edition",
+      "supporting_sources": [
+        "https://stratechery.com/2026/nvidia-earnings-office-convergence-os-wars-ai-edition",
+        "https://stratechery.com/feed",
+        "https://stratechery.com"
+      ],
+      "related_x_posts": [],
+      "related_articles": [
+        "https://stratechery.com/2026/nvidia-earnings-office-convergence-os-wars-ai-edition",
+        "https://stratechery.com/feed",
+        "https://stratechery.com"
+      ],
+      "entities": [
+        "Stratechery"
+      ],
+      "tags": [
+        "strategy",
+        "tech",
+        "business"
+      ],
+      "score": 58,
+      "selected_item_id": "cand_f688c701b0eb7b5a"
+    },
+    {
+      "cluster_id": "stratechery_com_bdcae1db",
+      "title": "Obituaries",
+      "summary": "The demise of Jensen Huang was the end of a great many things, including Nvidia's long-term prospects, the AI bubble, and the exceptional way in which the U.S. viewed itself in the world.",
+      "primary_source": "https://stratechery.com/2026/obituaries",
+      "supporting_sources": [
+        "https://stratechery.com/2026/obituaries",
+        "https://stratechery.com/feed",
+        "https://stratechery.com"
+      ],
+      "related_x_posts": [],
+      "related_articles": [
+        "https://stratechery.com/2026/obituaries",
+        "https://stratechery.com/feed",
+        "https://stratechery.com"
+      ],
+      "entities": [
+        "Stratechery"
+      ],
+      "tags": [
+        "strategy",
+        "tech",
+        "business"
+      ],
+      "score": 58,
+      "selected_item_id": "cand_d1bba2740dd772cc"
+    }
+  ],
+  "sources": [
+    "openai.com",
+    "lennysnewsletter.com",
+    "stratechery.com"
+  ]
+}

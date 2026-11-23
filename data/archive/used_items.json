@@ -32226,5 +32226,55 @@
     "cluster_id": "stratechery_com_e2633e5b",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8f19bf55f98d46c3",
+    "canonical_url": "https://openai.com/index/perplexity-and-intelligence",
+    "dedupe_key": "ca6b35f8dd28794d",
+    "title": "Perplexity and Intelligence Research Nov 22, 2026",
+    "issue_date": "2026-11-23",
+    "cluster_id": "openai_com_9eeae228",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5cddf86d6493c828",
+    "canonical_url": "https://www.lennysnewsletter.com/p/first-principles-what-it-takes-to",
+    "dedupe_key": "f6b007286ed3bfdd",
+    "title": "First principles: What it takes to be a great product manager in the AI era | Sherif Mansour",
+    "issue_date": "2026-11-23",
+    "cluster_id": "lennysnewsletter_com_5e01e086",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0ad8c49164daadfe",
+    "canonical_url": "https://stratechery.com/2026/sharp-tech-on-video-jensens-not-coming-back-ai-shopping-the-iphone-duo",
+    "dedupe_key": "88e24288db8cfd9c",
+    "title": "Sharp Tech on Video: Jensen’s Not Coming Back, AI Shopping, The iPhone Duo",
+    "issue_date": "2026-11-23",
+    "cluster_id": "stratechery_com_eb1fbebd",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f688c701b0eb7b5a",
+    "canonical_url": "https://stratechery.com/2026/nvidia-earnings-office-convergence-os-wars-ai-edition",
+    "dedupe_key": "7c95e050d1d30d48",
+    "title": "Nvidia Earnings; Office Convergence; OS Wars, AI Edition",
+    "issue_date": "2026-11-23",
+    "cluster_id": "stratechery_com_e23b3f87",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d1bba2740dd772cc",
+    "canonical_url": "https://stratechery.com/2026/obituaries",
+    "dedupe_key": "4cbf30590b2fdca7",
+    "title": "Obituaries",
+    "issue_date": "2026-11-23",
+    "cluster_id": "stratechery_com_bdcae1db",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
