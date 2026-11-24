@@ -32486,5 +32486,215 @@
     "cluster_id": "arxiv_org_096b1c9e",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_209090c8642f35b8",
+    "canonical_url": "https://vercel.com/changelog/inkling-2-mini-now-available-on-ai-gateway",
+    "dedupe_key": "62d2d9e98c2cdd15",
+    "title": "Inkling 2 Mini now available on AI Gateway",
+    "issue_date": "2026-11-25",
+    "cluster_id": "vercel_com_1bc12391",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3332160ecd188d0c",
+    "canonical_url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+    "dedupe_key": "560d794642c4f8ce",
+    "title": "Richpanel helps companies automate 50% of support in 30 days",
+    "issue_date": "2026-11-25",
+    "cluster_id": "openai_com_988ceedb",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_bb79269780b11318",
+    "canonical_url": "https://vercel.com/changelog/all-sandbox-runtimes-now-use-vercel-managed-images",
+    "dedupe_key": "b539e3127d6c4745",
+    "title": "All Sandbox runtimes now use Vercel Managed Images",
+    "issue_date": "2026-11-25",
+    "cluster_id": "vercel_com_1d45f1e5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_21f2ca1eebe8ea81",
+    "canonical_url": "https://vercel.com/blog/kazunari-hanao-joins-vercel-as-country-manager-japan",
+    "dedupe_key": "919807a4ff698e1f",
+    "title": "Kazunari Hanao joins Vercel as Country Manager, Japan",
+    "issue_date": "2026-11-25",
+    "cluster_id": "vercel_com_009045e2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_1005e7114d70d4a0",
+    "canonical_url": "https://openai.com/index/introducing-shirudo",
+    "dedupe_key": "0871d62ca0e17f61",
+    "title": "OpenAI and Cisco introduce Shirudo Security Nov 23, 2026",
+    "issue_date": "2026-11-25",
+    "cluster_id": "openai_com_9fce5313",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_97ed9a3829bafbc3",
+    "canonical_url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+    "dedupe_key": "fefc22a0c4e7eeac",
+    "title": "Connected intelligence for in-house legal",
+    "issue_date": "2026-11-25",
+    "cluster_id": "openai_com_a2ef9367",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8a0e62ce3a24cc8d",
+    "canonical_url": "https://github.blog/news-insights/company-news/these-are-the-gifts-developers-will-actually-want",
+    "dedupe_key": "b099cfe48ebe7620",
+    "title": "These are the gifts developers will actually want",
+    "issue_date": "2026-11-25",
+    "cluster_id": "github_blog_16ea7603",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b2399db579aec51c",
+    "canonical_url": "https://developer.nvidia.com/blog/prepare-market-data-for-forecasting-with-nvidia-megatron-core",
+    "dedupe_key": "85ab33b69cd27024",
+    "title": "Prepare Market Data for Forecasting with NVIDIA Megatron Core",
+    "issue_date": "2026-11-25",
+    "cluster_id": "developer_nvidia_com_398fa5e2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3a0479a60e45e433",
+    "canonical_url": "https://developer.nvidia.com/blog/whats-new-for-game-developers-ai-animation-and-rtx-tools",
+    "dedupe_key": "4994baa5ae60e3b1",
+    "title": "What’s New for Game Developers: AI Animation and RTX Tools",
+    "issue_date": "2026-11-25",
+    "cluster_id": "developer_nvidia_com_e7b50d1f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e4a7fb6152f57343",
+    "canonical_url": "https://developer.nvidia.com/blog/qa-how-everstone-brings-where-winds-meet-to-life-with-nvidia-dlss-5",
+    "dedupe_key": "914c7b99d6516d47",
+    "title": "Q&A: How Everstone Brings Where Winds Meet to Life with NVIDIA DLSS 5",
+    "issue_date": "2026-11-25",
+    "cluster_id": "developer_nvidia_com_719058c1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ffaccb58c7060914",
+    "canonical_url": "https://developer.nvidia.com/blog/accelerating-direct-sparse-solvers-for-computational-engineering-with-nvidia-cudss-1-0",
+    "dedupe_key": "e0b7a3d04cecfd3a",
+    "title": "Accelerating Direct Sparse Solvers for Computational Engineering with NVIDIA cuDSS 1.0",
+    "issue_date": "2026-11-25",
+    "cluster_id": "developer_nvidia_com_8da3aed5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_08ccea20943be9f5",
+    "canonical_url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization",
+    "dedupe_key": "079db90d33c5ad73",
+    "title": "Raising the stakes for enterprise networks with AI modernization",
+    "issue_date": "2026-11-25",
+    "cluster_id": "technologyreview_com_1465877b",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4e9740f271b89a0e",
+    "canonical_url": "https://vercel.com/blog/ja-kazunari-hanao-joins-vercel-as-country-manager-japan",
+    "dedupe_key": "108b9786d0923dc2",
+    "title": "Vercel日本法人の代表に花尾和成が就任いたしました",
+    "issue_date": "2026-11-25",
+    "cluster_id": "vercel_com_eede330a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c432a8270bcf03bf",
+    "canonical_url": "https://vercel.com/changelog/ai-gateway-now-supports-extraction-models",
+    "dedupe_key": "597983c8d856c366",
+    "title": "AI Gateway now supports extraction models",
+    "issue_date": "2026-11-25",
+    "cluster_id": "vercel_com_65393c8f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4126226930c1f217",
+    "canonical_url": "https://vercel.com/changelog/vercel-drives-adds-cli-commands-and-standalone-sdks",
+    "dedupe_key": "e051e65c4d6c8293",
+    "title": "Vercel Drives adds CLI commands and standalone SDKs",
+    "issue_date": "2026-11-25",
+    "cluster_id": "vercel_com_217954bb",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d8630bf7050adda5",
+    "canonical_url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+    "dedupe_key": "6d5955e377894103",
+    "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+    "issue_date": "2026-11-25",
+    "cluster_id": "huggingface_co_f99fb4dd",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a93c5cc4083ba4c1",
+    "canonical_url": "https://arxiv.org/list/cs.AI/recent?skip=485&amp%3Bshow=50",
+    "dedupe_key": "ee1581432f3705e5",
+    "title": "Mon, 23 Nov 2026",
+    "issue_date": "2026-11-25",
+    "cluster_id": "arxiv_org_a970cfb3",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2d99ecfb217d3521",
+    "canonical_url": "https://elevenlabs.io/blog/choose-the-best-speech-to-text-api",
+    "dedupe_key": "c97b47d0dcb2463b",
+    "title": "How to choose the best speech to text API for your use case",
+    "issue_date": "2026-11-25",
+    "cluster_id": "elevenlabs_io_20c04817",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_421e66d5ade3d81e",
+    "canonical_url": "https://elevenlabs.io/blog/elevenmusic-vs-elevencreative",
+    "dedupe_key": "7639a1ec015de4b7",
+    "title": "ElevenMusic vs. music in ElevenCreative: which do I need?",
+    "issue_date": "2026-11-25",
+    "cluster_id": "elevenlabs_io_86b53776",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b484ea62e74928d4",
+    "canonical_url": "https://stratechery.com/2026/amazon-earnings-the-chip-question-about-agents",
+    "dedupe_key": "92010704e0822742",
+    "title": "Amazon Earnings, The Chip Question, About Agents",
+    "issue_date": "2026-11-25",
+    "cluster_id": "stratechery_com_2e578814",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_54e7d8279840610f",
+    "canonical_url": "https://stratechery.com/2026/the-individual-exception",
+    "dedupe_key": "f1dbf219e7abf321",
+    "title": "The Individual Exception",
+    "issue_date": "2026-11-25",
+    "cluster_id": "stratechery_com_86d837fe",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
