@@ -32696,5 +32696,225 @@
     "cluster_id": "stratechery_com_86d837fe",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3581135ebea1a0e0",
+    "canonical_url": "https://openai.com/business/customer-stories/ifood",
+    "dedupe_key": "bb70d2a2cd373e72",
+    "title": "How iFood scales coding agents across 15,000 repositories",
+    "issue_date": "2026-11-26",
+    "cluster_id": "openai_com_9e9ee933",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e14fc623bb041c47",
+    "canonical_url": "https://www.ycombinator.com/blog/how-daniel-zeltser-cold-emailed-his-way-to-employee-2-at-beacon-health",
+    "dedupe_key": "91d2f6d107ab4ef7",
+    "title": "How Daniel Zeltser cold-emailed his way to employee #2 at Beacon Health",
+    "issue_date": "2026-11-26",
+    "cluster_id": "ycombinator_com_bbeb353a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5e85e036b657f8a4",
+    "canonical_url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+    "dedupe_key": "b435a32bf04e64cf",
+    "title": "Clay helps sales teams win with Codex and ChatGPT",
+    "issue_date": "2026-11-26",
+    "cluster_id": "openai_com_1111b8ff",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_ee7b1e56fdbb835a",
+    "canonical_url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+    "dedupe_key": "659e5dd56f382946",
+    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities Science Nov 24, 2026",
+    "issue_date": "2026-11-26",
+    "cluster_id": "openai_com_80f32583",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_99c012835a69b06f",
+    "canonical_url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+    "dedupe_key": "83933439694ef636",
+    "title": "Searching for distant planets with Astra",
+    "issue_date": "2026-11-26",
+    "cluster_id": "openai_com_a703d130",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_34a179b40bf360a3",
+    "canonical_url": "https://openai.com/business/customer-stories/intentful-dots",
+    "dedupe_key": "7b4d886ffa4e3dbd",
+    "title": "How Intentful uses dots to make more time for growth",
+    "issue_date": "2026-11-26",
+    "cluster_id": "openai_com_51cc66f4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3e1483a0cd91e9a0",
+    "canonical_url": "https://github.blog/news-insights/company-news/art-of-play-in-the-age-of-ai",
+    "dedupe_key": "ba0243055edfd7fb",
+    "title": "Art of play in the age of AI",
+    "issue_date": "2026-11-26",
+    "cluster_id": "github_blog_ba3e3967",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6f05be2023cc75bf",
+    "canonical_url": "https://developer.nvidia.com/blog/how-to-run-nvidia-cosmos-3-on-local-ai-devices-using-hugging-face-diffusers",
+    "dedupe_key": "b3599b0c7930ed56",
+    "title": "How to Run NVIDIA Cosmos 3 on Local AI Devices Using Hugging Face Diffusers",
+    "issue_date": "2026-11-26",
+    "cluster_id": "developer_nvidia_com_5742374a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_58dc5bf85edbe4cf",
+    "canonical_url": "https://vercel.com/changelog/agents-can-now-manage-ai-gateway-through-vercel-mcp",
+    "dedupe_key": "9d4ff9f5bf92b036",
+    "title": "Agents can now manage AI Gateway through Vercel MCP",
+    "issue_date": "2026-11-26",
+    "cluster_id": "vercel_com_05a77558",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6efa1046cd3f80bf",
+    "canonical_url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+    "dedupe_key": "92e190b77a02252a",
+    "title": "An Indic Voice Agent with CUGA",
+    "issue_date": "2026-11-26",
+    "cluster_id": "huggingface_co_cadbe2fc",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_6020db1dded5081e",
+    "canonical_url": "https://www.langchain.com/blog/ai-governance-iso-iec-42001-langsmith",
+    "dedupe_key": "30ebaa4e0de30b6f",
+    "title": "How We Achieved ISO 42001 with LangSmith",
+    "issue_date": "2026-11-26",
+    "cluster_id": "langchain_com_2f12206f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_3fe2009e8454c508",
+    "canonical_url": "https://www.langchain.com/blog/the-agent-lake",
+    "dedupe_key": "6af6f5f9fa6ddab5",
+    "title": "The Agent Lake",
+    "issue_date": "2026-11-26",
+    "cluster_id": "langchain_com_adcdaad4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8a7f7a83d6b7c24a",
+    "canonical_url": "https://www.ycombinator.com/blog/how-steven-basart-forced-his-way-into-beacon-health-and-became-its-first-engineer",
+    "dedupe_key": "d4215bab376c9a82",
+    "title": "How Steven Basart forced his way into Beacon Health and became its first engineer",
+    "issue_date": "2026-11-26",
+    "cluster_id": "ycombinator_com_de7fd6c2",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_802174b3e719ca1c",
+    "canonical_url": "https://www.lennysnewsletter.com/p/gemini-4-neon-beat-gpt-62-and-claude",
+    "dedupe_key": "80d794519bf32b68",
+    "title": "Gemini 4 Neon beat GPT-6.2 and Claude in my 25-task AI benchmark",
+    "issue_date": "2026-11-26",
+    "cluster_id": "lennysnewsletter_com_76e8863d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4c4cf23c732752fb",
+    "canonical_url": "https://vercel.com/changelog/standard-builds-for-existing-pro-teams-have-moved-to-usage-based-billing",
+    "dedupe_key": "208c5054f3ac93a8",
+    "title": "Standard builds for existing Pro teams have moved to usage-based billing",
+    "issue_date": "2026-11-26",
+    "cluster_id": "vercel_com_b429f8f1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a6ded18793b3155e",
+    "canonical_url": "https://vercel.com/blog/how-cozey-turns-its-operators-into-software-builders-on-vercel",
+    "dedupe_key": "97809e972a4e53c7",
+    "title": "How Cozey turns its operators into software builders on Vercel",
+    "issue_date": "2026-11-26",
+    "cluster_id": "vercel_com_3c2f1367",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c895b383d9ef6aac",
+    "canonical_url": "https://vercel.com/changelog/aws-privatelink-endpoints-are-now-available-on-secure-compute",
+    "dedupe_key": "58614a686d633a16",
+    "title": "AWS PrivateLink endpoints are now available on Secure Compute",
+    "issue_date": "2026-11-26",
+    "cluster_id": "vercel_com_1437d089",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4b5d68afa6fe236b",
+    "canonical_url": "https://vercel.com/changelog/flags-sdk-now-works-on-vercel-without-flags-secret",
+    "dedupe_key": "e4dec89de43d0759",
+    "title": "Flags SDK now works on Vercel without FLAGS_SECRET",
+    "issue_date": "2026-11-26",
+    "cluster_id": "vercel_com_92abcf39",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_7402cd25ff39cd32",
+    "canonical_url": "https://vercel.com/changelog/delete-run-data-workflow-sdk",
+    "dedupe_key": "dca12daea384c4b9",
+    "title": "Delete a run's data on demand in Workflow SDK",
+    "issue_date": "2026-11-26",
+    "cluster_id": "vercel_com_bf34bfaf",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9fe0764609fab0a9",
+    "canonical_url": "https://elevenlabs.io/blog/what-is-sip-trunking",
+    "dedupe_key": "cc93dcc9d9b168cf",
+    "title": "What is SIP trunking? A business guide to modern calls",
+    "issue_date": "2026-11-26",
+    "cluster_id": "elevenlabs_io_cb3a1621",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_e7b01e2d391b705f",
+    "canonical_url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems",
+    "dedupe_key": "3997bc4206b41faa",
+    "title": "AI is straining America’s open records systems",
+    "issue_date": "2026-11-26",
+    "cluster_id": "technologyreview_com_9fc7a71f",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_d5493d203d5d5d73",
+    "canonical_url": "https://arxiv.org/list/cs.AI/recent?skip=300&amp%3Bshow=50",
+    "dedupe_key": "24f4a6ee4cb68882",
+    "title": "Tue, 24 Nov 2026",
+    "issue_date": "2026-11-26",
+    "cluster_id": "arxiv_org_c4f48f28",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]

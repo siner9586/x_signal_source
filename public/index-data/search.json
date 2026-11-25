@@ -1,65 +1,37 @@
 [
   {
-    "title": "Inkling 2 Mini now available on AI Gateway",
-    "url": "https://vercel.com/changelog/inkling-2-mini-now-available-on-ai-gateway",
-    "summary": "Inkling 2 Mini from Thinking Machines is now available on AI Gateway. The small multimodal reasoning model is built for agentic coding, tool use, and knowledge work, with text and image inputs and text output. Inkling 2 Mini has 26.4 billion total parameters and 3.4 billion active per token. The model runs its middle layers more than once for every token, which lets it reason further before writing anything down and often reach an answer with fewer reasoning tokens. Like Inkl",
+    "title": "How iFood scales coding agents across 15,000 repositories",
+    "url": "https://openai.com/business/customer-stories/ifood",
+    "summary": "How iFood scales coding agents across 15,000 repositories 是 OpenAI 当日抓取到的公开新增条目。",
     "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
+      "ai_models",
+      "official",
+      "research",
+      "developer"
     ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-11-25",
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-11-26",
     "score": 72
   },
   {
-    "title": "Richpanel helps companies automate 50% of support in 30 days",
-    "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
-    "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+    "title": "How Daniel Zeltser cold-emailed his way to employee #2 at Beacon Health",
+    "url": "https://www.ycombinator.com/blog/how-daniel-zeltser-cold-emailed-his-way-to-employee-2-at-beacon-health",
+    "summary": "Daniel Zeltser left Duke to join Beacon Health as its first engineer hire, building AI agents that keep patient care from falling through the cracks.",
     "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
+      "startup",
+      "product",
+      "founder"
     ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-11-25",
+    "author": "Y Combinator",
+    "source": "ycombinator.com",
+    "date": "2026-11-26",
     "score": 70
   },
   {
-    "title": "All Sandbox runtimes now use Vercel Managed Images",
-    "url": "https://vercel.com/changelog/all-sandbox-runtimes-now-use-vercel-managed-images",
-    "summary": "All Vercel Sandbox runtimes now use Vercel Managed Images (VMIs). Legacy runtimes, such as node22 , now use the open-source images in the vercel/sandbox repository , distributed through Vercel Container Registry (VCR). Sandboxes created with these now come with 64 GB of storage and use the same infrastructure as sandboxes powered by VCR. The universal image is released nightly, and rolling tags such as latest pick up operating system, dependency, and coding agent updates. Pin",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-11-25",
-    "score": 69
-  },
-  {
-    "title": "Kazunari Hanao joins Vercel as Country Manager, Japan",
-    "url": "https://vercel.com/blog/kazunari-hanao-joins-vercel-as-country-manager-japan",
-    "summary": "日本語版はこちら： Vercel日本法人の代表に花尾和成が就任いたしました Kazunari Hanao has joined Vercel as Country Manager for Japan, based in Tokyo. His appointment is part of our continued investment in the Japanese market, including plans to expand our local team. Japanese developers were early adopters of Next.js. And today, Vercel's customers in Japan include Mitsubishi Corporation, Fujitsu Limited, U-NEXT CO., Ltd., and DeNA Co., Ltd., alongside startups like SANU Inc. and Reiwa Travel, Inc. Kazunari h",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-11-25",
-    "score": 69
-  },
-  {
-    "title": "OpenAI and Cisco introduce Shirudo Security Nov 23, 2026",
-    "url": "https://openai.com/index/introducing-shirudo",
-    "summary": "OpenAI News | OpenAI · OpenAI and Cisco introduce Shirudo Security Nov 23, 2026",
+    "title": "Clay helps sales teams win with Codex and ChatGPT",
+    "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+    "summary": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
     "tags": [
       "ai_models",
       "official",
@@ -68,13 +40,13 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-11-25",
-    "score": 67
+    "date": "2026-11-26",
+    "score": 69
   },
   {
-    "title": "Connected intelligence for in-house legal",
-    "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
-    "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
+    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities Science Nov 24, 2026",
+    "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+    "summary": "OpenAI News | OpenAI · GPT-6 models demonstrate intrinsic protein-design capabilities Science Nov 24, 2026",
     "tags": [
       "ai_models",
       "official",
@@ -83,26 +55,56 @@
     ],
     "author": "OpenAI",
     "source": "openai.com",
-    "date": "2026-11-25",
+    "date": "2026-11-26",
     "score": 67
   },
   {
-    "title": "These are the gifts developers will actually want",
-    "url": "https://github.blog/news-insights/company-news/these-are-the-gifts-developers-will-actually-want",
-    "summary": "The developer you're shopping for hasn’t shared their holiday wish list with you yet? Check out these gifts, plus our Black Friday discount all week long. The post These are the gifts developers will actually want appeared first on The GitHub Blog .",
+    "title": "Searching for distant planets with Astra",
+    "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+    "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-11-26",
+    "score": 67
+  },
+  {
+    "title": "How Intentful uses dots to make more time for growth",
+    "url": "https://openai.com/business/customer-stories/intentful-dots",
+    "summary": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
+    "tags": [
+      "ai_models",
+      "official",
+      "research",
+      "developer"
+    ],
+    "author": "OpenAI",
+    "source": "openai.com",
+    "date": "2026-11-26",
+    "score": 67
+  },
+  {
+    "title": "Art of play in the age of AI",
+    "url": "https://github.blog/news-insights/company-news/art-of-play-in-the-age-of-ai",
+    "summary": "Now that code ships faster than ever, you have more time to spend on projects just for the fun of it. Here's what we can learn through that process as developers. The post Art of play in the age of AI appeared first on The GitHub Blog .",
     "tags": [
       "ai_coding",
       "developer_tools"
     ],
     "author": "GitHub Copilot",
     "source": "github.blog",
-    "date": "2026-11-25",
+    "date": "2026-11-26",
     "score": 67
   },
   {
-    "title": "Prepare Market Data for Forecasting with NVIDIA Megatron Core",
-    "url": "https://developer.nvidia.com/blog/prepare-market-data-for-forecasting-with-nvidia-megatron-core",
-    "summary": "NVIDIA Technical Blog · Prepare Market Data for Forecasting with NVIDIA Megatron Core",
+    "title": "How to Run NVIDIA Cosmos 3 on Local AI Devices Using Hugging Face Diffusers",
+    "url": "https://developer.nvidia.com/blog/how-to-run-nvidia-cosmos-3-on-local-ai-devices-using-hugging-face-diffusers",
+    "summary": "NVIDIA Technical Blog · How to Run NVIDIA Cosmos 3 on Local AI Devices Using Hugging Face Diffusers",
     "tags": [
       "gpu",
       "inference",
@@ -110,69 +112,13 @@
     ],
     "author": "NVIDIA AI",
     "source": "developer.nvidia.com",
-    "date": "2026-11-25",
+    "date": "2026-11-26",
     "score": 66
   },
   {
-    "title": "What’s New for Game Developers: AI Animation and RTX Tools",
-    "url": "https://developer.nvidia.com/blog/whats-new-for-game-developers-ai-animation-and-rtx-tools",
-    "summary": "NVIDIA Technical Blog · What’s New for Game Developers: AI Animation and RTX Tools",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-11-25",
-    "score": 66
-  },
-  {
-    "title": "Q&A: How Everstone Brings Where Winds Meet to Life with NVIDIA DLSS 5",
-    "url": "https://developer.nvidia.com/blog/qa-how-everstone-brings-where-winds-meet-to-life-with-nvidia-dlss-5",
-    "summary": "NVIDIA Technical Blog · Q&A: How Everstone Brings Where Winds Meet to Life with NVIDIA DLSS 5",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-11-25",
-    "score": 66
-  },
-  {
-    "title": "Accelerating Direct Sparse Solvers for Computational Engineering with NVIDIA cuDSS 1.0",
-    "url": "https://developer.nvidia.com/blog/accelerating-direct-sparse-solvers-for-computational-engineering-with-nvidia-cudss-1-0",
-    "summary": "NVIDIA Technical Blog · Accelerating Direct Sparse Solvers for Computational Engineering with NVIDIA cuDSS 1.0",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-11-25",
-    "score": 66
-  },
-  {
-    "title": "Raising the stakes for enterprise networks with AI modernization",
-    "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization",
-    "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic than the same tasks done by human workers. As&#8230;",
-    "tags": [
-      "ai",
-      "research",
-      "society"
-    ],
-    "author": "MIT Technology Review AI",
-    "source": "technologyreview.com",
-    "date": "2026-11-25",
-    "score": 66
-  },
-  {
-    "title": "Vercel日本法人の代表に花尾和成が就任いたしました",
-    "url": "https://vercel.com/blog/ja-kazunari-hanao-joins-vercel-as-country-manager-japan",
-    "summary": "（本記事は、 英語版の就任発表 の日本語訳に、花尾本人の就任のご挨拶を加えたものです。） Vercel日本法人の代表に、 花尾和成 が就任いたしました（東京拠点）。今後、Vercelは花尾とともに国内のチームを拡充し、日本市場への投資をさらに進めていきます。 弊社が10年以上前に公開したNext.jsを、日本の開発者の皆さまはいち早く使い始めてくださいました。そして現在、日本では三菱商事、富士通、U-NEXT、ディー・エヌ・エーといった大企業から、SANUや令和トラベルといったスタートアップまで、幅広い企業にVercelをご利用いただいています。 花尾はこの10年間、日本でソフトウェア企業の運営にリーダーシップを発揮してきました。前職ではPendoの日本法人社長を務め、それ以前にはHashiCorpの日本事業を立ち上げ、Pivotalの東京オフィスで営業部門を統括しました。 就任にあたり、花尾から皆さまへのメッセージをご紹介します。 このたび、Vercelの日本法人代表に就任いたしました花尾和成です。私は20年以上IT業界に身を置き、そのうち10",
+    "title": "Agents can now manage AI Gateway through Vercel MCP",
+    "url": "https://vercel.com/changelog/agents-can-now-manage-ai-gateway-through-vercel-mcp",
+    "summary": "Your agent can now manage AI Gateway through Vercel MCP . Ask it in plain language to: Manage virtual models : Create reusable model IDs with saved settings, then list, inspect, update, or restore them. Configure routing rules : View, add, and update team-wide rules that redirect requests to another model or block them. Set spending budgets : View and set budgets for your team, projects, and members, and configure defaults. To create a virtual model, for example, ask your age",
     "tags": [
       "sdk",
       "ai_infra",
@@ -180,41 +126,13 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-11-25",
-    "score": 63
+    "date": "2026-11-26",
+    "score": 66
   },
   {
-    "title": "AI Gateway now supports extraction models",
-    "url": "https://vercel.com/changelog/ai-gateway-now-supports-extraction-models",
-    "summary": "Extraction models are now on AI Gateway. They find specific details in the content you provide, such as an invoice number or contact names, and return them as separate fields your code can use. ScaleDown Extract-1 is the first available extraction model. It extracts text values or lists of text values from text, images, and PDFs. You can use it to process invoices, contracts, and other records. Extraction is currently available through the AI SDK only. With ai@7.0.176 or late",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-11-25",
-    "score": 63
-  },
-  {
-    "title": "Vercel Drives adds CLI commands and standalone SDKs",
-    "url": "https://vercel.com/changelog/vercel-drives-adds-cli-commands-and-standalone-sdks",
-    "summary": "You can now create, list, fork, and delete Vercel Drives with the new vercel drives commands or standalone SDKs for TypeScript ( @vercel/drives ) and Python ( vercel-drives ). Drives also have a REST API at /v1/drives and Drive-specific permissions, so managing them no longer requires Sandbox APIs or permissions. With the latest Vercel CLI, link your project with vercel link if needed, then run: Install the TypeScript SDK with npm install @vercel/drives , or the Python SDK wi",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-11-25",
-    "score": 63
-  },
-  {
-    "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-    "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
-    "summary": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "An Indic Voice Agent with CUGA",
+    "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+    "summary": "An Indic Voice Agent with CUGA 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -222,13 +140,166 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-11-25",
+    "date": "2026-11-26",
+    "score": 65
+  },
+  {
+    "title": "How We Achieved ISO 42001 with LangSmith",
+    "url": "https://www.langchain.com/blog/ai-governance-iso-iec-42001-langsmith",
+    "summary": "LangChain earned ISO/IEC 42001 certification, the international standard for AI management systems, using LangSmith. Learn how.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-11-26",
+    "score": 65
+  },
+  {
+    "title": "The Agent Lake",
+    "url": "https://www.langchain.com/blog/the-agent-lake",
+    "summary": "An agent lake holds every trace your agents produce. See how LangSmith finds high-signal traces at scale and turns them into fixes and fine-tuned models.",
+    "tags": [
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "author": "LangChain",
+    "source": "langchain.com",
+    "date": "2026-11-26",
+    "score": 64
+  },
+  {
+    "title": "How Steven Basart forced his way into Beacon Health and became its first engineer",
+    "url": "https://www.ycombinator.com/blog/how-steven-basart-forced-his-way-into-beacon-health-and-became-its-first-engineer",
+    "summary": "From dropping out of a YC batch to building an internal programming language at a healthcare startup, Steven does whatever it takes.",
+    "tags": [
+      "startup",
+      "product",
+      "founder"
+    ],
+    "author": "Y Combinator",
+    "source": "ycombinator.com",
+    "date": "2026-11-26",
+    "score": 64
+  },
+  {
+    "title": "Gemini 4 Neon beat GPT-6.2 and Claude in my 25-task AI benchmark",
+    "url": "https://www.lennysnewsletter.com/p/gemini-4-neon-beat-gpt-62-and-claude",
+    "summary": "Watch now (32 mins) | &#127897;&#65039; My late-2026 How I AI bench: GPT-6.2 disappointed me, Opus 5.5 is my least annoying daily driver, and Gemini 4 Neon is now my top pick",
+    "tags": [
+      "product",
+      "growth",
+      "startup"
+    ],
+    "author": "Lenny's Newsletter",
+    "source": "lennysnewsletter.com",
+    "date": "2026-11-26",
+    "score": 64
+  },
+  {
+    "title": "Standard builds for existing Pro teams have moved to usage-based billing",
+    "url": "https://vercel.com/changelog/standard-builds-for-existing-pro-teams-have-moved-to-usage-based-billing",
+    "summary": "Existing Pro teams will no longer include a Standard build slot. This brings Standard builds under the same usage-based billing model as other build machines. Standard builds cost $0.014 per build minute, and your monthly usage credit applies to build usage. Billing applies to all projects on the team. See included and Standard build minutes for your team on the Usage page . Select a build machine in team settings or project settings . To learn more, read more about managing ",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-11-26",
+    "score": 63
+  },
+  {
+    "title": "How Cozey turns its operators into software builders on Vercel",
+    "url": "https://vercel.com/blog/how-cozey-turns-its-operators-into-software-builders-on-vercel",
+    "summary": "Employees outside engineering, including warehouse, finance, and support staff, are now building applications and deploying them to Vercel Finance uses an app it built to review profit and loss weekly instead of monthly Adopting Vercel Flags allowed Cozey to retire a separate tool that cost approximately $80,000 annually Six projects, including the storefront, use AI Gateway Cozey is a Canadian furniture company that makes modular sofas customers can configure for their homes",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-11-26",
+    "score": 63
+  },
+  {
+    "title": "AWS PrivateLink endpoints are now available on Secure Compute",
+    "url": "https://vercel.com/changelog/aws-privatelink-endpoints-are-now-available-on-secure-compute",
+    "summary": "Enterprise teams using Secure Compute can now create and manage AWS PrivateLink endpoints directly from the Vercel dashboard. Endpoints on Secure Compute live in your team's dedicated VPC and use the network's AWS region. They belong to the network and are shared by its connected project environments. Vercel Functions , Vercel Sandbox , and builds connected to the network can reach AWS-hosted backends over the AWS private network. Before you add an endpoint in Vercel, the bac",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-11-26",
+    "score": 63
+  },
+  {
+    "title": "Flags SDK now works on Vercel without FLAGS_SECRET",
+    "url": "https://vercel.com/changelog/flags-sdk-now-works-on-vercel-without-flags-secret",
+    "summary": "With flags@4.5.0 , projects on Vercel can use Flags Explorer and precompute without FLAGS_SECRET . That cuts out a setup step for new projects and removes the need to keep a shared secret in sync across microfrontends. Vercel signs Flags Explorer discovery requests and overrides, and the SDK encrypts flag values shown in the Vercel Toolbar with Vercel’s public key. Existing projects keep using FLAGS_SECRET while the environment variable is set or the secret is passed in code.",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-11-26",
+    "score": 63
+  },
+  {
+    "title": "Delete a run's data on demand in Workflow SDK",
+    "url": "https://vercel.com/changelog/delete-run-data-workflow-sdk",
+    "summary": "The Workflow SDK now lets you delete a finished run's stored data on demand. This feature gives you the ability to quickly meet compliance and security requirements when sensitive data needs to be purged from run payloads. Deleting a run's data deletes any inputs, outputs, hook payloads, and error traces for the run and its related entities. This does not delete the run's metadata : the run is still listed in observability. Attributes, hook tokens, and timings for steps and e",
+    "tags": [
+      "sdk",
+      "ai_infra",
+      "frontend"
+    ],
+    "author": "Vercel AI",
+    "source": "vercel.com",
+    "date": "2026-11-26",
+    "score": 63
+  },
+  {
+    "title": "What is SIP trunking? A business guide to modern calls",
+    "url": "https://elevenlabs.io/blog/what-is-sip-trunking",
+    "summary": "Learn what is SIP trunking, how it works, what it costs, how to choose a provider, and how to connect it to AI voice agents for customer service.",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-11-26",
     "score": 62
   },
   {
-    "title": "Mon, 23 Nov 2026",
-    "url": "https://arxiv.org/list/cs.AI/recent?skip=485&amp%3Bshow=50",
-    "summary": "Artificial Intelligence · Mon, 23 Nov 2026",
+    "title": "AI is straining America’s open records systems",
+    "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems",
+    "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a wood-frame structure built as a church in 1858—he also fielded public records requests. Recently, he&#8230;",
+    "tags": [
+      "ai",
+      "research",
+      "society"
+    ],
+    "author": "MIT Technology Review AI",
+    "source": "technologyreview.com",
+    "date": "2026-11-26",
+    "score": 61
+  },
+  {
+    "title": "Tue, 24 Nov 2026",
+    "url": "https://arxiv.org/list/cs.AI/recent?skip=300&amp%3Bshow=50",
+    "summary": "Artificial Intelligence · Tue, 24 Nov 2026",
     "tags": [
       "paper",
       "ai",
@@ -236,61 +307,7 @@
     ],
     "author": "arXiv CS AI",
     "source": "arxiv.org",
-    "date": "2026-11-25",
+    "date": "2026-11-26",
     "score": 60
-  },
-  {
-    "title": "How to choose the best speech to text API for your use case",
-    "url": "https://elevenlabs.io/blog/choose-the-best-speech-to-text-api",
-    "summary": "How to choose the best speech to text API for your business? Compare accuracy, latency, pricing, and more to find the best fit for your use case.",
-    "tags": [
-      "voice_ai",
-      "audio"
-    ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-11-25",
-    "score": 59
-  },
-  {
-    "title": "ElevenMusic vs. music in ElevenCreative: which do I need?",
-    "url": "https://elevenlabs.io/blog/elevenmusic-vs-elevencreative",
-    "summary": "Compare ElevenMusic and ElevenCreative music generation. See what each does, how pricing differs, and which fits your song or project.",
-    "tags": [
-      "voice_ai",
-      "audio"
-    ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-11-25",
-    "score": 59
-  },
-  {
-    "title": "Amazon Earnings, The Chip Question, About Agents",
-    "url": "https://stratechery.com/2026/amazon-earnings-the-chip-question-about-agents",
-    "summary": "Amazon makes the case they are not like other compute providers, even as they signal the willingness to give up margin to serve the frontier.",
-    "tags": [
-      "strategy",
-      "tech",
-      "business"
-    ],
-    "author": "Stratechery",
-    "source": "stratechery.com",
-    "date": "2026-11-25",
-    "score": 59
-  },
-  {
-    "title": "The Individual Exception",
-    "url": "https://stratechery.com/2026/the-individual-exception",
-    "summary": "Jensen Huang has been granted an exception from managerial oversight; in the age of AI, he won't be the last.",
-    "tags": [
-      "strategy",
-      "tech",
-      "business"
-    ],
-    "author": "Stratechery",
-    "source": "stratechery.com",
-    "date": "2026-11-25",
-    "score": 58
   }
 ]
