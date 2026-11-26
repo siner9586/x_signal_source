@@ -32916,5 +32916,185 @@
     "cluster_id": "arxiv_org_c4f48f28",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_87d4104adb2d4db9",
+    "canonical_url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization",
+    "dedupe_key": "519ecadb77cb3d77",
+    "title": "How to choose the next safe step in application modernization",
+    "issue_date": "2026-11-27",
+    "cluster_id": "github_blog_3eceb663",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a59e018909259acd",
+    "canonical_url": "https://vercel.com/changelog/workflows-speculative-execution",
+    "dedupe_key": "4b8590abb70dad35",
+    "title": "Workflow is 10x faster, again",
+    "issue_date": "2026-11-27",
+    "cluster_id": "vercel_com_034bbdc1",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_f8a57e26487a66b4",
+    "canonical_url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+    "dedupe_key": "4697b34ad9f98c0c",
+    "title": "Where scientists draw the line on AI agents",
+    "issue_date": "2026-11-27",
+    "cluster_id": "huggingface_co_6dd30373",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_887a50a0a0082114",
+    "canonical_url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity",
+    "dedupe_key": "3966c60c19353d34",
+    "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+    "issue_date": "2026-11-27",
+    "cluster_id": "deepmind_google_e6ee7373",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8d65cbc9912f2fe5",
+    "canonical_url": "https://developer.nvidia.com/blog/how-to-optimize-nvfp4-attention-on-nvidia-rtx-blackwell-through-register-recycling",
+    "dedupe_key": "db6febab47ac40bf",
+    "title": "How to Optimize NVFP4 Attention on NVIDIA RTX Blackwell Through Register Recycling",
+    "issue_date": "2026-11-27",
+    "cluster_id": "developer_nvidia_com_bf09a56a",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_a9c2f1cfc00f5946",
+    "canonical_url": "https://huggingface.co/blog/training-swarms",
+    "dedupe_key": "541d6159afc010f5",
+    "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+    "issue_date": "2026-11-27",
+    "cluster_id": "huggingface_co_37fb90cf",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9f7d42dd207eec48",
+    "canonical_url": "https://elevenlabs.io/blog/fixing-front-door-government",
+    "dedupe_key": "152534c4960bce7a",
+    "title": "Fixing the front door to government, one voice agent at a time",
+    "issue_date": "2026-11-27",
+    "cluster_id": "elevenlabs_io_bca022f7",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b4fd74f494a8460e",
+    "canonical_url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+    "dedupe_key": "5e639413ee61272a",
+    "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+    "issue_date": "2026-11-27",
+    "cluster_id": "huggingface_co_75cea89d",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_9546a755746e0f72",
+    "canonical_url": "https://importai.substack.com/p/import-ai-482-huawei-kernel-benchmarks",
+    "dedupe_key": "b52c21d6c9c619d2",
+    "title": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab's AI science benchmark",
+    "issue_date": "2026-11-27",
+    "cluster_id": "importai_substack_com_0b64dfa4",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_668537121529c3e0",
+    "canonical_url": "https://developer.nvidia.com/blog/manage-liquid-cooled-ai-factories-with-nvidia-mission-control",
+    "dedupe_key": "ce7b4b64e0628aaf",
+    "title": "Manage Liquid-Cooled AI Factories with NVIDIA Mission Control",
+    "issue_date": "2026-11-27",
+    "cluster_id": "developer_nvidia_com_295d0cfd",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_16e7d7a9a4c60f45",
+    "canonical_url": "https://elevenlabs.io/blog/what-is-graphrag",
+    "dedupe_key": "f4c610c70d365e3f",
+    "title": "What is GraphRAG? A practical guide to smarter AI retrieval",
+    "issue_date": "2026-11-27",
+    "cluster_id": "elevenlabs_io_39ea5fc8",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_0ea13cfb1364b1ca",
+    "canonical_url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+    "dedupe_key": "694c5fe86d3876e6",
+    "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+    "issue_date": "2026-11-27",
+    "cluster_id": "huggingface_co_d1278261",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c1d3d568119aeac4",
+    "canonical_url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+    "dedupe_key": "160ffbb8ad03ccde",
+    "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+    "issue_date": "2026-11-27",
+    "cluster_id": "huggingface_co_92c015f5",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_60d9f5f36dcf6d9d",
+    "canonical_url": "https://importai.substack.com/p/import-ai-481-ai-sub-contractors",
+    "dedupe_key": "c92177973c7b08e2",
+    "title": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development",
+    "issue_date": "2026-11-27",
+    "cluster_id": "importai_substack_com_848e3d10",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_8f482f14b87c0106",
+    "canonical_url": "https://importai.substack.com/p/import-ai-480-self-sustaining-space",
+    "dedupe_key": "8f05221248491777",
+    "title": "Import AI 480: Self-sustaining space economies; AI for science progress, and Meta builds perfect hands for a superintelligence",
+    "issue_date": "2026-11-27",
+    "cluster_id": "importai_substack_com_d2bd3620",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_c4ca33837c510538",
+    "canonical_url": "https://importai.substack.com/p/import-ai-479-spacewar-low-latency",
+    "dedupe_key": "fd110327d18dc8ed",
+    "title": "Import AI 479: Spacewar; low-latency tasks versus LLMs; Genie 4",
+    "issue_date": "2026-11-27",
+    "cluster_id": "importai_substack_com_e526b43e",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_4863bed00ea4b0e4",
+    "canonical_url": "https://importai.substack.com/p/import-ai-478-math-for-alignment",
+    "dedupe_key": "99895670a20364c6",
+    "title": "Import AI 478: Math for alignment; ProgramBench; and Mirendil shows what RSI means",
+    "issue_date": "2026-11-27",
+    "cluster_id": "importai_substack_com_a88dc6ad",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_b6352ce8b76952c5",
+    "canonical_url": "https://arxiv.org/list/cs.AI/recent?skip=200&amp%3Bshow=50",
+    "dedupe_key": "11038727c8b920a6",
+    "title": "Wed, 25 Nov 2026",
+    "issue_date": "2026-11-27",
+    "cluster_id": "arxiv_org_864f2a7c",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]

@@ -1,124 +1,21 @@
 [
   {
-    "title": "How iFood scales coding agents across 15,000 repositories",
-    "url": "https://openai.com/business/customer-stories/ifood",
-    "summary": "How iFood scales coding agents across 15,000 repositories 是 OpenAI 当日抓取到的公开新增条目。",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-11-26",
-    "score": 72
-  },
-  {
-    "title": "How Daniel Zeltser cold-emailed his way to employee #2 at Beacon Health",
-    "url": "https://www.ycombinator.com/blog/how-daniel-zeltser-cold-emailed-his-way-to-employee-2-at-beacon-health",
-    "summary": "Daniel Zeltser left Duke to join Beacon Health as its first engineer hire, building AI agents that keep patient care from falling through the cracks.",
-    "tags": [
-      "startup",
-      "product",
-      "founder"
-    ],
-    "author": "Y Combinator",
-    "source": "ycombinator.com",
-    "date": "2026-11-26",
-    "score": 70
-  },
-  {
-    "title": "Clay helps sales teams win with Codex and ChatGPT",
-    "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
-    "summary": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-11-26",
-    "score": 69
-  },
-  {
-    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities Science Nov 24, 2026",
-    "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
-    "summary": "OpenAI News | OpenAI · GPT-6 models demonstrate intrinsic protein-design capabilities Science Nov 24, 2026",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-11-26",
-    "score": 67
-  },
-  {
-    "title": "Searching for distant planets with Astra",
-    "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
-    "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-11-26",
-    "score": 67
-  },
-  {
-    "title": "How Intentful uses dots to make more time for growth",
-    "url": "https://openai.com/business/customer-stories/intentful-dots",
-    "summary": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
-    "tags": [
-      "ai_models",
-      "official",
-      "research",
-      "developer"
-    ],
-    "author": "OpenAI",
-    "source": "openai.com",
-    "date": "2026-11-26",
-    "score": 67
-  },
-  {
-    "title": "Art of play in the age of AI",
-    "url": "https://github.blog/news-insights/company-news/art-of-play-in-the-age-of-ai",
-    "summary": "Now that code ships faster than ever, you have more time to spend on projects just for the fun of it. Here's what we can learn through that process as developers. The post Art of play in the age of AI appeared first on The GitHub Blog .",
+    "title": "How to choose the next safe step in application modernization",
+    "url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization",
+    "summary": "Learn how to assess a legacy application, choose a bounded modernization step, and reuse the method with a GitHub Copilot agent skill. The post How to choose the next safe step in application modernization appeared first on The GitHub Blog .",
     "tags": [
       "ai_coding",
       "developer_tools"
     ],
     "author": "GitHub Copilot",
     "source": "github.blog",
-    "date": "2026-11-26",
-    "score": 67
+    "date": "2026-11-27",
+    "score": 70
   },
   {
-    "title": "How to Run NVIDIA Cosmos 3 on Local AI Devices Using Hugging Face Diffusers",
-    "url": "https://developer.nvidia.com/blog/how-to-run-nvidia-cosmos-3-on-local-ai-devices-using-hugging-face-diffusers",
-    "summary": "NVIDIA Technical Blog · How to Run NVIDIA Cosmos 3 on Local AI Devices Using Hugging Face Diffusers",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-11-26",
-    "score": 66
-  },
-  {
-    "title": "Agents can now manage AI Gateway through Vercel MCP",
-    "url": "https://vercel.com/changelog/agents-can-now-manage-ai-gateway-through-vercel-mcp",
-    "summary": "Your agent can now manage AI Gateway through Vercel MCP . Ask it in plain language to: Manage virtual models : Create reusable model IDs with saved settings, then list, inspect, update, or restore them. Configure routing rules : View, add, and update team-wide rules that redirect requests to another model or block them. Set spending budgets : View and set budgets for your team, projects, and members, and configure defaults. To create a virtual model, for example, ask your age",
+    "title": "Workflow is 10x faster, again",
+    "url": "https://vercel.com/changelog/workflows-speculative-execution",
+    "summary": "Workflow SDK 5.8 runs workflows on a new execution engine, rebuilt for performance. Step-to-step latency is 12x lower, and large fan-outs, like running 256 steps in parallel, use 14x less function time outside your step code. This directly improves turn times for durable AI agents , among many other improvements. To get the new engine, upgrade to workflow@5.8.0 or later. New runs will use the new engine by default, and runs already started on an older version will safely keep",
     "tags": [
       "sdk",
       "ai_infra",
@@ -126,13 +23,13 @@
     ],
     "author": "Vercel AI",
     "source": "vercel.com",
-    "date": "2026-11-26",
-    "score": 66
+    "date": "2026-11-27",
+    "score": 68
   },
   {
-    "title": "An Indic Voice Agent with CUGA",
-    "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
-    "summary": "An Indic Voice Agent with CUGA 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Where scientists draw the line on AI agents",
+    "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+    "summary": "Where scientists draw the line on AI agents 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -140,166 +37,208 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-11-26",
-    "score": 65
+    "date": "2026-11-27",
+    "score": 68
   },
   {
-    "title": "How We Achieved ISO 42001 with LangSmith",
-    "url": "https://www.langchain.com/blog/ai-governance-iso-iec-42001-langsmith",
-    "summary": "LangChain earned ISO/IEC 42001 certification, the international standard for AI management systems, using LangSmith. Learn how.",
+    "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+    "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity",
+    "summary": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
     "tags": [
-      "agents",
-      "rag",
-      "framework"
+      "research",
+      "multimodal",
+      "science",
+      "official"
     ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-11-26",
-    "score": 65
+    "author": "Google DeepMind",
+    "source": "deepmind.google",
+    "date": "2026-11-27",
+    "score": 66
   },
   {
-    "title": "The Agent Lake",
-    "url": "https://www.langchain.com/blog/the-agent-lake",
-    "summary": "An agent lake holds every trace your agents produce. See how LangSmith finds high-signal traces at scale and turns them into fixes and fine-tuned models.",
+    "title": "How to Optimize NVFP4 Attention on NVIDIA RTX Blackwell Through Register Recycling",
+    "url": "https://developer.nvidia.com/blog/how-to-optimize-nvfp4-attention-on-nvidia-rtx-blackwell-through-register-recycling",
+    "summary": "NVIDIA Technical Blog · How to Optimize NVFP4 Attention on NVIDIA RTX Blackwell Through Register Recycling",
     "tags": [
-      "agents",
-      "rag",
-      "framework"
+      "gpu",
+      "inference",
+      "ai_infra"
     ],
-    "author": "LangChain",
-    "source": "langchain.com",
-    "date": "2026-11-26",
-    "score": 64
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-11-27",
+    "score": 66
   },
   {
-    "title": "How Steven Basart forced his way into Beacon Health and became its first engineer",
-    "url": "https://www.ycombinator.com/blog/how-steven-basart-forced-his-way-into-beacon-health-and-became-its-first-engineer",
-    "summary": "From dropping out of a YC batch to building an internal programming language at a healthcare startup, Steven does whatever it takes.",
+    "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+    "url": "https://huggingface.co/blog/training-swarms",
+    "summary": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
-      "startup",
-      "product",
-      "founder"
+      "open_source",
+      "papers",
+      "models"
     ],
-    "author": "Y Combinator",
-    "source": "ycombinator.com",
-    "date": "2026-11-26",
-    "score": 64
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-11-27",
+    "score": 66
   },
   {
-    "title": "Gemini 4 Neon beat GPT-6.2 and Claude in my 25-task AI benchmark",
-    "url": "https://www.lennysnewsletter.com/p/gemini-4-neon-beat-gpt-62-and-claude",
-    "summary": "Watch now (32 mins) | &#127897;&#65039; My late-2026 How I AI bench: GPT-6.2 disappointed me, Opus 5.5 is my least annoying daily driver, and Gemini 4 Neon is now my top pick",
-    "tags": [
-      "product",
-      "growth",
-      "startup"
-    ],
-    "author": "Lenny's Newsletter",
-    "source": "lennysnewsletter.com",
-    "date": "2026-11-26",
-    "score": 64
-  },
-  {
-    "title": "Standard builds for existing Pro teams have moved to usage-based billing",
-    "url": "https://vercel.com/changelog/standard-builds-for-existing-pro-teams-have-moved-to-usage-based-billing",
-    "summary": "Existing Pro teams will no longer include a Standard build slot. This brings Standard builds under the same usage-based billing model as other build machines. Standard builds cost $0.014 per build minute, and your monthly usage credit applies to build usage. Billing applies to all projects on the team. See included and Standard build minutes for your team on the Usage page . Select a build machine in team settings or project settings . To learn more, read more about managing ",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-11-26",
-    "score": 63
-  },
-  {
-    "title": "How Cozey turns its operators into software builders on Vercel",
-    "url": "https://vercel.com/blog/how-cozey-turns-its-operators-into-software-builders-on-vercel",
-    "summary": "Employees outside engineering, including warehouse, finance, and support staff, are now building applications and deploying them to Vercel Finance uses an app it built to review profit and loss weekly instead of monthly Adopting Vercel Flags allowed Cozey to retire a separate tool that cost approximately $80,000 annually Six projects, including the storefront, use AI Gateway Cozey is a Canadian furniture company that makes modular sofas customers can configure for their homes",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-11-26",
-    "score": 63
-  },
-  {
-    "title": "AWS PrivateLink endpoints are now available on Secure Compute",
-    "url": "https://vercel.com/changelog/aws-privatelink-endpoints-are-now-available-on-secure-compute",
-    "summary": "Enterprise teams using Secure Compute can now create and manage AWS PrivateLink endpoints directly from the Vercel dashboard. Endpoints on Secure Compute live in your team's dedicated VPC and use the network's AWS region. They belong to the network and are shared by its connected project environments. Vercel Functions , Vercel Sandbox , and builds connected to the network can reach AWS-hosted backends over the AWS private network. Before you add an endpoint in Vercel, the bac",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-11-26",
-    "score": 63
-  },
-  {
-    "title": "Flags SDK now works on Vercel without FLAGS_SECRET",
-    "url": "https://vercel.com/changelog/flags-sdk-now-works-on-vercel-without-flags-secret",
-    "summary": "With flags@4.5.0 , projects on Vercel can use Flags Explorer and precompute without FLAGS_SECRET . That cuts out a setup step for new projects and removes the need to keep a shared secret in sync across microfrontends. Vercel signs Flags Explorer discovery requests and overrides, and the SDK encrypts flag values shown in the Vercel Toolbar with Vercel’s public key. Existing projects keep using FLAGS_SECRET while the environment variable is set or the secret is passed in code.",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-11-26",
-    "score": 63
-  },
-  {
-    "title": "Delete a run's data on demand in Workflow SDK",
-    "url": "https://vercel.com/changelog/delete-run-data-workflow-sdk",
-    "summary": "The Workflow SDK now lets you delete a finished run's stored data on demand. This feature gives you the ability to quickly meet compliance and security requirements when sensitive data needs to be purged from run payloads. Deleting a run's data deletes any inputs, outputs, hook payloads, and error traces for the run and its related entities. This does not delete the run's metadata : the run is still listed in observability. Attributes, hook tokens, and timings for steps and e",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-11-26",
-    "score": 63
-  },
-  {
-    "title": "What is SIP trunking? A business guide to modern calls",
-    "url": "https://elevenlabs.io/blog/what-is-sip-trunking",
-    "summary": "Learn what is SIP trunking, how it works, what it costs, how to choose a provider, and how to connect it to AI voice agents for customer service.",
+    "title": "Fixing the front door to government, one voice agent at a time",
+    "url": "https://elevenlabs.io/blog/fixing-front-door-government",
+    "summary": "The front door to government for millions of people is an outdated IVR phone menu. Governments are now adopting AI agents for several kinds of calls.",
     "tags": [
       "voice_ai",
       "audio"
     ],
     "author": "ElevenLabs",
     "source": "elevenlabs.io",
-    "date": "2026-11-26",
+    "date": "2026-11-27",
+    "score": 64
+  },
+  {
+    "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+    "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+    "summary": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-11-27",
+    "score": 64
+  },
+  {
+    "title": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab's AI science benchmark",
+    "url": "https://importai.substack.com/p/import-ai-482-huawei-kernel-benchmarks",
+    "summary": "Could the scientific method be emergent?",
+    "tags": [
+      "ai",
+      "newsletter",
+      "research"
+    ],
+    "author": "Import AI",
+    "source": "importai.substack.com",
+    "date": "2026-11-27",
+    "score": 64
+  },
+  {
+    "title": "Manage Liquid-Cooled AI Factories with NVIDIA Mission Control",
+    "url": "https://developer.nvidia.com/blog/manage-liquid-cooled-ai-factories-with-nvidia-mission-control",
+    "summary": "Managing AI infrastructure such as NVIDIA Vera Rubin NVL72 requires coordinated operation of compute, power, and cooling systems. In liquid-cooled AI factories,...",
+    "tags": [
+      "gpu",
+      "inference",
+      "ai_infra"
+    ],
+    "author": "NVIDIA AI",
+    "source": "developer.nvidia.com",
+    "date": "2026-11-27",
+    "score": 63
+  },
+  {
+    "title": "What is GraphRAG? A practical guide to smarter AI retrieval",
+    "url": "https://elevenlabs.io/blog/what-is-graphrag",
+    "summary": "Learn what is GraphRAG, how knowledge graph RAG works, and where it beats standard RAG. See use cases and how ElevenAgents handles RAG for voice agents.",
+    "tags": [
+      "voice_ai",
+      "audio"
+    ],
+    "author": "ElevenLabs",
+    "source": "elevenlabs.io",
+    "date": "2026-11-27",
     "score": 62
   },
   {
-    "title": "AI is straining America’s open records systems",
-    "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems",
-    "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a wood-frame structure built as a church in 1858—he also fielded public records requests. Recently, he&#8230;",
+    "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+    "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+    "summary": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-11-27",
+    "score": 62
+  },
+  {
+    "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+    "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+    "summary": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000 是 Hugging Face 当日抓取到的公开新增条目。",
+    "tags": [
+      "open_source",
+      "papers",
+      "models"
+    ],
+    "author": "Hugging Face",
+    "source": "huggingface.co",
+    "date": "2026-11-27",
+    "score": 62
+  },
+  {
+    "title": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development",
+    "url": "https://importai.substack.com/p/import-ai-481-ai-sub-contractors",
+    "summary": "Plus: CucumberVision!",
     "tags": [
       "ai",
-      "research",
-      "society"
+      "newsletter",
+      "research"
     ],
-    "author": "MIT Technology Review AI",
-    "source": "technologyreview.com",
-    "date": "2026-11-26",
+    "author": "Import AI",
+    "source": "importai.substack.com",
+    "date": "2026-11-27",
     "score": 61
   },
   {
-    "title": "Tue, 24 Nov 2026",
-    "url": "https://arxiv.org/list/cs.AI/recent?skip=300&amp%3Bshow=50",
-    "summary": "Artificial Intelligence · Tue, 24 Nov 2026",
+    "title": "Import AI 480: Self-sustaining space economies; AI for science progress, and Meta builds perfect hands for a superintelligence",
+    "url": "https://importai.substack.com/p/import-ai-480-self-sustaining-space",
+    "summary": "When do you think we'll have robots on the moon?",
+    "tags": [
+      "ai",
+      "newsletter",
+      "research"
+    ],
+    "author": "Import AI",
+    "source": "importai.substack.com",
+    "date": "2026-11-27",
+    "score": 61
+  },
+  {
+    "title": "Import AI 479: Spacewar; low-latency tasks versus LLMs; Genie 4",
+    "url": "https://importai.substack.com/p/import-ai-479-spacewar-low-latency",
+    "summary": "What do LLMs think about vision models?",
+    "tags": [
+      "ai",
+      "newsletter",
+      "research"
+    ],
+    "author": "Import AI",
+    "source": "importai.substack.com",
+    "date": "2026-11-27",
+    "score": 61
+  },
+  {
+    "title": "Import AI 478: Math for alignment; ProgramBench; and Mirendil shows what RSI means",
+    "url": "https://importai.substack.com/p/import-ai-478-math-for-alignment",
+    "summary": "What is &#8220;night&#8221; to a machine?",
+    "tags": [
+      "ai",
+      "newsletter",
+      "research"
+    ],
+    "author": "Import AI",
+    "source": "importai.substack.com",
+    "date": "2026-11-27",
+    "score": 61
+  },
+  {
+    "title": "Wed, 25 Nov 2026",
+    "url": "https://arxiv.org/list/cs.AI/recent?skip=200&amp%3Bshow=50",
+    "summary": "Artificial Intelligence · Wed, 25 Nov 2026",
     "tags": [
       "paper",
       "ai",
@@ -307,7 +246,7 @@
     ],
     "author": "arXiv CS AI",
     "source": "arxiv.org",
-    "date": "2026-11-26",
+    "date": "2026-11-27",
     "score": 60
   }
 ]
