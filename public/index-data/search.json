@@ -1,35 +1,8 @@
 [
   {
-    "title": "How to choose the next safe step in application modernization",
-    "url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization",
-    "summary": "Learn how to assess a legacy application, choose a bounded modernization step, and reuse the method with a GitHub Copilot agent skill. The post How to choose the next safe step in application modernization appeared first on The GitHub Blog .",
-    "tags": [
-      "ai_coding",
-      "developer_tools"
-    ],
-    "author": "GitHub Copilot",
-    "source": "github.blog",
-    "date": "2026-11-27",
-    "score": 70
-  },
-  {
-    "title": "Workflow is 10x faster, again",
-    "url": "https://vercel.com/changelog/workflows-speculative-execution",
-    "summary": "Workflow SDK 5.8 runs workflows on a new execution engine, rebuilt for performance. Step-to-step latency is 12x lower, and large fan-outs, like running 256 steps in parallel, use 14x less function time outside your step code. This directly improves turn times for durable AI agents , among many other improvements. To get the new engine, upgrade to workflow@5.8.0 or later. New runs will use the new engine by default, and runs already started on an older version will safely keep",
-    "tags": [
-      "sdk",
-      "ai_infra",
-      "frontend"
-    ],
-    "author": "Vercel AI",
-    "source": "vercel.com",
-    "date": "2026-11-27",
-    "score": 68
-  },
-  {
-    "title": "Where scientists draw the line on AI agents",
-    "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
-    "summary": "Where scientists draw the line on AI agents 是 Hugging Face 当日抓取到的公开新增条目。",
+    "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+    "url": "https://huggingface.co/blog/video-trainium3",
+    "summary": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5 是 Hugging Face 当日抓取到的公开新增条目。",
     "tags": [
       "open_source",
       "papers",
@@ -37,216 +10,20 @@
     ],
     "author": "Hugging Face",
     "source": "huggingface.co",
-    "date": "2026-11-27",
-    "score": 68
-  },
-  {
-    "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
-    "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity",
-    "summary": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
-    "tags": [
-      "research",
-      "multimodal",
-      "science",
-      "official"
-    ],
-    "author": "Google DeepMind",
-    "source": "deepmind.google",
-    "date": "2026-11-27",
-    "score": 66
-  },
-  {
-    "title": "How to Optimize NVFP4 Attention on NVIDIA RTX Blackwell Through Register Recycling",
-    "url": "https://developer.nvidia.com/blog/how-to-optimize-nvfp4-attention-on-nvidia-rtx-blackwell-through-register-recycling",
-    "summary": "NVIDIA Technical Blog · How to Optimize NVFP4 Attention on NVIDIA RTX Blackwell Through Register Recycling",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-11-27",
-    "score": 66
-  },
-  {
-    "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
-    "url": "https://huggingface.co/blog/training-swarms",
-    "summary": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-11-27",
-    "score": 66
-  },
-  {
-    "title": "Fixing the front door to government, one voice agent at a time",
-    "url": "https://elevenlabs.io/blog/fixing-front-door-government",
-    "summary": "The front door to government for millions of people is an outdated IVR phone menu. Governments are now adopting AI agents for several kinds of calls.",
-    "tags": [
-      "voice_ai",
-      "audio"
-    ],
-    "author": "ElevenLabs",
-    "source": "elevenlabs.io",
-    "date": "2026-11-27",
-    "score": 64
-  },
-  {
-    "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
-    "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
-    "summary": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-11-27",
-    "score": 64
-  },
-  {
-    "title": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab's AI science benchmark",
-    "url": "https://importai.substack.com/p/import-ai-482-huawei-kernel-benchmarks",
-    "summary": "Could the scientific method be emergent?",
-    "tags": [
-      "ai",
-      "newsletter",
-      "research"
-    ],
-    "author": "Import AI",
-    "source": "importai.substack.com",
-    "date": "2026-11-27",
-    "score": 64
-  },
-  {
-    "title": "Manage Liquid-Cooled AI Factories with NVIDIA Mission Control",
-    "url": "https://developer.nvidia.com/blog/manage-liquid-cooled-ai-factories-with-nvidia-mission-control",
-    "summary": "Managing AI infrastructure such as NVIDIA Vera Rubin NVL72 requires coordinated operation of compute, power, and cooling systems. In liquid-cooled AI factories,...",
-    "tags": [
-      "gpu",
-      "inference",
-      "ai_infra"
-    ],
-    "author": "NVIDIA AI",
-    "source": "developer.nvidia.com",
-    "date": "2026-11-27",
+    "date": "2026-11-28",
     "score": 63
   },
   {
-    "title": "What is GraphRAG? A practical guide to smarter AI retrieval",
-    "url": "https://elevenlabs.io/blog/what-is-graphrag",
-    "summary": "Learn what is GraphRAG, how knowledge graph RAG works, and where it beats standard RAG. See use cases and how ElevenAgents handles RAG for voice agents.",
+    "title": "What is AI transcription: The complete guide",
+    "url": "https://elevenlabs.io/blog/what-is-ai-transcription",
+    "summary": "Learn what is AI transcription and how it works, which features to look for, and how teams use it for meetings and support. Plus legal and privacy basics.",
     "tags": [
       "voice_ai",
       "audio"
     ],
     "author": "ElevenLabs",
     "source": "elevenlabs.io",
-    "date": "2026-11-27",
-    "score": 62
-  },
-  {
-    "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
-    "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
-    "summary": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-11-27",
-    "score": 62
-  },
-  {
-    "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
-    "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
-    "summary": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000 是 Hugging Face 当日抓取到的公开新增条目。",
-    "tags": [
-      "open_source",
-      "papers",
-      "models"
-    ],
-    "author": "Hugging Face",
-    "source": "huggingface.co",
-    "date": "2026-11-27",
-    "score": 62
-  },
-  {
-    "title": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development",
-    "url": "https://importai.substack.com/p/import-ai-481-ai-sub-contractors",
-    "summary": "Plus: CucumberVision!",
-    "tags": [
-      "ai",
-      "newsletter",
-      "research"
-    ],
-    "author": "Import AI",
-    "source": "importai.substack.com",
-    "date": "2026-11-27",
-    "score": 61
-  },
-  {
-    "title": "Import AI 480: Self-sustaining space economies; AI for science progress, and Meta builds perfect hands for a superintelligence",
-    "url": "https://importai.substack.com/p/import-ai-480-self-sustaining-space",
-    "summary": "When do you think we'll have robots on the moon?",
-    "tags": [
-      "ai",
-      "newsletter",
-      "research"
-    ],
-    "author": "Import AI",
-    "source": "importai.substack.com",
-    "date": "2026-11-27",
-    "score": 61
-  },
-  {
-    "title": "Import AI 479: Spacewar; low-latency tasks versus LLMs; Genie 4",
-    "url": "https://importai.substack.com/p/import-ai-479-spacewar-low-latency",
-    "summary": "What do LLMs think about vision models?",
-    "tags": [
-      "ai",
-      "newsletter",
-      "research"
-    ],
-    "author": "Import AI",
-    "source": "importai.substack.com",
-    "date": "2026-11-27",
-    "score": 61
-  },
-  {
-    "title": "Import AI 478: Math for alignment; ProgramBench; and Mirendil shows what RSI means",
-    "url": "https://importai.substack.com/p/import-ai-478-math-for-alignment",
-    "summary": "What is &#8220;night&#8221; to a machine?",
-    "tags": [
-      "ai",
-      "newsletter",
-      "research"
-    ],
-    "author": "Import AI",
-    "source": "importai.substack.com",
-    "date": "2026-11-27",
-    "score": 61
-  },
-  {
-    "title": "Wed, 25 Nov 2026",
-    "url": "https://arxiv.org/list/cs.AI/recent?skip=200&amp%3Bshow=50",
-    "summary": "Artificial Intelligence · Wed, 25 Nov 2026",
-    "tags": [
-      "paper",
-      "ai",
-      "arxiv"
-    ],
-    "author": "arXiv CS AI",
-    "source": "arxiv.org",
-    "date": "2026-11-27",
-    "score": 60
+    "date": "2026-11-28",
+    "score": 59
   }
 ]

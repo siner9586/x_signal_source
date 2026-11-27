@@ -1,0 +1,415 @@
+{
+  "metadata": {
+    "issue_date": "2026-11-28",
+    "generated_at": "2026-11-27T16:30:50.547Z",
+    "timezone": "Asia/Shanghai",
+    "source_mode": "live_fetch_only",
+    "strict_new_only": true,
+    "sources_scanned": 118,
+    "fetch_jobs": 224,
+    "candidates_count": 1152,
+    "selected_count": 2,
+    "duplicates_blocked": 1150,
+    "stale_candidates_blocked": 0,
+    "fetch_failures": 80,
+    "no_new_content": false,
+    "initial_source_index": false
+  },
+  "summary": {
+    "one_liner": "本期由每日自动流水线生成：仅展示当日 live fetch 抓取、且未在历史期展示过的新内容。",
+    "trends": [
+      "AI Agent",
+      "AI Coding",
+      "AI Infra",
+      "Research",
+      "Startup / Investment"
+    ],
+    "watch_next": [
+      "公开 RSS / Atom / HTML 新条目",
+      "GitHub releases 与技术博客",
+      "人工维护 X Article / Thread seed list",
+      "播客长访谈中的一手判断"
+    ]
+  },
+  "must_read": [],
+  "worth_reading": [],
+  "signal_watch": [
+    {
+      "id": "cand_2f202abe6920b7ce",
+      "canonical_url": "https://huggingface.co/blog/video-trainium3",
+      "source_url": "https://huggingface.co/blog/feed.xml",
+      "source_fetch_url": "https://huggingface.co/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "huggingface.co",
+      "source_name": "Hugging Face",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "subtitle": "",
+      "author": "Hugging Face",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Hugging Face",
+      "language": "unknown",
+      "published_at": "Fri, 27 Nov 2026 00:00:00 GMT",
+      "captured_at": "2026-11-27T16:30:42.597Z",
+      "captured_issue": "2026-11-28",
+      "summary": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5 是 Hugging Face 当日抓取到的公开新增条目。",
+      "excerpt": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5 是 Hugging Face 当日抓取到的公开新增条目。",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "open_source",
+        "papers",
+        "models"
+      ],
+      "entities": [
+        "Hugging Face"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://huggingface.co/blog/video-trainium3",
+        "https://huggingface.co/blog/feed.xml",
+        "https://huggingface.co",
+        "https://huggingface.co/blog",
+        "https://x.com/huggingface"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 38,
+      "trend_score": 45,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 62,
+      "total_score": 63,
+      "rank": 653,
+      "cluster_id": "huggingface_co_fa3c7b35",
+      "dedupe_key": "c40ac2794c4465c8",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Taking Trainium3 to the Track: Generating Videos with LTX-2.5 来自 Hugging Face 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-28",
+      "last_seen_issue": "2026-11-28",
+      "used_in_issue": "2026-11-28"
+    },
+    {
+      "id": "cand_5541f3e0fbbfe991",
+      "canonical_url": "https://elevenlabs.io/blog/what-is-ai-transcription",
+      "source_url": "https://elevenlabs.io/blog/rss.xml",
+      "source_fetch_url": "https://elevenlabs.io/blog/rss.xml",
+      "source_platform": "web",
+      "source_domain": "elevenlabs.io",
+      "source_name": "ElevenLabs",
+      "source_file": "ai_apps_infra_vc_extra.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "What is AI transcription: The complete guide",
+      "subtitle": "",
+      "author": "ElevenLabs",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "ElevenLabs",
+      "language": "unknown",
+      "published_at": "Thu, 26 Nov 2026 12:00:00 GMT",
+      "captured_at": "2026-11-27T16:30:35.640Z",
+      "captured_issue": "2026-11-28",
+      "summary": "Learn what is AI transcription and how it works, which features to look for, and how teams use it for meetings and support. Plus legal and privacy basics.",
+      "excerpt": "Learn what is AI transcription and how it works, which features to look for, and how teams use it for meetings and support. Plus legal and privacy basics.",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "voice_ai",
+        "audio"
+      ],
+      "entities": [
+        "ElevenLabs"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://elevenlabs.io/blog/what-is-ai-transcription",
+        "https://elevenlabs.io/blog/rss.xml",
+        "https://elevenlabs.io",
+        "https://elevenlabs.io/blog",
+        "https://x.com/elevenlabsio"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 45,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 62,
+      "total_score": 59,
+      "rank": 1105,
+      "cluster_id": "elevenlabs_io_e112a0d6",
+      "dedupe_key": "856e9a31f2feb68d",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：What is AI transcription: The complete guide 来自 ElevenLabs 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-28",
+      "last_seen_issue": "2026-11-28",
+      "used_in_issue": "2026-11-28"
+    }
+  ],
+  "hot_rank": [
+    {
+      "id": "cand_2f202abe6920b7ce",
+      "canonical_url": "https://huggingface.co/blog/video-trainium3",
+      "source_url": "https://huggingface.co/blog/feed.xml",
+      "source_fetch_url": "https://huggingface.co/blog/feed.xml",
+      "source_platform": "web",
+      "source_domain": "huggingface.co",
+      "source_name": "Hugging Face",
+      "source_file": "external_sources.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "subtitle": "",
+      "author": "Hugging Face",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "Hugging Face",
+      "language": "unknown",
+      "published_at": "Fri, 27 Nov 2026 00:00:00 GMT",
+      "captured_at": "2026-11-27T16:30:42.597Z",
+      "captured_issue": "2026-11-28",
+      "summary": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5 是 Hugging Face 当日抓取到的公开新增条目。",
+      "excerpt": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5 是 Hugging Face 当日抓取到的公开新增条目。",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "open_source",
+        "papers",
+        "models"
+      ],
+      "entities": [
+        "Hugging Face"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://huggingface.co/blog/video-trainium3",
+        "https://huggingface.co/blog/feed.xml",
+        "https://huggingface.co",
+        "https://huggingface.co/blog",
+        "https://x.com/huggingface"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 100,
+      "information_density_score": 54,
+      "originality_score": 38,
+      "trend_score": 45,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 62,
+      "total_score": 63,
+      "rank": 653,
+      "cluster_id": "huggingface_co_fa3c7b35",
+      "dedupe_key": "c40ac2794c4465c8",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：Taking Trainium3 to the Track: Generating Videos with LTX-2.5 来自 Hugging Face 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-28",
+      "last_seen_issue": "2026-11-28",
+      "used_in_issue": "2026-11-28"
+    },
+    {
+      "id": "cand_5541f3e0fbbfe991",
+      "canonical_url": "https://elevenlabs.io/blog/what-is-ai-transcription",
+      "source_url": "https://elevenlabs.io/blog/rss.xml",
+      "source_fetch_url": "https://elevenlabs.io/blog/rss.xml",
+      "source_platform": "web",
+      "source_domain": "elevenlabs.io",
+      "source_name": "ElevenLabs",
+      "source_file": "ai_apps_infra_vc_extra.yaml",
+      "source_mode": "live_fetch",
+      "content_type": "company_blog",
+      "title": "What is AI transcription: The complete guide",
+      "subtitle": "",
+      "author": "ElevenLabs",
+      "author_handle": "",
+      "author_role": "",
+      "organization": "ElevenLabs",
+      "language": "unknown",
+      "published_at": "Thu, 26 Nov 2026 12:00:00 GMT",
+      "captured_at": "2026-11-27T16:30:35.640Z",
+      "captured_issue": "2026-11-28",
+      "summary": "Learn what is AI transcription and how it works, which features to look for, and how teams use it for meetings and support. Plus legal and privacy basics.",
+      "excerpt": "Learn what is AI transcription and how it works, which features to look for, and how teams use it for meetings and support. Plus legal and privacy basics.",
+      "raw_text_available": false,
+      "topics": [
+        "AI Signal"
+      ],
+      "tags": [
+        "voice_ai",
+        "audio"
+      ],
+      "entities": [
+        "ElevenLabs"
+      ],
+      "mentioned_companies": [],
+      "mentioned_people": [],
+      "mentioned_products": [],
+      "mentioned_papers": [],
+      "mentioned_repos": [],
+      "evidence_links": [
+        "https://elevenlabs.io/blog/what-is-ai-transcription",
+        "https://elevenlabs.io/blog/rss.xml",
+        "https://elevenlabs.io",
+        "https://elevenlabs.io/blog",
+        "https://x.com/elevenlabsio"
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "bookmarks": 0,
+        "views": 0,
+        "comments": 0,
+        "stars": 0,
+        "score": 0
+      },
+      "source_score": 95,
+      "information_density_score": 42,
+      "originality_score": 38,
+      "trend_score": 45,
+      "evidence_score": 93,
+      "heat_score": 40,
+      "site_fit_score": 62,
+      "total_score": 59,
+      "rank": 1105,
+      "cluster_id": "elevenlabs_io_e112a0d6",
+      "dedupe_key": "856e9a31f2feb68d",
+      "status": "selected",
+      "reason_selected": "当日新抓取且未展示过：What is AI transcription: The complete guide 来自 ElevenLabs 的公开抓取入口，证据链保留原始链接与抓取来源。",
+      "reason_rejected": "",
+      "fetch_status": "ok",
+      "fetch_error": "",
+      "first_seen_issue": "2026-11-28",
+      "last_seen_issue": "2026-11-28",
+      "used_in_issue": "2026-11-28"
+    }
+  ],
+  "clusters": [
+    {
+      "cluster_id": "huggingface_co_fa3c7b35",
+      "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "summary": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5 是 Hugging Face 当日抓取到的公开新增条目。",
+      "primary_source": "https://huggingface.co/blog/video-trainium3",
+      "supporting_sources": [
+        "https://huggingface.co/blog/video-trainium3",
+        "https://huggingface.co/blog/feed.xml",
+        "https://huggingface.co",
+        "https://huggingface.co/blog",
+        "https://x.com/huggingface"
+      ],
+      "related_x_posts": [
+        "https://x.com/huggingface"
+      ],
+      "related_articles": [
+        "https://huggingface.co/blog/video-trainium3",
+        "https://huggingface.co/blog/feed.xml",
+        "https://huggingface.co",
+        "https://huggingface.co/blog"
+      ],
+      "entities": [
+        "Hugging Face"
+      ],
+      "tags": [
+        "open_source",
+        "papers",
+        "models"
+      ],
+      "score": 63,
+      "selected_item_id": "cand_2f202abe6920b7ce"
+    },
+    {
+      "cluster_id": "elevenlabs_io_e112a0d6",
+      "title": "What is AI transcription: The complete guide",
+      "summary": "Learn what is AI transcription and how it works, which features to look for, and how teams use it for meetings and support. Plus legal and privacy basics.",
+      "primary_source": "https://elevenlabs.io/blog/what-is-ai-transcription",
+      "supporting_sources": [
+        "https://elevenlabs.io/blog/what-is-ai-transcription",
+        "https://elevenlabs.io/blog/rss.xml",
+        "https://elevenlabs.io",
+        "https://elevenlabs.io/blog",
+        "https://x.com/elevenlabsio"
+      ],
+      "related_x_posts": [
+        "https://x.com/elevenlabsio"
+      ],
+      "related_articles": [
+        "https://elevenlabs.io/blog/what-is-ai-transcription",
+        "https://elevenlabs.io/blog/rss.xml",
+        "https://elevenlabs.io",
+        "https://elevenlabs.io/blog"
+      ],
+      "entities": [
+        "ElevenLabs"
+      ],
+      "tags": [
+        "voice_ai",
+        "audio"
+      ],
+      "score": 59,
+      "selected_item_id": "cand_5541f3e0fbbfe991"
+    }
+  ],
+  "sources": [
+    "huggingface.co",
+    "elevenlabs.io"
+  ]
+}

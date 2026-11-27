@@ -33096,5 +33096,25 @@
     "cluster_id": "arxiv_org_864f2a7c",
     "used_as": "selected",
     "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_2f202abe6920b7ce",
+    "canonical_url": "https://huggingface.co/blog/video-trainium3",
+    "dedupe_key": "c40ac2794c4465c8",
+    "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+    "issue_date": "2026-11-28",
+    "cluster_id": "huggingface_co_fa3c7b35",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
+  },
+  {
+    "item_id": "cand_5541f3e0fbbfe991",
+    "canonical_url": "https://elevenlabs.io/blog/what-is-ai-transcription",
+    "dedupe_key": "856e9a31f2feb68d",
+    "title": "What is AI transcription: The complete guide",
+    "issue_date": "2026-11-28",
+    "cluster_id": "elevenlabs_io_e112a0d6",
+    "used_as": "selected",
+    "source_mode": "live_fetch"
   }
 ]
